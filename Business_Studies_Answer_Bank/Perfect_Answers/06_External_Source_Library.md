@@ -500,6 +500,103 @@ A nuance to rule 6d. This bank holds two verified **6/6** scripts that take **on
 
 **Once the chains are complete, extra material adds no marks and costs time.** This is the same principle as the listing cap, arriving from the other direction — and it matters most on a 12-marker, where the time you overspend on AO3 is exactly the time you needed for AO4.
 
+## 25. "JUST USING THE SCENARIO WILL NOT GAIN A MARK" — the sharpest form of the name rule
+
+Nov 2023 P2 Q1(d):
+
+> *"candidates gave a valid reason… but did not put it in context of Kraft Heinz and therefore did not gain the mark. **Also, just using the scenario in the response will not gain a mark as Kraft Heinz is in the question.**"*
+
+**A candidate who writes *"Kraft Heinz should…"* has put the scenario in the response and still scores zero**, because *"Kraft Heinz is in the question"*.
+
+> **The test: is your contextual word already printed on the question paper?** If yes, it is not application. Pick something from the case study that the question itself did not mention.
+
+**Eighth confirmation.** Three State questions on the Nov 2023 P2 paper were failed by **~90%** of candidates for this one reason.
+
+---
+
+## 26. Accurate knowledge earns NOTHING where there is no knowledge mark
+
+Nov 2023 P2 Q3(b), a **2-mark Outline** (AO2 — Application):
+
+> *"A number of candidates described what robotics was, **this is knowledge and therefore did not gain them any marks, even though the description was accurate.**"*
+
+The examiner concedes the description was correct and awards it zero. **Eight independent confirmations** now, spanning 1, 2, 3, 6 and 9-mark questions.
+
+---
+
+## 27. Definitions need PURPOSE, and need the WHOLE concept
+
+Two failures from Nov 2023 P2:
+
+> Q1(c) define **trade bloc**: *"a group of countries, **which is correct**, but does not include **why they join together**."* → less than a quarter of the cohort got the mark.
+>
+> Q3(a) define **public limited company**: *"candidates must be clear and give a **full** definition of the term… Most mentioned that **public bought shares**."* → nearly three quarters failed.
+
+> **The complete definition formula: [what it is] + [what it does / why it exists].** One feature is not a definition.
+
+---
+
+## 28. The RELEVANCE rule — true is not the same as relevant
+
+Nov 2023 P2 Q2(d): *"A number of candidates referred to **shareholders would not be happy** which is **not relevant to using retained profit**."*
+
+"Shareholders would not be happy" belongs to **share capital**. It is a true business statement attached to the wrong topic.
+
+> **A point earns nothing if it belongs to a different concept than the one asked about — however true it is.**
+
+---
+
+## 29. The DIRECTION-OF-BENEFIT drill
+
+Nov 2023 P2 named the beneficiary misread twice in one paper, in opposite directions:
+
+| Question | What candidates did | What was asked |
+|---|---|---|
+| Q3(d) reducing waste | *"referred to how **customers** could reduce their waste"* | benefits to **Kraft Heinz** |
+| Q4(b) | *"gave benefits to **Kraft Heinz** of being located in a particular country"* | benefits to **the country** |
+
+> **Before writing any "benefits of" answer, write the beneficiary in the margin.** On this paper that single habit was worth a whole Level on two questions.
+
+---
+
+## 30. Calculations — the answer line, and the asymmetric decimal rule
+
+Nov 2023 P2 Q1(e), complete:
+
+> *"if the question asks for two decimal places and their response has **three** decimal places they will **not gain all the marks** available"* — and *"marks will **not be given** for a response that only gives **one** decimal place."*
+
+> *"**there is a line at the bottom of the box for their response.** This makes it clearer and easier for the examiner… some candidates had their answer within their workings, **which was not always easily identified**."*
+
+**Seventh d.p. confirmation, and the first stating the one-decimal failure outright.**
+
+> **Two decimal places means two — not three, not one.** And write the answer **on the line**, not inside the working.
+
+**Also (Nov 2023 P2, administrative):** MCQ — draw an **X** in the box, not a tick. Write **inside** the lines. If you continue elsewhere, write **"continued" / "contd page ___" / "see separate sheet"** — *"Examiners are unable to guess."*
+
+---
+
+## 31. The 12-marker is 80% Level 2 — and the reason is always the same two things
+
+Nov 2023 P2 Q4(c), the cohort distribution:
+
+> *"A variety of valid comments were made by candidates — different methods attract different types of people. **However, they then failed to develop these points and justify their decisions** to enable them to gain the higher level marks. **Nearly four fifths of the cohort gained a Level 2 mark and just over a tenth of the cohort gaining a Level 3 mark.**"*
+
+**Not a knowledge failure.** An entire cohort had the points and could not convert them — because it did not **develop** them and did not **justify** a decision. Plus: *"A number of candidates only completed a few lines."*
+
+> **Time budget: 1 minute per mark.** The 12-marker is 15% of the paper and needs **~12–14 minutes**. A conclusion written in the last 90 seconds is a Level 2 conclusion.
+
+---
+
+## 32. Answer the SPECIFIC question, not the general topic
+
+Nov 2023 P2 Q1(g) — *analyse the benefits of using social media **to collect market research data***:
+
+> *"a large number of candidates gave very detailed response of the benefits of using social media **but not in the context of collecting market research data**… **Some candidates repeated the information from the stem which is also not worthy of a mark.** Just 15% of the cohort gained a Level 3 mark."*
+
+> **The precision drill:** underline (a) the **business**, (b) the **action**, (c) the **purpose**. Every chain must serve all three. If a sentence would still be true for a business not doing that specific thing, it is off-question.
+>
+> **And the case study is evidence to build on, not to copy.** Repeating the stem earns nothing.
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -582,13 +679,14 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Examiner reports harvested** | **10** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, **Nov 2021 P1**, Nov 2024 P1 |
+| **Examiner reports harvested** | **11** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, Nov 2021 P1, **Nov 2023 P2**, Nov 2024 P1 |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
 | **Official rulebook** | Pearson's assessment support page, captured in full at `00_Pearson_Official_Rulebook.md` |
+| **Official exam scope** | Getting Started Guide — what each topic does and does **not** require — at `07_Official_Exam_Scope.md` |
 | **Verified exemplar responses** | **100+**, spanning 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 12 marks, plus extensive calibration |
 | Remaining | **5** 4BS1 examiner reports |
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** Nov 2023 P2 (Kraft Heinz) → Nov 2020 P1/P2/P1R → Summer 2019 P2R → then the two documents the Nov 2021 report names (the **specification page 31** command words, and the **Getting Started guide page 7** AO-allocation table).
+**Next batch, in priority order:** Nov 2020 P1/P2/P1R → Summer 2019 P2R → then **recovering the command word taxonomy** (guide pages 31-33 / specification page 31), which sits beyond the 30-page parse limit and must be recovered by targeted search row by row.
