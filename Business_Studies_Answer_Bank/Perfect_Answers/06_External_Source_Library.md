@@ -41,9 +41,25 @@ Pearson publishes similar-looking materials for **two different qualifications**
 | [`2024-06_P2_TUI.md`](External_Exemplars/2024-06_P2_TUI.md) | Jun 2024 P2 | **TUI** | **3/3 ×3** + 7/9, 4/9, and a 3/3 vs 0-mark pair |
 | [`2023-06_P1R_Aude_Rose.md`](External_Exemplars/2023-06_P1R_Aude_Rose.md) | Jun 2023 P1R | **Aude Rose** (florist) | **9/9 ×2, 6/6, 2/2** + the 9-mark rule |
 | [`2023-06_P2_IKEA.md`](External_Exemplars/2023-06_P2_IKEA.md) | Jun 2023 P2 | **IKEA** | **3/3 ×4, 3/6** + 0/6 and State-question data |
+| [`2022-06_P1_TBTS.md`](External_Exemplars/2022-06_P1_TBTS.md) | Jun 2022 P1 | **TBTS** (toy shops, Singapore) | **9/9 ×2, 6/6 ×2, 3/3 ×2, 2/2, 1/1** + the "final three words" breakdown |
 | [`2024-11_P1_Paper_Advice.md`](External_Exemplars/2024-11_P1_Paper_Advice.md) | Nov 2024 P1 | Saha (robots) | Paper-summary advice only |
 
 > Transcriptions are faithful to the candidate's handwriting, including spelling and punctuation errors, because a grade-9 answer does **not** require perfect English. Insertions for legibility are in `[square brackets]`.
+
+---
+
+## ⚠️ Operational note — a real limitation of this harvest
+
+The fetch route parses **PDFs only up to 30 pages**. Some Pearson PEF reports are longer, and the **12-mark evaluate sits at the end of the paper**, so on those reports the 12/12 exemplar falls beyond the limit and cannot be retrieved this way.
+
+| Report | 12-mark retrievable? |
+|---|---|
+| Jun 2024 P1, P1R, P2 | ✅ yes |
+| Jun 2023 P2 | ✅ yes (held from the archive excerpt) |
+| Jun 2023 P1R | ✅ yes |
+| **Jun 2022 P1** | ❌ **no** — examiner's summary confirms a 12/12 exists (*"balanced argument with a clear evaluation. 12 marks."*) but the script is past page 30 |
+
+**Workarounds, in order of reliability:** (1) a shorter mirror of the same report; (2) the archive's own excerpt files, where held; (3) accepting the examiner's summary line without the script. Not yet applied — recorded here so it is not mistaken for a complete record.
 
 ---
 
@@ -150,6 +166,33 @@ Stated outright by the examiner on June 2024 P1R Q3(b):
 
 **This is the most reliably repeatable mark loss on the paper.** Write to the stated decimal places, and always show working — it converts a wrong answer from 0 marks into 1.
 
+## 6b. When to STOP on a 3-marker
+
+> *"This particular candidate has explained this benefit with **more than two links of reasoning so has wasted some time when there are only 3 marks available.**"* — Jun 2022 P1 Q2(c), on a response that scored **3/3**
+
+Every other report tells candidates to write more. This one tells a full-mark candidate to write **less**. Both rules coexist:
+
+| Tariff | Structure | Stop rule |
+|---|---|---|
+| **3 marks** | identify (1) + **exactly two** developments (2) | then **stop** — further links earn nothing |
+| **6 / 9 / 12 marks** | keep chaining | depth is what earns the levels |
+
+## 6c. The third mark on a 3-marker is the business consequence
+
+From Jun 2022 P1 Q2(d) — the most precise mark-by-mark breakdown in the bank:
+
+> *"This candidate correctly identifies **find a new supplier who will sell materials cheaper**… then successfully explained this method by stating **'…means reduced cost of production…' gaining a second mark** and gaining the final mark for **'…more gain from profit, as revenue increases.'** **If the candidate omitted the final three words then this response would've gained just two marks.**"*
+
+**Deleting three words would have cost a mark.** The structure is therefore:
+
+```
+IDENTIFY the point  (1)
+   → explain HOW it helps  (1)
+      → what it does to the business's MONEY / OUTCOME  (1)
+```
+
+Confirmed independently by Jun 2023 P2 Q1(f): the 2/3 response stopped at *"helps the business save a bit of money"*; the 3/3 carried on to *"higher value and more profit"*.
+
 ## 7. Time, relevance and balance
 
 > *"Not to spend time repeating the questions – this is not necessary and simply wastes time."* — June 2022 P1R paper summary
@@ -224,10 +267,10 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Harvested** | **6** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Nov 2024 P1 |
-| **Verified exemplars extracted** | **40+** spanning 1, 2, 3, 6, 7, 9 and 12 marks, plus calibration |
-| Remaining | **9** 4BS1 reports + the full Paper 2 booklet |
+| **Harvested** | **7** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1, Nov 2024 P1 |
+| **Verified exemplars extracted** | **55+** spanning 1, 2, 3, 6, 7, 9 and 12 marks, plus calibration |
+| Remaining | **8** 4BS1 reports + the full Paper 2 booklet |
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** June 2022 P1 (TBTS), June 2022 P1R (Can Culleretes), June 2022 P2R (Cadbury), Nov 2023 P2 (Kraft Heinz) — then Nov 2021, Nov 2020 ×3, Summer 2019, then the full Paper 2 booklet.
+**Next batch, in priority order:** June 2022 P1R (Can Culleretes), June 2022 P2R (Cadbury), Nov 2023 P2 (Kraft Heinz), Nov 2021 P1 (Artify Studios) — then Nov 2020 ×3, Summer 2019, and the full Paper 2 booklet.
