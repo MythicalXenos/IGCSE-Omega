@@ -2,6 +2,20 @@
 
 Created 2026-10-12 from the Paperlords searchable archive and official Pearson materials.
 
+## ⭐ Perfect Answers bank
+
+`Perfect_Answers/` is the benchmark library of verified top-band answers for this subject — real student scripts reproduced by Pearson with the awarded mark printed alongside, plus the examiner's reasoning for every mark given and lost.
+
+Start here:
+
+- **`Perfect_Answers/01_Mark_Tariff_Playbook.md`** — the rules for every tariff (1/2/3/6/9/12), with AO splits, level bands and literal opening sentences.
+- **`Perfect_Answers/02_Verified_Exemplars.md`** — the verified full-mark scripts, transcribed in full. Includes a **3/3**, **6/6** (×3), **9/9** and the archive's only **12/12**.
+- **`Perfect_Answers/03_Calibration_Below_Full_Marks.md`** — near-miss scripts with the examiner's stated reason for every mark lost.
+- **`Perfect_Answers/04_Type_Coverage_and_Gaps.md`** — the complete 696-item taxonomy and an honest statement of coverage limits.
+- **`Perfect_Answers/Exemplar_Scans/`** — the genuine candidate scripts as page images.
+
+Every answer in that folder is labelled `[VERIFIED CANDIDATE EXEMPLAR]` (official, score confirmed) or `[CONSTRUCTED GRADE 9 TARGET]` (engineered from the mark scheme, not official). No constructed answer is ever described as official.
+
 ## Deliverables
 
 - `4BS1_Exemplar_and_Model_Answer_Guide.docx` — main reader-friendly guide: mark-format map, first-sentence starters, official student scripts/marker comments, and constructed full-credit targets where no full-mark script was located.
