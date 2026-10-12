@@ -184,7 +184,126 @@
 
 ---
 
+# Q3(d) — Analyse the advantages of using viral advertising (6)
+
+**❌ 2 marks** — *"This candidate demonstrates two viable advantages that show some development. **However, the answer is not contextualised at all.** Total: **2 marks**"*
+
+**✅ 6 marks** — *"This candidate shows they understand what viral marketing is and makes appropriate advantages **centred around cost and the increased reach of using social media platforms**. **Context is present throughout the answer** and the candidate discusses links to **Spud Bros growth plans, the nature of their business and their specific social media platforms used**. Total: **6 marks**"*
+
+**Commentary:** *"This was an 'analyse' question, which required candidates to analyse the advantages for Spud Bros of using viral advertising. The Assessment Objectives being assessed for this command word were **AO2 and AO3**… **Examiners are not looking for candidates to have a specific number of linked strands** within their response: responses are marked holistically and then placed within the most suitable level. Some candidates did not demonstrate an understanding of viral advertising when discussing advantages."*
+
+### ⚠️ Examiner Tip — verbatim
+> *"**Use the scenario, as well as the stem of the question, to reduce repetition of context.**"*
+
+> ### ⭐ THE 2→6 GAP IS CONTEXT AND NOTHING ELSE
+> Both answers found **two viable advantages with development**. The 2-mark answer had **no context at all** — so it could not access a single AO2 mark. The 6-mark answer drew on **three different context routes in one answer**: growth plans · the nature of the business · the specific platforms used.
+> **The tip is the technique: the scenario AND the stem. Stem-only context ("Spud Bros") repeated five times earns nothing.**
+
+---
+
+# Q3(e) — the second 9-mark Justify, with both marked scripts
+
+*Spud Bros offers a range of toppings. The owners plan to carry out market research to gather customer feedback on new toppings. **Option 1: use questionnaires to collect customer views · Option 2: offer free samples of new toppings and ask customers for their opinions.** Justify which **one** of these two options the owners should choose to collect feedback from customers.* **(9)**
+
+## ❌ `[VERIFIED CANDIDATE EXEMPLAR]` — **3/9** — the full script
+
+> All, Spud Bros should choose questionnaires. This is because it is a **faster and cheaper way to collect data**. However, offering samples will give a **more direct answer based on actual customer experience**.
+
+**Examiner comment — verbatim:**
+> *"This candidate aims to discuss both methods of research. The option of free samples to obtain feedback illustrates references to the method, which helps to provide **some rewardable analysis**. **There is limited application throughout.** Total: **3 marks**"*
+
+> ### 🔬 3 marks for a complete, tidy, balanced-looking answer
+> It names an advantage of Option 1, names an advantage of Option 2, and even uses the word *"However"*. It scores **3/9**.
+> **Why:** *"limited application"* — the words *questionnaires*, *data*, *samples* are **the generic method names from the question**. Nothing in it could only be true of Spud Bros. **It is a template, not an answer.**
+> ⚠️ **And notice the trap: "discuss both methods" is not rewarded here.** The candidate spread two thin points across two options and got the worst of both. **Choose one and go deep** — this is the fifth confirmation of the one-option rule, in negative form.
+
+## ⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **8/9** — the full script
+
+> **Market research refers to the presentation, analysis of information ~~supplied~~ about marketing and the consumption of goods and services.**
+>
+> Spud Bros choosing option 2 ~~we~~ **may be an efficient decision** because **offering free samples to customers and asking their opinion will give them accurate results** because ~~an~~ customers are able to **experience the taste and tell exactly how they feel about it**. This helps Spud Bros **work out how many liked the different toppings such as cheese, ~~chilli~~ tomatoes or chilli**. As a result, Spud Bros can **launch the topping that had the most rating and increase customer satisfaction**. This means, **sales revenue will increase improving profit**.
+>
+> Furthermore, they can also **identify which toppings had the most amount** free samples toppings were taken by customers that helps them **measure if toppings would be sold or less profitable**. As a result, Spud Bros can make decisions to improve their toppings and **offer the most demand one leading to more sales**.
+>
+> **However**, offering ~~several~~ samples can be **costly** because they will have to served in more quantity. This means, Spud Bros has to buy ingredients for these toppings and **expense will be high**. As a result, **Spud Bros profit will be lowered** leading to less ~~investment~~ improvements in the menu.
+>
+> **To conclude**, option 2 allows Spud Bros to identify which toppings will be demanded the most and get customers real accurate opinion because they had a taste test. **But it depends on how much they have spent in these expenditure sample. But if managed well option 2 would help spud bros launch the customer preferred toppings.**
+
+**Examiner comment — verbatim:**
+> *"This response shows **strong analysis, application and evaluation**. This candidate shows detailed understanding of how free samples could help Spud Bros obtain appropriate feedback regarding new toppings. They have **included context throughout their response with logical chains of reasoning** and **make an appropriate balancing point that is re-addressed in their conclusion**. Total: **8 marks**"*
+
+> ### 🔬 THIS IS THE MOST INSTRUCTIVE 8 IN THE BANK — because it does everything the bank teaches
+> | Criterion | Verdict |
+> |---|---|
+> | Context throughout | ✅ *"cheese, tomatoes or chilli"* · *"launch the topping"* · *"had a taste test"* · *"the menu"* |
+> | Logical chains | ✅ four full chains, each ending on an outcome |
+> | Balance | ✅ *"However, offering samples can be costly… expense will be high… profit will be lowered"* |
+> | Conclusion that **re-addresses** the balancing point | ✅ *"if managed well option 2 would help…"* |
+> | **An explicit "it depends"** | ✅ **the actual phrase** — *"**But it depends on** how much they have spent…"* |
+> | **Mark** | **8/9 — NOT 9** |
+>
+> ### ⚠️ SO THE LESSON IS NOT "USE THE PHRASE"
+> An answer with context, balance, chains **and the literal words "it depends"** still scored **8**.
+> **AO4 at the top is a quality of judgement, not a checklist of moves.** This does not contradict the ladder (rule 75) — it *completes* it: **the moves are necessary and none is sufficient.**
+> **Practical reading:** aiming for 9 means the judgement must be the *reasoned resolution of a real tension in this business* — not a hedge sentence bolted onto the end.
+
+## ⭐⭐⭐ HOW AO4 IS ACTUALLY AWARDED — verbatim, from the June 2026 report
+
+> *"Candidates may access **AO4 marks by offering drawbacks to the same option for which they have given the advantages.** AO4 may also be provided by offering **direct contrasting points between the options**."*
+
+**Two routes. That is the whole of AO4.** Either:
+1. **Advantage → drawback of the SAME option** (what the 8/9 above does: free samples give accurate feedback **/ but** samples are costly), or
+2. **Direct contrast between the two options.**
+
+> ⭐ **This is the single most useful sentence in the report for the 9- and 12-mark questions.** Candidates who write only advantages have written no AO4 at all, no matter how long the answer — which is exactly why the 6/12 benefits-only Evaluate and this paper's 3/9 both stop where they do.
+
+**Q3(e) commentary:** *"In order to demonstrate appropriate analytical and evaluative insight, an understanding of the options was necessary. Some candidates used **generic analysis that could apply to multiple methods of market research**; **marks could only be given when knowledge of the research type was clear.**"*
+
+---
+
+# Q4(a) — Calculate the total costs **(2)**
+
+**❌ 1 mark** — *"Because the final answer is incorrect, examiners are instructed to look through the working out to see if a mark can be allocated for working out. This candidate has **calculated the total variable costs correctly**. Total: **1 mark**"*
+
+**✅ 2 marks** — *"This response has calculated the total costs for the business in 2025 correctly. Total: **2 marks**"*
+
+**Examiner tip — verbatim:** *"**Show your working, as demonstrated here.**"*
+
+→ **The answer-line rule in action again:** wrong final answer → examiner reads the workings → **1 mark rescued.** Right answer on the line → **2.** ⚠️ Note the full-mark comment this time praises the *working* — because the working is what the marker sees on the line for a 2-mark calculation.
+
+---
+
+# Q4(b) — Analyse the benefits of growth for the owners of Spud Bros **(6)**
+
+**❌ 3 marks** — *"This response shows a level of understanding of growth and the benefits are **developed logically**. The candidate **references the information from the stem of the question** to illustrate some context. Total: **3 marks**"*
+
+**✅ 5 marks** — *"This candidate analyses the benefits of growth **comprehensively**. The application is **centred around the expansion plans and products they sell, baked potatoes**. Total: **5 marks**"*
+
+**Commentary:** *"The final 'analyse' question on the paper required candidates to analyse the benefits of growth for the owners… AO2 and AO3… **Examiners are not looking for candidates to have a specific number of linked strands**… responses are marked holistically."*
+
+> ### ⭐ "References the information from the stem" = the ceiling of a 3
+> **Stem facts repeated back are the weakest form of context.** To reach the top of the band you need the *products, the plans, the market* — in the examiner's words, application *"centred around the expansion plans and products they sell, baked potatoes."*
+
+---
+
 ## Harvest status
+
+| Item | State |
+|---|---|
+| Report text layer (all 48pp) | ✅ **read in full** — every `Total: N marks` verdict captured |
+| **Q1(b) · Q1(c) · Q1(d)** | ✅ 0/1 vs 1/1 pairs (secondary sector · e-commerce · State with/without context) |
+| **Q2(e)** | ✅ 3/3 — the productivity Explain |
+| **Q2(f) 9-mark Justify** | ✅ **verified 8/9, full transcript** (conclusion repeats) |
+| **Q3(d) 6-mark Analyse** | ✅ 2/6 vs **6/6** + the scenario-and-stem tip |
+| **Q3(e) 9-mark Justify** | ✅ **verified 3/9 and 8/9, full transcripts** + the **two AO4 routes** |
+| **Q4(a) Calculate** | ✅ 1/2 vs 2/2 |
+| **Q4(b) 6-mark Analyse** | ✅ 3/6 vs 5/6 |
+| **Q4(c) 12-mark Evaluate** | ✅ **verified 11/12 and 6/12, full transcripts** |
+| Q1(e) · Q1(f) · Q1(g) | ⏳ pages mapped (pp. 7, 9, 11); not yet rendered |
+| Q2(a)–(d) · Q3(a)–(c) | ⏳ pages mapped (pp. 13–15, 17, 24–26) |
+
+**Seven of the paper's twenty questions now carry a verified marked script — and every question from Q3(d) onward is complete.** The remaining pages are the short-answer questions, whose verdicts are all in the text layer already.
+
 
 | Item | State |
 |---|---|

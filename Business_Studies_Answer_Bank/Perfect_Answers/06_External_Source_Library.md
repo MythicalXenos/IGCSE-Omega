@@ -1394,6 +1394,41 @@ The bank previously recorded that **2026 examiner reports are locked until ~Augu
 
 ---
 
+## 79. ⭐⭐⭐ HOW AO4 IS AWARDED — two routes, stated outright (June 2026)
+
+> *"Candidates may access **AO4 marks by offering drawbacks to the same option for which they have given the advantages.** AO4 may also be provided by offering **direct contrasting points between the options**."* — June 2026 P1R, printed beside the Q3(e) Justify
+
+**Route 1:** advantage → **drawback of the SAME option**.
+**Route 2:** **direct contrast between the two options.**
+
+> ### 🎯 WHY THIS MATTERS MORE THAN ANY TECHNIQUE
+> An answer that lists only advantages has written **no AO4 at all**, however long it is. This is the mechanism behind the whole pattern the bank has recorded — the 6/12 benefits-only Evaluate, the 3/9 and the 5/6 above, and the June 2025 CCT answer that scored 0 for answering *concerns* with *benefits*.
+> **A 9- or 12-mark answer's shape is decided before it is written: advantage, then the drawback of that same thing.**
+
+---
+
+## 80. ⭐ THE "IT DEPENDS" PHRASE IS NOT ENOUGH — an 8/9 that used it
+
+A June 2026 P1R Justify answer contains **context throughout**, four full chains, a genuine balance paragraph, a conclusion that **re-addresses** the balancing point, **and the literal words** *"But it depends on how much they have spent…"* — and scored **8/9**.
+
+> **Comment:** *"strong analysis, application and evaluation… make an appropriate balancing point that is re-addressed in their conclusion. Total: 8 marks"*
+
+⭐ **Reconciliation with rule 75 (the AO4 ladder), not a contradiction.** The ladder describes what is *missing* at each mark; this shows the moves are **necessary but not sufficient**.
+> **Aiming for 9 means the judgement must resolve a real tension in this specific business — not hedge a sentence onto the end.**
+
+---
+
+## 81. ⭐ "GENERIC ANALYSIS" — the examiner's own name for context-free answers
+
+Recurring across June 2026: *"Some candidates used **generic analysis that could apply to multiple sources of finance**"* (Q2(f)) · *"**generic analysis that could apply to multiple methods of market research**; marks could only be given when knowledge of the research type was clear"* (Q3(e)).
+And the matching tip: *"**Use the scenario, as well as the stem of the question, to reduce repetition of context.**"*
+
+> ### 🔬 THE TEST THAT FOLLOWS
+> **Could this sentence be written about a different business, a different option, or a different method?** If yes, it is generic analysis and it earns nothing.
+> ⚠️ **And "stem context" is the weak form.** June 2026: an Analyse answer that *"references the information from the stem of the question"* got **3/6**; the 5/6 was *"centred around the expansion plans and products they sell, baked potatoes."*
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1476,7 +1511,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **11 confirmed** — **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
+| **Reports with MARKED SCRIPTS** | **11 confirmed** — (June 2026 P1R now carries **seven** verified scripts across one paper)  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
