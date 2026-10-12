@@ -1429,6 +1429,92 @@ And the matching tip: *"**Use the scenario, as well as the stem of the question,
 
 ---
 
+## 82. 🏆🏆 THE 12/12 — ANATOMY, AND THE TWO THINGS NOBODY EXPECTS
+
+**May/June 2023 P1 Q4(c), Irsi Chocolatier** — *"Evaluate the impact of Irsi Chocolatier using financial methods of motivation on its employees."* Full transcript in `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`.
+
+> *"This is a strong response and indicative of a level 3 response… been able to **bring in their own business knowledge** to support their response. There is **good context throughout** the response as well as a **balanced argument with a clear evaluation**."*
+
+**It is ≈330 words. Two and a half paragraphs. No bullet points.**
+
+> ### ⭐⭐ FINDING 1: THERE IS NO "IN CONCLUSION" — AND IT STILL SCORES 12
+> The answer's final paragraph is the evaluative one: *"the effectiveness of using financial methods of motivation **could be limited because it depends on factors such as nature of employee**…"* **It decides and it ends. There is no summary paragraph.**
+> **A separate conclusion paragraph is not required at 12 marks. Deciding is.**
+>
+> ### ⭐⭐ FINDING 2: THE "IT DEPENDS" THAT WORKS NAMES ITS CONDITION
+> This candidate writes *"it depends on factors such as **nature of employee**"* — **a named factor** — and then supports it with knowledge the case study never mentions: *job rotation*, *job enrichment*, *"given more responsibilities and trust."*
+> **Compare the 8/9 that used the same three words as a hedge** (*"it depends on how much they have spent"*, rule 80): no named factor, no supporting knowledge. **The phrase is worth nothing. The condition is worth everything.**
+>
+> ### The AO4 in this 12/12 — both official routes, in one answer
+> | Route | The sentence |
+> |---|---|
+> | **Drawback of the same option** | *"**However** disadvantage of rewarding bonuses based on piece rate is that it could **compromise quality of products and lead to higher defects / spoiled chocolates**"* |
+> | **Conditional judgement** | *"the effectiveness … **could be limited because it depends on** factors such as nature of employee"* |
+>
+> **Both found in 300 words.** Length is not the constraint.
+
+---
+
+## 83. ⭐⭐ 10/12 IS "LIMITED JUDGEMENTS" — and nothing else
+
+Two separate 2023 papers produced a 10/12, and both examiners describe the same shape.
+
+**P2 (IKEA) Q4(c):** *"A well developed response to the question, showing **sound knowledge, application of knowledge and analysis with limited judgements**."*
+**P2R (M&M) Q4(c):** *"A **well developed** answer and indicative of a **Level 3** response."*
+
+> ### 🔬 SO WHAT IS THE TWO-MARK GAP?
+> **It is not knowledge, not application, not analysis.** Both answers have all three — the examiner says so.
+> **It is the judgement.** AO4 is the only place two marks can be lost once the other three AOs are secure.
+>
+> ⚠️ **And both 10/12 conclusions summarise the argument rather than adding to it:**
+> *"In conclusion if M&M takes their customer opinions and looks into other factors and sometimes uses the cashflow forecast they will be able to increase in sales…"*
+> **That is the identical fault as the June 2026 8/9 Justify** (rule 75). **The ceiling is the summary-paragraph conclusion, wherever it appears.**
+
+---
+
+## 84. 🚨 BULLET POINTS DISQUALIFY THE TOP LEVELS — now confirmed three times
+
+> *"**Some candidates have used bullet points or numbered items, this will not allow them to gain the higher levels.**"* — May 2023 **P2**
+> *"Some candidates are using **bullet points or a numbering format which will not allow them to gain the higher levels**."* — May 2023 **P2R**
+> (and the June 2025 rule to the same effect)
+
+**Standard, not advice. Any level-marked answer written as a list is capped.** Use continuous prose — *"Prose, never bullets"* is now sourced from 2023 and 2025.
+
+---
+
+## 85. ⭐ THE FOUR-POINT "HOW TO IMPROVE" DIAGNOSIS — a 4/12 dissected
+
+**May 2023 P1R Q4(c)** — *"Evaluate the usefulness of financial documents to help Aude Rose when deciding to open a second shop."* → **4 marks, top of Level 1.**
+> *"…**can take them to the top of level 1 but not enough to move into level 2. To add to this response we would like to see** how else the cash flow forecast could be used in decision making, **some application directly to Aude Rose** would also be needed. Where the candidate is making reference to profit we would have liked to have seen them referring back to the **Statement of comprehensive income**… And to conclude, this candidate could have **referred back to the question to summarise if they felt that financial documents were useful** when deciding to open a second shop **or if other factors should be taken into account as well**."*
+
+| Gap | Fix |
+|---|---|
+| One use given | **how else** it could be used |
+| No application | apply **directly** to the business |
+| Wrong document | name the **right** one — profit → statement of comprehensive income, **not** cash flow |
+| No answer | the conclusion must **answer the question** |
+
+> ⭐⭐ **THE LAST POINT IS A ROUTE TO THE TOP BAND.** *"…or if other factors should be taken into account as well."* **Pearson is stating outright that arguing against the premise is a valid way to reach Level 3.** You are not obliged to agree with the question.
+
+---
+
+## 86. ⭐⭐⭐ THE FIVE STANDING RULES, CONFIRMED IN PEARSON'S OWN PAPER SUMMARIES (2023)
+
+Verbatim, from the closing *Paper Summary* page of three of the four 2023 reports:
+
+> *Not to spend time **repeating the questions** – this is not necessary and simply wastes time* · *Avoid **repeating the question in the first line** of their response*
+> *'**Justify**' questions **do not need to consider both options**, but evaluative comments on both options is acceptable*
+> *'**State**' and '**Outline**' questions **must have context** in order to gain the full available marks* · *Include information from the **scenario**, but not information from the question*
+> *'**Explain**' questions **require no context** but a full explanation of the point being made*
+> ***Aim to develop your responses using linking words, such as 'thus', 'therefore', 'because'** to expand the comments made*
+> *Remember that **all questions are marked to the Assessment Objectives (AO's)** that each question is designed to test*
+> *Understand what the **formulas mean as opposed to just working them out*** (P1R)
+
+> ### ⚠️ RECONCILE WITH RULE 63 *("CONNECTIVES ARE NOT ANALYSIS")*
+> Both are true. **A linking word signposts a chain you have actually built. A connective with nothing to connect adds nothing.** Pearson's advice assumes the chain is there; rule 63 catches candidates who write *"therefore"* and stop.
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1511,7 +1597,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **11 confirmed** — (June 2026 P1R now carries **seven** verified scripts across one paper)  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
+| **Reports with MARKED SCRIPTS** | **15 confirmed** — **all four May 2023 reports** (P1 12/12 · P2 10/12 · P2R 10/12 · P1R 4/12) · **June 2026 P1R** (seven scripts) · June 2025 P1, P1R, P2, P2R  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
@@ -1523,7 +1609,8 @@ These are the highest-value targets in the project: the newest papers, filling g
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
 **Next batch, in priority order:**
-1. 🎯 **NEXT — render the remaining June 2026 P1R script pages** (pp. 7, 9, 11, 13, 14, 15, 17, 24, 25, 26, **29**, **32**, 37, 39). **Q3(e) (pp. 32–36) is the second 9-mark Justify and Q3(d) (p29) is an Analyse — those two first.**
+1. 🎯 **NEXT — May 2023 remaining script pages.** P1, P1R, P2 and P2R now all have their Q4(c) 12-marker captured; the Q1–Q3 scripts are mapped and unrendered. Highest value: **P2 Q3(e) and Q4(b) (IKEA)** and **P1R Q2(f) (Aude Rose)** — the two Justify questions the 2023 reports discuss at length.
+2. **Then** June 2026 P1R (pp. 7, 9, 11, 13, 14, 15, 17, 24, 25, 26, **29**, **32**, 37, 39). **Q3(e) (pp. 32–36) is the second 9-mark Justify and Q3(d) (p29) is an Analyse — those two first.**
 2. **Chunks 2–3 of all four June 2025 reports** — chunk 1 is now read for P1, P1R, P2 and P2R. The remaining 12-mark Evaluate exemplars sit in the final pages.
 3. **Fold the recovered response text into** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md` and `2022-06_P1R_Can_Culleretes.md` — all three were harvested before it was known these reports print scripts, so their files hold examiner comments but not the scripts. **The text is recovered; do not re-fetch.**
 4. **June 2024 P2R** (`4bs1-02r-pef-20240822.pdf`) and the remaining June 2022 series reports — each to be opened and checked for marked scripts (rule 48).

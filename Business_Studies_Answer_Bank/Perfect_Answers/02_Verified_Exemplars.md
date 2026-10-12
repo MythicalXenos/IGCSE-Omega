@@ -735,6 +735,35 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 
 ---
 
+## 🏆🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — a second **12/12** — and it has NO conclusion (May 2023)
+
+**Irsi Chocolatier Q4(c)** — *"Evaluate the impact of Irsi Chocolatier using financial methods of motivation on its employees."* **(12)** Full transcript in `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`.
+
+**Examiner comment — verbatim:**
+> *"This is a **strong response and indicative of a level 3 response**… been able to **bring in their own business knowledge** to support their response. There is **good context throughout** the response as well as a **balanced argument with a clear evaluation**."*
+
+### 🔬 ≈330 words · two and a half paragraphs · no bullets · **and no "In conclusion"**
+
+| Move | The script |
+|---|---|
+| **AO1** | bonuses · promotion · commission · piece rate |
+| **AO2** | *"the older three loyal employees"* · *"chocolates and fruit jelly"* · *"sold to consumers"* |
+| **AO3** | piece rate → output ↑ → productivity ↑ → sales ↑ · promotion → *"higher salary, more responsibility and freedom"* |
+| **AO4 route 1** | *"**However** disadvantage of rewarding bonuses based on piece rate is that it could **compromise quality of products and lead to higher defects / spoiled chocolates**"* — drawback of the **same** option |
+| **AO4 route 2** | *"the effectiveness … **could be limited because it depends on** factors such as **nature of employee**"* — then supports it with **job rotation** and **job enrichment**, content the case study never mentions |
+
+> ### ⭐⭐ TWO FINDINGS
+> **1. The 12/12 has no conclusion paragraph.** Its last paragraph *decides* — *"the effectiveness could be limited because…"* — and stops. **A separate summary paragraph is not required at 12 marks. Deciding is.**
+> **2. The "it depends" that works names its condition.** *"nature of employee"* is a **named factor**, backed by knowledge from outside the case. Compare the **8/9** that wrote *"it depends on how much they have spent"* and got 8: **no named factor, no supporting knowledge. The phrase is worth nothing; the condition is worth everything.**
+
+### ⚠️ And the two 10/12s from the same session — the gap is one word
+> **P2 (IKEA):** *"A well developed response… showing **sound knowledge, application of knowledge and analysis with limited judgements**."*
+> **P2R (M&M):** *"A **well developed** answer and indicative of a **Level 3** response."*
+>
+> **Both have AO1, AO2 and AO3 — the examiner says so. Both are docked only on judgement.** And both conclude by **summarising their own argument** — the identical fault as the June 2026 8/9 Justify. **AO4 is the only place two marks can go missing once the other three are secure.**
+
+---
+
 # 12 MARKS — EVALUATE
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 12/12
