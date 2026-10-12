@@ -51,6 +51,7 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 | File | Use |
 |---|---|
 | **`00_Pearson_Official_Rulebook.md`** | ⭐ **START HERE.** Pearson's own published marking guidance for 4BS1, by command word. The awarding body stating how its papers are marked. Where anything else disagrees with this, **this wins**. |
+| **`External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md`** | ⭐ **17 real candidate responses with the official mark scheme, awarded mark and examiner commentary** — June 2019 Paper 2/2R. The highest-quality source in the bank. |
 | **`By_Paper/`** | **Every question in every paper.** 38 files, one per question paper, containing all **977 items** with the official mark scheme answer for each. Start here when working a specific paper. |
 | `01_Mark_Tariff_Playbook.md` | The rules. AO splits, level bands and the structural recipe for every tariff — with literal opening sentences. **Read before writing anything.** |
 | `02_Verified_Exemplars.md` | The verified full-mark scripts, transcribed in full, with examiner commentary. This is the benchmark. |

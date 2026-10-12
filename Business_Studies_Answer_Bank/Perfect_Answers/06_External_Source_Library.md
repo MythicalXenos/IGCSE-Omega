@@ -245,6 +245,165 @@ DO:          Factor A → consequence → which in turn affects Factor B → con
 
 # SOURCE CATALOGUE
 
+## 8. The LISTING CAP — one mark, however many points you list
+
+Now confirmed **at mark-scheme level**, which removes any doubt. The official mark scheme for the June 2019 Paper 2 exemplar booklet says, in terms, for two different questions:
+
+> *"**Answers that list three impacts with no explanation will get a maximum of 1 mark.**"* (Q1(f))
+> *"**Answers that list three reasons with no explanation will get a maximum of 1 mark.**"* (Q2(d))
+
+**This is not a guideline. It is the mark scheme.** Three undeveloped points score exactly the same as one undeveloped point.
+
+Third independent confirmation, from the Nov 2021 P1 ER — *"Candidates who list more than one way of measuring business success can only gain one mark."*
+
+**The rule:** on an Explain question, **one point developed twice beats three points listed**. Every time.
+
+---
+
+## 9. No marks for a definition on an 'Explain' question
+
+Official mark scheme, June 2019 P2 Q2(d), verbatim:
+
+> *"**NB No marks are awarded for a definition.**"*
+
+A surprising number of candidates open an Explain answer with *"Job production is when…"* or *"Kaizen is the continuous improvement of…"*. It earns **zero**, and it consumes the time you needed.
+
+**Now confirmed twice more in the same booklet from the candidate side.** Kaizen response B opened *"Kaizen is the continuous improvement of goods"* — a **correct** definition — and the examiner recorded it as a defect: *"Unfortunately there were no knowledge marks available for this question."*
+
+> **Rule: on an Explain question, start with the reason. Never with the definition.**
+
+---
+
+## 10. Correct, relevant knowledge can still earn NOTHING
+
+The sharpest example in the whole bank, from June 2019 P2 Q3(e) (9-mark Justify):
+
+> *"Candidates should be aware that there are no knowledge marks allocated for this type of question and therefore **comments about how the research is collected, or that secondary research could be outdated, cannot be awarded marks**."*
+
+**"Secondary research can be out of date" is true, standard, textbook, and worth zero marks here.** Same for describing how a method works.
+
+**The test is not whether the point is correct. It is whether the point attaches to *this* business's situation.**
+
+| Point | Marks? | Why |
+|---|---|---|
+| "secondary research could be outdated" | ✗ | true of every business — no application |
+| "secondary research is collected from other manufacturers' reports, so it may not reflect what Tata's Indian customers want" | ✓ | applied to Tata |
+
+---
+
+## 11. LENGTH IS NOT MARKS — the 400-word finding
+
+Two candidates answered the same 12-mark evaluate (June 2019 P2 Q4(c)):
+
+| | Response A | Response B |
+|---|---|---|
+| Length | **~400 words** | **~110 words** |
+| Factors raised | 17+ | 4 |
+| **Mark** | **8/12** | **7/12** |
+
+**Four times the length bought one mark**, because response B wrote an actual judgement and response A wrote none.
+
+Examiner, on the 400-word answer: *"The response demonstrates numerous knowledge and application points but often these are not developed or evaluated sufficiently to achieve a higher level… **However, the response does not evaluate the comments sufficiently to move it into Level 3.**"* Level 3 begins at 9/12. **300 of those 400 words replaced evaluation the candidate never attempted.**
+
+This is the quantified form of Pearson's own tip: *"Too often, candidates write far too much for AO3 and leave insufficient space for a sound judgement."*
+
+---
+
+## 12. A conclusion must DECIDE and RANK — introducing new factors is a hedge, not a judgement
+
+The 7/12 response wrote a conclusion containing *"But the success of them depends on…"*. The structure was right. **It still scored 7/12**, because:
+
+> *"In conclusion, the right choice of can factories location could help Tata Motor Company to reduce it costs, save the time on to find new partners. But the success of them depends on **how many available land** for the big factories there are and **how the locals would react** on it."*
+
+Both conditions are factors that appear **nowhere else in the answer**. The examiner did not mention them at all.
+
+**A conclusion that hands the judgement to factors you have not analysed reads as evasion.** Three requirements:
+
+1. **Decide** — *should*, *most important*, *the key factor*
+2. **Rank** — say which factor outweighs which, and why
+3. **Look backwards** — rest on factors already analysed, never new ones
+
+**Compare the official AO4 content**, which is a ranking of the discussed material: *"Infrastructure is **one of many factors** affecting the choice of location and other factors **may be more important**."*
+
+---
+
+## 13. Apply to the SUBJECT the question names, not the obvious business
+
+June 2019 P2R Q1(g) asked *"Analyse why **Yellow** might encourage **its clothing manufacturers** to use Kaizen."*
+
+> *"Many of the responses that were seen for this question answered from the perspective of the business that manufactures the clothes and then gave the many benefits of Kaizen. **The question asked why Yellow might encourage its clothing manufacturers to use Kaizen, so therefore the response should be in the context of Yellow and not the manufacturer.**"*
+
+**A whole cohort applied to the wrong business.** The consequences must land on whoever the question makes the subject: Yellow's reputation, Yellow's sales, Yellow's returns.
+
+---
+
+## 14. Data questions — name a NUMBER from the figure
+
+June 2019 P2 Q3(d) asked *"Analyse how Tata Motor Company could use the financial information in **Figure 2**."*
+
+| | Response A | Response B |
+|---|---|---|
+| Chains | 1 | 3 |
+| Facts named from Figure 2 | **1** (*"grew the most between 2013 and 2015"*) | **0** |
+| Mark | **3/6** | **2/6** |
+
+Examiner on response A: *"This response **actually refers to information in Figure 2, which a number of responses did not do**. If the response had used **more** information from Figure 2, it could have moved into the top level."*
+
+**Three elegant generic chains lost to one chain that named a fact.** The figure *is* the application.
+
+---
+
+## 15. AO4 is written in the mark scheme as a CONCESSION
+
+Look at every AO4 item in the official June 2019 P2 mark schemes:
+
+> *"**Although** this type of pricing method guarantees a profit on the cost of manufacturer it does not guarantee that sales are going to be made"* (Q2(f))
+> *"**Even though** the sales may be higher, the profit per vehicle will be lower."* (Q2(f))
+> *"**although** gaining this information is important for Tata Motor Company it is very costly in time and man power."* (Q3(e))
+> *"**By** locating near a skilled labour force, the cost of land/infrastructure **may be higher**"* (Q4(c))
+
+**Every single one is "yes, but…".** Pearson writes evaluation as a concession followed by the downside. If your conclusion approves your own choice unconditionally, you are not writing AO4.
+
+---
+
+## 16. 5/6 on an Analyse is one link short — finish at the business outcome
+
+Every 5/6 in the June 2019 exemplar booklet was 5/6 for the **same** reason: the chain stopped one step before a business outcome.
+
+| Script | Examiner's missing link |
+|---|---|
+| Q1(g) P2 response A, 5/6 | *"could have **developed** the [second] comment further to move the response into the top of Level 3"* |
+| Q1(g) P2R response A, 5/6 | *"could have included something with regard to how a benefit… might be **improved customer satisfaction, which could increase sales**"* |
+| Q2R response B, 4/6 | *"could have developed the comments made about customers **returning to Yellow to purchase more products** and telling their friends and family"* |
+
+**The missing final link is almost always sales, profit or reputation.** Finish the sentence there.
+
+---
+
+## 17. A fluent, chained answer with NO case-study fact is bottom-of-Level-2
+
+June 2019 P2 Q1(g) response B, verbatim:
+
+> *"Good public relations is extremely important for Tata Motor Company as it could increase their amount of customers. This is because customers will feel more comfortable and attracted towards Tata Motor Company, which will increase their chance of shopping there. This will create more revenue for Tata as more customers will create more sales."*
+
+Well written. Three linked steps. Names the business twice. **Scored 3/6 — bottom of Level 2.**
+
+**Not one case-study fact.** The examiner states the fix outright: *"If candidates had referred back to the scenario at the front of the paper, it may have helped them… The details about working in the community, and building schools and houses, are all to do with the public."*
+
+> **Self-check for any 6-mark Analyse: count the case-study facts you have used. If the answer is zero, you are at the bottom of Level 2 no matter how well you write.**
+
+---
+
+## Checklist — the seven ways to lose marks that recur in EVERY report
+
+1. Naming the business instead of using a case-study fact (four routes to context)
+2. Listing points instead of chaining them (the listing cap)
+3. Defining the term on an Explain question (no marks for definitions)
+4. Writing correct generic knowledge on an Analyse/Justify question (no AO1 marks)
+5. Chains that never reach a business outcome
+6. A conclusion that hedges or introduces new factors instead of deciding and ranking
+7. On a data question, reasoning about the figure instead of naming a number from it
+
 ## ✅ Harvested
 
 | Report | URL stem (prefix `qualifications.pearson.com/content/dam/pdf/`) |
@@ -317,11 +476,12 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Harvested** | **9 reports** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, Nov 2024 P1 |
-| **Plus** | **Pearson's official assessment support page** — captured in full at `00_Pearson_Official_Rulebook.md` |
-| **Verified exemplars extracted** | **75+** spanning 1, 2, 3, 6, 7, 9 marks, plus extensive calibration |
-| Remaining | **6** 4BS1 reports + the full Paper 2 booklet |
+| **Examiner reports harvested** | **10** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, **Nov 2021 P1**, Nov 2024 P1 |
+| **Official exemplar booklets harvested** | **2** — the **June 2019 Paper 2/2R booklet** (17 responses, complete), and the **Paper 1/1R booklet** (7 full-mark scripts, transcribed earlier) |
+| **Official rulebook** | Pearson's assessment support page, captured in full at `00_Pearson_Official_Rulebook.md` |
+| **Verified exemplar responses** | **90+**, spanning 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 and 12 marks, plus extensive calibration |
+| Remaining | **5** 4BS1 examiner reports |
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** Nov 2023 P2 (Kraft Heinz), Nov 2021 P1 (Artify Studios), Nov 2020 P1/P2/P1R, Summer 2019 P2R — then the full Paper 2 exemplar booklet.
+**Next batch, in priority order:** Nov 2023 P2 (Kraft Heinz) → Nov 2020 P1/P2/P1R → Summer 2019 P2R → then the two documents the Nov 2021 report names (the **specification page 31** command words, and the **Getting Started guide page 7** AO-allocation table).
