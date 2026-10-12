@@ -676,6 +676,65 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ---
 
+## 🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — **8/9 — the conclusion that merely repeats** (June 2026)
+
+**Spud Bros Q2(f)** — venture capital vs crowdfunding. A clean Level 3 answer: definition, two advantages, one disadvantage, all contextualised (*"renovating the van"*, *"gofundme"*, *"baked potato recipes"*, *"loss of potential new markets"*).
+
+**Examiner comment — verbatim:**
+> *"This candidate **chooses to look at one option, which is acceptable**… There is a **judgement made that repeats the financial implication that was argued previously in the answer**. Total: **8 marks**"*
+
+**And the tip printed with it:**
+> *"**Candidates should avoid only repeating their previous arguments in their conclusion.**"*
+
+### ⭐⭐⭐ THE AO4 LADDER — FOUR VERDICTS, ONE INSIGHT
+
+| Mark | Session | The examiner's exact complaint |
+|---|---|---|
+| **7/9** | 2025 P2 Starbucks | *"**fails to provide a sound judgment**"* — no judgement at all |
+| **8/9** | 2025 P1R CCT | could add *"the **'it depends' rule**"* — no new dimension |
+| **8/9** | **2026 P1R Spud Bros** | *"a judgement… that **repeats the financial implication argued previously**"* — recycled |
+| **9/9** | 2025 P2R Rabanne | ✅ *"a reasonable judgement"* + *"**the success of this depends on** how much employees get to voice their own concerns"* |
+
+> ### **A conclusion earns marks only if it contains something that is not already on the page.**
+> Three ways to satisfy that:
+> 1. **Weigh** — *"Although it causes a huge cost… the increase in sales may over the cost in long term."*
+> 2. **Condition** — *"The success of this depends on…"*
+> 3. **Decide** — name the choice and the one decisive reason.
+>
+> **Restating your own three paragraphs in a summary sentence is a conclusion-shaped space where a judgement should be.**
+
+---
+
+## 🏆🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — **11/12 — the best 12-mark model in the bank** (June 2026)
+
+**Spud Bros Q4(c)** — *"Evaluate the extent to which social objectives may contribute to the success of Spud Bros."* **(12)** Full transcript in `External_Exemplars/2026-06_P1R_SpudBros.md`.
+
+**Examiner comment — verbatim:**
+> *"This response shows that the candidate understands how social objectives have contributed to the success of Spud Bros. **They offer balance in their argument with appropriate levels of context throughout the response.** Total: **11 marks**"*
+
+### 🔬 The four moves, in order
+| AO | The script |
+|---|---|
+| **AO1** | Opens with the definition: *"Social objectives are aims to improve human or environmental well-being"* |
+| **AO2** | Every paragraph anchored: *free baked potatoes to the poor* · *Friday free meals* · *TikTok/Instagram* · *"other potato businesses"* · *Red Cross* · *expanding globally* |
+| **AO3** | Chains ending on business outcomes. One runs **six links**: charity → posted online → recipients comment → good reputation → *"recognise Spud Bros from other potato businesses"* → competitiveness → sales |
+| **AO4** | A real *"However"* paragraph (cost · worker workload → demotivation) and a conclusion that **concedes then outweighs** |
+
+### ⭐ Note what it does NOT do
+1. **No "it depends" formula.** It outweighs explicitly — *"Although it causes a huge cost… the increase in sales… may over the cost in long term."* **Outweighing earns AO4; the phrase does not.**
+2. **No bullets, no headings.** Continuous prose.
+
+### ⚠️ And the 6/12 printed beside it — the Level 2 ceiling
+A benefits-only answer, contextualised, with clean chains (*"customers want to spend more → increase in sales → increase in profit"*) and a conclusion that restates — **6 marks**, because **there is not one drawback on the page**.
+> **6/12 shares the chains with 11/12. What it lacks is the second half of the argument.**
+
+### ⭐ THE LEVEL 3 TEST, verbatim from the report
+> *"Those candidates who accessed Level 3 considered the importance of social objectives, **provided balance in the context of** Spud Bros and the impact they have on the business. Then they **linked their points together in a logical order** and were able to **conclude their answer with a well-balanced and justified argument**."*
+
+**Three requirements: balance · logical linking · a justified conclusion. Nothing about length. Nothing about the number of points.**
+
+---
+
 # 12 MARKS — EVALUATE
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 12/12

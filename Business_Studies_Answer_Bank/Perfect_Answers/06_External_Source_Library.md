@@ -1326,6 +1326,74 @@ June 2022 P2 (LEGO) Q1(g) — two marked answers on the *benefits of being a mul
 
 ---
 
+## 75. ⭐⭐⭐ THE AO4 LADDER — four verdicts from three sessions, one rule
+
+| Mark | Session & paper | The examiner's exact words |
+|---|---|---|
+| **7/9** | June 2025 P2 (Starbucks) | *"**fails to provide a sound judgment** to provide a clear justification based on a thorough evaluation"* |
+| **8/9** | June 2025 P1R (CCT) | *"To achieve higher AO4 marks, it could incorporate something more complex, like the **'it depends' rule**"* |
+| **8/9** | June 2026 P1R (Spud Bros) | *"There is a judgement made that **repeats the financial implication that was argued previously in the answer**"* |
+| **9/9** | June 2025 P2R (Rabanne) | *"a **reasonable judgement** about their final choice"* + *"**the success of this depends on** how much employees get to voice their own concerns"* |
+
+> ### 🎯 **A conclusion earns marks only if it contains something that is NOT already on the page.**
+> Three valid moves, all evidenced above:
+> 1. **Weigh it** — *"Although it causes a huge cost… the increase in sales may over the cost in long term."* (the 11/12)
+> 2. **Condition it** — *"The success of this depends on…"* (the 9/9)
+> 3. **Decide it** — name the choice and the one decisive reason.
+>
+> **The failure mode is not "no conclusion". It is a conclusion that summarises your own three paragraphs back at the examiner.** Two of the four verdicts above are that exact fault.
+
+---
+
+## 76. ⭐⭐ THE 12-MARK LEVEL 3 REQUIREMENTS — named in order by the examiner
+
+June 2026 P1R Q4(c), verbatim:
+> *"Centres are reminded that this is the **only levels-based question in the paper that is equally weighted across all four assessment objectives**… Candidates at **Level 1** made some attempt at the question and were able to make **basic statements about social objectives, often with very little or no context**. Those candidates who accessed **Level 3** considered the importance of social objectives, **provided balance in the context of the business** and the impact they have on the business. Then they **linked their points together in a logical order** and were able to **conclude their answer with a well-balanced and justified argument**."*
+
+**Three requirements: balance · logical linking · a justified conclusion.** Note what is absent: length, number of points, terminology.
+
+> **And the Level 2 ceiling is *balance*, not knowledge.** A June 2026 answer with a definition, contextualised chains (*"customers want to spend more → increase in sales → increase in profit"*) and a conclusion **scored 6/12 — because it had no drawback anywhere.** Full transcript in `External_Exemplars/2026-06_P1R_SpudBros.md`.
+
+---
+
+## 77. 🚨 "JUNE 2026 IS LOCKED" WAS WRONG — the examiner reports are already circulating
+
+The bank previously recorded that **2026 examiner reports are locked until ~August 2027**. **False.** The complete *Summer 2026 International GCSE Business 4BS1 01R* examiners' report — 48 pages, marked scripts and all — was sitting in the local archive.
+
+> ### ⭐ THE LESSON: CHECK THE ARCHIVE BEFORE BELIEVING A LOCK DATE
+> Locking applies to a **download page**, not to the report's existence. **Assume nothing is unavailable until the file has been opened.**
+
+### ⭐⭐ AND THE BIGGER FINDING: FOUR COMPLETE MAY 2023 REPORTS IN THE LOCAL ARCHIVE
+| File | Pages | Marked scripts |
+|---|---|---|
+| `4BS1_Business_Studies_May_2023_P1_ER.pdf` | 40 | ✅ unharvested |
+| `4BS1_Business_Studies_May_2023_P1R_ER.pdf` | 37 | ✅ unharvested |
+| `4BS1_Business_Studies_May_2023_P2_ER.pdf` | 61 | partly harvested (IKEA 10/12) |
+| `4BS1_Business_Studies_May_2023_P2R_ER.pdf` | 49 | ✅ unharvested |
+| `4BS1_Business_Studies_June_2026_P1R_ER.pdf` | 48 | ✅ harvested June 2026 |
+
+**These are full reports, not the web excerpts** — and they are local, so re-fetching is never needed.
+
+> ### 🔧 TECHNIQUE — how to read these PDFs (works for every ER in the archive)
+> 1. **Text layer = examiner commentary only.** `pypdf` gives you every comment, every tip, every `Total: N marks` statement, and the `Question X(y)` page map — thousands of usable words with no rendering at all. **Read this first.**
+> 2. **Candidate scripts = images.** They do not appear in the text layer. To get a script you must **render the page and read it visually**:
+>    `python3 -c "import fitz; d=fitz.open(PDF); d[p-1].get_pixmap(dpi=200).save(OUT)"`
+> 3. **Find the page map first** so you only render what matters — grep the text for `Question \d\([a-z]\)` and record the page number.
+> 4. **The `Total: N marks` line is always in the text layer**, even when the script is an image. So the **verdict is free; only the script costs rendering.**
+
+---
+
+## 78. ⭐ THE WORD-COLLISION CLUSTER — two more, both from June 2026
+
+| Term in the question | How candidates read it | Report |
+|---|---|---|
+| **secondary** sector | secondary **market research** | **June 2026 P1R** · June 2024 P1R |
+| **e-commerce** | digital **communication** | **June 2026 P1R** |
+
+**Full cluster now 15 entries** (rule 74 plus these two). Both June 2026 collisions cost a **1-mark Define**, and the report's remedy is the same: *"Centres are reminded that any area of the specification can appear in the paper."*
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1408,7 +1476,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **10 confirmed** — **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
+| **Reports with MARKED SCRIPTS** | **11 confirmed** — **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
@@ -1420,7 +1488,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
 **Next batch, in priority order:**
-1. ✅ **DONE — June 2025 Paper 1 (Four Fitness) harvested.**
+1. 🎯 **NEXT — render the remaining June 2026 P1R script pages** (pp. 7, 9, 11, 13, 14, 15, 17, 24, 25, 26, **29**, **32**, 37, 39). **Q3(e) (pp. 32–36) is the second 9-mark Justify and Q3(d) (p29) is an Analyse — those two first.**
 2. **Chunks 2–3 of all four June 2025 reports** — chunk 1 is now read for P1, P1R, P2 and P2R. The remaining 12-mark Evaluate exemplars sit in the final pages.
 3. **Fold the recovered response text into** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md` and `2022-06_P1R_Can_Culleretes.md` — all three were harvested before it was known these reports print scripts, so their files hold examiner comments but not the scripts. **The text is recovered; do not re-fetch.**
 4. **June 2024 P2R** (`4bs1-02r-pef-20240822.pdf`) and the remaining June 2022 series reports — each to be opened and checked for marked scripts (rule 48).
