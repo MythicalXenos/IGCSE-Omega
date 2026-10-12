@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+
+# ---------------------------------------------------------------------------
+# Oversized source archive — intentionally NOT committed
+# ---------------------------------------------------------------------------
+# Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip is 112,136,376 bytes
+# (~106.9 MiB), which exceeds GitHub's hard per-file limit of 100 MiB.
+#
+# This file is fully reconstructible, so nothing is lost:
+#   sha256 : dd7019de06bc4f9b81a3641062bd93d2d10b27edb32ac4070c838c33fa3cea6b
+#   source : bundle_part_aa + bundle_part_ab (tracked in this repo)
+#   unpack : `cat bundle_part_aa bundle_part_ab > master.zip && unzip master.zip`
+#
+# All 220 archive entries (217 PDFs + manifest.csv, recovery_notes.csv,
+# README.txt) are extracted into Paperlords_Archive/IGCSE/ and
+# Paperlords_Archive/RECOVERED_ALTERNATIVES/ and ARE tracked normally.
+Paperlords_Archive/Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip
+
+# Intermediate extraction scratch
+/tmp/
+*.part
