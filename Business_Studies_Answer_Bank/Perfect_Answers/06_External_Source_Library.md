@@ -1069,6 +1069,78 @@ The Specification's **Contents** page resolves the page-number confusion:
 
 ---
 
+## 59. 🚨 THE ANSWER-LINE RULE — the d.p. requirement, at full strength
+
+> *"**Centres should be aware that examiners are advised to take the answer provided by candidates on the final answer line** therefore if the final answer is not to 2 decimal places the candidates **will not gain access to the full marks even if the answer to 2 decimal places is in the working out. The answer provided by a candidate on the answer line is viewed as their final response to the question so that is what is marked.**"* (June 2024 P1R)
+
+**This is stricter than anything recorded before.** Workings are insurance **for the method mark only**. The number written on the final line **is** the answer.
+
+> **So the sequence is: work it out → round it as the question demands → write it ON THE LINE.** The `.80` on the line is worth more than the `.80` in the working.
+
+---
+
+## 60. ⭐ THE FOUR CONTEXT ROUTES — Pearson's official list
+
+> *"**The name of the business does not provide context.** Candidates can choose to: **name the products / services the business offers**, **name competitors in the same industry**, or **state the industry the business operates in**… to provide a contextualised response."* (June 2024 P1R Q3(b))
+
+| Route | Café Pinch | Cadbury | LEGO |
+|---|---|---|---|
+| **1. Products / services** | *"filled Ciabattas"*, *"breads and teas"* | *"chocolate cake"*, *"chocolate packaging"* | *"Harry Potter Legos"*, *"pineapple pencil holders"* |
+| **2. A competitor** | *"other Café shops in Berlin"* | *"competitors like Lindt or Royce"* | *"other rivals in the toy market"* |
+| **3. The industry** | *"the Café industry"* | *"the chocolate market"* | *"the toy market"* |
+| **4. The type of business** | *"its café in Berlin"*, *"a small trader"* | *"a chocolate producing firm"* | *"a toy manufacturer"* |
+
+**The test Pearson supplies:** *"check if their response is **generic and can be applied to any business** — or have they included phrases that link it directly to the given scenario?"*
+
+> **On a regional paper (01R / 02R) the LOCATION is free context** — *"its café in Berlin"*, *"compared to other cafés in surrounding areas"*.
+
+---
+
+## 61. ⭐ WATCH FOR: the testable version of "the name rule" across three papers
+
+The same rule, stated three different ways, all with a worked alternative:
+
+| Report | Statement | The examiner's suggested replacement |
+|---|---|---|
+| June 2022 P2R (Cadbury) | *"Just putting Cadbury in the response does not mean it is in context as Cadbury is in the question."* | *"**chocolate cake designers**"* |
+| June 2022 P2 (LEGO) | *"using the word LEGO is the response is not in context as it is in the question."* | *"profit from sales of **Princess Leia toy**"* |
+| June 2024 P1R (Café Pinch) | *"**The name of the business does not provide context.**"* | *"replaced the business name with the type of business e.g. **cafe**… or replaced the word products with **filled Ciabattas**"* |
+
+**Three papers, three examiners, one instruction: the business name is worth nothing. A product, competitor, industry or business type is worth the mark.**
+
+---
+
+## 62. ⭐ TWO DIFFERENT 3-MARK EXPLAIN TECHNIQUES
+
+> *"**Questions that ask to explain an advantage or disadvantage need a different technique to those that ask candidates to explain a method or way.**"* (June 2022 P2, LEGO)
+
+| Question asks for… | The three rungs | Example |
+|---|---|---|
+| **a method / a way** | name the method → how it works → **the business outcome** | *"job enrichment" → "employees feel trusted and valued" → "the business would be increasing its productivity"* |
+| **an advantage / a disadvantage** | name the effect → **why it arises** → **the consequence for the business** | *"customers might not be telling the truth" → "could cause a misunderstanding" → "creating a product people don't want"* |
+
+**Confusing the two is why candidates list methods on advantage questions and describe effects on method questions.**
+
+**And the AO formula as a one-liner, from the same report:** **Analyse = application + analysis. Justify = application + analysis + evaluation.**
+
+---
+
+## 63. ⭐ CONNECTIVES ARE NOT ANALYSIS
+
+June 2022 P2 (LEGO) Q1(g) — two marked answers on the *benefits of being a multinational*, **5 marks and 4 marks**.
+
+- The **4-mark** answer was **better structured and better informed**: two clean paragraphs, perfect *"This is because… Therefore… As a result… Hence…"* chains, named *"Harry Potter Legos"*, *"plastic"*, *"trade discount"*.
+- The **5-mark** answer was one rambling paragraph with almost no connectives — but kept returning to **business outcomes**: *"more profit"*, *"survive in the market for long time"*, *"increased consumer loyalty"*, *"Lego will be benefited"*.
+
+**Examiner on the 4-mark answer:** *"not further developed as to how being a multinational could further enhance the selling of toys"* · *"needed to **develop further the comments made and give interconnected points**."*
+
+> ### 🔴 The lesson
+> *"Therefore… as a result… hence"* chained together still count for nothing **if each link ends at a mechanism** (*"a cheaper price"*, *"a competitive edge"*) rather than **a business outcome**.
+>
+> **Rung check: does each chain end on the BUSINESS — profit, survival, loyalty, market position? If it ends on "cheaper price", keep going.**
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1151,6 +1223,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
+| **Reports with MARKED SCRIPTS** | **3 confirmed** — June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2024 P1R (Café Pinch) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
@@ -1161,4 +1234,13 @@ These are the highest-value targets in the project: the newest papers, filling g
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** the 4BS1 examiner-report set is complete back to the first sitting. The **Specification PDF** has now been read (AO weightings, the formulae appendix, the contents-page location of the taxonomy). **Outstanding, in order:** (1) `4bs1-02r-pef-20240822.pdf` — June 2024 P2R, indicated as a **full ER with marked scripts**, 51 pages; (2) the *"Examiners' Report: Int GCSE Business 2025"* — 71 pages, indicated in the same form, and **now unpadlocked since 1 August 2026**; (3) the remaining June 2022 series reports, each to be **opened and checked** for marked scripts (rule 48); (4) May/June 2025 examiner reports for all four papers, now open access; (5) the unread chunk 0 of `4bs1-01r-pef-20220825.pdf` and `4bs1-02r-pef-20220825.pdf`, and chunk 0 of `4bs1-01-pef-20240822.pdf` (Jun 2024 P1, PPS) and chunk 3 of `4bs1-01r-pef-20230824.pdf` (Jun 2023 P1R). **Note: June 2026 reports were published 25 August 2026 but are under 12-month restricted access until ~August 2027.**
+**Next batch, in priority order:**
+1. **UPGRADE NEEDED — three files hold examiner comments but not the candidate response text.** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md`, `2022-06_P1R_Can_Culleretes.md` were harvested before it was known these reports print scripts. **Re-fetch and recover the responses.**
+2. `4bs1-02-pef-20240822.pdf` (Jun 2024 P2, TUI) — confirmed to contain marked scripts; the same re-fetch fixes (1).
+3. The **May/June 2025** reports — **unpadlocked 1 August 2026**, therefore now open access; expect marked scripts.
+4. The **assessment support page's "extracts from the examiners' reports… as they relate to the different command verbs"** section — this is Pearson's own per-command-word guidance **and it lists which reports hold full-mark exemplars**. Re-read it in full.
+5. `4bs1-02r-pef-20240822.pdf` (Jun 2024 P2R) and the remaining June 2022 series reports.
+6. Unread chunks: `4bs1-01-pef-20240822.pdf` chunk 0 · `4bs1-01r-pef-20230824.pdf` chunk 3.
+7. **June 2026 reports were published 25 August 2026 but are restricted until ~August 2027.**
+
+**Mirror note:** the LEGO report was obtained from `papers.xtremepape.rs` when the Pearson path 404'd on the `International%20GCSE/.../4bs1-02-pef-20220825.pdf` spelling. **Xtreampapers mirrors tional examiner reports verbatim and is fetchable — use it as a fallback.**

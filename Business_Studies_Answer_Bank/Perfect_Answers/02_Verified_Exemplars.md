@@ -88,6 +88,18 @@ Transcriptions are faithful to the candidate's handwriting, including their spel
 > **The method is right. The arithmetic is right. The candidate wrote `.8` instead of `.80` and lost a mark.**
 >
 > *"Check the question carefully to see if one or two decimal places are required in the answer."*
+
+> ### 🚨 THE ANSWER-LINE RULE — the strictest version of the d.p. requirement
+>
+> **June 2024 P1R, examiner guidance (verbatim):**
+> > *"**Centres should be aware that examiners are advised to take the answer provided by candidates on the final answer line** therefore if the final answer is not to 2 decimal places the candidates **will not gain access to the full marks even if the answer to 2 decimal places is in the working out. The answer provided by a candidate on the answer line is viewed as their final response to the question so that is what is marked.**"*
+>
+> 🔴 **This overrides everything else about workings.** Workings are insurance *for the method mark only*. **The number on the final line is the answer, full stop.**
+>
+> **So: finish the calculation, then write the correctly-rounded figure ON THE LINE. Every time.**
+>
+> *"write their answer on the **dotted lines at the bottom of the box** so that the examiners are clear as to what their answer is"* (June 2022).
+
 >
 > **This is the first time the decimal-place rule is shown on an actual script rather than described.** It is now the bank's 10th recorded instance of the rule and the clearest of them all.
 
@@ -454,6 +466,89 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > **The examiner's own upgrade instruction: add MORE evaluative comments — and specifically ones about the BUSINESS, not about the employees.**
 >
 > ⭐ **Both answers are full of spelling errors and typos** (*"move tembility"*, *"cheaper prize"*, *"Clarge work-force"*) **and lost nothing for them.** Both lost marks on **structure and evaluation**, never on language.
+
+---
+
+## 🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — **9/9** — the model Justify answer, in full
+
+**June 2024 Paper 1R, Question 2(f)** — *Justify which option Café Pinch should choose.* (9)
+**Source:** *Examiners' Report, June 2024, 4BS1 01R*, Publications Code 4BS1_01R_2406_ER.
+
+**Option 1** = introducing a **vegan range**. **Option 2** = a **discount** on meals.
+
+### The full response
+
+> *"Option 1 would allow Cafe Pinch to cater to the needs of a wider range of customers in the Café industry, meaning that Pinch would attract more customers to its café in Berlin allowing it to sell more meals and increase its revenue and market share in Café market in Berlin, however, it would be costly for Cafe Pinch to introduce this vegetarian as it would need to spend money on recruiting and training new chefs as well as adding more seats for the new customers, this increase in costs might offset the benefits.*
+>
+> *On the other hand, Option 2 would allow Pinch to attract more customers, since customers would be encouraged to visit its Café shop and try its high quality meals at a lower cost, leading to an increase in its revenue as Cafe Pinch would sell more meals due to customers choosing its cheaper meals compared to other Café shops in Berlin however, this discount might mean that Cafe Pinch isn't making the most markup on meals it sells, meaning that Cafe Pinch would make less revenue than other cafés in surrounding areas, leading to Cafe Pinch losing revenue and market share in the Café market in Berlin.*
+>
+> *I believe that option 1 (introducing a vegan range) is the most suitable option for Café Pinch. This is because as Café Pinch would cater to the needs of a wider customer base in Berlin, it would be able to expand and increase its revenue by selling more meals and selling the vegan products, leading to an increase in its market share in the café markets."*
+
+**Examiner comment (verbatim):**
+> *"This response shows **what is expected from candidates in order to gain the full marks** for this type of 'justify' question. This candidate has chosen to look at both options which is acceptable. They have shown **detailed understanding** of both options, they have included **context throughout their response** with **logical chains of reasoning** and have made a **good judgement** about their choice with a **thorough evaluation**."*
+
+### 🔬 Anatomy — this is the template
+
+| Move | What the candidate did |
+|---|---|
+| **1. Option 1 — upside** | *"cater to the needs of a wider range of customers in the Café industry"* → *"attract more customers to its café in **Berlin**"* → *"sell more meals and increase its revenue and market share"* |
+| **2. Option 1 — downside** (the *"however"*) | *"costly… recruiting and training new chefs… adding more seats"* → *"this increase in costs **might offset the benefits**"* |
+| **3. Option 2 — upside** | *"high quality meals at a lower cost"* → *"increase in its revenue"* → *"customers choosing its cheaper meals **compared to other Café shops in Berlin**"* |
+| **4. Option 2 — downside** | *"isn't making the most markup"* → *"make less revenue than other cafés in surrounding areas"* → *"losing revenue and market share"* |
+| **5. DECISION** | *"**I believe that option 1 … is the most suitable option**"* |
+| **6. JUSTIFICATION** | *"**This is because** … it would be able to expand and increase its revenue … **leading to an increase in its market share**"* |
+
+> ### The four things that make it 9/9
+> 1. **Every chain ends on a business outcome** — revenue, market share, costs. Never on a mechanism.
+> 2. **Every chain carries context** — *"in Berlin"*, *"compared to other Café shops"*, *"in surrounding areas"*. **The competitor comparison is the route used most.**
+> 3. **Both options get both sides.** No option is strawmanned.
+> 4. **The decision is named and justified separately** — *"I believe… is the most suitable"* then *"This is because…"*.
+>
+> **Length: ~250 words.** That is the honest benchmark for 9 marks.
+
+### ⭐ How many options? Both routes score 9/9
+
+**Examiner (verbatim):**
+> *"**Candidates can choose to weigh up the advantages and disadvantages of one option and then provide a conclusion, or they could choose to weigh up both options and then provide a conclusion** — all must be in the context of Cafe Pinch. **Although it must be noted there is no requirement for candidates to discuss both options.**"*
+
+> **What does NOT work: two options described but neither evaluated.** *"Many candidates understood both methods showing good application and analysis. **Those who did not reach the top of level 3 often lacked an evaluative comment as to why their choice was the most appropriate.**"*
+
+### A second 9/9 on the same paper — Q3(e), choice of communication methods
+
+> *"Kumaran should use weekly staff meetings because it gives employees the chance to give feedback… Meetings this is significant as CP is a small trader so Kumaran needs feedback from employee since there are no other people in charge of the business… Feedback listening to staff allows CP to improve their communication which increases employee motivation as they feel like they have a say in how the company is run, this decreases chance of employee quitting which decreases recruitment selection costs and increases profit. **However**, staff meetings may decrease productivity if employees feel wasteful time with a meeting instead of cooking more dishes. This could decrease profit decreasing potential revenue & profit."*
+
+**Note:** full of typos and grammatical slips (*"there are no other people in charge"*, *"feel wasteful time"*) — **9 marks regardless. Language is not marked.**
+
+---
+
+## ⭐⭐ THE FOUR CONTEXT ROUTES — enumerated by Pearson
+
+**June 2024 P1R, Question 3(b)** — an **Outline** question. A candidate identified the point correctly but used no context, and scored **1 of 2**.
+
+**Examiner guidance (verbatim):**
+> *"**The name of the business does not provide context.***
+>
+> *Candidates can choose to:*
+> - ***name the products / services the business offers***
+> - ***name competitors in the same industry***
+> - ***state the industry the business operates in***
+>
+> *…to provide a contextualised response. In this case, the candidate could have **replaced the business name with the type of business e.g. cafe** to provide context, or **replaced the word products with filled Ciabattas**, as stated in the opening of the paper."*
+
+> ### ✅ THE OFFICIAL ROUTES — this is the whole game on AO2
+> | Route | Café Pinch example | Cadbury example |
+> |---|---|---|
+> | **1. Name the products / services** | *"filled Ciabattas"*, *"breads and teas"* | *"chocolate cake"*, *"chocolate packaging"* |
+> | **2. Name a competitor** | *"other Café shops in Berlin"* | *"competitors like Lindt or Royce"* |
+> | **3. Name the industry** | *"the Café industry"* | *"the chocolate market"* |
+> | **4. Name the type of business** | *"its café in Berlin"*, *"a small trader"* | *"a chocolate producing firm"* |
+>
+> **And the test Pearson gives you:** *"encourage candidates to **check if their response is generic and can be applied to any business** — or have they included phrases that link it directly to the given scenario?"*
+>
+> ### 🔴 THE GENERIC TEST
+> Cover the business name in your answer. **If the sentence still makes sense for any business on earth, it is not context.** *"This will increase sales"* → generic. *"This will increase sales of filled Ciabattas in Berlin"* → context.
+>
+> **On a regional paper (1R/2R), the LOCATION is free context** — *"its café in Berlin"*, *"compared to other cafés in surrounding areas"*.
 
 ---
 
