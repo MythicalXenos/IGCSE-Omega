@@ -11,6 +11,10 @@ A benchmark library of **what a top-band answer actually looks like** for every 
 
 It follows the collection method: gather verified top-tier answers from real exam series for each distinct question type and mark pattern; where genuine candidate scripts are unavailable, construct clearly labelled targets from the official mark scheme and examiner guidance.
 
+## Two specifications — do not mix them
+
+Pearson publishes similar materials for **IGCSE Business 4BS1** (your qualification) and **GCSE Business 1BS0** (a different one). They are not interchangeable. Where a source is GCSE 1BS0 it is labelled as such; its *technique* may transfer but its *scripts* must never be presented as 4BS1 exemplars. See `06_External_Source_Library.md`.
+
 ## Labelling contract — read this first
 
 Every answer in this bank carries exactly one label:
@@ -52,6 +56,7 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 | `03_Calibration_Below_Full_Marks.md` | Near-miss scripts with the examiner's reason for every mark lost. Arguably more instructive than the full-mark ones. |
 | `04_Type_Coverage_and_Gaps.md` | The complete item taxonomy, and an honest statement of what this bank does not contain. |
 | `05_Constructed_12mark_Models.md` | `[CONSTRUCTED GRADE 9 TARGET]` models for 12-mark evaluations (batch 1: the six most recent sessions). |
+| `06_External_Source_Library.md` | Web-harvested Pearson examiner reports: further `[VERIFIED CANDIDATE EXEMPLAR]` scripts, the full source catalogue, and collected examiner rules. |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
 | `../build_perfect_answers.py` | Rebuilds the `By_Paper/` bank from the mark scheme text index. |
 
