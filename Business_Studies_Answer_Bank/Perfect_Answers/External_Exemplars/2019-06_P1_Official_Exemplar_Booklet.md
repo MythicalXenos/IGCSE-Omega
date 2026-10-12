@@ -598,8 +598,8 @@ Across the two official June 2019 booklets (Paper 1/1R and Paper 2/2R):
 
 | Gap | Status |
 |---|---|
-| **Verified 12/12** | **not held** — the only verified full-mark 12 in the bank is a **10/12** (June 2019 P1 Q4(c)) plus the June 2024 P1 12/12 recorded in the examiner report's summary line |
+| **Verified 12/12** | ✅ **HELD — June 2024 Paper 1 Q4(c)**, full script with examiner comments, in `02_Verified_Exemplars.md`. Best 12-mark on **Paper 2**: the **10/12** above (June 2019 P1 Q4(c) is a 10/12; the May 2023 Paper 2 IKEA evaluate is also 10/12). |
 | **Verified 6/6 on a Paper 2R Analyse** | **not held** after the June 2019 P2R addition (5/6 and 4/6 only) |
-| **Verified 9/9 on Paper 2 or Paper 2R Justify** | **not held** — Pearson's own road map records no full-mark 9-mark example for Paper 2 before 2026 |
+| **Verified 9/9 on Paper 2 or Paper 2R Justify** | **not held** — best is 7/9 (June 2019 P2 Q2(f)). The two 9/9s in the bank are both **Paper 1** (June 2019 P1 Q3(e) and June 2022 P1R Q3(e)). Pearson's road map records no full-mark 9-mark example for Paper 2 before 2026. |
 
 **Cross-reference:** `00_Pearson_Official_Rulebook.md` § ROAD MAP lists which examiner reports Pearson says contain full-mark answers, per tariff and paper.
