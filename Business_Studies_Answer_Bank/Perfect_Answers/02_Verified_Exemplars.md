@@ -97,6 +97,23 @@ Transcriptions are faithful to the candidate's handwriting, including their spel
 > 🔴 **This overrides everything else about workings.** Workings are insurance *for the method mark only*. **The number on the final line is the answer, full stop.**
 >
 > **So: finish the calculation, then write the correctly-rounded figure ON THE LINE. Every time.**
+
+> ### 🏆 AND NOW THE EXACT MECHANISM — June 2025, Paper 2R
+>
+> **The candidate's paper:** workings `1590 / 0.93 = 1709.87` — **correct**. Answer line: **$1709.67** — **wrong**.
+>
+> **Examiner comment (verbatim):** *"This response scored **1 mark**. This response is a **very rare example of what a 1 mark answer looks like**. The candidate has given the **wrong answer on the answer line** of 1709.67. **Thus, examiners cannot award 2 marks.** Examiners will then go back and look at the workings… The response scored 1 mark in total for the correct calculation, **unfortunately the candidate provided the incorrect 2 decimal places for the second mark**."*
+>
+> **And the rule stated plainly:**
+> > ### 🔴 *"If the answer is correct on the answer line, the examiner will automatically give 2 marks. The workings are only ever looked at if the answer on the answer line is incorrect."*
+>
+> | What is on the answer line | Result |
+> |---|---|
+> | **Correct, to the required d.p.** | **2 marks** — workings never checked |
+> | **Wrong or wrongly rounded** | examiner **then** checks workings → **1 mark** if the method is right |
+> | **Blank** | no rescue |
+>
+> **Workings can only ever LOOK BACK. They rescue a mark you have already lost — they can never add one.**
 >
 > *"write their answer on the **dotted lines at the bottom of the box** so that the examiners are clear as to what their answer is"* (June 2022).
 
@@ -253,6 +270,39 @@ This answer **scored 3/3 and still wasted its opening sentence.** The examiner s
 > | **2. The mechanism** — why it works | 1 | *"employees will be more challenged… feeling trusted and valuable"* |
 > | **3. The business outcome** | 1 | *"the business would be increasing its **productivity**"* |
 >
+## ⭐⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — 3/3 and 1/3 — **"one point and then TWO POINTS OF DEVELOPMENT"**
+
+**June 2025 P2, Q1(f)** — *Explain **one** disadvantage of training employees.* (3)
+
+**The definition, from the senior examiner (verbatim):**
+> *"All 'explain' questions are worth 3 marks. **It is important the candidate gives _one_ point and then provides 2 points of development.**"*
+
+### ✅ Awarded 3 marks
+> *"Training employees might be cost expenses. This is because, a business might have to employ specialised trainers, or would have to rent a training premises This would likely raise cost for the business. Hence, profit reduces if revenue remains constant."*
+
+**Examiner comment (verbatim):**
+> *"This was awarded the full 3 marks. A disadvantage is identified, ie it may be expensive, which is **developed to show _both a cause and a consequence_**. The **cause** relates to specialised trainers and training premises that are required. The **consequence** is that this may reduce profits if revenues remain constant."*
+
+### ⚠️ Awarded 1 mark
+> *"One disadvantage for the business may be that, when a business provides trainings for the new employees. After some time employees may leave and gain rival business, and this is why business gets frustrated, that is why this is a disadvantage for businesses training its employees."*
+
+**Examiner comment (verbatim):**
+> *"This response gained just one mark. The candidate **identified** that the trained employee may go to a rival business **but this was not developed to show any _consequences_ of this to a business**."*
+
+> ### 🎯 THE 3-MARK SHAPE, NAMED BY PEARSON
+> **Point (1) → CAUSE (1) → CONSEQUENCE (1)**
+>
+> *"developed to show both a **cause** and a **consequence**."*
+>
+> **The 1-mark answer had the point and the mechanism — and no consequence.** *"Employees may leave"* is a fact about the employee. It becomes a **business** consequence only when the chain finishes: *"so the business has to pay recruitment and training costs again, raising its costs."*
+>
+> ### ✅ The two-second check before you move on
+> **Does my answer contain a *because* (cause) AND a *so / therefore* that changes something FOR THE BUSINESS (consequence)?**
+>
+> ⭐ **And an upper bound, from June 2022 P1R (recorded twice in one paper):** *"explained this method with **more than two links of reasoning so has wasted some time when there are only 3 marks available**."* **Two development links is the cap. A third earns nothing and costs time you need for the 12-marker.**
+
+---
+
 > **The third rung is almost always one of: productivity, costs, quality, customer satisfaction, revenue, survival, loyalty.** If your answer ends on *"this motivates them"* or *"this improves cash flow"*, **you are one rung short.**
 >
 > ⭐ **Every 3/3 answer above contains grammatical errors and typos and lost nothing.** *"This leads no the employees"*, *"if call employees and trained"*, *"they 'll reduce their legal costs"* — all scored **3/3**. **Business content is marked; spelling and grammar are not.**

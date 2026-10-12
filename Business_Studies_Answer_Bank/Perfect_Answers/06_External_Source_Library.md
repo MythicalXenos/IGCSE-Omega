@@ -1141,6 +1141,96 @@ June 2022 P2 (LEGO) Q1(g) — two marked answers on the *benefits of being a mul
 
 ---
 
+## 64. ⭐⭐⭐ THE ANSWER-LINE RULE — the definitive statement (June 2025)
+
+> *"**If the answer is correct on the answer line, the examiner will automatically give 2 marks. The workings are only ever looked at if the answer on the answer line is incorrect.**"* (June 2025 P2R)
+
+**Demonstrated on a script:** a candidate wrote correct workings (`1590 / 0.93 = 1709.87`) but put **$1709.67** on the answer line. **1 mark.** The examiner: *"a very rare example of what a 1 mark answer looks like… examiners cannot award 2 marks."*
+
+> ### 🔴 What this changes
+> **Workings can only ever LOOK BACK.** They rescue a mark already lost by writing the wrong thing on the line. **They can never add a mark to a correct line — that mark is already yours.**
+>
+> **Sequence, every calculation, without exception:**
+> 1. Work it out (this earns the method mark if the rest goes wrong).
+> 2. Round it to the d.p. the question demands.
+> 3. **Write it on the dotted line at the bottom of the box.**
+>
+> **The answer line IS the answer.**
+
+**And the encouragement attached:** *"a **model approach**… It takes **very little additional time** in the examination to provide the workings and it also helps the candidate to focus and avoid errors."*
+
+---
+
+## 65. ⭐⭐⭐ THE 3-MARK EXPLAIN — "one point and then 2 points of development"
+
+> *"All 'explain' questions are worth 3 marks. **It is important the candidate gives _one_ point and then provides 2 points of development.**"* (June 2025 P2)
+
+> *"A disadvantage is identified, ie it may be expensive, which is **developed to show both a _cause_ and a _consequence_**. The **cause** relates to specialised trainers and training premises that are required. The **consequence** is that this may reduce profits if revenues remain constant."*
+
+> ### ✅ THE SHAPE: POINT → CAUSE → CONSEQUENCE
+> | Rung | The test |
+> |---|---|
+> | **1. The point** | one method / advantage / reason / way — **one, never several** |
+> | **2. The cause** | does the sentence contain a *because*? |
+> | **3. The consequence** | does the chain end on something changed **for the business** — costs, profit, quality, sales, reputation, loyalty? |
+
+⚠️ **And an upper bound:** *"explained this method with **more than two links of reasoning so has wasted some time when there are only 3 marks available**."* (June 2022 P1R, twice.) **Two development links is the cap.**
+
+**Four more Explain rules confirmed across series:** *"candidates only need to explain one factor as opposed to listing"* · *"If a candidate gives more than one reason then they are **unable to gain the full marks**"* · *"No context is required for explain questions but **time and time again we see candidates applying context unnecessarily**"* · *"the question is an 'explain' it does not have to be and **is not negatively marked**"*.
+
+---
+
+## 66. ⭐⭐ DEFINITIONS — "short but accurate", and examples earn nothing
+
+| Source | Rule |
+|---|---|
+| **June 2025 P2** | *"**Definitions do not need to be lengthy they just need to be accurate. Examples are not awarded marks.**"* |
+| **June 2025 P2** | *"This is a **perfect answer**… **Answers should not be lengthy but accurate.**"* |
+| **June 2025 P1R** | A logo-based answer: *"This is an **example** of branding, **rather than a definition**."* |
+| **June 2025 P2R** | *"'written in words' **is not considered a definition**"* of qualitative data |
+| **June 2022 P2R** | *"not to use the words they are defining"* · *"avoid wasting valuable time writing the question in the answer box"* |
+| **June 2022 P2** | *"'the point at which profit meets costs' is **not a definition**"* |
+
+> ### 📘 THE DEFINITION CHECKLIST
+> 1. **~10 words.** *"the provision of services"* earned the mark.
+> 2. **Do not use the word you are defining.**
+> 3. **Do not copy the question into the box.**
+> 4. **No examples.** A logo, a list of tertiary jobs, a named country.
+> 5. **No format descriptions.** *"Written in words"* is not what makes data qualitative; *opinions, attitudes and emotions* is.
+> 6. **A definition is not an explanation.**
+> 7. **The whole concept, not just its category.** *"a group of people"* (crowdfunding) and *"a group of countries"* (trade bloc) were both **correct and incomplete**.
+> 8. **Every word must do work.** *"Money from the belongings of the business owner"* scored **0** because *"business owner"* excludes *"personal"*.
+
+⚠️ **Two named misconceptions:**
+> **Social enterprise is NOT government-owned.** *"too many candidates are under the impression that a social enterprise is owned by the government… the **governance and ownership are distinct from government entities**."* It is an *"**independent** organisation that prioritises social and environmental wellbeing"*, which **may provide services to the public sector** without being part of it.
+> **Autonomy** = *"employees to make their own decisions"* about **how they work** — **not** generic freedom, and **not** robots or automation.
+
+---
+
+## 67. 🚨 EXTRA PAPER — "absolutely no evidence" (June 2025)
+
+> *"**An increasing number of candidates are using extra paper which is not recommended. There are sufficient lines given to allow candidates to provide a thorough answer. There is absolutely no evidence at all to suggest that candidates using extra paper score higher marks.**"*
+
+**The strongest form of the rule, holding since the first sitting:** *"the lines available are **more than adequate**… often learners are using additional papers **without gaining additional marks**"* (Summer 2019).
+
+> **The paper is calibrated so the printed lines are enough for full marks.** Extra paper is not a route to more marks, and it **costs the time the 12-marker needs.**
+>
+> **If you must continue:** mark it *"continued"*, *"contd page ___"* or *"see separate sheet"*, and **write the question number on the extra sheet.**
+
+---
+
+## 68. ⭐ "NOT ANSWERING THE QUESTION SET" — the relevance rule, 2025 form
+
+> *"question 2f where candidates were required to justify **if financial or non-financial incentives would help Starbucks to _retain its employees_**. Unfortunately, many candidates **wrote about how the incentives would impact the revenue or profits of Starbucks**, which is **not answering the question set**."* (June 2025 P2)
+
+**The instruction attached:** *"the main one being that **candidates do not always read the question thoroughly enough**."*
+
+> **The protective habit: after planning, re-read the question and name the OUTCOME it asked about — retention, cost, revenue, motivation, customer satisfaction. Then check every paragraph delivers that outcome and not a neighbouring one.**
+>
+> **Related confirmations in the same series:** *"some candidates wrote about **advantages** of training"* when asked for a disadvantage · *"some candidates made generic reference to **freedom in the workplace or robots**"* for autonomy.
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1223,7 +1313,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **3 confirmed** — June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2024 P1R (Café Pinch) |
+| **Reports with MARKED SCRIPTS** | **9 confirmed** — June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
@@ -1235,12 +1325,14 @@ These are the highest-value targets in the project: the newest papers, filling g
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
 **Next batch, in priority order:**
-1. **UPGRADE NEEDED — three files hold examiner comments but not the candidate response text.** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md`, `2022-06_P1R_Can_Culleretes.md` were harvested before it was known these reports print scripts. **Re-fetch and recover the responses.**
-2. `4bs1-02-pef-20240822.pdf` (Jun 2024 P2, TUI) — confirmed to contain marked scripts; the same re-fetch fixes (1).
-3. The **May/June 2025** reports — **unpadlocked 1 August 2026**, therefore now open access; expect marked scripts.
-4. The **assessment support page's "extracts from the examiners' reports… as they relate to the different command verbs"** section — this is Pearson's own per-command-word guidance **and it lists which reports hold full-mark exemplars**. Re-read it in full.
-5. `4bs1-02r-pef-20240822.pdf` (Jun 2024 P2R) and the remaining June 2022 series reports.
-6. Unread chunks: `4bs1-01-pef-20240822.pdf` chunk 0 · `4bs1-01r-pef-20230824.pdf` chunk 3.
-7. **June 2026 reports were published 25 August 2026 but are restricted until ~August 2027.**
+1. ⭐ **`4bs1-01-pef-20250821.pdf` — June 2025 Paper 1.** The June 2025 P1R, P2 and P2R reports all fetched; **Paper 1 returned "Failed to fetch page" rather than a 404**, so it exists. **Retry it.**
+2. **Chunks 1–3 of the three June 2025 reports** — only chunk 0 of each is held. The 6-mark Analyse, 9-mark Justify and 12-mark Evaluate exemplars sit in the later pages.
+3. **Fold the recovered response text into** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md` and `2022-06_P1R_Can_Culleretes.md` — all three were harvested before it was known these reports print scripts, so their files hold examiner comments but not the scripts. **The text is recovered; do not re-fetch.**
+4. **June 2024 P2R** (`4bs1-02r-pef-20240822.pdf`) and the remaining June 2022 series reports — each to be opened and checked for marked scripts (rule 48).
+5. The **assessment support page's per-command-verb extracts**, which also lists **which reports hold full-mark exemplars**.
+6. Unread chunks: `4bs1-01-pef-20240822.pdf` chunk 0 · `4bs1-01r-pef-20230824.pdf` chunk 3 · `4bs1-01r-pef-20220825.pdf` chunks 0 and 2–3.
+7. **June 2026 reports published 25 August 2026 but restricted until ~August 2027.** **Nov 2025** reports: try `4bs1-0*-pef-2026012*.pdf`.
+
+**Publication-date pattern for guessing filenames:** Jun 2019 → `20190822` · Jun 2022 → `20220825` · Jun 2023 → `20230824` · Jun 2024 → `20240822` · **Jun 2025 → `20250821`** · Nov 2020 → `20210211` · Nov 2024 → `20250123`. **Cross-paper codes share the date** (e.g. `4ec1-02r-pef-20250821.pdf`), which is how the June 2025 stem was found.
 
 **Mirror note:** the LEGO report was obtained from `papers.xtremepape.rs` when the Pearson path 404'd on the `International%20GCSE/.../4bs1-02-pef-20220825.pdf` spelling. **Xtreampapers mirrors tional examiner reports verbatim and is fetchable — use it as a fallback.**
