@@ -245,6 +245,155 @@ These are stated repeatedly, across sessions and papers, and are worth more than
 
 ---
 
+
+---
+
+# HARVESTED — June 2024, Paper 1R (Café Pinch)
+
+**Business context:** Café Pinch, run by Kumaran, serving filled ciabattas, breads, teas and meals in Berlin.
+
+**Source:** `4bs1-01r-pef-20240822.pdf`
+
+---
+
+## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 9/9 · Q2(f) Justify
+
+**Question:** Choose between introducing a vegan range (Option 1) or a discount (Option 2).
+
+> *"[A discount would] attract more customers, since customers would be encouraged to visit its Café shop and try its high quality meals at a lower cost, leading to an increase in its revenue as Cafe Pinch would sell more meals due to customers choosing its cheaper meals compared to other Café shops in Berlin[.] however, this discount might mean that Cafe Pinch isn't making the most markup on meals it sells, meaning that Cafe Pinch would make less revenue than other cafés in surrounding areas, leading to Cafe Pinch losing revenue and market share in the Café market in Berlin.*
+>
+> *I believe that option 1 (introducing a vegan range) is the most suitable option for Café Pinch. This is because as Café Pinch would cater to the needs of a wider customer base in Berlin, it would be able to expand and increase its revenue by selling more meals and selling the vegan products, leading to an increase in its market share in the café market[]."*
+
+**Examiner comment (verbatim):**
+> *"This response shows what is expected from candidates in order to gain the full marks for this type of 'justify' question. This candidate has chosen to look at both options which is acceptable. They have shown detailed understanding of both options, they have included context throughout their response with logical chains of reasoning and have made a good judgement about their choice with a thorough evaluation."*
+
+**Structure to copy:** argues the *rejected* option first (discount) → turns on it ("however… less markup… losing revenue and market share") → commits ("I believe option 1…") → justifies in context ("wider customer base **in Berlin**"). Note "Berlin" recurs — that is context *throughout*.
+
+---
+
+## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 9/9 · Q3(e) Justify
+
+**Question:** Choose between weekly staff meetings and daily updates to improve communication.
+
+> *"Kumaran should use weekly staff meetings because it gives employees the chance to give feedback to Kumaran [on] company changes. [This] is significant as CP is a small trader so Kumaran needs feedback from employee[s] since there are no other people in charge of the business… Feedback[;] listening to staff allows CP to improve their communication which increases employee motivation as they feel like they have a say in how the company is run, this decreases chance of employee quitting which decreases recruitment [and] selection costs and increases profit. However, staff meetings may decrease productivity if employees feel [they] waste[] time with a meeting instead of cooking more dishes. This could decrease profit… However, Kumaran shouldn't use staff meetings because they're less frequent than daily updates. This could worsen communication if employees don't know about recent business changes because the meeting that week hasn't been held yet. This could cause mistakes in operating new equipment that could increase cost and decrease quality of food made."*
+
+**Examiner comment (verbatim):**
+> *"Those who did not reach the top of level 3 often lacked an evaluative comment as to why their choice was the most appropriate."* — **9 marks**
+
+**Note the extreme chain density.** One paragraph contains: feedback → better communication → motivation → lower turnover → lower recruitment cost → higher profit, then a counter-chain on lost productivity, then a second counter on frequency. This is what "logical chains of reasoning" looks like at full marks.
+
+---
+
+## ⭐ THE DEFINITION OF CONTEXT — stated outright by the examiner
+
+On Q3(b) (outline how social media could promote the business), a candidate wrote *"Cafe Pinch could use social media to advertise its products by which large geographical area will be aware of the business."* — awarded **1/2**.
+
+**Examiner comment (verbatim):**
+> *"This shows a typical response of a candidate who does not understand the requirement from the command word 'outline.' Whilst this candidate has correctly identified that the business could use social media to advertise which gains them access to 1 mark, they cannot gain access to the second mark due to lack of context.*
+>
+> ***The name of the business does not provide context.***
+>
+> *Candidates can choose to **name the products/services the business offers**, they could choose to **name competitors in the same industry** or they could **state the industry the business operates in** to provide a contextualised response. In this case, the candidate could have replaced the business name with the type of business e.g **cafe** to provide context or replaced the word **products** with **filled Ciabattas**, as stated in the opening of the paper."*
+
+### 🎯 This is the most actionable paragraph in the entire bank.
+
+**Four — and only four — routes to a context mark:**
+
+| # | Route | Example for Café Pinch |
+|---|---|---|
+| 1 | **Name the products/services** | "filled ciabattas", "teas", "breads" |
+| 2 | **Name a competitor** | "other cafés in Berlin" |
+| 3 | **State the industry** | "the café market" |
+| 4 | **Name the type of business** | "café" |
+
+**And the one thing that never works:** writing the business's name. *"The name of the business does not provide context."*
+
+This single rule explains almost every lost AO2 mark documented in this bank — the June 2019 P1R "product" vs "food", the June 2019 P1 "the business" and "products", and the June 2024 P1 "product" vs "dog coats and dog leads".
+
+---
+
+## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 6/6 · Q3(d) Analyse
+
+> *"One way Cafe Pinch can do this is through customer satisfaction. This is because if Cafe Pinch can see how satisfied customers are with their breads and teas, they can evaluate improvements they may have to make or [see] which baked goods to keep selling. They could do this through customer satisfaction surveys. This means that Cafe Pinch can adjust the products that customers don't enjoy as much and replace them with higher quality and tastier ones. This will lead to more returning customers to Cafe Pinch."*
+
+**Examiner comment (verbatim):**
+> *"This candidate shows a good response where they have been able to analyse the factors of customer satisfaction and profit with a well contextualised response."*
+
+---
+
+## ⚠️ 1 mark · Q3(c) Calculate operating profit margin
+
+**Data:** Revenue €103,825 · Gross profit €66,842 · Other operating expenses €5,782
+
+The candidate calculated the operating profit figure correctly but **then divided by gross profit instead of operating profit**, giving an incorrect final answer.
+
+**Examiner comment (verbatim):**
+> *"This is a good example of why we encourage centres to remind candidates to show their working out. Whilst this candidate has not got the final answer correct, due to their working out, and as per the mark scheme, they have gained access to 1 mark."*
+
+**Reinforces the rule:** show working on every calculation. A correct method with a wrong answer still banks the mark.
+
+---
+
+# HARVESTED — June 2024, Paper 2 (TUI)
+
+**Business context:** TUI, an international holiday and travel business.
+
+**Source:** `4bs1-02-pef-20240822.pdf`
+
+---
+
+## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 3/3 · Q2(d) Explain
+
+> *"A business would communicate quicker. This is because there are short lay[er]s in the hierarchy and messages could be sent faster. The result[] [is] less mistakes made as the message is less likely to be misinterpreted so the business would be more productive."*
+
+**Examiner comment (verbatim):**
+> *"The response includes one reason why having a short chain of command is beneficial, because communication is quicker. This is then developed by commenting on messages are sent faster, resulting in less mistakes."* — **3 marks**
+
+## ❌ 0 marks · the same question
+
+> *"[A] faster command response, because the staff have more power to make decisions. This will decrease the number of mistakes happen[ing] in the business. So more profit is earned."*
+
+**Examiner comment (verbatim):**
+> *"Very little detail is given in this response and it is not clear what the benefit is."*
+
+**Read these two side by side.** Both identify "faster/more decisions → fewer mistakes → more profit". The difference is that the 3/3 candidate **named the mechanism** — *"short layers in the hierarchy"*, *"messages could be sent faster"*, *"less likely to be misinterpreted"*. The 0-mark candidate asserted the same outcome without the causal steps.
+
+**This is the difference between a chain and a claim.**
+
+---
+
+## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 3/3 · Q2(e) Explain
+
+**Question:** One important piece of information that should be included in a job advertisement in a newspaper.
+
+> *"Hours required to work because people might not [be able to work them], therefore the business will waste time and money interviewing people who aren't up for the job"*
+
+**Examiner comment (verbatim):**
+> *"The candidate has referred to hours of work that should be included in a job advertisement which is relevant and then justifies the reason why for the choice."* — **3 marks**
+
+**Second 3/3 on the same question:**
+> *"Salaries can be a great use of information as it will attract people into working in TUI and this can help TUI to get better workers for their business…"*
+> *"The response clearly understands that to attract future employees the salary needs to be acceptable. The response is in context but as the question is an 'explain' it does not have to be and is not negatively marked."* — **3 marks**
+
+> **Note:** context was *voluntarily* added here and the examiner confirms *"it is not negatively marked."* So context is not penalised on explain — it is simply **not required**, and the time is better spent elsewhere.
+
+---
+
+## ⚠️ 7/9 and 4/9 · Q2(f) Justify (competition pricing vs promotional pricing)
+
+**7/9 response** concluded: *"Therefore promotional pricing is more suitable for TUI."*
+> *"The response has a clear understanding of the two types of pricing and justifies why each one would be chosen with a reason why. Relevant comments are made about each option showing sound application of knowledge and understanding. However there are **limited interconnected points and chains of reasoning**. Gaining a Level 3."* — **7 marks**
+
+**4/9 response:**
+> *"The response shows knowledge of the two pricing options, but with limited development and evaluative comments."* — **Level 2, 4 marks**
+
+**Examiner guidance on this question (verbatim):**
+> *"The question asks candidates to consider **one** option, however if candidates compare the two options that is acceptable. Candidates should be careful to avoid giving detailed knowledge of the option or two options, **as there are no knowledge marks available for this question**, even though it is Level marked."*
+
+**Restating the recurring 9-mark pattern:** 7/9 = sound application, *limited* chains. 9/9 = *detailed* chains plus a thorough evaluative conclusion. The gap is chain depth and evaluation — never content.
+
+---
+
 # SOURCE CATALOGUE — what exists and what remains to harvest
 
 ## ✅ Harvested this session
@@ -317,9 +466,9 @@ June 2024 IGCSE 4BS1, total 160 marks (both papers), papers 01+02:
 | | |
 |---|---|
 | PEF reports identified | **~15 for 4BS1** + 5 GCSE 1BS0 resources |
-| Fully harvested this session | **1** (June 2024 P1 — 10+ exemplars across 3/6/9 marks) |
-| Remaining | **~14 4BS1 reports** + the full Paper 2 booklet |
+| Fully harvested this session | **3** — June 2024 P1, P1R and P2 (**26+ exemplars** spanning 1, 2, 3, 6, 7, 9 and calibration marks) |
+| Remaining | **~12 4BS1 reports** + the full Paper 2 booklet |
 
 **Why not all at once:** each report runs to 20–50 pages and must be fetched in chunks and transcribed by hand into the bank. Harvesting one report properly — question text, verbatim candidate response, awarded mark, examiner comment — is deliberate work. Doing all 15 in one pass would mean skimming, and a skimmed exemplar is worthless because the *exact wording* is the whole point.
 
-**Next batch, in priority order:** June 2024 P1R and P2 (complete the most recent full session), then June 2023 P1R and P2, then the full Paper 2 exemplar booklet (which upgrades an already-partial archive file).
+**Next batch, in priority order:** June 2023 P1R and P2, Nov 2024 P1, Nov 2023 P2, then June 2022 P1/P1R/P2R — then the full Paper 2 exemplar booklet (which upgrades an already-partial archive file).
