@@ -1231,6 +1231,101 @@ June 2022 P2 (LEGO) Q1(g) — two marked answers on the *benefits of being a mul
 
 ---
 
+## 69. 🚨 THE FORMULA IN WORDS EARNS NOTHING (June 2025 P1R)
+
+> *"**The formula in words is not required, nor are there any awardable marks for it. Candidates should be encouraged to save time by not including the formula in words.**"*
+
+**This closes a long-standing trap.** Writing *"current ratio = current assets ÷ current liabilities"* before the numbers **earns nothing and costs time.** The marks are for **substituting the numbers** (1) and **the correctly rounded answer on the line** (1).
+
+> ⚠️ **Do not confuse this with the method mark.** The workings that earn a mark are the **numbers being substituted**, not the verbal formula.
+
+---
+
+## 70. ⭐⭐ FIVE VERIFIED FULL-MARK 6-MARK ANALYSE ANSWERS — and what they share
+
+| Paper | Question | Length |
+|---|---|---|
+| June 2022 P2R (Cadbury) | two location factors | **3 sentences, 43 words** |
+| June 2025 P2 (Starbucks) | advantages of batch production | **3 sentences, 46 words** |
+| June 2025 P1R (CCT) | concerns of introducing an app | **2 paragraphs** |
+| June 2022 P1R (Can Culleretes) | technology and productivity | 2 paragraphs + counter |
+| June 2024 P1R (Café Pinch) | measuring success | 1 paragraph |
+
+**What every one of them does — and what none of them does:**
+
+> ✅ Context in **every** clause · chains that **end on a business outcome** · products/rivals named from the case study
+> ❌ **No definition of the term.** Not once. Not in any of the five.
+>
+> **Pearson on the CCT answer:** *"Context must be **woven throughout the entire response, appearing in all paragraphs**, and should demonstrate **variety rather than mere repetition**."*
+
+**And the zero beside it:** a candidate answering the same *concerns* question with the app's *benefits* wrote two well-formed, contextualised chains ending on business outcomes — and scored **0**. *"Neither of these points address concerns of introducing the app… Therefore, it does not answer the question."*
+
+---
+
+## 71. ⭐⭐⭐ THE ONE-OPTION RULE FOR JUSTIFY — FOUR confirmations
+
+> *"**Please note that candidates only need to select one of the two options given.**"* (June 2025 P2)
+
+| Report | Wording |
+|---|---|
+| June 2022 P2R (Cadbury) | *"Candidates do not have to consider both options… **can achieve the full marks only considering the one option**"* |
+| June 2024 P1R (Café Pinch) | *"there is **no requirement** for candidates to discuss both options"* — and a 9/9 printed |
+| June 2024 P2 (TUI) | *"The question asks candidates to consider **one** option, however if candidates compare the two options **that is acceptable**"* |
+| June 2025 P2 (Starbucks) | *"candidates **only need to select one** of the two options given"* |
+
+> **Nine marks are available for one option, thoroughly developed.** Candidates who "cover both" routinely produce two shallow halves instead of one deep argument.
+
+---
+
+## 72. ⭐ THE 7/9 JUSTIFY — the gap is always the conclusion
+
+**June 2025 P2**, a published 7-mark Justify, on the examiner's own diagnosis:
+
+> ✅ *"good knowledge"* · *"well contextualised"* · *"gives the impact on employee retention"* · *"attempts counterbalance"*
+> ❌ *"**fails to provide a sound judgment to provide a clear justification based on a thorough evaluation** of the issues made and so remains at the bottom of level 3"*
+
+**This is the same verdict recorded in `03_Calibration_Below_Full_Marks.md` for the May 2023 IKEA 10/12** (*"limited judgements"*). **Across every tariff and every year, the marks that candidates leave behind are AO4 marks.**
+
+> **A 7/9 answer is an answer without a verdict.** The last paragraph often lists a drawback and then simply stops. **One sentence fixes it:** name your choice, give the decisive reason, and concede the condition under which the other option would win.
+
+---
+
+## 73. ⭐ THREE WAYS TO MISS THE THIRD MARK ON A 3-MARK EXPLAIN
+
+| Failure | Where recorded | Fix |
+|---|---|---|
+| **Too few links** — point only, no development | TUI, Cadbury, every report | add the **cause** |
+| **Restating** — the second strand *"merely restating the initial"* point | **June 2025 P1R** | make the second link a **new consequence** |
+| **Too many links** — *"more than two links of reasoning so has wasted some time"* | June 2022 P1R ×2 | **two development links is the cap** |
+
+**And the canonical shape, from June 2025 P2:** *"it gives **one** point and then provides **2 points of development**"* — *"developed to show both a **cause** and a **consequence**."*
+**Three sentences is a complete answer:** *"Paying suppliers on time establishes a healthy business-supplier relationship. Hence, more discounts may be provided by suppliers. Therefore, decreasing the costs of raw materials."* — **3 marks.**
+
+---
+
+## 74. ⭐ THE WORD-COLLISION CLUSTER — read the spec word against its everyday twin
+
+| Term in the question | How candidates read it | Report |
+|---|---|---|
+| **job** production | **jobs** (employment) — *"creating more job opportunities"* | June 2025 P1 |
+| **promotion** (marketing) | **promotion** (a job) | Summer 2019 P1 |
+| **public relations** | public **communication** | June 2022 P2R |
+| **personal** savings | business **owner's** belongings | June 2022 P2R |
+| **secondary** sector | secondary **market research** | June 2024 P1R |
+| **autonomy** | **automation** / robots · or generic freedom | June 2025 P2R |
+| **capital** intensive | **labour** intensive | Nov 2020 P1R |
+| **liquidity** | profitability / "making money" | Nov 2020 P1 |
+| **quantitative** | **qualitative** | Nov 2020 P1R |
+| **stakeholder** | **shareholder** | Summer 2019 P1 · Nov 2020 P1 · Nov 2024 P1 |
+| **trade bloc** | *"trade being blocked/banned"* | June 2025 P1 |
+| **fixed costs** | costs generally | Nov 2020 P1 |
+| **flow** production | job / batch production | June 2025 P2 |
+
+> ### ✅ THE HABIT: before defining, cover the word and ask *"what does this word mean ELSEWHERE in business?"*
+> If the term has a common English twin, **write your definition so it could not be read the other way.** For **job production**, the disambiguating words are *"one at a time"*, *"customised"*, *"made to order."*
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1313,7 +1408,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **9 confirmed** — June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
+| **Reports with MARKED SCRIPTS** | **10 confirmed** — **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
@@ -1325,8 +1420,8 @@ These are the highest-value targets in the project: the newest papers, filling g
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
 **Next batch, in priority order:**
-1. ⭐ **`4bs1-01-pef-20250821.pdf` — June 2025 Paper 1.** The June 2025 P1R, P2 and P2R reports all fetched; **Paper 1 returned "Failed to fetch page" rather than a 404**, so it exists. **Retry it.**
-2. **Chunks 1–3 of the three June 2025 reports** — only chunk 0 of each is held. The 6-mark Analyse, 9-mark Justify and 12-mark Evaluate exemplars sit in the later pages.
+1. ✅ **DONE — June 2025 Paper 1 (Four Fitness) harvested.**
+2. **Chunks 2–3 of all four June 2025 reports** — chunk 1 is now read for P1, P1R, P2 and P2R. The remaining 12-mark Evaluate exemplars sit in the final pages.
 3. **Fold the recovered response text into** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md` and `2022-06_P1R_Can_Culleretes.md` — all three were harvested before it was known these reports print scripts, so their files hold examiner comments but not the scripts. **The text is recovered; do not re-fetch.**
 4. **June 2024 P2R** (`4bs1-02r-pef-20240822.pdf`) and the remaining June 2022 series reports — each to be opened and checked for marked scripts (rule 48).
 5. The **assessment support page's per-command-verb extracts**, which also lists **which reports hold full-mark exemplars**.

@@ -10,7 +10,7 @@ Transcriptions are faithful to the candidate's handwriting, including their spel
 >
 > **(2) The full Examiner Reports.** Some series publish reports that **print the scripts as text, with the awarded mark and the examiner's reasoning alongside each one**. These need no rendering and are transcribed exactly. **The June 2022 series is one of these** — it supplies the 1-mark, 2-mark and 6-mark sections below, the decimal-place pair, and the Justify evidence.
 >
-> **Two further series are known to publish in this form and are queued for harvest: June 2024 Paper 2R, and May/June 2025.**
+> **Harvested in this form so far:** the **June 2022** series (Cadbury, LEGO) · **June 2023 P2** (IKEA) · **June 2024 P1R and P2** (Café Pinch, TUI) · **June 2025 P1, P1R, P2 and P2R** (Four Fitness, CCT, Starbucks, Rabanne). **June 2024 P2R is queued.**
 
 ---
 
@@ -420,6 +420,42 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > *"Candidates must be aware that **there are no marks available for knowledge**, and that the response **must be in context of Cadbury**."*
 > *"Examiners will look at the response **'holistically'**."*
 
+## ⭐⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **two more full-mark 6/6 answers, both three sentences**
+
+**June 2025** — the newest series, and two Analyse questions with published full-mark scripts.
+
+### A. Paper 2 (Starbucks) Q2(c) — *Analyse the advantages of batch production.* (6)
+
+> *"Starbucks using batch production is flexible and helps meet the demand accordingly. This is because an appropriate number of **cakes can be baked and sandwiches can be made at once**. This prevents over-producing quantities of food thus aiding to be flexible and prevent stock piles."*
+
+**Examiner:** *"awarded the full 6 marks… The candidate **deconstructs the business information finding interconnective points with logical chains of reasoning**."*
+
+### B. Paper 1R (CCT) Q1(g) — *Analyse the **concerns** CCT may have of introducing this app.* (6)
+
+> *"CCT may have concerns like what if the app encounters a technology error and have a break-down… **If the customers are not satisfied with the service of the app, they are likely to go book at CCT's rival bicycle tour service business, losing loyal customers.***
+>
+> *Moreover, CCT may be worried whether the app is feasible for its customers to download and use. If the app isn't user-friendly… They may write **bad reviews** of CCT's newly introduced app on the internet, leading to having the **bad reputation** of having bad services. This would make **CCT suffer from bad reputation and will need time to recover, decreasing the sales** of bicycle tour tickets."*
+
+**Examiner:** *"two well developed points, **consistently supported by strong contextual evidence**. Level 3 – 6 marks."*
+**Standing guidance attached:** *"Context must be **woven throughout the entire response, appearing in all paragraphs**, and should demonstrate **variety rather than mere repetition**."*
+
+> ### 🔬 What both have in common
+> | | Starbucks | CCT |
+> |---|---|---|
+> | **Length** | 3 sentences, 46 words | 2 paragraphs |
+> | **Definition of the term?** | **none** | **none** |
+> | **Context in every clause?** | ✅ *"cakes… sandwiches… stock piles"* | ✅ *"bicycle tour"*, *"CCT's rival"*, *"tickets"* |
+> | **Ends on a business outcome?** | ✅ *"prevent stock piles"* (waste/cost) | ✅ *"decreasing the sales"* |
+> | **Variety of context?** | products | products, rivals, reviews, revenue |
+>
+> **And the CCT answer keeps its context VARIED** — it does not repeat *"CCT"*. It moves through the business's product, its rivals, its reviews and its sales. **That is what "woven throughout" means in practice.**
+>
+> ### ⚠️ And the zero beside it
+> A second CCT candidate answered the same **concerns** question with the app's **benefits** — two well-formed chains, contextualised, ending on business outcomes — and scored **0**: *"Neither of these points address concerns… Therefore, it does not answer the question."*
+> **Reading the operative noun correctly is worth 6 marks.**
+
+---
+
 # 9 MARKS — JUSTIFY
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 9/9
@@ -599,6 +635,44 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > Cover the business name in your answer. **If the sentence still makes sense for any business on earth, it is not context.** *"This will increase sales"* → generic. *"This will increase sales of filled Ciabattas in Berlin"* → context.
 >
 > **On a regional paper (1R/2R), the LOCATION is free context** — *"its café in Berlin"*, *"compared to other cafés in surrounding areas"*.
+
+---
+
+## ⭐⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **7/9 — an answer that fails on the conclusion** alone
+
+**June 2025 Paper 2 (Starbucks), Question 2(f)** — *"Starbucks wants to ensure that its employees remain with the business… **Option 1: financial methods. Option 2: non-financial methods.** Justify which one of these two methods Starbucks should choose."* (9)
+
+> *"Starbucks should choose option 2 non-financial methods.*
+>
+> *One reason to choose non-financial method is to increase job satisfaction. Maslow's hierarchy of need proves the need for non-financial motivator, such as job enrichment. This aligns with **Starbucks' current policy** on their employee, which is to allow them to develop skill and knowledge and giving more autonomy as they do so. **(e.g. barista → coffee master)**. This motivates their '**partners**' and feel recognised in their workplace, leading to **high employee retention**.*
+>
+> *Another reason to use non-financial motivator is because some people are not motivated by money… Instead, maintaining good worker relations on skills of coffee master and opportunity for self-improvement is important to make them feel they should keep working in Starbucks coffee shop.*
+>
+> *However, one disadvantage is that employee might feel like the job is demanding and quit. Especially because many of coffee shop workers are part-time employee. Job enrichment might make them feel the job is too much to handle."*
+
+**Examiner comment (verbatim):**
+> *"This is a **low level three** response and was awarded **7 marks**. It starts by demonstrating good knowledge of the advantages of non-financial methods which was **well contextualised**. Importantly it gives the **impact on employee retention**. The candidate **attempts counterbalance, though this is not developed to the same level**. **It fails to provide a sound judgment to provide a clear justification based on a thorough evaluation of the issues made and so remains at the bottom of level 3.**"*
+
+> ### 🎯 Why this is 7 and not 9 — the examiner names it exactly
+> | Criterion | Verdict |
+> |---|---|
+> | Knowledge of the option | ✅ *"good knowledge"* |
+> | Context | ✅ *"well contextualised"* — *"barista → coffee master"*, *"'partners'"*, *"Starbucks' current policy"* |
+> | The named outcome | ✅ *"gives the impact on employee **retention**"* |
+> | Counterbalance | ⚠️ *"attempts counterbalance, though this is **not developed to the same level**"* |
+> | **Judgement** | ❌ *"fails to provide a **sound judgment**… based on a **thorough evaluation**"* |
+>
+> ### 🔴 The 7→9 gap is the CONCLUSION
+> The candidate does everything well and then **stops** — the final paragraph is a drawback, and there is no sentence that decides.
+>
+> **A 7/9 answer is an answer without a verdict.** One sentence fixes it: *"On balance, Option 2 is the better choice because … — although if turnover is concentrated among part-time staff, Option 1 would be safer."*
+>
+> **And note the context markers:** *"partners"* is Starbucks' own term for its employees; *"barista → coffee master"* is its real promotion ladder. **Neither could appear in a generic answer — which is precisely why they earn AO2.**
+
+**⭐ Printed immediately after the exemplar:**
+> ### *"Please note that candidates only need to select one of the two options given."*
+
+⭐ **Fourth independent confirmation of the one-option rule** (Cadbury 2022 · Café Pinch 2024 · TUI 2024 · Starbucks 2025). **Settled policy.**
 
 ---
 

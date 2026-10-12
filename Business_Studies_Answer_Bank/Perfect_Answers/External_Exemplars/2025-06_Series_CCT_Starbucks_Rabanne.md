@@ -272,3 +272,298 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 | **N12** | ⭐⭐ *"wrote about how the incentives would impact the **revenue or profits**… which is **not answering the question set**"* | answering a neighbouring question |
 | **N13** | 14th d.p. instance — `229.1` not `229.10`; *"Always round to the required number of decimal places otherwise full marks cannot be attained."* | d.p. rule |
 | **N14** | *"The **calculation questions** scored highly, as well as the **3 mark 'explain' questions**"* | what the cohort does well |
+
+---
+
+# ⭐⭐⭐ THE 6-MARK ANALYSE EXEMPLARS — two verified full-mark answers
+
+## A. June 2025 P2 (Starbucks) — Q2(c) — Analyse the advantages of **batch production** — **6/6**
+
+> **Report:** *"the 'analyse' questions… are holistically marked. Marks are awarded for **contextualised knowledge (AO2)** and **logical chains of reasoning (AO3)**… **many candidates confused batch production with job or flow production**."*
+
+### ✅ Awarded **6 marks (full marks)**
+> *"Starbucks using batch production is flexible and helps meet the demand accordingly. This is because an appropriate number of cakes can be baked and sandwiches can be made at once. This prevents over-producing quantities of food thus aiding to be flexible and prevent stock piles."*
+
+**Examiner comment (verbatim):**
+> *"This response was awarded the full 6 marks. The response identified advantages of batch production which is in the context of Starbucks. The candidate **deconstructs the business information finding interconnective points with logical chains of reasoning**."*
+
+> ### 🔬 Three sentences. 46 words. Full marks.
+> | Move | Text |
+> |---|---|
+> | **1. The benefit** | *"Starbucks using batch production is **flexible** and helps **meet the demand**"* |
+> | **2. The mechanism, applied** | *"This is because an appropriate number of **cakes can be baked and sandwiches can be made at once**"* — Starbucks' actual products |
+> | **3. The business consequence** | *"prevents **over-producing**… prevent **stock piles**"* — i.e. cuts waste and cost |
+>
+> **Note what is absent:** no definition of batch production, no "there are three types of production", no comparison to job or flow. **The question asked for advantages; only advantages appear.**
+
+## B. June 2025 P1R (CCT) — Q1(g) — Analyse the **concerns** of introducing an app — **6/6**
+
+### ✅ Awarded **6 marks — Level 3**
+> *"CCT may have concerns like what if the app encounters a technology error and have a break-down. This app aims to make it easier for its customers to make and track bookings so it is very important not to have technology break-down, and which might disappoint the customers of bicycle tour who downloaded the app with the purpose of booking. If the customers are not satisfied with the service of the app, they are likely to **go book at CCT's rival bicycle tour service business, losing loyal customers.**
+>
+> Moreover, CCT may be worried whether the app is feasible for its customers to download and use. If the app isn't user-friendly, it is very likely that customers won't want to book the bicycle tour via using app. They may write **bad reviews** of CCT's newly introduced app on the internet, leading to having the **bad reputation** of having bad services. This would make **CCT suffer from bad reputation and will need time to recover, decreasing the sales** of bicycle tour tickets."*
+
+**Examiner comment (verbatim):**
+> *"This response presents **two well developed points, consistently supported by strong contextual evidence**. Level 3 – 6 marks."*
+> **Standing guidance attached:** *"Context must be **woven throughout the entire response, appearing in all paragraphs**, and should demonstrate **variety rather than mere repetition**."*
+
+> ### 🔬 Anatomy
+> **Two paragraphs, two concerns, each with its own full chain:**
+> - **Concern 1:** tech failure → customers disappointed → **they book with a rival** → *losing loyal customers*
+> - **Concern 2:** not user-friendly → customers won't book → **bad reviews** → **bad reputation** → **takes time to recover** → *sales fall*
+>
+> **Context appears in every sentence** — *"bicycle tour"*, *"CCT's rival"*, *"customers of CCT"*. **And it varies** — products, rivals, reviews, sales — rather than repeating *"CCT"*.
+>
+> **Note: this is the mirror image of the app question in the same paper.** Two Analyse questions on one paper, and the mark scheme wants the candidate to read which one is benefits and which is concerns.
+
+---
+
+# ⭐⭐⭐ THE 9-MARK JUSTIFY EXEMPLAR — June 2025 P2 (Starbucks), Q2(f), **7/9**
+
+> **Question:** *"Starbucks wants to ensure that its employees remain with the business. To do this it is considering the following two methods: **Option 1: financial methods. Option 2: non-financial methods.** Justify which one of these two methods Starbucks should choose. (9)"*
+
+### ✅ Awarded **7 marks — Level 3**
+> *"Starbucks should choose option 2 non-financial methods.*
+>
+> *One reason to choose non-financial method is to increase job satisfaction. Maslow's hierarchy of need proves the need for non-financial motivator, such as job enrichment. This aligns with **Starbucks' current policy** on their employee, which is to allow them to develop skill and knowledge and giving more autonomy as they do so. **(e.g. barista → coffee master)**. This motivates their '**partners**' and feel recognised in their workplace, leading to **high employee retention**.*
+>
+> *Another reason to use non-financial motivator is because some people are not motivated by money. Some people work for their fun or to improve skills, so they are not motivated to stay in business just because of raised pay. Instead, maintaining good worker relations on skills of coffee master and opportunity for self-improvement is important to make them feel they should keep working in Starbucks coffee shop.*
+>
+> *However, one disadvantage is that employee might feel like the job is demanding and quit. Especially because many of coffee shop workers are part-time employee. Job enrichment might make them feel the job is too much to handle."*
+
+**Examiner comment (verbatim):**
+> *"This is a **low level three** response and was awarded **7 marks**. It starts by demonstrating good knowledge of the advantages of non-financial methods which was **well contextualised**. Importantly it gives the **impact on employee retention**. The candidate **attempts counterbalance, though this is not developed to the same level**. **It fails to provide a sound judgment to provide a clear justification based on a thorough evaluation of the issues made and so remains at the bottom of level 3.**"*
+
+> ### 🎯 Why this is 7 and not 9 — the examiner names it exactly
+> | Criterion | Verdict |
+> |---|---|
+> | Knowledge of the option | ✅ *"good knowledge"* |
+> | Context | ✅ *"well contextualised"* — *"barista → coffee master"*, *"'partners'"*, *"Starbucks' current policy"* |
+> | The named outcome | ✅ *"gives the impact on employee **retention**"* |
+> | Counterbalance | ⚠️ *"attempts counterbalance, though this is **not developed to the same level**"* |
+> | **Judgement** | ❌ *"fails to provide a **sound judgment**… based on a **thorough evaluation**"* |
+>
+> ### 🔴 The gap between 7 and 9 is the CONCLUSION
+> The candidate does everything well and then **simply stops** — the last paragraph is a drawback, and there is no final sentence that decides.
+>
+> **A 7/9 answer is an answer without a verdict.** The fix is one sentence: *"On balance, Option 2 is the better choice because … — although if Starbucks finds turnover concentrated among part-time staff, Option 1 would be the safer route."*
+>
+> **Note also the context markers:** *"partners"* is Starbucks' own term for employees, and *"barista → coffee master"* is its actual promotion ladder. **These could not appear in a generic answer — that is exactly why they earn AO2.**
+
+**⭐ And this sentence, printed immediately after the exemplar:**
+> ### *"Please note that candidates only need to select one of the two options given."*
+
+⭐ **This is now the FOURTH independent confirmation of the one-option rule** (June 2022 P2R Cadbury · June 2024 P1R Café Pinch · June 2024 P2 TUI · June 2025 P2 Starbucks). **It is settled policy, not an examiner's aside.**
+
+---
+
+# ⭐⭐ THE ZERO-MARK ANSWERS OF JUNE 2025 — two of them, and both instructive
+
+## ❌ CCT Q1(g) — answered benefits when asked for **concerns** — **0 marks**
+
+> *"Improve brand image, as it shows that CCT is innovative, increasing customer reviews that will eventually attract more customers, increasing sales, increasing profit.*
+> *Allows CCT to make market research, as by tracking the hot location that attracts the most tourists, this allows them to host an event and use that information to thier advantage, improving brand image."*
+
+**Examiner comment (verbatim):**
+> *"**Neither of these points address concerns of introducing the app; they are addressing benefits of its introduction. Therefore, it does not answer the question. 0 marks.**"*
+
+> ### 🔴 These are TWO well-formed chains, correctly contextualised, ending on business outcomes
+> Each one would have scored on a "benefits" question. **They score zero because the question asked for concerns.**
+>
+> **Report:** *"many candidates struggled to correctly interpret the question's focus. Instead of analysing the *concerns*… a significant number discussed the *benefits*. **This highlights a crucial point: it is imperative for candidates to read the question thoroughly and not rush.**"*
+>
+> ⚠️ **This is a new failure mode in the bank: not a misread of advantage/disadvantage, but of the direction of the whole question.** The safeguard is the same — **circle the operative noun** (*concerns*, *benefits*, *disadvantages*, *reasons*) and check the plan against it.
+
+## ❌ Starbucks Q2(c) — the JIT misconception — **0 marks**
+
+> *"One reason many manufacturing businesses use just-in-time because **all the goods can be finished faster as all workers and machinery are deployed**. This method is used when demand for certain good is high. Ex: Toyota cars."*
+
+**Examiner comment (verbatim):**
+> *"This received **no marks**. **Having JIT does not mean that goods will be produced or delivered quicker. JIT relates to inventory management/control.**"*
+
+> ### 📘 JIT — the precise examinable form
+> **JIT is about STOCK, not SPEED.** It means **raw materials arrive just as they are needed for production**, so the business holds minimal inventory.
+>
+> | ✅ Correct benefits | ❌ The misconception |
+> |---|---|
+> | Lower warehousing/storage costs | *"goods are produced faster"* |
+> | Less waste — materials don't spoil or get damaged | *"workers and machinery are fully deployed"* |
+> | Less cash tied up in stock → better cash flow | *"it is used when demand is high"* |
+> | Less risk of obsolescence | |
+>
+> **The full-marks answer on the same question — note it never mentions speed:**
+> > *"Businesses might use just-in-time because it helps reducing waste. If the business has gets raw materials just when required in the production line, they are less likely to get damaged or expire in inventory. This would lower business cost as all raw no raw materials will go to waste."*
+> **Examiner:** *"an excellent answer that gained the full 3 marks. It starts with an advantage of **reduced waste** and continues to develop the answer… **lowers cost**."*
+
+---
+
+# ⭐⭐ THE FORMULA-IN-WORDS RULE — June 2025 P1R, Q1(e)
+
+> **Examiner tip (verbatim):**
+> *"**The formula in words is not required, nor are there any awardable marks for it. Candidates should be encouraged to save time by not including the formula in words.**"*
+
+> ### 🚨 This closes a long-standing trap
+> Writing *"current ratio = current assets ÷ current liabilities"* before the numbers **earns nothing and costs time.**
+>
+> **The marks are for:** **substituting the numbers** (1) and **the correctly rounded answer on the line** (1).
+>
+> **So: write the substitution and the result. Skip the formula in words.**
+>
+> ⚠️ **But do not confuse this with the *method* mark.** *"they have gained access to 1 mark for their workings"* — the workings that earn a mark are the **numbers being substituted**, not the verbal formula.
+
+**And the answer-line rule, stated once more and more sharply (P2R chunk 1):**
+> *"…**very few candidates ever get 1 mark. This only happens when the workings are right, but the answer on the answer line is wrong.**"*
+
+---
+
+# June 2025 — Paper 1 — **Four Fitness** (2 gyms in Italy)
+
+**Source:** Publications Code `4BS1_01_2506_ER` · `.../4bs1-01-pef-20250821.pdf`
+
+> **Report:** *"Candidates took many routes to provide context within their response and some candidates managed to contextualise their responses, whilst other candidates struggled to provide answers in context, especially in the 'state' and 'outline' questions."*
+
+## ⭐⭐ Q1(d) — State (1) — why Four Fitness should motivate its staff
+
+> ✅ **1 mark:** *"In order to retain its **gym instructors** ad prevent them from going to other nearby gyms in Italy that may pay higher."*
+> **Examiner:** *"a suitable reason and the response is in the context of Four Fitness."*
+> **Report:** *"Where candidates did receive the mark, the context was usually '**instructors**', or '**highly qualified instructors**'."*
+>
+> ❌ **0 marks:** *"it is Because it to employees keeping working for four"*
+> **Examiner tip (verbatim):**
+> > *"**Using the name of the business is not application (AO2) as the name of the business 'Four Fitness' is used in the question.**"*
+>
+> **Also:** *"Common correct responses were 'work harder', 'stay loyal to the business', or 'rewards the employees'."* — **all correct, none sufficient without context.**
+
+⭐ **This is the name rule in its 11th confirmation, and the "generic correct answer" pattern in its Nth:** *"work harder"*, *"stay loyal"*, *"rewards the employees"* — three correct reasons, none earning the mark.
+
+## Q1(b) — Define *trade bloc*
+
+> ✅ **1 mark:** *"A trade bloc is a group of state or countries that have an agreement to trade between each other freely without many conditions or fees, e.g. the trade bloc of the EU."*
+>
+> **Report (verbatim):** *"most were correctly able to include a response that included '**countries working together**' and '**to avoid tariffs/taxes**'. However, **a small number of candidates only included either part of this response so they received zero marks**. The most common incorrect response referred to '**trade being blocked/banned**'."*
+
+> ### 📘 TRADE BLOC — it needs BOTH halves
+> **A group of countries that agree to trade with each other with reduced or no barriers (tariffs, quotas), to make trade easier and cheaper between them.**
+> ⚠️ **Only giving one half ("a group of countries") = 0.** This matches the crowdfunding failure (*"a group of people… correct but incomplete"*).
+> ⚠️ **A bloc is the opposite of a block.** The word *"blocked/banned"* inverts the meaning and scored zero.
+
+## ⭐ Q1(c) — Define *job production* — and a pure word-collision trap
+
+> ✅ **1 mark:** *"The production method, when a bussines gets an order only then produces one unit of product, which can be customised."* — *"demonstrates accurate knowledge of the term."*
+>
+> ❌ **0 marks:** *"making new jobs to Provide a benaPit for the company"*
+> **Report (verbatim):** *"A small number of candidates incorrectly referred to a **human resources process, presumably because of the word 'job'**. For example, 'creating more job opportunities'."*
+
+> ### ⚠️ THE WORD-COLLISION CLUSTER
+> | Term in the question | Wrong reading | Report |
+> |---|---|---|
+> | **job** production | **jobs** (employment) | June 2025 P1 |
+> | **promotion** (marketing) | **promotion** (a job) | Summer 2019 P1 |
+> | **public relations** | public **communication** | June 2022 P2R |
+> | **personal** savings | business **owner's** belongings | June 2022 P2R |
+> | **secondary** sector | secondary **market research** | June 2024 P1R |
+> | **autonomy** | **automation** / robots | June 2025 P2R |
+> | **capital** intensive | **labour** intensive | Nov 2020 P1R |
+> | **liquidity** | profitability / "making money" | Nov 2020 P1 |
+> | **quantitative** | **qualitative** | Nov 2020 P1R |
+>
+> ### ✅ THE HABIT: before defining, cover the word and ask "what does this word mean ELSEWHERE in business?"
+> If a business term has a common English twin — *job, promotion, public, personal, secondary, capital* — **write your definition so it could not be read the other way.**
+> **For job production, the disambiguating words are "customised", "one at a time", "made to order".** The failing answer contained none of them; it used the word *"jobs"*.
+
+## Q1(e) — Calculate the discounted ticket price — the partial-step trap
+
+> **Report:** *"Many candidates were able to include the correct answer of **£162.75** for two marks or were able to include a variety of different responses for one mark but the most common was the calculation of **£32.55**."*
+
+> ⚠️ **£32.55 is the discount, not the price.** The question gave a price of €35 with a 7% discount, and asked for the price after the discount.
+>
+> **This is step-counting again — the 9th recorded instance.** *"calculate the **discount**"* → work out the reduction. *"calculate the **price after the discount**"* → **subtract it.**
+>
+> ✅ **And the safety net held:** *"Although the candidate has not stated the correct total price, they have included their workings and are awarded a mark for calculating the discount ticket price."*
+
+## Q1(f) — Explain (3) — a benefit of fringe benefits
+
+> **Report:** *"Most candidates were able to receive three marks… the most common correct response centred around **motivated employees, leading to higher productivity, leading to greater sales/market share**. Other correct responses focused on motivation leading to **better customer service**, or **employee loyalty and lower recruitment costs**. **It was rare to see a candidate get zero marks.**"*
+
+⭐ **Three complete chains, each ending on a business outcome.** This is the 3-mark Explain working as intended: point (*fringe benefits motivate*) → cause → **consequence** (*higher productivity → greater sales / lower recruitment costs*).
+
+---
+
+# More rules from the later pages
+
+## ⭐ Rabanne Q2(b) — State (1) — a way to measure business success — **0 marks**
+
+> ❌ **0 marks:** *"Rahanne could we profits to measure success by comparing it to their competitors, this show Rahanne whether the firm has in be- covered cost and succeeded."*
+> **Examiner comment (verbatim):**
+> > *"Here the candidate has stated one measure of success 'use profits, compare to their competitors' but **with no context they do not receive the mark. Had they stated that their competitors were Gucci, Chanel, Prada then they would have achieved the mark.**"*
+>
+> **Examiner tip (verbatim) — a new and important distinction:**
+> > *"**A description of success is not awardable here or why measuring success is important, a method is needed as to how to measure success.** Candidates need to be reminded to **answer the question rather than simply discuss what they know about the key terms.**"*
+
+> ### 🎯 "A method is needed, not a description"
+> The question asked **how** to measure success. The candidate named a *thing* (profits) rather than a *method*.
+> **Profits** ≠ a method. **"Compare this year's profit with last year's"** = a method.
+> **The fix the examiner gives is context — naming the rivals — but the deeper issue is answering the *how*.**
+
+## ⭐ Rabanne Q1(g) — Analyse (6) — benefits of being a global business — **2 marks**
+
+> **Examiner:** *"gained 2 marks… deconstructed the business information with interconnected points complemented with logical chains of reasoning. They have **contextualised their response by making reference to the type of products sold 'clothing and jewelleries'**."*
+>
+> **Examiner tip (verbatim):** *"**It sounds very obvious, but make sure to read the question carefully before answering. Many candidates skim read questions and then provide answers that do not fully answer the question that has been set.**"*
+
+## ⭐ Rabanne Q2(a) — State (1) — how much context is enough
+
+> ✅ **1 mark:** *"employees motivated"*… *"making **high quality fragrances**"*
+> **Examiner tip (verbatim):** *"**Just one piece of context will suffice for the mark here.**"*
+
+⭐ **One contextual noun is the whole requirement.** Not a sentence, not a chain — **one noun.**
+
+## ⭐ Starbucks Q2(d) — Explain (3) — paying suppliers on time — **"the answer does not need to be lengthy"**
+
+> ✅ **3 marks:** *"Paying suppliers on time establishes a healthy business-supplier relationship. Hence, more discounts may be provided by suppliers. Therefore, **decreasing the costs of raw materials**."* — three sentences.
+> **Examiner:** *"an accurate and concise response which gained the full three marks. The candidate starts with an advantage, ie establishes a healthy relationship and provides **two points of development**."*
+> **Examiner tip (verbatim):** *"**The answer does not need to be lengthy. It just needs to be accurate and provide two points of development.**"*
+
+## ⭐ CCT Q2(c) — the "restating" failure on 3-mark Explain
+
+> **Report (verbatim):** *"a common issue observed was candidates **failing to reach the third mark, as their second strand of development often involved merely restating the initial** [point]."*
+
+> ### ⚠️ A third failure mode on 3-mark Explain, alongside too few links and too many
+> **Restating is the most common of the three.** The candidate writes the point, then rephrases it, then rephrases it again — three sentences, one idea, one mark.
+>
+> **Test: is my second sentence a NEW consequence, or the same idea in different words?** *"This will motivate them → This means they will be motivated"* is a restatement.
+
+## ⭐ CCT Q1(f) — Explain (3) — benefit of operating as a private limited company
+
+> ✅ **3 marks:** *"One benefit is that the owner will have a limited liability which means that he isn't responsible for any debts of the business, and therefore **won't have to sell his personal possessions to pay the debts**."*
+> **Examiner:** *"a clearly identified benefit, with clear **interconnected points of development**."*
+>
+> ⚠️ **2 marks:** *"They have a separate legal identity. This means that owners are only required to pay depts, on the amount that they have invested in the b organisation."*
+> **Examiner:** *"There is a clearly identified point, with **one** interconnected point."*
+>
+> **Report:** *"candidates were required to **clearly identify a benefit and then expand upon it with a thorough explanation, rather than just providing a definition of a private limited company**."*
+
+---
+
+# Final tally — rules from the June 2025 series
+
+| # | Rule |
+|---|---|
+| **N15** | ⭐⭐⭐ Two verified **6/6 Analyse** answers, both **three sentences**, both with context in every clause and no definition anywhere |
+| **N16** | ⭐⭐⭐ A verified **7/9 Justify** that fails *only* on the conclusion — *"fails to provide a sound judgment to provide a clear justification based on a thorough evaluation"* |
+| **N17** | ⭐⭐⭐ *"**Please note that candidates only need to select one of the two options given.**"* — **4th confirmation of the one-option rule** |
+| **N18** | 🚨 *"**The formula in words is not required, nor are there any awardable marks for it.**"* — skip it and save time |
+| **N19** | ⭐⭐ *"**very few candidates ever get 1 mark. This only happens when the workings are right, but the answer on the answer line is wrong.**"* |
+| **N20** | ⭐⭐ The **0-mark "benefits" answer to a "concerns" question** — two correct chains, contextualised, ending on business outcomes, worth nothing |
+| **N21** | ⭐⭐ *"**Having JIT does not mean that goods will be produced or delivered quicker. JIT relates to inventory management/control.**"* — 0 marks |
+| **N22** | ⭐ *"**A description of success is not awardable here… a method is needed as to how to measure success.**"* |
+| **N23** | ⭐ *"**Just one piece of context will suffice**"* — one noun |
+| **N24** | ⭐ *"**The answer does not need to be lengthy. It just needs to be accurate and provide two points of development.**"* |
+| **N25** | ⭐ *"their second strand of development often involved **merely restating the initial** point"* — the third 3-mark-Explain failure mode |
+| **N26** | ⭐ **Trade bloc needs BOTH halves**; *"only included either part… received zero marks"*; *"trade being blocked/banned"* |
+| **N27** | ⭐ **The word-collision cluster** — *job* production read as *jobs* |
+| **N28** | ⭐ Partial-step trap: **£32.55 is the discount, not the price** (9th step-counting instance) |
+| **N29** | ⭐ *"**Using the name of the business is not application (AO2)**"* — 11th confirmation, stated in a June 2025 tip |
+| **N30** | ⭐ *"Context must be **woven throughout the entire response, appearing in all paragraphs**, and should demonstrate **variety rather than mere repetition**"* |
+| **N31** | ⭐ *"**many candidates confused batch production with job or flow production**"* |
+| **N32** | ⭐ *"**It sounds very obvious, but make sure to read the question carefully**… Many candidates skim read questions"* |
