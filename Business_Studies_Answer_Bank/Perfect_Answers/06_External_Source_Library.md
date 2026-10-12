@@ -4,6 +4,8 @@
 
 ---
 
+> ⭐ **The most important external source found is not in this folder.** Pearson publishes an official assessment support page for IGCSE Business — the awarding body's own marking guidance by command word. It is captured in full at **[`00_Pearson_Official_Rulebook.md`](00_Pearson_Official_Rulebook.md)**, and it carries a **road map of which examiner reports contain full-mark answers**. Read it first.
+
 ## Why this folder exists
 
 The archive in `Paperlords_Archive/` holds **5** 4BS1 examiner reports. Pearson publishes **more**, and its **Principal Examiner Feedback (PEF)** reports are richer than the archive's copies. Each PEF report contains:
@@ -296,12 +298,27 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 
 ---
 
+## 🎯 Highest-value unharvested targets — from Pearson's own road map
+
+Pearson's support page names **May 2026** as containing full-mark examples in several papers. The archive's newest papers are labelled *June 2026* — almost certainly the same series. If so, examiner reports exist for the 2026 series in **five** tariff-and-paper combinations where **no verified full-mark exemplar is currently held at all**:
+
+| Tariff | Paper | Full-mark example available? |
+|---|---|---|
+| **Analyse (6)** | Paper 1R, Paper 2, Paper 2R | **No** — currently none held |
+| **Justify (9)** | Paper 2, Paper 2R | **No** — currently none held |
+
+These are the highest-value targets in the project: the newest papers, filling gaps that no earlier report covers.
+
+**Also outstanding** (Pearson records no 12-mark full-mark example for Paper 2 or 2R — the only verified 12/12 in this bank is June 2024 Paper 1):
+- May 2025 Paper 2 Justify · May 2025 Paper 1R Justify · May 2024 Paper 1R Analyse · May 2023 Paper 2R Justify
+
 ## Progress
 
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Harvested** | **9** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, Nov 2024 P1 |
+| **Harvested** | **9 reports** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, Nov 2024 P1 |
+| **Plus** | **Pearson's official assessment support page** — captured in full at `00_Pearson_Official_Rulebook.md` |
 | **Verified exemplars extracted** | **75+** spanning 1, 2, 3, 6, 7, 9 marks, plus extensive calibration |
 | Remaining | **6** 4BS1 reports + the full Paper 2 booklet |
 

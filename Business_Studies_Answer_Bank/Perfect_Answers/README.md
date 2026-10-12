@@ -50,6 +50,7 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 
 | File | Use |
 |---|---|
+| **`00_Pearson_Official_Rulebook.md`** | ⭐ **START HERE.** Pearson's own published marking guidance for 4BS1, by command word. The awarding body stating how its papers are marked. Where anything else disagrees with this, **this wins**. |
 | **`By_Paper/`** | **Every question in every paper.** 38 files, one per question paper, containing all **977 items** with the official mark scheme answer for each. Start here when working a specific paper. |
 | `01_Mark_Tariff_Playbook.md` | The rules. AO splits, level bands and the structural recipe for every tariff — with literal opening sentences. **Read before writing anything.** |
 | `02_Verified_Exemplars.md` | The verified full-mark scripts, transcribed in full, with examiner commentary. This is the benchmark. |
@@ -59,6 +60,15 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 | `06_External_Source_Library.md` | Web-harvested Pearson examiner reports: further `[VERIFIED CANDIDATE EXEMPLAR]` scripts, the full source catalogue, and collected examiner rules. |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
 | `../build_perfect_answers.py` | Rebuilds the `By_Paper/` bank from the mark scheme text index. |
+
+## The authority order
+
+When guidance conflicts, trust in this order:
+
+1. **`00_Pearson_Official_Rulebook.md`** — Pearson's published marking guidance. The rule.
+2. **`By_Paper/`** — the official mark schemes. Authoritative for accepted content.
+3. **`02_Verified_Exemplars.md`** / `External_Exemplars/` — real scripts with confirmed marks. Evidence of the rule in action.
+4. **`01_Mark_Tariff_Playbook.md`** — this bank's synthesis. Useful, but derived.
 
 ## The two layers
 
