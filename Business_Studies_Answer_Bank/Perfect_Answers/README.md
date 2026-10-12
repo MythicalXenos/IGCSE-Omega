@@ -46,11 +46,20 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 
 | File | Use |
 |---|---|
+| **`By_Paper/`** | **Every question in every paper.** 38 files, one per question paper, containing all **977 items** with the official mark scheme answer for each. Start here when working a specific paper. |
 | `01_Mark_Tariff_Playbook.md` | The rules. AO splits, level bands and the structural recipe for every tariff — with literal opening sentences. **Read before writing anything.** |
 | `02_Verified_Exemplars.md` | The verified full-mark scripts, transcribed in full, with examiner commentary. This is the benchmark. |
 | `03_Calibration_Below_Full_Marks.md` | Near-miss scripts with the examiner's reason for every mark lost. Arguably more instructive than the full-mark ones. |
-| `04_Type_Coverage_and_Gaps.md` | The complete 696-item taxonomy, and an honest statement of what this bank does not contain. |
+| `04_Type_Coverage_and_Gaps.md` | The complete item taxonomy, and an honest statement of what this bank does not contain. |
+| `05_Constructed_12mark_Models.md` | `[CONSTRUCTED GRADE 9 TARGET]` models for 12-mark evaluations (batch 1: the six most recent sessions). |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
+| `../build_perfect_answers.py` | Rebuilds the `By_Paper/` bank from the mark scheme text index. |
+
+## The two layers
+
+**Layer 1 — official content (complete).** `By_Paper/` holds the mark scheme answer for every one of the 977 items across all 38 papers. For the 595 one- and two-mark items (443 + 152) the mark scheme answer **is** the perfect answer — there is nothing to add. For the 382 level-based items it is the official accepted content that a full-mark response must assemble into developed chains.
+
+**Layer 2 — constructed models (in progress).** Assembling that official content into full-mark-shaped responses. Priority order: 12-mark (38 items) → 9-mark (76) → 6-mark (116) → 3-mark (152). Batch 1 covers six 12-mark questions; see `05_Constructed_12mark_Models.md` for what remains.
 
 ## Sources
 
