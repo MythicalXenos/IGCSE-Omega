@@ -42,6 +42,8 @@ Pearson publishes similar-looking materials for **two different qualifications**
 | [`2023-06_P1R_Aude_Rose.md`](External_Exemplars/2023-06_P1R_Aude_Rose.md) | Jun 2023 P1R | **Aude Rose** (florist) | **9/9 ×2, 6/6, 2/2** + the 9-mark rule |
 | [`2023-06_P2_IKEA.md`](External_Exemplars/2023-06_P2_IKEA.md) | Jun 2023 P2 | **IKEA** | **3/3 ×4, 3/6** + 0/6 and State-question data |
 | [`2022-06_P1_TBTS.md`](External_Exemplars/2022-06_P1_TBTS.md) | Jun 2022 P1 | **TBTS** (toy shops, Singapore) | **9/9 ×2, 6/6 ×2, 3/3 ×2, 2/2, 1/1** + the "final three words" breakdown |
+| [`2022-06_P1R_Can_Culleretes.md`](External_Exemplars/2022-06_P1R_Can_Culleretes.md) | Jun 2022 P1R | **Can Culleretes** (restaurant) | **9/9 ×2, 6/6 ×2, 3/3 ×2, 2/2 ×2, 1/1** + the "wasted time" trap ×2 |
+| [`2022-06_P2R_Cadbury.md`](External_Exemplars/2022-06_P2R_Cadbury.md) | Jun 2022 P2R | **Cadbury** | **6/6, 3/3 ×6, 1/1 ×2** + the 5/6→6/6 linking rule, 7/9 and 6/9 |
 | [`2024-11_P1_Paper_Advice.md`](External_Exemplars/2024-11_P1_Paper_Advice.md) | Nov 2024 P1 | Saha (robots) | Paper-summary advice only |
 
 > Transcriptions are faithful to the candidate's handwriting, including spelling and punctuation errors, because a grade-9 answer does **not** require perfect English. Insertions for legibility are in `[square brackets]`.
@@ -113,6 +115,21 @@ Stated outright by the examiner on June 2024 P1R Q3(b):
 **This second one is a significant finding.** It was already known that justify (9) and evaluate (12) rank zero for AO1 on some tariffs — but the June 2023 P2 report states it of an **analyse** question, where the AO split is `AO2 = 3, AO3 = 3` and AO1 contributes **nothing**.
 
 **Consequence:** on a 6-marker, a response containing three correct definitions of "multi-national", "limited liability" and "unincorporated business" — all accurate — scored **0/6**.
+
+Jun 2022 P2R (Cadbury) states the same rule for its analyse question, making **three separate reports** confirming it:
+
+> *"Candidates must be aware that there are no marks available for knowledge, and that the response must be in context of Cadbury."* — Jun 2022 P2R Q1(g)
+
+### Where knowledge is worth marks — and where it is worth nothing
+
+| Tariff | AO split | Knowledge (AO1) marks |
+|---|---|---|
+| **3 — explain** | AO1 = 3 | **All 3** — knowledge *is* the question; context not required |
+| **6 — analyse** | AO2 = 3, AO3 = 3 | **Zero** |
+| **9 — justify** | AO2 = 3, AO3 = 3, AO4 = 3 | **Zero** |
+| **12 — evaluate** | AO1 = 3, AO2 = 3, AO3 = 3, AO4 = 3 | 3 — the only level-based tariff that pays for it |
+
+**So: the 3-mark explain is the ONLY place where pure knowledge earns marks.** Everywhere else, knowledge must be applied, chained or evaluated, or it scores nothing.
 
 > *"An 'Analyse' question is looking for application and analysis, whereas a 'Justify' question is looking for application, analysis and evaluation."* — Jun 2023 P2 introduction
 
@@ -193,6 +210,23 @@ IDENTIFY the point  (1)
 
 Confirmed independently by Jun 2023 P2 Q1(f): the 2/3 response stopped at *"helps the business save a bit of money"*; the 3/3 carried on to *"higher value and more profit"*.
 
+## 6d. The 5/6 → 6/6 gap: LINK your factors, don't add more
+
+From Jun 2022 P2R Q1(g) — the most precise statement of what separates the top two bands of an analyse question:
+
+> *"This response shows a clear understanding… **However, the response did not gain full marks because it lacked the logical chains of reasoning. Perhaps the candidate could have linked the two factors together**, by moving near to supplies might be difficult to get employees to work at the factory, or locating near to a city provides workers who have the skills."*
+
+The 5/6 response had **two valid factors, correctly applied** (it used "cocoa seeds" — a perfect Cadbury anchor). It still lost a mark. The examiner's diagnosis is not "add a third point" — it is **link the two you already have**.
+
+**Why:** the Level 3 AO3 descriptor says *"detailed **interconnected** points"*. Two points in sequence are not interconnected. A 6/6 does not have **more** points; it has points that **bear on each other**.
+
+**The move to practise:**
+
+```
+INSTEAD OF:  Factor A → consequence.   Factor B → consequence.
+DO:          Factor A → consequence → which in turn affects Factor B → consequence
+```
+
 ## 7. Time, relevance and balance
 
 > *"Not to spend time repeating the questions – this is not necessary and simply wastes time."* — June 2022 P1R paper summary
@@ -267,10 +301,10 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Harvested** | **7** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1, Nov 2024 P1 |
-| **Verified exemplars extracted** | **55+** spanning 1, 2, 3, 6, 7, 9 and 12 marks, plus calibration |
-| Remaining | **8** 4BS1 reports + the full Paper 2 booklet |
+| **Harvested** | **9** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, Nov 2024 P1 |
+| **Verified exemplars extracted** | **75+** spanning 1, 2, 3, 6, 7, 9 marks, plus extensive calibration |
+| Remaining | **6** 4BS1 reports + the full Paper 2 booklet |
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** June 2022 P1R (Can Culleretes), June 2022 P2R (Cadbury), Nov 2023 P2 (Kraft Heinz), Nov 2021 P1 (Artify Studios) — then Nov 2020 ×3, Summer 2019, and the full Paper 2 booklet.
+**Next batch, in priority order:** Nov 2023 P2 (Kraft Heinz), Nov 2021 P1 (Artify Studios), Nov 2020 P1/P2/P1R, Summer 2019 P2R — then the full Paper 2 exemplar booklet.
