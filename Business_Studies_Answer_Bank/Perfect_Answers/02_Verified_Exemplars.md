@@ -4,7 +4,143 @@ Every answer on this page is a **`[VERIFIED CANDIDATE EXEMPLAR]`**: a real stude
 
 Transcriptions are faithful to the candidate's handwriting, including their spelling and punctuation errors, so you can see that a grade-9 answer does **not** require perfect English. Minor illegible words are marked `[?]`.
 
-> **Note on the source PDFs.** In the Pearson exemplar booklets the candidate responses are embedded as *images*, not text. These transcripts were read directly from the rendered pages. The page scans are preserved in `Exemplar_Scans/` so you can check any transcription against the original.
+> **Note on the source PDFs — two different kinds.**
+>
+> **(1) The exemplar booklets (June 2019).** Candidate responses are embedded as *images*, not text. Those transcripts were read from rendered pages; the scans are preserved in `Exemplar_Scans/`.
+>
+> **(2) The full Examiner Reports.** Some series publish reports that **print the scripts as text, with the awarded mark and the examiner's reasoning alongside each one**. These need no rendering and are transcribed exactly. **The June 2022 series is one of these** — it supplies the 1-mark, 2-mark and 6-mark sections below, the decimal-place pair, and the Justify evidence.
+>
+> **Two further series are known to publish in this form and are queued for harvest: June 2024 Paper 2R, and May/June 2025.**
+
+---
+
+# 1 MARK — STATE & DEFINE
+
+> **Source for this section:** *Examiners' Report, June 2022, 4BS1 02R (Cadbury)*, Publications Code 4BS1_02R_2206_ER. Unlike most reports, this one **prints the scripts with the mark awarded**.
+
+## ⭐⭐ The definitive pair — `[VERIFIED CANDIDATE EXEMPLAR]` — 1/1 vs 0/1
+
+**June 2022 P2R, Question 1(d)** — *State **one** reason why Cadbury might pay its UK employees above the minimum wage.* (1)
+
+### ✅ Awarded **1 mark**
+> *"To retain its employees. In this case, Cadbury would want to retain its employees so they don't switch to competitors like Lindt or Royce."*
+
+**Examiner comment (verbatim):**
+> *"This response is **in context** by commenting on Cadbury not wanting its employees to switch to **competitors like Lindt**."*
+
+### ❌ Awarded **0 marks**
+> *"This is to improve brand image and reputation in the market, as it has lots of competition, it needs good image and reputation to attract workers to work for them and to attract customers to buy from them."*
+
+**Examiner comment (verbatim):**
+> *"This response has made **very valid comments** about there is lots of competition and Cadbury wants to maintain its reputation. **However, there is nothing that is related back to Cadbury and its workers.**"*
+
+### The two answers side by side
+
+| | **1 mark** | **0 marks** |
+|---|---|---|
+| Length | 18 words | 43 words |
+| Names Cadbury | once | **twice** |
+| Names a **competitor** | **Lindt, Royce** | *"lots of competition"* |
+| Names the **employee group** | *"its employees"* | *"workers"* (generic) |
+| Verdict | **in context** | *"very valid… however, nothing related back"* |
+
+**The 0-mark answer is longer, more fluent, and factually blameless — and it earns nothing.**
+
+**Examiner rule (verbatim):**
+> *"**Just putting Cadbury in the response does not mean it is in context as Cadbury is in the question.**"*
+
+**Examiner tip (verbatim) — the single most useful sentence in this bank:**
+> *"**Try and avoid using the name of the scenario but include something that is related to the business. In this example perhaps including chocolate cake designers would put the response in context.**"*
+
+> **So: do not write the business's name. Write a specific noun from the case that could not appear in a generic answer** — *"chocolate cake designers"*, *"competitors like Lindt"*, *"the quality of the chocolate packaging"*.
+
+### Two more verified State answers from the same paper
+
+**Q2(a)** — *State one item of information an applicant might include in their CV when applying for a position with Cadbury.*
+> ❌ **0 marks:** *"They would be well trained and fit for a special for a job with years of experience."*
+> **Examiner:** *"would be relevant **if they had related to Cadbury**, such as a **Chocolate Production Line Manager**."*
+
+**Q2(b)** — *State one item of information that may appear in a job description for a Cadbury Production Line Supervisor.*
+> ✅ **1 mark:** *"part of the job may be to ensure the quality of the chocolate packaging."*
+> **Examiner:** *"gained the mark available by referring to the **quality of chocolate packing**."*
+
+> **The difference between 0 and 1 is one applied noun.** *"well trained"* could belong to any business; *"chocolate packaging"* could only belong to this one.
+
+---
+
+# 2 MARKS — CALCULATE
+
+## ⭐⭐ The decimal-place pair — `[VERIFIED CANDIDATE EXEMPLAR]` — 1/2 vs 2/2
+
+**June 2022 P2R, Question 1(e)** — *Calculate the selling price of the chocolate cake. You are advised to show your working.* (2)
+
+### ⚠️ Awarded **1 mark**
+> *"6.5 x (1+20%) = 6.5 x 1.2 = **£7.8**"*
+
+**Examiner comment (verbatim):**
+> *"This particular response only gained **one mark** as the working out is correct but the answer was **missing the second decimal place**."*
+
+### ✅ Awarded **2 marks**
+> *"6.50 × 1.2 = £**7.80**"*
+> **Examiner:** *"A clear response and easy to read."*
+
+> ### 🔴 One character. One mark.
+> **The method is right. The arithmetic is right. The candidate wrote `.8` instead of `.80` and lost a mark.**
+>
+> *"Check the question carefully to see if one or two decimal places are required in the answer."*
+>
+> **This is the first time the decimal-place rule is shown on an actual script rather than described.** It is now the bank's 10th recorded instance of the rule and the clearest of them all.
+
+**Two more calculation rules from the same report:**
+
+> **Workings are insurance.** *"they could gain a mark for the working, **even if the actual answer written in the box is incorrect**."*
+> **Put the answer on the line.** *"write their answer on the **dotted lines at the bottom of the box** so that the examiners are clear as to what their answer is."*
+> **Make digits legible.** *"take care to ensure that their **figures are easily recognisable**, to avoid any confusion by the examiner."*
+
+---
+
+## `[VERIFIED CANDIDATE EXEMPLAR]` — DEFINE: 1/1 vs 0/1, and why
+
+**June 2022 P2R.** Three define questions, each with the marked answer printed.
+
+### Q1(b) — Define *personal savings*
+
+> ❌ **0 marks:** *"Money from the belongings of the business owner."*
+> **Examiner:** *"This response is **not worthy of a mark**. As the candidate has put **business owner** in the response it does not give a definition of being **personal**."*
+
+> ✅ **1 mark:** *"A persons own finance which they have saved"*
+> **Examiner:** *"A valid response showing an understanding of what the term means."*
+
+**Examiner tip (verbatim):** *"**Aim to be specific in your response – is the response a definition or an explanation?**"*
+
+### Q1(c) — Define *sole trader* — **two different routes to the same mark**
+
+> ✅ *"business where there's only one owner"*
+> **Examiner:** *"A clear definition is given that there is only one owner… has also **avoided using the phrase in their response**."*
+
+> ✅ *"Entrepreneur form of ownership where the business is owned by one person and has unlimited liability."*
+> **Examiner:** *"A slightly different response but gives a clear definition… and that they have unlimited liability."*
+
+### Q3(a) — Define *public relations*
+
+> ❌ **0 marks:** *"The attempt to communicate with interested parties."*
+> **Examiner:** *"The comment about trying to communicate with interested parties is **not relevant** and therefore not worthy of a mark."*
+
+> ✅ **1 mark:** *"public relations mean the business has a good relation with the community they are located in."*
+> **Examiner:** *"Although the response includes **relation**, it is developed with reference to **the business having a good relation with the community** they are located in."*
+
+> ### 🎯 THE DEFINITION RULES, ALL PROVEN
+>
+> | Rule | Evidence |
+> |---|---|
+> | **Do not use the word you are defining** | *"not to use the words they are defining"* |
+> | **Do not copy the question into the box** | *"avoid wasting valuable time writing the question in the answer box"* |
+> | **A definition is not an explanation** | *"is the response a definition or an explanation?"* |
+> | **Every word in your definition must be doing work** | *"business owner"* broke *"personal"* savings → 0 |
+> | **~10 words is enough** | *"business where there's only one owner"* → 1 mark |
+> | **Two valid formulations may both score** | sole trader: *"only one owner"* OR *"one person + unlimited liability"* |
+>
+> ⚠️ **And PR is the trap:** *"communicate with interested parties"* sounds professional and scored **0**. **PR must mention image, reputation or public perception.**
 
 ---
 
@@ -51,6 +187,64 @@ Trace the chain — it maps exactly onto the mark scheme's `(1) … (1) … (1)`
 This answer **scored 3/3 and still wasted its opening sentence.** The examiner says so explicitly: *"The first sentence is not needed in this response. The candidate has simply repeated the question, therefore wasting time and space."*
 
 "It is not needed" is not the same as "it costs marks" — this candidate got full marks anyway.
+---
+
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — the 2/3 vs 3/3 pairs
+
+**June 2022 P2R.** Four Explain questions, each with two marked answers. **These are the clearest demonstration in the bank of exactly which sentence earns the third mark.**
+
+### Q1(f) — Explain **one** advantage of a fall in banks' interest rates to a business
+
+> ✅ **3 marks:** *"If banks reduce their interest rates, business' Will not be giving as much money to the bank as they once did. This leads to the business saving money and instead of putting the money into the bank it can be used to help further improve their business therefore they may have more chance of Survival."*
+>
+> **Examiner:** *"includes the one advantage they they are not going to be paying the bank as much. **The development** is leading to them saving money, **which could further improve their business**."*
+
+> ⚠️ **2 marks:** *"They can pay their debts easier, as interest rates being decreased means they will have to pay less to borrow, which improves the liquidity of the business."*
+>
+> **Examiner:** *"gained **2 marks**, the comment with reference to **paying less to borrow** this is then developed which **improves the cash flow** of the business. **The comment about paying their debts easier is not developed.**"*
+
+**Examiner tip:** *"**To avoid wasting time do not repeat the question in the first sentence.**"*
+
+> **The third rung is the consequence for the business.** The 2-mark answer stops at the mechanism (*"improves the liquidity"*). The 3-mark answer adds *"it can be used to help further improve their business… more chance of Survival"*.
+
+### Q2(c) — Explain **one** method a business could use to motivate its employees
+
+> ⚠️ **2 marks:** *"A business could use job rotation to motivate its employees. Job rotation will provide a change in the workplace of its employees, as a result it could motivate them."*
+> **Examiner:** *"The method of job rotation is valid and worthy of a mark, with **a justifiable reason** of giving employees a change in the workplace. However, the response was **not further developed to gain the extra mark available**."*
+
+> ✅ **3 marks:** *"A business could use non financial methods to motivate employees This means that employees will be more challenging. This leads no the employees feeling trusted and valuable no the business as a large amount of work needed for the business is from them As a result the employee will feel wanted and also the business would be increasing its productivity."*
+> **Examiner:** *"gives a method of **Job Enrichment**, followed by **development** of employees being more challenged, together with employees feeling trusted and valued."*
+
+> **Same gap again: the 3-mark answer ends on a business outcome — *"the business would be increasing its productivity"*.**
+
+### Q2(d) — Explain **one** reason why a business has fully trained employees
+
+> ✅ **3 marks:** *"To avoid mistakes and maintain quality, this means that if call employees and trained to a standard across the business this avoids mistakes, as a result maintaining quality, leading to more satisfied customers, therefore building a qualified workforce."*
+>
+> ✅ **3 marks:** *"To decrease safety risks / hazards. This is because if employees are trained they 're less likely to make less mistakes and be more safe and have safe working conditions Since they know now to do their job well. This may lead to none of the employees swing the business for unsafe working conditions meaning they 'll reduce their legal costs."*
+
+**Examiner tip:** *"**Try to avoid repeating the question in your response, it wastes valuable time and is not needed.**"*
+
+### Q2(e) — Explain why manufacturing businesses use Kaizen
+
+> ✅ **3 marks:** *"To increase employee loyalty, this is because Kaizen is a Japanese term used to mean "continuous development"; this leads to employees feeling more valued as their opinions and suggestions are used to create improvements in the firm, there for more productive employees."*
+>
+> ✅ **3 marks:** *"to improve their product. This means that employees are given the chance to decide on how to improve the product since they are the ones making them. As a result businesses can continuously improve if they use Kaizen in their factories."*
+
+**From the report:** *"Many candidates understood why manufacturing businesses use Kaizen… **but then did not include the reasons why**… Most responses included the comment about **reducing waste**, which is relevant but then did not develop the comment further, perhaps including **involving employees more to give their opinion as they know how the machinery works**."*
+
+> ### 🎯 THE 3-MARK EXPLAIN, DECOMPOSED
+>
+> | Rung | Earns | Example |
+> |---|---|---|
+> | **1. The point** — method / advantage / reason, named | 1 | *"job enrichment"* |
+> | **2. The mechanism** — why it works | 1 | *"employees will be more challenged… feeling trusted and valuable"* |
+> | **3. The business outcome** | 1 | *"the business would be increasing its **productivity**"* |
+>
+> **The third rung is almost always one of: productivity, costs, quality, customer satisfaction, revenue, survival, loyalty.** If your answer ends on *"this motivates them"* or *"this improves cash flow"*, **you are one rung short.**
+>
+> ⭐ **Every 3/3 answer above contains grammatical errors and typos and lost nothing.** *"This leads no the employees"*, *"if call employees and trained"*, *"they 'll reduce their legal costs"* — all scored **3/3**. **Business content is marked; spelling and grammar are not.**
+
 ---
 
 # 6 MARKS — ANALYSE
@@ -120,6 +314,50 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ---
 
+## ⭐⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **6/6 in three sentences**
+
+**June 2022 P2R, Question 1(g)** — *Analyse **two** factors that could influence Cadbury when locating a new factory.* (6)
+
+### ✅ Awarded **6 marks (full marks)**
+> *"Proximity to employees This is because the factory being close to employees would reduce Cadbury's costs that would be used for transport. This leads to them being able to save time that would be used in the journey, therefore, Cadbury would increase their efficiency."*
+
+**Examiner comment (verbatim):**
+> *"A well answered response, clearly identifying the two factors of location and giving justifiable reasons."*
+
+**Level 3 – 6 marks**
+
+> ### 🔴 This is the most important exemplar in the bank. Read it twice.
+>
+> **A FULL-MARKS 6-mark Analyse answer is THREE SENTENCES — 43 words.**
+>
+> No introduction. No definition. No listing. No conclusion. Just:
+> **factor → why it cuts costs → what that does for Cadbury.**
+>
+> *"Proximity to employees" → "would reduce Cadbury's costs that would be used for transport" → "they are able to save time… Cadbury would increase their efficiency."*
+>
+> **Copy this skeleton exactly:**
+> `[Factor] → This is because [mechanism, applied to the business] → This leads to [business outcome] → therefore [Business] would [result].`
+
+### ⚠️ Awarded **5 marks** — the better-informed answer that still lost a mark
+
+> *"A factor in opening a new factory is to locate it near its natural resources of the product the firm is producing, this causes less time to Produce the product with the firm Cadbury being really successful money limitations isn't an issue to opening new factories, Since Cadbury is a chocolate producing firm they should locate their factories in countries where cocoa seeds are highly common these."*
+
+**Examiner comment (verbatim):**
+> *"This response shows a **clear understanding** of Cadbury locating near to where its natural resources are and **it is applied by mentioning cocoa seeds**. This is then developed with the comment about less time to produce… **However, the response did not gain full marks because it lacked the logical chains of reasoning.** Perhaps the candidate could have **linked the two factors together**, by moving near to supplies might be difficult to get employees to work at the factory, or locating near to a city provides workers who have the skills."*
+
+> ### 🎯 5 marks vs 6 marks
+> The 5-mark answer has **more knowledge and better applied detail** (*"cocoa seeds"*) than the 6-mark answer. It lost a mark for one reason: *"**it lacked the logical chains of reasoning**."*
+>
+> **The examiner's own fix: "linked the two factors together."**
+>
+> **On a two-part Analyse, do not write two disconnected mini-answers. Finish with one sentence that JOINS them.**
+> *"…however, siting the factory near the cocoa supply may make it hard to recruit skilled workers, so Cadbury would need to weigh cheap transport against a shortage of labour."*
+
+**Also from the same question — the Analyse tariff in the examiner's words:**
+> *"'Analyse' questions are testing… **AO2 which is 'Application' and AO3 which is 'Analysis'**. Thus, to be successful, candidates need to demonstrate **both** of these skills."*
+> *"Candidates must be aware that **there are no marks available for knowledge**, and that the response **must be in context of Cadbury**."*
+> *"Examiners will look at the response **'holistically'**."*
+
 # 9 MARKS — JUSTIFY
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 9/9
@@ -169,6 +407,53 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 - **4/9 response (Level 2):** the candidate *"shows an understanding of both methods of motivation"* and explains impacts — but lands only mid-band.
 
 **Read the 7/9 comment again.** "Started to make a judgement" = **7**. "Clear justification based on a *thorough* evaluation" = **9**. The gap is entirely in the quality of the evaluation, with the same underlying knowledge.
+
+---
+
+## ⭐⭐⭐ THE BIGGEST RULE IN THE BANK — `[VERIFIED CANDIDATE EXEMPLAR]` — 7/9
+
+**June 2022 P2R, Question 2(f)** — *Justify which method of working Cadbury should use: **job share** or **part-time work**.* (9)
+
+### ⭐ You do NOT have to discuss both options
+
+**Examiner statement (verbatim):**
+> *"**Candidates do not have to consider both options in their response. Candidates can achieve the full marks only considering the one option.**"*
+
+> **This overturns the most common piece of advice given to candidates.** There is no requirement to argue both sides. **Nine marks are available for one option, thoroughly developed.**
+>
+> **Why it matters:** candidates who "cover both" routinely produce two shallow halves instead of one deep argument. **Pick the option you can develop furthest, and commit.**
+
+### And Justify is marked exactly like Analyse — plus AO4
+
+> *"The '**Justify**' questions are marked in the same way as the '**Analyse**' questions which is **Levels**, but candidates now have to include '**Evaluative**' (**Assessment Objective 4**) comments."*
+> *"Candidates should be careful to avoid giving **detailed knowledge of the two options** available as **there are no knowledge marks for this question**."*
+
+### ✅ Awarded **Level 3 — 7 marks** (one option only: job share)
+
+> *"…to be shared, which may not be enough for their daily needs."* … *"As skilled employees in the long term would motivate them and would ensure that stay at Cadbury due to the reduced burden and move tembility, ensuring the also produce better chocolates and sweets, leading to higher revenues."*
+
+**Examiner comment (verbatim):**
+> *"The first response has a clear understanding of what job share is and how it works, encouraging staff to work together which motivates them to work harder. **The response is mainly for the option chosen.** There are comments with regard to how job sharing affects the employee, it is less stressful and that they have the flexibility of working. **The evaluative comments about staying at Cadbury is relevant as it reduces the burden on themselves. Perhaps if the response had included more evaluative comments with regard to Cadbury and more logical chains of reasoning it could have moved into the top of Level 3.**"*
+
+### ⚠️ Awarded **Level 2 — 6 marks**
+
+> *"Working part-time will benefit employees and The business as employee has lesser working hours and business spends lesser on employee (due to working hours) so but Cadbury, in turn, can spend more on part-time workers Clarge work-force, small pay) But Cadbury can have an improved cash flow which allows them to return employees at a cheaper prize."*
+
+**Examiner comment (verbatim):**
+> *"This response chose Option 1 – part-time work and gave reasons as to why working part-time would be beneficial, the shorter hours, etc but **the negative side for Cadbury that they will have to employ more employees to ensure that the work is covered**. The response showed **sound application of knowledge, found interconnected points with chains of reasoning and some judgement was made**. Gaining the top of Level 2."*
+
+### Decode 6 → 7 on Justify
+
+| | **Level 2 — 6** | **Level 3 — 7** |
+|---|---|---|
+| Application | *"sound application"* | *"mainly for the option chosen"* |
+| Chains | *"interconnected points with chains of reasoning"* | **lacked "more logical chains"** |
+| Judgement | *"some judgement was made"* | *"evaluative comments about staying at Cadbury is relevant"* |
+| **Missing for the top of L3** | — | **"more evaluative comments with regard to Cadbury"** |
+
+> **The examiner's own upgrade instruction: add MORE evaluative comments — and specifically ones about the BUSINESS, not about the employees.**
+>
+> ⭐ **Both answers are full of spelling errors and typos** (*"move tembility"*, *"cheaper prize"*, *"Clarge work-force"*) **and lost nothing for them.** Both lost marks on **structure and evaluation**, never on language.
 
 ---
 
