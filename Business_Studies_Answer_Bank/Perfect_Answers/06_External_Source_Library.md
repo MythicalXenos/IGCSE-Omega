@@ -720,6 +720,132 @@ Nov 2020 P1R Q4(b), on Level 3 analysis:
 >
 > **Do not read a repeated general sentence as a new finding, and do not count template sentences as independent confirmations.** Where this bank says "confirmed N times", those confirmations are drawn from **question-specific** passages only.
 
+## 41. ⭐⭐⭐ THE COMMAND WORD TAXONOMY — recovered from the reports themselves
+
+For the whole project this was recorded as *"unreachable"*: the taxonomy sits on **page 32 of the Getting Started Guide / page 31 of the Specification**, past the fetcher's content limit. **It is no longer needed from there.** The Summer 2019 reports give its location, its purpose, and three of its rows outright:
+
+> *"on **page 32 of the Teacher's Guide** and **page 31 of the Specification**, are examples of the **command words** used that **indicate which of the AO's are being tested**."* (Summer 2019 P2R)
+>
+> *"Centres are advised to look at the **command words outlined on page 31 of the specification** as many learners are losing marks through their lack of understanding of these words, in particular the **'State' questions**."* (Summer 2019 P1)
+
+**And the AO percentage breakdown** — repeatedly mis-quoted in the bank as being on the same page — is elsewhere:
+
+> *"The breakdown for each AO can be seen on **page 7 of the Getting Started** guide"* / *"**page 22 in the Specification**"*
+
+### The table, reconstructed from examiner statements and mark scheme tariffs
+
+| Command word | AOs tested | Knowledge marks? | Context needed? |
+|---|---|---|---|
+| **Define** | AO1 | **yes — pure recall** | **no** |
+| **State** | AO1 + **AO2** | yes | ⭐ **MANDATORY** |
+| **Outline (2)** | **AO2** | **no** | **yes** |
+| **Explain (3)** | **AO1** | **yes (3/3)** | **optional — never penalised** |
+| **Analyse (6)** | **AO2 + AO3** | ⭐ **NO** | **yes, or L2 caps** |
+| **Justify (9)** | ⭐ **AO2 + AO3 + AO4** | ⭐ **NO** | **yes** |
+| **Evaluate (12)** | ⭐ **AO1 + AO2 + AO3 + AO4, equally — 3 each** | yes (3 of 12) | **yes** |
+| **Calculate** | AO2 | n/a | n/a |
+
+**The three rows stated verbatim by Pearson:**
+
+> **Justify** — *"there are **no AO1 marks available for these questions** and they are being tested on **application (AO2), analysis (AO3) and evaluation (AO4)** skills to be able to successfully **recommend one of the options**"* (Summer 2019 P1)
+>
+> **Analyse** — *"an **analyse** question is looking for **application and analysis as opposed to knowledge**"* (Summer 2019 P2R)
+>
+> **Evaluate** — *"with **all four of the Assessment Objectives** being covered"* / *"the only level-based question in the paper which is **equally weighted across all four assessment objectives**"* (Summer 2019 P1)
+
+### ⭐ THE ACTIONABLE SUMMARY
+
+> **AO1 is tested on only FOUR command words: Define, State, Explain, Evaluate.**
+>
+> **On Outline, Analyse and Justify — 17 of the paper's 80 marks — knowledge earns exactly nothing.**
+>
+> **The single biggest self-inflicted loss on the paper is writing a definition where a development was asked for.**
+
+---
+
+## 42. ⭐⭐ THE 12-MARKER IS 3 / 3 / 3 / 3 — and it is the ONLY one
+
+> *"centres are reminded that this is **the only level-based question in the paper which is equally weighted across all four assessment objectives**."* (Summer 2019 P1 Q4(c))
+
+**AO1 3 · AO2 3 · AO3 3 · AO4 3.** No other question on the paper is weighted that way.
+
+**Implication for answer shape — a quarter of the marks are AO4.** Since ~80% of candidates stop at Level 2, and the two recorded causes are *no application* and *no thorough judgement*, the practical split is:
+
+> **~3 sentences of textbook-correct knowledge · ~4 sentences of applied chain · a paragraph of both sides · a conclusion that DECIDES and RANKS.**
+>
+> **The conclusion is worth up to 3 marks on its own.** It is not an optional flourish.
+
+---
+
+## 43. ⭐ CROSS-QUESTION LINKAGE — the technique that separates Level 3
+
+> *"Those candidates who accessed level 3 did so by detailed analysis of the usefulness of profitability ratios in relation to *Backyard Shoez* **with some candidates linking it to other information given about the business throughout the paper**."* (Summer 2019 P1 Q4(b))
+
+**The best candidates did not confine themselves to the data in front of them.** They pulled in facts from elsewhere in the case study — other paragraphs, other questions' data.
+
+**Why it cannot be faked:** a knowledge-only answer cannot do this. It is proof of having read and understood the whole case study, which is exactly what AO2 rewards.
+
+> **The habit:** before starting the final question, **skim back over Questions 1–3** and note one extra fact the paper gave you that you have not yet used.
+
+---
+
+## 44. ⭐ MARKUP vs MARGIN — *"calculated their working the wrong way around"*
+
+> *"some candidates **calculated their working the wrong way around** on this question thus not gaining any marks."* (Summer 2019 P1 Q4(a))
+
+**Backyard Shoez bought children's shoes for 2,400 Ks and sold them for 3,200 Ks:**
+
+| | Formula | Answer |
+|---|---|---|
+| **Markup** | (selling price − cost) ÷ **COST** × 100 | 800 ÷ 2,400 = **33.33%** |
+| **Margin** | (selling price − cost) ÷ **SELLING PRICE** × 100 | 800 ÷ 3,200 = **25%** |
+
+> **Memory hook: mark**up = *"how much did I add on top of what I paid?"* → **divide by cost.** **Margin** = *"what slice of the sale price is profit?"* → **divide by price.**
+
+---
+
+## 45. ⭐ THE 3-MARK DISTRIBUTION, MEASURED — the most useful statistic in the bank
+
+Summer 2019 P1 Q1(f), a 3-mark Explain on **one way to increase gross profit margin**:
+
+| Marks | % of cohort | What they did |
+|---|---|---|
+| **0** | **one third** | could not explain one way at all |
+| **1** | **one third** | *"identifying one way but then not developing their answers"* |
+| **2** | **one quarter** | *"add some development"* |
+| **3** | **less than one tenth** | full marks |
+
+> **Three quarters of the cohort could not get past one mark on a 3-mark question.** Pearson's own diagnosis: *"This may be down to **lack of knowledge** of how to increase gross profit margin."*
+>
+> **On a 3-mark Explain the tariff is: identify (1) → mechanism (1) → consequence (1). One well-developed point, never three listed ones.**
+
+---
+
+## 46. The confusions recorded from the very first sitting (Summer 2019)
+
+| Confused | With | Report |
+|---|---|---|
+| **stakeholder** | **shareholder** | P1 Q1(b) |
+| **quantitative data** | **qualitative data *or market research*** | P1 Q1(c) |
+| **profit** | **sales** | P1 Q3(a) |
+| **promotion** (marketing) | **promotion** (a job) **and below-the-line promotion** | P1 Q2(d) |
+| **a document** | **the statement of financial position** | P2R Q2(e) |
+| **one non-financial reward** | **the other non-financial reward** | P2R Q3(e) |
+
+⭐ **The *promotion* collision is a pure vocabulary trap** — the same word meaning two unrelated things in business. Over a third of that cohort scored zero on above-the-line promotion for this reason.
+
+---
+
+## 47. Length is CALIBRATED — *"the lines available are more than adequate"*
+
+> *"Learners should practice writing **more concise** answers to these questions as **the lines available are more than adequate** for such a question but often **learners are using additional papers without gaining additional marks**."* (Summer 2019 P1)
+
+**Read this correctly.** It is not "write more". It is: **the space printed on the paper is matched to the marks available.** Overrunning it does not earn anything, and it costs time that the 12-marker needs.
+
+> **The 12-marker is the exception in one direction only:** *"it is worth pointing out to candidates that **this question does carry the most marks and they should allow sufficient time to answer it**"*, and *"a number of candidates only completed a few lines and therefore did not gain many of the marks available."* (Summer 2019 P2R)
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -802,7 +928,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Examiner reports harvested** | **14** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · **Nov 2024 P1** · Nov 2021 P1 · Nov 2023 P2 · **Nov 2020 P1, P2, P1R** |
+| **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · **Summer 2019 P1, P2R** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
 | **Official rulebook** | Pearson's assessment support page, captured in full at `00_Pearson_Official_Rulebook.md` |
@@ -812,4 +938,4 @@ These are the highest-value targets in the project: the newest papers, filling g
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** Summer 2019 P2R (Yellow) and Summer 2019 P1 (Backyard Shoez) → then **recovering the command word taxonomy** (guide pages 31-33 / specification page 31), which sits beyond the 30-page parse limit and must be recovered by targeted search row by row.
+**Next batch, in priority order:** the whole Summer 2019 series is now harvested — the 4BS1 examiner-report set is **complete back to the first sitting of the specification**. Remaining known-but-unfetched: `4bs1-01-pef-20240822.pdf` chunk 0 (Jun 2024 P1, PPS — partially read), `4bs1-01r-pef-20230824.pdf` chunk 3 (Jun 2023 P1R), `4bs1-01r-pef-20220825.pdf` and `4bs1-02r-pef-20220825.pdf` chunk 0 (Jun 2022 P1R/P2R). **Beyond that: the archive carries June 2026 papers, which means May/June 2026 examiner reports should now be published — the highest-value outstanding target, since they would test every rule in this file against the newest series.**
