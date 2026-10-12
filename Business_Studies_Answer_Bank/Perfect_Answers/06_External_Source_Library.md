@@ -394,6 +394,112 @@ Well written. Three linked steps. Names the business twice. **Scored 3/6 — bot
 
 ---
 
+## 18. ⭐⭐ THE OFFICIAL LEVEL DESCRIPTORS — the rubric itself
+
+**Nothing else in this bank has these.** Every other rule describes what successful answers *did*; these are the words the examiner is **looking for**. Full text: `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md`.
+
+**6-mark Analyse** — Level 1 = **1–2**, Level 2 = **3–4**, **Level 3 = 5–6**.
+**9-mark Justify** — Level 1 = **1–3**, Level 2 = **4–6**, **Level 3 = 7–9**.
+**12-mark Evaluate** — Level 1 = **1–4**, Level 2 = **5–8**, **Level 3 = 9–12**.
+
+### The whole strategy in one table — one escalating adjective per AO
+
+| | Level 1 | Level 2 | **Level 3 — target this** |
+|---|---|---|---|
+| **AO2 — context** | *Limited* application | *Sound* application | **Detailed** application **throughout** |
+| **AO3 — chains** | *Limited* connections | *Interconnected* points | **Detailed interconnected** points with **logical** chains |
+| **AO4 — judgement** | *Simple* justification, *limited* evaluation | *Sound* evaluation | **Clear justification** based on a **thorough** evaluation |
+
+### Three findings that fall out of the rubric itself
+
+**1. AO2 Level 3 requires "throughout".** Level 2 is *"sound application… although there may be some inconsistencies"*; Level 3 is *"detailed application… **throughout**"*. **The single word "throughout" separates the 3–4 band from the 5–6 band.** One good contextual point in the opening line is a Level 2 answer.
+
+**2. AO3 Level 2 explicitly forgives *"logical inconsistencies"*. Level 3 does not.** A chain that does not actually follow is a Level 2 chain, however long it is.
+
+**3. AO4's Level 3 word is "thorough" — the highest bar in the qualification**, and it sits on the objective worth only 11–12%. This is the mechanical explanation of the **7/9 → 9/9 gap**: a 7/9 is a Level 3 answer whose AO4 is not yet "thorough".
+
+---
+
+## 19. "For example…" is NOT development
+
+June 2019 P1 Q2(d): a candidate named **one** method (social media — so no listing penalty) and then wrote *"For example: using platforms such as facebook and instagram"*. **1/3.**
+
+> *"The candidate has then gone on to give **examples** of social media rather than **develop** on the given method."*
+
+**An example adds an instance. An explanation adds a consequence.**
+
+> **After naming your point, the next word should be "This means…" or "This allows…" — never "For example…".**
+
+---
+
+## 20. A judgement is NOT a verdict
+
+A 12-mark answer ended: *"Therefore primary research would be quite important to Backyard Shoez."* The examiner called this *"a very basic judgement"*. **4/12 — top of Level 1.**
+
+| | Verdict | Justification | Balance |
+|---|---|---|---|
+| *"Therefore primary research would be quite important."* | ✓ | ✗ | ✗ |
+| A Level 3 judgement | ✓ | ✓ | ✓ |
+
+The rubric asks for *"a clear justification based on a **thorough** evaluation"* — **a verdict, plus the reasoning that produced it, plus the case against.**
+
+Related: a 9-mark answer that opened *"Bonus payments may be better…"* was still told *"There is no attempt to make any judgement or evaluation."* **Deciding in one line is not judging.**
+
+---
+
+## 21. The TWO-WORD CONTEXT FIX — the examiner states it outright
+
+Two examiners reduce the context rule to a single lexical substitution:
+
+> *"Had the candidate replaced terms such as **'product'** with **'food'**, it would have helped them move further into level 2 **with the potential of a level 3 response**."* — June 2019 P1R Q1(g)
+>
+> *"there are loose references to **suppliers**. If these references were in the context of Backyard Shoez, **such as shoe/accessory suppliers**, it would have helped the candidate move out of level 1."* — June 2019 P1 Q4(b)
+
+**"Suppliers" → "shoe suppliers". "Product" → "food".** The examiner says the second is a potential **two-level** jump. The context mark is not earned by a naming a *category*; it is earned by attaching the **case study's product** to it.
+
+> **Self-check:** underline every generic noun in your answer — *product, customers, service, staff, competitors, suppliers, business*. For each, ask whether the case study supplies a more specific word. Wherever it does, use it.
+
+**And the examiners name the phrases that earned the context marks in the two 6/6s and the 10/12:**
+
+| Script | The phrases the examiner credited |
+|---|---|
+| P1 Q1(g) 6/6 | *"eg shoes"*, *"lots of competitors near the busy shopping centre"* |
+| P1R Q1(g) 6/6 | *"small cakes"*, *"fine dining"* |
+| P1 Q4(c) 10/12 | *"designs of shoes and clothes"*, *"rivals in shopping centre"* |
+
+**Two reusable templates:** **designs of [the case study's product]** · **rivals in [the case study's location/market]**.
+
+---
+
+## 22. A logical 9-mark answer with no application is worth 3/9
+
+June 2019 P1 Q3(e) response B contains a genuine four-link trade-off between crowdfunding and an overdraft — *time-consuming → may take too long → overdraft is immediate → but creates debt repaid monthly → reduces profit*. **It scored 3/9 — the top of Level 1**, because there is no Backyard Shoez in it anywhere.
+
+> **AO2 is 38–39% of the qualification. A well-reasoned answer with no application hands most of it back.**
+
+---
+
+## 23. Sometimes TWO factors ARE expected
+
+A nuance to rule 6d. This bank holds two verified **6/6** scripts that take **one** factor and run it in both directions. But an examiner also told a candidate they *"needed to grasp **at least two main benefits**"* (June 2019 P1 Q3(d)).
+
+**The reconciliation: depth always works; undeveloped breadth never does.**
+
+| Question shape | What full marks needs |
+|---|---|
+| *"Analyse the importance/impact of X to Business Y"* | **one** factor developed in both directions can reach 5–6 |
+| *"Analyse the benefits of using [a tool] to do [a task]"* | **at least two** distinct benefits, each developed |
+
+> **Depth over breadth — but if you stall, add a second factor and develop it fully. Never add an undeveloped one.**
+
+---
+
+## 24. You can write TOO MUCH on a 6-marker
+
+> *"The final points made in this response are not necessary as the points made prior to the link are well explained and demonstrate logical chains of reasoning."* — June 2019 P1R Q1(g) response A, **6/6**
+
+**Once the chains are complete, extra material adds no marks and costs time.** This is the same principle as the listing cap, arriving from the other direction — and it matters most on a 12-marker, where the time you overspend on AO3 is exactly the time you needed for AO4.
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -477,9 +583,10 @@ These are the highest-value targets in the project: the newest papers, filling g
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
 | **Examiner reports harvested** | **10** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, **Nov 2021 P1**, Nov 2024 P1 |
-| **Official exemplar booklets harvested** | **2** — the **June 2019 Paper 2/2R booklet** (17 responses, complete), and the **Paper 1/1R booklet** (7 full-mark scripts, transcribed earlier) |
+| **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
+| **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
 | **Official rulebook** | Pearson's assessment support page, captured in full at `00_Pearson_Official_Rulebook.md` |
-| **Verified exemplar responses** | **90+**, spanning 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 and 12 marks, plus extensive calibration |
+| **Verified exemplar responses** | **100+**, spanning 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 12 marks, plus extensive calibration |
 | Remaining | **5** 4BS1 examiner reports |
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
