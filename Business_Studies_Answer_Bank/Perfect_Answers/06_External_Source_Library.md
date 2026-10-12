@@ -597,6 +597,129 @@ Nov 2023 P2 Q1(g) — *analyse the benefits of using social media **to collect m
 >
 > **And the case study is evidence to build on, not to copy.** Repeating the stem earns nothing.
 
+## 33. ⚠️ THE FORMULA SHEET IS NOT COMPLETE — memorise break-even
+
+Nov 2020 **P1R Q4(a)**, verbatim:
+
+> *"**As the break-even formula is not given in the paper it is one that candidates need to know.**"*
+
+Pearson's support page says *"some formulas are provided at the front of the paper"* — **and Nov 2020 P1 adds that *"there are still some that are not"***. This report names one outright.
+
+> **Memorise these outright. Do not plan on finding them on the sheet:**
+> **Break-even output = Total fixed costs ÷ Contribution per unit**
+> **Contribution per unit = Selling price − Variable cost per unit**
+> **Total costs = Fixed costs + Variable costs**
+> **Profit = Revenue − Total costs**
+
+**Over a third** of the cohort answered this break-even question well — i.e. **under half**. One memorised formula was worth 2 marks to the majority.
+
+---
+
+## 34. ⭐ STEP-COUNTING — the most repeated calculation error in the bank
+
+**Eight recorded instances across five papers.** More common than the decimal-place error.
+
+| Report | Question | The error |
+|---|---|---|
+| Nov 2020 P1 | Q3(c) closing balance | *"only calculating the net cash flow"* |
+| Nov 2020 P1 | Q4(a) new minimum wage | *"calculated the increase of 2.5%… but did not calculate the **new** minimum wage"* |
+| Nov 2020 P1R | Q1(e) 2017 revenue | *"worked out the 3% increase but did not go on to add this to the revenue of 2016"* |
+| Nov 2020 P1R | Q3(c) operating profit margin | *"only calculated the operating profit figure"* |
+| Nov 2021 P1 | Q1(e) discounted cost | *"calculated the discount but they did not then go on to apply the discount"* |
+| Nov 2021 P1 | Q4(a) leaflet cost | *"worked out parts of the question and missed the top marks"* |
+| Jun 2022 P1R | Q4(a) euro conversion | stopped after the discount step |
+| Jun 2022 P2R | Q1(f) | *"did not then go on to apply the discount"* |
+
+> **The drill:** state the **final** thing asked for ("revenue **for 2017**", "the **closing** balance", "the **new** minimum wage"). Then list every operation needed to get there. **An increase, a discount or a net figure is an INPUT, not an answer.**
+>
+> **Then write the final figure on the answer line.**
+
+---
+
+## 35. Context on an 'Explain' CANNOT cost you marks
+
+Nov 2020 **P2 Q2(c)**, verbatim:
+
+> *"as the question is 'explain' they did not need to put it in context, **although a large number did and are not penalised for doing this**."*
+
+**The rule is *"no AO2 marks are available"*, NOT *"context is forbidden."***
+
+> **So: if context comes naturally on an Explain, write it.** The only cost is **time** — never marks. The mistake to avoid is **hunting** for context and running out of space for your second development link.
+
+---
+
+## 36. Describing a concept is NOT answering the question — two independent confirmations
+
+| Report | Wording |
+|---|---|
+| **Nov 2023 P2 Q3(b)** | *"described what robotics was, this is knowledge and therefore did not gain them any marks, **even though the description was accurate**"* |
+| **Nov 2020 P2 Q3(b)** | *"**described what a short chain of command was, but then did not relate it back to Emirates** and therefore did not gain the marks available"* |
+
+**Two papers, three years apart, same failure.** On an Outline question the mark is for the **reason/impact**, applied — not for the definition.
+
+> **Test: delete any sentence that defines the term. If the answer still stands, you did not need it.**
+
+---
+
+## 37. The RELEVANCE rule and the SEQUENCING test
+
+**Relevance (2 confirmations):**
+
+| Report | Wording |
+|---|---|
+| Nov 2023 P2 Q2(d) | *"referred to **shareholders would not be happy** which is **not relevant** to using retained profit"* |
+| Nov 2020 P2 Q2(d) | *"mentioned that it allows other staff to go on holiday… **which may be correct but is not a reason** for a business using seasonal staff"* |
+
+> **A point earns nothing if it belongs to a different concept than the one asked about — however true it is.**
+
+**Sequencing (Nov 2020 P2 Q4(b)):** asked *why a business would interview pilots*, candidates wrote *"checking qualifications and experience, **which would be carried prior to the interview**."* The examiner's diagnosis of the cause is unusually insightful: *"This could be because **candidates have not yet experienced an interview for a job.**"*
+
+> **The test:** for any *"why does a business do X"* question, ask **when X happens in the process**. A reason for X must be something **X itself achieves**.
+
+---
+
+## 38. The MISREAD — now flagged in SIX papers
+
+| Report | The misread |
+|---|---|
+| Nov 2020 P2 Q3(d) | *"referred to Emirates being **friendlier with its customers**… wanted to be **more hygienic**"* (asked: environmentally friendly) |
+| Nov 2020 P2 (3(d) also) | beneficiaries reversed |
+| Nov 2020 P1 | misread question |
+| Nov 2021 P1 Q4(b) | *"analysed the benefits for **employees** rather than the **business**"* |
+| Jun 2022 P2R | advantage vs disadvantage |
+| Jun 2023 P1R | advantage vs disadvantage |
+| Nov 2023 P2 Q3(d) | *"referred to how **customers** could reduce their waste"* |
+| Nov 2023 P2 Q4(b) | *"gave benefits to **Kraft Heinz**… The question asked for the benefits to **the country**"* |
+
+> **The protective habit: circle the operative word** — *environmentally*, *to the country*, *for employees*, *one advantage* — **and check every paragraph against it.** Write the beneficiary in the margin.
+
+---
+
+## 39. Application can be OPERATIONAL, not just numerical
+
+Nov 2020 P1R Q4(b), on Level 3 analysis:
+
+> *"detailed analysis of the benefits of employing casual staff **in relation to Loaf and the day to day running of the business**."*
+
+**Application does not require a number or a proper noun.** An operational reality of the business counts: *"casual staff can be called in for the **early-morning bake** when a large order comes in."*
+
+**Companion finding, Nov 2020 P1R Q3(d):** Level 3 on a **6-mark Analyse** is described as *"carefully considered how the information presented **would or would not** be useful to Loaf"* — a **two-sided** assessment, even with no AO4 marks available.
+
+---
+
+## 40. ⚠️ METHODOLOGICAL: these reports are TEMPLATED — read them correctly
+
+**Important for using this bank accurately.** The **General Comments** sections of Pearson's examiner reports are **substantially boilerplate**, reused across series. Near-identical wording appears in Nov 2020 P1, Nov 2020 P2, Nov 2020 P1R, Nov 2021 P1, Nov 2023 P2 and Nov 2020 P2:
+
+> *"Centres are advised to look at the command words outlined on page 31 of the specification…"*
+> *"Questions 2 (f) and 3 (e) in particular were poorly answered…"*
+> *"Learners should practice writing more concise answers…"*
+> *"Candidates must clearly indicate by using 'continued', 'contd page ….' or 'see separate sheet'."*
+
+> **So: treat the General Comments as STANDING ADVICE (and as evidence that the advice has held for years), and the question-by-question section as the EVIDENCE.**
+>
+> **Do not read a repeated general sentence as a new finding, and do not count template sentences as independent confirmations.** Where this bank says "confirmed N times", those confirmations are drawn from **question-specific** passages only.
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -679,7 +802,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Examiner reports harvested** | **11** — Jun 2024 P1/P1R/P2, Jun 2023 P1R/P2, Jun 2022 P1/P1R/P2R, Nov 2021 P1, **Nov 2023 P2**, Nov 2024 P1 |
+| **Examiner reports harvested** | **14** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · **Nov 2024 P1** · Nov 2021 P1 · Nov 2023 P2 · **Nov 2020 P1, P2, P1R** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
 | **Official rulebook** | Pearson's assessment support page, captured in full at `00_Pearson_Official_Rulebook.md` |
@@ -689,4 +812,4 @@ These are the highest-value targets in the project: the newest papers, filling g
 
 **Why this is done in batches.** Each report runs to 20–50 pages, is fetched in chunks, and must then be transcribed by hand into the bank. Harvesting a report *properly* — question text, verbatim candidate response, exact awarded mark, examiner comment — is deliberate work. A skimmed exemplar is worthless, because the exact wording is the entire point.
 
-**Next batch, in priority order:** Nov 2020 P1/P2/P1R → Summer 2019 P2R → then **recovering the command word taxonomy** (guide pages 31-33 / specification page 31), which sits beyond the 30-page parse limit and must be recovered by targeted search row by row.
+**Next batch, in priority order:** Summer 2019 P2R (Yellow) and Summer 2019 P1 (Backyard Shoez) → then **recovering the command word taxonomy** (guide pages 31-33 / specification page 31), which sits beyond the 30-page parse limit and must be recovered by targeted search row by row.
