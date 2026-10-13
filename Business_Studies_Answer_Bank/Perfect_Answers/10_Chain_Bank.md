@@ -44,7 +44,7 @@ Across 38 papers the qualification asks **governed** questions — anything need
 | Tier | Blocks | Written | Remaining |
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
-| **6-mark Analyse** | **114** | **54** | **60** |
+| **6-mark Analyse** | **114** | **66** | **48** |
 | 9-mark Justify | 76 | 0 | 76 |
 | 12-mark Evaluate | 38 | 0 | 38 |
 
@@ -98,7 +98,8 @@ Every entry gives you:
 | **5c** | **6-mark Analyse — May–June 2020, all four papers** | ✅ **8 entries (120–127)** |
 | **5d** | **+ the four 2019 blocks Batch 5b missed** | ✅ **4 entries (128–131)** |
 | **5e** | **6-mark Analyse — June 2021 + June 2022** | ✅ **11 entries (132–142)** |
-| **5f–6** | 6-mark Analyse — the remaining **60 blocks** | ⬜ next |
+| **5f** | **6-mark Analyse — May–June 2024, all four papers** | ✅ **6 entries (143–148)** |
+| **5g–6** | 6-mark Analyse — the remaining **48 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
@@ -3098,5 +3099,161 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** robots allow **production to continue overnight and at weekends** without a night-shift wage bill → capacity rises **without a proportional rise in labour cost**.
 
 > ⚠️ **This is the "robotics benefits" question — the counter-argument (high set-up cost, job losses, inflexibility) is a different question.** Compare entry **109 (flow production disadvantages)**, which is exactly that reverse. **The scheme's own two AO2 bullets here are `human error` and `number made` — hit both and you have the level 3 answer.**
+
+---
+
+# BATCH 5f — 6-MARK ANALYSE, PART 6
+
+**6 new entries covering May–June 2024's twelve blocks.** Six of the twelve were the same topic as an entry already banked — including **cash** for the third time and **motivating employees** for the fourth — and they are pointed at those entries rather than repeated:
+
+| Block | Topic | Where it now lives |
+|---|---|---|
+| 55 P1R 1(g) *the gross profit margin to PPS* | profitability ratios | **entry 118** |
+| 57 P1R 4(b) *the importance of cash to PPS* | cash | **entry 123** *(3rd appearance)* |
+| 58 P1 1(g) *motivated employees (Café Pinch)* | motivating employees | **entry 139** *(4th appearance)* |
+| 61 P2R 1(g) *problems if customer needs are not satisfied* | customer needs | **entry 116** |
+| 64 P2 1(g) *health and safety training in induction* | induction training | **entry 111** *(4th appearance)* |
+| 65 P2 3(d) *effect on TUI CUSTOMERS of higher interest rates* | interest rates | **entry 135** |
+
+> ### ⭐ WHAT SIX MERGES OUT OF TWELVE IS TELLING YOU
+> **Half of May–June 2024's six-mark questions were topics this bank had already answered** — from papers two, three and five years older. That is the whole economic case for working by topic instead of by question: **the examination is more repetitive than it looks from any single paper, and it is the repetition that makes a finite bank possible.**
+
+---
+
+## 143. MARKET RESEARCH — why the research has to be reliable
+
+**Asked:** *"Analyse the importance of reliable market research to obtain this information."* — **May–June 2024 P1R, 3(d)**
+
+**The AO2 anchors:** PPS will want to find **accurate local data about pet owners so it can target its customers better**; and **as PPS is a small business it may find it easier to speak to its customers individually** to find out the needs of their pets.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Market research is only worth what the decision built on it is worth — **so unreliable research is worse than none, because the business acts on it with confidence.** If PPS's data about **local pet owners is inaccurate**, it will target **the wrong customers, in the wrong place, with the wrong product** — and every subsequent cost, from stock to advertising, is spent on a plan that was wrong from the start. **The second half of the answer is the advantage a small business has.** PPS **can speak to its customers individually**, which is something a chain cannot do; and because the owner is talking directly to the people buying the treats, **the information is first-hand and current rather than bought second-hand.** **The measurable end is better decisions:** reliable data on **what pet owners actually spend and on what** lets PPS **stock and price for real demand** — and **spending patterns** are what tell a small business where its margin really comes from.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Unreliable research is **worse than none** — you act on it confidently |
+| **2. Strand A** | Wrong data → **wrong customers, wrong stock, wrong place** |
+| **3. Strand B** | A small business **can ask its own customers** — first-hand and current |
+| **4. Measurable end** | **Stocking and pricing that match real spending patterns** |
+
+**Second acceptable chain:** reliable research **reduces the risk of a new product or a price change** → PPS can test the idea on customers **before spending the money** → the cost of being wrong falls to the price of the research.
+
+> ⚠️ **Two kinds of unreliability, and the question accepts either.** **Sample** — the wrong people, or too few of them. **Accuracy** — leading questions, out-of-date data, or a respondent saying what they think you want to hear. **Name one and show what it costs.**
+
+---
+
+## 144. MEASURING BUSINESS SUCCESS — the factors considered
+
+**Asked:** *"Analyse two factors Café Pinch might consider when measuring its success."* — **May–June 2024 P1, 3(d)**
+**Also asked:** *"Analyse factors that Aude Rose might consider when measuring the success of its business."* — May 2023 P1R 4(b)
+
+> **The word "two" is an instruction, not decoration.** Two factors, each developed — **not one factor developed well and a fragment of a second.**
+
+**The AO2 anchors:** Kumaran **can check the business objectives he has set**; and he can **compare the annual financial details, such as profit from 2018 to the present**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Success has to be **measured against something the owner chose in advance**, otherwise it is only a feeling. **The clearest measure for Café Pinch is the objectives Kumaran set when he opened it** — because a business that has hit its own targets is succeeding **on its own terms**, and one that has not **needs to know that before it commits any more money**. **The second factor is the financial record.** Comparing **profit from 2018 through to the present** shows **a trend rather than a snapshot**: a single good year can be luck or a one-off event, **but profit rising year on year shows there is genuine demand for what the café sells** — and demand is what produces **loyal customers**. **The measurable end is that Kumaran can make the next decision on evidence:** the objectives tell him whether he is on course, and the trend tells him whether the business is getting stronger or merely holding still.
+
+| Step | The move |
+|---|---|
+| **1. Factor 1** | **The owner's own objectives** — success on the business's own terms |
+| **2. Factor 2** | **Profit over several years** — a trend, not a snapshot |
+| **3. What it shows** | Rising year on year → **genuine demand → loyal customers** |
+| **4. Measurable end** | A **decision made on evidence**, not on feeling |
+
+**Second acceptable chain:** a service business can measure **customer satisfaction or repeat bookings** instead of profit → a café that is full but unprofitable **learns that the problem is price or cost, not demand** → it treats the right illness.
+
+**Second acceptable chain (Aude Rose):** measuring success by **how the business is running compared with how she saw good restaurants run** when she worked in them → **the owner is the benchmark** → an early warning she can judge without waiting for the accounts.
+
+> ⚠️ **"Profit" alone is one factor, not two.** The scheme wants you to reach for **at least one non-financial measure** — objectives, market share, customer satisfaction, staff retention — **because a business can be profitable and still failing at what it set out to do.**
+
+---
+
+## 145. MARKET SEGMENTATION — how a business uses it
+
+**Asked:** *"Analyse how Café Pinch could use market segmentation to target its customers."* — **May–June 2024 P1, 4(b)**
+
+**The AO2 anchors:** Café Pinch can **look at the spend of the customers who take away its food and drink**; and it may want to **target customers who work in Berlin or tourists who visit the city**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Segmentation means **splitting a market into groups with something in common and serving each group deliberately**, rather than offering the same thing to everybody. **Café Pinch already has two groups with almost nothing in common: the people who work in Berlin and the tourists passing through.** The workers **buy quickly, repeatedly and to a budget — they are regulars**; the tourists **buy once, want something authentic, and are willing to pay more for it**. **Serving both from one menu means serving neither well.** **Segmenting lets Kumaran check whether his price range covers both:** if the takeaway spend of the workers is low and the tourists expect more, **he can see whether the menu is priced so that one group is being priced out** — too expensive for the regulars, or **too cheap to convince a tourist they are getting the real thing.** **The measurable end is that each group is served on purpose** — loyalty rewards for the people who come every day, **an authentic German experience for the visitors** — so the same café earns from both without either subsidising the other.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Segmentation = **serving each group deliberately, not everyone the same** |
+| **2. Strand A** | Workers buy **often, cheaply, to a budget**; tourists buy **once, authentically** |
+| **3. Strand B** | The price range must **not price either group out** |
+| **4. Measurable end** | **Both segments served** — loyalty schemes and authentic experience |
+
+**Second acceptable chain:** segmenting by **spending level** shows which items are bought by which group → Kumaran **stocks and prices the menu around the groups that actually pay** → less waste on items nobody in either group buys.
+
+> ⚠️ **The segmentation bases to have ready: demographic (age, income, gender), geographic, psychographic (lifestyle), behavioural (how and when they buy).** Here the useful ones are **behavioural and geographic — workers versus visitors.** *Examiner-named content gap: "demographic segmentation".*
+
+---
+
+## 146. RECRUITMENT DOCUMENTS — how they help select the right person
+
+**Asked:** *"Analyse why Jimmy Choo asks all candidates applying for a vacancy to complete an application form."* — **May–June 2024 P2R, 3(d)**
+**Also asked:** *"Analyse how recruitment documents may help Samsung to hire the best employees for its business."* — Nov 2025 P2 1(g)
+
+**The AO2 anchors:** a completed application form gives **important details of each applicant, such as address and previous employment**; and an applicant for **sales manager can include all their experience of selling handbags**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> The value of a standard application form is **the word "all": every candidate answers the same questions, so the answers can be put side by side.** **Jimmy Choo has 30 candidates and needs one appointment**, and comparison is only possible if the information is in the same order and covers the same ground. **That structure is what makes the form a selection tool rather than a formality.** It captures **address — which matters for a role that may involve travel or shifts — and previous employment**, including **the specific experience of selling handbags that the sales manager role needs**. **The measurable end is a shorter, better interview list:** Jimmy Choo can **compare the forms, see which applicant is more suited, and call only those in** — which saves the interviewing time that would have been spent on the candidates the form has already ruled out.
+
+| Step | The move |
+|---|---|
+| **1. Point** | **All candidates answer the same questions** → the answers are comparable |
+| **2. Strand A** | Captures **the specifics the role needs** — experience of the product |
+| **3. Strand B** | Captures **the practical facts** — address, employment history |
+| **4. Measurable end** | **A shortlist to interview**, and the time saved on the rest |
+
+**Second acceptable chain:** the form **provides a written record** of what each applicant claimed → a shortlisted candidate can be **questioned on what they wrote** at interview → the business **tests the claims rather than accepting them**.
+
+> ⭐ **Know the recruitment document family, because they are asked together.** **Job description** — what the role involves. **Person specification** — what the person must have. **Job advert** — how it is communicated to the market. **Application form / CV** — what the candidate offers. **Each question asks about one of them; do not answer about another.**
+
+---
+
+## 147. SHARE CAPITAL — the benefit of using it to grow
+
+**Asked:** *"Analyse the benefit to Jimmy Choo of using share capital to fund its growth."* — **May–June 2024 P2R, 4(b)**
+
+**The AO2 anchors:** as a **large multinational**, it might be **easier to raise the large amounts of share capital** needed to fund further expansion; and **as an established multinational** it should have **existing and new shareholders wanting to buy the shares**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Share capital is **money from selling part-ownership of the company**, and the amount it can raise **has no ceiling set by a lender's appetite**. **That is what makes it the right tool for rapid growth: a business expanding its clothing factories needs a large sum at once, which a single bank may be unwilling to lend against a plan.** **Jimmy Choo's position as an established multinational makes the route easier than it would be for anyone else** — there are **existing shareholders who already know the brand and new ones willing to buy in**, so the shares can actually be sold. **The measurable end is speed and cost together:** the funds arrive **fast enough to take advantage of increased demand for its products**, and **because it is share capital and not a loan, Jimmy Choo incurs no interest charges** — so more of the profit from the expansion stays inside the business.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Share capital has **no lender's ceiling** — suit a large, single sum |
+| **2. Strand A** | Established multinational → **shareholders willing to buy** |
+| **3. Strand B** | Funds arrive fast → **can seize increased demand** |
+| **4. Measurable end** | **Growth funded with no interest to pay** |
+
+**Second acceptable chain:** money raised by shares **does not have to be repaid** → a bad year does not put the business in breach of a repayment schedule → **the expansion can be allowed time to become profitable**.
+
+> ⚠️ **The cost of share capital is not interest — it is ownership.** **Dividends and a reduced share of the profit for the original owners** is the counter-argument, and it belongs in a 9-mark or 12-mark answer. **This question asks for the benefit**, so lead with the amount, the speed and the absence of interest.
+
+---
+
+## 148. BOSTON MATRIX — how a business uses it
+
+**Asked:** *"Analyse how TUI could make use of the Boston Matrix to review all the different holidays it offers."* — **May–June 2024 P2, 4(b)**
+
+**The AO2 anchors:** TUI can use the **"Star" to decide which are the most profitable holidays in Turkey**; and it **will keep a "Cash Cow" such as a 14-day cruise** because it **generates a steady flow of income**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> The Boston Matrix takes **one product range and sorts it by market growth and market share**, and its value to TUI is that **it turns a long list of holidays into four groups with four different answers.** **The "Cash Cow" is the cruise: it sells steadily and needs little investment, so TUI keeps it on the books precisely because it generates a reliable flow of income** — that money is what funds everything else. **The "Star" is the holiday in Turkey that is growing and profitable: it is where the investment goes**, because a star today is the cash cow of the next few years. **The measurable end is a stopping decision, which is the hardest one for any business to make.** If some hotels in parts of Turkey are **less profitable than others**, the Matrix identifies them **as the place to stop** — so TUI can **move that hotel off the programme and find another**, and **use the revenue released to expand into different holiday experiences** rather than propping up a product that is not working.
+
+| Step | The move |
+|---|---|
+| **1. Point** | The Matrix sorts a range into **four groups with four different actions** |
+| **2. Strand A** | **Cash cow (the cruise)** → keep it, it funds the rest |
+| **3. Strand B** | **Star (Turkey)** → invest, it is the next cash cow |
+| **4. Measurable end** | **A stopping decision** — drop the weak hotel, fund the new experience |
+
+**Second acceptable chain:** the remaining two boxes **identify the problem products** — low growth and low share — so TUI **knows which holidays to withdraw deliberately** rather than continuing to sell them out of habit.
+
+> ⚠️ **Name the axes and the four boxes correctly.** **Market growth (high/low) against market share (high/low):** **Star** = high growth, high share · **Cash cow** = low growth, high share · **Question mark / problem child** = high growth, low share · **Dog** = low growth, low share. **Calling a dog a cash cow loses the application mark — and this is a named content gap in the examiners' reports.**
 
 ---
