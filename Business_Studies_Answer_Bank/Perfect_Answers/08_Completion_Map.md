@@ -1,6 +1,6 @@
 # 08 — COMPLETION MAP
 
-*What "completing Business" means, exactly, and what is still missing. Updated 2026-10-13.*
+*What "completing Business" means, exactly, and what is still missing. **Updated 2026-10-14 — LAYER C IS COMPLETE.***
 
 ---
 
@@ -131,15 +131,29 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**233 entries written · 380 governed blocks in scope · 26 still to cover** (all twelve-mark).
+## ✅ **252 entries written · 380 governed blocks in scope · 0 still to cover.**
+
+> **LAYER C IS COMPLETE.** Every governed block in the qualification — all **380** across all **38** papers — is carried by a labelled entry in `10_Chain_Bank.md`, and each of the four tiers is verified by its **own machine-run coverage script**, which checks in both directions:
+>
+> | Tier | Blocks | Entries | Script |
+> |---|---|---|---|
+> | 3-mark Explain | **152** | ✅ 97 topics, entries **1–100** | `layer_c_coverage.py` |
+> | 6-mark Analyse | **114** | ✅ 74 entries, **101–174** | `layer_c_6mark_coverage.py` |
+> | 9-mark Justify | **76** | ✅ 53 entries, **175–227** | `layer_c_9mark_coverage.py` |
+> | 12-mark Evaluate | **38** | ✅ 25 entries, **228–252** | `layer_c_12mark_coverage.py` |
+> | **TOTAL** | **380** | ✅ **252 entries** | all four print **0 remaining** |
+>
+> **The file is also now in strict numerical order, `## 1.` → `## 252.`** — it was not before this batch closed (entries 205–227 had been inserted before `## 196.`), and that is why every one of those checks reads `min`/`max` and not `entries[-1]`.
 
 > **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, **114 covered, 0 remaining**, and flags any entry reference that does not exist.
 
 Priority order:
-1. **6-mark Analyse — 114 blocks.** The single largest remaining tier, and the only one where the examiners' own complaint (*"valid comments… failed to develop these points"*) maps directly onto a repeated structural failure.
-2. **9-mark Justify — 76 blocks.** Every one is the same framing, so the option pairs are what has to be banked.
-3. **12-mark Evaluate — 38 blocks.** Lowest volume, highest mark weight per question.
-4. Tariffs 1 and 2 (cheapest; last) — **the mark scheme IS the perfect answer for these, so no models are needed.**
+**Completed in this order** (kept because it is the order to *re-do* them in if anything is ever rebuilt):
+
+1. ✅ **6-mark Analyse — 114 blocks.** The single largest tier, and the one where the examiners' own complaint (*"valid comments… failed to develop these points"*) maps directly onto a repeated structural failure.
+2. ✅ **9-mark Justify — 76 blocks.** Every one is the same framing, so the option pairs are what had to be banked.
+3. ✅ **12-mark Evaluate — 38 blocks.** Lowest volume, highest mark weight per question.
+4. **Tariffs 1 and 2 need no models — the mark scheme IS the perfect answer for those.** That is a deliberate non-construction, not a gap.
 
 ---
 
@@ -247,9 +261,11 @@ So the correct response is **not one essay per question** — that would repeat 
 | **7c** | 9-mark Justify — market research + success measures | ✅ **4 entries (205–208)** |
 | **7d** | 9-mark Justify — job design, motivation, contracts | ✅ **9 entries (209–217)** |
 | **7e** | 9-mark Justify — the final 21 blocks | ✅ **10 entries (218–227)** |
-| **8** | **9-MARK TIER — CLOSED at 76/76** | ✅ **done** |
-| **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
-| **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
+| **7** | **9-MARK TIER — CLOSED at 76/76** | ✅ **done** |
+| **8a** | 12-mark Evaluate — scaffold · quality/competitive advantage · TQM · location · research | ✅ **6 entries (228–233)** |
+| **8b** | 12-mark Evaluate — marketing · promotion · changing markets · competitive advantage · success measures · objectives · PR · market orientation | ✅ **9 entries (234–242)** |
+| **8c** | 12-mark Evaluate — the ten singleton topics | ✅ **10 entries (243–252)** |
+| **8** | **12-MARK TIER — CLOSED at 38/38. LAYER C COMPLETE at 380/380.** | ✅ **done** |
 
 ### 🔎 LAYER D — FILE-LABEL AUDIT, 14 Oct 2026 (a real defect, fixed)
 
@@ -267,18 +283,28 @@ Opening the 12-mark tier exposed **three file-level defects** in the archive fol
 
 ---
 
-### 🔄 LAYER C, 12-MARK TIER — OPEN (12 of 38 blocks · Batch 8a, entries 228–233)
+### ✅ LAYER C, 12-MARK TIER — CLOSED at 38/38, verified 0 remaining
 
-**The last tier.** One `4(c)` per paper, **38 blocks → 22 topics → 25 entries (228–252)**, because *location* and *quality* each appear on four papers.
-**Batch 8a closed:** the universal scaffold (228) · quality/reputation (229, 3 papers) · TQM (230) · location (231, **4 papers**) · research methods (232, 2) · research before launch (233, 2).
-**Tracked by `layer_c_12mark_coverage.py`** — block→entry, checked both ways, `--audit` prints each block's own stem beside the entry claiming it.
-⚠️ **Permanent limitation: no verified 12/12 exists for Paper 2 or 2R**, so every model in this tier is `[CONSTRUCTED GRADE 9 TARGET]`.
+```
+12-mark Evaluate blocks    :  38
+carried by entries 228-252 :  38 blocks  (25 entries · 22 topics)
+REMAINING                  :   0 blocks
+```
+
+**The last tier, and the one with the smallest compression gain** — 38 blocks → 22 topics → 25 entries, because the stem usually names **one topic and one business** and Pearson rarely repeats them. Only three topics carry more than one paper: **quality → competitive advantage** (4 blocks, J26 P1 · MJ21 P2 · MJ24 P2), **location** (4 blocks, MJ19 P2 · MJ20 P1R · MJ24 P2R · Nov21 P1) and **the market** (changing markets 3 blocks + competitive advantage 2). Those entries hold a **per-paper comparison table** instead of three separate essays.
+
+**Batch 8 closed in three parts:** **8a** (228–233) the universal scaffold, quality, TQM, location and research · **8b** (234–242) marketing, promotion, changing markets, competitive advantage, success measures, objectives, PR and market orientation · **8c** (243–252) the ten topics that appear **once** in the whole qualification — demographic segmentation · legal structure · organisation structure · franchise · venture capital · financial documents · cash flow forecasting · interest rates · motivation · communication.
+
+**Entry 228 is the tier's scaffold and the most reusable page in the bank:** five command forms, one four-way AO split (3 · 3 · 3 · 3), and the **four official AO4 routes** — *(1) the drawback of the same thing (2) a more important factor (3) the named condition (4) argue against the premise.*
+
+**Tracked by `layer_c_12mark_coverage.py`** — block→entry, checked both ways; `--audit` prints each block's own stem beside the entry claiming it, and the script **separates *planned* from *covered by a written entry*** so a forward claim can never pass as an answer.
+⚠️ **Permanent limitation: no verified 12/12 exists for Paper 2 or Paper 2R** — Pearson's 12-mark exemplars are Paper 1 scripts, so **every model in this tier is `[CONSTRUCTED GRADE 9 TARGET]` and none claims a score.** The tier's one verified anchor is **Irsi, May 2023 P1 Q4(c) — 12/12**, held verbatim in `02_Verified_Exemplars.md` and dissected in rule 82.
 
 ### ✅ LAYER C, 9-MARK TIER — CLOSED at 76/76, verified 0 remaining
 
 ```
 9-mark Justify blocks      : 76
-distinct option pairs      : 56        <- it BARELY repeats
+distinct option pairs      : 58        <- it BARELY repeats
 carried by entries 175-227 : 76 blocks (all 15 decision types closed)
 REMAINING                  :  0 blocks
 ```
@@ -313,15 +339,22 @@ REMAINING                :    0 topics  ·    0 blocks
 ---
 
 **Phase 1 — Evidence.**
-1. ✅ **DONE — the Summer 2019 → Summer 2025 run is complete.** Nov 2023 P1, Nov 2024 P2, Nov 2021 P2 and Summer 2019 P1R were all recovered in this sweep, along with nine new rule-groups (rules 100–109).
-2. **Outstanding:** Nov 2025 P1/P2 (filename unknown) · Jun 2026 P1/P2/P2R (secure download) · verify Jun 2020 and Nov 2022.
-3. **Render the unread script pages of the June 2025 reports** — chunks 2–3 of all four hold the remaining 12-mark exemplars.
+1. ✅ **DONE — the Summer 2019 → Summer 2025 run is complete.** Nov 2023 P1, Nov 2024 P2, Nov 2021 P2 and Summer 2019 P1R were all recovered in the sweep, along with nine new rule-groups (rules 100–109).
+2. ✅ **DONE — the June 2025 second pass.** All four reports re-read, **rules 110–117** added and **two further verified full-mark exemplars** recovered (a 10th 6/6 at June 2025 P1 1(g) and a 7th 9/9 at June 2025 P2R 2(f)). Write-up: `External_Exemplars/2025-06_Second_Pass_Addendum.md`.
+3. **Outstanding, and the only evidence still missing:** Nov 2025 P1/P2 (filename unknown at every date tried) · June 2026 P1/P2/P2R (behind Edexcel Online, released 25 Aug 2026) · verify whether June 2020 and Nov 2022 produced reports at all.
 
-**Phase 2 — Exemplars.** Capture the best script for every type × paper from the newly acquired reports.
+**Phase 2 — Exemplars.** ✅ **Largely done** — 15 nine-out-of-nines, 19 six-out-of-sixes and 2 twelve-out-of-twelves are held verbatim with session, paper, question, mark and report page (`02_Verified_Exemplars.md`). **The residue is the June 2026 P1R report and the November-series reports, which publish commentary only.**
 
-**Phase 3 — Models.** Fill Layer C in batches, prioritised as above.
+**Phase 3 — Models.** ✅ **DONE — LAYER C IS COMPLETE.** All **380** governed blocks, in all four tiers, are carried by **252** labelled entries in `10_Chain_Bank.md`, each tier verified by its own coverage script. **No governed question in the qualification is unbanked.**
 
-**Phase 4 — Integrity.** Purge stale claims, consolidate duplicates, move the taxonomy, fold E-rules, verify boundaries.
+**Phase 4 — Integrity.** 🔄 **The remaining work, and it is the only work left.** Numbered so it can be worked through and ticked off:
+1. **Move the command-word taxonomy and rules 48–63 out of `06_` into `01_`**, where they belong by topic — `06_` is the *external source library*, and the taxonomy is `01_`'s subject.
+2. **Repair `layer_c_3mark_master.csv`'s `ms_worked_answer` column** — 3 empty rows and MJ21 P2 `2(c)`, all known.
+3. **Add the restatement filter to `tally_exemplars.py`** so a repeated General Comment cannot be counted as new evidence (rule 40), and re-run the tally.
+4. **Locate June 2019's second 9/9** — the report's own count does not yet match the bank's.
+5. **Fold the E1–E12 rules** into the numbered rule sequence.
+6. **Verify the June 2026 grade boundaries against the PDF** before any figure reaches `00_` — 4BS1 overall 9 = 133, and the notional components, are currently from a search snippet only. **A snippet is not a source.**
+7. **Final sweep of `00_`–`09_` for stale claims** — the same class of error as the 3-mark count and the MS swap, i.e. a statement that was true when written and is not true now.
 
 ---
 

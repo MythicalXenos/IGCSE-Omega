@@ -41,11 +41,15 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 > ✅ **THE 6-MARK TIER IS CLOSED.** All **114 blocks** are carried by entries **101–174** — verified by `layer_c_6mark_coverage.py`, which prints **114 covered / 0 remaining** and flags any dangling entry reference. **It was 74 entries for 114 blocks**, because **40% of the tier was a repeat of a topic already answered**: *multinational* and *motivating employees* **six times each**, *break-even* **five**, and *cash*, *SoCI*, *interest rates*, *branding*, *robotics*, *induction* and *host-economy benefit* **three or four times each**.
 
-> ✅ **THE 9-MARK TIER IS OPEN — and it behaves differently from the other two.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **56 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**, and promotion + pricing together are two decision types carrying **21 blocks in 17 pairs**.
+> ✅ **THE 9-MARK TIER BEHAVED DIFFERENTLY FROM THE OTHER TWO.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **58 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**, and promotion + pricing together are two decision types carrying **21 blocks in 17 pairs**. **Every decision type is now closed** — see the tier summary below.
 >
-> ✅ **FOUR decision types are now CLOSED** — **sources of finance** (13 pairs · 14 blocks) · **promotion + pricing** (17 pairs · 21 blocks) · **market research + measuring success** (4 pairs · 9 blocks) · **job design, motivation and contracts** (9 pairs · 14 blocks). **That is 55 of the 76 blocks — 72% of the tier — and every one of the four largest decision types in the qualification is carried in full.**
+> ✅ **FOUR decision types were closed first, and the ordering is the point** — **sources of finance** (13 pairs · 14 blocks) · **promotion + pricing** (17 pairs · 21 blocks) · **market research + measuring success** (4 pairs · 9 blocks) · **job design, motivation and contracts** (9 pairs · 14 blocks). **That was 55 of the 76 blocks — 72% of the tier — and every one of the four largest decision types in the qualification is carried in full.**
 
-> ✅ **THE 9-MARK TIER IS CLOSED.** All **76 blocks** are carried by entries **175–227** — verified by `layer_c_9mark_coverage.py`, which prints **76 covered / 0 remaining**. **It was 53 entries for 76 blocks across 58 distinct option pairs**, so this tier compresses far less than the other two **(3-mark 152 → 97 · 6-mark 114 → 74 · 9-mark 76 → 58)** — because **the option pair genuinely varies.** **What repeats is the decision type**, and all fifteen are now closed: sources of finance · promotion · pricing · market research · success measures · job design · motivation · contracts · training · production · operations · recruitment · communication · place · product · structure.
+> ✅ **THE 9-MARK TIER IS CLOSED.** All **76 blocks** are carried by entries **175–227** — verified by `layer_c_9mark_coverage.py`, which prints **76 planned / 76 covered / 0 remaining**. **It was 53 entries for 76 blocks across 58 distinct option pairs**, so this tier compresses far less than the other two **(3-mark 152 → 97 · 6-mark 114 → 74 · 9-mark 76 → 58)** — because **the option pair genuinely varies.** **What repeats is the decision type**, and all fifteen are now closed: sources of finance · promotion · pricing · market research · success measures · job design · motivation · contracts · training · production · operations · recruitment · communication · place · product · structure.
+
+> ✅ **THE 12-MARK TIER IS CLOSED.** All **38 blocks** are carried by entries **228–252** — verified by `layer_c_12mark_coverage.py`, which prints **38 planned / 38 covered / 0 remaining** and separates *planned* from *covered by a written entry* so that a claim made in advance can never masquerade as an answer. **It was 25 entries for 38 blocks, across 22 distinct topics** — a much smaller compression gain than the other tiers, because **the 12-mark stem usually names one topic and one business, and Pearson does not repeat them.** Three topics do carry two or three papers each (**quality → competitive advantage**, **location**, **the market**), and those entries hold a per-paper comparison table rather than three separate essays.
+>
+> **Entry 228 is the scaffold for the whole tier** — five command forms, one four-way AO split (3 · 3 · 3 · 3), and the **four official AO4 routes**: *(1) the drawback of the same thing (2) a more important factor (3) the named condition (4) argue against the premise.*
 
 **Progress against those 380 blocks:**
 
@@ -53,8 +57,24 @@ Across 38 papers the qualification asks **governed** questions — anything need
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
 | **6-mark Analyse** | **114** | ✅ **114** | 0 |
-| 9-mark Justify | 76 | 0 | 76 |
-| 12-mark Evaluate | 38 | 0 | 38 |
+| **9-mark Justify** | **76** | ✅ **76** | **0** |
+| **12-mark Evaluate** | **38** | ✅ **38** | **0** |
+| **TOTAL** | **380** | ✅ **380** | **0** |
+
+> ## ✅ LAYER C IS COMPLETE — 380 OF 380 BLOCKS
+> **All four tiers are closed, each verified by its own machine-run coverage script.** Nothing in the bank is carried by hand any more: **252 entries** cover **380 governed blocks** across **38 papers**, and every script also checks the other direction, so a dangling entry reference fails loudly.
+>
+> **Compression, tier by tier — the whole reason this file is organised by topic and not by question:**
+>
+> | Tier | Blocks | Entries | How it compresses |
+> |---|---|---|---|
+> | 3-mark Explain | 152 | **97** | the topic repeats constantly — the same topic answers several papers |
+> | 6-mark Analyse | 114 | **74** | 40% of the tier repeats a topic already answered |
+> | 9-mark Justify | 76 | **53** | **the option pair** is the unit — 58 distinct pairs, and the decision type repeats even when the pair does not |
+> | 12-mark Evaluate | 38 | **25** | the **topic** is the unit again — 22 topics, three of them on two or three papers |
+> | **Total** | **380** | **252** | **one entry per topic, never one entry per question** |
+>
+> **Reproduce all four with:** `layer_c_coverage.py` · `layer_c_6mark_coverage.py` · `layer_c_9mark_coverage.py` · `layer_c_12mark_coverage.py` (run from the folder above; each accepts `--audit`).
 
 > **How those four numbers were obtained, and why they can be trusted.** `build_layer_c_tariffs.py` reads the same 38 mark schemes, reconstructs every question part from its printed AO allocation, and then **checks its own work: a 4BS1 paper is worth 80 marks, and all 38 papers now sum to exactly 80.** The question labels are *invariant* — all 38 papers carry 1(f), 2(c), 2(d) and 2(e) at 3 marks, 1(g), 3(d) and 4(b) at 6 marks, 2(f) and 3(e) at 9 marks, and 4(c) at 12. Run `python3 build_layer_c_tariffs.py` to reproduce; it writes `layer_c_6_9_12_master.csv`.
 >
@@ -116,10 +136,14 @@ Every entry gives you:
 | **7c** | **9-mark Justify — market research + measuring success** | ✅ **4 entries (205–208)** |
 | **7d** | **9-mark Justify — job design, motivation, contracts** | ✅ **9 entries (209–217)** |
 | **7e** | **9-mark Justify — the final 21 blocks** | ✅ **10 entries (218–227)** |
-| **8** | **9-MARK TIER — CLOSED at 76/76 blocks** | ✅ **done** |
-| **8a** | **12-mark Evaluate — the scaffold, quality, TQM, location and research families** | ✅ **6 entries (228–233)**, 12 of 38 blocks |
-| **8b** | 12-mark Evaluate — marketing, the market, success, objectives, structure, finance | ⬜ next |
-| **8** | **12-MARK TIER — the last one** | 🔄 **12 of 38 blocks** |
+| **7 ✓** | **9-MARK TIER — CLOSED at 76/76 blocks** | ✅ **done** |
+| **8a** | **12-mark Evaluate — the universal scaffold · quality/competitive advantage · TQM · location · research** | ✅ **6 entries (228–233)** |
+| **8b** | **12-mark Evaluate — marketing, promotion, changing markets, competitive advantage, success measures, objectives, PR, market orientation** | ✅ **9 entries (234–242)** |
+| **8c** | **12-mark Evaluate — the ten singleton topics** | ✅ **10 entries (243–252)** |
+| **8 ✓** | **12-MARK TIER — CLOSED at 38/38 blocks. LAYER C COMPLETE — 380/380.** | ✅ **done** |
+
+> ### 📐 THE FILE IS NOW IN STRICT NUMERICAL ORDER — `## 1.` to `## 252.`
+> It was not, until this batch closed. Batches 7b–7e were **inserted before `## 196.`**, which stacked the tail as `…195 → 218–227 → 205–217 → 196–204`, and every later append landed at the end. **All entries are present and none were ever duplicated** (checked every time), but the physical order no longer matched the numbering, so `entries[-1]` was **not** the highest entry. **It has now been re-ordered in one move and re-verified: document order is strictly 1 → 252, no gaps, no duplicates, fences balanced.** **Lesson, kept: insert at the END of the file, never "before entry N" — and verify with `min`/`max`, never with `entries[-1]`.**
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
 >
@@ -909,8 +933,6 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 ---
 
----
-
 # BATCH 3 — Spec 3.3 (Marketing)
 
 **23 entries.** Marketing is the largest remaining cluster: 33 of the 152 three-mark blocks sit in 3.3, in 23 distinct topics.
@@ -1442,8 +1464,6 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 > ⭐ **This topic has a 1-mark State twin, and it is a different question.** *"State one advantage for PPS of keeping its customers loyal"* (May/June 2024 P1) · *"State one possible reason why TUI would want to keep its customers loyal"* (May/June 2024 P2) · *"State one possible reason why Huawei would want to keep its customers loyal to its brand"* (Nov 2021 P2).
 > **On State, one reference to the business is enough and no reasoning is needed. On Explain, you need the two steps.** Do not write three sentences for a one-mark State question.
-
----
 
 ---
 
@@ -4546,6 +4566,224 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ---
 
+## 196. PRICING — an introductory/low price vs another tactic
+
+**Asked:** *"Option 1: charge a low price for its meals when it first opens a new restaurant · Option 2: offer a half-priced drink when a person orders a meal on their first visit."* — **June 2026 P2, 2(f)**, Nando's
+
+> **Both options are promotional pricing — the difference is what is discounted, not whether.** **Option 1 cuts the price of the MAIN product; option 2 keeps the meal price intact and gives away something beside it.** That distinction is what the answer turns on.
+
+**The AO2 anchors:** Nando's **may charge a low price for its meals when it first opens**; or it **could offer a half-priced drink when a person orders a meal on their first visit.**
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Nando's should offer the half-priced drink rather than discounting the meals.** The decisive fact is **what the two options do to the price the customer learns.** **Opening with low meal prices teaches customers what a Nando's meal is worth — and the scheme warns that "some customers may associate a low price with low-quality food and may not visit the new restaurant".** **Once that impression is set, raising the price to its normal level reads as a price rise rather than as a return to normal.** **The half-priced drink avoids that entirely, because the meal keeps its real price and the customer has simply been given something extra on the first visit.** **However, the drink offer has its own weakness: "customers may not continue dining at Nando's once the promotional offer ends"** — because the incentive was the drink, not the restaurant. **I would still choose the half-priced drink, on the condition that the first visit is good enough to earn the second — because a chicken restaurant lives on repeat custom, and the offer only works if what it is promoting is worth coming back for.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The half-priced drink** — first sentence |
+| **2. AO2 + AO3** | Discounting meals **teaches a low price → reads as "cheap quality" → then a rise reads as a price rise**; the drink offer **protects the meal's real price** |
+| **3. Counter-arguments** | Low meal price → **low-quality association**; drink offer → **customers may not return once it ends** |
+| **4. Named condition** | ⭐ **Provided the first visit earns the second** — because this business runs on repeat custom |
+
+**Second acceptable chain:** a low opening price **fills the restaurant and builds a reputation through word of mouth** → a full restaurant is its own advertisement → **but the customers who arrive are price-sensitive ones, and they are the hardest group to raise prices on.**
+
+> ⭐ **The comparison in this question is between discounting the PRODUCT and discounting the ADD-ON.** **Protecting the main price preserves what customers think the product is worth** — that is the whole argument, and it transfers to any pair shaped this way.
+
+---
+
+## 197. PRICING — cost plus vs promotional or lower pricing
+
+**Asked:** *"Option 1: cost plus pricing · Option 2: promotional pricing."* — **May–June 2019 P2, 2(f)**, Tata Motor Company ($£$*new vehicles*)
+**Also asked:** *"Option 1: a price comparable to other travel agents · Option 2: a cheaper price to attract customers from rivals."* — **June 2024 P2, 2(f)**, TUI
+**Also asked:** *"Option 1: a realistic price · Option 2: a cheaper price to switch customers from their present brand."* — **Nov 2021 P2, 2(f)**, Huawei
+
+> **Three papers, three businesses, the same decision shape: a price that covers the cost against a price that wins the sale.** **The scheme's counter-arguments are near-identical every time**, which is why one entry answers all three.
+
+**The AO2 anchors:** with cost plus **the company knows the cost of making the vehicle has been covered**; promotional pricing **is a good strategy for selling new vehicles**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Tata should use cost plus pricing for its new vehicles.** The decisive fact is **what is being sold: a vehicle is a high-cost product, and a single model sold below its manufacturing cost loses money that no volume of sales recovers unless the price is above cost.** **Cost plus guarantees the cost is covered on every unit** — and **that certainty is what allows a manufacturer to plan production, order components and pay a workforce before a single car is sold.** **Promotional pricing would generate sales faster, and for a new model that matters, because dealers want cars that move.** **However, "even though the sales may be higher, the profit per vehicle will be lower"** — and on a vehicle, **the profit per unit is where the whole business model sits.** **However, the scheme also cautions that cost plus "does not guarantee that sales are going to be made, especially if a competitor is cheaper, therefore selling more vehicles"** — so the price is safe but the volume is not. **I would still choose cost plus, on the condition that the price is checked against the closest competitor's model before launch — because a price that covers the cost of a car nobody buys covers nothing at all.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Cost plus** — first sentence |
+| **2. AO2 + AO3** | A vehicle is **high-cost per unit** → cost plus **protects the margin on every car** → funds components and wages **before any sale** |
+| **3. Counter-arguments** | Promotional pricing → **lower profit per vehicle**; cost plus → **may sell nothing if a rival is cheaper** |
+| **4. Named condition** | ⭐ **Provided the price is checked against the closest competitor before launch** |
+
+**Second acceptable chain (Huawei or TUI):** a **cheaper price switches customers from the brand they currently own** → the switch is the hardest thing to buy in a mature market → **but "promotional pricing may generate sales for the length of the promotion, and once the price reverts to normal it may reduce sales"** — so the switch has to be made permanent by the product, not the price.
+
+> ⚠️ **The sentence *"once the price reverts to normal, sales may reduce"* appears in the scheme for TUI and for Huawei, word for word.** **It is the single most repeated counter-argument in the pricing cluster — use it every time promotional pricing appears.**
+
+---
+
+## 198. PRICING — an introductory price vs relying on brand recognition
+
+**Asked:** *"Option 1: offer an introductory price to entice shoppers to try the popcorn · Option 2: rely on customers recognising the farm's name when comparing to its competition."* — **May–June 2021 P1, 2(f)**, NOF
+
+> **This is the only pair in the tier where one option is not a price at all.** **Option 2 is the decision to charge a normal price and let the brand do the work** — so the question is really: **is the brand strong enough to skip the discount?**
+
+**The AO2 anchors:** an introductory price **could entice shoppers in the farm shop to try the popcorn**; customers **might recognise the farm's name so will buy the popcorn when comparing to its competition**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **NOF should use the introductory price.** The decisive fact is **what the popcorn is: a product the farm has never sold before, sitting on a shelf beside brands that shoppers already know.** **NOF's name is recognised for the FARM — for its honey and its rooms — and "as they do not have an established brand of popcorn, customers may choose to buy a more popular branded popcorn they know".** **Recognition of the business does not transfer automatically to a new product category**, which is the assumption option 2 makes. **An introductory price gives the shopper a reason to take the risk on the unfamiliar bag**, and **trying it is the only thing that can convert the farm's reputation into popcorn sales.** **However, "the profit on each bag of popcorn will be low even though sales may increase, so in the short term profits might suffer"** — and that is a real cost, paid before any benefit arrives. **I would still choose the introductory price, on the condition that it is time-limited to the season the popcorn launches in — because a permanent low price on popcorn would simply become the price of popcorn, while a temporary one ends once the farm's reputation has done the work.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The introductory price** — first sentence |
+| **2. AO2 + AO3** | The farm's **name is not a popcorn brand** → recognition **does not transfer to a new category** → a reason to try is needed |
+| **3. Counter-arguments** | Introductory price → **low profit per bag, short-term profits suffer**; brand route → **customers may choose a known brand instead** |
+| **4. Named condition** | ⭐ **Provided it is time-limited to the launch season** |
+
+**Second acceptable chain:** an introductory price **brings shoppers into the farm shop where the honey and rooms are also sold** → **the loss on the popcorn is recovered on the rest of the basket** → which is why a farm shop can afford a loss-leader a standalone popcorn brand could not.
+
+> ⭐ **The idea to take away: brand recognition is SEGMENT-SPECIFIC.** *"Customers know the farm"* is not *"customers know the popcorn"*. **Wherever a question asks you to rely on an existing reputation to sell something new, that gap is your argument.**
+
+---
+
+## 199. PRICING — cost plus vs price skimming
+
+**Asked:** *"Option 1: cost plus pricing · Option 2: price skimming on release."* — **June 2022 P2, 2(f)**, LEGO ($£$*the new Princess Leia toy*)
+**Also asked:** *"Option 1: price skimming to charge a high price for its new home robots · Option 2: cost plus to ensure all costs are considered."* — **Nov 2024 P1, 3(e)**, Saha
+
+> **The two questions put the options in opposite orders — and they point at OPPOSITE answers, which is the point.** LEGO sells **a collectible character toy**; Saha sells **a household robot**. **Same pair, different product, different decision.**
+
+**The AO2 anchors (LEGO):** cost plus is **easy to apply and LEGO will know the cost of manufacturing the Princess Leia toy is covered when sold**; price skimming means **the toy is sold at a high price when it is released**.
+**The AO2 anchors (Saha):** skimming **enables Saha to charge a high price for its new home robots**; cost plus **ensures all costs such as metal and assembly are considered**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **LEGO should use price skimming on the Princess Leia toy.** The decisive fact is **the product: a licensed character toy launched to a fan base that wants it on release day, before anyone else has it.** **That audience will pay a premium for being first, and the premium is only available in the weeks around launch** — after that, the same toy sits in the same shops as every other set. **Price skimming takes the money that willingness to pay creates, while it exists.** **Cost plus would leave that on the table, because as the scheme notes it "does not account for what the customer is willing to pay" — it prices from LEGO's costs, not from the customer's desire, so a toy fans would have paid double for goes out at cost plus a fixed markup.** **However, "this strategy might limit the number of potential customers wanting to buy the product as the price is too high"** — and a licensed toy that sells too few units **may not justify the licence fee at all.** **I would still choose skimming, on the condition that the price is cut deliberately once the launch window closes — because LEGO has a fan base that will wait if the price never falls, and a collector's market is worth less than a mass market over the life of the set.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Price skimming** — first sentence |
+| **2. AO2 + AO3** | **Launch-window willingness to pay exists only briefly** → skim while it does |
+| **3. Counter-arguments** | Skimming → **may limit customers because the price is too high**; cost plus → **does not account for what the customer will pay** |
+| **4. Named condition** | ⭐ **Provided the price is cut once the launch window closes** |
+
+**The Saha answer runs the other way — and the reason is the product.** Saha's robots are **a metal-and-assembly manufactured good sold into homes, against named rivals (Zoox, Vention)**, and the scheme warns that **"if the price is considered too high for its target audience it may lose sales to competitors"**. **A household robot is not a collectible: it competes on price with alternatives, so cost plus — which "ensures all costs such as metal and assembly are considered" — is the safer route**, with the caveat that **it may "limit revenue/profit" because it ignores willingness to pay.**
+
+> ⭐ **The transferable test for skimming: is there a group who will pay a premium to be FIRST?** **Characters, launches, new technology that nobody else has — yes. A commodity sold against named rivals — no.** **Notice how the scheme's own counter-argument ("may limit the number of potential customers as the price is too high") is the SAME in both papers, and it is decisive in one and survivable in the other.**
+
+---
+
+## 200. PRICING — competition pricing vs cost plus
+
+**Asked:** *"Option 1: competition pricing at similar prices to other clothing retailers · Option 2: cost plus with a markup for profit."* — **Nov 2023 P1, 3(e)**, AWG ($£$*Icelandic jumpers made from sustainable materials*)
+
+> **This is the pricing question the bank most wants you to see, because the correct answer turns on a single fact buried in the case: the manufacturing cost is HIGH.**
+
+**The AO2 anchors:** competition pricing would see AWG **selling clothing at similar prices to other clothing retailers**; cost plus would **calculate the costs of making the jumpers and add a markup for profit**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **AWG should use cost plus pricing.** The decisive fact is **what AWG makes its jumpers from: sustainable materials, which are more expensive than the conventional ones its competitors use.** **Competition pricing means matching other clothing retailers — but those retailers are not paying AWG's material costs, so a price that suits them may be below AWG's own cost of production.** **The scheme states it plainly: "as AWG use sustainable materials in its jumpers, the manufacturing cost of the clothing may be high, which means selling at a competitive price may not be feasible."** **Cost plus starts from AWG's real costs and adds a markup, so the business cannot accidentally sell below what it spent** — which is the minimum any business needs before it can think about profit. **However, cost plus removes the market from the decision: it "does not account for what the customer is willing to pay, and AWG could be losing out on possible increased revenue and profits."** **I would still choose cost plus, on the condition that AWG makes the sustainability itself the reason to pay the higher price — because the materials cost more, and if customers do not value the difference, AWG is paying a premium for a feature nobody is buying.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Cost plus** — first sentence |
+| **2. AO2 + AO3** | **Sustainable materials cost more than rivals'** → matching the competition **may price below cost** |
+| **3. Counter-arguments** | Cost plus → **ignores what the customer will pay, losing potential revenue**; competition pricing → **may not be feasible at AWG's cost base** |
+| **4. Named condition** | ⭐ **Provided the sustainability is made the reason to pay more** |
+
+**Second acceptable chain:** competition pricing **removes price as a reason for a shopper to choose a rival** → AWG competes on the product instead → **but only if the rival's price is above AWG's cost, which is exactly what the sustainable materials prevent.**
+
+> ⭐ **This entry is the proof of the bank's central claim about this tier: the OPTION PAIR does not determine the answer — the CASE does.** **Cost plus is the "safe but unimaginative" option here; on Nando's or Huawei it would be the wrong choice.** **Read the case fact that makes the difference, then decide.**
+
+---
+
+## 201. PRICING — price matching vs a discount
+
+**Asked:** *"Option 1: match the price of competitors for its rooms · Option 2: offer a discount on a 3-night stay."* — **Nov 2024 P2, 2(f)**, Premier Inn
+
+> **Both options compete on price, so the difference is WHAT KIND of customer each attracts.** Matching is **permanent and open to everyone**; a discount on three nights is **temporary and aimed at a specific booking.**
+
+**The AO2 anchors:** Premier Inn **will match the price of competitors for its rooms**; or it **could offer a discount on the price of a 3-night stay**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Premier Inn should match competitors' prices.** The decisive fact is **what a hotel sells and when it is chosen: a room is booked against other hotels on a screen, and price is the first thing a guest compares.** **Matching removes price as the reason a guest books elsewhere, so the decision falls to the hotel's facilities and location — which is where Premier Inn wants to compete, because that is what it has invested in.** **It also applies to every booking rather than to a chosen few, so it defends the whole business rather than one slice of it.** **The 3-night discount does something different and narrower: it raises bookings among guests already planning a longer stay, and "even though the bookings may be higher there is no guarantee that the profit will be the same or higher"** — because the discount comes straight off the margin on the nights sold. **However, matching has its own limitation, and the scheme names it: "there is no guarantee that customers will book with Premier Inn as they may prefer the facilities at another hotel".** **I would still choose price matching, on the condition that it is applied only to like-for-like rooms in the same location — because matching a rival's price for a hotel with a pool, when Premier Inn has none, gives away margin to win a comparison it will lose anyway.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Price matching** — first sentence |
+| **2. AO2 + AO3** | Hotels are **compared on a screen** → matching **removes price as the reason to go elsewhere** and applies to **all** bookings |
+| **3. Counter-arguments** | Matching → **guests may prefer another hotel's facilities anyway**; discount → **bookings up but profit may not be** |
+| **4. Named condition** | ⭐ **Provided it applies to like-for-like rooms in the same location** |
+
+**Second acceptable chain:** the 3-night discount **lifts occupancy midweek, when hotels are emptiest** → an empty room earns nothing, so **any price is better than none** → **whereas matching every night gives away margin on nights that would have sold at full price anyway.**
+
+> ⭐ **The distinction that wins this question: does the tactic apply to ALL sales or TARGETED ones?** **A blanket price change protects volume but permanently lowers margin; a targeted discount raises volume in the emptiest part of the business and leaves the rest untouched.** **Say which one the case's problem needs.**
+
+---
+
+## 202. PROMOTION — a free giveaway vs mass advertising
+
+**Asked:** *"Option 1: a TV advert promoting its phones and laptops · Option 2: free headphones with a laptop."* — **June 2026 P2R, 2(f)**, Apple
+
+**The AO2 anchors:** a TV advert **will target a large audience**; the free headphones **may encourage some young people to buy a laptop**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Apple should use the free headphones.** The decisive fact is **who the laptop is being sold to: younger buyers, and the scheme warns that "many people, especially young people, no longer listen to or have any interest in TV advertisements", so a TV campaign "may not be cost effective and reach Apple's target audience".** **A television advert pays for a very large audience and delivers a very small share of it — and the share Apple needs is the one that is not watching.** **The headphones do the opposite: they reach nobody who is not already looking at the laptop, and they create the reason to complete the purchase at the moment of decision.** **However, "students may not be interested in promotional products, and the offer may not be a sufficiently good deal to persuade them to buy" — particularly as they may prefer cheaper alternatives to an Apple laptop in the first place.** **I would still choose the headphones, on the condition that they are a product this buyer actually wants — because a free accessory nobody values does not shift a laptop, it just gives away stock and reduces the effective price for people who would have bought anyway.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The free headphones** — first sentence |
+| **2. AO2 + AO3** | **Young buyers do not watch TV ads** → mass reach is wasted; headphones **act at the point of decision** |
+| **3. Counter-arguments** | TV → **not cost-effective for this audience**; giveaway → **students may not value it or may buy cheaper anyway** |
+| **4. Named condition** | ⭐ **Provided it is an accessory this buyer actually wants** |
+
+**Second acceptable chain:** the TV advert **builds the brand beyond the people buying this year** → brand advertising works over years, while a giveaway only works in the week it runs → **but a laptop is a considered purchase bought on specification and price, so brand awareness alone does not close it.**
+
+> ⚠️ **The scheme's counter-argument for mass advertising is THE SAME POINT that makes it strong: the large audience.** *"Target a large audience"* is not a benefit if **the audience is not the customer.** **That reversal — a strength that is a weakness for this particular business — is worth 3 AO4 marks, and it appears in this cluster more than once.**
+
+---
+
+## 203. PROMOTION — paid celebrity endorsement vs a free giveaway
+
+**Asked:** *"Option 1: pay fees to a celebrity for using its smartphones · Option 2: free game applications to encourage young people to buy a phone."* — **Nov 2025 P2, 2(f)**, Samsung
+
+> **This is the closest pair in the tier to entry 206 — and the difference is instructive.** **Both pair a paid broadcast against a free gift; here the paid channel is a CELEBRITY rather than a TV slot.**
+
+**The AO2 anchors:** Samsung **could pay fees to a celebrity for using its smartphones as a way of getting publicity**; **free game applications may encourage young people to buy a phone.**
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Samsung should use the free game applications.** The decisive fact is **the age of the buyer: young people choose a phone largely on what it can do, and games are what it does.** **Free applications make the phone worth more at the moment of choosing, and that value is in the product itself rather than in an image attached to it.** **A celebrity endorsement buys attention and association, which is powerful for a brand that needs to be seen as desirable** — but **it is a fee paid to a person, and the association disappears the moment the contract ends or the celebrity moves to a rival's product.** **However, the games have their own limitation: they are free to the customer only if Samsung pays the developer, so the giveaway is a cost on every phone sold** — and **it narrows the margin on the units it is most trying to sell.** **I would still choose the games, on the condition that the phones they are bundled with are the mid-range models younger buyers actually buy — because a giveaway attached to a flagship nobody in that group can afford is a discount given to people who did not need persuading.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The free games** — first sentence |
+| **2. AO2 + AO3** | **Young buyers choose on capability** → games make the phone worth more **in the product** |
+| **3. Counter-arguments** | Celebrity → **fee paid, association temporary**; games → **cost on every unit, narrowing margin** |
+| **4. Named condition** | ⭐ **Provided it is attached to the models this buyer can afford** |
+
+**Second acceptable chain:** a celebrity endorsement **generates press coverage and social media attention that is not paid for directly** → the reach goes far beyond the advert → **but it is the celebrity the audience remembers, not the specification, which does not help a phone competing on features.**
+
+> ⭐ **The celebrity's AO4 is worth learning as a fixed item: you PAY a fee, and the association ENDS.** **The scheme's whole objection to buying attention is that you rent it.** **The same logic applies to sponsorship (entry 208) and to TV advertising (entry 206).**
+
+---
+
+## 204. PROMOTION — sponsoring a charity or event vs special offers
+
+**Asked:** *"Option 1: sponsor a local charity such as Animal Rescue · Option 2: increase special offers on its sauces."* — **Nov 2023 P2, 2(f)**, Kraft Heinz
+**Also asked:** *"Option 1: free trial of a new dog food brand · Option 2: sponsor a local dog show."* — **June 2024 P1, 2(f)**, PPS
+
+**The AO2 anchors (Kraft Heinz):** sponsoring **gains publicity and involvement in the local community**; special offers **may encourage more people to purchase its products**.
+**The AO2 anchors (PPS):** a free trial **will appeal to dog owners who regularly purchase dog food**; sponsoring a dog show **will promote products such as dog collars**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Kraft Heinz should increase its special offers.** The decisive fact is **what the money has to do: move tins of beans and bottles of sauce off shelves.** **A special offer works directly on that decision, because the customer is already standing in front of the product with the price in view** — the offer changes what they pay at the moment they were going to choose. **Sponsoring Animal Rescue buys something real but different: publicity and standing in the local community.** **The problem is the link, and the scheme states it: "there is no guarantee that because an event has been sponsored by Kraft Heinz people will purchase its products."** **Publicity is not the same as a reason to buy, and a shopper who has seen the company's name on a rescue campaign still chooses the sauce on price and taste.** **However, "special offers may help increase sales but they can cost Kraft Heinz additional costs which might not be recovered"** — so the offer is a straight trade of margin for volume. **I would still choose the special offers, on the condition that they are timed to the period when the products are actually competed for — because a discount on a product the shopper was always going to buy is simply a price cut, and it is permanent once customers are used to it.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The special offers** — first sentence |
+| **2. AO2 + AO3** | Offers act **at the shelf, where the decision is made** |
+| **3. Counter-arguments** | Sponsorship → **no guarantee people will buy**; offers → **cost that may not be recovered** |
+| **4. Named condition** | ⭐ **Provided they are timed to when the product is genuinely being contended for** |
+
+**Second acceptable chain (PPS):** sponsoring a **dog show** puts the products in front of **owners who already buy dog food and collars** — a targeted audience at a moment they are thinking about their dog → **but "it does cost to sponsor an event so PPS would need to incur cost upfront before they gain an increase in revenue", which a small business may not be able to carry.**
+
+> ⚠️ **Note which way this one goes, and why: the scheme's own formulation makes the sponsorship link weak — "there is no guarantee … that people will purchase its products".** **When a counter-argument is printed in the scheme, it is the correct ground to argue on.** **This is the opposite conclusion from entry 186 (AWG), where venture capital beat franchising — because there the option being rejected damaged the BRAND, and here the option being rejected is merely indirect.**
+
+---
+
 ## 205. MARKET RESEARCH — primary research versus secondary research
 
 **Asked five times in six years:**
@@ -5206,226 +5444,6 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 > **3. WHAT WOULD HAVE TO BE TRUE?** The named condition, drawn from a case fact or a figure — and **if it could be pasted onto another question, it is not a condition.**
 
 ---
-## 196. PRICING — an introductory/low price vs another tactic
-
-**Asked:** *"Option 1: charge a low price for its meals when it first opens a new restaurant · Option 2: offer a half-priced drink when a person orders a meal on their first visit."* — **June 2026 P2, 2(f)**, Nando's
-
-> **Both options are promotional pricing — the difference is what is discounted, not whether.** **Option 1 cuts the price of the MAIN product; option 2 keeps the meal price intact and gives away something beside it.** That distinction is what the answer turns on.
-
-**The AO2 anchors:** Nando's **may charge a low price for its meals when it first opens**; or it **could offer a half-priced drink when a person orders a meal on their first visit.**
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Nando's should offer the half-priced drink rather than discounting the meals.** The decisive fact is **what the two options do to the price the customer learns.** **Opening with low meal prices teaches customers what a Nando's meal is worth — and the scheme warns that "some customers may associate a low price with low-quality food and may not visit the new restaurant".** **Once that impression is set, raising the price to its normal level reads as a price rise rather than as a return to normal.** **The half-priced drink avoids that entirely, because the meal keeps its real price and the customer has simply been given something extra on the first visit.** **However, the drink offer has its own weakness: "customers may not continue dining at Nando's once the promotional offer ends"** — because the incentive was the drink, not the restaurant. **I would still choose the half-priced drink, on the condition that the first visit is good enough to earn the second — because a chicken restaurant lives on repeat custom, and the offer only works if what it is promoting is worth coming back for.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **The half-priced drink** — first sentence |
-| **2. AO2 + AO3** | Discounting meals **teaches a low price → reads as "cheap quality" → then a rise reads as a price rise**; the drink offer **protects the meal's real price** |
-| **3. Counter-arguments** | Low meal price → **low-quality association**; drink offer → **customers may not return once it ends** |
-| **4. Named condition** | ⭐ **Provided the first visit earns the second** — because this business runs on repeat custom |
-
-**Second acceptable chain:** a low opening price **fills the restaurant and builds a reputation through word of mouth** → a full restaurant is its own advertisement → **but the customers who arrive are price-sensitive ones, and they are the hardest group to raise prices on.**
-
-> ⭐ **The comparison in this question is between discounting the PRODUCT and discounting the ADD-ON.** **Protecting the main price preserves what customers think the product is worth** — that is the whole argument, and it transfers to any pair shaped this way.
-
----
-
-## 197. PRICING — cost plus vs promotional or lower pricing
-
-**Asked:** *"Option 1: cost plus pricing · Option 2: promotional pricing."* — **May–June 2019 P2, 2(f)**, Tata Motor Company ($£$*new vehicles*)
-**Also asked:** *"Option 1: a price comparable to other travel agents · Option 2: a cheaper price to attract customers from rivals."* — **June 2024 P2, 2(f)**, TUI
-**Also asked:** *"Option 1: a realistic price · Option 2: a cheaper price to switch customers from their present brand."* — **Nov 2021 P2, 2(f)**, Huawei
-
-> **Three papers, three businesses, the same decision shape: a price that covers the cost against a price that wins the sale.** **The scheme's counter-arguments are near-identical every time**, which is why one entry answers all three.
-
-**The AO2 anchors:** with cost plus **the company knows the cost of making the vehicle has been covered**; promotional pricing **is a good strategy for selling new vehicles**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Tata should use cost plus pricing for its new vehicles.** The decisive fact is **what is being sold: a vehicle is a high-cost product, and a single model sold below its manufacturing cost loses money that no volume of sales recovers unless the price is above cost.** **Cost plus guarantees the cost is covered on every unit** — and **that certainty is what allows a manufacturer to plan production, order components and pay a workforce before a single car is sold.** **Promotional pricing would generate sales faster, and for a new model that matters, because dealers want cars that move.** **However, "even though the sales may be higher, the profit per vehicle will be lower"** — and on a vehicle, **the profit per unit is where the whole business model sits.** **However, the scheme also cautions that cost plus "does not guarantee that sales are going to be made, especially if a competitor is cheaper, therefore selling more vehicles"** — so the price is safe but the volume is not. **I would still choose cost plus, on the condition that the price is checked against the closest competitor's model before launch — because a price that covers the cost of a car nobody buys covers nothing at all.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **Cost plus** — first sentence |
-| **2. AO2 + AO3** | A vehicle is **high-cost per unit** → cost plus **protects the margin on every car** → funds components and wages **before any sale** |
-| **3. Counter-arguments** | Promotional pricing → **lower profit per vehicle**; cost plus → **may sell nothing if a rival is cheaper** |
-| **4. Named condition** | ⭐ **Provided the price is checked against the closest competitor before launch** |
-
-**Second acceptable chain (Huawei or TUI):** a **cheaper price switches customers from the brand they currently own** → the switch is the hardest thing to buy in a mature market → **but "promotional pricing may generate sales for the length of the promotion, and once the price reverts to normal it may reduce sales"** — so the switch has to be made permanent by the product, not the price.
-
-> ⚠️ **The sentence *"once the price reverts to normal, sales may reduce"* appears in the scheme for TUI and for Huawei, word for word.** **It is the single most repeated counter-argument in the pricing cluster — use it every time promotional pricing appears.**
-
----
-
-## 198. PRICING — an introductory price vs relying on brand recognition
-
-**Asked:** *"Option 1: offer an introductory price to entice shoppers to try the popcorn · Option 2: rely on customers recognising the farm's name when comparing to its competition."* — **May–June 2021 P1, 2(f)**, NOF
-
-> **This is the only pair in the tier where one option is not a price at all.** **Option 2 is the decision to charge a normal price and let the brand do the work** — so the question is really: **is the brand strong enough to skip the discount?**
-
-**The AO2 anchors:** an introductory price **could entice shoppers in the farm shop to try the popcorn**; customers **might recognise the farm's name so will buy the popcorn when comparing to its competition**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **NOF should use the introductory price.** The decisive fact is **what the popcorn is: a product the farm has never sold before, sitting on a shelf beside brands that shoppers already know.** **NOF's name is recognised for the FARM — for its honey and its rooms — and "as they do not have an established brand of popcorn, customers may choose to buy a more popular branded popcorn they know".** **Recognition of the business does not transfer automatically to a new product category**, which is the assumption option 2 makes. **An introductory price gives the shopper a reason to take the risk on the unfamiliar bag**, and **trying it is the only thing that can convert the farm's reputation into popcorn sales.** **However, "the profit on each bag of popcorn will be low even though sales may increase, so in the short term profits might suffer"** — and that is a real cost, paid before any benefit arrives. **I would still choose the introductory price, on the condition that it is time-limited to the season the popcorn launches in — because a permanent low price on popcorn would simply become the price of popcorn, while a temporary one ends once the farm's reputation has done the work.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **The introductory price** — first sentence |
-| **2. AO2 + AO3** | The farm's **name is not a popcorn brand** → recognition **does not transfer to a new category** → a reason to try is needed |
-| **3. Counter-arguments** | Introductory price → **low profit per bag, short-term profits suffer**; brand route → **customers may choose a known brand instead** |
-| **4. Named condition** | ⭐ **Provided it is time-limited to the launch season** |
-
-**Second acceptable chain:** an introductory price **brings shoppers into the farm shop where the honey and rooms are also sold** → **the loss on the popcorn is recovered on the rest of the basket** → which is why a farm shop can afford a loss-leader a standalone popcorn brand could not.
-
-> ⭐ **The idea to take away: brand recognition is SEGMENT-SPECIFIC.** *"Customers know the farm"* is not *"customers know the popcorn"*. **Wherever a question asks you to rely on an existing reputation to sell something new, that gap is your argument.**
-
----
-
-## 199. PRICING — cost plus vs price skimming
-
-**Asked:** *"Option 1: cost plus pricing · Option 2: price skimming on release."* — **June 2022 P2, 2(f)**, LEGO ($£$*the new Princess Leia toy*)
-**Also asked:** *"Option 1: price skimming to charge a high price for its new home robots · Option 2: cost plus to ensure all costs are considered."* — **Nov 2024 P1, 3(e)**, Saha
-
-> **The two questions put the options in opposite orders — and they point at OPPOSITE answers, which is the point.** LEGO sells **a collectible character toy**; Saha sells **a household robot**. **Same pair, different product, different decision.**
-
-**The AO2 anchors (LEGO):** cost plus is **easy to apply and LEGO will know the cost of manufacturing the Princess Leia toy is covered when sold**; price skimming means **the toy is sold at a high price when it is released**.
-**The AO2 anchors (Saha):** skimming **enables Saha to charge a high price for its new home robots**; cost plus **ensures all costs such as metal and assembly are considered**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **LEGO should use price skimming on the Princess Leia toy.** The decisive fact is **the product: a licensed character toy launched to a fan base that wants it on release day, before anyone else has it.** **That audience will pay a premium for being first, and the premium is only available in the weeks around launch** — after that, the same toy sits in the same shops as every other set. **Price skimming takes the money that willingness to pay creates, while it exists.** **Cost plus would leave that on the table, because as the scheme notes it "does not account for what the customer is willing to pay" — it prices from LEGO's costs, not from the customer's desire, so a toy fans would have paid double for goes out at cost plus a fixed markup.** **However, "this strategy might limit the number of potential customers wanting to buy the product as the price is too high"** — and a licensed toy that sells too few units **may not justify the licence fee at all.** **I would still choose skimming, on the condition that the price is cut deliberately once the launch window closes — because LEGO has a fan base that will wait if the price never falls, and a collector's market is worth less than a mass market over the life of the set.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **Price skimming** — first sentence |
-| **2. AO2 + AO3** | **Launch-window willingness to pay exists only briefly** → skim while it does |
-| **3. Counter-arguments** | Skimming → **may limit customers because the price is too high**; cost plus → **does not account for what the customer will pay** |
-| **4. Named condition** | ⭐ **Provided the price is cut once the launch window closes** |
-
-**The Saha answer runs the other way — and the reason is the product.** Saha's robots are **a metal-and-assembly manufactured good sold into homes, against named rivals (Zoox, Vention)**, and the scheme warns that **"if the price is considered too high for its target audience it may lose sales to competitors"**. **A household robot is not a collectible: it competes on price with alternatives, so cost plus — which "ensures all costs such as metal and assembly are considered" — is the safer route**, with the caveat that **it may "limit revenue/profit" because it ignores willingness to pay.**
-
-> ⭐ **The transferable test for skimming: is there a group who will pay a premium to be FIRST?** **Characters, launches, new technology that nobody else has — yes. A commodity sold against named rivals — no.** **Notice how the scheme's own counter-argument ("may limit the number of potential customers as the price is too high") is the SAME in both papers, and it is decisive in one and survivable in the other.**
-
----
-
-## 200. PRICING — competition pricing vs cost plus
-
-**Asked:** *"Option 1: competition pricing at similar prices to other clothing retailers · Option 2: cost plus with a markup for profit."* — **Nov 2023 P1, 3(e)**, AWG ($£$*Icelandic jumpers made from sustainable materials*)
-
-> **This is the pricing question the bank most wants you to see, because the correct answer turns on a single fact buried in the case: the manufacturing cost is HIGH.**
-
-**The AO2 anchors:** competition pricing would see AWG **selling clothing at similar prices to other clothing retailers**; cost plus would **calculate the costs of making the jumpers and add a markup for profit**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **AWG should use cost plus pricing.** The decisive fact is **what AWG makes its jumpers from: sustainable materials, which are more expensive than the conventional ones its competitors use.** **Competition pricing means matching other clothing retailers — but those retailers are not paying AWG's material costs, so a price that suits them may be below AWG's own cost of production.** **The scheme states it plainly: "as AWG use sustainable materials in its jumpers, the manufacturing cost of the clothing may be high, which means selling at a competitive price may not be feasible."** **Cost plus starts from AWG's real costs and adds a markup, so the business cannot accidentally sell below what it spent** — which is the minimum any business needs before it can think about profit. **However, cost plus removes the market from the decision: it "does not account for what the customer is willing to pay, and AWG could be losing out on possible increased revenue and profits."** **I would still choose cost plus, on the condition that AWG makes the sustainability itself the reason to pay the higher price — because the materials cost more, and if customers do not value the difference, AWG is paying a premium for a feature nobody is buying.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **Cost plus** — first sentence |
-| **2. AO2 + AO3** | **Sustainable materials cost more than rivals'** → matching the competition **may price below cost** |
-| **3. Counter-arguments** | Cost plus → **ignores what the customer will pay, losing potential revenue**; competition pricing → **may not be feasible at AWG's cost base** |
-| **4. Named condition** | ⭐ **Provided the sustainability is made the reason to pay more** |
-
-**Second acceptable chain:** competition pricing **removes price as a reason for a shopper to choose a rival** → AWG competes on the product instead → **but only if the rival's price is above AWG's cost, which is exactly what the sustainable materials prevent.**
-
-> ⭐ **This entry is the proof of the bank's central claim about this tier: the OPTION PAIR does not determine the answer — the CASE does.** **Cost plus is the "safe but unimaginative" option here; on Nando's or Huawei it would be the wrong choice.** **Read the case fact that makes the difference, then decide.**
-
----
-
-## 201. PRICING — price matching vs a discount
-
-**Asked:** *"Option 1: match the price of competitors for its rooms · Option 2: offer a discount on a 3-night stay."* — **Nov 2024 P2, 2(f)**, Premier Inn
-
-> **Both options compete on price, so the difference is WHAT KIND of customer each attracts.** Matching is **permanent and open to everyone**; a discount on three nights is **temporary and aimed at a specific booking.**
-
-**The AO2 anchors:** Premier Inn **will match the price of competitors for its rooms**; or it **could offer a discount on the price of a 3-night stay**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Premier Inn should match competitors' prices.** The decisive fact is **what a hotel sells and when it is chosen: a room is booked against other hotels on a screen, and price is the first thing a guest compares.** **Matching removes price as the reason a guest books elsewhere, so the decision falls to the hotel's facilities and location — which is where Premier Inn wants to compete, because that is what it has invested in.** **It also applies to every booking rather than to a chosen few, so it defends the whole business rather than one slice of it.** **The 3-night discount does something different and narrower: it raises bookings among guests already planning a longer stay, and "even though the bookings may be higher there is no guarantee that the profit will be the same or higher"** — because the discount comes straight off the margin on the nights sold. **However, matching has its own limitation, and the scheme names it: "there is no guarantee that customers will book with Premier Inn as they may prefer the facilities at another hotel".** **I would still choose price matching, on the condition that it is applied only to like-for-like rooms in the same location — because matching a rival's price for a hotel with a pool, when Premier Inn has none, gives away margin to win a comparison it will lose anyway.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **Price matching** — first sentence |
-| **2. AO2 + AO3** | Hotels are **compared on a screen** → matching **removes price as the reason to go elsewhere** and applies to **all** bookings |
-| **3. Counter-arguments** | Matching → **guests may prefer another hotel's facilities anyway**; discount → **bookings up but profit may not be** |
-| **4. Named condition** | ⭐ **Provided it applies to like-for-like rooms in the same location** |
-
-**Second acceptable chain:** the 3-night discount **lifts occupancy midweek, when hotels are emptiest** → an empty room earns nothing, so **any price is better than none** → **whereas matching every night gives away margin on nights that would have sold at full price anyway.**
-
-> ⭐ **The distinction that wins this question: does the tactic apply to ALL sales or TARGETED ones?** **A blanket price change protects volume but permanently lowers margin; a targeted discount raises volume in the emptiest part of the business and leaves the rest untouched.** **Say which one the case's problem needs.**
-
----
-
-## 202. PROMOTION — a free giveaway vs mass advertising
-
-**Asked:** *"Option 1: a TV advert promoting its phones and laptops · Option 2: free headphones with a laptop."* — **June 2026 P2R, 2(f)**, Apple
-
-**The AO2 anchors:** a TV advert **will target a large audience**; the free headphones **may encourage some young people to buy a laptop**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Apple should use the free headphones.** The decisive fact is **who the laptop is being sold to: younger buyers, and the scheme warns that "many people, especially young people, no longer listen to or have any interest in TV advertisements", so a TV campaign "may not be cost effective and reach Apple's target audience".** **A television advert pays for a very large audience and delivers a very small share of it — and the share Apple needs is the one that is not watching.** **The headphones do the opposite: they reach nobody who is not already looking at the laptop, and they create the reason to complete the purchase at the moment of decision.** **However, "students may not be interested in promotional products, and the offer may not be a sufficiently good deal to persuade them to buy" — particularly as they may prefer cheaper alternatives to an Apple laptop in the first place.** **I would still choose the headphones, on the condition that they are a product this buyer actually wants — because a free accessory nobody values does not shift a laptop, it just gives away stock and reduces the effective price for people who would have bought anyway.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **The free headphones** — first sentence |
-| **2. AO2 + AO3** | **Young buyers do not watch TV ads** → mass reach is wasted; headphones **act at the point of decision** |
-| **3. Counter-arguments** | TV → **not cost-effective for this audience**; giveaway → **students may not value it or may buy cheaper anyway** |
-| **4. Named condition** | ⭐ **Provided it is an accessory this buyer actually wants** |
-
-**Second acceptable chain:** the TV advert **builds the brand beyond the people buying this year** → brand advertising works over years, while a giveaway only works in the week it runs → **but a laptop is a considered purchase bought on specification and price, so brand awareness alone does not close it.**
-
-> ⚠️ **The scheme's counter-argument for mass advertising is THE SAME POINT that makes it strong: the large audience.** *"Target a large audience"* is not a benefit if **the audience is not the customer.** **That reversal — a strength that is a weakness for this particular business — is worth 3 AO4 marks, and it appears in this cluster more than once.**
-
----
-
-## 203. PROMOTION — paid celebrity endorsement vs a free giveaway
-
-**Asked:** *"Option 1: pay fees to a celebrity for using its smartphones · Option 2: free game applications to encourage young people to buy a phone."* — **Nov 2025 P2, 2(f)**, Samsung
-
-> **This is the closest pair in the tier to entry 206 — and the difference is instructive.** **Both pair a paid broadcast against a free gift; here the paid channel is a CELEBRITY rather than a TV slot.**
-
-**The AO2 anchors:** Samsung **could pay fees to a celebrity for using its smartphones as a way of getting publicity**; **free game applications may encourage young people to buy a phone.**
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Samsung should use the free game applications.** The decisive fact is **the age of the buyer: young people choose a phone largely on what it can do, and games are what it does.** **Free applications make the phone worth more at the moment of choosing, and that value is in the product itself rather than in an image attached to it.** **A celebrity endorsement buys attention and association, which is powerful for a brand that needs to be seen as desirable** — but **it is a fee paid to a person, and the association disappears the moment the contract ends or the celebrity moves to a rival's product.** **However, the games have their own limitation: they are free to the customer only if Samsung pays the developer, so the giveaway is a cost on every phone sold** — and **it narrows the margin on the units it is most trying to sell.** **I would still choose the games, on the condition that the phones they are bundled with are the mid-range models younger buyers actually buy — because a giveaway attached to a flagship nobody in that group can afford is a discount given to people who did not need persuading.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **The free games** — first sentence |
-| **2. AO2 + AO3** | **Young buyers choose on capability** → games make the phone worth more **in the product** |
-| **3. Counter-arguments** | Celebrity → **fee paid, association temporary**; games → **cost on every unit, narrowing margin** |
-| **4. Named condition** | ⭐ **Provided it is attached to the models this buyer can afford** |
-
-**Second acceptable chain:** a celebrity endorsement **generates press coverage and social media attention that is not paid for directly** → the reach goes far beyond the advert → **but it is the celebrity the audience remembers, not the specification, which does not help a phone competing on features.**
-
-> ⭐ **The celebrity's AO4 is worth learning as a fixed item: you PAY a fee, and the association ENDS.** **The scheme's whole objection to buying attention is that you rent it.** **The same logic applies to sponsorship (entry 208) and to TV advertising (entry 206).**
-
----
-
-## 204. PROMOTION — sponsoring a charity or event vs special offers
-
-**Asked:** *"Option 1: sponsor a local charity such as Animal Rescue · Option 2: increase special offers on its sauces."* — **Nov 2023 P2, 2(f)**, Kraft Heinz
-**Also asked:** *"Option 1: free trial of a new dog food brand · Option 2: sponsor a local dog show."* — **June 2024 P1, 2(f)**, PPS
-
-**The AO2 anchors (Kraft Heinz):** sponsoring **gains publicity and involvement in the local community**; special offers **may encourage more people to purchase its products**.
-**The AO2 anchors (PPS):** a free trial **will appeal to dog owners who regularly purchase dog food**; sponsoring a dog show **will promote products such as dog collars**.
-
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Kraft Heinz should increase its special offers.** The decisive fact is **what the money has to do: move tins of beans and bottles of sauce off shelves.** **A special offer works directly on that decision, because the customer is already standing in front of the product with the price in view** — the offer changes what they pay at the moment they were going to choose. **Sponsoring Animal Rescue buys something real but different: publicity and standing in the local community.** **The problem is the link, and the scheme states it: "there is no guarantee that because an event has been sponsored by Kraft Heinz people will purchase its products."** **Publicity is not the same as a reason to buy, and a shopper who has seen the company's name on a rescue campaign still chooses the sauce on price and taste.** **However, "special offers may help increase sales but they can cost Kraft Heinz additional costs which might not be recovered"** — so the offer is a straight trade of margin for volume. **I would still choose the special offers, on the condition that they are timed to the period when the products are actually competed for — because a discount on a product the shopper was always going to buy is simply a price cut, and it is permanent once customers are used to it.**
-
-| Move | The answer |
-|---|---|
-| **1. Choice** | **The special offers** — first sentence |
-| **2. AO2 + AO3** | Offers act **at the shelf, where the decision is made** |
-| **3. Counter-arguments** | Sponsorship → **no guarantee people will buy**; offers → **cost that may not be recovered** |
-| **4. Named condition** | ⭐ **Provided they are timed to when the product is genuinely being contended for** |
-
-**Second acceptable chain (PPS):** sponsoring a **dog show** puts the products in front of **owners who already buy dog food and collars** — a targeted audience at a moment they are thinking about their dog → **but "it does cost to sponsor an event so PPS would need to incur cost upfront before they gain an increase in revenue", which a small business may not be able to carry.**
-
-> ⚠️ **Note which way this one goes, and why: the scheme's own formulation makes the sponsorship link weak — "there is no guarantee … that people will purchase its products".** **When a counter-argument is printed in the scheme, it is the correct ground to argue on.** **This is the opposite conclusion from entry 186 (AWG), where venture capital beat franchising — because there the option being rejected damaged the BRAND, and here the option being rejected is merely indirect.**
-
----
-
----
-
 # BATCH 8 — THE 12-MARK TIER (entries 228–252)
 
 > **38 blocks — one `4(c)` on every paper.** The bank's last tier. **This is the tier with a permanent limit: there is no verified 12/12 for Paper 2 or Paper 2R** (Pearson's 12-mark exemplars are Paper 1 scripts; see `09_Verified_Tally.md`). Everything here is therefore a `[CONSTRUCTED GRADE 9 TARGET]` unless labelled otherwise.
@@ -5609,3 +5627,488 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 ⭐ **Huawei's AO4 contains the rarest move in the whole bank: the scheme argues *against* its own question.** *"Producing a watch that no other business is offering could mean that it sells more of the products and gains a competitive advantage"* — **research can talk a business out of its best idea.** Pearson's own advice on a 4/12 (*"if other factors should be taken into account as well"*) confirms this is a route, not a risk.
 
 ⚠️ **Both AO4s end in the same place, and it is the sentence to memorise for either paper:** *research cannot guarantee demand.*
+
+---
+
+# BATCH 8b — 12-MARK EVALUATE, PART 2 (entries 234–242)
+
+## 234. MARKETING — what it is worth when the product is new, and when the customer is already yours
+
+**Asked:** *"Evaluate the importance of marketing for **Cadbury** when introducing a new product."* — **May 2022 P2R 4(c)** · *"Evaluate the importance of marketing to **PPS** so it can keep its market share."* — **May 2024 P1 4(c)**, pet products and a pet hotel.
+
+| | **Cadbury** (2022 P2R) — *new product* | **PPS** (2024 P1) — *holding on to share* |
+|---|---|---|
+| **AO1** | products customers will want to buy — **market research** identifies a gap in the market; chocolate bars people enjoy **keep them loyal** | marketing **informs customers** what the business offers; marketing **builds long-lasting customer relationships** |
+| **AO2** | if research finds customers like **chocolate ice creams**, Cadbury could introduce them; loyal customers keep buying its range | PPS can remind customers about products such as **CCTV cameras in the pet hotel**; it can identify needs by giving customers **questionnaires** |
+| **AO3** | buyers of the ice creams **recommend Cadbury** to friends; **loyal customers are more likely to try** whatever it launches next | greater **brand awareness** makes it stand out so existing customers stay; reliable information → **more accurate targeting → competitive edge over other pet businesses** |
+| **AO4** | **bad publicity** about the ice creams could reduce sales and damage reputation; to keep loyalty it may have to offer **special deals or free gifts** on old and new products | **time-consuming** to market — approaching in-store customers or detailing the website; customers **may still try the new pet business if it charges a lower price** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — PPS
+>
+> Marketing is everything a business does to find out what customers want and to persuade them to buy: the research, the branding, the promotion and the relationships. For PPS, which already has customers and something to lose, marketing has a specific job — it is what stops the pet business down the road from taking them.
+>
+> Marketing informs customers of the products the business is offering, and it can build long-lasting customer relationships. PPS can remind customers with information about the products it offers, such as the CCTV cameras in the pet hotel, and it can identify customer needs by giving its own customers questionnaires to get feedback. That matters because a pet owner's decision is built on trust — they are handing over an animal — so being the business that asks and then acts on the answer is how it keeps its market share.
+>
+> It is important for PPS to create greater brand awareness to make it stand out against the competition so that existing customers remain with PPS. If PPS gathers enough reliable information from its customers, they may be able to identify customer needs and target its products and services more accurately, giving them a competitive edge over other pet businesses — for example by finding out that owners want grooming as well as boarding, and offering it before a rival does.
+>
+> However, it can be time-consuming to market the business, as PPS will need to approach the customers that come in store or provide detailed information on their website to keep it competitive. This may not work either: some of its customers may still try the new pet business if it is charging a lower price than PPS, because no amount of awareness makes a customer pay more for the same service.
+>
+> Overall, marketing is very important to PPS, but only if it is used on the right customers. This depends on whether its customers choose on service — where its reputation protects it — or on price, where a cheaper rival wins regardless. In the short term the research and the website take time that the staff could spend on pets, but in the long term knowing exactly what its customers want is what keeps them from trying the new business at all.
+
+⭐ **The two papers ask the same AO1 in opposite directions.** Cadbury's marketing is *about a gap in the market*; PPS's is *about a relationship already held*. **Use the question to pick the direction: "introducing a new product" → research and trial; "keep its market share" → awareness and retention.**
+
+---
+
+## 235. PROMOTION — technology against the traditional mix, and why the *variety* matters
+
+**Asked:** *"Evaluate the benefits to **Lavender** of using other forms of technology to promote its products."* — **May 2019 P1R 4(c)**, bakery with outlets and recipes · *"Evaluate the importance to **Kraft Heinz** of using a variety of different methods to advertise to its target customers."* — **November 2023 P2 4(c)**, including the tomato sauce advertised by Ed Sheeran.
+
+| | **Lavender** (2019 P1R) | **Kraft Heinz** (Nov 2023 P2) |
+|---|---|---|
+| **AO1** | **social media** reaches a wider target market; **e-newsletters** keep customers up to date with new products | using a **variety** such as television advertisement attracts a variety of different people; posters or billboards |
+| **AO2** | target a particular audience based on their **liking for food** and advertise directly to them; collect email addresses of customers or run questionnaires | the **Ed Sheeran** advertisement attracts a **younger person** who is keen on his music and would want to try the tomato sauce; a poster advertising a **new variety of baked beans**, displayed in towns and cities |
+| **AO3** | **personalise** information from what a customer has searched for or bought before; reach current customers and encourage **repeat purchase** or to try other outlets or recipes | they are encouraged to try it **because someone famous has used it and they want to follow**; a poster carries a **short, sharp message seen repeatedly** as people pass by |
+| **AO4** | needs employees with **technological skills**; **people ignore emails or website banners**; hard to reach new customers in new areas because it does not yet know who they are; **some customers prefer traditional methods such as leaflets inside the bakery**, where you hand them over, give a more personalised service, and **speak to them face to face to gain feedback** | **no guarantee sales increase just because a pop star has been in the advertisement**; posters **get damaged** and it is **difficult to evaluate their effectiveness** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — Lavender
+>
+> Digital promotion is any use of technology to reach customers — social media, e-newsletters, the business's own website — rather than leaflets, posters or press. For a bakery with several outlets and a range of recipes, the question is whether that technology reaches the right people better than a leaflet in the shop does, and whether the custom it brings is worth the trade-off.
+>
+> Social media can be used to gain a wider target market, and e-newsletters can keep customers up to date with new products. Lavender could target a particular audience based on their likes of food and advertise directly to them, and it could collect the email addresses of its customers or complete questionnaires to build that list. The advantage over a leaflet is precision: using technology in promotion, Lavender can personalise the information to the customer based on what they have searched for on the internet or what they have purchased previously from the bakery. It can then reach out to current customers and encourage them to repeat purchase or to try out its other outlets or different recipes — which is exactly the behaviour a growing bakery chain needs.
+>
+> However, Lavender would need to have employees with the necessary technological skills in order to use this as a method of promotion, and that is a cost and a delay. Some people ignore emails or banners on websites and may not pay attention to the promotion at all, and it could be difficult to reach the new customers in the new areas, as it does not yet know who they are. A lot of time might be spent using technology when some people prefer traditional methods such as leaflets inside the bakery: handing them out directly gives more of a personalised service and the chance to speak to customers face to face and gain feedback — which a newsletter cannot do.
+>
+> Overall, technology is beneficial to Lavender, but only as one part of its promotion. This depends on whether its customers are already online and already know the brand, and on whether it has the staff to run the channels properly. In the short term the skills and the time are a cost, but in the long term a bakery that can personalise what it sends will get repeat orders from customers it would otherwise have to keep winning back.
+
+⭐ **The best AO4 in this entry is not "it costs money" — it is the *comparison*.** Pearson's own wording puts leaflets **head to head** with email: *you get the chance to speak to them face to face to gain feedback.* **When the question offers "a different method", the counter-argument is what the other method does better.**
+
+⚠️ **Kraft Heinz is not "advertising is good".** Its question is specifically about **variety**, and the scheme's two AO4s are about **proof and wear-out**: a celebrity endorsement does not guarantee sales, and posters physically degrade and cannot be measured. **If your answer never mentions using more than one method, you have not answered this question.**
+
+---
+
+## 236. CHANGES IN THE MARKET — three papers, three different things that changed
+
+**Asked:** *"Evaluate the importance of **Apple** responding to changes in the market."* — **June 2026 P2R 4(c)** · *"Evaluate how changes in consumer spending patterns and competition may affect a business such as **Emirates**."* — **May 2020 P2 4(c)** · *"Evaluate how **Four Fitness** may respond to the changes in the market."* — **May 2025 P1 4(c)**, a small gym owned by Gianni.
+
+| | **Apple** (2026 P2R) | **Emirates** (2020 P2) | **Four Fitness** (2025 P1) |
+|---|---|---|---|
+| **The change** | changing **customer needs** and **spending patterns** — customers want new features, apps and folding devices, while some have **limited income and want cheaper phones** | **increased consumer spending** and the entry of **low-cost airlines** | customers expect **up-to-date equipment and knowledgeable instructors**, while many now **work out at home from internet videos at lower cost** |
+| **AO2** | must consider changing trends when it designs a new smartphone; may need to consider **competitors' prices, such as Huawei's** | more spending → **more people taking overseas holidays**; a low-cost airline gives consumers **more choice** | Gianni needs up-to-date equipment and instructor knowledge; the online shift gives people a **cheaper alternative** |
+| **AO3** | a **wider range of devices, such as foldables**, reaches new customers and increases competitiveness; if economic factors worsen, **fewer can afford a smartphone and Apple loses market share** | increased demand → **higher revenue**; but reduced market share → **lower revenue** | a growing industry could **draw health-conscious individuals to Four Fitness** over other gyms; the threat must be **addressed to keep customers** — e.g. its **own online videos at a small charge, from a qualified instructor** |
+| **AO4** | Apple is **innovative and constantly updates its devices**, so it **may already be responding**; it has **many loyal customers willing to pay the high price**, and a **lower-priced smartphone may not be advantageous** | higher demand is **hard to serve** — a **shortage of pilots** because of the time taken to train them, and of **suitable aircraft**; if it offers the **best service** it could **regain its prime position**, since not everyone wants to fly low-cost | changes are **fast-paced**, and as a **small business** it **may not have the funds to keep up**; **bigger gyms offering more services at a more reasonable price** may outcompete it because they offer more choice |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — Four Fitness
+>
+> A business has to respond to changes in the market because its customers' needs and its competitors' offers are not fixed. For Four Fitness the two changes that matter are what customers now expect from a gym, and how much they are willing to pay for it when the internet offers exercise at home for nothing.
+>
+> Gianni needs to make sure the gym equipment and the knowledge of the instructors are up to date so the new needs of customers are met. As more people use the internet to view fitness videos, there is now more choice between paying to go to the gym and working out from home at a lower cost. With a growing industry, keeping up to date could draw in health-conscious individuals to Four Fitness over the other gyms in the area. The online shift is also a threat that Four Fitness would have to address in order to keep its customers — one response being to introduce its own online videos, charging a small amount and offering an additional service from one of its qualified instructors, so that the customers who leave the gym to train at home do not leave the business as well.
+>
+> However, there are a lot of fast-paced changes in customer needs, and as Four Fitness is only a small business, it may not have the funds to keep up with all of them. New equipment and continual instructor training both cost money that a small gym may not have. Bigger gyms offering more services at a more reasonable price may also outcompete Four Fitness, as they may offer more choice — classes, pools and 24-hour access that one small gym cannot match on either scale or price.
+>
+> Overall, Four Fitness must respond, but it can only respond to some of what changes. This depends on whether its members value the personal attention only a small gym can give, or whether they are buying on equipment and price, where the bigger chains win. In the short term new equipment and online content reduce profit, but in the long term a small gym that keeps its instructors genuinely expert is the one that can charge for what home video cannot give.
+
+⭐ **The same AO1 appears on three papers — "changes in customer needs" and "changes in consumer spending patterns" — and the AO4 differs completely.** Apple's is *we may not need to change*; Emirates' is *we may not be able to supply it*; Four Fitness's is *we may not be able to afford it*. **Read your case for its constraint before writing the counter-argument.**
+
+---
+
+## 237. COMPETITIVE ADVANTAGE — how it is gained, and how it is kept
+
+**Asked:** *"Evaluate how **Yellow** may have gained a competitive advantage in the clothing market."* — **May 2019 P2R 4(c)** · *"Evaluate how **LEGO** has maintained a competitive advantage in the making of toys and games."* — **May 2022 P2 4(c)**.
+
+| | **Yellow** (2019 P2R) — *gaining it* | **LEGO** (2022 P2) — *maintaining it* |
+|---|---|---|
+| **AO1** | customers buy Yellow clothing because of its **wide variety**; Yellow has **low manufacturing costs** | customers buy LEGO because it is **well known and has traded for a long time**; the toys are **good quality and should last** |
+| **AO2** | clothing for **all the family** at **different price ranges**; it responds **quickly to changes in the fashion market** demanded by its customers | **'Toy of the Century' twice**, so people can **rely** on the products; **keeps up to date with new films** such as Harry Potter |
+| **AO3** | customers want **a reasonable price** and to **shop for the whole family in one store**; responding quickly to demand changes puts it **ahead of competitors** | customers want toys they **know are reliable and well made**; **fans of the film will want the new LEGO toys** |
+| **AO4** | **not all members of the family have the same taste** and some prefer different styles; **not all customers are driven by fashion** — many want clothing that **lasts a number of years** | **no guarantee** customers will buy, because the products are **expensive** and they **may want a cheaper product**; **if the film is not a success the toys may not sell**, and LEGO will have **wasted the time and investment** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — LEGO
+>
+> A competitive advantage is something a business does better than its rivals that customers are willing to pay for. LEGO's is unusual because it has lasted decades: it is the brand's reputation and the quality of the bricks themselves, reinforced every time a new film gives children a new reason to want a set.
+>
+> Customers purchase LEGO toys and games because they are well known and have been trading for a long time, and because the toys are of a good quality and should last a long time. LEGO has achieved 'Toy of the Century' twice, meaning that people can rely on the products made, and it keeps up to date by making toys to correspond to new films that are introduced, such as Harry Potter. That combination is what maintains the advantage: customers want to purchase toys and games that they know are reliable and well made, and fans of Harry Potter will want to purchase the new LEGO toys — bringing in children who had never asked for LEGO before, while the adults buying the sets are buying a brand they already trust.
+>
+> However, there is no guarantee that customers will buy some of the products, because they are expensive and they may want a cheaper product. Rival brands and generic bricks sell for a fraction of the price, and a parent comparing two boxes of bricks may not see the difference the brand is charging for. If the film is not a success, then the toys may not sell and LEGO will have wasted the time and investment in producing the toys — the licence, the design and the tooling all paid for before anyone knows whether the film will be watched.
+>
+> Overall, LEGO has maintained its competitive advantage well, but it depends on two things outside its control. This depends on the quality of the films it ties its sets to, and on whether parents continue to value the brand over a cheaper equivalent. In the short term the film tie-ins bring spikes of revenue, but in the long term it is the reliability of the brick itself, and the reputation that rests on it, that keeps customers coming back.
+
+⚠️ **Single-word meanings matter here.** "Gained" (Yellow) invites an *origin* answer — low costs, quick response, wide range. "Maintained" (LEGO) invites a *sustainability* answer — reputation, quality, staying current. **Answer the verb you were given.**
+
+---
+
+## 238. MEASURING SUCCESS — the factors a business chooses, and what they leave out
+
+**Asked:** *"Evaluate the factors that make a business, such as **HRMW**, successful."* — **May 2020 P2R 4(c)** · *"Evaluate the factors that **NOF** might consider when measuring the success of its farm shop."* — **May 2021 P1 4(c)**, a farm with a shop and overnight accommodation.
+
+| | **HRMW** (2020 P2R) | **NOF** (2021 P1) |
+|---|---|---|
+| **AO1** | success can be judged by **changes in revenue**; and by **customer satisfaction** | the **profit produced by the farm shop**; the **growth of its product range** |
+| **AO2** | between 2020 and 2022 HRMW's estimated revenue is **set to increase by 8.51%**; if customers are satisfied with the goods they **will return** | NOF can see how much profit the farm shop makes **compared with the overnight accommodation**; expanding its product range **shows it is currently successful in the products it already sells** |
+| **AO3** | comparing revenue with competitors' gives an **indication of relative success**; happy customers **spread the word to family and friends → increased demand → increased sales** | comparing profit lets NOF **spend money improving the areas that need developing**; the willingness to expand **shows there is demand** and that it is **willing to take a risk** |
+| **AO4** | revenue is **only part of success** — **shareholders receiving dividends** may **conflict with HRMW's plans for expansion**; **customer satisfaction may require changes in prices**, affecting revenue and profits and producing a **less successful business** | profit depends on **factors outside NOF's control, such as the weather**, which affects **how much the farm produces and how many people visit**; **no guarantee the growth will succeed** when **supermarkets sell the same products more cheaply** and other farms can afford to |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — HRMW
+>
+> Success for a business is not a single number: it is whatever the owners decide matters — profit, revenue, satisfied customers, survival or growth. HRMW can judge its success by looking at changes in its revenue, and it can also measure it by customer satisfaction, and the two together say more about the business than either alone.
+>
+> Between 2020 and 2022 HRMW's estimated revenue is set to increase by 8.51%, which is the clearest evidence that it is growing rather than standing still. Customer satisfaction matters because if customers are satisfied with the goods, they will return — and in a market where customers can buy the same sort of product elsewhere, returning customers are cheaper to keep than new ones are to win. If HRMW compares its revenues with those of its competitors, it gives it an indication of its relative success: growing is one thing, growing faster than the competition is another. And if customers are happy with the sports products, they will spread the word to family and friends, which could increase demand for these products leading to increased sales — a measure that shows up in revenue only later.
+>
+> However, revenue is only a part of the success of the business. There are other factors to be considered, such as shareholders receiving dividends on their investment, and this may conflict with HRMW's plans for expansion: the money paid out to shareholders is money not spent on new stock or new premises. Customer satisfaction may also require changes in prices, and this could impact on revenue and profits, leading to a less successful business — a discount may please customers while lowering exactly the figure that was being used to measure success.
+>
+> Overall, using both measures together is a sound approach, but only if HRMW knows which one it is running the business for. This depends on whether its shareholders want income now or growth later, and on which of the two measures lags the other. In the short term revenue is the easier measure and the more volatile one, but in the long term customer satisfaction predicts the revenue that has not arrived yet.
+
+⭐ **Both papers put a *limit* on measurement, and the two limits are different ideas.** HRMW's is **conflict between stakeholders** (dividends vs expansion). NOF's is **factors outside the business's control** (the weather, cheaper supermarkets). **Use your case's limit — the scheme marks the one it printed.**
+
+---
+
+## 239. MEASURING SUCCESS BY PROFIT ALONE — the strongest counter-argument in the tier
+
+**Asked:** *"Evaluate why a business such as **Premier Inn** would only consider profit to measure its success."* — **November 2024 P2 4(c)**, a hotel chain opening hotels around the world.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Profit is total revenue minus total costs, so it is the one measure that shows whether everything a business does is adding up to more than it spends. It is also the easiest measure to compare: between hotels, between years, and between the business and its rivals. That is why a chain such as Premier Inn might judge each of its hotels on profit alone.
+>
+> The more profit that is made from each Premier Inn will show how successful they are, because profit signifies if the total revenue of the business exceeds its total costs. Premier Inn will be able to see how much profit each hotel is making and compare it to other hotels, which turns one number into a league table of its own sites. That matters while it is planning to open more hotels in different parts of the world, because it will be able to see if these new hotels are making a profit — and only profit tells it whether a new site is paying for itself or being subsidised by the older ones. By comparing the profit from each of the Premier Inns it can use the profit to develop or increase the size of certain hotels, moving investment to where it earns most.
+>
+> However, an increase in profit is dependent upon many factors outside the control of Premier Inn, such as travel restrictions that stop people from travelling. A hotel chain can be run perfectly and still lose money because a border closed — and a measure that moves for reasons the business cannot control cannot be the only measure. There are also other ways to measure business success such as market share and customer satisfaction, which might be as equally important as financial measures: a hotel with a full car park and high satisfaction scores is building the repeat business that produces next year's profit.
+>
+> Overall, considering profit alone is not enough, although it is not unreasonable as a short-term management measure. This depends on how much competition the chain faces and how long-term its owners' plans are, because market share and satisfaction lead profit rather than follow it. In the short term profit is the fastest signal of whether a hotel is working, but in the long term a chain that cuts quality to protect the figure will watch the same figure fall.
+
+⭐ **The question contains the trap in its own wording.** *"Why a business **would** only consider profit"* asks you to **explain the case for** using one measure — so the AO1/AO2/AO3 paragraphs must genuinely justify it, and only then does the "However" turn. **An answer that criticises profit from the first line has answered the opposite question.**
+
+---
+
+## 240. SOCIAL OBJECTIVES — success by something other than profit
+
+**Asked:** *"Evaluate the extent to which social objectives may contribute to the success of **Spud Bros**."* — **June 2026 P1R 4(c)**, jacket potatoes in Preston, feeding the homeless and helping sick children · *"Evaluate the impact on **AWG** of having these social objectives when planning to grow the business."* — **November 2023 P1 4(c)**, clothing re-used from natural materials.
+
+| | **Spud Bros** (2026 P1R) | **AWG** (Nov 2023 P1) |
+|---|---|---|
+| **AO1** | goals set by a business **to benefit society or the environment**; objectives that focus on the **community rather than profit** | social objectives aim to **benefit society**; they focus on **ethical factors other than profit** |
+| **AO2** | **feeding the homeless in Preston** may attract more **ethically conscious consumers**; the **brand image improves** if it helps **sick children throughout the UK** | encouraging families to **re-use clothing made from natural materials** and **reduce waste**; in the workshops **waste is kept to a minimum and spare material is used to make hats and scarves** |
+| **AO3** | more sales of food → the **extra revenue helps the brothers with their ambitious expansion plans**; **word-of-mouth recommendations** → a **competitive advantage in the food market** | meets the needs of **customers who care about the environment and want a sustainable range**; **minimising waste reduces costs, and the savings can be passed on to customers to encourage more sales** |
+| **AO4** | **free meals increase costs** → **lower profit margins** and may **delay expansion in the UK and internationally**; **other factors may be more important** to success, including **proving quality meals and good customer service** | **natural material is more costly** → a **high price for the jumpers and dresses** → discourages some people → **slow growth**; **many people are not concerned about social objectives or the environment** and care more about **current fashion** → **decrease in sales revenue** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — Spud Bros
+>
+> Social objectives are goals set to benefit society or the environment rather than to make money — feeding people who cannot pay, or reducing what the business throws away. For Spud Bros, giving food to the homeless in Preston and helping sick children is not a marketing campaign: it is a cost, and the question is whether it earns back more than it spends.
+>
+> Feeding the homeless in Preston may help to attract more ethically conscious consumers, and the brand image of the business will improve if it helps sick children throughout the UK. That matters commercially because both effects reach customers the brothers would otherwise have to pay to find: this could result in more sales of food, and the extra revenue would help the brothers with their ambitious expansion plans. It will also result in word-of-mouth recommendations for the business, which will help it to gain a competitive advantage in the food market — a queue outside a stall that is known for giving food away is a queue that costs nothing to build, and rivals selling the same jacket potatoes cannot copy the story.
+>
+> However, providing free meals to the homeless will increase costs for the business, which will lead to lower profit margins and may delay the expansion plans in the UK and internationally — the food given away is food that was paid for. Other factors may be more important in determining the success of the business too, including proving quality meals and good customer service: a customer who came because of the charity and was served a poor jacket potato by a rude server will not come back, and no social objective survives that.
+>
+> Overall, social objectives contribute to Spud Bros' success, but only to a limited extent. This depends on whether the customers who notice the charity are also the ones buying the food, and on how much of the margin the brothers are prepared to give up while expanding. In the short term the free meals reduce profit, but in the long term the reputation they build is the cheapest advertising a small food business can get.
+
+⭐ **AWG contains the counter-argument most candidates miss: the material itself.** *"It may be more costly to use natural material which may result in a high price"* — **the ethical choice raises the price of the product**, so the very customers it wins are the ones it may price out. Spud Bros' is a *cost* argument; AWG's is a *price* argument. **Both are "However", and they are not interchangeable.**
+
+---
+
+## 241. PUBLIC RELATIONS — the same facts as social objectives, a different question
+
+**Asked:** *"Evaluate the effect for **Rabanne** of working hard to maintain and improve its public relations."* — **May 2025 P2R 4(c)**, donating to charities, refillable glass bottles and sustainable packaging.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Public relations is how a business manages what the public thinks of it — the impression left by what it says, what it gives, and what it does to the environment. For a fragrance and fashion brand such as Rabanne, whose customers are buying a name as much as a scent, that impression is part of the product.
+>
+> By donating funds to various charities, Rabanne highlights to customers that it wants to help the communities it operates in, and by decreasing the impact on the environment by using sustainable material in its packaging, it answers the criticism that luxury goods are wasteful. The effect on the customer is direct: customers are more likely to purchase the aftershave Invictus because they know that Rabanne helps people out, and less packaging is used for its Lady Million perfume, which reduces both the cost of materials and the waste the customer has to throw away. Rabanne will also gain more interest from charities around the world because of the donations it makes, which could increase the number of people who want to purchase its perfume as they are seen to care for the environment — turning a donation into publicity that money alone could not buy.
+>
+> However, not everyone is interested in Rabanne's donations: they would be more interested in the perfumes and aftershaves the business produces. A customer choosing a fragrance buys on scent, price and brand image, and may never read the packaging note about refillable bottles. There is also no guarantee that a business caring for the environment will see a positive change in its sales volume — the rival that spends nothing on charity may simply undercut it, and a customer who agrees with the principle may still buy the cheaper bottle.
+>
+> Overall, working on public relations has a positive effect for Rabanne, but it is a supporting factor rather than a deciding one. This depends on whether its customers are buying the scent or the story, and on whether rivals' environmental records are visibly worse. In the short term the donations and the refillable packaging add cost, but in the long term, for a brand whose price depends on desirability, a good reputation is what keeps customers willing to pay it.
+
+⚠️ **This paper's AO1 looks like social objectives — and its question does not.** The mark scheme's own AO1 is *donating funds as public relations* and *reducing environmental impact through packaging*: the subject is **reputation management**, not ethics. **Answer the question on the paper in front of you, even when the case facts are the same.**
+
+---
+
+## 242. MARKET ORIENTATION — does following the customer guarantee anything?
+
+**Asked:** *"Evaluate the extent to which market orientation will guarantee the future success of **Nando's**."* — **June 2026 P2 4(c)**.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Market orientation means considering the opinions and preferences of the target market — basing a product on customers' needs and wants rather than on what the business itself thinks is right for the customer. For a restaurant chain such as Nando's this shapes both the menu and the marketing, and the word that decides the answer is *guarantee*.
+>
+> Market orientation will allow Nando's to understand what foods and tastes consumers prefer, and researching new dishes will help Nando's to assess whether new meals on its menu may be successful before they are launched across every restaurant. This may allow Nando's to sell meals that suit the tastes of its customers and encourage repeat purchases, which matters in a restaurant market where customers can switch on one bad visit. Nando's can also make changes to its new dishes before launching them in all restaurants, reducing the risk of new dishes not being popular — a test kitchen is far cheaper than a failed national launch, and it means the menu improves on evidence rather than on instinct.
+>
+> However, researching trends and preferences takes time, and other restaurants may respond more quickly to changes in food trends. If a rival launches the same dish first, Nando's has paid the research cost without gaining the advantage, and in food the first mover is often the one people remember. Nando's may also prefer to use a product-orientated approach and focus on developing and improving dishes based on what it believes is superior quality and innovation, rather than primarily on customer preferences or market trends — and this is a real option for a chain whose whole reputation rests on a flavour that customers come to it for. Chasing every preference could blunt the thing that makes the brand distinctive.
+>
+> Overall, market orientation will help Nando's to a large extent, but it cannot guarantee future success. This depends on how quickly trends shift in its market and on whether it can act on its research faster than its rivals can. In the short term the research adds cost and delay to every launch, but in the long term a menu built on what customers actually order is a safer bet than one built on what the business believes is best.
+
+⭐ **The word *guarantee* is the marker's instruction to argue a limit.** The scheme's AO4 gives two: research is **too slow** to be a promise, and the **product-orientated alternative may be better**. **Whenever a question says "guarantee" or "will", the answer must contain something that could still go wrong.**
+
+---
+
+# BATCH 8c — 12-MARK EVALUATE, PART 3: THE SINGLETONS (entries 243–252)
+
+> **Ten topics that appear once in the whole qualification.** Each still gets a full model, because a topic that has appeared once on a past paper is a topic that can appear again — and the reasoning is what transfers, not the case.
+
+## 243. DEMOGRAPHIC SEGMENTATION — slicing the market by who people are
+
+**Asked:** *"Evaluate the importance to **IKEA** of using demographic segmentation when targeting its customers."* — **May 2023 P2 4(c)**.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | targeting certain groups such as **families with young children**; taking the **income of customers** into account, as it varies from country to country |
+| **AO2** | **younger families** need tables and chairs that are **reasonably priced and suitable for young children**; customers with a **larger income may want expensive-looking tables and ornaments** to display their wealth |
+| **AO3** | the **older generation** may need **reliable and comfortable chairs**; IKEA must take this into account when deciding **what furniture to sell in each country** |
+| **AO4** | **not all families fit into a category**, so IKEA needs to provide for **all demographics wherever it is located**; **no guarantee customers will buy what is expected of them** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Demographic segmentation divides a market by measurable characteristics of people — age, income, family size, occupation. Using demographic segmentation, IKEA can target certain groups of people such as families with young children, and it will take into consideration the income of its customers, as this varies from country to country. For a furniture retailer selling in dozens of markets, that is a practical starting point.
+>
+> Younger families are going to need tables and chairs that are reasonably priced and suitable for young children, while some customers with a larger income may want expensive-looking tables and ornaments to display their wealth. These are two different shops within the same store, and segmentation is what tells IKEA to stock both and to place them where their customers will find them. It also guides what to send to each country: the older generation may need reliable and comfortable chairs to sit on, and IKEA will need to take this into account when deciding what items of furniture to sell in each country, rather than shipping the same catalogue everywhere.
+>
+> However, not all families fit into a category, and therefore IKEA needs to provide for all different demographics no matter where they are located. A single customer may be a young parent with a low income and a taste for design, and a range built strictly on one segment would lose them. There is also no guarantee that IKEA's customers will buy what is expected of them: people do not buy predictably, and a shopper segmented as a budget buyer may spend the most in the store on the day.
+>
+> Overall, demographic segmentation is important to IKEA, but it is a starting point rather than a guarantee. This depends on whether its customers are shopping for a home, where income and family size decide the purchase, or for an individual taste that cuts across every group. In the short term it makes the ranges and the warehouses more efficient, but in the long term the retailer that also watches how customers behave, and not only who they are, is the one whose ranges keep selling.
+
+⚠️ **The four AO4s in this tier that begin "there is no guarantee" all mean the same thing — human behaviour is not determined.** Where the scheme prints it (IKEA, Cadbury, Starbucks, Kraft Heinz, M&M), **write it as the customer's choice, not as the business's failure.**
+
+---
+
+## 244. CHOOSING A LEGAL STRUCTURE — private limited company against staying as you are
+
+**Asked:** *"Evaluate whether **TADS** should consider becoming a private limited company."* — **May 2020 P1 4(c)**, a one-man music business run by Ollie.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | a private limited company **suits small and medium-sized businesses**; in one, the **shareholders can only lose the money they invest** |
+| **AO2** | as a **one-man business** becoming a private limited company means Ollie could **raise more funds from family and friends**; TADS would have a **separate legal identity**, so the **business could carry on if anything happened to Ollie** |
+| **AO3** | Ollie can **control who the other owners will be**, choosing people with an **interest in music who can invest**; **his personal possessions are protected**, as are his shareholders' — the **risk for shareholders is reduced** |
+| **AO4** | Ollie may **not get a lot of interest**, so cannot raise large amounts, which **slows his expansion plans**; he may find it **easier to take a bank loan** rather than change the legal ownership at all, **so he does not lose any control**; becoming Ltd means **more paperwork**, and **some information must be shared publicly** — **which could interest his competitors** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> A private limited company is an incorporated business owned by its shareholders, whose shares are not sold to the general public. For Ollie, who currently owns TADS alone, the question is not which structure is better in general, but whether incorporation brings him the money he needs at a cost he can accept.
+>
+> A private limited company is a suitable type of ownership for small and medium-sized businesses, and in a private limited company the shareholders can only lose the money they invest. As a one-man business becoming a private limited company means Ollie could raise more funds from family and friends, and TADS will have a separate legal identity, meaning the business could carry on if anything happened to Ollie. That second point matters more than it looks: TADS's reputation and contacts are built on Ollie, and incorporation means the business survives him, which is what a lender or an investor needs to know.
+>
+> If TADS opts for a private limited company, then Ollie can control who the other owners will be, allowing him to choose people who have an interest in music and can invest in the business. Having Ltd status means that Ollie's personal possessions are protected, as are those of his shareholders, so the risk for shareholders is reduced — and that is what persuades people to put money into a small music business in the first place.
+>
+> However, Ollie may not get a lot of interest, so cannot raise large amounts of money, and this can slow down his expansion plans. He may find it easier to opt for another source of finance such as a bank loan rather than change the legal ownership of the business, so he does not lose any control of the business — and for a founder with a clear musical vision, that control may be worth more than the money. Becoming a Ltd will also involve an increase in paperwork, and some information will have to be shared publicly, which could be of some interest to Ollie's competitors.
+>
+> Overall, TADS should become a private limited company, but only if Ollie actually intends to bring in investors. This depends on whether he needs more capital than a bank will lend, and on whether he is willing to share decisions about the business to get it. In the short term the paperwork and the public accounts are an administrative cost, but in the long term limited liability and a separate legal identity are what allow a one-man business to grow beyond one man.
+
+⚠️ **"Whether" questions are answered "yes, but…".** The correct first sentence names the choice and the condition under which it holds — *"should, but only if he actually intends to bring in investors"*. **A "maybe" answer scores no AO4.**
+
+---
+
+## 245. CENTRALISED OR DECENTRALISED — where decisions are made
+
+**Asked:** *"Evaluate whether a centralised organisation structure will benefit **Samsung**."* — **November 2025 P2 4(c)**, factories in 74 countries, head office in Seoul.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | a centralised structure is one where **decisions are made at the headquarters**; usually **by the CEO and other senior managers** for the whole business |
+| **AO2** | major decisions on the **design and development of smartphones** made in **South Korea to speed up decision making**; **economies of scale if TVs are standardised**, and marketing organised centrally |
+| **AO3** | **reacts quickly to changes in technology** — vital in the competitive smartphone market to **maintain market share**; **lower unit costs allow lower TV prices**, helping it remain the **leading supplier** |
+| **AO4** | **lack of authority lower down may demotivate managers** → **lower productivity, employees leaving, higher costs and lower profit**; **local managers outside South Korea may understand local needs better** and be better placed to attract customers |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> In a centralised organisation, decisions for the whole business are made at the headquarters — at Samsung, in Seoul, by the CEO and senior managers. With 270,000 employees and factories in 74 countries, the question is whether holding decisions at the centre is what keeps the products consistent and quick to market, or what stops the business hearing its customers.
+>
+> This means that major decisions on the design and the development of smartphones will be made in South Korea to speed up decision making, because the people with the fullest picture of the whole product range are the ones deciding what the next model contains. It also means that Samsung can benefit from economies of scale if TVs are standardised and the marketing can be organised centrally: one campaign for one product, wherever it is sold, costs far less than seventy-four separate ones. This will ensure Samsung can react quickly to changes in technology, which is of importance in the competitive smartphone market to ensure it maintains its market share, and a reduction in unit costs may help reduce prices of the TVs to help them remain the leading supplier in the industry — where in consumer electronics the price leader usually ends up being the volume leader too.
+>
+> However, a lack of authority lower in the organisation may demotivate managers, leading to lower productivity or employees leaving their jobs, resulting in higher costs and lower profit levels. A manager with a title but no decisions is not a manager for long. Local managers in the factories and offices outside South Korea may also have a better understanding of local needs and be in a better position to attract more customers — a marketing message written in Seoul may not travel, and a product designed for one market may be wrong in another.
+>
+> Overall, a centralised structure will benefit Samsung, but not everywhere and not equally. This depends on whether the product is genuinely the same worldwide, as with a flagship smartphone, or whether it has to adapt to local taste and local competition. In the short term centralising keeps standards and costs in line, but in the long term the business that lets its local managers decide what their customers need is the one that keeps them.
+
+⭐ **The AO4 here is not financial — it is motivational.** *Lack of authority demotivates managers.* **The same fact is also the AO1 of the motivation and job-design entries (209–217)** — a decision taken away is a motivator removed. **Cross-reference the tiers: the same syllabus point scores in different places.**
+
+---
+
+## 246. GROWING THROUGH A FRANCHISE — selling the right to use your name
+
+**Asked:** *"Evaluate the benefits to **Ocean Vibes** of operating as a franchise to further expand its business."* — **November 2025 P1 4(c)**, boat tours in Portugal, founded by Alfred and Pedro to connect tourism with science.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | a franchise **gives another person or business the right to sell its products or services**; the **franchisor receives set-up / royalty fees** from the franchisee |
+| **AO2** | franchisees can **offer boat tours in other tourist resorts**, assisting growth; Ocean Vibes **receives revenue from franchisees operating in other resorts in Portugal** |
+| **AO3** | the **brand name is extended to other areas of Portugal** and this **encourages customer loyalty**; the **fees can be invested in wildlife research**, fulfilling Alfred and Pedro's goal of **connecting tourism with science** |
+| **AO4** | **risk of reputational damage if franchisees do not operate the boat tours responsibly**; there are **many competitors in the boat tour market** and **they may fail to find franchisees willing to pay the fees** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> A franchise is a business that gives the right to another person or business to sell its products or services, in return for set-up and royalty fees. For Ocean Vibes, franchising is a way to grow across Portugal without the founders buying a second boat or being on it.
+>
+> Franchisees can assist in the growth of Ocean Vibes by offering boat tours in other tourist resorts, and Ocean Vibes will receive revenue from the franchisees operating in other tourist resorts in Portugal. That revenue arrives before the tours are run, because the set-up fee is paid up front and the royalty is a share of what the franchisee takes. This will allow the brand name of Ocean Vibes to be extended to other areas of Portugal and encourage customer loyalty, since a tourist who enjoyed a trip in one resort will book the same name in the next — and the fees received by Ocean Vibes can be used to invest in the research of wildlife to fulfil the goal of Alfred and Pedro, which is to connect tourism with science. Growth and the founders' purpose are paid for by the same mechanism.
+>
+> However, Ocean Vibes risks the chance of its reputation being damaged if the franchisees do not operate the boat tours in a responsible manner. The customers see the franchisee's boat, not the founders, and a skipper who disturbs the wildlife or cuts the tour short damages a name that Ocean Vibes cannot control. There are also many competitors in the boat tour market, and Alfred and Pedro may fail to find franchisees who are willing to pay the franchise fees to Ocean Vibes — a franchise with no track record outside one resort is a difficult sale to someone risking their own money.
+>
+> Overall, franchising is a beneficial route for Ocean Vibes, but it trades control for speed. This depends on whether the brand is strong enough to attract franchisees, and on how tightly the operating standards can be enforced once it does. In the short term the set-up fees fund expansion that would otherwise need a loan, but in the long term the business's value is the name, and a single irresponsible franchisee costs more than a boat.
+
+⚠️ **Both AO4s are about *the other party*.** The franchisee may not exist, or may not behave. **Every "grow through someone else" option in the bank — franchising, venture capital, agency — carries the same two risks: you may not find them, and you cannot control them once you have.**
+
+---
+
+## 247. VENTURE CAPITAL — money that takes a share and an interest
+
+**Asked:** *"Evaluate the impact of using venture capital as a source of finance to fund the opening of **Can Culleretes**."* — **May 2022 P1R 4(c)**, a family restaurant reopening with its original history.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | **investors give a business money in exchange for a share of the profits**; an **external** source of finance, **often used for opening new businesses** |
+| **AO2** | investors may have **skills in the food industry** to ensure the venture is a success; they could have **ideas the family does not like, such as the opening hours** |
+| **AO3** | **enough money to set up without having to pay back any interest**, giving more chance of success from the start; if investors are **too involved**, the **historical story behind the original business may be lost**, leading customers to stay away |
+| **AO4** | the family must **pay investors a share of the profits**, which may **upset the family members who are working hard while the investors get the rewards**; if there was an **agreement to pay investors back and then take back full ownership**, this could ensure success **and keep the business in the family long term** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Venture capital is money put into a business by outside investors in exchange for a share of the profits and, usually, a say in how it is run. It is an external source of finance often used for opening new businesses — which is exactly Can Culleretes' situation — and it is the price of the investors' involvement, not the money itself, that decides whether it is a good idea.
+>
+> Investors may have the skills in the food industry to ensure Can Café is a success, bringing experience the family has not had to buy, and the business will have enough money to set up without having to pay back any interest, which helps it have more chance of being a success from the start. That last point is the real financial advantage: a bank loan has to be repaid whether or not the restaurant fills, while an equity investor is repaid out of profit — so in the first difficult months, the venture capital is far gentler on the cash flow.
+>
+> However, investors could have some ideas that the family does not like, such as the opening hours of the café, and if the investors are too involved in setting up the business it may lose the historical story behind the original business, leading to customers staying away. For a restaurant whose appeal is a family heritage, that is not a small risk. The family will also have to pay the investors a share of the profits, which may upset the other family members, as they are the ones working hard to set up Can Café while the investors get the rewards.
+>
+> Overall, venture capital has a positive impact on Can Culleretes, but only if the terms protect what makes the restaurant worth visiting. This depends on how much the family gives away, and on whether the investors want a return or a role. In the short term the money arrives without interest and the doors open sooner, but in the long term the arrangement only works if the owners have an agreement to buy the investors out.
+
+⭐ **The scheme supplies the sophisticated answer itself:** *"if the owners had an agreement to pay the investors back and then take back full ownership it could ensure the success of both businesses as well as keeping them in the family in the long term."* **A conclusion that proposes a term — a buy-back, a written agreement — is AO4 at its strongest, because it makes the judgement conditional and specific at once.**
+
+---
+
+## 248. FINANCIAL DOCUMENTS — what they can and cannot tell you
+
+**Asked:** *"Evaluate the usefulness of financial documents to help **Aude Rose** when deciding to open a second shop."* — **May 2023 P1R 4(c)**, a flower shop.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Financial documents are the records a business produces from its trading: the statement of comprehensive income, the statement of financial position and the cash flow forecast. The statement of comprehensive income can show the profit or loss the business has made by the end of its financial year, and the figures can show how capable the business is of expanding — which is precisely what Aude Rose is trying to judge.
+>
+> This can help the business see how profitable the flower shop currently is, and that is the first question any second site has to answer: a business that cannot make a profit in one shop will not make two. The documents will also be useful to show Aude Rose how much profit it has to be able to put towards the expansion, or to inform a bank of how much it needs to lend — a lender will want the figures anyway, so preparing them is not wasted effort. The financial documents outline the current position of the business and could include a cash flow forecast projecting net cash flow in the future, which matters more than profit for a new shop: a second branch needs cash for rent, stock and staff long before it needs to be profitable, and the forecast is the only document that shows whether that cash will actually be there.
+>
+> However, there are other factors that need to be considered, such as the figures from previous years as well as the affordability of running the new shop — one year's profit shows what happened, not what will happen. Other factors need to be taken into consideration, such as the location of the competition, which could make it difficult for the second flower shop to survive as a new business in that particular area, and no financial document records how many rival florists already trade on that street.
+>
+> Overall, financial documents are useful to Aude Rose, but they are necessary rather than sufficient. This depends on how much of past performance is likely to repeat, and on whether the barrier to the second shop is money or customers. In the short term the documents are what persuades a lender and sets the budget, but in the long term the shop succeeds on the street it is on, not in the accounts it was planned with.
+
+⭐ **This paper comes with a published 4/12 dissection (rule 85), and it names the exact fixes:** one use given → **give another**; no application → **apply directly to Aude Rose**; wrong document named → **profit belongs to the statement of comprehensive income, not the cash flow forecast**; no conclusion → **answer the question, or say other factors should be counted** *(Pearson's own route to Level 3)*. **This entry is built to contain all four.**
+
+---
+
+## 249. CASH FLOW FORECASTING — a prediction that changes what the business does
+
+**Asked:** *"Evaluate why **M&M** uses cash flow forecasting to help inform decision making."* — **May 2023 P2R 4(c)**, tractors and cars with electronic devices.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> A cash flow forecast estimates the money coming in and going out, month by month, and the net cash flow left over. M&M needs it not because it is short of ideas but because every decision it is considering — a new feature, a new specialist employee — has to be paid for before it earns anything.
+>
+> Using their cash flow forecast, M&M can predict net cash flow for the future, and if M&M predict that the cash inflow will be high then they may decide to invest in other areas of the business. Depending on whether there is sufficient funds, they could introduce additional features on the tractors, or the funds could be used to employ specialist staff who have skills in developing electronic devices on the new cars being produced. That is the forecast's real use: it tells the business not whether an idea is good, but whether this is the month it can afford it.
+>
+> If there are not sufficient funds, then M&M may decide to wait until they have the funds available, and this would then maintain their image of introducing new and innovative features to the cars. Waiting deliberately is a decision the forecast makes possible — without it, a business finds out it could not afford the investment only when a supplier's invoice arrives.
+>
+> However, a cash flow forecast is only a prediction and does not guarantee that the funds will be there in the future. Sales may fall short, a customer may pay late, or a machine may break down, and none of those appear in the forecast until they happen. There is also no guarantee that there will be sufficient cash to cover all the costs of employing the staff, or that the new features will be liked by customers — the forecast can tell M&M whether it can afford to build the feature, but not whether anyone will buy the tractor because of it.
+>
+> Overall, M&M is right to use cash flow forecasting, but it is a tool for timing rather than for choosing. This depends on how accurate its sales predictions turn out to be and on how much cash the business has in reserve if they are wrong. In the short term the forecast prevents the business from running out of money, but in the long term the decisions it enables are what create the sales the next forecast predicts.
+
+⚠️ **"Cash flow ≠ profit" is the syllabus point this paper is built on.** The forecast may show a healthy month while the business is making a loss, or the reverse. **Say what the forecast is *for* — timing — and the AO1 looks after itself.**
+
+---
+
+## 250. INTEREST RATES — the cost of borrowed money, and who feels it
+
+**Asked:** *"Evaluate the impact on **CCT** of an increase in the Chinese interest rate."* — **May 2025 P1R 4(c)**, bicycle tours in China, considering a loan for electric bicycles.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | the **cost of borrowing money**; the **rate of interest charged by the banks** |
+| **AO2** | a loan to buy **electric bicycles** becomes **more expensive** if interest rates rise; **people living in China** pay more for borrowing and **may have less disposable income to spend on touring the country** |
+| **AO3** | **an increase in fixed costs** → **more revenue needed to break even**; **reduced demand for the bicycle tours** → **lower revenue** and a **greater risk of business failure** |
+| **AO4** | if CCT **strongly believe the loan will help them expand**, the risk may be **worth taking**, as the **additional revenue can cover the higher interest rates**; a rise in Chinese rates **may not affect foreign tourists**, so it **may have little impact on demand** for CCT's tours |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> The interest rate is the price of borrowing money, and for a business about to take out a loan it is the single most important number in its plans. CCT is considering borrowing to buy electric bicycles, and an increase in Chinese interest rates raises the cost of that decision before a single tour is sold.
+>
+> If CCT wants to take out a loan to cover the cost of buying electric bicycles, it will be more expensive if interest rates increase. That is a permanent addition to its costs, and it matters most to a business with fixed loan repayments: leading to an increase in fixed costs, this means more revenue will be required to be able to reach the break-even point, so every tour has to sell more places simply to stand still. There is a second effect through CCT's own customers, because people living in China will have to pay more for borrowing money and may have less disposable income to spend on touring the country — so the same rise that increases CCT's costs also reduces its demand, and this could lead to a reduction in the demand for the bicycle tours, lowering the revenue for CCT and increasing the risk of business failure.
+>
+> However, if CCT strongly believe that taking out a loan will help them to expand, then it might be worth taking the risk, as the additional revenue can be used to cover the higher interest rates — the electric bicycles could attract customers that the current fleet cannot. An increase in interest rates in China may also not impact the foreign tourists that visit the country, and therefore this increase in rates may have little impact on the demand for CCT's bicycle tours, since those customers borrow, earn and spend in their own currencies.
+>
+> Overall, an increase in Chinese interest rates will have a negative impact on CCT, but a smaller one than it first appears. This depends on how much of its demand comes from Chinese customers rather than foreign visitors, and on whether the electric bicycles win enough extra bookings to pay for the more expensive loan. In the short term the loan's cost rises and break-even moves further away, but in the long term demand from overseas tourists is what decides whether the expansion was worth financing at all.
+
+⭐ **Two AO4s, and the strongest one is not financial — it is about *who the customers are*.** Rates in China cannot affect the spending of a German tourist on a cycling holiday. **When a question mentions a national economy, check whether the case's customers live in it.**
+
+---
+
+## 251. FINANCIAL METHODS OF MOTIVATION — paying people to work harder
+
+**Asked:** *"Evaluate the impact of **Irsi Chocolatier** using financial methods of motivation on its employees."* — **May 2023 P1 4(c)**. **This is the verified 12/12 paper** — the full transcript and the examiner's comment are in `02_Verified_Exemplars.md`, and the anatomy is in rule 82.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | a **bonus** can be given to employees; a **promotion** could be awarded to an employee |
+| **AO2** | motivating employees **if they meet targets of making and selling a certain amount of chocolate each month**; Irsi could **promote the hardest-working employee in the chocolate shop** |
+| **AO3** | employees work harder and **produce/sell more, increasing revenue**; the promoted employee gets **additional responsibilities and a potential pay rise**, making them **more loyal** because they are promoted for their work |
+| **AO4** | **if the same employee keeps getting the bonus each month**, the rest may be **demotivated** if they feel they have no chance of getting it, **lowering productivity**; with **only three employees**, the other two may feel **demotivated and unrecognised**, possibly leading to **increased staff turnover and a recruitment issue** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Financial methods of motivation reward employees with money or the prospect of it — a bonus for hitting a target, or a promotion that carries a higher salary. In a business as small as Irsi Chocolatier, which has only three employees, both work on the same assumption: that one person's reward lifts the whole team.
+>
+> A bonus can be given to employees, and a promotion could be awarded to an employee. This can motivate the employees if they meet their targets of making and selling a certain amount of chocolate each month, and Irsi Chocolatier could promote the hardest-working employee in the chocolate shop. This may push employees to work harder and produce or sell more products in order to meet their targets, therefore increasing the revenue for Irsi Chocolatier. The promotion works differently but in the same direction: it will motivate the employee as they will be given additional responsibilities with a potential pay increase, making them more loyal to the business as they are being promoted for their work.
+>
+> However, if the same employee keeps getting the bonus each month, then this may demotivate the rest of the employees if they feel they do not have a chance at getting the bonus, leading to a decrease in productivity. A target-based reward that one person always wins stops being an incentive and becomes a fact about the workplace. This would only be for one employee, since the business currently has only three, so the other two may end up feeling demotivated and unrecognised, possibly leading to an increase in staff turnover and creating a recruitment issue for Irsi Chocolatier — and in a three-person business, losing one person is losing a third of the workforce.
+>
+> Overall, financial methods of motivation will benefit Irsi Chocolatier, but their effectiveness could be limited because it depends on factors such as the nature of the employee: some employees are motivated by money and will respond to a bonus, while others value responsibility, trust or job enrichment more. With so few staff, the business cannot afford to demotivate two of them to reward one.
+
+> ## 🏆 What the 12/12 actually did — and it is about 330 words
+> **The examiner's words:** *"a strong response and indicative of a level 3 response… been able to bring in their own business knowledge to support their response. There is good context throughout the response as well as a balanced argument with a clear evaluation."*
+> **It has no conclusion paragraph.** Its last paragraph *decides* — *"the effectiveness of using financial methods of motivation could be limited because it depends on factors such as nature of employee"* — and then it stops.
+> **It brings in knowledge the case never mentions** (job rotation, job enrichment, "given more responsibilities and trust") to support that condition, and it gives **both official AO4 routes in one answer**: the drawback of the same option (*"it could compromise quality of products and lead to higher defects / spoiled chocolates"*) and the named condition.
+
+⚠️ **This is the one paper in the tier where a verified full-mark script exists — use it as the template.** The three things to copy are: **short**, **applied throughout**, and **the condition is named**.
+
+---
+
+## 252. COMMUNICATION — internal and external, and what happens when it is uneven
+
+**Asked:** *"Evaluate the importance of good internal and external communication to **TBTS**."* — **May 2022 P1 4(c)**, a toy business with suppliers of toys and wooden materials.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | **internal** communication is between **owners and employees**; **external** is between **owners and stakeholders such as suppliers and customers** |
+| **AO2** | TBTS must make sure all employees are **aware of the toys it sells and the aims of the business**; TBTS can use **various external methods to communicate with its suppliers** of toys and wooden materials |
+| **AO3** | internal: **better relationships → lower staff turnover**, employees **feeling valued and part of a team**; external: good communication with suppliers **improves the relationship**, as it **keeps them up to date with its business activity** |
+| **AO4** | communication **has to be good for all employees or some may feel left out**, leading to **animosity between employees**; if communication is poor **the relationship would not work** and TBTS **could lose suppliers** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> Communication is the passing of information between the people a business depends on. Internal communication happens between owners and employees; external communication happens between the business and outside stakeholders such as suppliers and customers. TBTS depends on both — on a workforce that knows what it is selling, and on suppliers of toys and wooden materials it cannot afford to lose.
+>
+> TBTS needs to make sure all employees are aware of the toys it sells and the aims of the business, because a member of staff who does not know what the business is trying to achieve cannot help it get there. Good internal communication can create better relationships, leading to lower staff turnover and making employees feel more valued and part of a team — which matters in a small business where every person's knowledge is difficult to replace. Externally, TBTS can use various external methods to communicate with its suppliers of toys and wooden materials, and good communication with its suppliers could lead to an improved relationship between TBTS and its suppliers, as it keeps them up to date with its business activity: a supplier who knows a busy season is coming can hold stock and offer better terms.
+>
+> However, communication has to be good for all employees, or some may feel left out, leading to animosity between the employees. In a small team, information shared with one person and not another is read as favouritism, and the effect on the workplace is worse than if nothing had been said at all. If the communication is poor, the external relationship would not work either, and TBTS could find that it loses suppliers — a supplier who is never told about delays or changed orders stops prioritising the business that does not talk to them.
+>
+> Overall, good communication is very important to TBTS, but only if it is even and consistent. This depends on the size of the team and on how much TBTS depends on its few suppliers, since being one customer among many gives it little protection if the relationship sours. In the short term better communication costs time that the owners could spend on the business itself, but in the long term it is what keeps both the staff and the suppliers in place.
+
+⚠️ **The two AO4s are mirror images: internal failure costs you *people*, external failure costs you *supplies*.** A one-sided answer — usually all internal — leaves half of AO2 on the table, because **the question says "internal **and** external" and means both.**
+
+---
+
+# ✅ BATCH 8 COMPLETE — THE 12-MARK TIER IS CLOSED
+
+**38 blocks, 22 topics, 25 entries (228–252).** Verified by
+`python3 layer_c_12mark_coverage.py`: **38 of 38 blocks covered by a written
+entry, 0 remaining, 0 dangling.**
+
+| | Blocks | Entries |
+|---|---|---|
+| **Quality and TQM** | 4 | 229 · 230 |
+| **Location** | 4 | 231 |
+| **Research** (methods · before launch) | 4 | 232 · 233 |
+| **Marketing and promotion** | 4 | 234 · 235 |
+| **The market** (change · advantage) | 5 | 236 · 237 |
+| **Measuring success** | 3 | 238 · 239 |
+| **Objectives and reputation** (social · PR) | 3 | 240 · 241 |
+| **Strategy** (orientation · segmentation · ownership · structure · franchise) | 5 | 242 · 243 · 244 · 245 · 246 |
+| **Finance** (venture capital · documents · cash flow · interest rates) | 4 | 247 · 248 · 249 · 250 |
+| **People** (motivation · communication) | 2 | 251 · 252 |
+
+> ## ⚠️ THE TIER'S PERMANENT LIMIT — STATE IT, NEVER HIDE IT
+> **There is no verified 12/12 for Paper 2 or Paper 2R, in any series.** Pearson publishes 12-mark exemplars from **Paper 1** reports; both full-mark scripts in this bank are Paper 1. **Everything in this tier is a `[CONSTRUCTED GRADE 9 TARGET]`** — engineered from the mark scheme's own indicative content, the level descriptors, and the examiner reports. **No score is claimed for any of them.**
+>
+> The one verified full-mark anchor in the tier is **entry 251's paper — Irsi, May 2023 P1** — and its anatomy (≈330 words, no conclusion paragraph, the named condition, both AO4 routes) is what every model above is built to imitate.
