@@ -51,7 +51,7 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 
 # 2. June 2026 — Paper 2, Question 4(c)
 
-**Question:** *Evaluate the extent to which market orientation will help Nando's to remain competitive.* (12)
+**Question:** *Evaluate the extent to which market orientation will guarantee the future success of Nando's.* (12)
 
 **Context:** Nando's is a restaurant chain.
 
@@ -71,7 +71,7 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 
 # 3. May/June 2025 — Paper 1, Question 4(c)
 
-**Question:** *Evaluate how Four Fitness may respond to the changes in customer needs and consumer spending patterns.* (12)
+**Question:** *Evaluate how Four Fitness may respond to the changes in the market.* (12)
 
 **Context:** Four Fitness is a small gym owned by Gianni; more people are using online fitness videos.
 
@@ -89,9 +89,9 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 
 ---
 
-# 4. May/June 2024 — Paper 1, Question 4(c)
+# 4. May/June 2024 — Paper 1R, Question 4(c)
 
-**Question:** *Evaluate the importance of using methods of market research to Café Pinch.* (12)
+**Question:** *Evaluate the importance of using methods of market research for Café Pinch to meet customer needs.* (12)
 
 **Context:** Café Pinch serves breakfast, lunch and drinks.
 

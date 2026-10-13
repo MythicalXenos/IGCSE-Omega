@@ -18,33 +18,42 @@ Automatically detected across **38 archived 4BS1 question papers** (May/June 201
 | 2 | Calculate | 72 | 10.3% |
 | 2 | Outline one | 30 | 4.3% |
 | 2 | State / identify | 4 | 0.6% |
-| 3 | **Explain one** | **111** | **16.0%** |
-| 6 | **Analyse / assess** | **86** | **12.4%** |
-| 9 | **Justify a choice** | **48** | **6.9%** |
-| 12 | **Evaluate** | **17** | **2.4%** |
-| | **TOTAL** | **696** | |
+| 3 | **Explain one** | **152** | **40.0%** of governed |
+| 6 | **Analyse / assess** | **114** | **30.0%** of governed |
+| 9 | **Justify a choice** | **76** | **20.0%** of governed |
+| 12 | **Evaluate** | **38** | **10.0%** of governed |
+| | **GOVERNED TOTAL** | **380** | **across all 38 papers** |
 
-Source: `../4BS1_Question_Instances.csv` (696 item-level rows with QP page and matched MS path).
-Rebuild with `python3 ../build_question_inventory.py`.
+⚠️ **These are NOT the CSV's numbers.** Read them from the mark schemes with
+`python3 ../build_layer_c_tariffs.py`, which validates every paper against the
+80-mark total — **38 of 38 papers sum to exactly 80.**
+
+The CSV in the row below it reports **111 / 86 / 48 / 17** for the same four
+tariffs. Every one is low, the 12-mark worst of all, because the CSV is built
+from *question-paper text extraction* and that under-detects non-constantly.
+**111 / 86 / 48 / 17 is WITHDRAWN — 152 / 114 / 76 / 38 replaces it.** The
+696-row item count itself is still useful for the 1- and 2-mark items, which is
+what the other rows of that table describe; rebuild those with
+`python3 ../build_question_inventory.py`.
 
 ### Why the four bold rows are the whole game
 
-The 3, 6, 9 and 12-mark questions are **262 of the 696 items (37.6%)** — but they carry the vast majority of the *marks*, because the 1-mark MCQ and define items are single marks while a single evaluate is worth twelve.
+The 3, 6, 9 and 12-mark questions are **380 of the 696 items** — and they carry **60 of the 80 marks on every paper (75%)**, because the 1-mark MCQ and define items are single marks while a single evaluate is worth twelve.
 
 On a Paper 1 (80 marks total), the tariff breakdown is roughly:
 
-| Tariff | Marks contributed per paper |
-|---|---|
-| 1-mark items | ~14 |
-| 2-mark items | ~8 |
-| 3-mark items | ~15 |
-| **6-mark items** | **~24** |
-| **9-mark items** | **~18** |
-| **12-mark items** | **~12** |
+| Tariff | Items per paper | Marks per paper |
+|---|---|---|
+| 1- and 2-mark items | 20 | **20** |
+| 3-mark Explain | **4** | **12** |
+| 6-mark Analyse | **3** | **18** |
+| 9-mark Justify | **2** | **18** |
+| 12-mark Evaluate | **1** | **12** |
+| | **30 items** | **80 marks** |
 
-*(Indicative, from the May 2023 P1 structure: Q1 = 20, Q2 = 20, Q3 = 20, Q4 = 20, each question containing a 6-mark analyse, most containing a 9-mark justify, and one 12-mark evaluate per paper.)*
+**Identical on all 38 papers.** The skeleton never varies: **1(f) = 3 · 1(g) = 6 · 2(c)(d)(e) = 3 · 2(f) = 9 · 3(d) = 6 · 3(e) = 9 · 4(b) = 6 · 4(c) = 12** — that is 60 marks — and the remaining **20 marks** are the 1- and 2-mark items above them.
 
-**6, 9 and 12 mark questions alone are worth ~54 of the 80 marks on a Paper 1 — two thirds of the paper.** This bank's verified exemplars concentrate exactly there, which is the correct allocation of effort.
+**So the four governed tariffs are worth 60 of the 80 marks (75%), not "54".** This bank's verified exemplars concentrate exactly there, which is the correct allocation of effort. Reproduce the skeleton with `python3 ../build_layer_c_tariffs.py`.
 
 ---
 

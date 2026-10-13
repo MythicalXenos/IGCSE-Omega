@@ -1502,7 +1502,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 ## 75. **Hierarchical** organisational structure — one disadvantage
 
-**Asked:** *"Explain one disadvantage of having a hierarchical organisational structure."* — May/June 2024 P1
+**Asked:** *"Explain one disadvantage of having a hierarchical organisational structure."* — May/June 2024 P1R
 
 > **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
 > **Communication through many layers can be difficult** (1) — a message has to pass through every level to reach the bottom. **There is a long chain of command** (1), so each layer can delay it or change it on the way. **This possibly leads to slow decision-making** (1), and the business reacts to customers more slowly than a flatter rival does.
@@ -1891,7 +1891,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 ## 93. **Venture capital** — one advantage or one disadvantage
 
-**Asked:** *"Explain one advantage of using a venture capitalist."* — May/June 2024 P1 · *"Explain one disadvantage for an entrepreneur of using venture capital to start their business."* — June 2026 P2R
+**Asked:** *"Explain one advantage of using a venture capitalist."* — May/June 2024 P1R · *"Explain one disadvantage for an entrepreneur of using venture capital to start their business."* — June 2026 P2R
 
 > **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]` — **advantage**
 > **Venture capitalists can be specialists** (1) — they bring more than money. **They may bring skills and new ideas to the business** (1), from having backed similar businesses before. **Giving it a greater chance of success** (1), particularly where the owner is strong on the product and weak on the business side.
@@ -2503,7 +2503,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 118. PROFITABILITY RATIOS — what they are useful for
 
 **Asked:** *"Analyse the usefulness of profitability ratios to Backyard Shoez."* — **May–June 2019 P1, 4(b)**
-**Also asked:** *"Analyse the usefulness to TBTS of the acid test ratio."* — June 2022 P1 4(b) · *"Analyse the usefulness of the gross profit margin to PPS."* — June 2024 P1R 1(g)
+**Also asked:** *"Analyse the usefulness to TBTS of the acid test ratio."* — June 2022 P1 4(b) · *"Analyse the usefulness of the gross profit margin to PPS."* — June 2024 P1 1(g)
 
 **The AO2 anchors:** Backyard Shoez can **work out how much profit it has made** from buying and selling shoes **and compare it with previous years**; and ratios can show **whether there is a need to take out short-term finance**.
 
@@ -2638,7 +2638,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 123. CASH — why it is important to a business
 
 **Asked:** *"Analyse the importance of cash to TADS."* — **May–June 2020 P1, 3(d)**
-**Also asked:** *"Analyse the importance of cash to PPS."* — June 2024 P1R 4(b) · *"Analyse the importance of cash to the success of Ocean Vibes."* — Nov 2025 P1 4(b)
+**Also asked:** *"Analyse the importance of cash to PPS."* — June 2024 P1 4(b) · *"Analyse the importance of cash to the success of Ocean Vibes."* — Nov 2025 P1 4(b)
 
 > **This topic has appeared three times in six years, on three different businesses. The chain does not change; only the bills do.**
 
@@ -3027,7 +3027,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 139. MOTIVATING EMPLOYEES — the importance of it
 
 **Asked:** *"Analyse the importance of TBTS motivating its employees."* — **June 2022 P1, 3(d)**
-**Also asked:** *"Analyse the importance to Kumaran, the owner of Café Pinch, of having motivated employees."* — June 2024 P1 1(g) · *"Analyse the importance to Aude Anglaret of motivating her employees."* — May 2023 P1R 1(g) · *"Analyse the benefits for Premier Inn of motivating its employees."* — Nov 2024 P2 3(d)
+**Also asked:** *"Analyse the importance to Kumaran, the owner of Café Pinch, of having motivated employees."* — June 2024 P1R 1(g) · *"Analyse the importance to Aude Anglaret of motivating her employees."* — May 2023 P1R 1(g) · *"Analyse the benefits for Premier Inn of motivating its employees."* — Nov 2024 P2 3(d)
 
 > **This topic has been asked on four separate papers — TBTS, Café Pinch, Aude Rose and Premier Inn. It is the most repeated topic in the 6-mark tier. Learn the chain once and it answers all four.**
 
@@ -3138,7 +3138,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 ## 143. MARKET RESEARCH — why the research has to be reliable
 
-**Asked:** *"Analyse the importance of reliable market research to obtain this information."* — **May–June 2024 P1R, 3(d)**
+**Asked:** *"Analyse the importance of reliable market research to obtain this information."* — **May–June 2024 P1, 3(d)**
 
 **The AO2 anchors:** PPS will want to find **accurate local data about pet owners so it can target its customers better**; and **as PPS is a small business it may find it easier to speak to its customers individually** to find out the needs of their pets.
 
@@ -3160,7 +3160,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 ## 144. MEASURING BUSINESS SUCCESS — the factors considered
 
-**Asked:** *"Analyse two factors Café Pinch might consider when measuring its success."* — **May–June 2024 P1, 3(d)**
+**Asked:** *"Analyse two factors Café Pinch might consider when measuring its success."* — **May–June 2024 P1R, 3(d)**
 **Also asked:** *"Analyse factors that Aude Rose might consider when measuring the success of its business."* — May 2023 P1R 4(b)
 
 > **The word "two" is an instruction, not decoration.** Two factors, each developed — **not one factor developed well and a fragment of a second.**
@@ -3187,7 +3187,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 ## 145. MARKET SEGMENTATION — how a business uses it
 
-**Asked:** *"Analyse how Café Pinch could use market segmentation to target its customers."* — **May–June 2024 P1, 4(b)**
+**Asked:** *"Analyse how Café Pinch could use market segmentation to target its customers."* — **May–June 2024 P1R, 4(b)**
 
 **The AO2 anchors:** Café Pinch can **look at the spend of the customers who take away its food and drink**; and it may want to **target customers who work in Berlin or tourists who visit the city**.
 
@@ -3908,7 +3908,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 174. MARKET RESEARCH — its purpose
 
 **Asked:** *"Analyse the purpose of market research for Samsung."* — **Nov 2025 P2, 4(b)**
-**Also asked:** *"Analyse the importance of reliable market research (PPS)."* — June 2024 P1R 3(d) · *"Analyse two methods of primary research (Saha)."* — Nov 2024 P1 1(g)
+**Also asked:** *"Analyse the importance of reliable market research (PPS)."* — June 2024 P1 3(d) · *"Analyse two methods of primary research (Saha)."* — Nov 2024 P1 1(g)
 
 > **Three research questions across three papers, each testing something different:** **entry 143** = whether the data can be trusted · **entry 169** = which method to use · **this entry** = what the research is *for*.
 
@@ -4059,7 +4059,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 178. SOURCES OF FINANCE — personal savings vs a bank loan
 
-**Asked:** *"Option 1: using Rachel's personal savings · Option 2: taking out a small bank loan."* — **June 2024 P1R, 3(e)**, PPS ($£$*pet products, €7 500 for CCTV and kennels*)
+**Asked:** *"Option 1: using Rachel's personal savings · Option 2: taking out a small bank loan."* — **June 2024 P1, 3(e)**, PPS ($£$*pet products, €7 500 for CCTV and kennels*)
 **Also asked:** *"Two sources of finance: Option 1: personal savings · Option 2: a loan. Justify which one of these two options Claire should choose."* — **June 2026 P1, 3(e)**, Violet Cakes ($£$*a second café in London*)
 
 > **This pair has been set twice in three years, on two different businesses. It is the most repeated pair in the tier.** The scheme's AO4 for both questions is the same: **the savings may not be enough and may leave the business with no surplus for emergencies; the loan adds interest, which raises costs.**
@@ -4409,7 +4409,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 192. PROMOTION — a new product range vs a price discount
 
-**Asked:** *"Option 1: introduce a vegan range to address a new market · Option 2: give a 7.5% discount to draw more customers in at a quiet time."* — **June 2024 P1, 2(f)**, Café Pinch
+**Asked:** *"Option 1: introduce a vegan range to address a new market · Option 2: give a 7.5% discount to draw more customers in at a quiet time."* — **June 2024 P1R, 2(f)**, Café Pinch
 
 > **Note that these two options are not the same KIND of thing** — one changes the product, the other changes the price. **The question is really whether Café Pinch's problem is that it has nothing new to sell, or that not enough people are coming through the door at certain hours.**
 
@@ -5042,7 +5042,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 222. COMMUNICATION — a written channel versus a face-to-face meeting
 
-**Asked twice:** Café Pinch *(a daily-updated staffroom noticeboard vs a weekly staff meeting)* — **June 2024 P1, 3(e)** · Rabanne *(email, sent anywhere vs weekly face-to-face meetings)* — **June 2025 P2R, 2(f)**
+**Asked twice:** Café Pinch *(a daily-updated staffroom noticeboard vs a weekly staff meeting)* — **June 2024 P1R, 3(e)** · Rabanne *(email, sent anywhere vs weekly face-to-face meetings)* — **June 2025 P2R, 2(f)**
 
 > **Both pairs contrast the same two things: information that is STORED against information that is DISCUSSED.**
 
@@ -5401,7 +5401,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 ## 204. PROMOTION — sponsoring a charity or event vs special offers
 
 **Asked:** *"Option 1: sponsor a local charity such as Animal Rescue · Option 2: increase special offers on its sauces."* — **Nov 2023 P2, 2(f)**, Kraft Heinz
-**Also asked:** *"Option 1: free trial of a new dog food brand · Option 2: sponsor a local dog show."* — **June 2024 P1R, 2(f)**, PPS
+**Also asked:** *"Option 1: free trial of a new dog food brand · Option 2: sponsor a local dog show."* — **June 2024 P1, 2(f)**, PPS
 
 **The AO2 anchors (Kraft Heinz):** sponsoring **gains publicity and involvement in the local community**; special offers **may encourage more people to purchase its products**.
 **The AO2 anchors (PPS):** a free trial **will appeal to dog owners who regularly purchase dog food**; sponsoring a dog show **will promote products such as dog collars**.

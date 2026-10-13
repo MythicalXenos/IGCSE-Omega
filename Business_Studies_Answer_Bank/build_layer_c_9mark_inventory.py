@@ -45,38 +45,44 @@ def main() -> int:
     out = []
     for i, (head, body) in enumerate(blocks, 1):
         session, paper, q = [x.strip() for x in head.split("|")]
-        m = STEM.search(body)
-        stem = m.group(1).strip() if m else ""
+
+        # RE-ANCHOR (added after the block extractor started backing up to the
+        # nearest real stem heading): a block now OPEN includes the tail of the
+        # previous question, whose own "Level Mark Descriptor" and "(AO2)"
+        # markers are the ones a naive read finds first. Take the LAST heading
+        # whose following text actually yields a usable run of AO sections.
+        def _sections(seg):
+            cut = seg.find("Level Mark Descriptor")
+            if cut > 0:
+                seg = seg[:cut]
+            fb = seg.find("\u2022")
+            h = re.search(r"[^|]*\d\s*marks?", seg[:fb if fb > 0 else 200])
+            rest = seg[h.end():] if h else seg
+            c = list(re.finditer(r"\bA[O0]\s*([234])\b", rest))
+            sec, seen = {}, set()
+            for j, cc in enumerate(c):
+                num = int(cc.group(1))
+                if num in seen:
+                    break
+                seen.add(num)
+                end = c[j + 1].start() if j + 1 < len(c) else len(rest)
+                sec[num] = rest[cc.end():end].strip()
+            return sec
+
+        anchor, sections = -1, {}
+        # MJ2021 fragments the heading ("Quest ion Number") - allow the spaces.
+        for m0 in re.finditer(r"(?i)(?:q\s*u\s*e\s*s\s*t\s*i\s*o\s*n\s*n\s*u\s*m\s*b\s*e\s*r"
+                              r"|q\.\s*n\s*o\.)", body):
+            sec = _sections(body[m0.end():])
+            if len(sec) >= 2:
+                anchor, sections = m0.start(), sec
+        stem = ""
+        if anchor >= 0:
+            sm = STEM.search(body[anchor:])
+            if sm:
+                stem = sm.group(1).strip()
         if len(stem) < 15 or not COMMAND.search(stem):
             stem = ""
-
-        # The block is: header, then the AO2 section, then AO3, then AO4.
-        # Split on the AO SECTION MARKERS that follow the header -- taking the
-        # LAST occurrence of "AO2" instead lands inside a bullet and returns an
-        # empty section, which is how this first came out with zero options.
-        # The level descriptors repeat the AO markers ("...to the business
-        # context. (AO2)") and the block then runs on into the NEXT question, so
-        # the document holds many AO2/AO3/AO4 strings. The real content sections
-        # are the FIRST run of them. Take that, and stop before the repeat.
-        cut_pt = len(body)
-        level = body.find("Level Mark Descriptor")
-        if level > 0:
-            cut_pt = level
-        body = body[:cut_pt]
-        first_bullet = body.find("\u2022")
-        hdr = re.search(r"[^|]*\d\s*marks?",
-                        body[:first_bullet if first_bullet > 0 else 200])
-        rest = body[hdr.end():] if hdr else body
-
-        cuts = list(re.finditer(r"\bA[O0]\s*([234])\b", rest))
-        sections, seen = {}, set()
-        for j, c in enumerate(cuts):
-            num = int(c.group(1))
-            if num in seen:          # a repeat = the descriptors have begun
-                break
-            seen.add(num)
-            end = cuts[j + 1].start() if j + 1 < len(cuts) else len(rest)
-            sections[num] = rest[c.end():end].strip()
 
         opts = {}
         for om in OPT.finditer(sections.get(2, "")):

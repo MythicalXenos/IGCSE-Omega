@@ -40,8 +40,10 @@ COVERED = {
     # May-June 2022
     43: 136, 44: 129, 45: 137, 46: 138, 47: 139, 48: 118,
     49: 122, 50: 140, 51: 141, 52: 108, 53: 114, 54: 142,
-    # May-June 2024
-    55: 118, 56: 143, 57: 123, 58: 139, 59: 144, 60: 145,
+    # May-June 2024  (P1R first, then P1 - the archive's MS files for this
+    # session were filed under each other's names until 2026-10-14; the blocks
+    # were corrected, and these entries follow the content, not the old labels)
+    55: 139, 56: 144, 57: 145, 58: 118, 59: 143, 60: 123,
     61: 116, 62: 146, 63: 147, 64: 111, 65: 135, 66: 148,
     # May-June 2025
     67: 149, 68: 150, 69: 151, 70: 152, 71: 150, 72: 153,

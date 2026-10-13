@@ -251,6 +251,22 @@ So the correct response is **not one essay per question** — that would repeat 
 | **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
 | **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
 
+### 🔎 LAYER D — FILE-LABEL AUDIT, 14 Oct 2026 (a real defect, fixed)
+
+Opening the 12-mark tier exposed **three file-level defects** in the archive folder, two of which had already propagated into the bank. **Full write-up: `Source_Notes/ARCHIVE_LABEL_AUDIT_2026-10-14.md`.**
+
+| # | finding | status |
+|---|---|---|
+| 1 | **May/June 2024's two mark schemes were filed under each other's names** — `P1_MS.pdf` prints "Paper 01R", `P1R_MS.pdf` prints "Paper 01". **PPS is Paper 1; Café Pinch is Paper 1R.** | ✅ **fixed** — files renamed, blocks regenerated, 16 citations corrected, both coverage maps re-paired |
+| 2 | **June 2026 P1: the mark scheme names *Violet Cakes*, the question paper names *Crumb*** (same story, same paper code). | ⚠️ **recorded, not fixable** — the bank carries both names |
+| 3 | May/June 2022 P2R mark scheme prints "Paper 02" in its front matter | ⚠️ Pearson's slip — contents correct, **do not "fix"** |
+
+**Three reusable checkers now exist** (all read the file's own printed code or compare MS against QP): `check_archive_file_labels.py` · `check_ms_qp_agreement.py` · `check_ms_qp_case_names.py`. **The third flags June 2026 P1 and nothing else, in all 38 papers.**
+
+**Also fixed in the same pass:** `04_` still carried the **withdrawn** `111 / 86 / 48 / 17` population and a per-paper tariff table that was wrong (it said 6-mark items are worth ~24 marks a paper; they are worth **18**). Both replaced with the derived figures.
+
+---
+
 ### ✅ LAYER C, 9-MARK TIER — CLOSED at 76/76, verified 0 remaining
 
 ```
