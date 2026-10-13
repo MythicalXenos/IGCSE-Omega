@@ -131,7 +131,9 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**127 entries written · 380 governed blocks in scope · 249 still to cover** (83 six-mark + 76 nine-mark + 38 twelve-mark).
+**142 entries written · 380 governed blocks in scope · 234 still to cover** (60 six-mark + 76 nine-mark + 38 twelve-mark).
+
+> **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, 54 covered, 60 remaining, and flags any entry reference that does not exist.
 
 Priority order:
 1. **6-mark Analyse — 114 blocks.** The single largest remaining tier, and the only one where the examiners' own complaint (*"valid comments… failed to develop these points"*) maps directly onto a repeated structural failure.
@@ -233,7 +235,9 @@ So the correct response is **not one essay per question** — that would repeat 
 | **5a** | 6-mark Analyse — June 2026 (12 topics) | ✅ **12 entries (101–112)** |
 | **5b** | 6-mark Analyse — May–June 2019 (7 topics) | ✅ **7 entries (113–119)** |
 | **5c** | 6-mark Analyse — May–June 2020 (8 topics) | ✅ **8 entries (120–127)** |
-| **5d–6** | 6-mark Analyse — the remaining **83 blocks** | ⬜ next |
+| **5d** | 6-mark Analyse — the 4 blocks Batch 5b missed | ✅ **4 entries (128–131)** |
+| **5e** | 6-mark Analyse — June 2021 + June 2022 (11 topics) | ✅ **11 entries (132–142)** |
+| **5f–6** | 6-mark Analyse — the remaining **60 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
 | **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
 

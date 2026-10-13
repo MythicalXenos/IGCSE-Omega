@@ -37,12 +37,14 @@ Across 38 papers the qualification asks **governed** questions — anything need
 | **12-mark Evaluate** | **38** | ✅ **derived — 4(c), 1 per paper** |
 | **TOTAL GOVERNED** | **380** | ✅ 152 + 114 + 76 + 38 |
 
+> 🧮 **Coverage is now DERIVED, not carried by hand.** Run `python3 layer_c_6mark_coverage.py` from the folder above: it reads the derived inventory, checks every block against a `COVERED` map, and **also checks the other way — any entry number that does not exist in this file is printed as a dangling reference.** It was written because **Batch 5b recorded twelve blocks covered when it had covered eight**, leaving four 2019 blocks missing until the block file was re-read by hand. **That is the failure mode this bank is built to prevent, and one hand-counted total was enough.**
+
 **Progress against those 380 blocks:**
 
 | Tier | Blocks | Written | Remaining |
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
-| **6-mark Analyse** | **114** | **31** | **83** |
+| **6-mark Analyse** | **114** | **54** | **60** |
 | 9-mark Justify | 76 | 0 | 76 |
 | 12-mark Evaluate | 38 | 0 | 38 |
 
@@ -94,7 +96,9 @@ Every entry gives you:
 | **5a** | **6-mark Analyse — June 2026, all four papers** | ✅ **12 entries (101–112)** |
 | **5b** | **6-mark Analyse — May–June 2019, all four papers** | ✅ **7 entries (113–119)** |
 | **5c** | **6-mark Analyse — May–June 2020, all four papers** | ✅ **8 entries (120–127)** |
-| **5d–6** | 6-mark Analyse — the remaining **83 blocks** | ⬜ next |
+| **5d** | **+ the four 2019 blocks Batch 5b missed** | ✅ **4 entries (128–131)** |
+| **5e** | **6-mark Analyse — June 2021 + June 2022** | ✅ **11 entries (132–142)** |
+| **5f–6** | 6-mark Analyse — the remaining **60 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
@@ -2726,5 +2730,373 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** seeing the candidate in person reveals **attitude and communication** → the recruiter can judge whether they fit the airline's culture → **new staff settle faster and stay longer**, which cuts repeated recruitment costs.
 
 > ⭐ **The scheme's phrase is "only those pilots with the skills it wants".** *Selection* is the point of an interview — **not "the business gets to know the candidate"**, which is a description rather than a consequence.
+
+---
+
+> ### ⚠️ CORRECTION TO BATCH 5b — four blocks were left uncovered
+>
+> Batch 5b claimed *"the twelve 6-mark questions of May–June 2019, collapsed into seven topics"*. **That was wrong, and it is exactly the kind of error this bank exists to prevent.** Seven entries covered **eight** blocks (13, 14, 15, 16, 17, 18, 19, 24). **Four were left uncovered** — and they are now entries **128–131** below:
+>
+> | Block | Question | Now |
+> |---|---|---|
+> | 20 P2R 3(d) | *Analyse why Yellow sells to all demographics.* | **entry 128** |
+> | 21 P2R 4(b) | *Analyse the disadvantage for Yellow of customers using social media.* | **entry 129** |
+> | 22 P2 1(g) | *Analyse the importance of good public relations for Tata Motor Company.* | **entry 130** |
+> | 23 P2 3(d) | *Analyse how Tata Motor Company could use the financial information in Figure 2.* | **entry 131** |
+>
+> **The block count is the authority, not the entry count.** A topic that absorbs four blocks still leaves the other eight blocks needing their own entries, and *"collapsed into seven topics"* quietly assumed otherwise.
+
+# BATCH 5d — 6-MARK ANALYSE, PART 4
+
+**The four recovered 2019 blocks, plus June 2021's six and the first of June 2022's — nine new entries covering fourteen blocks.**
+
+---
+
+## 128. MASS MARKETING — why a business sells to everyone
+
+**Asked:** *"Analyse why Yellow sells to all demographics."* — **May–June 2019 P2R, 3(d)**
+
+> **Note the framing.** The question asks *why* — so the answer is the **business reason for targeting everyone**, not a description of mass marketing.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Selling to every demographic means **Yellow does not have to decide who its customer is** — T-shirts are bought by teenagers, by parents buying for children, and by adults buying for themselves, so **one design and one production run serves all of them**. **That has a direct cost consequence: the range does not have to be split into sizes of market, so each line is made in far larger volumes.** **Higher volume per line is what lets Yellow buy materials in bulk and keep the unit cost down** — which is what makes its prices competitive enough to sell to everyone in the first place. **The measurable end is reach and cost reinforcing each other:** selling to all demographics gives the volume that lowers unit cost, and the low unit cost is what allows it to keep selling to all demographics rather than retreating to a niche.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Targeting everyone → **no market to choose and no customer to exclude** |
+| **2. Strand A** | One design serves all buyers → **larger volumes per line** |
+| **3. Strand B** | Volume → **bulk buying → lower unit cost** |
+| **4. Measurable end** | **Competitive prices → wider reach still** |
+
+**Second acceptable chain:** mass appeal **spreads the risk** — a fashion trend that fails to sell in one segment still sells in another → **the business is less exposed to a single taste changing**.
+
+> ⭐ **Compare with the niche/segmentation material.** Entry on **market segmentation** (3-mark tier) is the opposite strategy. **Both are legitimate** — the mark is for the *reason*, not for preferring one.
+
+---
+
+## 129. SOCIAL MEDIA AND REVIEWS — the effect on a business
+
+**Asked:** *"Analyse the disadvantage for Yellow of customers using social media."* — **May–June 2019 P2R, 4(b)**
+**Also asked:** *"Analyse the impact of customers using social media to review Can Culleretes."* — June 2022 P1R 3(d) · *"Analyse the disadvantages to M&M of using social media."* — May 2023 P2R 1(g)
+
+**The AO2 anchors (Can Culleretes):** social media **can increase the number of reviews** of its meals and services; **negative reviews of the food served could be left**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Social media gives every customer **a public voice, whether or not they know anything about the business** — so the reviews multiply, and **most of them will be written by people who had a problem rather than by the satisfied majority**. **Can Culleretes is exposed in a particular way because it depends on tourists.** A visitor choosing where to eat in an unfamiliar city **has no experience of their own to rely on, so the reviews are the only evidence they have** — and **a few bad ones can send them to another restaurant, which is a sale lost before the customer ever walked past the door.** **The measurable end is also a trap in the other direction:** the positive reviews exist too, but **when both are present the doubt spreads, and tourists begin to doubt the good reviews as well**, so the damage is not limited to the bad ones.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Social media gives **every customer a public voice** |
+| **2. Strand A** | Tourists have **no experience of their own** → reviews become the deciding evidence |
+| **3. Strand B** | A few bad reviews → **customers go elsewhere before arriving** |
+| **4. Measurable end** | **Sales lost at the decision stage**, and doubt spread to the good reviews |
+
+**Second acceptable chain:** a negative review is **permanent and searchable** → it is seen by customers for years, unlike a complaint made privately → **one bad night keeps costing sales long after the problem is fixed**.
+
+> ⚠️ **The question almost always says "disadvantage" or "impact" — read which.** An *impact* question wants **both directions**, because the scheme's AO2 lists the extra reviews *and* the negative ones. A *disadvantage* question wants you to drive the negative chain hard. **The same facts, used differently.**
+
+---
+
+## 130. PUBLIC RELATIONS — why it matters
+
+**Asked:** *"Analyse the importance of good public relations for Tata Motor Company."* — **May–June 2019 P2, 1(g)**
+
+> **Public relations is not advertising and not sponsorship.** PR is **managing how the business is seen** — the press, the public, the reputation — and it is the only promotion method that **cannot be bought outright**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Public relations is how a business **manages what the public and the press think of it**, and for a car manufacturer **that is not a marketing side-issue: what people believe about a car affects whether they will sit in one**. **Tata's reputation is built or damaged in the press rather than in its own advertising**, and the difference shows up hardest when something goes wrong — **a recall, an accident, or a safety concern reaches the public through journalists, and a business with good PR is given a fair hearing while one without it is judged guilty in the coverage.** **The measurable end is that good PR protects sales that a rival's bad headline would destroy**, and it does so more cheaply than any advertising campaign: a favourable article **costs nothing to place and is believed more than a paid advertisement**, because it is written by someone with no money in the outcome.
+
+| Step | The move |
+|---|---|
+| **1. Point** | PR shapes **what the public and press believe**, not what they are told |
+| **2. Strand A** | A crisis reaches the public **through journalists** — PR decides how it lands |
+| **3. Strand B** | Favourable coverage is **free and more credible than paid advertising** |
+| **4. Measurable end** | **Sales protected in a crisis**, at no media cost |
+
+**Second acceptable chain:** good PR **attracts and keeps staff and investors**, because people prefer to be associated with a business that is well regarded → recruitment and funding both get easier.
+
+> ⭐ **Keep the three apart for the exam.** **Sponsorship** = paying to be linked to an event (entry 101). **Advertising** = paying for space (entries on above/below-the-line). **Public relations** = **earning** favourable coverage; you influence it, you do not buy it.
+
+---
+
+## 131. USING FINANCIAL INFORMATION — how the figures inform decisions
+
+**Asked:** *"Analyse how Tata Motor Company could use the financial information in Figure 2."* — **May–June 2019 P2, 3(d)**
+**Also asked:** *"Analyse how useful the information in Figure 2 is to Loaf."* — May–June 2020 P1R 3(d) · *"Analyse the likely benefits to Emirates of using financial information when making business decisions."* — May–June 2020 P2 1(g) · *"Analyse how Artify Studio could use the information in Figure 1 to assess the performance of the business."* — Nov 2021 P1 3(d)
+
+> **These four questions all say "the information in Figure N". That is a signal:** the figures **must be quoted**, and the mark scheme's AO2 bullets are built on them.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> The figures turn a decision from an opinion into **something that can be measured and compared**. Taken on its own, **a number tells Tata nothing useful** — what makes it information is the comparison, **against last year, or against a rival, or against the target the business set itself**. **That comparison is what identifies a problem before it becomes a crisis.** If a margin is falling while sales are rising, **the figures show that costs are running ahead of revenue — which no glance at the bank balance would reveal**, because the business is still taking more money each month. **The measurable end is the decision that follows:** Tata can see whether a route or a model **should be continued, re-priced or dropped**, and it can judge whether it needs to take action in the coming year rather than discovering the problem afterwards.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A figure only becomes information **when compared** — last year, a rival, or a target |
+| **2. Strand A** | Comparison **reveals a trend before it becomes a crisis** |
+| **3. Strand B** | It shows problems **the bank balance hides** — margins falling while sales rise |
+| **4. Measurable end** | A decision to **continue, re-price or cut**, made on evidence |
+
+**Second acceptable chain:** the figures tell Tata **whether it needs short-term finance** — and by how much — so an application to the bank is for **a calculated amount rather than a guess**, which is more likely to be approved.
+
+> ⚠️ **Quote the figures.** A candidate who writes *"the information helps them make decisions"* without ever naming **the ratio, the percentage or the year** has answered nothing. **The AO2 mark lives in the number.**
+
+---
+
+## 132. MARKETING — the importance of it
+
+**Asked:** *"Analyse the importance of marketing to NOF."* — **May–June 2021 P1, 1(g)**
+
+**The AO2 anchors:** the result of marketing would **enable NOF to adapt its overnight accommodation to what the customers want**; and marketing can be used to **make customers aware of its organic honey**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Marketing does two jobs for NOF, and they are different jobs. **The first is finding out what customers want — because marketing starts with research, not with advertising**, and that is what allows NOF to **adapt its overnight accommodation to what guests actually want** rather than to what Amanda and Ken assume they want. **Being wrong about that is expensive: accommodation is fixed once built.** **The second job is telling people what exists. NOF sells organic honey, and honey is the kind of product a guest buys on recognition** — so unless marketing **makes them aware of it**, the honey stays on the shelf beside a farm the guest has just enjoyed staying on. **The measurable end is two revenue streams rising together:** more bookings for the rooms, and **more of each guest's spend going to NOF's honey** rather than being taken home as a memory.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Marketing is **research as well as promotion** |
+| **2. Strand A** | Research → **accommodation adapted to real demand** (costly to get wrong) |
+| **3. Strand B** | Promotion → **guests aware of the honey, which needs recognition** |
+| **4. Measurable end** | **Bookings up and spend per guest up** |
+
+**Second acceptable chain:** marketing **builds the brand** so that NOF is chosen over another farm stay on a booking site → the business **stops competing on price alone**.
+
+> ⚠️ **"Marketing is advertising" is the single most expensive misconception in this course.** Marketing = **identifying, anticipating and satisfying customer needs profitably** — the marketing mix, research, segmentation and the rest. **If your answer is only about promotion, you have answered a third of the question.**
+
+---
+
+## 133. TRAINING EMPLOYEES — the benefits of training all of them
+
+**Asked:** *"Analyse the benefits to NEXT of training all its employees."* — **May–June 2021 P2, 1(g)**
+
+**The AO2 anchors:** if NEXT trained all its employees, **they are trained in a consistent fashion so they can operate in the same way across 70 countries**; and employees attending these sessions **gain customer service skills they can use in NEXT shops**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> The word that carries this question is **"all"**. Training *every* employee means the standard is **consistent — so a customer who walks into a NEXT in one of the 70 countries gets the same experience as one at home**, which is the whole basis of a brand that trades internationally. **Inconsistency is what damages a chain: a good shop and a poor shop under one name cost the brand the trust the good shop earned.** **The second benefit is what the training actually puts into the staff.** Customer service skills **let an assistant do more than hand over a product — they can advise, suggest and sell**, which is where sales technique turns a browsing customer into a buying one. **The measurable end is higher sales at the existing wage bill:** the same employees, serving better, **selling more from the same stock and the same hours** — which is why training is an investment rather than a cost.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Training **all** staff → **one consistent standard across 70 countries** |
+| **2. Strand A** | Consistency protects the brand; inconsistency **costs it the trust it has built** |
+| **3. Strand B** | Customer service skills → **staff can sell, not just serve** |
+| **4. Measurable end** | **Higher sales from the same payroll** |
+
+**Second acceptable chain:** trained staff **handle complaints without escalating them** → fewer problems reach head office and fewer customers leave → **the cost of fixing mistakes falls** as well.
+
+> ⭐ **Command-word discipline:** this says *benefits*, so you may stop at the gain. Compare entry **111 (induction)** — induction is **before** the job; training is **an ongoing investment in someone already doing it**. **Do not write one answer for both.**
+
+---
+
+## 134. COMMUNICATION BARRIERS — why a business removes them
+
+**Asked:** *"Analyse why NEXT would want to remove any communication barriers within its organisation."* — **May–June 2021 P2, 3(d)**
+
+**The AO2 anchors:** as NEXT **trades in different countries it needs employees to speak the language of that country**; and **if NEXT has long chains of command, messages from head office could take too long to reach shop assistants**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A communication barrier is **anything that stops a message arriving intact** — and in a business trading in different countries there are two of them stacked on top of each other. **The first is language.** If staff in a store cannot speak the language of the customers around them, **the shop cannot serve them at all**; and if head office and the store do not share a language, **instructions arrive either late or wrong**. **The second is the chain of command.** A message from head office **passes through every layer on the way down to a shop assistant**, and **each layer is a chance for it to be delayed or to become unclear and inaccurate** — so the instruction the assistant finally receives is not the one that was sent. **The measurable end is fewer errors and more sales:** staff who understood the instruction **do the right thing the first time**, and staff who can speak to the customer **make the sale that an incomprehensible conversation would have lost**.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A barrier = **anything that stops a message arriving intact** |
+| **2. Strand A** | Language → **cannot serve the local customer, cannot receive instructions** |
+| **3. Strand B** | Long chain of command → **delay and distortion at every layer** |
+| **4. Measurable end** | **Errors avoided and sales completed** |
+
+**Second acceptable chain:** removing barriers lets **information flow upwards too** — shop assistants tell head office what customers are asking for → **decisions are made on what is really happening** rather than on head-office assumption.
+
+> ⚠️ **Name the barrier, then break it.** *"Communication is important"* earns nothing. **Language, chain of command, noise, jargon, too many layers** — pick the ones the case supports and show what each one costs.
+
+---
+
+## 135. INTEREST RATES — the effects of a change in them
+
+**Asked:** *"Analyse the effects for NEXT of an increase in UK interest rates."* — **May–June 2021 P2, 4(b)**
+**Also asked:** *"Analyse the effect on TUI customers of an increase in interest rates."* — June 2024 P2 3(d) · *"Analyse the effect of a decrease in interest rates on Artify Studio."* — Nov 2021 P1 1(g)
+
+> **Three blocks, and one of them asks about the *customers* rather than the business. Read who the question names.**
+
+**The AO2 anchors (NEXT, rates rise):** consumers will **spend less on items such as clothing**; and consumers are **less likely to purchase NEXT furniture on credit**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> An interest-rate rise reaches NEXT through **two routes, and only one of them is about NEXT's own borrowing**. The first and larger effect is on **the customer's wallet**: higher rates mean **higher repayments on a mortgage or a loan**, so **households have less left to spend, and clothing is one of the first things they cut** — NEXT loses sales it did not do anything to lose. **The second effect is on credit specifically.** Furniture bought on credit becomes **more expensive to finance**, so **customers postpone those purchases altogether**, which is why the effect hits the big-ticket lines hardest. **The measurable end is unsold stock and lower profit:** reduced sales leave NEXT **holding inventory it bought in advance of demand that did not arrive**, and stock sitting in a warehouse costs money without earning any.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Higher rates → **higher repayments → less household income to spend** |
+| **2. Strand A** | Discretionary spending is cut first → **clothing sales fall** |
+| **3. Strand B** | Credit becomes dearer → **big-ticket items postponed** |
+| **4. Measurable end** | **Unsold inventory and lower profit** |
+
+**Second acceptable chain (if the question is about the business's own borrowing):** NEXT pays **more interest on any variable-rate loan** → costs rise **without any change in sales** → the profit margin narrows on exactly the same turnover.
+
+**Second acceptable chain (TUI's customers):** higher rates make **borrowing for a holiday dearer**, so **customers choose a cheaper destination or postpone the trip** → TUI fills fewer seats and must discount to fill them.
+
+> ⚠️ **Direction matters, and the question sets it.** *"An **increase**"* and *"a **decrease**"* are opposite answers — the Nov 2021 Artify question is about a **decrease**, where **the cost of borrowing falls and demand rises**. Getting the direction wrong makes every chain you write wrong, and **an answer built on a reversed premise scores nothing.**
+
+---
+
+# BATCH 5e — 6-MARK ANALYSE, PART 5
+
+**7 entries covering 11 blocks — the rest of June 2022, and the end of June 2021.** Two of these are the tier's heaviest repeats: **motivating employees appears four times** and **robotics twice**.
+
+---
+
+## 136. TECHNOLOGY AND PRODUCTIVITY — the impact of an app on how work is done
+
+**Asked:** *"Analyse the likely impact on productivity if Can Culleretes launch this app."* — **June 2022 P1R, 1(g)**
+
+**The AO2 anchors:** the app means **waiters do not have to take orders at the customer's table**; and **as soon as customers place the order the kitchen receives it immediately**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Productivity is **output per worker per hour** — so the question is what the app lets each waiter do more of. **Right now a waiter walks to a table, takes an order by hand and carries it to the kitchen; the app removes that trip entirely, because the order reaches the kitchen the moment the customer places it.** **Two things happen at once, and both raise productivity.** First, **the same number of waiters serves more tables in a night**, because the time previously spent walking and writing is spent serving. Second, **the kitchen starts cooking sooner**, so the gap between ordering and eating shrinks — **tables turn over faster, which means more covers from the same floor space and the same staff**. **The measurable end is lower cost per customer served:** the wage bill has not changed, but the revenue the same team generates has — which is precisely what an increase in productivity means.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Productivity = **output per worker**, so remove the wasted movement |
+| **2. Strand A** | The app **removes the order-taking trip** → waiters serve more tables |
+| **3. Strand B** | The kitchen receives the order instantly → **food reaches the table sooner** |
+| **4. Measurable end** | **Table turnover rises** → more covers from the same payroll |
+
+**Second acceptable chain:** orders taken by app **cannot be misheard or mis-written** → fewer wrong dishes → **less food wasted and fewer meals remade** → a cost saving on top of the time saving.
+
+> ⚠️ **Productivity is not production.** Producing *more* while hiring *more* is not a productivity gain. **The definition to hold in your head: output ÷ input — more from the same, or the same from less.** An answer that says "they can serve more customers" without holding the staff constant has missed it.
+
+---
+
+## 137. RESPONDING TO CHANGES IN THE MARKET — why it matters
+
+**Asked:** *"Analyse the importance of Can Culleretes responding to changes in its market."* — **June 2022 P1R, 4(b)**
+
+**The AO2 anchors:** Montserrat and Alicia **need to keep up with changing customer tastes if they want to remain competitive**; and **as the second oldest restaurant in Spain it may place no importance in responding to changes**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A market does not stand still, so **a restaurant that does not change is not staying the same — it is falling behind what customers now expect**. **Can Culleretes has a specific reason to be complacent, and that is exactly the danger: as the second oldest restaurant in Spain it has decades of goodwill and a family reputation** to rely on, which is precisely what makes it easy to assume the customers will keep coming. **The market does not owe it that.** Tastes move, and the restaurant **sits in a busy area where other restaurants are competing for the same visitors** — so customers who find the menu dated **walk into the next place rather than giving it another chance**. **The measurable end runs both ways.** Responding keeps it competitive and keeps tourists choosing it over the neighbours; not responding **turns a long history into a reason customers assume it is old-fashioned** — and a reputation that took generations to build is spent in a single season.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Standing still = **falling behind a moving market** |
+| **2. Strand A** | Its long history makes **complacency the natural mistake** |
+| **3. Strand B** | In a busy area, a dated offer → **customers go next door** |
+| **4. Measurable end** | **Competitiveness retained** — or goodwill spent in one season |
+
+**Second acceptable chain:** responding means **changing the menu, the pricing or the service to match what customers now want** → the restaurant **attracts a newer, younger customer** alongside its regulars → the customer base **widens instead of ageing**.
+
+> ⭐ **This entry pairs with entry 120 (external factors) and entry 138.** *"Changes in the market"* means **the customer side** — tastes, competitors, expectations. **External factors** is broader: economic, legal, technological, social. **Read which one the case supports.**
+
+---
+
+## 138. EXTERNAL FACTORS — the likely impact on business decisions
+
+**Asked:** *"Analyse the likely impact of external factors on business decisions made by TBTS."* — **June 2022 P1, 1(g)**
+
+**The AO2 anchors:** **social factors can help TBTS** as changes in society show customers **might be demanding more environmentally friendly toys**; and **technological advances could increase the cost of buying, or the price of, a range of toys**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> External factors are things the business **cannot control but must react to**, and TBTS is exposed on two at once. **On the social side the change is in TBTS's favour: customers are increasingly demanding environmentally friendly toys**, so a toystore that stocks them **is acting responsibly and selling high-quality goods at the same time** — which brings more customers in **and gives it a reason to be chosen over a rival**. **The technological factor cuts the other way.** Toys that embed new technology **cost more to buy in the first place**, and **if the technology moves rapidly the stock TBTS bought becomes unwanted** — because customers buy the newer version instead. **The measurable end is a decision TBTS has to make deliberately:** order cautiously and risk running out, or order heavily and risk **being left with stock it cannot sell at any useful price**. Either way, **the external factor has decided something the owner would rather not have had to think about.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | External factors are **outside the business but inside the decision** |
+| **2. Strand A** | Social shift to green toys → **brings customers, if TBTS reacts** |
+| **3. Strand B** | Technology moving fast → **expensive stock that goes out of date** |
+| **4. Measurable end** | A **stock decision forced by the outside world**, not by choice |
+
+**Second acceptable chain:** an economic factor — a recession, or a fall in disposable income — **moves parents from premium toys towards cheaper ones**, so TBTS must decide whether to **cut prices, narrow the range or accept lower sales**.
+
+> ⚠️ **"External factors" is a category, not an answer.** You must **name the factor** (social, technological, economic, legal, environmental) and **then show what it does to this business**. A list of five factors with no chains scores in the bottom level — **and bullets disqualify the top levels outright.**
+
+---
+
+## 139. MOTIVATING EMPLOYEES — the importance of it
+
+**Asked:** *"Analyse the importance of TBTS motivating its employees."* — **June 2022 P1, 3(d)**
+**Also asked:** *"Analyse the importance to Kumaran, the owner of Café Pinch, of having motivated employees."* — June 2024 P1 1(g) · *"Analyse the importance to Aude Anglaret of motivating her employees."* — May 2023 P1R 1(g) · *"Analyse the benefits for Premier Inn of motivating its employees."* — Nov 2024 P2 3(d)
+
+> **This topic has been asked on four separate papers — TBTS, Café Pinch, Aude Rose and Premier Inn. It is the most repeated topic in the 6-mark tier. Learn the chain once and it answers all four.**
+
+**The AO2 anchors (TBTS):** motivated employees **can better meet the needs of customers who want to buy toys**; **if TBTS does not have motivated employees it could lead to lower sales**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A demotivated employee **is still being paid — they are simply not doing what they are capable of**. In a toy shop that shows up at the counter: a member of staff who cannot be bothered **fails to answer a customer's question properly, and the customer leaves without buying** — so **motivation is not a welfare issue, it is a sales issue**. **The second effect is on how much work gets done.** An unmotivated team **produces less per hour**, which means **TBTS gets less output from the same wage bill** and **finds it harder to hit its own targets, whatever those targets are**. **The measurable end is straightforward: motivated staff sell more**, because they are willing to spend time with a customer and to help them find what they came for — and **the same payroll that produces low sales when staff are unhappy produces high sales when they are not**, which makes motivation one of the cheapest levers the business has.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A demotivated worker **is still paid, but produces less** |
+| **2. Strand A** | Poor service → **a customer leaves without buying** |
+| **3. Strand B** | Lower output per hour → **the same wage bill buys less work** |
+| **4. Measurable end** | **Sales and goals**, from an unchanged payroll |
+
+**Second acceptable chain:** motivated staff **stay** → TBTS avoids the cost of recruiting and retraining a replacement → **the skills stay in the business and the wage bill stays stable**.
+
+> ⚠️ **Do not list Herzberg, Taylor or Maslow here.** Those are for the 3-mark "motivating employees" question, where the mark is for the **method**. **This question asks what motivation does for the business**, so the mark is in the **consequences** — retention, productivity, service, sales.
+
+---
+
+## 140. LEGISLATION — why a government introduces it
+
+**Asked:** *"Analyse why some governments have introduced legislation to reduce the amount of sugar in chocolate."* — **June 2022 P2R, 3(d)**
+
+> **Read the party again.** The question is **why a GOVERNMENT acts** — not why Cadbury complies. The beneficiary is the country and its citizens.
+
+**The AO2 anchors:** legislation to reduce sugar **would reduce the sugar levels for its customers**; and it **would help reduce the demand on, and impact on, the health service** as fewer customers need its services.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A government legislates when **industry will not do it voluntarily**, and the target here is a product that is cheap, popular and eaten habitually. **Reducing the sugar in chocolate lowers the sugar its citizens consume without needing them to change what they choose** — and that is the point of legislating rather than campaigning: **it works on people who ignore the advice.** **The second reason is the cost to the country.** Consuming too much sugar contributes to being **overweight**, which brings **diabetes and other illnesses** with it — and those **cost the health service money that then cannot be spent elsewhere**. **The measurable end is on the public finances:** fewer health-related illnesses **reduce the cost of treating them**, and the country's overall health improves, which raises **productivity and the standard of living** as well as easing the strain on hospitals.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Government acts because **industry will not act voluntarily** |
+| **2. Strand A** | Legislation reaches people **who ignore advice and campaigns** |
+| **3. Strand B** | Sugar → obesity → illness → **cost to the health service** |
+| **4. Measurable end** | **Lower health costs and better public health** |
+
+**Second acceptable chain:** a government also protects **children**, who cannot judge the long-term consequences of what they eat → the legislation **reduces harm to people who did not consent to the risk**.
+
+> ⭐ **The same "who benefits" logic as entry 112 (Malaysia).** This qualification repeatedly sets questions where the business is **not** the beneficiary. **Check who the question names before writing the first sentence.**
+
+---
+
+## 141. OVERDRAFT — why a business uses short-term finance
+
+**Asked:** *"Analyse why Cadbury may have needed to take out an overdraft."* — **June 2022 P2R, 4(b)**
+
+**The AO2 anchors:** an overdraft allows Cadbury **to withdraw temporary funds from its bank account to pay suppliers for an unexpected delivery of cocoa**; and **if Cadbury needs to pay an unexpected bill to keep the factory working**. Also: **it is flexible as Cadbury will only pay interest on the amount they are overdrawn**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> An overdraft is **a facility, not a loan** — the business may draw on it when it needs to and repay when it can, and **it only pays interest on the amount actually overdrawn**. **That structure is what suits the problem Cadbury has: an unexpected delivery of cocoa, or a bill that must be paid to keep the factory running.** **Neither is planned, which is exactly why a fixed loan would be the wrong tool** — Cadbury would be paying interest on money it was not yet using, for a cost it did not expect to incur. **The measurable end is that production never stops.** The suppliers are paid on time, **the cocoa arrives and the factory keeps working**, which means **revenue keeps coming in while Cadbury sorts out its cash flow** — and the relationship with the supplier survives, which matters for the next delivery.
+
+| Step | The move |
+|---|---|
+| **1. Point** | An overdraft is **flexible** — draw when needed, pay interest only on the amount used |
+| **2. Strand A** | The cost is **unexpected** → a fixed loan would be the wrong shape |
+| **3. Strand B** | Paying the supplier on time **keeps the factory running** |
+| **4. Measurable end** | **Production and revenue continue** while cash flow recovers |
+
+**Second acceptable chain:** an overdraft can be arranged **at short notice** → Cadbury can respond to an opportunity — **a discounted bulk purchase of cocoa** — that a loan application would take too long to fund.
+
+> ⚠️ **Match the source of finance to the *timing* of the need.** **Short-term** (overdraft, trade credit) suits **unexpected, temporary gaps**. **Long-term** (loan, share capital, retained profit) suits **assets and expansion**. Choosing a long-term source for a temporary problem **costs interest unnecessarily** — and that reasoning is the difference between a 4 and a 6.
+
+---
+
+## 142. ROBOTICS — the benefits in manufacturing
+
+**Asked:** *"Analyse the benefits to LEGO of increasing the use of robotics in the manufacture of toys and games."* — **June 2022 P2, 4(b)**
+**Also asked:** *"Analyse the benefits to Rabanne of using robotics to manufacture its products."* — June 2025 P2R 4(b)
+
+**The AO2 anchors:** increasing the use of robotics **reduces human error** in production; and robotics **increases the number of units that can be made**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A robot does the same operation **the same way every time**, so the two things a production line loses to people — **variation and error — largely disappear**. **Fewer faults means fewer toys rejected**, and rejected toys are **the most expensive kind: the materials, the machine time and the labour have all been spent and there is nothing to sell.** **The second gain is speed. A robot does not tire, so it can run at a rate a human cannot hold for a full shift**, which means **more units come off the line in the same hours**. **The measurable end is manufacturing cost per toy falling** — because the waste falls and the fixed costs of the factory are spread over more units. And for a toy that must fit together with other toys, **consistency is not just cheaper, it is what makes the product work at all.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Robots are **consistent** — no variation, no human error |
+| **2. Strand A** | Fewer faults → **less rejected stock** — the costliest waste there is |
+| **3. Strand B** | No fatigue → **higher output from the same hours** |
+| **4. Measurable end** | **Lower manufacturing cost per unit**, and a product that fits |
+
+**Second acceptable chain:** robots allow **production to continue overnight and at weekends** without a night-shift wage bill → capacity rises **without a proportional rise in labour cost**.
+
+> ⚠️ **This is the "robotics benefits" question — the counter-argument (high set-up cost, job losses, inflexibility) is a different question.** Compare entry **109 (flow production disadvantages)**, which is exactly that reverse. **The scheme's own two AO2 bullets here are `human error` and `number made` — hit both and you have the level 3 answer.**
 
 ---
