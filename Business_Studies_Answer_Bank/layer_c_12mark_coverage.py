@@ -109,7 +109,15 @@ def main() -> int:
             print(f"        {r['Stem'][:104]}")
         return 0
 
-    return 1 if (missing or dangling) else 0
+    problems = []
+    if missing:
+        problems.append(str(len(missing)) + " block(s) uncovered")
+    if dangling:
+        problems.append("dangling entry reference(s): " + str(dangling))
+    print()
+    print("RESULT:", "OK - every 12-mark block maps to an entry in 10_Chain_Bank.md."
+          if not problems else "FAIL - " + "; ".join(problems))
+    return 0 if not problems else 1
 
 
 if __name__ == "__main__":

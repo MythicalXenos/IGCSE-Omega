@@ -98,7 +98,19 @@ def main() -> int:
         for r in remaining:
             print(f"  [{r['n']:>2}] {r['session']:<15}{r['paper']:<4}{r['question']:<6} "
                   f"{r['topic'][:64]}")
-    return 1 if (dangling or orphan or len(rows) != EXPECTED_BLOCKS) else 0
+    problems = []
+    if remaining:
+        problems.append(str(len(remaining)) + " block(s) uncovered")
+    if dangling:
+        problems.append("dangling entry reference(s): " + str(dangling))
+    if orphan:
+        problems.append("orphan block number(s): " + str(orphan))
+    if len(rows) != EXPECTED_BLOCKS:
+        problems.append("blocks: " + str(len(rows)) + " (expected " + str(EXPECTED_BLOCKS) + ")")
+    print()
+    print("RESULT:", "OK - every 9-mark block maps to an entry in 10_Chain_Bank.md."
+          if not problems else "FAIL - " + "; ".join(problems))
+    return 0 if not problems else 1
 
 
 if __name__ == "__main__":

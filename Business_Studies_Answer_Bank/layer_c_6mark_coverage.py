@@ -99,7 +99,20 @@ def main() -> int:
         for r in remaining:
             print(f"  [{r['n']:>3}] {r['session']:<15}{r['paper']:<4}{r['question']:<6} "
                   f"{r['stem'][:88]}")
-    return 1 if (dangling or orphan) else 0
+    # `remaining` MUST be in the verdict. This script printed REMAINING and then
+    # returned 0 however large that number was: a coverage check that cannot fail
+    # on a lack of coverage. Found 14 Oct 2026 while auditing which checks were real.
+    problems = []
+    if remaining:
+        problems.append(str(len(remaining)) + " block(s) uncovered")
+    if dangling:
+        problems.append("dangling entry reference(s): " + str(dangling))
+    if orphan:
+        problems.append("block number(s) past the end of the inventory: " + str(orphan))
+    print()
+    print("RESULT:", "OK - every 6-mark block maps to an entry in 10_Chain_Bank.md."
+          if not problems else "FAIL - " + "; ".join(problems))
+    return 0 if not problems else 1
 
 
 if __name__ == "__main__":

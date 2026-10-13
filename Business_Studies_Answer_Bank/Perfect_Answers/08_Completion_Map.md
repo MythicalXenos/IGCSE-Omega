@@ -374,13 +374,21 @@ python3 build_layer_c_9mark_inventory.py    #  76 nine-mark blocks, both options
 python3 build_layer_c_9mark_topics.py       #  76 blocks -> option pairs
 python3 build_layer_c_12mark_inventory.py   #  38 twelve-mark blocks
 python3 layer_c_coverage.py             # 152/152 three-mark coverage
+python3 layer_c_6mark_coverage.py       # 114/114 coverage   (tier coverage checks)
+python3 layer_c_9mark_coverage.py       #  76/76 coverage
+python3 layer_c_12mark_coverage.py      #  38/38 coverage
 python3 tally_exemplars.py              # 19 x 6/6 - 15 x 9/9 - 2 x 12/12
 python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
 python3 verify_collision_cluster.py     # the collision table's total is its row count (20)
 python3 verify_stem_quotes.py           # every quoted question is the paper's own question
 ```
 
-**⚠️ THREE of these scripts were, until 14 Oct 2026, printing nothing and returning 0 unconditionally** — `build_layer_c_tariffs.py`, `layer_c_coverage.py` and the three tier builders ran to completion whatever they found. A "suite" of checks that cannot fail is not a suite. They now state their claims as assertions and exit 1 on a mismatch.
+**⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
+
+* **Three printed nothing and returned 0 unconditionally** — `build_layer_c_tariffs.py`, `layer_c_coverage.py` and the three tier builders ran to completion whatever they found.
+* **One printed its failure and returned 0 anyway** — `layer_c_6mark_coverage.py` computed `remaining`, printed the uncovered blocks by name, and then ended `return 1 if (dangling or orphan) else 0`. **`remaining` was not in the verdict.** Its 9- and 12-mark siblings tested it correctly; this one did not. **It is the worst of the four, because it looked like a check** — it even printed `REMAINING : 0`, which reads as a pass whether or not it is.
+
+All of them now state their claims as assertions, print one `RESULT:` line, and exit 1 on a mismatch. **The 6-mark one was regression-tested by unmapping one block and confirming it reports `FAIL - 1 block(s) uncovered`, exit 1.**
 
 | Check | What it derives | Proves |
 |---|---|---|
