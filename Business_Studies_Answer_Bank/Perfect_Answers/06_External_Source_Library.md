@@ -2035,6 +2035,48 @@ Pearson's own balance standard, stated outright — Nov 2024 P2 summary advice:
 
 ---
 
+## 118. 🚨 NEVER ASSERT A TOTAL YOU HAVE NOT DERIVED
+
+**This bank has now produced four wrong totals, and every one of them was hand-written.**
+
+| Claim | Truth | How it was caught |
+|---|---|---|
+| 9/9 exemplars *"6"* | **15** | re-tallied from the files |
+| 6/6 exemplars *"9"* | **19** | re-tallied from the files |
+| May 2023 full-mark Justify *"four"* | **five** | re-read the report |
+| `10_Chain_Bank.md` *"49 of 111 done, 62 to go"* | **61 / 50** at the time | a script |
+| 3-mark population *"111"* | **151** | the mark schemes |
+
+**The rule: a number in this bank must be printed by a tool that can be re-run, or it must cite a file and a line.** A total carried by hand across turns drifts, every time, without exception.
+
+**Corollary — keep the method beside the number.** A bare figure cannot be checked. `build_layer_c_3mark.py` + `layer_c_coverage.py` are the pattern to copy: re-runnable, and they print their own working.
+
+---
+
+## 119. ⭐⭐ NO MARKS ARE AWARDED FOR A DEFINITION *(on an Explain question)*
+
+**Pearson prints this in the 3-mark mark-scheme box, word for word:** *"NB No marks are awarded for a definition."*
+
+**Confirmed on six series so far** — May/June 2020 P2R · May/June 2022 P2 · May 2023 P2R · **Nov 2024 P1 and P2** · June 2026 P2 — and on different topics each time (targeted advertising online, questionnaires, branding, above-the-line promotion, sponsorship, focus groups, packaging, new products).
+
+⚠️ **The nuance, and it matters:** May/June 2020 P2R's *own worked answer for sponsorship* opens with a definition — *"Sponsorship is making a financial contribution to an event (1)"*. **So the rule is not "a definition is always wrong".** The rule is that **a definition must immediately be made operational** — it has to say what the thing **does**. *"Sponsorship is a financial contribution to an event"* followed by **nothing** scores 0; followed by *"…this makes more people aware of the products (1)… which could increase sales (1)"* it is a full-mark answer.
+
+**Practical rule for the exam: never open with a definition.** Open with the **method / reason / benefit** itself. The definition costs you a sentence out of the three you have.
+
+---
+
+## 120. 🚨 CHECK THE INVENTORY AGAINST THE MARK SCHEMES, NOT THE QUESTION PAPERS
+
+**The lesson of the 111-vs-151 correction.** `4BS1_Question_Instances.csv` was built by extracting text from question papers — and that extraction is column-scrambled. It reported **111** three-mark Explain questions. The mark schemes show **151: exactly four per paper (1(f), 2(c), 2(d), 2(e)) across 38 papers.**
+
+**The loss is not constant**, which is what made it dangerous: May/June 2024 P1 showed 3 (has 4) · Nov 2024 P1 showed 2 (has 4) · May/June 2025 P2 showed 1 (has 4). **An under-count that varies per paper cannot be corrected by adding a fudge factor.**
+
+**Rule: for any *inventory* — how many questions of a type, how many papers, how many marks — read the mark scheme.** The MS states every question part and its AO allocation cleanly. **Use the question papers for the *content* of questions, never for the count of them.**
+
+> ⚠️ **Still open, and it is the same bug:** the 6-, 9- and 12-mark totals (86 / 48 / 17) come from that same CSV and are **not** trustworthy. The 48 is provably too low — the P1-family papers carry **two** 9-mark Justify questions each (verified by hand on Nov 2024 P1: **2(f)** and **3(e)**). **Re-derive all three with a block parser before quoting any total.**
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)

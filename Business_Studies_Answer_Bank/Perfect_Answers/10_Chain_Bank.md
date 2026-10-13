@@ -1,21 +1,42 @@
 # 10 — THE CHAIN BANK
 
-**`[CONSTRUCTED GRADE 9 TARGET]`** — every answer here is engineered from the question paper, the mark scheme and the examiner reports. **None is a real student script and none has been examiner-marked.** Where a verified script exists it is in `02_Verified_Exemplars.md` instead, and labelled as such.
+**Every answer here is labelled, and the label matters.** Three kinds appear:
+
+| Label | What it is | What it is NOT |
+|---|---|---|
+| `[VERIFIED CANDIDATE EXEMPLAR]` | a real student script an official Pearson report scores at full marks (session, paper, question, page cited) | — |
+| `[OFFICIAL MARK-SCHEME WORKED ANSWER]` | **Pearson's own indicative content, quoted verbatim, carrying the scheme's own (1)(1)(1) allocation** | **not a candidate script · not examiner-marked** |
+| `[CONSTRUCTED GRADE 9 TARGET]` | engineered by me from the question paper, the mark scheme and the examiner reports | not official, not a student script, not examiner-marked |
+
+**No model here is ever described as "official" unless it is quoted from Pearson, and no model is ever given a candidate's score.** Where a verified script exists it is held in `02_Verified_Exemplars.md` and labelled there.
 
 ---
 
-## WHY THIS FILE EXISTS, AND HOW IT COVERS 262 QUESTIONS
+## WHY THIS FILE EXISTS, AND HOW IT COVERS THE WHOLE QUALIFICATION
 
-The inventory lists **262 governed items** (3, 6, 9 and 12 marks) across 38 papers. That looks like 262 essays. It is not, and writing 262 essays would be the wrong response to it. Two measurements from `4BS1_Question_Instances.csv`:
+Across 38 papers the qualification asks **governed** questions — anything needing three marks or more of written reasoning. That looks like hundreds of essays. It is not, and writing hundreds of essays would be the wrong response to it.
 
-| Tariff | Instances | Distinct framings | What actually varies |
-|---|---|---|---|
-| **3-mark Explain** | **111** | **8** | the **topic** |
-| **6-mark Analyse** | **86** | **~6** | the **topic** and the framing |
-| **9-mark Justify** | **48** | **1** — *"justify which one of these two options…"* | the **option pair** |
-| **12-mark Evaluate** | **17** | **~5** | the **topic** |
+**The number of distinct framings is small and stable:**
 
-**So there are only about twenty distinct framings in the whole qualification.** Every one of the 262 items is a **framing** wrapped around a **topic**.
+| Tariff | Distinct framings | What actually varies |
+|---|---|---|
+| **3-mark Explain** | **8** | the **topic** |
+| **6-mark Analyse** | **~6** | the **topic** and the framing |
+| **9-mark Justify** | **1** — *"justify which one of these two options…"* | the **option pair** |
+| **12-mark Evaluate** | **~5** | the **topic** |
+
+**So there are only about twenty distinct framings in the whole qualification.** Every governed question is a **framing** wrapped around a **topic**.
+
+**How many instances of each framing there actually are:**
+
+| Tariff | Instances | Where the number comes from |
+|---|---|---|
+| **3-mark Explain** | **151** | ✅ **derived from the 38 mark schemes — exactly 4 per paper** |
+| **6-mark Analyse** | *not yet derived* | ⚠️ the CSV's 86 is unreliable |
+| **9-mark Justify** | *not yet derived* | ⚠️ the CSV's 48 is **proven too low** |
+| **12-mark Evaluate** | *not yet derived* | ⚠️ the CSV's 17 is unverified |
+
+> 🚨 **The old headline figure of "262 governed items" is withdrawn.** It was built on `4BS1_Question_Instances.csv`, and that file is measurably wrong. **The full scope correction is the next section — read it before trusting any count in this bank, including any count in another file.**
 
 This file supplies both halves:
 
@@ -45,6 +66,53 @@ Every entry gives you:
 > **Explain assesses AO1 — Knowledge. Context is NOT required.**
 > June 2025 P1 states it twice: *"No context/reference to the business in the exam paper is required in Explain questions."*
 > ⚠️ **But it is not penalised either.** If a topic phrase from the case study comes naturally, use it — it costs nothing.
+
+---
+
+## Batch status
+
+| Batch | Content | Status |
+|---|---|---|
+| **1** | Newest 3-mark topics — June 2026 + Nov 2025 | ✅ 16 entries |
+| **2** | **3.1 Business activity + 3.2 structure/HR cluster** | ✅ **33 entries** |
+| **3** | **3.3 Marketing** | ✅ **23 entries (50–72)** |
+| **4** | 3.4 Operations + 3.5 Finance + measuring business success | ⬜ next |
+| **5–6** | 6-mark Analyse chains | ⬜ |
+| **7–8** | 9-mark Justify option pairs | ⬜ |
+| **9** | 12-mark Evaluate topics | ⬜ |
+
+### 🚨 SCOPE CORRECTION — **151** three-mark blocks, not 111
+
+**This file previously counted the 3-mark population from `4BS1_Question_Instances.csv` and reported 111. That number is wrong, and the fault was in the measuring instrument rather than in the counting.**
+
+The CSV was built from **question-paper text extraction**, which is column-scrambled and silently loses whole question parts. The **mark schemes** state every part cleanly, and read that way **each of the 38 papers carries exactly four 3-mark Explain questions — 1(f), 2(c), 2(d) and 2(e):**
+
+```
+3-mark Explain blocks, read from the mark schemes : 151   (4 x 38 papers)
+from 4BS1_Question_Instances.csv                  : 111   (under-count of 40)
+```
+
+How much is lost varies by paper — **May/June 2024 P1 shows 3 in the CSV but has 4; Nov 2024 P1 shows 2 and May/June 2025 P2 shows 1, and both have 4.** The shortfall is therefore **not a constant that can be added back on.**
+
+**So `4BS1_Question_Instances.csv` is no longer the scope authority for Layer C — the mark schemes are.** The tool that re-derives this, and which also harvests each block's official worked answer, is **`../build_layer_c_3mark.py`** → **`../layer_c_3mark_master.csv`**. Both are tracked, and the tool re-reads the archive on every run, **so a sandbox re-seed cannot lose the finding again.**
+
+### ⭐ PROGRESS — 3-mark Explain, derived and not estimated
+
+```
+3-mark blocks total     :  151
+canonical topics        :   97
+covered by entries 1-72 :   69 topics  ·  112 blocks
+REMAINING               :   28 topics  ·   39 blocks
+```
+
+> **How this is counted.** `build_layer_c_3mark.py` reads all 38 mark schemes, harvests every 3-mark block, and normalises each to a canonical topic — *"identification of a benefit to a business of using e-newsletters"*, *"a way a business could use e-newsletters"* and *"a benefit to a business of using e-newsletters"* all resolve to **E-NEWSLETTERS**. **0 blocks are unmapped.** The figure above is **97 distinct canonical topics, of which 69 are carried by an entry in this file.**
+> ⚠️ **Rule 118 is now enforced by machine.** Every hand-written total in this file has drifted at least once. **This one cannot**: re-run the tool and it prints the number.
+
+### ⚠️ THE 6-, 9- AND 12-MARK TOTALS ARE STILL UNSAFE — DO NOT QUOTE THEM
+
+The `86 · 48 · 17` figures come from the **same unreliable CSV**, and the mark schemes already contradict one of them: **the P1-family papers carry TWO 9-mark Justify questions, not one.** Verified by hand on **Nov 2024 P1**, which has a Justify at **2(f)** (*crowdfunding vs loan capital*) **and a second at 3(e)** (*price skimming vs cost plus pricing*). **So 48 is an undercount.**
+
+Re-deriving the three larger tariffs needs a proper **block** parser, not a header regex — AO allocations are printed more than once per question, so a regex double-counts. **That re-derivation is the integrity task that follows Batch 4. Until it is done, no 6-, 9- or 12-mark total is asserted anywhere.**
 
 ---
 
@@ -797,24 +865,540 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 ---
 
-## Batch 2 status
+---
 
-| Batch | Content | Status |
+# BATCH 3 — Spec 3.3 (Marketing)
+
+**23 entries.** Marketing is the largest remaining cluster: 33 of the 151 three-mark blocks sit in 3.3, in 23 distinct topics.
+
+> ## ⭐⭐ A NEW LABEL, AND WHY IT IS NEEDED
+> Batches 1 and 2 were `[CONSTRUCTED GRADE 9 TARGET]` throughout. **Batch 3 is different: for almost every entry below, Pearson's own mark scheme prints a worked answer** — the *"Award 1 mark for … (1) … (1) … (1)"* model that the scheme accepts as a full-mark response.
+> That is a **third source category**, and the labelling contract has only two labels, so this batch uses a third and defines it:
+>
+> | Label | What it is | What it is NOT |
+> |---|---|---|
+> | `[VERIFIED CANDIDATE EXEMPLAR]` | a real student script that an official Pearson report scores at full marks (session, paper, question, page cited) | — |
+> | **`[OFFICIAL MARK-SCHEME WORKED ANSWER]`** | **Pearson's own indicative content, quoted verbatim, carrying the scheme's own (1)(1)(1) allocation** | **not a candidate script · not examiner-marked · no candidate wrote it** |
+> | `[CONSTRUCTED GRADE 9 TARGET]` | engineered by me from QP + MS + ER | not official, not a student script, not examiner-marked |
+>
+> **Every entry below states which of its chains come from the scheme and which are mine.** Where a chain is labelled *scheme*, the (1) markers are Pearson's, and the route is one the scheme explicitly accepts. **This still does not make it a marked script** — it is the scheme's own model, which is the strongest thing that exists for a 3-mark question, but it is a different kind of evidence and it is labelled as such.
+
+> ### ⭐⭐ THE 3-MARK MARKETING RULE, AND IT IS NEW
+> **`NB No marks are awarded for a definition.`**
+> This line appears in the mark schemes for **May/June 2020 P2R, May/June 2022 P2, May 2023 P2R, Nov 2024 P1, Nov 2024 P2 and June 2026 P2** — six series, and it is in none of them by accident.
+> **Do not open these answers by defining the term.** *"E-newsletters are electronic newsletters"* scores **0**. *"Above-the-line promotion is promotion through the media"* scores **0**. The first mark is for a **method / reason / benefit**, not for a definition — so start with the thing itself and spend all three sentences on **what it does and what follows**.
+
+---
+
+# 3.3.1 — THE MARKET AND MARKET RESEARCH
+
+## 50. Market research — one **purpose**
+
+**Asked:** *"Explain one purpose of market research for a business."* — May/June 2020 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A purpose of market research is **to identify your customers' needs** (1) — the business finds out what people actually want before it commits money to a product. **This helps it design products that meet those needs** (1) rather than guessing and building something nobody wants. **That makes the business more successful** (1), because it is spending on products that will actually sell.
+
+**The chain, broken out**
+1. **Identify customer needs** — the purpose itself.
+2. **Design the product to meet them** — what the business does with the finding.
+3. **The business is more successful** — sales/profit consequence.
+
+**A second acceptable route** *(scheme, May/June 2020 P1)*
+*Reduce the risk of failure* → a new product is tested on real customers before launch → **the business does not waste money on something unwanted**.
+
+**More purposes you can use, if they chain honestly:** to find out the size of the market · to find out what competitors charge · to see whether a price will be accepted · to identify a gap in the market.
+
+> ⚠️ **The word "purpose" is doing the work here.** A purpose is **why the business does it** — so the answer must be a reason to research, not a description of a research *method*. *"A purpose is to hand out questionnaires"* is a method and answers a different question.
+
+---
+
+## 51. Questionnaires — one **disadvantage**
+
+**Asked:** *"Explain one disadvantage of using questionnaires as a method of market research."* — May/June 2022 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **If the questionnaire is too long (1)** people may be **reluctant to complete it** (1) — they lose interest and stop part-way through. **They may then not give true answers** (1), so the business makes decisions on information that looks like data but is not accurate.
+
+**The chain, broken out**
+1. **The questionnaire is too long** — this is the identification; a questionnaire-specific flaw.
+2. **People will not complete it / lose focus** — the behavioural consequence.
+3. **The data is wrong or too thin** — the consequence to the *business*.
+
+**A second acceptable route** *(scheme, same question)*
+*Too many questions* → **people do not focus properly** (1) → **a low rate of return** (1) → **the business does not get the information it needed** (1).
+
+**More disadvantages that chain properly:** closed questions **limit the answers** → the respondent cannot say what they really think → the business misses the real reason customers behave as they do · posted questionnaires get **a poor response rate** → the sample is too small to be representative → the findings cannot be trusted · people may **lie to appear sensible** → the business acts on false information.
+
+> ⭐ **Notice the shape: the flaw is in the *method*, and the third sentence is about the *information*.** A questionnaire disadvantage that ends on "it costs money" has stopped one link early — costs apply to every method and do not distinguish a questionnaire.
+
+---
+
+## 52. Secondary market research — one **benefit** or **reason**
+
+**Asked:** *"Explain one benefit to a business of using the internet to carry out secondary market research."* — May/June 2020 P2R · *"Explain one benefit to a business of using secondary market research."* — May/June 2021 P1 · *"Explain one reason why secondary research would be used by a business."* — Nov 2021 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> Secondary research **already exists and is available** (1) — the business does not have to go out and gather it. **This saves the business a great deal of time and effort** (1) that would otherwise be spent collecting data itself. **The information can then be used to develop its products or to learn about other businesses** (1), so the saving converts into something useful rather than just being a saving.
+
+**The chain, broken out**
+1. **The data already exists** — secondary means second-hand, collected by someone else.
+2. **Saves time, effort or money** — the immediate benefit.
+3. **The saving is used** — quicker decision, more funds for something else, or the data used to develop a product.
+
+**A second acceptable route** *(scheme, May/June 2021 P1)*
+**Businesses save money by not carrying out the research themselves** (1) → **the information is freely accessible on the internet** (1) → **they can access a large amount of information at no cost** (1).
+
+**A third acceptable route** *(scheme, May/June 2020 P2R)*
+**Access to a large volume of data** (1) → **they do not have to go out and collect it themselves** (1) → **it is much cheaper and quicker because someone else has already done it** (1).
+
+> ⚠️ **The distinction that must be right:** secondary = **data that already exists** (government statistics, competitor websites, reports, newspaper articles, internal sales records). Primary = **collected first-hand** (surveys, interviews, questionnaires, observation, focus groups). **Calling a questionnaire "secondary research" is the commonest error on this question** and it earns nothing.
+> ⚠️ **A weak secondary-research advantage: "it is more accurate."** It usually is not — it was collected for someone else's purpose, so it may be out of date or not quite fit. Use **cheaper · quicker · large volume**, which are the scheme's own points.
+
+---
+
+## 53. Using market research information — one **way**
+
+**Asked:** *"Explain one way a business could use market research information."* — May 2023 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The business can **find out what customers think of its products** (1) — the research tells it what is working and what is not. **It can then act on the feedback it has collected** (1), changing the product, the price or the way it is promoted. **As a result it better meets the needs of its customers** (1), which is what turns the information into sales.
+
+**The chain, broken out**
+1. **Find out what customers think** — the use.
+2. **Act on the feedback** — the decision the business takes.
+3. **Better meets customer needs** — the outcome.
+
+**A second acceptable route** *(constructed)*
+Use the research to **set the price** → the business knows what customers are willing to pay → **it avoids pricing itself out of the market**.
+
+**A third** *(constructed)* — use it to **choose where to locate** → the research shows where the target customers are → **the shop gets more passing trade**.
+
+> ⚠️ **The trap is stopping at "to make decisions".** *"A business can use market research to make better decisions"* is not developed — the examiner cannot see which decision, or what improves as a result. **Name the decision and name the outcome.**
+
+---
+
+## 54. Focus groups — one **advantage**
+
+**Asked:** *"Explain one advantage of using focus groups when carrying out market research."* — Nov 2024 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> Using a focus group means the researchers **talk directly to the people in the group** (1) rather than through a form. **This means they may get a more truthful answer** (1) — people say more in conversation than they write on a questionnaire. **This allows the researchers to gain in-depth insights into consumers' thoughts, feelings and motivations** (1), which is exactly what a business needs when a decision is finely balanced.
+
+**The chain, broken out**
+1. **Direct discussion with the group** — the method's distinctive feature.
+2. **More honest, fuller answers** — the immediate advantage.
+3. **Depth and reasoning, not just numbers** — what the business gets that a survey cannot give it.
+
+**A second acceptable route** *(scheme, same question)*
+**A variety of people discuss the research together** (1) → **detailed notes of the discussion can be taken** (1) → **they can be analysed later** (1).
+
+> 🚨 **THE REPORTED ERROR — from the Nov 2024 report, on this exact question:**
+> *"Many candidates stated it was a **quick, easy or an unbiased** method which is **not correct**."*
+> A focus group is **not** quick (it must be arranged, run and written up), **not** easy (it needs a skilled moderator, and one loud voice can dominate it) and **not** unbiased (the group can be led by whoever runs it, and people may agree with the majority). **Never use any of those three.** Use **depth**, **honesty of response** or **the discussion itself**.
+
+---
+
+## 55. Branding — why it is **important** / one **advantage of a strong brand**
+
+**Asked:** *"Explain one advantage of having a strong brand."* — June 2026 P2 · *"Explain one reason why branding is important to businesses."* — May 2023 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> With a strong brand the **product or service is easily recognisable** (1) — customers spot it instantly among competitors' goods. **This may lead customers to choose the business over its competitors** (1), even when the price is higher. **This leads to high levels of sales revenue** (1), and it means the business does not have to compete only on price.
+
+**The chain, broken out**
+1. **Recognisable / differentiated** — the customer can tell it apart.
+2. **Chosen over competitors** — the buying decision changes.
+3. **Revenue, loyalty, or the ability to charge more** — the commercial outcome.
+
+**A second acceptable route** *(scheme, May 2023 P2R)*
+**Branding differentiates the products from others** (1) → **it helps customers identify the brand they want** (1) → **and it maintains loyalty** (1).
+
+**A third acceptable route** *(scheme, same question)*
+**The business develops a strong image for its product** (1) → **this can increase the price customers will pay** (1) → **the brand itself becomes worth a great deal of money** (1).
+
+> ⚠️ **`NB No marks are awarded for a definition.`** *"Branding is giving a product a name and a logo"* scores **0** on both series. **Never open with a definition.**
+> ⚠️ **And do not confuse branding with advertising.** Branding is the **identity** — name, logo, design, the associations customers hold. Advertising is **how it is communicated**. An answer about "putting adverts on television" belongs to entry 64, not here. **A strong brand is the asset; advertising is a cost.**
+
+---
+
+## 56. Packaging — why it is **important**
+
+**Asked:** *"Explain one reason why packaging is important to a business."* — June 2026 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The packaging **protects the goods** (1) — that is its first job, and the scheme's own opening point. **This matters particularly if the goods are fragile or easily broken** (1) in transit or on the shelf. **This should ensure the goods are delivered safely to the customer** (1), so the business does not lose money replacing damaged stock or lose the customer altogether.
+
+**The chain, broken out**
+1. **Protects the product** — the physical function.
+2. **Because the goods are fragile / must survive handling** — why protection matters here.
+3. **They arrive in good condition** — the consequence: no waste, no replacements, no lost sale.
+
+**A second acceptable route** *(scheme, same question)*
+**Packaging attracts consumers** (1) → **customers who care about how a product looks** (1) → **it may persuade the consumer to purchase it** (1).
+
+> ⭐ **Packaging has three separate jobs and you should pick the one that chains best:** **protect** the product · **attract** the customer · **inform** them (ingredients, instructions, warnings, and legally required information). **Attract** is the strongest route in a competitive market, because it is the only one that changes a buying decision.
+> ⚠️ **`NB No marks are awarded for a definition.`** Do not write *"packaging is the material wrapped around a product."*
+
+---
+
+## 57. The product life cycle — one way to **extend** it
+
+**Asked:** *"Explain one way the product life cycle can be extended."* — May/June 2019 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The business could **change the packaging of its product** (1) — a new look makes an established product feel new again. **This could be done by brightening up the old packaging or adding extras to it** (1), such as a resealable opening or a smaller size. **This could result in more repeat purchase as well as new custom** (1), pushing the sales curve back up before it declines.
+
+**The chain, broken out**
+1. **An extension strategy** — one of the recognised ones (packaging, new markets, new uses, updated features, relaunch, new promotion, price cut).
+2. **How it is done specifically** — the detail that shows it is a real strategy.
+3. **Sales recover** — repeat purchase, new customers, or a later decline.
+
+**A second acceptable route** *(constructed — the most reliable alternative)*
+**Sell into a new market** → the product is launched in another country where it is not yet known → **sales rise again from customers who have never seen it**.
+
+**A third** *(constructed)* — **find a new use for the product** → customers who already own it buy it for a second purpose → **existing customers spend more**.
+
+> ⚠️ **The instruction is "extend", not "increase".** *"Cut the price"* or *"advertise more"* on its own describes ordinary promotion, not extension. **Extension strategies are the ones that reset the product's position once it has matured** — new markets, new uses, new packaging, updated features, rebranding.
+> ⭐ **The same topic appeared as a 2-mark Outline in May 2023 P1R** — *"Outline one way Aude Rose could extend the product life cycle of one of its products."* The 2-mark version needs **one** link; the 3-mark version needs **two**. **Do not spend 3-mark effort on a 2-mark question.**
+
+---
+
+## 58. Continually introducing **new products** — one benefit
+
+**Asked:** *"Explain one benefit to a business of continually introducing new products."* — May/June 2020 P2R · *"Explain one reason why businesses continually design new products."* — May 2023 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A business introduces new products **to keep customers interested in the business and in the products it sells** (1) — attention moves to whatever is new. **It can replace an old product with a new one** (1) as the old one reaches the end of its life, so the business always has something current on the shelf. **This keeps it up with trends in the market** (1), so customers do not drift to a competitor who looks more modern.
+
+**The chain, broken out**
+1. **Customers stay interested** — the immediate benefit.
+2. **Old products are replaced** — the business maintains its range rather than watching it age.
+3. **The business keeps up with trends** — consequence: retained customers, protected sales.
+
+**A second acceptable route** *(scheme, May 2023 P2)*
+**Designing new products keeps existing customers interested** (1) → **they will visit the store to see and purchase the new goods** (1) → **increasing profit for the business** (1).
+
+**A third acceptable route** *(scheme, May 2023 P2)*
+**Fashions constantly change** (1) → **if the business does not introduce new products, demand for its existing ones decreases** (1).
+
+> ⭐ **The strongest version of this answer is the "or else" version** — the scheme's third route is written as a **counterfactual**, and it is the most persuasive shape: *fashions change; if we stand still, demand falls.* Use it when you want the third sentence to land hard.
+
+---
+
+## 59. The **Boston Matrix** — one benefit
+
+**Asked:** *"Explain one benefit to a business of using the Boston Matrix."* — May/June 2022 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The Boston Matrix helps a business to **balance its product portfolio** (1) — it shows the whole range on one chart rather than looking at products one at a time. **It shows whether the business has too many similar products** (1) all in the same position, which is a risk if that market turns. **And it can lead the business to identify when it needs to introduce a new product** (1), so it is not left with nothing as its current products age.
+
+**The chain, broken out**
+1. **See the whole portfolio at once** — the tool's function.
+2. **Spot the imbalance** — too many of one kind, or nothing in the growth corner.
+3. **Take a portfolio decision** — introduce, invest in, or drop a product.
+
+**A second acceptable route** *(constructed — the classic decision route)*
+The Matrix shows which products are **cash cows** → those can fund the ones that need investment → **the business knows where to spend its money instead of guessing**.
+
+**The four quadrants you may name** *(they will not score on their own — they must be turned into a consequence)*
+| | High market growth | Low market growth |
 |---|---|---|
-| **1** | Newest 3-mark topics — June 2026 (11) + Nov 2025 (5) | ✅ 16 entries |
-| **2** | **3.1 Business activity + 3.2 structure/HR cluster** | ✅ **33 entries** |
-| **3** | 3.3 Marketing — the remaining promotion, research and product topics | ⬜ next |
-| **4** | 3.4 Operations + 3.5 Finance | ⬜ |
-| **5–6** | 6-mark Analyse chains | ⬜ |
-| **7–8** | 9-mark Justify option pairs | ⬜ |
-| **9** | 12-mark Evaluate topics | ⬜ |
+| **High market share** | **Star** | **Cash cow** |
+| **Low market share** | **Question mark** | **Dog** |
 
-### ⭐ PROGRESS — counted, not estimated
+> 🚨 **Naming a quadrant scores nothing.** *"A dog is a product with low market share in a low-growth market"* is a definition, and it earns **0**. **The benefit is always about the DECISION the matrix allows** — which products to keep, which to invest in, which to withdraw from, and whether the range as a whole is balanced.
 
-```
-3-mark Explain:  61 of 111 covered   ·   50 remaining
-Layer C total:   61 of 262 covered   ·  201 remaining
-```
+---
 
-> **How this is counted.** A script matches the 111 three-mark stems in `4BS1_Question_Instances.csv` against the topics covered in this file, and reports the difference. It is deliberately conservative — it matches on phrasing, so a topic covered under slightly different wording may still count as remaining. **Where the script and the prose disagree, the script is right.**
-> ⚠️ The reason this matters: the previous hand-written status line in this very file said *"49 of 111 done, 62 to go"*. **The script says 61 and 50.** A hand-tallied total drifted again within one turn — which is rule 118 in practice.
+## 60. **Product trials** — why they are important
+
+**Asked:** *"Explain one reason why product trials are important to a business."* — May/June 2022 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A trial **gains customer feedback on a new product** (1) before the business commits to a full launch. **It identifies the strengths and weaknesses of the product** (1) — what people liked and what they complained about. **These can then be addressed before the product goes into the wider market** (1), so the faults are fixed while they are still cheap to fix.
+
+**The chain, broken out**
+1. **Feedback is collected** — the purpose of a trial.
+2. **Strengths and faults are identified** — what the feedback reveals.
+3. **Corrections happen before the full launch** — the financial consequence: money is not wasted producing a flawed product at scale.
+
+**A second acceptable route** *(scheme, same question)*
+**A customer is offered a three-month trial of the games** (1) → **they find out whether they like them** (1) → **if they do, they may buy the console** (1) — a trial that leads to a purchase.
+
+> ⚠️ **Trial vs test marketing — keep these apart.** A **product trial** is the customer using the product (a sample, a short free use, a taste). **Test marketing** is the business launching in one restricted area to see how the whole marketing mix performs. Both reduce risk; only test marketing is about *a region*. If the question says **trial**, write about the **customer using the product**.
+
+---
+
+## 61. **Test marketing** — one benefit
+
+**Asked:** *"Explain one benefit for a business that uses test marketing."* — May 2023 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **The risk of failure is reduced** (1) — the business does not commit to a national launch on a hunch. **This is because the new product is only tested in one area, gaining feedback from customers** (1) there. **This leads to modifications being made before the final launch** (1), so the faults are found while the cost of fixing them is still small.
+
+**The chain, broken out**
+1. **Risk is reduced** — the benefit.
+2. **Because only one area is used and feedback comes back** — the mechanism.
+3. **Changes are made before the full launch** — the consequence.
+
+**A second acceptable route** *(constructed)*
+**It tests the whole marketing mix, not just the product** → the business finds out whether the price, the promotion and the packaging work together → **it can change any of them before a national launch**, when it is still cheap.
+
+> ⭐ **Test marketing and product trials are close cousins, and this is the cleanest way to tell them apart:** a **trial** puts the *product* in a customer's hands; **test marketing** puts the *whole mix* into a *small market* and measures how it sells. Use the word "area" for test marketing.
+
+---
+
+## 62. **Product orientation** — one disadvantage
+
+**Asked:** *"Explain one disadvantage to a business of product orientation."* — May 2023 P1R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> With a product-oriented approach **the product may not suit the needs of the customer** (1) — the business has designed what it thinks is good rather than what customers asked for. **So potential customers may go elsewhere** (1) to a business that does offer what they want. **This results in the business losing sales** (1), and the more it has invested in the product, the more it loses.
+
+**The chain, broken out**
+1. **The product does not match customer needs** — the fault in the orientation itself.
+2. **Customers go elsewhere** — the behavioural consequence.
+3. **Lost sales** — the commercial consequence.
+
+**A second acceptable route** *(constructed)*
+**The business may miss a change in the market entirely** → rivals spot a new trend first because they are watching customers → **the product becomes outdated while it is still being improved**.
+
+> ⚠️ **Product orientation vs market orientation — this distinction is the whole question.**
+> **Product orientation** = *"we will make the best product we can, and customers will buy it"* — the business leads, the customer follows.
+> **Market orientation** = *"we will research what customers want, then make it"* — the customer leads.
+> **A product-oriented business is not automatically wrong** — it can produce genuine innovation — **but its disadvantage is always some version of the same thing: it is building for itself, not for the customer.** Name the mismatch in sentence one, and the lost sale in sentence three.
+
+---
+
+# 3.3.2 — PRICE
+
+## 63. **Penetration pricing** — one way it can be used / one benefit
+
+**Asked:** *"Explain one way a business can use penetration pricing."* — May/June 2019 P1R · *"Explain one benefit of using penetration pricing for a new product."* — May/June 2020 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A business can **offer a low price for a new product** (1) when it first enters the market. **This will entice customers to try the new product in its introduction stage** (1) — people will take a chance on something cheap even if they have never heard of it. **And it stops them from buying from the competitors** (1), so the business gains its market foothold at the rival's expense.
+
+**The chain, broken out**
+1. **Set a low price at launch** — the strategy itself.
+2. **Customers try the new product** — because the risk of trying is low.
+3. **Competitors lose those customers / the business gets established** — the commercial consequence.
+
+**A second acceptable route** *(scheme, May/June 2020 P2R)*
+**The business prices below its competitors** (1) → **in order to get established in the market** (1) → **once customers are buying, the price may be increased** (1).
+
+> 🚨 **DO NOT CONFUSE THE TWO PRICING STRATEGIES — this is a 1-mark multiple-choice favourite.**
+> | | **Penetration pricing** | **Price skimming** |
+> |---|---|---|
+> | Price at launch | **LOW** | **HIGH** |
+> | Why | to grab market share quickly, and to undercut rivals | to earn high revenue from early adopters who must have it |
+> | Then | price **rises** once established | price **falls** as competitors enter |
+> The **1-mark** questions name one and ask for the other's meaning: *"Which one of the following is the name of a pricing strategy where a business sets a **high** price for a new product in the market?"* — answer **price skimming**. **Recheck which one the question is asking before you write.**
+
+---
+
+# 3.3.2 — PROMOTION
+
+## 64. **Above-the-line** promotion — one method
+
+**Asked:** *"Explain one method of above the line promotion a business could use."* — May/June 2019 P1 · *"Explain one method of above the line promotion a business may use to increase its sales revenue."* — Nov 2024 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A business could use **television advertising** (1) — a classic above-the-line channel that reaches a mass audience at once. **This can be seen by large numbers of people, raising awareness of the product** (1) among customers who had never heard of it. **This results in an increase in sales for the business** (1), because awareness is the first thing that has to exist before anyone can buy.
+
+**The chain, broken out**
+1. **Name the medium** — television, radio, newspapers, magazines, cinema, outdoor/billboards.
+2. **It reaches a lot of people → awareness rises** — what the medium does.
+3. **Awareness converts into sales** — the commercial consequence.
+
+**A second acceptable route** *(scheme, Nov 2024 P1)*
+**A business could use billboards** (1) → **they are seen by many people as they drive or walk through busy areas** (1) → **leading to increased brand recognition of the products** (1).
+
+**A third** *(scheme, Nov 2024 P1)*
+**Television advertising** (1) → **viewed by a wide audience** (1) → **increased awareness of the product** (1).
+
+**Which media are above the line:** television · radio · newspapers · magazines · cinema · outdoor (billboards, bus sides) · **increasingly, paid digital display**. **The test: the business pays a media owner to broadcast to a general audience.**
+
+> ⚠️ **`NB No marks are awarded for a definition`** (Nov 2024 P1, on this question). *"Above-the-line promotion is advertising in the media"* scores **0**.
+> 🚨 **THE ONE-LINK ERROR TO AVOID.** *"A business can use television advertising (1). This is advertising on television (1)."* — that is a **restatement**, not development, and it scores **1**. The second sentence must add something the first did not contain: **who sees it**, and **what changes as a result**.
+
+---
+
+## 65. **Below-the-line** promotion — one method
+
+**Asked:** *"Explain one method of below-the-line promotion a business may use to retain its customers."* — Nov 2023 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> Existing customers may be offered **sales promotions or discounts** (1) — a targeted offer rather than a mass advertisement. **The aim is to entice customers to buy at a lower price** (1), so they have a direct reason to come back now rather than later. **This therefore encourages repeat sales by its customers** (1), which is precisely what "retain" means here.
+
+**The chain, broken out**
+1. **Name the below-the-line method** — discount, coupon, loyalty card, sample, point-of-sale display, personal selling, direct mail, exhibition, competition.
+2. **What it does to the individual customer** — gives them a targeted reason to act.
+3. **Retention / repeat purchase** — the outcome the question asked for.
+
+**A second acceptable route** *(constructed)*
+**A loyalty card that rewards every tenth purchase** → the customer has something to lose by shopping elsewhere → **they keep coming back to build up the reward**.
+
+**A third** *(constructed)* — **free samples in store** → the customer tries the product at no risk → **they buy it afterwards**, and the business has only paid for the sample, not for a national advert.
+
+> ⚠️ **The dividing line, and it is the marks:** **above the line** = paid, mass media, no direct contact, hard to measure. **Below the line** = **targeted at particular customers**, direct, and much easier to measure because you know who received it.
+> ⭐ **Read the tail of the question.** This one says *"to retain its customers"* — so the chain must **end on retention or repeat purchase**. A discount that ends on "more sales this week" answers a different question and leaves the last mark behind.
+
+---
+
+## 66. **Sponsorship** — one reason / one advantage
+
+**Asked:** *"Explain one reason why a business would sponsor an event."* — May/June 2020 P2R · *"Explain one advantage for a business of using sponsorship."* — Nov 2021 P2 · *"Explain one reason why a business might use sponsorship."* — Nov 2024 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> By sponsoring an event **the business will gain publicity** (1) — its name appears alongside the event rather than inside an advert. **The event could be local, national or global** (1), so the business chooses how wide it wants the exposure to be. **This would mean the business covers a wide spectrum of people** (1), and those people associate the name with the event they already care about.
+
+**The chain, broken out**
+1. **Sponsorship buys publicity / brand awareness** — the reason.
+2. **The scale depends on the event chosen** — local, national or global; the business can target its reach.
+3. **The audience is exposed and may buy** — increased awareness leading to revenue or profit.
+
+**A second acceptable route** *(scheme, Nov 2021 P2 and Nov 2024 P2 — almost identical wording)*
+**Brand awareness will be increased** (1) → **this could encourage followers of the event to consider purchasing from the business** (1) → **leading to increased revenue or profits** (1).
+
+**A third** *(scheme, May/June 2020 P2R)*
+**Sponsorship is making a financial contribution to an event** (1) → **this makes more people aware of the business's products** (1) → **this could in turn increase sales** (1).
+
+> ⚠️ **`NB No marks are awarded for a definition`** — Nov 2024 P2 says it on this exact question. But note the tension: **May/June 2020 P2R's own worked answer opens with a definition** *("Sponsorship is making a financial contribution to an event (1)")*. **The safe reading: a definition only counts when it is immediately made operational** — when it says what the sponsorship *buys*. **Definition-then-nothing is what the scheme refuses.**
+> ⭐ **The strongest sponsorship answers name the audience match** — sponsor the local flower show and you reach the people who buy flowers. **That is the one thing a repeat of "it raises awareness" can never do.**
+
+---
+
+## 67. **Targeted advertising online** — one advantage / one reason
+
+**Asked:** *"Explain one advantage for a business of using targeted advertising online."* — May/June 2019 P2R · *"Explain one reason why a business would use targeted advertising online to promote itself."* — May/June 2025 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The business can **send information to customers who have purchased from it before** (1) — the online data tells it who those people are. **Those customers are more likely to purchase again** (1) than a random reader of an advert would be. **This can lead to improved customer loyalty** (1), at a far lower cost per sale than advertising to everyone.
+
+**The chain, broken out**
+1. **The business can select its audience** — by previous purchase, by interest, by demographic, by location.
+2. **The audience is therefore more likely to want it** — the targeting does the work.
+3. **Better conversion — loyalty, awareness or revenue** — the commercial result.
+
+**A second acceptable route** *(scheme, May/June 2019 P2R)*
+**The business can target a wider audience** (1) → **because it is worldwide and available 24/7** (1) → **and it is a relatively cheap method compared with traditional advertising** (1).
+
+**A third** *(scheme, May/June 2025 P2R)*
+**The business could promote to a specific demographic** (1) → **using different online activities** (1) → **which may lead to increased brand awareness** (1).
+
+> ⭐ **"Targeted" is the word that earns the second mark.** The scheme's own answers never just say "more people see it" — they say **the right people** see it: people who bought before, people in one demographic. **Say who is targeted, and why they are the right people.**
+> ⚠️ **And "cheap" needs the comparison.** *"It is cheap"* is weaker than the scheme's *"a relatively cheap method **compared with traditional advertising**"*. The comparison is what makes it an advantage rather than a claim.
+
+---
+
+## 68. **E-newsletters** — one benefit / one way a business could use them
+
+**Asked:** *"Explain one benefit to a business of using e-newsletters."* — May/June 2020 P1R · *"Explain one way a business could use e-newsletters."* — May 2023 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> An e-newsletter **can target the business's existing customers** (1) — it goes only to people who have already given their email address. **This allows the business to introduce new products to them** (1) directly, without paying for an advert that most readers would ignore. **And this can encourage more sales** (1) from customers who already trust the business.
+
+**The chain, broken out**
+1. **It reaches a list the business already owns** — existing customers, by email.
+2. **What it does with them** — introduces new products, offers discounts, gives news.
+3. **A sale, a return visit or loyalty** — the consequence.
+
+**A second acceptable route** *(scheme, May 2023 P1)*
+**E-newsletters can be personalised based on a customer's previous transactions** (1) → **it could include special discounts just for them** (1) → **leading to customers being motivated to return** (1).
+
+> ⭐ **The mechanism to remember: an e-newsletter is the only channel in the syllabus aimed at people who have already opted in.** That is the whole argument — **no wasted reach**, because every recipient has already shown interest. Say that, and the second mark is secure.
+> ⚠️ **`NB No marks are awarded for a definition.`** *"An e-newsletter is a newsletter sent by email"* scores **0**. Say what it **does**.
+
+---
+
+## 69. **Social media** — one way a business can use it
+
+**Asked:** *"Explain one way social media can be used by a business."* — Nov 2021 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A business can use social media to **create a targeted advertising campaign** (1) — the platform's own data selects who sees the post. **The business can send a specific advert to a targeted group** (1) by age, location or interest. **Those people are likely to be interested in the product or service** (1), so the money spent reaches people who might actually buy.
+
+**The chain, broken out**
+1. **Name the use** — advertising, customer service, market research, building a community, launching a product.
+2. **How the platform does it** — targeting, two-way contact, instant reach, free to post.
+3. **What the business gains** — more relevant reach, faster answers, feedback, loyalty.
+
+**A second acceptable route** *(constructed — customer service)*
+**Responding to complaints publicly** → other customers see the business dealing with the problem → **it builds trust rather than losing the sale**.
+
+**A third** *(constructed — market research)*
+**Reading what customers post about the product** → the business learns what people really think without running a survey → **it can change the product quickly**.
+
+> ⚠️ **Do not just say "to advertise".** That would fit almost any channel. **The mark comes from what is distinctive about social media** — it is **two-way** (the business and the customer can both speak), **targeted** by the platform's own data, and often **free to publish, paid only to promote**.
+
+---
+
+## 70. **Public relations** — why good PR is important
+
+**Asked:** *"Explain one reason why having good public relations is important to a business."* — Nov 2021 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> Good public relations means it is **likely to improve the business's brand image** (1) — how the public sees it, rather than what it says about itself. **This could lead to increased sales** (1), because customers prefer to buy from a business they trust. **And therefore to overall profitability** (1).
+
+**The chain, broken out**
+1. **The public's view of the business improves** — image or reputation.
+2. **Customers respond** — they buy, they stay, they recommend.
+3. **Profit or resilience** — and note the second real benefit: **goodwill protects the business when something goes wrong.**
+
+**A second acceptable route** *(constructed — the resilience route, which is stronger)*
+**When a product fails or a mistake is made, the business is given the benefit of the doubt** → customers do not immediately leave → **a crisis does not become a collapse**.
+
+> ⭐ **Public relations is not advertising, and the difference is the marks.** Advertising **buys** attention; public relations **earns** it — through press coverage, charitable work, how the business treats customers and staff, and how it behaves when it is criticised. **If your answer could be rewritten as an advert, it is probably the wrong topic.**
+
+---
+
+# 3.3.3 — CUSTOMER LOYALTY AND REPEAT PURCHASE
+
+## 71. Encouraging **repeat purchase** — one method
+
+**Asked:** *"Explain one method a business could use to encourage repeat purchase of its products."* — May/June 2022 P1R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The business could **issue loyalty cards** (1) — a card that records what the customer has bought. **This could be used to offer special discounts** (1) once a certain number of purchases is reached. **This leads to customers being motivated to return to the business rather than its competitors** (1), because switching now would mean losing the reward they have built up.
+
+**The chain, broken out**
+1. **Name the method** — loyalty card, discount for returning, subscription, free gift, reminder email, high-quality after-sales service.
+2. **The specific feature that rewards returning** — the accumulated discount, the member price, the personalised offer.
+3. **The customer comes back instead of going elsewhere** — and the switching cost is what does it.
+
+**A second acceptable route** *(constructed — quality and service, not a gimmick)*
+**Consistently good quality and customer service** → the customer has no reason to try anyone else → **they return without needing a discount**, so margin is protected.
+
+**A third** *(constructed)* — **an e-newsletter with the customer's own offers** → the business stays in touch between purchases → **the reminder itself brings them back**.
+
+> ⚠️ **Repeat purchase is not the same as loyalty.** A discount buys a **repeat purchase**; a good product earns **loyalty**. If the question says **repeat purchase**, a short-term method is fine and expected. If it says **loyal customers** (entry 72), the answer must be about the relationship, not the discount.
+> 🚩 **The trap:** *"A business can advertise"* is not a method of encouraging repeat purchase — advertising wins **new** customers. **Name something that only works if the customer comes back.**
+
+---
+
+## 72. **Loyal customers** — one advantage
+
+**Asked:** *"Explain one advantage for a business of having loyal customers."* — May/June 2019 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> An advantage will be **repeat custom** (1) — loyal customers come back and buy again. **If customers are loyal they will shop only at that business** (1) rather than comparing prices elsewhere. **This could increase market share or revenue** (1), and it costs the business nothing extra to sell to a customer it already has.
+
+**The chain, broken out**
+1. **They return and buy again** — repeat custom.
+2. **They do not shop around** — competitors are shut out.
+3. **Revenue, market share, or lower cost of selling** — the commercial gain.
+
+**A second acceptable route** *(constructed — the cost argument, which is the strongest)*
+**Winning a new customer costs money in advertising, while selling to an existing one does not** → the same revenue is earned at a lower marketing cost → **profit rises without sales having to rise**.
+
+**A third** *(constructed — the referral route)*
+**Loyal customers recommend the business to others** → new customers arrive without being advertised to → **the business grows without paying for that growth**.
+
+> ⭐ **This topic has a 1-mark State twin, and it is a different question.** *"State one advantage for PPS of keeping its customers loyal"* (May/June 2024 P1) · *"State one possible reason why TUI would want to keep its customers loyal"* (May/June 2024 P2) · *"State one possible reason why Huawei would want to keep its customers loyal to its brand"* (Nov 2021 P2).
+> **On State, one reference to the business is enough and no reasoning is needed. On Explain, you need the two steps.** Do not write three sentences for a one-mark State question.
+
+---
+
+---

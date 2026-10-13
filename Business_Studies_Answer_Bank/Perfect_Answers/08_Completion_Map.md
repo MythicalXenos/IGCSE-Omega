@@ -158,44 +158,65 @@ Priority order:
 
 ## ORDER OF WORK
 
-### 🔎 SCOPE CORRECTED — Layer C is **262 items**, not ~382
+### 🚨 SCOPE CORRECTED TWICE — and the second correction is the one that matters
 
-Measured from `4BS1_Question_Instances.csv`, not estimated:
+**First correction (withdrawn):** the scope was moved from ~382 down to **262**, on the reasoning that the 1- and 2-mark types need no models because for those the mark scheme *is* the perfect answer. **That reasoning was sound. The measurement underneath it was not.**
 
-| Tariff | Instances | Distinct framings |
+**Second correction — the measuring instrument was broken.** The 262 was counted from `4BS1_Question_Instances.csv`, which was itself built by extracting text from the question papers. **That extraction is column-scrambled and silently loses whole question parts.** Read against the mark schemes instead:
+
+| Tariff | CSV says | Mark schemes say | Status |
+|---|---|---|---|
+| **3-mark Explain** | 111 | **151** | ✅ **verified — exactly 4 per paper × 38** |
+| 6-mark Analyse | 86 | *not yet derived* | ⚠️ unreliable |
+| 9-mark Justify | 48 | *not yet derived* | ⚠️ **proven too low** |
+| 12-mark Evaluate | 17 | *not yet derived* | ⚠️ unverified |
+
+**So "262 governed items" is withdrawn as a total.** It is a **sum of four unreliable inputs**, and one of its four inputs is now known to be wrong by 40. **No total is asserted in this bank until the 6-, 9- and 12-mark tariffs are re-derived the same verified way.**
+
+**Why 48 nines is provably wrong:** the mark schemes print **two** 9-mark Justify questions on the P1-family papers, not one. Checked by hand on **Nov 2024 P1** — Justify at **2(f)** (*crowdfunding vs loan capital*) and a second at **3(e)** (*price skimming vs cost plus pricing*).
+
+**The fix is durable, not a one-off.** `build_layer_c_3mark.py` re-reads the 38 mark schemes from the archive on every run and regenerates the inventory, **so a sandbox re-seed can no longer lose the finding.**
+
+### ⭐ THE KEY STRUCTURAL FINDING FOR LAYER C — this part stands
+
+**There are only about twenty distinct framings in the whole qualification.** Every governed question is a **framing wrapped around a topic**.
+
+| Tariff | Distinct framings | What varies |
 |---|---|---|
-| 3-mark Explain | **111** | **8** |
-| 6-mark Analyse | **86** | ~6 |
-| 9-mark Justify | **48** | **1** — *"justify which one of these two options…"* |
-| 12-mark Evaluate | **17** | ~5 |
-| **TOTAL** | **262** across **38 papers**, **12 sessions** | ~20 |
+| 3-mark Explain | **8** | the topic |
+| 6-mark Analyse | **~6** | the topic and the framing |
+| 9-mark Justify | **1** — *"justify which one of these two options…"* | the **option pair** |
+| 12-mark Evaluate | **~5** | the topic |
 
-The old ~382 figure had counted the 2-mark and 1-mark types in, and **those need no models at all** — for those the mark scheme *is* the perfect answer.
-
-### ⭐ THE KEY STRUCTURAL FINDING FOR LAYER C
-
-**There are only about twenty distinct framings in the whole qualification.** Every one of the 262 items is a **framing wrapped around a topic**.
-
-So the correct response is **not 262 separate essays** — that would repeat the same chains dozens of times. It is:
+So the correct response is **not one essay per question** — that would repeat the same chains dozens of times. It is:
 
 | Layer | File | Covers |
 |---|---|---|
 | **The framings** | `01_Mark_Tariff_Playbook.md` + `00_Pearson_Official_Rulebook.md` | ✅ already complete |
-| **The topics** | **`10_Chain_Bank.md`** (NEW) | the causal chains that earn the marks, one entry per topic |
+| **The topics** | **`10_Chain_Bank.md`** | the causal chains that earn the marks, one entry per topic |
 
-**A topic done once covers every paper it has appeared on — and every paper it will appear on next.**
+**A topic done once covers every paper it has appeared on — and every paper it will appear on next.** That is what makes a corrected total of 151 blocks tractable rather than alarming: they are **97 distinct topics**, not 151 answers.
 
-### Progress
+### Progress — 3-mark Explain
 
 | Batch | Content | Status |
 |---|---|---|
-| **1** | Newest 3-mark topics — June 2026 (11) + Nov 2025 (5) | ✅ **done — 16 answers** |
-| 2–3 | Historical 3-mark topics by spec section | ⬜ |
-| 4 | 6-mark Analyse chains | ⬜ |
-| 5–6 | 9-mark Justify option pairs | ⬜ |
-| 7 | 12-mark Evaluate topics | ⬜ |
+| **1** | Newest 3-mark topics — June 2026 + Nov 2025 | ✅ **16 entries** |
+| **2** | 3.1 Business activity + 3.2 structure/HR cluster | ✅ **33 entries** |
+| **3** | 3.3 Marketing | ✅ **23 entries (50–72)** |
+| **4** | 3.4 Operations + 3.5 Finance + measuring success | ⬜ next |
+| **5–6** | 6-mark Analyse chains | ⬜ |
+| **7–8** | 9-mark Justify option pairs | ⬜ |
+| **9** | 12-mark Evaluate topics | ⬜ |
 
-**Remaining: 246 of 262 governed items.**
+```
+3-mark blocks total     :  151
+canonical topics        :   97
+covered by entries 1-72 :   69 topics  ·  112 blocks
+REMAINING               :   28 topics  ·   39 blocks
+```
+
+> **Reverify any time with** `python3 layer_c_coverage.py` (from `Business_Studies_Answer_Bank/`). It reads `layer_c_3mark_master.csv` and prints these numbers. **Never re-type them.**
 
 ---
 
