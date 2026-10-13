@@ -44,6 +44,38 @@ LABELS = {3: ["1(f)", "2(c)", "2(d)", "2(e)"],
           12: ["4(c)"]}
 
 
+# Headings that introduce a question stem. P1 papers print "Question Number";
+# P2 papers print "Q. No." -- using only the first is why 18 P2 blocks came out
+# with no question wording at all.
+HDR_MARK = re.compile(r"Question Number|Q\.\s*No\.")
+# The label plus its AO allocation, stripped off the front of a stem candidate.
+LABEL_TAIL = re.compile(
+    r"^\s*\d+\s*\([a-z]\)\s*(?:\([ivx]+\))?\s*"
+    r"(?:A[O0][1-4]\s*[^A-Za-z0-9]{0,4}\s*\d+\s*marks?\s*)?")
+# Column headings that sit between the stem and the label.
+STOP_TAIL = re.compile(
+    r"\s*(?:Indicative content Mark|Answer Additional guidance Mark"
+    r"|Answer Mark|Answer\s+Mark|Mark)\s*$")
+
+
+def _stem_start(raw: str, pos: int, window: int = 2500) -> int:
+    """Find where this part's question stem begins.
+
+    Walk BACKWARDS through every heading in a wide window and accept the nearest
+    one that actually carries stem text. A heading followed straight by a column
+    label ("Question Number Indicative content Mark 1 (g) ...") carries no stem
+    and is a false lead -- accepting it is what produced blank stems.
+    """
+    lo = max(0, pos - window)
+    back = raw[lo:pos]
+    for m in reversed(list(HDR_MARK.finditer(back))):
+        seg = STOP_TAIL.sub("", back[m.end():]).strip()
+        seg = LABEL_TAIL.sub("", seg).strip()
+        if len(seg) > 15:
+            return lo + m.start()
+    return pos
+
+
 def blocks_for(pdf: pathlib.Path, tier: int) -> list[tuple[str, str]]:
     import pypdf
     raw = repair(re.sub(r"\s+", " ", "".join(
@@ -75,23 +107,14 @@ def blocks_for(pdf: pathlib.Path, tier: int) -> list[tuple[str, str]]:
             continue                      # first printing of a part wins
         seen.add(key)
         end = spans[i + 1][0] if i + 1 < len(spans) else len(raw)
-        # Pull the block's OWN question stem in from the front. In the mark
-        # scheme table the stem sits immediately before the part label, so
-        # cutting at the label alone leaves every question text stranded at the
-        # tail of the PREVIOUS block -- and the question wording is exactly what
-        # an entry needs. Back up to the nearest "Question Number" heading.
-        head = pos
-        back = raw[max(0, pos - 600):pos]
-        for marker in ("Question Number", "Indicative content Mark"):
-            cut = back.rfind(marker)
-            if cut != -1:
-                head = min(head, max(0, pos - 600) + cut)
+        head = _stem_start(raw, pos)
         body = raw[head:end].strip()
         # The tail is the NEXT question's stem, because that stem sits between
         # this block's content and the next part label. Drop it -- the next
         # block carries it as its own head, so keeping it here just duplicates it.
-        tail = body.rfind("Question Number")
-        if tail > len(body) - 200:
+        tail = max((m.start() for m in HDR_MARK.finditer(body) if m.start() > len(body) - 200),
+                   default=-1)
+        if tail != -1:
             body = body[:tail].strip()
         out.append((f"{session} | {paper} | {key}", body))
     return out

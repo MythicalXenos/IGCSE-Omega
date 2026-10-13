@@ -37,6 +37,15 @@ Across 38 papers the qualification asks **governed** questions — anything need
 | **12-mark Evaluate** | **38** | ✅ **derived — 4(c), 1 per paper** |
 | **TOTAL GOVERNED** | **380** | ✅ 152 + 114 + 76 + 38 |
 
+**Progress against those 380 blocks:**
+
+| Tier | Blocks | Written | Remaining |
+|---|---|---|---|
+| 3-mark Explain | 152 | ✅ **152** | 0 |
+| **6-mark Analyse** | **114** | **12** | **102** |
+| 9-mark Justify | 76 | 0 | 76 |
+| 12-mark Evaluate | 38 | 0 | 38 |
+
 > **How those four numbers were obtained, and why they can be trusted.** `build_layer_c_tariffs.py` reads the same 38 mark schemes, reconstructs every question part from its printed AO allocation, and then **checks its own work: a 4BS1 paper is worth 80 marks, and all 38 papers now sum to exactly 80.** The question labels are *invariant* — all 38 papers carry 1(f), 2(c), 2(d) and 2(e) at 3 marks, 1(g), 3(d) and 4(b) at 6 marks, 2(f) and 3(e) at 9 marks, and 4(c) at 12. Run `python3 build_layer_c_tariffs.py` to reproduce; it writes `layer_c_6_9_12_master.csv`.
 >
 > **These supersede the CSV's 86 / 48 / 17**, which came from question-paper text extraction. They also settle an earlier open question: the 9-mark count is not merely ≥2 on P1-family papers — **every one of the 38 papers has exactly two 9-mark Justify questions.**
@@ -82,11 +91,14 @@ Every entry gives you:
 | **2** | **3.1 Business activity + 3.2 structure/HR cluster** | ✅ **33 entries** |
 | **3** | **3.3 Marketing** | ✅ **23 entries (50–72)** |
 | **4** | **3.4 Operations + 3.5 Finance + the last stragglers** | ✅ **28 entries (73–100)** |
-| **5–6** | 6-mark Analyse chains | ⬜ next |
-| **7–8** | 9-mark Justify option pairs | ⬜ |
-| **9** | 12-mark Evaluate topics | ⬜ |
+| **5a** | **6-mark Analyse — June 2026, all four papers** | ✅ **12 entries (101–112)** |
+| **5b–6** | 6-mark Analyse — the remaining **102 blocks** | ⬜ next |
+| **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
+| **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
-> ✅ **THE 3-MARK BANK IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
+> ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
+>
+> 🔄 **THE 6-MARK TIER IS NOW OPEN — entries 101 onward.** It is a bigger job than the 3-mark tier was, and for a reason worth understanding: **the 3-mark tier repeats its topics constantly** (152 blocks collapsed into 97 topics), but **the 6-mark tier mostly does not** — June 2026's twelve 6-mark questions are twelve different topics. The tier holds **114 blocks**; where a topic does repeat it is called out and one entry answers every instance of it — entry **108 (multinational)** already covers four papers, and entry **111 (induction)** covers three.
 
 ### 🚨 SCOPE CORRECTION — **152** three-mark blocks, not 111
 
@@ -2048,5 +2060,294 @@ REMAINING                     :    0 topics  ·    0 blocks
 > ⚠️ **What this does NOT mean.** It does not mean there is a verified full-mark script for every one of these questions — Pearson has published scripts for only a fraction of them, and those are held in `02_Verified_Exemplars.md` and `External_Exemplars/`. **For almost every entry above, the model is the mark scheme's own worked answer** — official, but not a candidate's script. **The labelling rules at the top of this file apply to all of it.**
 > ✅ **The 152nd block.** The count was 151 until this was traced to a single dropped mark-scheme block: **May–June 2021 P1 1(f)**, *"identification of a strategy of extending a product life cycle"*, whose PDF prints its header character-fragmented as `A0 1 - 3 mark s` and so defeated the extractor. It is now recovered and its topic — **PRODUCT LIFE CYCLE extension** — was **already carried** by entry 57. **So the topic count is unchanged at 97 and no new entry was needed; only the block count corrected.**
 > ✅ **The 6-, 9- and 12-mark totals are now derived** (see the table at the top of this file): **114 · 76 · 38**, validated by all 38 papers summing to exactly 80 marks. **The scope of Batches 5–9 is therefore 228 blocks**, and no figure in this file is carried over from the CSV (rule 120).
+
+---
+
+# BATCH 5 — 6-MARK ANALYSE, PART 1
+
+**12 entries — every 6-mark Analyse question in June 2026, across all four papers.** June 2026 is the most recent series and the one the bank had least on, and its twelve questions are twelve *different* topics, so this batch adds twelve topics rather than deepening existing ones.
+
+> ### ⭐ THE ONE RULE FOR EVERY 6-MARK ANSWER
+> **One point, developed in strands. The examiners said it themselves on the only 6/6 in the archive whose comment is printed:**
+>
+> *"The candidate has provided **1 point with developed strands**, analysing the effectiveness of the wide span of control. There is **application throughout their response**. Candidates are reminded that **there are no marks for knowledge in this question**."* (June 2025 P1, Q1(g), Four Fitness — 6/6)
+>
+> **Depth beats breadth.** Two separate reasons each developed once scored **5/6** on Rabanne 2(d) in the same session. **Take one point and keep asking "and then what?" until you reach something measurable.**
+>
+> ### WHAT THE MARK SCHEME GIVES YOU
+> Every block below carries the scheme's own **AO2** bullets (application — facts you must take from the case) and **AO3** bullets (the chains). **The AO2 line is where candidates lose the most marks**: the scheme's second AO2 bullet is almost always the case-specific detail — *"as the partners had dropped out of college and had to work from a garage, it is likely they had few funds"* — and a generic answer cannot access it.
+>
+> **Labels:** the model answers in this batch are `[CONSTRUCTED GRADE 9 TARGET]` — **not** examiner-marked. The **AO2 anchors and the chains they use are quoted from the official mark scheme**, which is why each entry prints them.
+
+---
+
+## 101. SPONSORSHIP — the disadvantages
+
+**Asked:** *"Analyse the disadvantages for Spud Bros of using sponsorship."* — **June 2026 P1R, 1(g)**
+
+**The AO2 anchors the scheme wants:** Spud Bros sponsor an **English Football League club** — so customers will associate the brand with that club; and the sponsorship fee will be **expensive** for a small family business.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Spud Bros would pay to sponsor an English Football League club, and **the fee is fixed for the season whatever happens on the pitch**. Because customers link the brand to the club, **bad results or a player's poor behaviour attach themselves to Spud Bros' image too** — the association is the whole point of sponsoring, but it works in both directions. Supporters of rival clubs may then avoid the brand for that reason alone. **And because the fee must be paid up front, a small family business has to recover it**, which pressures the brothers towards a higher price for a portion of potatoes — and **a higher price means fewer customers are willing to buy**, which is the opposite of what the sponsorship was meant to achieve.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Sponsorship **ties the brand to the club** — and it is expensive |
+| **2. Strand A** | Poor results / a player's bad behaviour → the damage **transfers to Spud Bros' image** |
+| **3. Strand B** | The fee is **fixed and paid up front** → it must be recovered through price |
+| **4. Measurable end** | A higher price → **fewer customers buying** |
+
+**Second acceptable chain:** the cost of the sponsorship → **less cash left for the vans, staff or new products** → slower growth than the brothers planned → goals missed.
+
+> ⚠️ **Do not write "sponsorship costs money",** which is knowledge and earns nothing (AO2/AO3 only — there is no AO1 mark here). Write **why the cost bites for a small family business**, and **what the association does to a brand when the team loses**.
+
+---
+
+## 102. VIRAL ADVERTISING — the advantages
+
+**Asked:** *"Analyse the advantages for Spud Bros of using viral advertising."* — **June 2026 P1R, 3(d)**
+
+**The AO2 anchors:** Spud Bros is a **small family-owned business**, so it can reach a **wide audience**; and Jacob and Harley can **minimise the cost of marketing** because posting on sites such as **Instagram is free**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Viral advertising costs Spud Bros almost nothing to place, because **Jacob and Harley can post on Instagram for free rather than paying for airtime or billboard space** — which matters to a small family-owned business with limited funds. **The same post can then be seen by people the brothers could never have reached locally**, because a share carries the brand beyond their own followers. **That reach widens brand awareness far faster than paid advertising would**, and because the audience is not limited to their city, it opens up new locations. **The measurable end is speed of growth:** the brothers can expand to meet their own business goals sooner, because **demand can arrive from outside the area** before they have paid for a single poster.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Viral advertising is **free to place** — the platform carries the cost |
+| **2. Strand A** | A share carries it **beyond local followers** → wider brand awareness |
+| **3. Strand B** | The audience is not limited to their city → **new markets open up** |
+| **4. Measurable end** | **Faster expansion**, because demand arrives before paid marketing is needed |
+
+**Second acceptable chain:** free reach → **marketing budget preserved** → those funds go into **more vans or better equipment** → capacity to serve the new demand.
+
+> ⭐ **The strongest version of this answer always returns to "small family-owned business".** Free reach matters *because* the budget is thin. Drop that and you have lost the AO2.
+
+---
+
+## 103. GROWTH — the benefits for the owners
+
+**Asked:** *"Analyse the benefits of growth for the owners of Spud Bros."* — **June 2026 P1R, 4(b)**
+
+**The AO2 anchors:** more potato vans located in the **UK** selling more potatoes; **expanding into the US and Canada** will increase brand awareness.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> As Spud Bros puts more vans on the road and expands into the US and Canada, **the volume of potatoes it buys and sells rises**. **Higher volume lets the brothers buy their potatoes in bulk at a lower price per sack**, so each portion costs less to make while still selling at the same price. **That is the economies-of-scale benefit of growth, and it is what raises the profit on every van, not just the total.** **The measurable end is what it does for the owners personally:** more profit per portion means the business can fund further expansion from its own earnings, and the brothers **meet the growth goals they set for the business** — which is the point of expanding into two new countries in the first place.
+
+| Step | The move |
+|---|---|
+| **1. Point** | More vans + two new countries → **higher volume** |
+| **2. Strand A** | Higher volume → **bulk buying → lower cost per portion** |
+| **3. Strand B** | Lower unit cost → **more profit on every sale, not just more sales** |
+| **4. Measurable end** | Owner's goals met → **self-funded further expansion / financial stability** |
+
+**Second acceptable chain:** brand awareness rises in the US and Canada → **new customers try the product** → revenue rises **without** the brothers having to be physically present, because the brand travels ahead of them.
+
+> ⚠️ **"Growth is good for owners" scores nothing.** The mark is for the **mechanism** — volume → unit cost → margin — and then for linking it to **the owners' own goals**.
+
+---
+
+## 104. CURRICULUM VITAE — why a business asks for one
+
+**Asked:** *"Analyse why Violet Cakes may request a curriculum vitae (CV) from job applicants."* — **June 2026 P1, 1(g)**
+
+**The AO2 anchors:** Violet Cakes can assess whether recruits have **worked in the food industry before**; and a CV can be used to **shortlist** candidates with **experience of baking cakes**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A CV sets out an applicant's history in writing, so **Violet Cakes can see at a glance whether someone has worked in the food industry before**. **That matters in a cafe, where the work is hands-on and a mistake is expensive** — you cannot teach someone to handle a commercial kitchen in an interview. **Because the CV shows experience of baking cakes, Claire can shortlist only the candidates who are likely to cope with a real cafe environment and with customers.** **The measurable end is what it saves:** by filtering at the CV stage, Violet Cakes avoids **paying staff time to interview people who turn out not to have the required skills**, and that time and money goes back into running the cafe.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A CV shows **written evidence of food-industry experience** |
+| **2. Strand A** | Food-industry history → **shortlist candidates who can cope in a cafe** |
+| **3. Strand B** | Fitting the environment → **less risk of a bad hire in a hands-on job** |
+| **4. Measurable end** | **Time and money saved** on interviewing unsuitable candidates |
+
+**Second acceptable chain:** the CV reveals experience of **dealing with customers** → the candidate needs **less training** → Violet Cakes gets productive staff **sooner** during a busy period.
+
+> ⭐ **The generic route — "a CV tells you about the candidate" — is the trap.** The scheme's two AO2 bullets both point at **the food industry and cake baking**, and those are the details that earn the application marks.
+
+---
+
+## 105. FOCUS GROUPS — the advantages when making decisions
+
+**Asked:** *"Analyse the advantages to Violet Cakes of using focus groups when making decisions."* — **June 2026 P1, 3(d)**
+
+**The AO2 anchors:** Violet Cakes can **gather opinions about the customer service in the cafe** from the people selected; and it could **give the group different flavours of cookies and ask for their feedback**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A focus group puts a small number of selected customers in a room together, so **Violet Cakes can gather opinions about its customer service directly from the people who have experienced it**. **Because they can also hand out different flavours of cookies and ask the group for their reactions there and then**, the feedback arrives while the product is still in front of them rather than weeks later. **People are more willing to be honest in that setting than in a formal survey** — one comment prompts another, and the discussion goes deeper than a tick-box answer would. **The measurable end is the product and the service:** the honest feedback lets Violet Cakes **change the flavour of its cookies and improve its level of service**, which attracts more customers in the first place.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A focus group gathers **opinions from selected customers who have used the service** |
+| **2. Strand A** | Products handed round **there and then** → feedback arrives immediately |
+| **3. Strand B** | Discussion prompts discussion → **honest, deeper feedback than a survey** |
+| **4. Measurable end** | **Flavour or service changed** → more customers attracted |
+
+**Second acceptable chain:** hearing the customer's own words → **Violet Cakes learns what customers value that it had not thought of** → the next decision is **based on a real reaction, not an assumption** → less wasted spend on the wrong change.
+
+> ⭐ **Focus groups are qualitative — depth, not numbers.** If your answer mentions "a large sample" or "statistical validity" you have written about **questionnaires**, which is a different question with a different answer.
+
+---
+
+## 106. JOB PRODUCTION — the benefits
+
+**Asked:** *"Analyse the benefits to Violet Cakes of using job production for some of its products."* — **June 2026 P1, 4(b)**
+
+**The AO2 anchors:** Violet Cakes can make **wedding cakes specific to the requirements of its customers**; and the **chefs may be motivated by working on unique cake designs** for special occasions.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Job production means each item is made to order, and **that is exactly what a wedding cake demands — a cake built to one customer's specification, not a batch of identical sponges**. **Because no two are the same, Violet Cakes can charge for the workmanship and the customer has no direct comparison to shop against**, which supports a much higher price than a mass-produced cake could carry. **The measurable end is on both sides of the business at once:** customers are satisfied enough to **recommend the cakes to others**, giving Violet Cakes a stream of orders it did not have to advertise for; and **the chefs enjoy making unique designs, so they stay rather than moving to a competitor** — which means Claire keeps the skilled staff the business depends on.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Job production = **each cake made to one customer's specification** |
+| **2. Strand A** | Unique work → **no direct comparison → higher price achievable** |
+| **3. Strand B** | Different every time → **chefs motivated → skilled staff retained** |
+| **4. Measurable end** | **Recommendations bring orders** + **staff turnover avoided** |
+
+**Second acceptable chain:** bespoke cakes → **waste lower than batch production**, because nothing is made until it is ordered → cost per cake falls **without** cutting quality.
+
+> ⚠️ **Job production and batch production are different answers.** The scheme marks *bespoke, one-off, made to order*. If your chains would also be true of batch production, you have not answered this question.
+
+---
+
+## 107. PARTNERSHIP — the advantages of starting out as one
+
+**Asked:** *"Analyse the advantages for Steve Jobs and Steve Wozniak of starting the business as a partnership."* — **June 2026 P2R, 1(g)**
+
+**The AO2 anchors:** it would have allowed them to **share their ideas on technology and work through solutions together**; and **as the partners had dropped out of college and had to work from a garage, it is likely they had few funds** to develop the technology.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A partnership lets two people pool what they each bring, and **for Jobs and Wozniak that meant combining a creative mind with a technological one on the same problem**. **Because they had dropped out of college and were working from a garage with few funds, neither could have developed the technology alone** — one partner's idea could be tested against the other's technical judgement the same day. **A partnership also shares the money and the risk between them**, so the cost of components or a failed design does not fall entirely on one person. **The measurable end is survival in a new market:** the sharing of funds and risk **gave them a better chance of succeeding in the electronics market** than either would have had on their own.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A partnership **pools different strengths** — creative and technical |
+| **2. Strand A** | Few funds → **shared money and shared risk** → the firm can afford to try |
+| **3. Strand B** | Two minds on one problem → **faster solutions, better products** |
+| **4. Measurable end** | **A better chance of success** in a new and competitive market |
+
+**Second acceptable chain:** a partner covers the work the other cannot → **expertise without employing a specialist** → costs stay low **while** the business is too small to pay salaries.
+
+> ⭐ **This is the question where a bare definition of "partnership" is most tempting.** It earns nothing here. Use **the garage, the lack of funds, and the college drop-out** — the scheme's own AO2 — and the answer becomes unanswerable-generic-proof.
+
+---
+
+## 108. MULTINATIONAL — the advantages of becoming one
+
+**Asked:** *"Analyse the advantages for Apple of being a multinational company (MNC)."* — **June 2026 P2R, 3(d)**
+**Also asked:** *"Analyse the benefits for LEGO of being a multinational business."* — June 2022 P2 1(g) · *"Analyse the benefits for Saha of becoming a multinational business."* — Nov 2024 P1 4(b) · *"Analyse two benefits to Rabanne of being a global business."* — June 2025 P2R 1(g)
+
+> **This topic has come up four times in four years, on four different businesses. Learn it once and it answers all four.**
+
+**The AO2 anchors (Apple):** access to **lower labour and production costs in China and Vietnam** for manufacturing its laptops; and a **larger consumer market** for its smartphones and smartwatches.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Manufacturing in China and Vietnam lets Apple pay **lower labour and production costs than it would in the US**, so the cost of building each laptop falls. **That cost saving is not passed entirely to the customer — it is kept as margin**, which is what allows Apple to **fund the continued updating of its products and stay ahead on innovation**. **The second half of the same advantage is reach:** selling into many countries gives Apple a **far larger consumer market for its smartphones and smartwatches**, and high global sales volumes let it **mass-produce the iPhone and drive the unit cost down further**. **The measurable end is a cycle, not a single gain** — lower unit costs and larger volumes reinforce each other, so Apple stays profitable while competing on specification rather than on price.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Being an MNC **cuts unit costs** — cheaper labour and production abroad |
+| **2. Strand A** | Saving retained as margin → **funds innovation / product updating** |
+| **3. Strand B** | Global sales → **volume → economies of scale → lower unit cost** |
+| **4. Measurable end** | **Unit cost falls while quality rises** — profitable at a global scale |
+
+**Second acceptable chain:** spreading sales across many countries → **a downturn in one market is cushioned by the others** → revenue is more stable, so planning and investment are safer.
+
+> ⭐ **What changes between the four papers is only the AO2.** Use **the businesses' own facts**: Apple's China and Vietnam plants; LEGO's factories and global brand; Saha's robots for hotels; Rabanne's cosmetics sold worldwide. **The chain is identical.**
+
+---
+
+## 109. FLOW PRODUCTION — the disadvantages
+
+**Asked:** *"Analyse the disadvantages for Apple of using flow production when manufacturing products."* — **June 2026 P2R, 4(b)**
+
+**The AO2 anchors:** the **machinery and robotics to make the laptops is expensive**; and **the method may not be flexible enough**, because Apple is **constantly updating its iPhones**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Flow production is a continuous line, so **Apple must buy the machinery and robotics for that line up front, at very high cost**, and those costs are committed before a single laptop is sold. **The line is also built to produce one design**, which is a problem for a business that **constantly updates its iPhones** — because the equipment cannot simply be re-set for a new model. **The measurable end comes in two places.** First, the cost of the line and the disruption of changing it **push up the unit cost of the goods**, which makes it harder for Apple to compete with businesses such as **Oppo selling cheaper smartphones**. Second, **every time a new model arrives Apple may have to change machinery, which causes delays in production** — and a delayed launch is lost sales in a market where the new model is the reason people buy.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Flow production needs **expensive, single-purpose machinery** |
+| **2. Strand A** | High fixed cost + re-tooling → **unit cost rises → harder to compete on price** |
+| **3. Strand B** | The line is not flexible → **constant updates mean changing machinery → delays** |
+| **4. Measurable end** | **Higher unit cost** and **late launches** — both cost sales |
+
+**Second acceptable chain:** a continuous line **cannot be paused** → a fault anywhere stops the whole line → **output falls sharply** for as long as the fault lasts.
+
+> ⚠️ **"Flow production makes boring, repetitive jobs"** is the standard textbook answer and **it is not what this scheme marks.** The scheme marks **cost and inflexibility**, because Apple's problem is a product that keeps changing.
+
+---
+
+## 110. PRIVATE LIMITED COMPANY — the benefits
+
+**Asked:** *"Analyse the benefits to Nando's of being a private limited company."* — **June 2026 P2, 1(g)**
+
+**The AO2 anchors:** Nando's can **sell shares to family and friends to raise capital** to build new restaurants; and **moving away from a partnership** gives Robert Brozin and Fernando Duarte **limited liability**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> As a private limited company Nando's can **sell shares to family and friends**, which raises capital in a way a partnership cannot — and that money can go straight into **building new restaurants in Canada and Asia**. **The same change gives the two owners limited liability**, so if the business fails they stand to lose only what they invested rather than their personal possessions. **That protection is not a small administrative detail; it changes who is willing to put money in.** **The measurable end is the flow of investment:** because an investor's personal assets are protected, **more investors are attracted to the business**, which funds the continued building of restaurants — and each new restaurant is another source of revenue.
+
+| Step | The move |
+|---|---|
+| **1. Point** | An Ltd can **sell shares** — capital a partnership cannot raise |
+| **2. Strand A** | The capital raised **funds new restaurants in Canada and Asia** |
+| **3. Strand B** | Limited liability **protects the owners' personal possessions** |
+| **4. Measurable end** | Protection → **more willing investors** → more restaurants → more revenue |
+
+**Second acceptable chain:** the business becomes a separate legal entity → it **continues trading even if an owner leaves or dies** → the expansion plans are not put at risk by one person's circumstances.
+
+> ⭐ **"Nando's will have limited liability" on its own is a definition, and definitions do not score.** The mark is for **what the protection causes** — investors willing to put money in.
+
+---
+
+## 111. INDUCTION TRAINING — the benefits to the business
+
+**Asked:** *"Analyse the benefits to Nando's of providing induction training for new employees."* — **June 2026 P2, 3(d)**
+**Also asked:** *"Analyse the benefits for TUI from including health and safety training for its employees in their induction training."* — June 2024 P2 1(g) · *"Analyse why Tata Motor Company ensures that its staff have a detailed induction programme."* — June 2019 P2 4(b)
+
+**The AO2 anchors (Nando's):** induction training is likely to cover **health and safety in its kitchens**; and new employees are **introduced to other Nandocas before they start serving customers**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Induction training happens before a new employee starts the job, so at Nando's it will cover **health and safety in the kitchens** — which means **a new recruit knows what to do when something goes wrong on their first shift, rather than finding out at the moment it happens**. **The scheme's second anchor is the social one: being introduced to other Nandocas before serving customers means the new starter already feels part of the team.** **That feeling is not sentiment — it decides how they behave in front of paying customers.** **The measurable end is service quality:** a new recruit who feels comfortable and knows the kitchen rules **serves customers better from day one**, and better service in a restaurant chain is what brings people back — so the cost of the induction is recovered through repeat custom rather than through fewer accidents alone.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Induction happens **before** the first shift → the recruit is prepared |
+| **2. Strand A** | Health and safety covered → **can deal with emergencies when they arise** |
+| **3. Strand B** | Introduced to the team → **feels part of the team → more confident** |
+| **4. Measurable end** | **Better customer service** → repeat custom |
+
+**Second acceptable chain:** a prepared new starter **needs less supervision** from an experienced Nandoca → existing staff are not taken off their own work → **the restaurant runs at full capacity from day one**.
+
+> ⭐ **Induction is not on-the-job training.** Induction is **before they start** — rules, safety, meeting the team. If your chains would still work for "training", you have answered a different question. *(See entries on the training cluster for on-the-job, off-the-job and external recruitment.)*
+
+---
+
+## 112. EXPANSION — the benefits to the host economy
+
+**Asked:** *"Analyse how the Malaysian economy may benefit from Nando's expansion."* — **June 2026 P2, 4(b)**
+**Also asked:** *"Analyse the benefits to countries where Kraft Heinz is located."* — Nov 2023 P2 4(b) · *"Analyse the benefits for India of these plans."* — Nov 2024 P2 1(g)
+
+> **Note the party.** This is the only June 2026 question where the **beneficiary is a country, not the business.** Candidates who analyse Nando's profits here have answered a different question — and **a contextualised answer about the wrong party scores zero** (five recorded instances in this qualification).
+
+**The AO2 anchors:** more people **recruited by Nando's in Malaysia** to work in the restaurants; and **more people paying taxation to the Malaysian government** as chefs or waiters.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Nando's expansion means it **recruits more chefs and waiters in Malaysia**, and every one of those jobs is a person moved out of unemployment. **Because those workers now earn a wage, they pay income tax to the Malaysian government** — so the benefit to the economy is not only the jobs themselves but **the tax revenue that comes with them**. **The measurable ends are two and both are national, not corporate.** Falling unemployment means **more money being spent in Malaysian shops and services**, which supports other businesses entirely unconnected to Nando's. And **the additional tax the government collects can be spent on schools and hospitals**, which raises the standard of living in Malaysia over the long term.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Expansion → **Nando's recruits staff in Malaysia** |
+| **2. Strand A** | Wages paid → **income tax collected** → government revenue |
+| **3. Strand B** | Unemployment falls → **higher spending in the wider economy** |
+| **4. Measurable end** | Tax spent on **schools and hospitals → standard of living rises** |
+
+**Second acceptable chain:** Nando's needs local suppliers → **Malaysian farmers and food producers gain a customer** → their income and their employees' income also rise.
+
+> ⚠️ **The whole answer must stay on Malaysia.** The moment a sentence is about Nando's profitability, you have left the question. **Read who the beneficiary is before you write a word.**
 
 ---
