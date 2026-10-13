@@ -2045,7 +2045,8 @@ Pearson's own balance standard, stated outright — Nov 2024 P2 summary advice:
 | 6/6 exemplars *"9"* | **19** | re-tallied from the files |
 | May 2023 full-mark Justify *"four"* | **five** | re-read the report |
 | `10_Chain_Bank.md` *"49 of 111 done, 62 to go"* | **61 / 50** at the time | a script |
-| 3-mark population *"111"* | **151** | the mark schemes |
+| 3-mark population *"111"* | **152** | the mark schemes |
+| 6 / 9 / 12-mark populations *"86 / 48 / 17"* | **114 / 76 / 38** | the mark schemes |
 
 **The rule: a number in this bank must be printed by a tool that can be re-run, or it must cite a file and a line.** A total carried by hand across turns drifts, every time, without exception.
 
@@ -2067,13 +2068,60 @@ Pearson's own balance standard, stated outright — Nov 2024 P2 summary advice:
 
 ## 120. 🚨 CHECK THE INVENTORY AGAINST THE MARK SCHEMES, NOT THE QUESTION PAPERS
 
-**The lesson of the 111-vs-151 correction.** `4BS1_Question_Instances.csv` was built by extracting text from question papers — and that extraction is column-scrambled. It reported **111** three-mark Explain questions. The mark schemes show **151: exactly four per paper (1(f), 2(c), 2(d), 2(e)) across 38 papers.**
+**The lesson of the 111-vs-152 correction.** `4BS1_Question_Instances.csv` was built by extracting text from question papers — and that extraction is column-scrambled. It reported **111** three-mark Explain questions. The mark schemes show **152: exactly four per paper (1(f), 2(c), 2(d), 2(e)) across 38 papers.**
 
 **The loss is not constant**, which is what made it dangerous: May/June 2024 P1 showed 3 (has 4) · Nov 2024 P1 showed 2 (has 4) · May/June 2025 P2 showed 1 (has 4). **An under-count that varies per paper cannot be corrected by adding a fudge factor.**
 
 **Rule: for any *inventory* — how many questions of a type, how many papers, how many marks — read the mark scheme.** The MS states every question part and its AO allocation cleanly. **Use the question papers for the *content* of questions, never for the count of them.**
 
-> ⚠️ **Still open, and it is the same bug:** the 6-, 9- and 12-mark totals (86 / 48 / 17) come from that same CSV and are **not** trustworthy. The 48 is provably too low — the P1-family papers carry **two** 9-mark Justify questions each (verified by hand on Nov 2024 P1: **2(f)** and **3(e)**). **Re-derive all three with a block parser before quoting any total.**
+> ✅ **CLOSED — all three re-derived.** The 6-, 9- and 12-mark totals (86 / 48 / 17) came from that same CSV. Read from the mark schemes instead, and validated by all 38 papers summing to exactly 80 marks: **6-mark 114 · 9-mark 76 · 12-mark 38.** See rules 121–124 for how, and `build_layer_c_tariffs.py` to reproduce. **The CSV's 48 was not merely low — it was wrong by 28.**
+
+---
+
+### 121. Validate a derived total against an INDEPENDENT fact, or do not quote it
+
+Reconstructing a population from a document is not finished when the script runs. It is finished when the result can be checked against something that **must** be true if the reconstruction is right.
+
+**For 4BS1 the check is: a paper is worth 80 marks.** Four attempts at the 6/9/12-mark population produced nonsense — one double-counted the AO headers, one collapsed the whole qualification to a single 12-mark question — and every one of them *ran without error*. The moment the 80-mark check was added, it failed loudly on 33 papers, then 11, then 4, then 0. **The corrected totals fell out only after the check existed:** 3-mark **152** · 6-mark **114** · 9-mark **76** · 12-mark **38** = **380 governed blocks.**
+
+> **A number that has not been checked against an independent fact is a guess, however clean the script looked when it printed it.**
+
+### 122. The four separator traps in the 4BS1 mark schemes — every one of them SHRINKS a total silently
+
+None of these throws an error. Each one quietly returns a smaller number and lets you keep working.
+
+1. **En dash.** Split AO headers print as `AO2 – 3 marks AO3 – 3 marks` with **U+2013** in some papers and a plain hyphen in others. A pattern written `[-=]` drops every split block — **this is how Q4(b) went missing from every P1 paper.**
+2. **Comma-separated allocations.** Some papers print `AO2 = 3 marks, AO3 = 3 marks, AO4 = 3 marks`. Without a trailing `[,;]?` the pattern captures **3 marks for a 9-mark Justify and 3 for a 12-mark Evaluate**. This is the single biggest cause of the CSV's 48 and 17.
+3. **`A02` with a zero.** The AO code is printed with the digit zero as often as with the letter O.
+4. **A space before the part letter.** The mark schemes print `2 (c)`, never `2(c)`, and occasionally detach the roman numeral: `1 (a) (iii)`.
+
+**Pattern that survives all four:** `(\d+)\s*\(([a-z])\)\s*(?:\(\s*([ivx]+)\s*\))?\s*((?:A[O0]\s*[1-4]\s*[^A-Za-z0-9]{0,4}\s*\d+\s*marks?\s*[,;]?\s*)+)` with `re.I`.
+
+### 123. The question skeleton is invariant — use it as a filter, and expect extraction noise
+
+All 38 papers carry the **same ten governed parts**, and all 38 agree on the marks *and the AO split* of every one:
+
+| Tariff | Parts | Per paper | Total |
+|---|---|---|---|
+| **3-mark** | 1(f) · 2(c) · 2(d) · 2(e) | 4 | **152** |
+| **6-mark** | 1(g) · 3(d) · 4(b) | 3 | **114** |
+| **9-mark** | 2(f) · 3(e) | 2 | **76** |
+| **12-mark** | 4(c) | 1 | **38** |
+
+**So the totals are exactly 4 × 38, 3 × 38, 2 × 38 and 1 × 38** — and that is the strongest evidence for them. Filter against the skeleton: any reconstructed part that is not in it is extraction noise. Two were found and dropped — a bare `1(a)` and a run-together `20211(e)`.
+
+**The 1- and 2-mark parts are the remainder** (1(a)(i)–(vi) · 1(b)–(d) · 3(a)–(c) · 4(a) · 2(a)–(b) · 1(e) · 3(b)–(c) · 4(a)), and they need no models: **for those the mark scheme IS the perfect answer.**
+
+### 124. Character-fragmented PDFs need a REPAIR, not a de-spacing pass
+
+The May–June 2021 mark schemes print `A0 1 - 3 mark s` for `AO1 - 3 marks`. De-spacing the whole document makes them machine-readable but **destroys the spacing of everything you want to quote**; a targeted repair keeps the text quotable:
+
+```python
+text = re.sub(r"\bA\s?[O0]\s?([1-4])\b", r"AO\1", text)   # "A0 1" -> "AO1"
+text = re.sub(r"\bm\s?a\s?r\s?k\s?s\b", "marks", text)     # "mark s" -> "marks"
+```
+
+**This one repair recovered a whole block that was silently missing** — May–June 2021 P1 1(f), *extending a product life cycle* — the difference between the **151** this bank reported and the true **152**.
 
 ---
 

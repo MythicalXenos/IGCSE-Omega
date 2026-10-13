@@ -8,7 +8,12 @@ that extraction is column-scrambled. It therefore UNDER-COUNTS the 3-mark Explai
 questions badly:
 
     CSV:      111 three-mark instances
-    ACTUAL:   151 three-mark blocks, 4 per paper x 38 papers  (1(f), 2(c), 2(d), 2(e))
+    ACTUAL:   152 three-mark blocks, 4 per paper x 38 papers  (1(f), 2(c), 2(d), 2(e))
+
+The 152 figure is DERIVED, not asserted: build_layer_c_tariffs.py reads the same
+38 mark schemes, reconstructs every question part, and confirms all 38 papers sum
+to exactly 80 marks -- the paper's stated total. The labels are invariant: every
+paper carries 1(f), 2(c), 2(d) and 2(e) at 3 marks, and all 38 agree.
 
 Examples of the shortfall: May-June 2024 P1 shows 3 in the CSV but has 4;
 Nov 2024 P1 shows 2 but has 4; May-June 2024 P2 / May-June 2025 P2 show 1 each but have 4.
@@ -140,6 +145,21 @@ MAP = [
 ]
 
 
+def repair(text: str) -> str:
+    """Undo the character fragmentation in the May-June 2021 PDFs.
+
+    Those files print "A0 1 - 3 mark s" for "AO1 - 3 marks", which defeats the
+    BLOCK pattern and silently dropped one whole block -- May-June 2021 P1 1(f),
+    the difference between the 151 this script used to report and the true 152.
+
+    A targeted repair is used rather than de-spacing the whole document, because
+    de-spacing destroys the readable spacing of the harvested workanswer.
+    """
+    text = re.sub(r"\bA\s?[O0]\s?([1-4])\b", r"AO\1", text)
+    text = re.sub(r"\bm\s?a\s?r\s?k\s?s\b", "marks", text)
+    return text
+
+
 def normalise(topic: str) -> str:
     t = re.sub(r"\s+", " ", topic.lower()).strip().rstrip(",")
     t = re.sub(r"^(the )?(identificat?i?o?n? of|identifica tion of|identificat ion of)\s+", "", t)
@@ -176,8 +196,8 @@ def harvest() -> list[dict]:
         sys.exit("pip install --break-system-packages pypdf cryptography")
     rows = []
     for pdf in sorted(ARCHIVE.glob("*/4BS1_*_MS.pdf")):
-        raw = re.sub(r"\s+", " ", "".join(
-            (p.extract_text() or "") for p in pypdf.PdfReader(str(pdf)).pages))
+        raw = repair(re.sub(r"\s+", " ", "".join(
+            (p.extract_text() or "") for p in pypdf.PdfReader(str(pdf)).pages)))
         session = pdf.parent.name.replace("_", " ")
         paper = re.search(r"(P\dR?)_MS", pdf.name).group(1)
         for m in BLOCK.finditer(raw):

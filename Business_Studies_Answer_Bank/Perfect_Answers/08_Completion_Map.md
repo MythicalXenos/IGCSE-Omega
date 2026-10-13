@@ -131,13 +131,13 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**6 written of ~382 governed items.**
+**100 entries written · 380 governed blocks in scope · 228 still to cover** (114 six-mark + 76 nine-mark + 38 twelve-mark).
 
 Priority order:
-1. **Any type × paper with no verified exemplar at all.**
-2. **Tariffs 9 and 12** (36 of the 80 marks).
-3. **Tariffs 3 and 6** (the volume).
-4. Tariffs 1 and 2 (cheapest; last).
+1. **6-mark Analyse — 114 blocks.** The single largest remaining tier, and the only one where the examiners' own complaint (*"valid comments… failed to develop these points"*) maps directly onto a repeated structural failure.
+2. **9-mark Justify — 76 blocks.** Every one is the same framing, so the option pairs are what has to be banked.
+3. **12-mark Evaluate — 38 blocks.** Lowest volume, highest mark weight per question.
+4. Tariffs 1 and 2 (cheapest; last) — **the mark scheme IS the perfect answer for these, so no models are needed.**
 
 ---
 
@@ -158,24 +158,33 @@ Priority order:
 
 ## ORDER OF WORK
 
-### 🚨 SCOPE CORRECTED TWICE — and the second correction is the one that matters
+### ✅ SCOPE — NOW FULLY DERIVED FROM THE MARK SCHEMES
 
-**First correction (withdrawn):** the scope was moved from ~382 down to **262**, on the reasoning that the 1- and 2-mark types need no models because for those the mark scheme *is* the perfect answer. **That reasoning was sound. The measurement underneath it was not.**
+**Three corrections happened here. The reasoning behind the first was sound; the measurement behind all three was the problem. It is now fixed and self-checking.**
 
-**Second correction — the measuring instrument was broken.** The 262 was counted from `4BS1_Question_Instances.csv`, which was itself built by extracting text from the question papers. **That extraction is column-scrambled and silently loses whole question parts.** Read against the mark schemes instead:
+**Correction 1 (withdrawn).** The scope was moved from ~382 down to **262**, on the reasoning that the 1- and 2-mark types need no models because for those the mark scheme *is* the perfect answer. **That reasoning still stands.**
 
-| Tariff | CSV says | Mark schemes say | Status |
-|---|---|---|---|
-| **3-mark Explain** | 111 | **151** | ✅ **verified — exactly 4 per paper × 38** |
-| 6-mark Analyse | 86 | *not yet derived* | ⚠️ unreliable |
-| 9-mark Justify | 48 | *not yet derived* | ⚠️ **proven too low** |
-| 12-mark Evaluate | 17 | *not yet derived* | ⚠️ unverified |
+**Correction 2 (this one was real).** The 262 was counted from `4BS1_Question_Instances.csv`, built by extracting text from the **question papers**. That extraction is column-scrambled and silently loses whole question parts.
 
-**So "262 governed items" is withdrawn as a total.** It is a **sum of four unreliable inputs**, and one of its four inputs is now known to be wrong by 40. **No total is asserted in this bank until the 6-, 9- and 12-mark tariffs are re-derived the same verified way.**
+**Correction 3 — the instrument is now trustworthy.** `build_layer_c_tariffs.py` reads the 38 **mark schemes**, reconstructs every question part from its printed AO allocation, and **checks its own work against the paper's stated total: a 4BS1 paper is worth 80 marks, and all 38 papers sum to exactly 80.** It also drops any key that is not in the invariant question skeleton, and reports what it dropped.
 
-**Why 48 nines is provably wrong:** the mark schemes print **two** 9-mark Justify questions on the P1-family papers, not one. Checked by hand on **Nov 2024 P1** — Justify at **2(f)** (*crowdfunding vs loan capital*) and a second at **3(e)** (*price skimming vs cost plus pricing*).
+| Tariff | Question parts (invariant) | Per paper | CSV said | **Mark schemes say** |
+|---|---|---|---|---|
+| **3-mark Explain** | 1(f) · 2(c) · 2(d) · 2(e) | 4 | 111 | ✅ **152** |
+| **6-mark Analyse** | 1(g) · 3(d) · 4(b) | 3 | 86 | ✅ **114** |
+| **9-mark Justify** | 2(f) · 3(e) | 2 | 48 | ✅ **76** |
+| **12-mark Evaluate** | 4(c) | 1 | 17 | ✅ **38** |
+| **TOTAL GOVERNED** | | **10** | 262 | ✅ **380** |
 
-**The fix is durable, not a one-off.** `build_layer_c_3mark.py` re-reads the 38 mark schemes from the archive on every run and regenerates the inventory, **so a sandbox re-seed can no longer lose the finding.**
+**Every label above is invariant across all 38 papers — 38/38 agree on the tariff *and* on the AO split of every part.** That invariance is itself the strongest evidence for the counts: it is why the totals are exactly 4 × 38, 3 × 38, 2 × 38 and 1 × 38.
+
+**So "262 governed items" is withdrawn.** The true Layer C scope is **380 blocks**, and the reason it is tractable is the finding below: they are a few dozen *topics* wrapped in about twenty *framings*, not 380 distinct answers.
+
+**The fix is durable, not a one-off.** Two re-runnable scripts regenerate all of this from the archive, so a sandbox re-seed cannot lose it:
+- `python3 build_layer_c_tariffs.py` → validates all 38 papers at 80 marks, writes `layer_c_6_9_12_master.csv`
+- `python3 build_layer_c_3mark.py` → writes `layer_c_3mark_master.csv`
+
+**One trap worth naming, because it caused correction 3:** the AO header's separator is a **hyphen in some papers and an en dash in others**, and successive allocations are **comma-separated in some papers but not others**. A pattern that assumed `[-=]` and no comma read a 12-mark Evaluate as 3 marks and a 9-mark Justify as 3 — which is exactly how the CSV arrived at 17 and 48.
 
 ### ⭐ THE KEY STRUCTURAL FINDING FOR LAYER C — this part stands
 
@@ -195,7 +204,7 @@ So the correct response is **not one essay per question** — that would repeat 
 | **The framings** | `01_Mark_Tariff_Playbook.md` + `00_Pearson_Official_Rulebook.md` | ✅ already complete |
 | **The topics** | **`10_Chain_Bank.md`** | the causal chains that earn the marks, one entry per topic |
 
-**A topic done once covers every paper it has appeared on — and every paper it will appear on next.** That is what makes a corrected total of 151 blocks tractable rather than alarming: they are **97 distinct topics**, not 151 answers.
+**A topic done once covers every paper it has appeared on — and every paper it will appear on next.** That is what makes a total of 380 governed blocks tractable rather than alarming: the 3-mark tier alone collapsed **152 blocks into 97 topics** — a third of the blocks were repeats — and the 6-, 9- and 12-mark tiers repeat their topics the same way.
 
 ### Progress — 3-mark Explain
 
@@ -205,18 +214,20 @@ So the correct response is **not one essay per question** — that would repeat 
 | **2** | 3.1 Business activity + 3.2 structure/HR cluster | ✅ **33 entries** |
 | **3** | 3.3 Marketing | ✅ **23 entries (50–72)** |
 | **4** | 3.4 Operations + 3.5 Finance + the last stragglers | ✅ **28 entries (73–100)** |
-| **5–6** | 6-mark Analyse chains | ⬜ next |
-| **7–8** | 9-mark Justify option pairs | ⬜ |
-| **9** | 12-mark Evaluate topics | ⬜ |
+| **5–6** | 6-mark Analyse chains — **114 blocks** | ⬜ next |
+| **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
+| **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
 
 ### ✅ LAYER C, 3-MARK TIER — CLOSED
 
 ```
-3-mark blocks total      :  151
+3-mark blocks total      :  152
 canonical topics         :   97
-covered by entries 1-100 :   97 topics  ·  151 blocks
+covered by entries 1-100 :   97 topics  ·  152 blocks
 REMAINING                :    0 topics  ·    0 blocks
 ```
+
+> **One block was recovered after the tier was first closed** — May–June 2021 P1 1(f), *extending a product life cycle* — and its topic was already carried by entry 57, so no entry was added. May–June 2021 is the character-fragmented PDF that prints `A0 1 - 3 mark s`; the extractor now repairs that, so the count is 152 in both the master CSV and this file.
 
 **Every 3-mark Explain question in the qualification is now carried by a named entry in `10_Chain_Bank.md`** — and, for the large majority of them, by **Pearson's own worked answer** from the mark scheme rather than by a construction. See the label table in `10_` for what that does and does not mean.
 

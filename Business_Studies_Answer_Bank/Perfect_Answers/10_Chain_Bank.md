@@ -31,10 +31,15 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 | Tariff | Instances | Where the number comes from |
 |---|---|---|
-| **3-mark Explain** | **151** | ✅ **derived from the 38 mark schemes — exactly 4 per paper** |
-| **6-mark Analyse** | *not yet derived* | ⚠️ the CSV's 86 is unreliable |
-| **9-mark Justify** | *not yet derived* | ⚠️ the CSV's 48 is **proven too low** |
-| **12-mark Evaluate** | *not yet derived* | ⚠️ the CSV's 17 is unverified |
+| **3-mark Explain** | **152** | ✅ **derived — 1(f) · 2(c) · 2(d) · 2(e), 4 per paper** |
+| **6-mark Analyse** | **114** | ✅ **derived — 1(g) · 3(d) · 4(b), 3 per paper** |
+| **9-mark Justify** | **76** | ✅ **derived — 2(f) · 3(e), 2 per paper** |
+| **12-mark Evaluate** | **38** | ✅ **derived — 4(c), 1 per paper** |
+| **TOTAL GOVERNED** | **380** | ✅ 152 + 114 + 76 + 38 |
+
+> **How those four numbers were obtained, and why they can be trusted.** `build_layer_c_tariffs.py` reads the same 38 mark schemes, reconstructs every question part from its printed AO allocation, and then **checks its own work: a 4BS1 paper is worth 80 marks, and all 38 papers now sum to exactly 80.** The question labels are *invariant* — all 38 papers carry 1(f), 2(c), 2(d) and 2(e) at 3 marks, 1(g), 3(d) and 4(b) at 6 marks, 2(f) and 3(e) at 9 marks, and 4(c) at 12. Run `python3 build_layer_c_tariffs.py` to reproduce; it writes `layer_c_6_9_12_master.csv`.
+>
+> **These supersede the CSV's 86 / 48 / 17**, which came from question-paper text extraction. They also settle an earlier open question: the 9-mark count is not merely ≥2 on P1-family papers — **every one of the 38 papers has exactly two 9-mark Justify questions.**
 
 > 🚨 **The old headline figure of "262 governed items" is withdrawn.** It was built on `4BS1_Question_Instances.csv`, and that file is measurably wrong. **The full scope correction is the next section — read it before trusting any count in this bank, including any count in another file.**
 
@@ -81,16 +86,16 @@ Every entry gives you:
 | **7–8** | 9-mark Justify option pairs | ⬜ |
 | **9** | 12-mark Evaluate topics | ⬜ |
 
-> ✅ **THE 3-MARK BANK IS CLOSED.** All **97 canonical topics** and all **151 blocks across the 38 papers** are covered by entries 1–100.
+> ✅ **THE 3-MARK BANK IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
 
-### 🚨 SCOPE CORRECTION — **151** three-mark blocks, not 111
+### 🚨 SCOPE CORRECTION — **152** three-mark blocks, not 111
 
 **This file previously counted the 3-mark population from `4BS1_Question_Instances.csv` and reported 111. That number is wrong, and the fault was in the measuring instrument rather than in the counting.**
 
 The CSV was built from **question-paper text extraction**, which is column-scrambled and silently loses whole question parts. The **mark schemes** state every part cleanly, and read that way **each of the 38 papers carries exactly four 3-mark Explain questions — 1(f), 2(c), 2(d) and 2(e):**
 
 ```
-3-mark Explain blocks, read from the mark schemes : 151   (4 x 38 papers)
+3-mark Explain blocks, read from the mark schemes : 152   (4 x 38 papers)
 from 4BS1_Question_Instances.csv                  : 111   (under-count of 40)
 ```
 
@@ -101,9 +106,9 @@ How much is lost varies by paper — **May/June 2024 P1 shows 3 in the CSV but h
 ### ⭐ PROGRESS — 3-mark Explain, derived and not estimated
 
 ```
-3-mark blocks total      :  151
+3-mark blocks total      :  152
 canonical topics         :   97
-covered by entries 1-100 :   97 topics  ·  151 blocks
+covered by entries 1-100 :   97 topics  ·  152 blocks
 REMAINING                :    0 topics  ·    0 blocks
 ```
 
@@ -871,7 +876,7 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 # BATCH 3 — Spec 3.3 (Marketing)
 
-**23 entries.** Marketing is the largest remaining cluster: 33 of the 151 three-mark blocks sit in 3.3, in 23 distinct topics.
+**23 entries.** Marketing is the largest remaining cluster: 33 of the 152 three-mark blocks sit in 3.3, in 23 distinct topics.
 
 > ## ⭐⭐ A NEW LABEL, AND WHY IT IS NEEDED
 > Batches 1 and 2 were `[CONSTRUCTED GRADE 9 TARGET]` throughout. **Batch 3 is different: for almost every entry below, Pearson's own mark scheme prints a worked answer** — the *"Award 1 mark for … (1) … (1) … (1)"* model that the scheme accepts as a full-mark response.
@@ -1409,7 +1414,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 # BATCH 4 — Spec 3.4 (Operations), 3.5 (Finance), and the last stragglers
 
-**28 entries — and this closes the 3-mark bank.** After this batch, every one of the **97 canonical 3-mark topics**, across all **151 blocks in all 38 papers**, is carried by an entry in this file.
+**28 entries — and this closes the 3-mark bank.** After this batch, every one of the **97 canonical 3-mark topics**, across all **152 blocks in all 38 papers**, is carried by an entry in this file.
 
 ---
 
@@ -2032,15 +2037,16 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 | **TOTAL** | | **100 entries** |
 
 ```
-3-mark blocks total           :  151
+3-mark blocks total           :  152
 canonical topics              :   97
-carried by entries 1-100      :   97 topics  ·  151 blocks
+carried by entries 1-100      :   97 topics  ·  152 blocks
 REMAINING                     :    0 topics  ·    0 blocks
 ```
 
-**Every 3-mark Explain question in the qualification — all 151 blocks across all 38 papers — is now covered by a named entry above.** Reverify at any time with `python3 layer_c_coverage.py` from the folder above.
+**Every 3-mark Explain question in the qualification — all 152 blocks across all 38 papers — is now covered by a named entry above.** Reverify at any time with `python3 layer_c_coverage.py` from the folder above.
 
 > ⚠️ **What this does NOT mean.** It does not mean there is a verified full-mark script for every one of these questions — Pearson has published scripts for only a fraction of them, and those are held in `02_Verified_Exemplars.md` and `External_Exemplars/`. **For almost every entry above, the model is the mark scheme's own worked answer** — official, but not a candidate's script. **The labelling rules at the top of this file apply to all of it.**
-> ⚠️ **And the 6-, 9- and 12-mark totals remain underived.** They come from the same broken CSV (rule 120), and the 9-mark count is **provably too low** — the P1-family papers carry **two** Justify questions each. **That re-derivation is the next task, before Batches 5–9.**
+> ✅ **The 152nd block.** The count was 151 until this was traced to a single dropped mark-scheme block: **May–June 2021 P1 1(f)**, *"identification of a strategy of extending a product life cycle"*, whose PDF prints its header character-fragmented as `A0 1 - 3 mark s` and so defeated the extractor. It is now recovered and its topic — **PRODUCT LIFE CYCLE extension** — was **already carried** by entry 57. **So the topic count is unchanged at 97 and no new entry was needed; only the block count corrected.**
+> ✅ **The 6-, 9- and 12-mark totals are now derived** (see the table at the top of this file): **114 · 76 · 38**, validated by all 38 papers summing to exactly 80 marks. **The scope of Batches 5–9 is therefore 228 blocks**, and no figure in this file is carried over from the CSV (rule 120).
 
 ---
