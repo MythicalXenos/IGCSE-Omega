@@ -133,23 +133,25 @@ These are genuinely useful calibration (and are quoted in `03_Calibration_Below_
 
 ## The honest gap statement
 
-**This bank does not contain a verified candidate script for every question type and variation.** That would require Pearson to publish full-mark exemplars for all 696 items across 38 papers, which it does not do.
+**This bank does not contain a verified candidate script for every question type and variation.** That would require Pearson to publish full-mark exemplars for **all 988 parts across 38 papers**, which it does not do. *(This said "696 items", which is the question-paper extraction's row count, not the number of parts — see the warning at the top of this file.)*
 
 What it does contain:
 
 1. **Verified full-mark exemplars for all four high-value tariffs** (3, 6, 9, 12), transcribed in full with the examiner's reasoning — so you can see exactly what the top band looks like.
-2. **A complete, mechanical playbook** (`01_Mark_Tariff_Playbook.md`) derived from the actual mark schemes and level descriptors, covering **all 696 items** by type, even where no exemplar exists.
+2. **A complete, mechanical playbook** (`01_Mark_Tariff_Playbook.md`) derived from the actual mark schemes and level descriptors, covering **all 988 parts** by type, even where no exemplar exists.
 3. **Calibration scripts with named deficiencies** across every tariff, which teach the same lessons from the opposite direction.
 4. **Real candidate scripts as page images** (`Exemplar_Scans/`).
 
-**What is missing, and what would fill it:** `[CONSTRUCTED GRADE 9 TARGET]` answers for the remaining high-value variations — written from the QP, mark scheme and examiner guidance, and clearly labelled as constructed. These are **not** included in this first build. They are the next phase of work, and they must never be described as official or examiner-marked.
+**What was missing, and what filled it:** `[CONSTRUCTED GRADE 9 TARGET]` answers for the remaining high-value variations, written from the QP, mark scheme and examiner guidance and clearly labelled as constructed. Those were the next phase, and **that phase is done** — the models now live in **`10_Chain_Bank.md`**, which is canonical, with `05_Constructed_12mark_Models.md` as earlier worked models on the same topics. They must never be described as official or examiner-marked; **no score is claimed for any of them.**
+
+**What remains missing — and it is not all fillable.** Layer C is closed at 152/152 · 114/114 · 76/76 · 38/38, but three full-mark cells are still open and one is permanent: **no verified 12/12 exists for Paper 2 or Paper 2R** (both bank 12/12s are Paper 1, and Pearson names the June 2022 and June 2024 *Paper 1* reports as the 12-mark exemplar sources). See `08_Completion_Map.md` for the live position; do not restate these counts elsewhere.
 
 ---
 
 ## How to use this bank without being misled
 
 - A **`[VERIFIED CANDIDATE EXEMPLAR]`** tells you *"this exact script got this exact mark"*. Trust it as evidence of the standard.
-- A **`[CONSTRUCTED GRADE 9 TARGET]`** tells you *"this is engineered to satisfy the mark scheme"*. It is a target, not proof. **None appear in this build.**
+- A **`[CONSTRUCTED GRADE 9 TARGET]`** tells you *"this is engineered to satisfy the mark scheme"*. It is a target, not proof, and **no score is ever claimed for one.** These **are** in this build: the constructed models in `10_Chain_Bank.md` and `05_Constructed_12mark_Models.md` carry the label. *(This line used to say "None appear in this build", written before they were written — the fourth stale claim of the Layer D audit.)*
 - For **1- and 2-mark items**, ignore exemplars entirely and go to the mark scheme — the MS *is* the perfect answer.
 - The mark scheme is always primary for accepted content. Examiner reports and exemplars show how the criteria are *applied*; they are not the only valid wording. The mark schemes repeatedly state: *"Accept any other appropriate response."*
 
@@ -157,7 +159,11 @@ What it does contain:
 
 ```bash
 cd Business_Studies_Answer_Bank
-python3 build_question_inventory.py      # regenerate the 696-item inventory
+python3 build_question_inventory.py      # regenerate the 696-row QUESTION-PAPER view
+                                         #   (an extraction of the QPs, not a count of
+                                         #    the parts: it under-detects the 1- and
+                                         #    2-mark tiers. For the population, use
+                                         #    build_layer_c_tariffs.py)
 python3 make_docx.py                     # regenerate the guide DOCX
 ```
 

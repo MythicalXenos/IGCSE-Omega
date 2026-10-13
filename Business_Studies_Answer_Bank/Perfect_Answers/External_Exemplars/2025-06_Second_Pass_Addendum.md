@@ -289,5 +289,5 @@ June 2025 P1 **Q1(c)** — define **job production**:
 | **"Rounded their figures up or down prematurely"** | **New trap: premature rounding.** |
 | **"A wrong premise poisons the consequences"** (TQM 0) | New failure mode. |
 | **Discount error, 5th confirmation** | Now conclusive. |
-| **Word-collision cluster 19 → 22** | *trade bloc · job production · share capital*. |
+| ~~**Word-collision cluster 19 → 22**~~ | 🚨 **This row was wrong, twice over, and is kept only as the record of what the second pass claimed.** It named three additions — *trade bloc · job production · share capital* — but **trade bloc and job production were already rows** of the cluster, so they were never additions, and **no examiner statement anywhere in this bank reports `share capital` as a word collision at all.** The cluster has **one** canonical table and **one** count: **`06_External_Source_Library.md`, rule 74 — 20 rows**, counted by `python3 business_studies_answer_bank/verify_collision_cluster.py`. The term every total had missed was **`job share`** (Nov 2020 P1R). **A term goes in that table when a report names it, not when a total needs to reach a number.** |
 | **A priced 5/9 one-sided Justify** | The clearest single illustration of what balance is worth. |
