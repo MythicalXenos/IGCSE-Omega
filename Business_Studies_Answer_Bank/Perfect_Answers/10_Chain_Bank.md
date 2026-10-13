@@ -41,7 +41,9 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 > ✅ **THE 6-MARK TIER IS CLOSED.** All **114 blocks** are carried by entries **101–174** — verified by `layer_c_6mark_coverage.py`, which prints **114 covered / 0 remaining** and flags any dangling entry reference. **It was 74 entries for 114 blocks**, because **40% of the tier was a repeat of a topic already answered**: *multinational* and *motivating employees* **six times each**, *break-even* **five**, and *cash*, *SoCI*, *interest rates*, *branding*, *robotics*, *induction* and *host-economy benefit* **three or four times each**.
 
-> ✅ **THE 9-MARK TIER IS OPEN — and it behaves differently from the other two.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **56 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**.
+> ✅ **THE 9-MARK TIER IS OPEN — and it behaves differently from the other two.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **56 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**, and promotion + pricing together are two decision types carrying **21 blocks in 17 pairs**.
+>
+> ✅ **Two decision types are now CLOSED — sources of finance (13 pairs, 14 blocks) and promotion + pricing (17 pairs, 21 blocks).** **35 of the 76 blocks are done, 46% of the tier, and the two most heavily examined decision types in the whole qualification are carried in full.**
 
 **Progress against those 380 blocks:**
 
@@ -108,7 +110,8 @@ Every entry gives you:
 | **5i** | **6-mark Analyse — the four November papers** | ✅ **12 entries (163–174)** |
 | **6** | **6-MARK TIER — CLOSED at 114/114 blocks** | ✅ **done** |
 | **7a** | **9-mark Justify — the universal scaffold + the sources-of-finance cluster** | ✅ **13 entries (175–187)** |
-| **7b–8** | 9-mark Justify — the remaining **65 blocks** | ⬜ next |
+| **7b** | **9-mark Justify — promotion (12 pairs) + pricing (9 pairs)** | ✅ **17 entries (188–204)** |
+| **7c–8** | 9-mark Justify — the remaining **44 blocks** | ⬜ next |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
@@ -4277,5 +4280,465 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 > **3. What is the FAILURE MODE?** *(a loan adds interest you must pay whatever happens; crowdfunding may raise **nothing at all**; an overdraft is **repayable on demand**.)*
 >
 > **Question 3 is the one candidates never ask, and it is where the AO4 lives.** Every mark-scheme counter-argument in this cluster is a failure mode.
+
+---
+
+# BATCH 7b — 9-MARK JUSTIFY, PART 2 — PROMOTION AND PRICING
+
+**14 entries covering 21 blocks — every promotion and pricing Justify question in the qualification.**
+
+> ### ⭐ WHY PRICING IS THE MOST REPETITIVE DECISION TYPE IN THIS TIER
+> **Cost plus pricing appears in four different pairings** (against price skimming twice, against promotional pricing, against competition pricing) and **promotional pricing in three**. That is not an accident of the papers: **the examiner is testing the same two ideas from different angles**, and the scheme's counter-arguments for each are almost word-for-word identical across papers five years apart.
+>
+> **Learn the counter-arguments as fixed pairs and the pricing questions become a matching exercise:**
+
+| Method | Its strength | Its fixed weakness — printed in the scheme, paper after paper |
+|---|---|---|
+| **Cost plus** | **Guarantees the cost is covered** — you know each sale makes something | ⭐ *"Does not account for what the customer is willing to pay"* / *"does not guarantee that sales are going to be made, especially if a competitor is cheaper"* |
+| **Price skimming** | **High price while the product is new and distinctive** | ⭐ *"May limit the number of potential customers as the price is too high"* |
+| **Promotional / lower price** | **Gains sales quickly and switches customers from rivals** | ⭐ *"Profit per unit is lower"* and ⭐ *"once the price reverts to normal, sales may reduce"* |
+| **Competition pricing** | **Customers see it as comparable, so it competes on the shelf** | ⭐ *"As AWG use sustainable materials the manufacturing cost may be high, which means selling at a competitive price may not be feasible"* |
+| **Price matching** | **Removes price as the reason to go elsewhere** | ⭐ *"There is no guarantee that customers will book with Premier Inn as they may prefer the facilities at another hotel"* |
+| **Penetration / introductory** | **Entices people to try the product for the first time** | ⭐ *"Some customers may associate a low price with low-quality"* |
+
+---
+
+# BATCH 7c — 9-MARK JUSTIFY, PART 3 — THE PROMOTION CLUSTER COMPLETED
+
+**8 entries covering the eight promotion blocks not already carried by entries 202–204.** With these, **every promotion and pricing Justify question in the qualification is covered.**
+
+> ### ⭐ THE PROMOTION CLUSTER HAS ONE RECURRING ARGUMENT
+> Read the eight counter-arguments below together and a single idea appears in almost all of them: **promotion that BUYS attention cannot guarantee what the attention does.** The scheme says it in six different ways —
+>
+> *"There is no guarantee that because an event has been sponsored by Kraft Heinz people will purchase its products"* · *"There is no control over social media and what is being said about Emirates by the users of social media"* · *"NEXT cannot be certain that all its customers who want to receive the wedding list service will read the newsletter, as there is no guarantee or way of checking that they have seen it"* · *"Not everybody uses social media so many people would not be aware of the advert"* · *"It may not bring in new customers or improve its image if the exhibition was poorly attended"* · *"There is no guarantee that customers are going to use the coupon or even visit the store, so the advertising costs would be wasted."*
+>
+> **Learn it as one sentence: you pay for the delivery, not for the result.** That is the ground the examiners argue on in this cluster, and it is where your AO4 marks are.
+
+---
+
+## 188. PROMOTION — attracting passing trade vs free promotional space
+
+**Asked:** *"Option 1: offer food to passing trade to entice them into the bakery · Option 2: the charity shops Loaf works with could display the posters for free."* — **May–June 2020 P1R, 2(f)**, Loaf
+
+**The AO2 anchors:** offering food **could entice passing trade into the bakery**; the charity shops **could display the posters for free**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Loaf should use the charity shop posters.** The decisive fact is **the cost, and what Loaf can afford to spend on being seen.** **The posters are free — the charity shops it already works with have the windows and the footfall, and Loaf pays nothing to appear in them.** **Sampling, by contrast, costs twice: "someone outside giving out the samples means that the person is not working in the bakery selling goods, which could be considered a waste of time, and they are also giving out free food, which can be expensive."** **That is a wage and a product given away at once, for a method whose success depends on the passer-by stopping.** **However, the scheme's objection to the posters is real: "it is a cheaper method of advertising but may not bring in the clientele that Loaf would want to purchase its goods"** — the charity shop's visitors are not necessarily Loaf's customers. **I would still choose the posters, on the condition that the charity shops chosen are ones whose own customers already buy bread and cakes — because free advertising in the wrong window is worth exactly what it costs, while sampling converts only the people who were already close to buying.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The free charity-shop posters** — first sentence |
+| **2. AO2 + AO3** | Posters are **free, using shops Loaf already supports**; sampling **costs a wage and the food** |
+| **3. Counter-arguments** | Posters → **may not reach Loaf's kind of customer**; sampling → **staff taken off selling, food given away** |
+| **4. Named condition** | ⭐ **Provided the charity shops' own customers already buy bread and cakes** |
+
+**Second acceptable chain:** sampling **lets a customer taste the product, and taste is what a bakery sells** → it converts far better than a poster among people who are interested → **but only if the person handing out samples is not needed at the counter, which in a small bakery they usually are.**
+
+> ⭐ **This is the one pair in the cluster where the CHEAPER option wins, and the reason is that the expensive one costs twice** — money *and* the labour that would otherwise be selling. **Wherever a small business is choosing a promotional method, ask what it costs in staff time as well as in cash.**
+
+---
+
+## 189. PROMOTION — pop-up events across the country vs new cookery courses
+
+**Asked:** *"Option 1: pop-up events showcasing bakery products across the country · Option 2: introducing different cookery courses to target new customers."* — **May–June 2020 P1R, 3(e)**, Loaf
+
+**The AO2 anchors:** pop-up events **will lead to higher sales**; different cookery courses **will target new customers wanting to learn new skills**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Loaf should introduce the cookery courses.** The decisive fact is **what Loaf already owns: a bakery, a kitchen and the teaching space it is already using for cooking classes.** **New courses use everything the business already has, so the cost is the ingredients and the teacher's time — and the customers pay in advance to attend.** **Pop-up events do the opposite: they take the business to places it does not know, and "as Loaf may not be known, and the costs of running these pop-up events across the country could be higher than the revenue from them, leading to a negative net cash flow."** **A national tour of pop-ups is a large, uncertain outlay for a business whose name is not yet recognised outside its own area.** **However, the courses have their own trap, and it is the one the scheme flags: "this may not increase net cash flow because Loaf will still have to run the classes even if they are not full, so could end up spending more on the teachers and food, resulting in higher costs."** **A half-empty class costs the same as a full one.** **I would still choose the courses, on the condition that Loaf takes bookings in advance so a class only runs when it is paid for — because the difference between these options is that one puts Loaf's money at risk nationally, and the other puts the customer's money in first.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The cookery courses** — first sentence |
+| **2. AO2 + AO3** | Uses **the kitchen and space Loaf already has**, with customers paying in advance |
+| **3. Counter-arguments** | Pop-ups → **costs may exceed revenue → negative net cash flow**; courses → **half-empty classes cost the same as full ones** |
+| **4. Named condition** | ⭐ **Provided bookings are taken in advance so a class only runs when paid for** |
+
+**Second acceptable chain:** pop-ups **take the products to places where nobody knows the bakery at all** → that reach is the only way to grow beyond the local area → **but a business that is not known cannot rely on a crowd turning up to buy.** The scheme's own phrasing is the giveaway: *"as Loaf may not be known"*.
+
+---
+
+## 190. PROMOTION — special offers vs social media
+
+**Asked:** *"Option 1: increase special offers to encourage more passengers to fly · Option 2: use social media to advertise to a large number of potential passengers."* — **May–June 2020 P2, 2(f)**, Emirates
+
+**The AO2 anchors:** special offers **encourage more passengers to fly with Emirates**; **many passengers use social media, so it is a good way to advertise to a large number of people**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Emirates should increase its special offers.** The decisive fact is **what an airline is selling and how it is chosen: a seat on a route, compared by price against other airlines flying the same route.** **A special offer acts on that comparison directly — it changes the price the passenger sees at the moment of booking**, which is the moment the choice is made. **Social media reaches a very large audience, but the scheme's own objection cuts to the heart of it: "there is no control over social media and what is being said about Emirates by the users of social media."** **Emirates would be paying to be present on a platform where the conversation is not its own** — and for an airline, a single widely shared bad experience does more damage than a campaign does good. **However, "although special offers help, it is the service and the way passengers are treated that improves the airline's status"** — so the offer brings people onto the plane, but it does not make them come back. **I would still choose the special offers, on the condition that they are used to FILL seats that would otherwise fly empty — because a discount on a route that would have sold out is a discount given away for nothing, while an empty seat earns nothing at all.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The special offers** — first sentence |
+| **2. AO2 + AO3** | Seats are **chosen on price against other airlines on the same route** → an offer acts at the point of booking |
+| **3. Counter-arguments** | Social media → **no control over what users say**; offers → **service, not price, is what builds the airline's standing** |
+| **4. Named condition** | ⭐ **Provided they fill seats that would otherwise fly empty** |
+
+**Second acceptable chain:** social media **reaches passengers Emirates could never have afforded to advertise to individually** → and an airline's reputation travels far on it → **but that is exactly the problem: reputation travels equally far when it is damaged.**
+
+> ⚠️ **The scheme's social-media counter-argument — "no control over social media and what is being said" — is the fixed AO4 for every social-media option in this tier** *(compare entry 204's sibling and the M&M material)*. **Memorise it: with social media you rent the audience and you do not own the conversation.**
+
+---
+
+## 191. PROMOTION — targeted online advertising vs e-newsletters
+
+**Asked:** *"Option 1: targeted online advertising, sending information only to customers who have purchased furniture or signed up to the website · Option 2: e-newsletters, a cost-effective way of sending information to interested customers."* — **May–June 2021 P2, 2(f)**, NEXT
+
+**The AO2 anchors:** targeted online advertising **reaches only those customers who have bought furniture or signed up**; e-newsletters are **a cost-effective way of sending information, and can include details of the wedding list service**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **NEXT should use the e-newsletters.** The decisive fact is **what is being promoted: the wedding list service, which is not a product on a shelf but a service that a customer has to be told about at a moment when they are planning a wedding.** **An e-newsletter goes to everyone who has asked to hear from NEXT, so it reaches customers as they are planning rather than only when they are shopping.** **Targeted online advertising narrows the audience the other way — and the narrowing is its weakness: "it does not reach all the customers of NEXT who might wish to purchase furniture."** **It is aimed at people who have already bought furniture or signed up, so a customer about to marry who has not yet bought anything from NEXT never sees it.** **However, the newsletter has its own limitation, stated plainly: "NEXT cannot be certain that all its customers who want to receive the wedding list service will read the newsletter, as there is no guarantee or way of checking that they have seen it."** **I would still choose the e-newsletter, on the condition that the subject line and the content make the wedding service the reason to open it — because with both methods the message reaching the inbox is only the first step, and the newsletter at least reaches the whole list.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The e-newsletters** — first sentence |
+| **2. AO2 + AO3** | A wedding list is **a planning decision, not a shopping one** → the newsletter reaches the customer **before** they buy |
+| **3. Counter-arguments** | Targeting → **misses customers who have not bought yet**; newsletter → **no guarantee it is read or opened** |
+| **4. Named condition** | ⭐ **Provided the content makes the wedding service the reason to open it** |
+
+**Second acceptable chain:** targeted advertising **wastes nothing, because every recipient has already bought furniture and is therefore a proven customer** → the click-through rate is higher → **but NEXT's growth depends on customers who have NOT bought yet, and targeting deliberately excludes them.**
+
+> ⭐ **This pair is not really about cost or reach — it is about WHERE IN THE CUSTOMER'S LIFE each method speaks.** **Targeting catches the customer after they have started buying; a newsletter can catch them before.** **For a service tied to a life event — a wedding, a new baby, a move — the before matters more.**
+
+---
+
+## 192. PROMOTION — a new product range vs a price discount
+
+**Asked:** *"Option 1: introduce a vegan range to address a new market · Option 2: give a 7.5% discount to draw more customers in at a quiet time."* — **June 2024 P1, 2(f)**, Café Pinch
+
+> **Note that these two options are not the same KIND of thing** — one changes the product, the other changes the price. **The question is really whether Café Pinch's problem is that it has nothing new to sell, or that not enough people are coming through the door at certain hours.**
+
+**The AO2 anchors:** a vegan range **addresses a new market for the café**; a 7.5% discount **can draw more customers into the café at a time when it might not be busy**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Café Pinch should introduce the vegan range.** The decisive fact is **what the discount can and cannot do: 7.5% off brings people in during a quiet period, but it brings in the SAME customers, and it brings them in cheaper.** **The café has not gained a market — it has given up margin on customers it already had.** **A vegan range reaches people who currently walk past, and the scheme's framing is that it "addresses a new market for the café".** **Once a vegan customer has been in and been served well, they can become a regular at full price** — which is a permanent addition to the customer base rather than a temporary one. **However, "whilst this might draw in more customers, Café Pinch needs to ensure it spends some time researching the products its customers want as well as what the competitors nearby are selling"** — a new range built on assumption rather than research may simply not sell. **And the discount has its own trap: "despite this leading to a potential increase in competitiveness, as Café Pinch is only small, they may not be able to cope with the increased demand at this time",** which would damage the service. **I would still choose the vegan range, on the condition that the research comes before the menu — because a new range that nobody wants has cost the café money, while a discount has only cost it margin on sales it would mostly have made anyway.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The vegan range** — first sentence |
+| **2. AO2 + AO3** | A discount **brings back the same customers, cheaper**; a new range **adds customers permanently** |
+| **3. Counter-arguments** | New range → **must be researched, or it will not sell**; discount → **small café may not cope with the demand it creates** |
+| **4. Named condition** | ⭐ **Provided the research comes before the menu** |
+
+**Second acceptable chain:** the discount **fills the café at the hours when it is empty, and an empty table earns nothing** → the margin lost is only lost on sales that were not going to happen → **but a 7.5% discount is small enough that customers may not notice it at all, in which case it costs margin and changes nothing.**
+
+> ⚠️ **The scheme's caveat about a small business not coping with increased demand is easy to miss and easy to write.** **A promotional question for a SMALL business should always test the discount against capacity** — bringing in more customers than you can serve damages exactly the reputation the promotion was meant to build.
+
+---
+
+## 193. PROMOTION — an event vs leaflets
+
+**Asked:** *"Option 1: hold an event to increase awareness of her flower shop · Option 2: hand out leaflets to passing tourists."* — **May 2023 P1R, 2(f)**, Aude Rose
+
+**The AO2 anchors:** the event **will increase the awareness of her flower shop**; leaflets **can be handed out to passing tourists to draw them to the flower shop**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Aude Rose should hold the event.** The decisive fact is **where the shop is and who is nearby: a flower shop in Paris with tourists passing it, in a city where flowers are bought on sight rather than researched.** **An event makes the shop itself memorable — flowers are a visual product, and an arrangement or a display people stop to look at is the closest thing to a sample the business has.** **Leaflets are the cheaper option, but the scheme's objection is precise and it is about cost as well as effect: "this would mean that someone would have to take time out of the shop to hand out the leaflets, or increase costs by paying someone to hand them out."** **In a small flower shop the person handing out leaflets is the person who serves customers**, so the true cost is the sales that did not happen inside. **However, "these events can be expensive to sponsor, so whilst sales may increase there is no guarantee profits will increase"** — an event is an upfront cost against an uncertain return. **I would still choose the event, on the condition that it can be built from stock the shop already holds — because Aude Rose's advantage is that its product is decorative, and an event that shows the arrangements costs materials rather than hiring a venue.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The event** — first sentence |
+| **2. AO2 + AO3** | Flowers are **visual and bought on sight** → an event is **the closest thing to sampling the product** |
+| **3. Counter-arguments** | Event → **expensive, no guarantee profit rises**; leaflets → **take the serving staff off the shop floor** |
+| **4. Named condition** | ⭐ **Provided it is built from stock the shop already holds** |
+
+**Second acceptable chain:** leaflets **reach tourists who are walking past anyway, so the audience is already in the right place** → distribution is targeted by geography alone → **but a leaflet is thrown away, whereas a display is remembered and photographed — and for a Paris flower shop, being photographed is free promotion.**
+
+---
+
+## 194. PROMOTION — social media vs coupons
+
+**Asked:** *"Option 1: use social media to advertise its wide range of chairs worldwide · Option 2: use coupons giving 10% off bedroom furniture."* — **May 2023 P2, 2(f)**, IKEA
+
+> **Read the two options again: one is untargeted reach, the other is a price cut dressed as a promotion.** **The question is whether IKEA's problem is that people do not know about the furniture, or that they know and are not yet buying.**
+
+**The AO2 anchors:** social media **may reach out to a worldwide audience**; coupons give **10% off any bedroom furniture**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **IKEA should use the social media advertising.** The decisive fact is **what furniture buying needs: a customer who has decided to buy and is comparing ranges.** **A 10% coupon reduces the price of everything in the bedroom range for everyone who takes it — including every customer who was going to buy anyway, which is margin given away for nothing.** **Its weakness is stated in the scheme: "there is no guarantee that customers are going to use the coupon or even visit the store, so the advertising costs would be wasted", and the coupon is only printed and distributed at a cost before anyone uses it.** **Social media reaches the wide audience the scheme describes, and for IKEA the range itself is the advertisement** — chairs and bedroom furniture are visual, and a worldwide audience can see the product without going anywhere. **However, "not everybody uses social media so many people would not be aware of the advert to purchase furniture"** — the reach is wide but it is not everyone. **I would still choose social media, on the condition that the posts lead to a measurable route such as the website or the store locator — because reach with no path to purchase is not promotion, it is just attention.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The social media advertising** — first sentence |
+| **2. AO2 + AO3** | Furniture is **visual** → the range advertises itself; a blanket coupon **discounts sales that would have happened** |
+| **3. Counter-arguments** | Social media → **not everyone uses it**; coupons → **no guarantee they are used; distribution costs incurred first** |
+| **4. Named condition** | ⭐ **Provided the posts lead to a measurable route to purchase** |
+
+**Second acceptable chain:** a coupon **brings customers into the store, where they buy more than the discounted item** → the bedroom furniture is the bait and the basket is the profit → **but furniture is a considered purchase, and a 10% saving rarely decides one that was not going to happen.**
+
+> ⭐ **The decisive comparison in this pair is between reach and margin.** **Coupons always work on people who were already going to buy; advertising works on people who were not.** **Ask which group the business needs, and the answer follows.**
+
+---
+
+## 195. PROMOTION — local sponsorship vs a wider exhibition
+
+**Asked:** *"Option 1: sponsorship to increase awareness in the Kampong Glam area · Option 2: an exhibition that can make the business known to a wider market of artists."* — **Nov 2021 P1, 2(f)**, Artify Studio
+
+**The AO2 anchors:** sponsorship **would increase awareness of Artify Studio to those in the Kampong Glam area**; the exhibition **can allow a business to become known to a wider market of artists**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Artify Studio should sponsor locally.** The decisive fact is **the geography of the business: a studio in Kampong Glam sells to people who can physically come to it, and the local audience is the only one that can become customers.** **Becoming known to a wider market of artists is worth little if those artists are not nearby** — a wider reputation that cannot be converted into attendances is not revenue. **And the scheme's objection to the exhibition is the mirror of that: "it would mean taking time out of the business, and it may not bring in new customers or improve its image if the exhibition was poorly attended."** **An exhibition costs preparation time and can simply fail to draw anyone.** **However, "sponsorship can cost the business a lot depending on the size of the art show, and this could be a cost that the business cannot afford"** — so the local route is not free either. **I would still choose the local sponsorship, on the condition that the cost is capped at a show small enough that the studio's name is prominently on it — because being one of many names at a large event is not the same as being the sponsor the neighbourhood notices.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Local sponsorship** — first sentence |
+| **2. AO2 + AO3** | A studio **sells to people who can come to it** → a wider reputation **cannot be converted** |
+| **3. Counter-arguments** | Sponsorship → **may cost more than the business can afford**; exhibition → **takes time and may be poorly attended** |
+| **4. Named condition** | ⭐ **Provided the cost is capped at a show small enough for the studio's name to be prominent** |
+
+**Second acceptable chain:** the exhibition **connects Artify with other artists, which builds its standing in the art world** → that standing attracts students and teachers alike → **but standing is earned over years, while rent is paid monthly, so the local audience converts faster.**
+
+> ⭐ **This is the "local versus wider" pair, and it appears whenever a business has a physical location its customers must visit.** **Reputation beyond the catchment area is not wrong — but it is not revenue either, and this tier always rewards the option that can be converted into a sale.**
+
+---
+
+## ✅ THE PROMOTION AND PRICING CLUSTERS — COMPLETE
+
+**17 entries across 21 blocks.** Every promotion and pricing Justify question in the qualification is now carried:
+
+| Option-pair family | Entry |
+|---|---|
+| Free presence vs paid sampling *(Loaf)* | **188** |
+| Product expansion vs pop-up events *(Loaf)* | **189** |
+| Special offers vs social media *(Emirates)* | **190** |
+| Targeted advertising vs e-newsletters *(NEXT)* | **191** |
+| New product vs discount *(Café Pinch)* | **192** |
+| Event vs leaflets *(Aude Rose)* | **193** |
+| Social media vs coupons *(IKEA)* | **194** |
+| Local sponsorship vs wider exhibition *(Artify)* | **195** |
+| Low opening price vs half-price add-on *(Nando's)* | **196** |
+| Cost plus vs promotional pricing *(Tata · TUI · Huawei)* | **197** |
+| Introductory price vs brand recognition *(NOF)* | **198** |
+| Cost plus vs price skimming *(LEGO · Saha)* | **199** |
+| Competition pricing vs cost plus *(AWG)* | **200** |
+| Price matching vs discount *(Premier Inn)* | **201** |
+| Free giveaway vs mass advertising *(Apple)* | **202** |
+| Celebrity endorsement vs free giveaway *(Samsung)* | **203** |
+| Charity sponsorship vs special offers *(Kraft Heinz · PPS)* | **204** |
+
+> ### ⭐ THE ONE QUESTION THAT DECIDES EVERY PRICING AND PROMOTION ANSWER
+> **Is the business trying to reach people who do not know it, or to convert people who do?**
+>
+> **Converting** → act at the point of decision: an offer, a coupon, a discounted add-on, a giveaway attached to the purchase. **The risk is that you discount sales you would have made anyway.**
+> **Reaching** → act before the decision: social media, an event, an exhibition, a newsletter. **The risk is that you pay for delivery and cannot guarantee the result — *"you pay for the delivery, not for the result".***
+>
+> **Every AO4 in this cluster is one of those two risks.** **Name which one applies, and the evaluation writes itself.**
+
+---
+## 196. PRICING — an introductory/low price vs another tactic
+
+**Asked:** *"Option 1: charge a low price for its meals when it first opens a new restaurant · Option 2: offer a half-priced drink when a person orders a meal on their first visit."* — **June 2026 P2, 2(f)**, Nando's
+
+> **Both options are promotional pricing — the difference is what is discounted, not whether.** **Option 1 cuts the price of the MAIN product; option 2 keeps the meal price intact and gives away something beside it.** That distinction is what the answer turns on.
+
+**The AO2 anchors:** Nando's **may charge a low price for its meals when it first opens**; or it **could offer a half-priced drink when a person orders a meal on their first visit.**
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Nando's should offer the half-priced drink rather than discounting the meals.** The decisive fact is **what the two options do to the price the customer learns.** **Opening with low meal prices teaches customers what a Nando's meal is worth — and the scheme warns that "some customers may associate a low price with low-quality food and may not visit the new restaurant".** **Once that impression is set, raising the price to its normal level reads as a price rise rather than as a return to normal.** **The half-priced drink avoids that entirely, because the meal keeps its real price and the customer has simply been given something extra on the first visit.** **However, the drink offer has its own weakness: "customers may not continue dining at Nando's once the promotional offer ends"** — because the incentive was the drink, not the restaurant. **I would still choose the half-priced drink, on the condition that the first visit is good enough to earn the second — because a chicken restaurant lives on repeat custom, and the offer only works if what it is promoting is worth coming back for.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The half-priced drink** — first sentence |
+| **2. AO2 + AO3** | Discounting meals **teaches a low price → reads as "cheap quality" → then a rise reads as a price rise**; the drink offer **protects the meal's real price** |
+| **3. Counter-arguments** | Low meal price → **low-quality association**; drink offer → **customers may not return once it ends** |
+| **4. Named condition** | ⭐ **Provided the first visit earns the second** — because this business runs on repeat custom |
+
+**Second acceptable chain:** a low opening price **fills the restaurant and builds a reputation through word of mouth** → a full restaurant is its own advertisement → **but the customers who arrive are price-sensitive ones, and they are the hardest group to raise prices on.**
+
+> ⭐ **The comparison in this question is between discounting the PRODUCT and discounting the ADD-ON.** **Protecting the main price preserves what customers think the product is worth** — that is the whole argument, and it transfers to any pair shaped this way.
+
+---
+
+## 197. PRICING — cost plus vs promotional or lower pricing
+
+**Asked:** *"Option 1: cost plus pricing · Option 2: promotional pricing."* — **May–June 2019 P2, 2(f)**, Tata Motor Company ($£$*new vehicles*)
+**Also asked:** *"Option 1: a price comparable to other travel agents · Option 2: a cheaper price to attract customers from rivals."* — **June 2024 P2, 2(f)**, TUI
+**Also asked:** *"Option 1: a realistic price · Option 2: a cheaper price to switch customers from their present brand."* — **Nov 2021 P2, 2(f)**, Huawei
+
+> **Three papers, three businesses, the same decision shape: a price that covers the cost against a price that wins the sale.** **The scheme's counter-arguments are near-identical every time**, which is why one entry answers all three.
+
+**The AO2 anchors:** with cost plus **the company knows the cost of making the vehicle has been covered**; promotional pricing **is a good strategy for selling new vehicles**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Tata should use cost plus pricing for its new vehicles.** The decisive fact is **what is being sold: a vehicle is a high-cost product, and a single model sold below its manufacturing cost loses money that no volume of sales recovers unless the price is above cost.** **Cost plus guarantees the cost is covered on every unit** — and **that certainty is what allows a manufacturer to plan production, order components and pay a workforce before a single car is sold.** **Promotional pricing would generate sales faster, and for a new model that matters, because dealers want cars that move.** **However, "even though the sales may be higher, the profit per vehicle will be lower"** — and on a vehicle, **the profit per unit is where the whole business model sits.** **However, the scheme also cautions that cost plus "does not guarantee that sales are going to be made, especially if a competitor is cheaper, therefore selling more vehicles"** — so the price is safe but the volume is not. **I would still choose cost plus, on the condition that the price is checked against the closest competitor's model before launch — because a price that covers the cost of a car nobody buys covers nothing at all.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Cost plus** — first sentence |
+| **2. AO2 + AO3** | A vehicle is **high-cost per unit** → cost plus **protects the margin on every car** → funds components and wages **before any sale** |
+| **3. Counter-arguments** | Promotional pricing → **lower profit per vehicle**; cost plus → **may sell nothing if a rival is cheaper** |
+| **4. Named condition** | ⭐ **Provided the price is checked against the closest competitor before launch** |
+
+**Second acceptable chain (Huawei or TUI):** a **cheaper price switches customers from the brand they currently own** → the switch is the hardest thing to buy in a mature market → **but "promotional pricing may generate sales for the length of the promotion, and once the price reverts to normal it may reduce sales"** — so the switch has to be made permanent by the product, not the price.
+
+> ⚠️ **The sentence *"once the price reverts to normal, sales may reduce"* appears in the scheme for TUI and for Huawei, word for word.** **It is the single most repeated counter-argument in the pricing cluster — use it every time promotional pricing appears.**
+
+---
+
+## 198. PRICING — an introductory price vs relying on brand recognition
+
+**Asked:** *"Option 1: offer an introductory price to entice shoppers to try the popcorn · Option 2: rely on customers recognising the farm's name when comparing to its competition."* — **May–June 2021 P1, 2(f)**, NOF
+
+> **This is the only pair in the tier where one option is not a price at all.** **Option 2 is the decision to charge a normal price and let the brand do the work** — so the question is really: **is the brand strong enough to skip the discount?**
+
+**The AO2 anchors:** an introductory price **could entice shoppers in the farm shop to try the popcorn**; customers **might recognise the farm's name so will buy the popcorn when comparing to its competition**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **NOF should use the introductory price.** The decisive fact is **what the popcorn is: a product the farm has never sold before, sitting on a shelf beside brands that shoppers already know.** **NOF's name is recognised for the FARM — for its honey and its rooms — and "as they do not have an established brand of popcorn, customers may choose to buy a more popular branded popcorn they know".** **Recognition of the business does not transfer automatically to a new product category**, which is the assumption option 2 makes. **An introductory price gives the shopper a reason to take the risk on the unfamiliar bag**, and **trying it is the only thing that can convert the farm's reputation into popcorn sales.** **However, "the profit on each bag of popcorn will be low even though sales may increase, so in the short term profits might suffer"** — and that is a real cost, paid before any benefit arrives. **I would still choose the introductory price, on the condition that it is time-limited to the season the popcorn launches in — because a permanent low price on popcorn would simply become the price of popcorn, while a temporary one ends once the farm's reputation has done the work.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The introductory price** — first sentence |
+| **2. AO2 + AO3** | The farm's **name is not a popcorn brand** → recognition **does not transfer to a new category** → a reason to try is needed |
+| **3. Counter-arguments** | Introductory price → **low profit per bag, short-term profits suffer**; brand route → **customers may choose a known brand instead** |
+| **4. Named condition** | ⭐ **Provided it is time-limited to the launch season** |
+
+**Second acceptable chain:** an introductory price **brings shoppers into the farm shop where the honey and rooms are also sold** → **the loss on the popcorn is recovered on the rest of the basket** → which is why a farm shop can afford a loss-leader a standalone popcorn brand could not.
+
+> ⭐ **The idea to take away: brand recognition is SEGMENT-SPECIFIC.** *"Customers know the farm"* is not *"customers know the popcorn"*. **Wherever a question asks you to rely on an existing reputation to sell something new, that gap is your argument.**
+
+---
+
+## 199. PRICING — cost plus vs price skimming
+
+**Asked:** *"Option 1: cost plus pricing · Option 2: price skimming on release."* — **June 2022 P2, 2(f)**, LEGO ($£$*the new Princess Leia toy*)
+**Also asked:** *"Option 1: price skimming to charge a high price for its new home robots · Option 2: cost plus to ensure all costs are considered."* — **Nov 2024 P1, 3(e)**, Saha
+
+> **The two questions put the options in opposite orders — and they point at OPPOSITE answers, which is the point.** LEGO sells **a collectible character toy**; Saha sells **a household robot**. **Same pair, different product, different decision.**
+
+**The AO2 anchors (LEGO):** cost plus is **easy to apply and LEGO will know the cost of manufacturing the Princess Leia toy is covered when sold**; price skimming means **the toy is sold at a high price when it is released**.
+**The AO2 anchors (Saha):** skimming **enables Saha to charge a high price for its new home robots**; cost plus **ensures all costs such as metal and assembly are considered**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **LEGO should use price skimming on the Princess Leia toy.** The decisive fact is **the product: a licensed character toy launched to a fan base that wants it on release day, before anyone else has it.** **That audience will pay a premium for being first, and the premium is only available in the weeks around launch** — after that, the same toy sits in the same shops as every other set. **Price skimming takes the money that willingness to pay creates, while it exists.** **Cost plus would leave that on the table, because as the scheme notes it "does not account for what the customer is willing to pay" — it prices from LEGO's costs, not from the customer's desire, so a toy fans would have paid double for goes out at cost plus a fixed markup.** **However, "this strategy might limit the number of potential customers wanting to buy the product as the price is too high"** — and a licensed toy that sells too few units **may not justify the licence fee at all.** **I would still choose skimming, on the condition that the price is cut deliberately once the launch window closes — because LEGO has a fan base that will wait if the price never falls, and a collector's market is worth less than a mass market over the life of the set.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Price skimming** — first sentence |
+| **2. AO2 + AO3** | **Launch-window willingness to pay exists only briefly** → skim while it does |
+| **3. Counter-arguments** | Skimming → **may limit customers because the price is too high**; cost plus → **does not account for what the customer will pay** |
+| **4. Named condition** | ⭐ **Provided the price is cut once the launch window closes** |
+
+**The Saha answer runs the other way — and the reason is the product.** Saha's robots are **a metal-and-assembly manufactured good sold into homes, against named rivals (Zoox, Vention)**, and the scheme warns that **"if the price is considered too high for its target audience it may lose sales to competitors"**. **A household robot is not a collectible: it competes on price with alternatives, so cost plus — which "ensures all costs such as metal and assembly are considered" — is the safer route**, with the caveat that **it may "limit revenue/profit" because it ignores willingness to pay.**
+
+> ⭐ **The transferable test for skimming: is there a group who will pay a premium to be FIRST?** **Characters, launches, new technology that nobody else has — yes. A commodity sold against named rivals — no.** **Notice how the scheme's own counter-argument ("may limit the number of potential customers as the price is too high") is the SAME in both papers, and it is decisive in one and survivable in the other.**
+
+---
+
+## 200. PRICING — competition pricing vs cost plus
+
+**Asked:** *"Option 1: competition pricing at similar prices to other clothing retailers · Option 2: cost plus with a markup for profit."* — **Nov 2023 P1, 3(e)**, AWG ($£$*Icelandic jumpers made from sustainable materials*)
+
+> **This is the pricing question the bank most wants you to see, because the correct answer turns on a single fact buried in the case: the manufacturing cost is HIGH.**
+
+**The AO2 anchors:** competition pricing would see AWG **selling clothing at similar prices to other clothing retailers**; cost plus would **calculate the costs of making the jumpers and add a markup for profit**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **AWG should use cost plus pricing.** The decisive fact is **what AWG makes its jumpers from: sustainable materials, which are more expensive than the conventional ones its competitors use.** **Competition pricing means matching other clothing retailers — but those retailers are not paying AWG's material costs, so a price that suits them may be below AWG's own cost of production.** **The scheme states it plainly: "as AWG use sustainable materials in its jumpers, the manufacturing cost of the clothing may be high, which means selling at a competitive price may not be feasible."** **Cost plus starts from AWG's real costs and adds a markup, so the business cannot accidentally sell below what it spent** — which is the minimum any business needs before it can think about profit. **However, cost plus removes the market from the decision: it "does not account for what the customer is willing to pay, and AWG could be losing out on possible increased revenue and profits."** **I would still choose cost plus, on the condition that AWG makes the sustainability itself the reason to pay the higher price — because the materials cost more, and if customers do not value the difference, AWG is paying a premium for a feature nobody is buying.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Cost plus** — first sentence |
+| **2. AO2 + AO3** | **Sustainable materials cost more than rivals'** → matching the competition **may price below cost** |
+| **3. Counter-arguments** | Cost plus → **ignores what the customer will pay, losing potential revenue**; competition pricing → **may not be feasible at AWG's cost base** |
+| **4. Named condition** | ⭐ **Provided the sustainability is made the reason to pay more** |
+
+**Second acceptable chain:** competition pricing **removes price as a reason for a shopper to choose a rival** → AWG competes on the product instead → **but only if the rival's price is above AWG's cost, which is exactly what the sustainable materials prevent.**
+
+> ⭐ **This entry is the proof of the bank's central claim about this tier: the OPTION PAIR does not determine the answer — the CASE does.** **Cost plus is the "safe but unimaginative" option here; on Nando's or Huawei it would be the wrong choice.** **Read the case fact that makes the difference, then decide.**
+
+---
+
+## 201. PRICING — price matching vs a discount
+
+**Asked:** *"Option 1: match the price of competitors for its rooms · Option 2: offer a discount on a 3-night stay."* — **Nov 2024 P2, 2(f)**, Premier Inn
+
+> **Both options compete on price, so the difference is WHAT KIND of customer each attracts.** Matching is **permanent and open to everyone**; a discount on three nights is **temporary and aimed at a specific booking.**
+
+**The AO2 anchors:** Premier Inn **will match the price of competitors for its rooms**; or it **could offer a discount on the price of a 3-night stay**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Premier Inn should match competitors' prices.** The decisive fact is **what a hotel sells and when it is chosen: a room is booked against other hotels on a screen, and price is the first thing a guest compares.** **Matching removes price as the reason a guest books elsewhere, so the decision falls to the hotel's facilities and location — which is where Premier Inn wants to compete, because that is what it has invested in.** **It also applies to every booking rather than to a chosen few, so it defends the whole business rather than one slice of it.** **The 3-night discount does something different and narrower: it raises bookings among guests already planning a longer stay, and "even though the bookings may be higher there is no guarantee that the profit will be the same or higher"** — because the discount comes straight off the margin on the nights sold. **However, matching has its own limitation, and the scheme names it: "there is no guarantee that customers will book with Premier Inn as they may prefer the facilities at another hotel".** **I would still choose price matching, on the condition that it is applied only to like-for-like rooms in the same location — because matching a rival's price for a hotel with a pool, when Premier Inn has none, gives away margin to win a comparison it will lose anyway.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Price matching** — first sentence |
+| **2. AO2 + AO3** | Hotels are **compared on a screen** → matching **removes price as the reason to go elsewhere** and applies to **all** bookings |
+| **3. Counter-arguments** | Matching → **guests may prefer another hotel's facilities anyway**; discount → **bookings up but profit may not be** |
+| **4. Named condition** | ⭐ **Provided it applies to like-for-like rooms in the same location** |
+
+**Second acceptable chain:** the 3-night discount **lifts occupancy midweek, when hotels are emptiest** → an empty room earns nothing, so **any price is better than none** → **whereas matching every night gives away margin on nights that would have sold at full price anyway.**
+
+> ⭐ **The distinction that wins this question: does the tactic apply to ALL sales or TARGETED ones?** **A blanket price change protects volume but permanently lowers margin; a targeted discount raises volume in the emptiest part of the business and leaves the rest untouched.** **Say which one the case's problem needs.**
+
+---
+
+## 202. PROMOTION — a free giveaway vs mass advertising
+
+**Asked:** *"Option 1: a TV advert promoting its phones and laptops · Option 2: free headphones with a laptop."* — **June 2026 P2R, 2(f)**, Apple
+
+**The AO2 anchors:** a TV advert **will target a large audience**; the free headphones **may encourage some young people to buy a laptop**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Apple should use the free headphones.** The decisive fact is **who the laptop is being sold to: younger buyers, and the scheme warns that "many people, especially young people, no longer listen to or have any interest in TV advertisements", so a TV campaign "may not be cost effective and reach Apple's target audience".** **A television advert pays for a very large audience and delivers a very small share of it — and the share Apple needs is the one that is not watching.** **The headphones do the opposite: they reach nobody who is not already looking at the laptop, and they create the reason to complete the purchase at the moment of decision.** **However, "students may not be interested in promotional products, and the offer may not be a sufficiently good deal to persuade them to buy" — particularly as they may prefer cheaper alternatives to an Apple laptop in the first place.** **I would still choose the headphones, on the condition that they are a product this buyer actually wants — because a free accessory nobody values does not shift a laptop, it just gives away stock and reduces the effective price for people who would have bought anyway.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The free headphones** — first sentence |
+| **2. AO2 + AO3** | **Young buyers do not watch TV ads** → mass reach is wasted; headphones **act at the point of decision** |
+| **3. Counter-arguments** | TV → **not cost-effective for this audience**; giveaway → **students may not value it or may buy cheaper anyway** |
+| **4. Named condition** | ⭐ **Provided it is an accessory this buyer actually wants** |
+
+**Second acceptable chain:** the TV advert **builds the brand beyond the people buying this year** → brand advertising works over years, while a giveaway only works in the week it runs → **but a laptop is a considered purchase bought on specification and price, so brand awareness alone does not close it.**
+
+> ⚠️ **The scheme's counter-argument for mass advertising is THE SAME POINT that makes it strong: the large audience.** *"Target a large audience"* is not a benefit if **the audience is not the customer.** **That reversal — a strength that is a weakness for this particular business — is worth 3 AO4 marks, and it appears in this cluster more than once.**
+
+---
+
+## 203. PROMOTION — paid celebrity endorsement vs a free giveaway
+
+**Asked:** *"Option 1: pay fees to a celebrity for using its smartphones · Option 2: free game applications to encourage young people to buy a phone."* — **Nov 2025 P2, 2(f)**, Samsung
+
+> **This is the closest pair in the tier to entry 206 — and the difference is instructive.** **Both pair a paid broadcast against a free gift; here the paid channel is a CELEBRITY rather than a TV slot.**
+
+**The AO2 anchors:** Samsung **could pay fees to a celebrity for using its smartphones as a way of getting publicity**; **free game applications may encourage young people to buy a phone.**
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Samsung should use the free game applications.** The decisive fact is **the age of the buyer: young people choose a phone largely on what it can do, and games are what it does.** **Free applications make the phone worth more at the moment of choosing, and that value is in the product itself rather than in an image attached to it.** **A celebrity endorsement buys attention and association, which is powerful for a brand that needs to be seen as desirable** — but **it is a fee paid to a person, and the association disappears the moment the contract ends or the celebrity moves to a rival's product.** **However, the games have their own limitation: they are free to the customer only if Samsung pays the developer, so the giveaway is a cost on every phone sold** — and **it narrows the margin on the units it is most trying to sell.** **I would still choose the games, on the condition that the phones they are bundled with are the mid-range models younger buyers actually buy — because a giveaway attached to a flagship nobody in that group can afford is a discount given to people who did not need persuading.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The free games** — first sentence |
+| **2. AO2 + AO3** | **Young buyers choose on capability** → games make the phone worth more **in the product** |
+| **3. Counter-arguments** | Celebrity → **fee paid, association temporary**; games → **cost on every unit, narrowing margin** |
+| **4. Named condition** | ⭐ **Provided it is attached to the models this buyer can afford** |
+
+**Second acceptable chain:** a celebrity endorsement **generates press coverage and social media attention that is not paid for directly** → the reach goes far beyond the advert → **but it is the celebrity the audience remembers, not the specification, which does not help a phone competing on features.**
+
+> ⭐ **The celebrity's AO4 is worth learning as a fixed item: you PAY a fee, and the association ENDS.** **The scheme's whole objection to buying attention is that you rent it.** **The same logic applies to sponsorship (entry 208) and to TV advertising (entry 206).**
+
+---
+
+## 204. PROMOTION — sponsoring a charity or event vs special offers
+
+**Asked:** *"Option 1: sponsor a local charity such as Animal Rescue · Option 2: increase special offers on its sauces."* — **Nov 2023 P2, 2(f)**, Kraft Heinz
+**Also asked:** *"Option 1: free trial of a new dog food brand · Option 2: sponsor a local dog show."* — **June 2024 P1R, 2(f)**, PPS
+
+**The AO2 anchors (Kraft Heinz):** sponsoring **gains publicity and involvement in the local community**; special offers **may encourage more people to purchase its products**.
+**The AO2 anchors (PPS):** a free trial **will appeal to dog owners who regularly purchase dog food**; sponsoring a dog show **will promote products such as dog collars**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Kraft Heinz should increase its special offers.** The decisive fact is **what the money has to do: move tins of beans and bottles of sauce off shelves.** **A special offer works directly on that decision, because the customer is already standing in front of the product with the price in view** — the offer changes what they pay at the moment they were going to choose. **Sponsoring Animal Rescue buys something real but different: publicity and standing in the local community.** **The problem is the link, and the scheme states it: "there is no guarantee that because an event has been sponsored by Kraft Heinz people will purchase its products."** **Publicity is not the same as a reason to buy, and a shopper who has seen the company's name on a rescue campaign still chooses the sauce on price and taste.** **However, "special offers may help increase sales but they can cost Kraft Heinz additional costs which might not be recovered"** — so the offer is a straight trade of margin for volume. **I would still choose the special offers, on the condition that they are timed to the period when the products are actually competed for — because a discount on a product the shopper was always going to buy is simply a price cut, and it is permanent once customers are used to it.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The special offers** — first sentence |
+| **2. AO2 + AO3** | Offers act **at the shelf, where the decision is made** |
+| **3. Counter-arguments** | Sponsorship → **no guarantee people will buy**; offers → **cost that may not be recovered** |
+| **4. Named condition** | ⭐ **Provided they are timed to when the product is genuinely being contended for** |
+
+**Second acceptable chain (PPS):** sponsoring a **dog show** puts the products in front of **owners who already buy dog food and collars** — a targeted audience at a moment they are thinking about their dog → **but "it does cost to sponsor an event so PPS would need to incur cost upfront before they gain an increase in revenue", which a small business may not be able to carry.**
+
+> ⚠️ **Note which way this one goes, and why: the scheme's own formulation makes the sponsorship link weak — "there is no guarantee … that people will purchase its products".** **When a counter-argument is printed in the scheme, it is the correct ground to argue on.** **This is the opposite conclusion from entry 186 (AWG), where venture capital beat franchising — because there the option being rejected damaged the BRAND, and here the option being rejected is merely indirect.**
 
 ---
