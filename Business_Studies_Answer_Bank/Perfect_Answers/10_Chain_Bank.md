@@ -41,6 +41,8 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 > ✅ **THE 6-MARK TIER IS CLOSED.** All **114 blocks** are carried by entries **101–174** — verified by `layer_c_6mark_coverage.py`, which prints **114 covered / 0 remaining** and flags any dangling entry reference. **It was 74 entries for 114 blocks**, because **40% of the tier was a repeat of a topic already answered**: *multinational* and *motivating employees* **six times each**, *break-even* **five**, and *cash*, *SoCI*, *interest rates*, *branding*, *robotics*, *induction* and *host-economy benefit* **three or four times each**.
 
+> ✅ **THE 9-MARK TIER IS OPEN — and it behaves differently from the other two.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **56 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**.
+
 **Progress against those 380 blocks:**
 
 | Tier | Blocks | Written | Remaining |
@@ -105,7 +107,8 @@ Every entry gives you:
 | **5h** | **6-mark Analyse — May 2023, all four papers** | ✅ **6 entries (157–162)** |
 | **5i** | **6-mark Analyse — the four November papers** | ✅ **12 entries (163–174)** |
 | **6** | **6-MARK TIER — CLOSED at 114/114 blocks** | ✅ **done** |
-| **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ next |
+| **7a** | **9-mark Justify — the universal scaffold + the sources-of-finance cluster** | ✅ **13 entries (175–187)** |
+| **7b–8** | 9-mark Justify — the remaining **65 blocks** | ⬜ next |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
@@ -3935,5 +3938,344 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 > ### THE ONE RULE FOR EVERY 6-MARK ANSWER, EARNED FROM THE 6/6 IN THE ARCHIVE
 > **One point, developed in strands, with application throughout — and end on something measurable.** *"The candidate has provided 1 point with developed strands… Candidates are reminded that there are no marks for knowledge in this question."* **Two points each developed once scored 5/6. Depth beats breadth, and every entry above is built in that shape.**
+
+---
+
+# BATCH 7 — 9-MARK JUSTIFY, PART 1
+
+**1 scaffold entry + 11 option-pair entries, covering every sources-of-finance question in the qualification.**
+
+> ### ✅ THE 9-MARK TIER IS THE MOST UNIFORM IN THE QUALIFICATION — AND THE LEAST REPETITIVE
+> All **76** nine-mark questions use **one framing and one framing only**: *"Justify which one of these two options X should choose."* There is no variation in the command, the AO split (**AO2 = 3 · AO3 = 3 · AO4 = 3**) or the level descriptors. **So the scaffolding below is worth learning once and using 76 times.**
+>
+> **But unlike the 3-mark and 6-mark tiers, the nine-mark tier barely repeats its content.** In the option pairs there are **55 distinct combinations across 76 blocks** — the same business decision (a source of finance) is set with **eleven different pairs**. **What repeats is the DECISION TYPE, not the pair.** That is why this batch is organised by decision type, and why the entries below are grouped: *sources of finance* is one decision type with eleven pairs inside it.
+
+---
+
+## 175. ⭐ THE UNIVERSAL 9-MARK SCAFFOLD — read this before any Justify answer
+
+**The framing, in full, is always:** *"Option 1: … Option 2: … **Justify which one of these two options X should choose.**"* Sometimes the stem adds *"You should use the information provided as well as your own knowledge of business."* — **that sentence is a instruction, not a formality: it is telling you the AO2 mark cannot be earned from general knowledge.**
+
+### What the three AO marks are actually for
+
+| AO | Marks | What it means in a Justify answer |
+|---|---|---|
+| **AO2** — application | **3** | **Case facts used as evidence for the option you favour.** Not the business's name — the *facts*. |
+| **AO3** — analysis | **3** | **A chain of reasoning** from the option to a consequence for this business. |
+| **AO4** — evaluation | **3** | **The judgement, the counter-argument, and a NAMED CONDITION.** |
+
+### ⭐⭐ THE STRUCTURE THAT SCORES — four moves, in this order
+
+| Move | What you do | Why it earns the mark |
+|---|---|---|
+| **1.** | **State your choice immediately.** *"CCT should sell the unused equipment."* | AO4 needs a decision. **Do not leave it to the end** — an answer that only decides in the last line leaves the examiner hunting for it. |
+| **2.** | **Give the case-specific reason for it** — the fact from the case that makes *this* option right *for this business*. | AO2. The fact must be from the case, **not the business's name**. |
+| **3.** | **Dismiss the other option with the scheme's own counter-argument** — *"however, …"*. | **This is the AO4 the mark schemes print for every single block.** Every AO4 bullet in all 76 questions begins *"However…"*. |
+| **4.** | **Name the CONDITION your judgement depends on.** | ⭐ **The single mark most candidates miss, and the reason a 9/9 looks different from a 7/9.** |
+
+### ⭐⭐ THE NAMED CONDITION — the one thing that separates 9 from 7
+
+**The rule, proved from the verified 9/9s:** *a top-band evaluation scores only on a condition specific to **this business** and **this option**.* The test is simple —
+
+> **Could your final condition be pasted onto a different question without changing a word? If yes, it is not a condition — it is a platitude, and it scores nothing.**
+
+**A platitude:** *"This depends on whether the business can afford it."* — **worthless.**
+**A named condition:** *"**However, the success of this depends on how much employees get to voice their own concerns in business.**"* — Rabanne, 9/9, and it is a condition because **it could only be written about weekly meetings.**
+
+**So end on the specific fact or number that would have to hold.** *"This works **provided the €7 500 is genuinely available in savings**"* · *"This depends on **whether the electric bicycles at £550 each are actually cheaper than repairing the tour route**"* — **the number and the case fact are what make it un-pasteable.**
+
+### The 9/9 conclusion — three sentences, and they do three jobs
+
+The verified full-mark conclusions are all **three sentences long** and run in this order:
+
+1. **The choice, and the reason** — *"Rabanne should hold weekly meetings as it gives employees this sense of belonging as their opinions are physically heard."*
+2. **The other option, dismissed** — *"Whereas communication via messages can get lost in inboxes which leads to manufacturers missing important business objectives announcements."*
+3. **The named condition** — *"However, the success of this depends on how much employees get to voice their own concerns in business."*
+
+### ⚠️ THE FIVE WAYS THIS QUESTION IS LOST
+
+1. **Analysing the wrong party** — several stems ask what is best for the *owners*, the *employees* or the *country*. **Check who benefits.**
+2. **Deciding at the end** (or not at all). AO4 needs a choice, visibly.
+3. **Writing two mini-essays with no comparison.** The marks are for **choosing**, so the analysis of each option exists to support a decision.
+4. **A generic conclusion** — see the pastability test above.
+5. **Bullets.** They **disqualify the top levels** outright, on every tariff.
+
+> ⭐ **One more structural fact worth knowing:** across all 76 blocks, **2(f) is almost always a marketing or finance choice** (promotion, pricing, research, sources of finance) and **3(e) is almost always an operations or HR choice** (job design, training, recruitment, production, contracts). **If you are running short of time, that tells you what the question is likely to be about before you read it.**
+
+---
+
+## 176. SOURCES OF FINANCE — venture capital vs a bank loan
+
+**Asked:** *"Option 1: venture capital · Option 2: loan capital. Justify which one of these two options the owners should choose."* — **Nov 2025 P1, 2(f)**, Ocean Vibes ($£$*dolphin and bird tours*)
+> **⚠️ Do not confuse this with *venture capital vs crowdfunding*, which was asked on the same series.** That pair — June 2026 P1R, Spud Bros — is **entry 185**, and it is a different question with a different answer, because **neither option charges interest**. **Check which two options you have been given before you write a single line.**
+
+**The AO2 anchors (Ocean Vibes):** the owners may **appeal to an individual who wishes to invest in a business concerned with the welfare of birds and dolphins**; a loan would let them **buy new boats to offer more boat tours**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **The owners of Ocean Vibes should take the venture capital.** The decisive fact is **what the investor brings beyond money: this is a business whose whole appeal is the welfare of birds and dolphins**, and an investor who has chosen it *for that reason* is **someone who will fund the boats and support the positioning rather than pushing the business towards whatever makes the fastest return**. **A loan would do the opposite in one important respect.** It arrives with **interest to be paid on top of the amount borrowed, which raises costs and reduces profitability** — and a boat tour business **carries fixed costs whatever the weather or the season does**, so a repayment schedule is a cost that must be met in the months when tours cannot run. **However, the venture capitalist may wish to take some control of the business, which may cause disagreement within it** — and for **owners who built a business around a conservation principle, that control is the real price being paid.** **For that reason I would still choose the venture capital, but only as long as the investor's interest genuinely matches the tours' welfare focus — because the moment the investor wants to cut the wildlife spend to protect the return, the business has lost the thing that makes anyone book it.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Venture capital** — stated in the first sentence |
+| **2. AO2 + AO3** | Investor **chosen the business for its welfare focus** → funds the boats **without forcing a return at the cost of the positioning** |
+| **3. Counter-argument** | The loan **adds interest → higher costs → lower profitability**, on a business with fixed costs out of season |
+| **4. Named condition** | ⭐ **Provided the investor's interest genuinely matches the welfare focus** — not "provided it is affordable" |
+
+**Second acceptable chain:** a bank loan **leaves the owners in full control of the tours they designed** → no disagreement over direction → **but the interest is a cost the tours must cover in every season.**
+
+> ⚠️ **The AO4 for both options is in the scheme and both must appear.** The venture capitalist **"may take a percentage of the business in return for the capital, which gives the owners less independence or control"**; the loan **"will incur interest rates that have to be paid in addition to the loan amount which will increase costs and possibly reduce profitability."** **An answer that only criticises the option it rejects has used half the AO4.**
+
+---
+
+## 177. SOURCES OF FINANCE — crowdfunding vs a bank loan
+
+**Asked:** *"Option 1: crowdfunding · Option 2: loan capital."* — **Nov 2024 P1, 2(f)**, Saha ($£$*robots for hotels, restaurants and homes*)
+
+**The AO2 anchors:** Saha may **appeal to the public for funding to expand its sale of robots into all continents**; a loan could **build new factories to manufacture the new robots for homes**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Saha should use the loan capital.** The reason is the scale of what the money has to do: **the plan is to expand robot sales into all continents**, and that requires **factories — bricks, machinery and a build programme** — not a single popular product. **Crowdfunding raises money in exchange for interest and enthusiasm, not collateral, and it suits a defined, attractive, single purpose.** A factory programme is **neither** — it is expensive, staged and unglamorous — so **crowdfunding is the wrong shape of finance for it. A loan is the right shape because it can be sized and repaid over the life of the asset it buys.** **However, crowdfunding carries no interest at all**, and Saha would keep **every penny of the profit from the expansion** rather than paying a lender for the privilege. **However, the loan will incur interest rates that have to be paid in addition to the loan amount, which will increase costs and reduce profitability** — and **for a business whose robots are priced against rivals such as NIO, a permanent interest cost is a permanent disadvantage on price.** **I would still choose the loan, provided the factory programme is staged so that each stage generates sales before the next is funded — because if Saha borrows the whole amount before the first factory is earning, the interest falls due on assets that are not producing yet.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Loan capital** — first sentence |
+| **2. AO2 + AO3** | **Factories across continents** = large, staged, unglamorous → **matches a loan, not a public appeal** |
+| **3. Counter-arguments** | Crowdfunding = **no interest, keep all profit**; loan = **interest on top of capital → higher costs → lower profitability** |
+| **4. Named condition** | ⭐ **Provided the build is staged so each factory earns before the next is funded** |
+
+**Second acceptable chain:** crowdfunding **also markets the business to the public who funded it** → they become customers and advocates → but **"there is no guarantee that sufficient funds would be raised … to allow Saha to pursue its ambitious expansion plans"**, and **a campaign that misses its target can leave the business with nothing at all.**
+
+> ⭐ **The shape test is the transferable skill: match the SIZE, the STAGING and the ASSET to the source of finance.** Crowdfunding suits **a defined, attractive, one-off purpose**; a loan suits **a sized, staged, resaleable asset**. **Learn the test, not the answer.**
+
+---
+
+## 178. SOURCES OF FINANCE — personal savings vs a bank loan
+
+**Asked:** *"Option 1: using Rachel's personal savings · Option 2: taking out a small bank loan."* — **June 2024 P1R, 3(e)**, PPS ($£$*pet products, €7 500 for CCTV and kennels*)
+**Also asked:** *"Two sources of finance: Option 1: personal savings · Option 2: a loan. Justify which one of these two options Claire should choose."* — **June 2026 P1, 3(e)**, Violet Cakes ($£$*a second café in London*)
+
+> **This pair has been set twice in three years, on two different businesses. It is the most repeated pair in the tier.** The scheme's AO4 for both questions is the same: **the savings may not be enough and may leave the business with no surplus for emergencies; the loan adds interest, which raises costs.**
+
+**The AO2 anchors (PPS):** personal savings give **quick access to the €7 500 needed to buy the CCTV package and build the kennels**; the bank loan is **for an agreed period at a fixed rate of interest**.
+**The AO2 anchors (Violet Cakes):** personal savings mean **immediate access to pay for the rent and marketing of the second cafe**; Claire **may secure the loan at a low fixed rate because the business has traded successfully since 2010**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Rachel should use the personal savings.** The decisive fact is **what the money is for: CCTV and a kennel block, neither of which earns anything on its own — they make the existing pet business safe and usable.** **That makes speed matter more than cost, because the benefit starts the moment the kennels open and the risk is being taken today.** **The savings are the only option that produces the money immediately, with no application, no approval and no delay.** **However, the cost of the work is high, and Rachel may not have enough saved to finance it all** — and **spending the entire reserve leaves the business with nothing for an emergency**, which for a kennels business means **a broken boiler in January would have to be borrowed for at the worst possible moment.** **I would still choose the savings, but only on the condition that Rachel keeps back a stated reserve for emergencies and funds any shortfall by some smaller source — because a kennel block paid for by leaving the business unable to handle a surprise is a repair funded by a bigger risk.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Personal savings** — first sentence |
+| **2. AO2 + AO3** | **CCTV and kennels earn nothing alone** → they enable the existing business → **speed matters more than cost** |
+| **3. Counter-arguments** | Savings: **may not be enough, and leaves no surplus for emergencies**; loan: **interest adds to costs** |
+| **4. Named condition** | ⭐ **Provided a stated reserve is kept back and any shortfall funded separately** |
+
+**Second acceptable chain (Violet Cakes):** Claire is **an established, successful business since 2010** → **the bank will lend at a LOW FIXED RATE** → the interest cost is therefore predictable and cheap → **and the savings stay intact for the café's first quiet months, which is exactly when a new site needs a cushion.**
+
+> ⭐ **Notice how the two businesses point to opposite answers on the same pair.** PPS is **a one-off safety-and-capacity purchase** → savings. Violet Cakes is **an established business with a cheap rate on offer** → the loan starts to look better. **The option pair does not determine the answer; the case does.** That is why memorising "always choose the loan" would fail — and why this bank gives you the case facts, not a rule.
+
+---
+
+## 179. SOURCES OF FINANCE — crowdfunding vs an overdraft
+
+**Asked:** *"Option 1: crowdfunding · Option 2: an overdraft."* — **May–June 2019 P1, 3(e)**, Backyard Shoez ($£$*shoes, three mall shops*)
+
+**The AO2 anchors:** crowdfunding is **a quick way to raise finance to buy new shoes and the latest fashion**; an overdraft gives **a temporary facility to withdraw funds from the bank to buy the required amount of stock**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Backyard Shoez should take the overdraft.** The decisive fact is **what the money buys: stock — new shoes and the latest fashion — which is sold on and turned back into cash within weeks.** **An overdraft is built for exactly that cycle: it is a temporary facility that the business draws on when the stock must be bought and repays when the stock sells.** **Crowdfunding is built for the opposite cycle.** It raises a lump sum in exchange for a campaign, and **it is a high-risk way of obtaining finance, because a campaign that fails to reach its target can raise nothing at all** — which, for a shop that needs stock on the shelves now, **means the expansion plan is delayed by a marketing exercise it may lose.** **However, the bank can demand repayment of an overdraft at any time, and the interest rates on overdrafts are usually high** — so the flexibility is real but it is rented, not owned. **I would still choose the overdraft, provided the stock turns over fast enough to clear the balance within the season — because an overdraft only stays cheap while it is repaid quickly, and a fashion line that does not sell converts a cheap facility into an expensive debt.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The overdraft** — first sentence |
+| **2. AO2 + AO3** | Stock **sells and returns to cash in weeks** → matches a **temporary revolving facility** |
+| **3. Counter-arguments** | Crowdfunding **may raise nothing if the target is missed**; the overdraft is **repayable on demand at high rates** |
+| **4. Named condition** | ⭐ **Provided the stock turns over fast enough to clear the balance within the season** |
+
+**Second acceptable chain:** crowdfunding **brings customers as well as cash** — the people who fund a small shoe shop become shoppers → but **a mall shop's customers must be local**, and **an online campaign reaches people who will never walk into the three shops.**
+
+> ⚠️ **The overdraft's AO4 is the one candidates forget: "the bank can demand repayment at any time."** **That is a genuine risk and it is printed in the scheme** — an answer that treats the overdraft as simply "flexible" has not evaluated it.
+
+---
+
+## 180. SOURCES OF FINANCE — retained profit vs a bank loan
+
+**Asked:** *"Option 1: using retained profits · Option 2: getting a bank loan."* — **June 2022 P1, 2(f)**, TBTS ($£$*toy shops, buying from new suppliers*)
+
+**The AO2 anchors:** retained profits let TBTS **buy the toys immediately to sell in its toy shops**; with the bank loan **TBTS will have to wait for a decision before buying the toys from new suppliers**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **TBTS should use the retained profits.** The decisive fact is **timing against a seasonal trade: toys are bought to be sold, and a toy shop that cannot stock a new line by the season has lost that line's whole year.** **Retained profit is the only one of the two that is available the same day, because it is already in the business** — there is no application, no credit assessment and no waiting for a decision. **A bank loan, by contrast, means TBTS waits for the bank before it can buy from the new suppliers at all**, and **the interest has to be paid back on top, which adds an additional cost.** **However, TBTS can only use retained profits if there are any in the first place, and building them up takes time** — so if the shop has had a poor year, the option does not exist. **I would still choose the retained profits, but only if they cover the stock order without emptying the reserve — because a toy shop that spends every penny of its past profit on this year's line has nothing left to buy next year's, and the loan it takes then will be at a worse rate for having no cushion.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Retained profits** — first sentence |
+| **2. AO2 + AO3** | Toys are **seasonal stock** → **available the same day beats waiting for a decision** |
+| **3. Counter-arguments** | Retained profit **may not exist / takes time to build**; the loan **adds interest as an extra cost** |
+| **4. Named condition** | ⭐ **Provided it covers the stock order without emptying the reserve** |
+
+**Second acceptable chain:** the loan **can be repaid over a long period, so TBTS can budget for the interest** → that certainty is worth something → **but the shop still pays more in total than if it had funded the stock itself.**
+
+---
+
+## 181. SOURCES OF FINANCE — retained profit vs selling unused assets
+
+**Asked:** *"Option 1: retained profit · Option 2: selling off assets that are no longer used."* — **May–June 2020 P2R, 3(e)**, HRMW ($£$*sports goods, R&D for new tennis racquets*)
+**Also asked:** *"Option 1: selling off unused bicycle equipment · Option 2: retained profit."* — **June 2025 P1R, 3(e)**, CCT ($£$*electric bicycles at £550 each*)
+
+> **Note how the two papers put the SAME two options in opposite orders — and how the named condition differs completely between them, because the numbers do.** This is the clearest illustration in the bank that **the condition must come from the case.**
+
+**The AO2 anchors (HRMW):** the retained profit **could be used straight away to pay for the R&D**; selling assets the business **owns and no longer uses makes good business sense**.
+**The AO2 anchors (CCT):** selling unused equipment **can provide cash to buy the bicycles**; retained profit gives **immediate access to the funds**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **HRMW should use the retained profit.** The decisive fact is **what the money is for: research and development of new tennis racquets.** **R&D does not produce anything saleable while it is being done, so the business must be able to fund it without a deadline hanging over it — and retained profit is money that has no repayment date attached.** **Selling assets has the appearance of good sense, because the assets are no longer used, but the timing is not in HRMW's control: there is no guarantee it can sell them in time**, which means **it may have to find alternative funding anyway, having wasted the weeks the R&D needed.** **However, there may be insufficient retained profit, and HRMW would then have to take out a loan, which could be expensive** — so the option is only as good as the balance. **I would still choose the retained profit, on the condition that it covers the full R&D programme for one racquet rather than part of it — because a racquet that is half-developed earns nothing, while a racquet that is finished earns from the first sale.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Retained profit** — first sentence |
+| **2. AO2 + AO3** | **R&D sells nothing while it is happening** → needs money **with no repayment date** |
+| **3. Counter-arguments** | Retained profit **may be insufficient → then a loan, which is expensive**; asset sales **may not complete in time** |
+| **4. Named condition** | ⭐ **Provided it covers the full R&D for one racquet, not part of it** |
+
+**The same pair on CCT's numbers — and a different condition.** For CCT the AO4 is quantified: **the electric bicycles cost £550 each, so CCT "may not have many surplus assets to sell off that will cover the cost for all of the bicycles, leaving them less competitive"**; and **"if CCT uses all of its retained profit to purchase the bicycles, it will not have any funding to cover any unforeseen circumstances or emergencies."** **So the CCT condition is the reserve, and the HRMW condition is completing the development.** **Same options, different condition, because £550 per bicycle is a number and R&D is a process.**
+
+> ⭐ **This is the entry to reread if you want to see how the named condition actually works.** Neither conclusion could be pasted onto the other question, and both are built from a fact in the case.
+
+---
+
+## 182. SOURCES OF FINANCE — crowdfunding vs retained profit
+
+**Asked:** *"Option 1: crowdfunding · Option 2: the owner's own retained profits."* — **Nov 2021 P1, 3(e)**, Artify Studio ($£$*new art sets, a small studio in Kampong Glam*)
+
+**The AO2 anchors:** crowdfunding is **a quick way to raise finance for new art sets**; the owner **could invest his own retained profits earned from previous years**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Tay Hui Jae should use the retained profits.** The decisive fact is **the size and identity of the business: Artify Studio is a small studio, and it is his.** **Crowdfunding works on reach — it raises money from people who have never been to the studio — and a small business in one area "may not have enough presence to gain the funding needed".** **Worse, a crowdfunding campaign is all-or-nothing on a target: if the target is not met, the business "may end up with nothing" at all** — so it spends the campaign's effort and ends with no art sets. **Retained profits, by contrast, are certain: they are already earned, already in the business, and involve no campaign to lose.** **However, there is no guarantee the new art sets will sell — customers may prefer their children to attend the studio sessions instead** — which means **the owner's own money is the money at risk.** **I would still choose the retained profits, on the condition that Tay Hui Jae tests the art sets in the studio's own sessions first — because the risk of the product not selling is the real risk here, and it can be reduced for the price of a few weeks of classes rather than the whole cost of the stock.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Retained profits** — first sentence |
+| **2. AO2 + AO3** | A **small local studio has no crowdfunding reach**, and a missed target raises **nothing** |
+| **3. Counter-arguments** | Retained profit **puts the owner's own money at risk if the sets do not sell** |
+| **4. Named condition** | ⭐ **Provided the sets are tested in the studio's own sessions first** |
+
+**Second acceptable chain:** crowdfunding **markets the studio at the same time as raising the money** — backers learn its name → **but that audience is online and the studio's customers walk in from the neighbourhood**, so **the marketing reach is not the reach the business needs.**
+
+> ⚠️ **The crowdfunding AO4 appears in three separate questions and is always the same two points: the amount raised may be insufficient, and a missed target means nothing is raised.** **Those two sentences are the whole counter-argument — learn them as a pair.**
+
+---
+
+## 183. SOURCES OF FINANCE — crowdfunding for a small business
+
+**Asked:** *"Option 1: crowdfunding · Option 2: an overdraft."* — May–June 2019 P1 3(e) *(see entry 179)*
+**The standalone point, worth keeping separately:** crowdfunding is the **only** source of finance in this qualification whose **failure mode is raising nothing at all.**
+
+**When crowdfunding is the right answer:** the purpose is **defined, attractive and communicable in a sentence or an image** *(a new studio, a community project, a distinctive product)* · the business **already has an audience** to appeal to · and **the business wants customers as well as cash**, because backers become buyers.
+
+**When it is the wrong answer:** the need is **large and staged** *(factories, as in Saha)* · the need is **unglamorous and urgent** *(stock on the shelf today, as in Backyard Shoez)* · or the business **has no reach to draw on** *(a small local studio, as in Artify).*
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(template, for any crowdfunding pair)*
+> **The business should [choose / not choose] crowdfunding, and the decisive fact is [the purpose and the audience the case gives you].** **Crowdfunding's strength is that it converts an attractive idea into capital from people who want it to exist — and those people then buy the product**, so the money and the first customers arrive together. **Against that, "there is no guarantee that sufficient funds would be raised", and a campaign that misses its target raises nothing — so the business has spent the effort and still has no finance.** **However, [the other option's counter-argument from the scheme].** **I would [choice], provided [the named condition drawn from the case's own figure].**
+
+> ⭐ **This is the only entry in the bank that is a template rather than a worked answer, and it is here because crowdfunding is the source of finance most likely to appear in a pair this bank has not yet seen.** **Use it with the case facts in front of you, never on its own.**
+
+---
+
+## 184. SOURCES OF FINANCE — the full comparison table
+
+**Keep this table in your head; every pair above is two rows of it.**
+
+| Source | Speed | Cost | What you give up | Its failure mode |
+|---|---|---|---|---|
+| **Personal savings** | **Immediate** | **None** | **Your own money and your reserve** | **May not be enough; leaves no surplus for emergencies** |
+| **Retained profit** | **Immediate** | **None** | **The business's cushion** | **May not exist; takes time to build up** |
+| **Selling unused assets** | **Uncertain** | **None** | **An asset you may want later** | **No guarantee of selling in time** |
+| **Bank loan** | **Slow — a decision is required** | **Interest on top of the capital** | **Control stays with you** | **Interest increases costs, may reduce profitability** |
+| **Overdraft** | **Fast, flexible** | **Interest on the amount drawn; usually high** | **Nothing, until it is called in** | **Repayable on demand at any time** |
+| **Venture capital** | **Fast, if the investor is found** | **No interest** | ⭐ **Control, and a percentage of the business** | **The investor may interfere with decisions and objectives** |
+| **Crowdfunding** | **Fast in time, uncertain in outcome** | **No interest** | **Nothing** | ⭐ **May raise insufficient funds; a missed target means nothing is raised** |
+| **Franchising** *(as a growth source)* | **Fast** | **None to you — the franchisee pays** | **Control of how the brand is run** | ⭐ **You rely on the franchisee running it well and not causing bad publicity** |
+
+> ⭐ **Two rows carry the AO4 worth 3 marks on their own: VENTURE CAPITAL costs you control, and CROWDFUNDING may raise nothing.** **The scheme prints them in question after question, on business after business.** If you remember nothing else from this batch, remember those two.
+
+---
+
+> ### ⚠️ CORRECTION — entry 176 covered the wrong pair for one of its two blocks
+> Entry **176** was headed *"venture capital vs a bank loan"* and listed two blocks. **Only one of them is that pair.** Block 1 (June 2026 P1R, Spud Bros) is **venture capital vs CROWDFUNDING** — its stem prints *"Option 1: venture capital · Option 2: crowdfunding"*. **The pair is different, so the answer is different**, and it is now entry **185** below. **This is the same class of error as the Batch 5b miscount:** a topic label that absorbed a block it did not describe. **The block's own stem is the authority — not the topic name I gave it.**
+
+---
+
+## 185. SOURCES OF FINANCE — venture capital vs crowdfunding
+
+**Asked:** *"Option 1: venture capital · Option 2: crowdfunding. Justify which one of these two options the brothers should choose."* — **June 2026 P1R, 2(f)**, Spud Bros ($£$*potato vans, expanding internationally*)
+
+> **Read the options carefully — this is the pair that catches people out.** Both options bring in **outside money and neither charges interest**, so the usual "interest vs no interest" argument does not apply. **The two options differ in WHO the money comes from and WHAT they take in return.**
+
+**The AO2 anchors:** a venture capitalist **may give advice on how to develop the potato business**; **people who have seen the business on social media sites such as TikTok may be persuaded to invest in Jacob and Harley**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **The brothers should take the venture capital.** The decisive fact is **what they need alongside the money: Spud Bros is expanding internationally, and the brothers are two people taking a family food business into markets they have never traded in.** **A venture capitalist "may give advice on how to develop the potato business", which is experience the brothers cannot buy** — and it **helps them decide on location and marketing strategies for the expansion plans**, which are exactly the decisions an unfamiliar market punishes. **Crowdfunding has a real advantage the venture capitalist does not: "small investments from many people will allow the business to expand throughout the UK without the need to pay back the investment"** — and those backers become customers. **However, the amount raised through crowdfunding may be insufficient to meet the capital required to expand internationally** — and international expansion is precisely the purpose here, so **the funding model is the wrong size for the plan.** **I would still choose the venture capital, but only on the condition that the brothers keep a controlling share of the business — because the scheme warns the venture capitalist will "take a percentage of the business in return for the capital" giving them "less independence or control", and a potato brand built on the brothers' own personalities cannot survive being run by someone else.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Venture capital** — first sentence |
+| **2. AO2 + AO3** | **International expansion into unfamiliar markets** → the investor brings **advice and market experience**, not just money |
+| **3. Counter-arguments** | Crowdfunding = **no repayment and backers become customers**, but **may raise insufficient funds for international expansion**; VC = **gives up a percentage and independence** |
+| **4. Named condition** | ⭐ **Provided the brothers keep a controlling share** |
+
+**Second acceptable chain:** crowdfunding's backers **found the brand through TikTok, so they are already the audience** → they buy as well as fund → **but "small investments from many people" scale to a UK roll-out, not to a US and Canada launch.**
+
+> ⭐ **The distinguishing question for this pair: WHAT IS THE MONEY FOR, and IS IT BIG ENOUGH?** Crowdfunding suits **a UK-wide or community-scale step**; venture capital suits **an international move that needs both capital and guidance**. **Both take something from the owners — crowdfunding takes nothing but is small; venture capital is large but takes a share.**
+
+---
+
+## 186. GROWTH — venture capital vs franchising
+
+**Asked:** *"Option 1: use venture capital to open new stores · Option 2: start offering franchises. Justify which one of these two options AWG should choose."* — **Nov 2023 P1, 2(f)**, AWG ($£$*Icelandic baby clothes and jumpers*)
+
+> **This is the pair where the two options look most similar and are most different.** Both **fund new stores without a bank**, and both **cost AWG nothing in interest** — but one **keeps the stores and gives away control**, while the other **gives away the stores and keeps the brand.**
+
+**The AO2 anchors:** a venture capitalist **may provide the funds to build the new stores** *and* **may have knowledge of the needs of Icelandic customers**; **a franchisee will pay AWG a fee for the right to sell its baby clothes**, which **allows AWG to increase its revenue from those fees**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **AWG should use the venture capital to open its own stores.** The decisive fact is what AWG is selling: **baby clothes whose appeal is a particular Icelandic identity, sold under its own name.** **A franchisee pays a fee for the right to sell that name — and everything the customer experiences in that shop is then being delivered by someone whose only obligation is the contract.** **The venture capital route keeps the shops AWG's own**, so **the product, the presentation and the brand stay under the control of the business that built them.** **And the investor brings a second thing the franchisee does not: the scheme notes a venture capitalist "may also have knowledge of the needs of Icelandic customers"** — which is directly useful to a business **whose whole proposition is being Icelandic.** **However, the venture capitalist "may want to take some control of the business and interfere with the decision making and objectives"** — and that is the genuine cost, because **AWG would be handing influence over those decisions to someone who is not Icelandic.** **I would still choose the venture capital, provided AWG negotiates the investment without giving away decisions on product and brand — because the fees from franchising grow revenue quickly, but "AWG are reliant on the franchisee running the business well and not causing bad publicity, which might impact its brand's reputation", and a damaged reputation is not recoverable by rewriting a contract.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Venture capital to open its own stores** — first sentence |
+| **2. AO2 + AO3** | The product **is** the Icelandic identity → **owning the shops protects it**; and the investor **knows Icelandic customers** |
+| **3. Counter-arguments** | VC = **takes control and interferes with objectives**; franchising = **AWG relies on the franchisee not damaging the brand** |
+| **4. Named condition** | ⭐ **Provided AWG keeps decisions on product and brand** |
+
+**Second acceptable chain:** franchising **turns AWG's fee income into revenue that arrives without AWG funding a single shop** → the growth is fast and the capital risk is the franchisee's → **but every new franchisee is a new person whose mistakes carry AWG's name.**
+
+> ⭐ **The decisive test for this pair: WHOSE NAME IS ON THE DOOR?** If the brand *is* the product, **own the stores** (venture capital). If the brand can survive being delivered by someone else because the **system** is the product — as with IKEA's flat-packs (entry 161) — then **franchising is the faster and cheaper route.** **Note how entry 161 and this entry give opposite answers to the franchising question, because the businesses are different.** That contrast is the whole skill of this tariff.
+
+---
+
+## 187. ✅ THE FINANCE CLUSTER — CLOSED
+
+**13 option pairs across 14 blocks — every source-of-finance Justify question in the qualification.**
+
+| # | Option pair | Block(s) | Entry |
+|---|---|---|---|
+| 1 | Venture capital vs **crowdfunding** | 1 · Spud Bros | **185** |
+| 2 | Venture capital vs **a bank loan** | 73 · Ocean Vibes | **176** |
+| 3 | Venture capital vs **franchising** | 65 · AWG | **186** |
+| 4 | Crowdfunding vs **a bank loan** | 69 · Saha | **177** |
+| 5 | Crowdfunding vs **an overdraft** | 12 · Backyard Shoez | **179** |
+| 6 | Crowdfunding vs **retained profit** | 62 · Artify Studio | **182** |
+| 7 | Personal savings vs **a bank loan** | 4 · Violet Cakes · 38 · PPS | **178** |
+| 8 | Retained profit vs **a bank loan** | 31 · TBTS | **180** |
+| 9 | Retained profit vs **selling unused assets** | 22 · HRMW · 46 · CCT | **181** |
+| — | *Crowdfunding template* | *(any unseen pair)* | **183** |
+| — | *The full comparison table* | *(all of the above)* | **184** |
+
+> ### ⭐ WHAT FOURTEEN FINANCE QUESTIONS CAN BE REDUCED TO — THREE TESTS
+> **1. How fast is it needed, and how fast does each source arrive?** *(stock on the shelf today → savings or overdraft; factories and R&D → loan or retained profit)*
+> **2. What does it cost, and is the cost money or control?** *(interest, or a share of the business)*
+> **3. What is the FAILURE MODE?** *(a loan adds interest you must pay whatever happens; crowdfunding may raise **nothing at all**; an overdraft is **repayable on demand**.)*
+>
+> **Question 3 is the one candidates never ask, and it is where the AO4 lives.** Every mark-scheme counter-argument in this cluster is a failure mode.
 
 ---

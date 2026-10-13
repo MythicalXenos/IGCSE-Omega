@@ -131,7 +131,7 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**174 entries written · 380 governed blocks in scope · 114 still to cover** (76 nine-mark + 38 twelve-mark).
+**187 entries written · 380 governed blocks in scope · 103 still to cover** (65 nine-mark + 38 twelve-mark).
 
 > **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, **114 covered, 0 remaining**, and flags any entry reference that does not exist.
 
@@ -242,8 +242,21 @@ So the correct response is **not one essay per question** — that would repeat 
 | **5h** | 6-mark Analyse — May 2023 (6 topics) | ✅ **6 entries (157–162)** |
 | **5i** | 6-mark Analyse — the four November papers | ✅ **12 entries (163–174)** |
 | **6** | **6-MARK TIER — CLOSED at 114/114** | ✅ **done** |
+| **7a** | 9-mark Justify — scaffold + sources of finance (13 pairs) | ✅ **13 entries (175–187)** |
+| **7b–8** | 9-mark Justify — the remaining **65 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
 | **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
+
+### 🔄 LAYER C, 9-MARK TIER — OPEN (13 pairs of 56 covered)
+
+```
+9-mark Justify blocks      : 76
+distinct option pairs      : 56        <- it BARELY repeats
+carried by entries 175-187 : 11 blocks (the sources-of-finance decision type)
+REMAINING                  : 65 blocks
+```
+
+**Reverify with** `python3 layer_c_9mark_coverage.py` — and use `--audit`, which prints **each covered block's real option pair next to the entry that claims it.** That flag exists because entry 176 was headed *"venture capital vs a bank loan"* while one of its two blocks was actually **venture capital vs crowdfunding**: **the label looked right and the block was wrong.** The audit makes that class of error visible instead of invisible.
 
 ### ✅ LAYER C, 6-MARK TIER — CLOSED
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the Layer C 6-mark inventory: one row per block, with its real stem.
+"""Build the Layer C 9-mark inventory: one row per block, with its real stem.
 
 The block file carries a stem for most blocks, but the 2019, 2020 and Nov 2021
 papers do not print Q1's questions in the mark scheme at all, and the P2 papers
@@ -7,7 +7,7 @@ of 2024/2025 are inconsistent. Where the mark scheme has no stem, the question
 text is taken from `4BS1_Question_Instances.csv` -- which is fine for CONTENT
 (rule 120 forbids using it for counts only).
 
-Writes layer_c_6mark_inventory.csv.
+Writes layer_c_9mark_inventory.csv.
 """
 import csv
 import pathlib
@@ -15,9 +15,9 @@ import re
 import sys
 
 HERE = pathlib.Path(__file__).resolve().parent
-BLOCKS = HERE / "layer_c_6mark_blocks.txt"
+BLOCKS = HERE / "layer_c_9mark_blocks.txt"
 INSTANCES = HERE / "4BS1_Question_Instances.csv"
-OUT = HERE / "layer_c_6mark_inventory.csv"
+OUT = HERE / "layer_c_9mark_inventory.csv"
 
 STEM = re.compile(r"(?:Question Number|Q\.\s*No\.)\s*(.*?)\s*"
                   r"(?:Indicative content Mark|Answer Mark)")
@@ -45,7 +45,7 @@ def main() -> int:
     rows = list(csv.DictReader(INSTANCES.open(encoding="utf-8-sig")))
     by_paper = {}
     for r in rows:
-        if r["Mark value"] == "6":
+        if r["Mark value"] == "9":
             by_paper.setdefault((r["Session"], r["Paper"]), []).append(
                 r["Prompt/context excerpt (text extraction)"].strip())
 
