@@ -42,6 +42,11 @@ COVERED = {
     # ---- job design, motivation, contracts: entries 209-217 ------------
     8: 211, 11: 209, 13: 214, 14: 210, 19: 212, 28: 210, 30: 215,
     33: 216, 41: 217, 51: 209, 58: 210, 60: 209, 63: 209, 74: 213,
+    # ---- training, production, operations, recruitment, communication,
+    #      place, product, marketing, structure: entries 218-227 ----------
+    3: 225, 6: 223, 9: 219, 20: 225, 21: 220, 29: 226, 34: 219,
+    36: 218, 40: 222, 42: 218, 47: 226, 48: 227, 49: 222, 50: 225,
+    52: 224, 55: 219, 56: 218, 57: 226, 68: 221, 72: 221, 76: 220,
 }
 
 EXPECTED_BLOCKS = 76

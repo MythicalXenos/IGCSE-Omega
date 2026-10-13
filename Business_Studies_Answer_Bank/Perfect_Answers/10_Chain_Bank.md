@@ -45,6 +45,8 @@ Across 38 papers the qualification asks **governed** questions — anything need
 >
 > ✅ **FOUR decision types are now CLOSED** — **sources of finance** (13 pairs · 14 blocks) · **promotion + pricing** (17 pairs · 21 blocks) · **market research + measuring success** (4 pairs · 9 blocks) · **job design, motivation and contracts** (9 pairs · 14 blocks). **That is 55 of the 76 blocks — 72% of the tier — and every one of the four largest decision types in the qualification is carried in full.**
 
+> ✅ **THE 9-MARK TIER IS CLOSED.** All **76 blocks** are carried by entries **175–227** — verified by `layer_c_9mark_coverage.py`, which prints **76 covered / 0 remaining**. **It was 53 entries for 76 blocks across 58 distinct option pairs**, so this tier compresses far less than the other two **(3-mark 152 → 97 · 6-mark 114 → 74 · 9-mark 76 → 58)** — because **the option pair genuinely varies.** **What repeats is the decision type**, and all fifteen are now closed: sources of finance · promotion · pricing · market research · success measures · job design · motivation · contracts · training · production · operations · recruitment · communication · place · product · structure.
+
 **Progress against those 380 blocks:**
 
 | Tier | Blocks | Written | Remaining |
@@ -113,8 +115,9 @@ Every entry gives you:
 | **7b** | **9-mark Justify — promotion (12 pairs) + pricing (9 pairs)** | ✅ **17 entries (188–204)** |
 | **7c** | **9-mark Justify — market research + measuring success** | ✅ **4 entries (205–208)** |
 | **7d** | **9-mark Justify — job design, motivation, contracts** | ✅ **9 entries (209–217)** |
-| **7e** | 9-mark Justify — the remaining **21 blocks** | ⬜ next |
-| **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
+| **7e** | **9-mark Justify — the final 21 blocks** | ✅ **10 entries (218–227)** |
+| **8** | **9-MARK TIER — CLOSED at 76/76 blocks** | ✅ **done** |
+| **9** | 12-mark Evaluate topics — 38 blocks | ⬜ **next — the last tier** |
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
 >
@@ -4931,6 +4934,274 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 > **Never cut the reward of the people who bring the money in.** *(entry 213)*
 > **Can the decision be undone? If not, buy evidence first.** *(entry 215)*
 > **Which unreliability can the business absorb — unreliability at the moment of need, or unreliability that is scheduled?** *(entry 217)*
+
+---
+# BATCH 7e — 9-MARK JUSTIFY, PART 6 — **THE TIER IS COMPLETE**
+
+**10 entries covering the last 21 blocks: training, production, operations, recruitment, communication, place, product and structure.**
+
+---
+
+## 218. TRAINING — on-the-job versus off-the-job, and induction
+
+**Asked three times:** LEGO *(on-the-job keeps them producing vs off-site experts)* — **June 2022 P2, 3(e)** · Irsi Chocolatier *(on-the-job shows current techniques vs a college lecturer)* — **May 2023 P1, 3(e)** · Jimmy Choo *(induction in their own department vs off-site experts)* — **June 2024 P2R, 3(e)**
+
+> **The pair changes name between papers — induction and off-site in one, on-the-job and off-the-job in another — but the decision is the same: learn it HERE, or learn it THERE.**
+
+**The AO2 anchors (Irsi):** on-the-job **allows the new employee to see current chocolate-making techniques**; off-the-job **allows them to learn new techniques from lecturers at a college**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Irsi Chocolatier)*
+> **Irsi should train the new employee off-the-job.** The decisive fact is **the size of the business: the scheme says Irsi "only has 3 employees" — and with three people, there is nobody who can be spared to teach.** **On-the-job training assumes a skilled person standing beside the trainee, and in a three-person shop that person is also making the chocolates, serving the customers and taking the orders.** **The scheme's warning is precisely this: "there may not be someone who can dedicate the time to train the new employee to the standard required."** **Off-the-job training removes that problem entirely — the lecturer is not taken away from production because they were never part of it.** **It also brings in "new techniques from lecturers at a college", which a business this small cannot generate from inside.** **However, "this can be costly as the employee will have to attend an external course rather than learn on the job"** — and for a three-employee business, one wage plus a course fee with no production from that person is a real cost. **I would still choose off-the-job training, on the condition that the course is short and specific to chocolate-making — because a small business cannot absorb a general qualification, but it can absorb a two-week course that makes the new recruit productive.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Off-the-job training** — first sentence |
+| **2. AO2 + AO3** | **Three employees → nobody can be spared to teach** |
+| **3. Counter-arguments** | Off-the-job → **costly, employee absent; course may not match the job**; on-the-job → **no one available to train to standard** |
+| **4. Named condition** | ⭐ **Provided the course is short and specific to chocolate-making** |
+
+**On LEGO the balance tips the other way, and the reason is the 15 factories.** The scheme gives on-the-job the advantage that **"the cost of training is reduced as employees remain on the premises producing the Princess Leia toy whilst being trained"** — and a business with **fifteen factories can always find a skilled person in one of them to train the next.** Its cost is that **"this can be time consuming and prevents the skilled employees from carrying out their job efficiently."** **Off-site brings in "new production methods not seen in the 15 LEGO factories" — but the scheme's objection is decisive: "the new employees may not gain the specific skills and knowledge which are needed for designing the new Star Wars toys for LEGO."** **General excellence is the wrong kind of excellence for a licensed product.** **So LEGO: on-the-job, provided the trainer's own output is backfilled while they teach.**
+
+> ⭐ **The deciding fact is THE SIZE OF THE BUSINESS, and it points opposite ways.** **Too few staff to spare a trainer → off-the-job. Enough staff to have a trainer somewhere → on-the-job.** **Nothing about the method itself makes it better — it is whether this business can staff it.**
+
+---
+
+## 219. PRODUCTION — job, batch and flow production
+
+**Asked three times:** Lavender *(tailor each outlet vs flow production for all)* — **May–June 2019 P1R, 2(f)** · Cadbury *(batch Dinky Deckers so production can be stopped vs a method ensuring enough supply)* — **June 2022 P2R, 3(e)** · Irsi Chocolatier *(batch for variety of shapes vs job for personalisation)* — **May 2023 P1, 2(f)**
+
+> **The three blocks compare three different pairs of the same three methods. The transferable skill is knowing what each method costs and what it buys.**
+
+**The AO2 anchors (Irsi):** batch production **allows different flavours and shapes of chocolate lollipops**; job production **allows Irsi to give customers the option of personalised lollipops**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Irsi Chocolatier)*
+> **Irsi should use batch production.** The decisive fact is **what the customer is actually buying: a chocolate lollipop is an impulse purchase, taken from a display and paid for in seconds.** **Batch production gives "different flavours and shapes" — the variety that makes a display worth stopping at — while still producing in quantities that can be made ahead and kept ready.** **Job production offers something more attractive in principle: "customers the option of personalised chocolate lollipops."** **But the scheme's objection is fatal to it here: "lollipops are only small items so customers may not want to wait for them to be personalised and may prefer to buy off the shelf to make the transaction quicker."** **A product that sells on impulse cannot be made to order.** **However, batch production "could be more costly depending on the demand for different shapes and flavours"** — every change of shape is machine time that makes no lollipops. **I would still choose batch production, on the condition that the number of shapes is kept small enough that each batch is big — because a range of twenty shapes made in batches of ten costs more per lollipop than five shapes made in batches of forty.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Batch production** — first sentence |
+| **2. AO2 + AO3** | **Lollipops sell on impulse** → variety to display, made ahead in batch |
+| **3. Counter-arguments** | Batch → **costly if demand for shapes is low**; job → **customers will not wait for a small item** |
+| **4. Named condition** | ⭐ **Provided the range of shapes is small enough to keep each batch big** |
+
+**On Cadbury the answer is batch, and the reason is RISK not variety.** The scheme gives batch the advantage that **"if Dinky Deckers is not popular, they can limit or stop production"** — an exit that a continuous line cannot offer. Its cost is that **"this method can be more expensive because of time spent changing the machines."** **The rival option — one that guarantees "sufficient Dinky Deckers available for all its customers" — carries the risk the scheme names: "there is no guarantee on how popular the Dinky Deckers will be; Cadbury could be left with a large quantity of unsold chocolate."** **For an untested product, being able to stop matters more than being able to supply.**
+
+**On Lavender the answer is job/bespoke, because the scheme's objection to flow is that it is "very difficult to change and cannot take into account regional tastes" — and Lavender is expanding across regions.** **Its rival, matching each outlet to local demand, keeps the products relevant but costs consistency, which the scheme notes "will make the movement of employees difficult."**
+
+> ⭐ **The three questions to ask about any production method: can the product be made ahead? can it be made to vary? and can the business STOP if it does not sell?** **Impulse goods → batch. Personalised goods with a patient buyer → job. Untested products → whichever can be halted cheapest.**
+
+---
+
+## 220. OPERATIONS — Kaizen versus just-in-time
+
+**Asked twice:** HRMW *(employees involved in improving production vs JIT so nobody waits for materials)* — **May–June 2020 P2R, 2(f)** · Samsung *(JIT for deliveries as required vs Kaizen for continuous improvement and less waste)* — **Nov 2025 P2, 3(e)**
+
+> **Both are lean production methods, so both reduce cost — the difference is WHERE the saving comes from: the people, or the stockroom.**
+
+**The AO2 anchors (Samsung):** JIT **allows Samsung to receive electronic parts as required on the assembly line**; Kaizen **encourages a culture of continuous improvement to help reduce waste**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Samsung)*
+> **Samsung should use Kaizen.** The decisive fact is **what it makes and where the waste is: laptops and TVs are assembled from thousands of expensive components, and a defect found late wastes the whole unit's parts.** **Kaizen attacks waste at the point it is created, because the people on the line are the only ones who see where it happens** — and it improves continuously, so the saving compounds rather than being a one-off. **JIT offers a different and more immediate benefit: parts arrive as they are needed, so "Samsung does not pay to hold stock"** and no capital is tied up in a warehouse. **However, its counter-argument is a supply-chain risk the scheme states plainly: "if suppliers deliver in smaller batches this may increase the delivery cost of materials, which will increase the total cost of production."** **JIT trades inventory cost for delivery cost and for dependence on someone else's reliability — and for Samsung, a line that stops for want of a processor stops entirely.** **However, "introducing Kaizen will take time and require training of employees, which may increase costs for Samsung in the short term."** **I would still choose Kaizen, on the condition that it is introduced on one line first so the saving can be measured before the training bill is paid across the whole factory.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Kaizen** — first sentence |
+| **2. AO2 + AO3** | **Thousands of parts per unit → late defects waste everything already spent**; the line workers see the waste |
+| **3. Counter-arguments** | Kaizen → **training costs and time in the short term**; JIT → **smaller deliveries cost more and depend on suppliers** |
+| **4. Named condition** | ⭐ **Provided it is piloted on one line before roll-out** |
+
+**On HRMW the pair is framed differently — employee involvement against JIT — and the scheme's caveats are worth learning because they are the two things that go wrong with each:** for employee involvement, **"there is no guarantee that the employees are willing to help improve the production of sports products, thereby saving the business money"**; for JIT, **"JIT can only work provided employees making footballs work at the same rate and that the supplier delivers the leather on time."** **Both methods depend on somebody else doing their part.**
+
+> ⭐ **The decisive question: is the biggest waste in the PROCESS or in the STOREROOM?** **Defects, rework and idle time → Kaizen. Capital tied up in stock → JIT.** **And note that both fail the same way — they hand control of the outcome to other people.**
+
+---
+
+## 221. RECRUITMENT — internal versus external
+
+**Asked twice:** Kraft Heinz *(an internal appointee who understands sauce production vs external candidates via CV and interview)* — **Nov 2023 P2, 3(e)** · Premier Inn *(internal appointment within the worldwide hotels vs external via an employment agency)* — **Nov 2024 P2, 3(e)**
+
+> **Both schemes carry the SAME two counter-arguments — learn them as a pair.** **Internal: "once that person is appointed it means there will be another vacancy … requiring additional recruitment."** **External: "the external manager appointed may not have the right knowledge and experience when they actually start work … which means they will have wasted a great deal of time"** and **"the new employee may not fit in with the other employees, which could cause problems within the work environment."**
+
+**The AO2 anchors (Premier Inn):** an internal appointee **will have experience of how the hotel works**; using an agency **provides the opportunity to bring in additional skills of marketing the Premier Inn business**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Premier Inn)*
+> **Premier Inn should recruit externally through the agency.** The decisive fact is **what the role needs that the business does not already have: the scheme frames the vacancy as bringing in "additional skills of marketing the Premier Inn business" — and marketing skill is not something an internal reception appointment supplies.** **Internal recruitment fills a job but does not change the capability of the business; it moves an existing set of skills into a different chair.** **It is also cheaper and faster, because the person already knows the hotel, the systems and the standards, and needs no induction.** **However, the internal route carries a cost the scheme names exactly: "if the employee does move to take on the new job the old job may have to be filled and this could mean more expense"** — one appointment becomes two. **However, the agency route's own risk is real: "the new employee may not fit in with the other employees, which could cause problems within the work environment."** **I would still choose the external route, on the condition that the agency brief includes the hotel's culture and not just the job description — because the skill is what Premier Inn is buying, and a skilled marketer who cannot work with the front desk is a skill wasted.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **External recruitment** — first sentence |
+| **2. AO2 + AO3** | The role needs **marketing skills the business lacks** → internal moves a chair, external changes capability |
+| **3. Counter-arguments** | Internal → **creates a second vacancy to fill**; external → **may not fit the team, may lack the knowledge, wastes time** |
+| **4. Named condition** | ⭐ **Provided the brief includes the hotel's culture, not just the job description** |
+
+**On Kraft Heinz the answer is internal, for the reason the scheme gives first: "Kraft Heinz know that the person they appoint will understand how the production of sauces works"** — **the knowledge is product-specific and cannot be bought in a candidate's first week.** **Its condition is about the vacancy the appointment creates: backfill the original post, or the department is short of two people rather than one.**
+
+> ⭐ **The decisive question: does the role need MORE of what the business already has, or SOMETHING it does not have?** **More of the same, and product knowledge matters → internal. A capability the business lacks → external.** **And both options cost something you did not plan for — the extra vacancy, or the settling-in risk.**
+
+---
+
+## 222. COMMUNICATION — a written channel versus a face-to-face meeting
+
+**Asked twice:** Café Pinch *(a daily-updated staffroom noticeboard vs a weekly staff meeting)* — **June 2024 P1, 3(e)** · Rabanne *(email, sent anywhere vs weekly face-to-face meetings)* — **June 2025 P2R, 2(f)**
+
+> **Both pairs contrast the same two things: information that is STORED against information that is DISCUSSED.**
+
+**The AO2 anchors (Café Pinch):** a noticeboard **keeps chefs and waiters updated with the most up-to-date information about sales or meals achieved**; a weekly meeting **allows them to ask questions on any updates**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Café Pinch)*
+> **Café Pinch should hold the weekly staff meeting.** The decisive fact is **the split between the two groups the notice has to serve: chefs and waiters work different shifts and are rarely in the staffroom at the same time.** **A noticeboard is only read by whoever passes it — and the scheme's objection is exactly that: "unless all of the employees read the notices every day, or if Kumaran forgot to update the notices daily, then communication may not improve."** **A meeting guarantees the message reaches everybody who attends, and it does something a noticeboard cannot: "allows the chefs and waiters to ask questions."** **That matters most when the information is a change they have to act on** — a new target, a new dish, a new rota — because **a question asked now is confusion avoided later.** **However, the scheme's objection to meetings is practical and serious: "as all staff will be involved in the meetings they are likely to take place out of hours and some staff may not want to attend, therefore miss out on important information."** **I would still choose the meeting, on the condition that it is held at the changeover between shifts rather than out of hours — because a meeting nobody attends is a noticeboard with extra steps.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The weekly staff meeting** — first sentence |
+| **2. AO2 + AO3** | Chefs and waiters **work different shifts** → a notice is read by whoever passes; a meeting **reaches everyone and allows questions** |
+| **3. Counter-arguments** | Noticeboard → **depends on staff reading it and on daily updating**; meeting → **out of hours, so attendance fails** |
+| **4. Named condition** | ⭐ **Provided it is held at the shift changeover** |
+
+**On Rabanne the pair is email against meetings, and the scheme gives email the reach — "used by everyone and can be sent from one location to another" — with the counter that "if there is no internet signal then sending messages and receiving them would be difficult", and meetings the discussion — "people … give their opinion" — with the counter that "meetings are very time consuming and not everyone can make the meeting because of the distance between departments."** **Here the geographic spread is the deciding fact: departments that are far apart cannot meet weekly, so the condition is the same shape as above but the answer flips — email, provided that anything requiring a decision is followed by a meeting for those who can attend.**
+
+> ⭐ **The decisive question: does the information need to be RECEIVED, or ACTED ON?** **Information people just need to have → write it down. Information people have to change what they do about → say it, and take questions.** **And the named condition is always attendance or updatability — the two ways each channel fails.**
+
+---
+
+## 223. PLACE — physical stores versus online sales
+
+**Asked:** *"Option 1: more customers can visit the stores to view the smartwatches · Option 2: online purchases provide convenience for customers wishing to buy a laptop."* — **June 2026 P2R, 3(e)**, Apple
+
+**The AO2 anchors:** stores let **more customers view the smartwatches**; online purchases **provide convenience for customers wishing to buy a laptop**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Apple should sell through its stores.** The decisive fact is **what the products cost and how they are chosen: a smartwatch and a laptop are expensive goods, and the scheme names the hesitation exactly — "people may want to hold/look at the smartphone/smartwatch and may not feel at ease buying an expensive product online without seeing it first."** **The store removes that hesitation, and it does so for the products where the hesitation is largest.** **Online convenience is real — it removes the journey and the queue, and it is the reason a customer completes a purchase they might otherwise postpone.** **However, the scheme's objection to stores is a cost one: "it is costly to have/build stores and pay for sales staff within the stores, which may increase the price of the goods or reduce demand."** **I would still choose the stores, on the condition that the high-value products are the ones stocked for viewing — because a physical shop earns its cost on the items a customer will not buy unseen, and costs money on the items they would have bought online anyway.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The stores** — first sentence |
+| **2. AO2 + AO3** | **Expensive goods are not bought unseen** → the store removes the hesitation where it is biggest |
+| **3. Counter-arguments** | Stores → **building and staffing them raises the price or reduces demand**; online → **customers hesitate to buy expensive items unseen** |
+| **4. Named condition** | ⭐ **Provided the high-value products are the ones put on display** |
+
+**Second acceptable chain:** online sales **reach customers in countries where Apple has no store at all** → the market is every country rather than a list of cities → **but for a premium product, a customer who cannot try it is a customer who buys the cheaper rival instead.**
+
+> ⭐ **The decisive fact in any place question: can the customer judge the product WITHOUT seeing it?** **Clothing, watches, cars, furniture, anything fitted → the store wins, because the sale is decided by touching it.** **Standardised goods the customer already knows → online wins, because the store adds cost without adding information.**
+
+---
+
+## 224. PLACE — choosing between two new locations
+
+**Asked:** *"Option 1: open coffee shops in supermarkets · Option 2: open coffee shops in hospitals."* — **June 2025 P2, 3(e)**, Starbucks
+
+> **Note that both options ARE viable — so the question is which location's customers will actually stop.** **The scheme's counter-arguments for both are worded almost identically, which tells you what the decision turns on.**
+
+**The AO2 anchors:** supermarkets offer **customers who want a coffee after finishing their shopping**; hospitals offer **friends and relatives who have travelled a distance to get there**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Starbucks should open in supermarkets.** The decisive fact is **what the two sets of customers are doing when they arrive. A supermarket shopper has completed a task and is leaving with time they chose to spend — the scheme's phrasing is customers "who want to have a coffee after finishing their shopping", which is a decision they have made themselves.** **A hospital visitor has not chosen to be there, and the scheme's point follows: "there is no guarantee that visitors to the hospital would want to stay and have a drink if their time was limited."** **People in a hospital are focused on somebody else, and a coffee is something they buy when they are already free to sit down.** **However, the supermarket option has its own objection, and it is a mild but real one: "there is no guarantee that customers will want to stop and have a coffee after shopping — they may prefer to go home."** **Shopping is tiring and carrying bags is not a coffee moment.** **I would still choose the supermarkets, on the condition that the shop is placed by the exit with seating, not in the middle of the aisles — because a supermarket coffee shop competes with the door, and it has to be easier to sit down than to leave.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Supermarkets** — first sentence |
+| **2. AO2 + AO3** | Shoppers **finish a task and choose to spend time**; hospital visitors **are there for someone else and are time-limited** |
+| **3. Counter-arguments** | Supermarket → **shoppers may just go home**; hospital → **visitors' time may be limited** |
+| **4. Named condition** | ⭐ **Provided it is placed by the exit with seating** |
+
+**Second acceptable chain:** hospitals **have a captive audience who are there for hours, and a coffee is the one comfort available on site** → the footfall is guaranteed even if the spend is not → **but the scheme is explicit that the time is the constraint, and a person waiting on news does not sit down for a latte.**
+
+> ⭐ **Two location questions in the tier, and both turn on the same thing: will the customer have TIME and REASON to stop where you put the shop?** **Footfall is not custom — the supermarket and the hospital both have footfall, and only one of them has customers with time they chose to spend.**
+
+---
+
+## 225. PRODUCT — a new product, a widened range, or a trial
+
+**Asked three times:** Violet Cakes *(write and sell a cookbook vs introduce a vegan range)* — **June 2026 P1, 2(f)** · TADS *(teach other musical instruments vs offer online lessons)* — **May–June 2020 P1, 3(e)** · Rabanne *(product trials in a limited location vs advertising a new perfume worldwide)* — **June 2025 P2R, 3(e)**
+
+**The AO2 anchors (Violet Cakes):** customers **who bought the last book may be encouraged to buy the latest**; the business **may respond to changing food trends by providing cakes suitable for vegans**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Violet Cakes)*
+> **Claire should introduce the vegan range.** The decisive fact is **what a cookbook does to the core business: the scheme's objection is that "if customers start to make their own cookies and buns, they will buy less from Violet Cakes, which may result in a decrease in sales."** **A cookbook teaches the customer to do the thing Claire sells for a living** — and the more successful the book, the more of the café's own trade it replaces. **A vegan range does the opposite: it sells to people who currently walk past the café because it has nothing for them.** **That is new revenue rather than transferred revenue.** **It also answers the trend the scheme names — cakes "suitable for vegans" are now something a café is expected to have, not a specialism.** **However, "the cost of researching and producing a variety of vegan cakes may be high, leading to high prices or low demand for the new range."** **I would still choose the vegan range, on the condition that it starts with three or four products rather than a full counter — because vegan baking uses different ingredients with different costs, and Claire needs to know the price and the shelf life before she commits the display to it.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The vegan range** — first sentence |
+| **2. AO2 + AO3** | A cookbook **teaches customers to replace the café**; a vegan range **adds customers who currently have nothing to buy** |
+| **3. Counter-arguments** | Cookbook → **customers make their own → sales fall**; vegan range → **research and production costs, pricing risk** |
+| **4. Named condition** | ⭐ **Provided it starts with three or four products, not a full counter** |
+
+**On TADS the pair is a wider range against a wider delivery, and the schemes give range the revenue — "teaching other musical instruments will bring in new music students and revenue" — against the cost that it "would need to find and pay additional teachers", while online lessons reach "more students" against "technical issues that might lead to lessons being interrupted and not delivered, giving TADS a bad reputation."** **For a drumming school, the online route's failure mode is reputation: a lesson that drops out mid-way is worse than no lesson, because the customer paid and watched it fail.**
+
+**On Rabanne the pair is a local trial against worldwide advertising, and the scheme's objection to the trial is the one to learn: "because product trials are based in a limited location, the results may not be representative of all locations in all countries."** **A test that only samples one city cannot justify a global launch** — whereas the objection to advertising is distribution: **"if they cannot find the perfume in a shop, then they will not be able to purchase it."**
+
+> ⭐ **The decisive question: does the new product ADD customers, or does it move the existing ones?** **A cookbook, a cheaper version, a product that competes with your own — transferred revenue.** **An entirely new audience — added revenue.** **And check whether the business can test the idea somewhere representative before committing.**
+
+---
+
+## 226. MARKETING — promotion versus product improvement
+
+**Asked three times:** Can Culleretes *(more advertising vs opening for breakfast)* — **June 2022 P1R, 2(f)** · Four Fitness *(create a USP vs add video content to the website)* — **June 2025 P1, 2(f)** · M&M *(increase promotion vs add new car features)* — **May 2023 P2R, 2(f)**
+
+**The AO2 anchors (M&M):** increasing promotion **means more people will know about M&M and the vehicles it has on sale**; introducing new features such as automatic door locking **may interest customers**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on M&M)*
+> **M&M should introduce the new features.** The decisive fact is **what a vehicle is and what decides a purchase: a car is bought after it has been driven or after someone has recommended it, and the scheme states the consequence of that — "there is no guarantee that people will buy the vehicles unless they have driven them or been recommended to buy one."** **Promotion makes people aware; awareness is not the step at which a car is chosen.** **A new feature, such as automatic door locking, gives the salesperson and the owner something to talk about and something to compare** — and it works on the customer who has already walked in, which is the customer who actually buys. **However, "designing this feature could be expensive and customers may not wish to buy the vehicle because of the increase in price."** **A feature that costs money to add and more money to sell is a feature that can reduce sales.** **I would still choose the new features, on the condition that they are added to the models where the competition already offers them — because a feature that a rival also has is a cost of staying in the market, while a feature no rival has is the only kind that can be charged for.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The new features** — first sentence |
+| **2. AO2 + AO3** | Cars are **bought after driving or recommendation** → awareness is the wrong stage |
+| **3. Counter-arguments** | Features → **expensive to design and raise the price**; promotion → **no guarantee people buy, only that they know** |
+| **4. Named condition** | ⭐ **Provided they go on the models where rivals already offer them** |
+
+**On Can Culleretes the pair is advertising against extending the offer, and the scheme's objections are both cost-based: advertising "can be expensive, so although revenue may improve it will be a cost for the business"; opening for breakfast means "as it is only a small restaurant they may need to employ more staff as well, but this could lead to an increase in costs."** **The deciding fact there is the customer: "an increase in advertising can reach new customers and tourists visiting Barcelona", whereas breakfast "can attract existing and new customers."** **New tourists cannot be reached by breakfast — only by being found — so the answer is advertising, provided the channel is one a visitor would actually see.**
+
+**On Four Fitness the pair is a USP against a website upgrade, and the scheme's objection to the USP is the one that decides it: "if customers do not want access to this service as part of their membership they may feel they are being overcharged and the gym could be at risk of losing customers to its competitors, therefore decreasing its market share."** **An unwanted USP is a price rise with a label on it.** **The website, by contrast, is "currently for information only" and adding to it is a low-risk change — with the caveat that "advertising costs will increase to widely draw in customers", because a feature nobody visits the site to find does nothing.**
+
+> ⭐ **The decisive question: is the business unknown, or is its product unremarkable?** **Unknown → promotion, and the problem is that awareness is not desire.** **Known but unremarkable → improve the product.** **And watch for the option that raises price without adding value — the scheme calls it feeling overcharged.**
+
+---
+
+## 227. STRUCTURE — a partnership versus a private limited company
+
+**Asked:** *"Gianni Polvani operates Four Fitness as a sole trader. Option 1: a partnership with three like-minded health professionals who already work for Four Fitness · Option 2: a private limited company with shareholders."* — **June 2025 P1, 3(e)**
+
+> **This is the only structure question in the tier, and the reason it is interesting is that the case hands you a fact that decides it: the proposed partners are HIS OWN EMPLOYEES.**
+
+**The AO2 anchors:** as a partnership he **will have like-minded health professionals to share the decision making who already work for Four Fitness**; as a private limited company **he will have limited liability, as will his new shareholders**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Gianni should form the private limited company.** The decisive fact is **who he would be taking as partners: the scheme describes them as "three like-minded health professionals who already work for Four Fitness" — which means the people sharing his decisions would be the people he manages.** **A partner cannot be given instructions, and a partnership with three employees turns a business with one decision-maker into one where the staff own the business** — and the scheme's own objection is precisely that **"the decision making may be wrong because the employees do not have sufficient business experience."** **A limited company keeps the roles separate: shareholders own it, Gianni runs it.** **It also gives him limited liability, "as will his new shareholders", so a failed gym no longer puts his personal assets at risk** — which matters more in a business with premises and equipment. **However, "he will have to find people interested in the business who want to become shareholders when setting up a private limited company, and this might be difficult as it is a small business."** **I would still choose the limited company, on the condition that Gianni keeps a controlling shareholding rather than an equal split — because a small business cannot afford a decision that has to be agreed by four people with three of them drawing a wage from it.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The private limited company** — first sentence |
+| **2. AO2 + AO3** | The proposed partners **are his own employees** → authority and ownership would collide; limited liability protects his assets |
+| **3. Counter-arguments** | Partnership → **the employees lack business experience and would share decisions**; Ltd → **hard to find shareholders for a small business** |
+| **4. Named condition** | ⭐ **Provided Gianni keeps a controlling shareholding** |
+
+**Second acceptable chain:** a limited company **can raise capital by selling shares, which a partnership cannot** → the gyms can be expanded without personal borrowing → **but a small business offering shares is asking people to buy into something with no market to sell out of, so the shareholders have to be found one at a time.**
+
+> ⚠️ **The structural fact to carry into any ownership question: a partnership gives you partners, not employees.** **Where a case proposes partners who are currently staff, the argument against the partnership is not financial — it is that you can no longer manage the people who own half of your business.**
+
+---
+
+## ✅ THE 9-MARK TIER IS COMPLETE
+
+| | |
+|---|---|
+| **Blocks in the tier** | **76** — derived from the 38 mark schemes, validated at 80 marks per paper |
+| **Blocks carried by an entry** | **76 · 100%** |
+| **Distinct option pairs** | **58** |
+| **Entries used** | **53** — numbered 175–227 |
+
+**What the compression means.** **58 different option pairs across 76 blocks, carried by 53 entries** — this tier compresses far less than the 3-mark (152 → 97) and the 6-mark (114 → 74) tiers, because **the option pair genuinely varies.** **But 1 question in 4 was still a repeat**, and the repeats cluster where you would expect: **a bonus against job enrichment four times · the source-of-finance questions fourteen times across thirteen pairs · primary against secondary research five times.**
+
+**Every decision type in the qualification is closed:** sources of finance · promotion · pricing · market research and success measures · job design and motivation · contracts · training · production · operations · recruitment · communication · place · product · marketing · structure.
+
+> ### ✅ THE COVERAGE IS VERIFIED BY SCRIPT, NOT BY HAND
+> `python3 layer_c_9mark_coverage.py` reads the derived inventory, checks every one of the 76 blocks against a `COVERED` map, and prints **0 remaining**. Run it with **`--audit`** to print **each covered block's real option pair next to the entry claiming it** — the flag that exists because an entry headed *"venture capital vs a bank loan"* once listed a block whose actual pair was **venture capital vs crowdfunding**.
+
+> ### ⭐ AND THE THREE THINGS THAT DECIDE ANY JUSTIFY ANSWER — the whole tier in three questions
+> **1. WHO BENEFITS?** The business, its owners, its employees, its customers, or a country. **Several questions in this tier name a party that is not the business, and a contextualised answer about the wrong party scores zero.**
+> **2. WHAT IS THE FAILURE MODE?** Every mark-scheme counter-argument in this tier is one: *interest you must pay anyway · a campaign that raises nothing · a facility repayable on demand · a reward most people cannot win · training the customer to replace you · a feature that raises the price and adds nothing.*
+> **3. WHAT WOULD HAVE TO BE TRUE?** The named condition, drawn from a case fact or a figure — and **if it could be pasted onto another question, it is not a condition.**
 
 ---
 ## 196. PRICING — an introductory/low price vs another tactic

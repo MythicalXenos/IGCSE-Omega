@@ -131,7 +131,7 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**217 entries written · 380 governed blocks in scope · 59 still to cover** (21 nine-mark + 38 twelve-mark).
+**227 entries written · 380 governed blocks in scope · 38 still to cover** (all twelve-mark).
 
 > **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, **114 covered, 0 remaining**, and flags any entry reference that does not exist.
 
@@ -246,17 +246,18 @@ So the correct response is **not one essay per question** — that would repeat 
 | **7b** | 9-mark Justify — promotion + pricing (17 pairs) | ✅ **17 entries (188–204)** |
 | **7c** | 9-mark Justify — market research + success measures | ✅ **4 entries (205–208)** |
 | **7d** | 9-mark Justify — job design, motivation, contracts | ✅ **9 entries (209–217)** |
-| **7e** | 9-mark Justify — the remaining **21 blocks** | ⬜ next |
+| **7e** | 9-mark Justify — the final 21 blocks | ✅ **10 entries (218–227)** |
+| **8** | **9-MARK TIER — CLOSED at 76/76** | ✅ **done** |
 | **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
 | **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
 
-### 🔄 LAYER C, 9-MARK TIER — OPEN (55 of 76 blocks · 4 decision types closed)
+### ✅ LAYER C, 9-MARK TIER — CLOSED at 76/76, verified 0 remaining
 
 ```
 9-mark Justify blocks      : 76
 distinct option pairs      : 56        <- it BARELY repeats
-carried by entries 175-217 : 55 blocks (4 decision types closed)
-REMAINING                  : 21 blocks
+carried by entries 175-227 : 76 blocks (all 15 decision types closed)
+REMAINING                  :  0 blocks
 ```
 
 **Reverify with** `python3 layer_c_9mark_coverage.py` — and use `--audit`, which prints **each covered block's real option pair next to the entry that claims it.** That flag exists because entry 176 was headed *"venture capital vs a bank loan"* while one of its two blocks was actually **venture capital vs crowdfunding**: **the label looked right and the block was wrong.** The audit makes that class of error visible instead of invisible.
