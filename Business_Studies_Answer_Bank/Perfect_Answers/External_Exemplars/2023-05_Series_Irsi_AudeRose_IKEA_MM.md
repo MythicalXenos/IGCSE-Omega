@@ -155,17 +155,112 @@
 
 ---
 
+# ⭐⭐⭐ THE JUSTIFY QUESTIONS — SIX marked answers across the four papers
+
+May 2023 is the richest Justify evidence in the archive. Each paper has **two** 9-mark Justify questions, and the reports print a marked script with a verdict for almost every one.
+
+| Paper | Question | Options | Verdict |
+|---|---|---|---|
+| **P1** | Q2(f) | batch production **or** job production (chocolate lollipops) | **9/9** ✅ |
+| **P1** | Q3(e) | on-the-job **or** off-the-job training | **9/9** ✅ |
+| **P1R** | Q2(f) | sponsor a local flower show **or** leaflets around Paris | **9/9** ✅ |
+| **P1R** | Q3(e) | questionnaires in the shop **or** internet research on trends | **9/9** ✅ |
+| **P2** | Q2(f) | above-the-line **or** below-the-line promotion | 7/9 |
+| **P2** | Q3(e) | bonus **or** job enrichment | 5/9 |
+| **P2R** | Q2(f) | increase promotion **or** improve the vehicles | 5/9 · **8/9** |
+| **P2R** | Q3(e) | (retaining employees) | 3/9 · **9/9** |
+
+> **Four verified 9/9 Justify answers in one session** — P1 twice, P1R twice. The bank previously held two. **This is now the best-evidenced question type in the collection, not the weakest.**
+
+---
+
+## ⭐⭐⭐ THE 9/9 COMMENT — the same words, four times
+
+**P1 Q2(f) — 9 marks:**
+> *"This response shows what is expected from candidates in order to gain the full marks for this type of 'justify' question. This candidate has **shown detailed understanding of the choice they have made**, they have **included context throughout** their response with **logical chains of reasoning** and has made a **good judgement about their choice with a thorough evaluation**."*
+
+**P1R Q2(f) — 9 marks:** *identical wording*, plus:
+> *"**Candidates do not need to consider both options. Candidates need to make a clear choice out of the two options and be able to balance out their response as to why the business should or should not choose that option. Candidates are then expected to provide a clear overall judgement to evaluate their decision.**"*
+
+**P1 Q3(e) — 9 marks:**
+> *"This response shows what we would expect from candidates when responding to a 'justify' question. This candidate is **considering both the benefits and drawbacks of using on-the-job training** for the new employee. This candidate has also **offered a conclusion which offers an evaluation** gaining the full available marks."*
+
+**P2R Q3(e) — 9 marks:**
+> *"This candidate **considered both of the options** for retaining employees, **offering evaluative comments** gaining the full marks available."*
+
+> ### 🔬 SIX REQUIRED FEATURES, FROM THE FOUR VERDICTS
+> 1. **A clear choice** — *"make a clear choice out of the two options"*
+> 2. **Detailed understanding of that choice** — not of both
+> 3. **Context throughout** — not just at the start
+> 4. **Logical chains of reasoning** (AO3)
+> 5. **Balance** — *"balance out their response as to why the business should **or should not** choose that option"*
+> 6. **A clear overall judgement** (AO4)
+>
+> ⭐ **Note what is NOT in any of the four verdicts:** length, number of points, definitions, and — crucially — **discussing both options.** Two of the four 9/9s discussed **one**; two discussed **both**. **Both routes reach full marks** (rule 71).
+
+---
+
+## 🚨 THE ZERO ON A 9-MARK JUSTIFY — a failure mode the bank had not recorded
+
+**P2 Q2(f) commentary, verbatim:**
+> *"Most candidates understood that they had to justify why they had chosen one option as opposed to the other. **Candidates should however, be careful to avoid giving detailed knowledge of the two options available as there are no knowledge marks for this question.** … **Nearly a fifth of the cohort did not gain any marks on this question. It may have been because they confused the two options.**"*
+
+**P1 Q2(f) commentary, verbatim:**
+> *"Those candidates who **gained no marks** on this response **simply showed knowledge of one or both options with no application, analysis or evaluation**."*
+
+> ### ⚠️ TWO ROUTES TO ZERO ON A NINE-MARK QUESTION
+> | Route | What happens |
+> |---|---|
+> | **Confuse the two options** | *"Nearly a fifth of the cohort did not gain any marks"* — **the whole answer is off-target** |
+> | **Write knowledge only** | *"showed knowledge of one or both options with no application, analysis or evaluation"* → **no knowledge marks exist, so nothing is awardable** |
+>
+> **This is the highest-stakes reading error in the paper.** On a 9-mark question, mixing up above-the-line and below-the-line promotion, or batch and job production, costs everything — and the second route costs everything while *feeling* like a good answer. **Detailed, accurate, well-organised knowledge of both options is worth zero on a Justify.**
+
+---
+
+## ⭐ THE LOWER VERDICTS — every level explained in one line
+
+**P2 Q2(f) — 7/9 (Level 3):**
+> *"The response has a **clear understanding of the two types of promotions** and how they could affect IKEA when trying to promote its furniture. **Relevant comments are made about each method which shows sound application** of knowledge and understanding. **However, there are limited interconnected points with logical chains of reasoning for the response to have a higher Level 3 mark.**"*
+> **7 = application is sound, chains are thin.** Then, the correction the examiner prints with it:
+> *"Candidates should **make a clear choice** out of the two options and be able to **balance** their response as to why the business should or should not choose that option. **Candidates should then be encouraged to write an effective conclusion.**"*
+
+**P2 Q3(e) — 5/9 (Level 2):**
+> *"The candidate has given reasons for both options and how it would benefit the employees. However **the response is not developed and there is limited evaluative comments. Perhaps if they had developed the response more they could have moved to the next Level.**"*
+> **5 = reasons for both options, neither developed, no evaluation.** Spreading across two options is named as the cause.
+
+**P2R Q2(f) — 5/9 (Level 2):**
+> *"The candidate has shown **sound application of knowledge and begins to deconstruct with interconnected points**. Gaining a Level 2 mark."*
+> **5 = application present, chains only begun.**
+
+**P2R Q2(f) — 8/9 (Level 3):**
+> *"This response shows what is expected of a Level 3 mark. The candidate has **shown detailed understanding of the choice they made**, they have **included context throughout** their response with **logical chains of reasons**."*
+
+**P2R Q3(e) — 3/9 (Level 1):**
+> *"The response gained a Level 1 mark showing **limited application of knowledge and providing a simple justification**."*
+
+> ### ⭐⭐ THE DISTRIBUTION — where the cohort actually sits
+> *"**Nearly two thirds of the cohort gained a Level 2 mark**"* (P2 Q3(e)) · *"the **majority** of the cohort gained a Level 2 mark"* (P2R Q2(f)) · *"The **large majority** of candidates gained a Level 2"* (P2R Q3(e)) · *"**Around half** of candidates accessed level 2"* (P1R Q2(f))
+>
+> **Level 2 is the default outcome on a Justify question.** It is where a competent, well-taught candidate lands — reasons given, context present, but chains not built and evaluation absent. **The 7→9 gap is where Grade 9 is decided**, and the examiners name the two causes every time: **thin chains (AO3)** and **a conclusion that is not an evaluation (AO4).**
+>
+> ⭐ **And the remedy the examiners repeat:** *"It may help candidates to gain the higher level if they gave **evaluative comments as to the chosen option and why it would be more suitable**."* (P2 Q3(e) and P2R Q3(e) — the same sentence in both reports.)
+
+---
+
 ## Harvest status — May 2023
 
 | Item | State |
 |---|---|
 | **P1 Q4(c) 12-mark Evaluate** | ✅ **VERIFIED 12/12, full transcript** — the second 12/12 in the bank |
 | **P2R Q4(c) 12-mark Evaluate** | ✅ **verified 10/12** (comment + ending transcribed) |
-| **P2 Q4(c) 12-mark Evaluate** | ✅ **verified 10/12** — comment and verdict captured |
+| **P2 Q4(c) 12-mark Evaluate** | ✅ **verified 10/12** — comment, verdict and script opening captured |
+| **Justify questions (8 marked answers)** | ✅ **four 9/9** (P1 ×2, P1R ×2) · 8/9 · 7/9 · 5/9 ×2 · 3/9 — **all commentaries and verdicts captured** |
 | **P1R Q4(c) 12-mark Evaluate** | ✅ **verified 4/12** + the full four-point critique |
 | All four Q4(c) commentaries | ✅ text layer read in full |
 | Four Paper Summary pages | ✅ verbatim |
-| P1 · P1R · P2 scripts for Q1–Q3 | ⏳ **not yet rendered** — page maps below |
+| **The four 9/9 Justify scripts** | ⏳ **not yet rendered** — P1 pp. 22, 30 · P1R pp. 17, 27 · P2R p39 (8/9 on p27, 5/9 on p26, 3/9 on p38, 7/9 on p34, 5/9 on p36) |
+| Other Q1–Q3 scripts | ⏳ not yet rendered — page maps below |
 | P2R scripts for Q1–Q4 | ⏳ not yet rendered |
 
 **Page maps** (script pages are images — render at 200 dpi):

@@ -1515,6 +1515,69 @@ Verbatim, from the closing *Paper Summary* page of three of the four 2023 report
 
 ---
 
+## 87. 🚨 TWO ROUTES TO ZERO ON A NINE-MARK JUSTIFY (May 2023)
+
+**Route 1 — confusing the two options:**
+> *"**Nearly a fifth of the cohort did not gain any marks on this question. It may have been because they confused the two options.**"* — P2 Q2(f)
+
+**Route 2 — writing knowledge only:**
+> *"Those candidates who **gained no marks** on this response **simply showed knowledge of one or both options with no application, analysis or evaluation**."* — P1 Q2(f)
+> *"Candidates should be careful to **avoid giving detailed knowledge of the two options available as there are no knowledge marks for this question**."* — P2 and P2R Q2(f)
+
+> ### ⚠️ THE SECOND ROUTE IS THE DANGEROUS ONE
+> It costs everything while *feeling* like a strong answer. **Detailed, accurate, well-organised knowledge of both options is worth zero on a Justify** — because AO1 is not assessed.
+> **Test before writing:** does my answer name the option I have chosen and then argue *for the business*? Or is it explaining what the option is?
+
+---
+
+## 88. ⭐⭐⭐ THE 9/9 JUSTIFY — SIX REQUIRED FEATURES, from four full-mark verdicts
+
+May 2023 produced **four verified 9/9 Justify answers** (P1 Q2(f), P1 Q3(e), P1R Q2(f), P1R Q3(e)). The examiner's own checklist, assembled from the verdicts:
+
+| # | Requirement | The examiner's words |
+|---|---|---|
+| 1 | **A clear choice** | *"make a clear choice out of the two options"* |
+| 2 | **Detailed understanding of that choice** | *"shown detailed understanding of the choice they have made"* |
+| 3 | **Context throughout** | *"included context throughout their response"* |
+| 4 | **Logical chains of reasoning** (AO3) | *"with logical chains of reasoning"* |
+| 5 | **Balance** | *"balance out their response as to why the business should **or should not** choose that option"* |
+| 6 | **A clear overall judgement** (AO4) | *"made a good judgement about their choice with a thorough evaluation"* |
+
+**Absent from all four verdicts:** length · number of points · definitions · **discussing both options.** Two of the four 9/9s discussed one option; two discussed both.
+
+---
+
+## 89. ⭐⭐ LEVEL 2 IS THE DEFAULT ON A JUSTIFY QUESTION
+
+> *"**Nearly two thirds of the cohort gained a Level 2 mark**"* (P2 Q3(e)) · *"the **majority**… Level 2"* (P2R Q2(f)) · *"The **large majority**… Level 2"* (P2R Q3(e)) · *"**Around half** of candidates accessed level 2"* (P1R Q2(f))
+
+**The examiners name the two causes of a Level 2, and they are the same in every report:**
+> *"Candidates accessed level 2 by **expanding on their answers but often missed balance and a conclusion** of their thoughts."* (P1 Q2(f))
+> *"…but often missed balance and a conclusion to their thoughts."* (P1R Q2(f))
+> *"**the response is not developed and there is limited evaluative comments**"* (P2 Q3(e))
+
+⭐ **And the remedy, repeated word-for-word in two reports:**
+> *"It may help candidates to gain the higher level if they gave **evaluative comments as to the chosen option and why it would be more suitable**."*
+
+**The 7→9 gap on a Justify is exactly two things: chains you have actually built, and a conclusion that evaluates.**
+
+---
+
+## 90. ⭐ THE LEVEL 3 VERDICTS BELOW FULL MARKS — 7/9 and 8/9, one line each
+
+| Mark | Paper | The examiner's exact diagnosis |
+|---|---|---|
+| **8/9** | P2R Q2(f) | *"**detailed understanding of the choice they made**… context throughout… **logical chains of reasons**"* — Level 3, just short |
+| **7/9** | P2 Q2(f) | *"**sound application**… **However, there are limited interconnected points with logical chains of reasoning** for the response to have a higher Level 3 mark"* |
+| **5/9** | P2 Q3(e) | *"given reasons for **both** options… **not developed and there is limited evaluative comments**"* |
+| **5/9** | P2R Q2(f) | *"sound application of knowledge and **begins** to deconstruct with interconnected points"* |
+| **3/9** | P2R Q3(e) | *"**limited application of knowledge** and providing a simple justification"* |
+
+**7 = application sound, chains thin. 5 = both options covered, neither developed. 3 = limited application.**
+⭐ The correction printed with the 7/9: *"Candidates should **make a clear choice**… **balance** their response… **Candidates should then be encouraged to write an effective conclusion**."*
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)

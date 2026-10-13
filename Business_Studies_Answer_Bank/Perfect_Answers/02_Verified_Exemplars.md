@@ -764,6 +764,36 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 
 ---
 
+## ⭐⭐⭐ THE 9/9 JUSTIFY — FOUR FULL-MARK VERDICTS IN ONE SESSION (May 2023)
+
+May 2023 printed **four** full-mark Justify answers — **P1 Q2(f)** (batch vs job production) · **P1 Q3(e)** (on-the-job vs off-the-job training) · **P1R Q2(f)** (sponsoring a flower show vs leaflets in Paris) · **P1R Q3(e)** (questionnaires vs internet research). The bank previously held two 9/9s; it now holds **six**.
+
+**The shared verdict — near-identical in three of the four:**
+> *"This response shows **what is expected from candidates** in order to gain the full marks for this type of 'justify' question. This candidate has **shown detailed understanding of the choice they have made**, they have **included context throughout** their response with **logical chains of reasoning** and has made a **good judgement about their choice with a thorough evaluation**."*
+
+**And the instruction printed beneath it:**
+> *"**Candidates do not need to consider both options. Candidates need to make a clear choice out of the two options and be able to balance out their response as to why the business should or should not choose that option. Candidates are then expected to provide a clear overall judgement to evaluate their decision.**"*
+
+### 🔬 SIX REQUIRED FEATURES
+**1** a clear choice · **2** detailed understanding of *that* choice · **3** context throughout · **4** logical chains · **5** balance (*should **or should not***) · **6** a clear overall judgement.
+**Absent from all four verdicts:** length · number of points · definitions · **discussing both options.**
+⭐ **Two of the four 9/9s discussed one option and two discussed both — both routes reach full marks.**
+
+### 🚨 AND THE ZERO BESIDE THEM — two routes to nothing on 9 marks
+> *"**Nearly a fifth of the cohort did not gain any marks on this question. It may have been because they confused the two options.**"*
+> *"Those candidates who gained no marks… **simply showed knowledge of one or both options with no application, analysis or evaluation**."*
+> *"Candidates should be careful to **avoid giving detailed knowledge of the two options available as there are no knowledge marks**."*
+
+**Knowledge of both options, written accurately and at length, is worth zero on a Justify.** It costs everything while feeling like a strong answer.
+
+### ⭐⭐ LEVEL 2 IS THE DEFAULT — and the examiners name the two causes
+*"**Nearly two thirds of the cohort gained a Level 2 mark**"* · *"**Around half** of candidates accessed level 2"* · *"the **large majority**… Level 2"*.
+> *"Candidates accessed level 2 by **expanding on their answers but often missed balance and a conclusion** of their thoughts."* · *"the response is **not developed and there is limited evaluative comments**."*
+
+**Remedy, repeated in two reports: *"evaluative comments as to the chosen option and why it would be more suitable."***
+
+---
+
 # 12 MARKS — EVALUATE
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 12/12
