@@ -338,19 +338,21 @@ This page lists, per tariff, **which examiner reports contain full-mark candidat
 |---|---|---|---|
 | May 2022, 2023, 2024 | May 2022, 2024 | — | — |
 
-> **Note:** Pearson records **no** full-mark 12-mark example for Paper 2 or Paper 2R. The verified 12/12 in this bank is from **June 2024 Paper 1**.
+> **Note:** Pearson records **no** full-mark 12-mark example for Paper 2 or Paper 2R. **Both verified 12/12s in this bank are Paper 1** — **June 2024 P1 (PPS)** and **May/June 2023 P1 (Irsi Chocolatier)**. **The best held 1R Evaluate is 11/12 (June 2026 P1R, Spud Bros)**, and the Paper 2 / 2R cell is **permanent** — no full-mark example has ever been published there.
 
 ### ⚠️ Sessions named here that are NOT yet in the archive or the harvest
 
 Pearson lists **May 2026** throughout. The archive's newest papers are labelled *June 2026*. **These are almost certainly the same series** — and it means **examiner reports for the 2026 series exist**, in several papers where no full-mark example previously existed:
 
-- **Paper 1R Analyse** — 2026
-- **Paper 2 Analyse** — 2026
-- **Paper 2R Analyse** — 2026
-- **Paper 2 Justify** — 2026
-- **Paper 2R Justify** — 2026
+| Target Pearson names for 2026 | Held? |
+|---|---|
+| **Paper 1R Analyse** | ✅ **HELD** — the **June 2026 P1R** report was found on disk in the archive (48 pp) and harvested: a **6/6 Analyse** (Spud Bros sponsorship) and an **8/9 Justify**. *"May 2026"* and *"June 2026"* are the same series. |
+| **Paper 2 Analyse** | ❌ **not held** — no June 2026 P2 report is in the archive or retrievable |
+| **Paper 2R Analyse** | ❌ **not held** |
+| **Paper 2 Justify** | ❌ **not held** |
+| **Paper 2R Justify** | ❌ **not held** — though **a Paper 2R 9/9 is already banked twice** (May 2023 M&M · June 2025 Rabanne), so the gap is one of *paper* only, not of technique |
 
-**These are the highest-value unharvested targets in the whole project.** They are the newest papers, and several fill gaps where no verified full-mark exemplar currently exists for that tariff-and-paper combination.
+⚠️ **This list was written when none of the 2026 reports had been found, and it was still headed "not yet in the archive" long after the first one was. Checked against the register on 14 Oct 2026 — one of the five is held, four are not.** **A gap list is a claim about the archive, and the archive changes; re-derive it with `tally_exemplars.py` and the coverage scripts rather than trusting the headings.**
 
 ---
 
