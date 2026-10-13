@@ -297,6 +297,84 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 
 ---
 
+# ⭐⭐ THE IKEA 7/9 JUSTIFY — the most instructive 7 in the bank
+
+**P2 Q2(f)** — *"Justify which one of these two options IKEA should use"* (above-the-line vs below-the-line promotion). **Level 3 – 7 marks.**
+
+> **Above the line promotion is good because it can reach a bigger audience, therefore more chance of gaining interest from customers** ~~potential customers~~, **especially because everyone needs furniture and it can help almost everyone around the world. As a result may lead to potential sales.** An example of this could be **showing a commercial on TV** of the furniture IKEA sell. **However it could be very expensive which would increase their costs.**
+>
+> **Below the line promotion is good because IKEA can target a new demographic which is elderly people and since even elderly people may need furniture it would be a good way to get them engaged. This will lower their costs since it is a cheap way to promote IKEA's furniture. As a result increased profit. However below the line promotion can be very time consuming.**
+
+**Examiner comment — verbatim:**
+> *"The response has a **clear understanding of the two types of promotions** and how they could affect IKEA when trying to promote its furniture. **Relevant comments are made about each method which shows sound application of knowledge and understanding. However, there are limited interconnected points with logical chains of reasoning** for the response to have a higher Level 3 mark."*
+> *"Candidates should **make a clear choice** out of the two options and be able to **balance** their response as to why the business should or should not choose that option. Candidates should then be encouraged to **write an effective conclusion**."*
+
+## 🔬 EXACTLY WHAT IS MISSING — three diagnosable faults
+
+| # | Fault | The evidence |
+|---|---|---|
+| **1** | **The chains are asserted, not built** | *"As a result may lead to potential sales"* — an outcome stated without the step that produces it. Same again later: *"As a result increased profit"* — no "because", no mechanism. **The examiner's phrase is *"limited interconnected points"*: the links are there in name, not in reasoning.** |
+| **2** | **Examples replace development** | *"An example of this could be showing a commercial on TV"* — naming an example is not the same as developing a chain. It adds nothing to the argument and consumes the space a chain needed. |
+| **3** | **No choice, no conclusion** | The answer weighs **both** options and never picks one. Both routes are valid *provided you then decide* — but this answer stops at the second drawback. **The examiner's correction is printed immediately after: make a clear choice, balance it, and write a conclusion.** |
+
+> ### ⚠️ AND NOTE WHAT IT DID RIGHT
+> *"sound application of knowledge and understanding"* — **every point is anchored in IKEA**: *"everyone needs furniture"*, *"the furniture IKEA sell"*, *"elderly people may need furniture"*. **Application was not the problem.** This is the clean proof that on a Justify, sound AO2 with weak AO3 and no AO4 lands at **7**, not 9.
+
+---
+
+# ⭐⭐⭐ TWO MORE FULL-MARK 6/6 ANALYSE ANSWERS — and the definition question settles
+
+## 6/6 — P2 Q3(d) · *"Analyse why IKEA shortlists candidates for positions in its factories"* **(6)** — Level 3, 6 marks
+
+> **Shortlisting refers to evaluating application forms and choosing candidates to be interviewed.** By shortlisting candidates, it allows **IKEA to conduct interviews with the shortlisted candidates for maybe a factory supervisor**. These interviews can be used to **check if information stated in the CV is accurate or not**, and **determine the suitability of the prospective employee to the factory**. **If shortlisting isn't done, then conducting interviews for all applicants will be ineffective** therefore interviews ~~won't be kept all~~, which as a result **makes shortlisting important as [when] interviews are done, doubts are cleared, making the recruitment process more effective**.
+>
+> Furthermore, **by shortlisting candidates, IKEA can select the best candidate for its various positions in the furniture manufacturing factories such as machine operators**, as shortlisting allows **thorough evaluation on all candidates** and selecting the best candidate can be **narrowed into a shorter list** making it easy to select. **By allowing the best employee to be selected, productivity can rise in IKEA factories as worker selected matches the job requirements.**
+
+**Commentary:** *"To gain the marks available candidates needed to apply the information and then analyse… **Remember examiners will look at the response 'holistically'** — has the candidate applied their knowledge to the scenario and have they analysed the information? They will then make a decision as to where the response **'best fits'** into the Levels."*
+
+## 6/6 — wait, 5/6 — P2 Q4(b) · *"Analyse why IKEA uses statements of comprehensive income to assess its business performance"* **(6)** — Level 3, 5 marks
+
+> **Statement of comprehensive income is used to assess performance as ratios such as profit margins can be compared to competitor values to analyse how low their costs are in comparison to competitive firms.** Statements of comprehensive income can also be used to **see if IKEA need to convert more or change suppliers if cost of sales is a large percentage of revenue**. These values can then be used to **inform decision making on whether normal profit needed to maintain stakeholder satisfaction is being met**. **If revenue is low, it could reflect how customers are not happy with quality of furniture from IKEA, thus customer satisfaction is lower causing IKEA to see if they are performing well or not.**
+
+**Commentary — verbatim:**
+> *"The response **clearly shows application of statement of comprehensive income with detailed knowledge and understanding**."*
+
+> ⚠️ **I have labelled this 5/6, not 6/6 — see the note below. It is the most valuable of the pair.**
+
+---
+
+# ⭐⭐⭐ THREE QUESTIONS SETTLED BY THESE TWO SCRIPTS
+
+## 1. Does a definition help or hurt on an Analyse question?
+> **Neither. It is unscored.**
+
+| Script | Opens with a definition? | Mark |
+|---|---|---|
+| P1 Q1(g) — branding | ❌ no definition, chains only | **6/6** |
+| **P2 Q3(d) — shortlisting** | ✅ *"Shortlisting refers to evaluating application forms…"* | **6/6** |
+| P1 Q4(b) — place | ❌ no definition | **6/6** |
+| P1R Q4(b) — measuring success | ❌ no definition | **6/6** |
+
+**No AO1 marks means a definition earns nothing — but it also costs nothing.** The shortlisting answer uses one as a *launch pad* into its chain. **Write one if it helps you start; never expect a mark for it, and never let it replace the chain.**
+
+## 2. What separates 6/6 from 5/6 on the same question type?
+> **How many independent chains, and whether they end on a named outcome.**
+
+| | 6/6 (shortlisting) | 5/6 (statement of comprehensive income) |
+|---|---|---|
+| **Chains** | **Two**, each complete | Several correct analytic statements, strung with connectives |
+| **Endings** | *"making the recruitment process more effective"* · *"**productivity can rise in IKEA factories as worker selected matches the job requirements**"* | *"causing IKEA to see if they are performing well or not"* — the chain returns to its own starting point |
+| **Weakness** | none | *"These values can then be used to inform decision making"* — **asserts a use without explaining how** |
+
+> ⭐ **The 5/6 is dense, accurate and full of good business vocabulary** — *profit margins*, *competitor values*, *cost of sales*, *normal profit*, *stakeholder satisfaction*. It knows more than the 6/6. **It scores less because its chains do not arrive anywhere.**
+
+## 3. What does "limited interconnected points" actually mean?
+> **A link word with no mechanism behind it.**
+
+The 7/9 writes *"therefore more chance of gaining interest"* and *"As a result may lead to potential sales"*. The connectives are present and correct. **What is missing is the step between them.** Compare a 9/9: *"This means the employee satisfaction in the workplace will be high. Therefore the employees will be more productive… As a result there will be more sales of cars/vehicles."* **Same connectives — but each one carries a cause.**
+
+---
+
 # ⭐⭐⭐⭐⭐ THE FIVE 9/9 SCRIPTS, VERBATIM — and the mechanism behind every mark band
 
 These are the actual full-mark answers. Read the **evaluation sentences** carefully — they are the whole difference between 7 and 9.

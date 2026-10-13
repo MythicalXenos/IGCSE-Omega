@@ -1685,6 +1685,58 @@ Two May 2023 commentaries state the trap from both sides.
 
 ---
 
+## 97. ⭐⭐ "LIMITED INTERCONNECTED POINTS" MEANS: A CONNECTIVE WITH NO MECHANISM
+
+The IKEA 7/9 Justify writes:
+> *"Above the line promotion is good because it can reach a bigger audience, **therefore more chance of gaining interest from customers**… **As a result may lead to potential sales.**"*
+> *"This will lower their costs since it is a cheap way to promote IKEA's furniture. **As a result increased profit.**"*
+
+**Examiner:** *"sound application of knowledge and understanding. **However, there are limited interconnected points with logical chains of reasoning** for the response to have a higher Level 3 mark."*
+
+> ### 🔬 THE DIAGNOSIS
+> The connectives are all present and correctly used. **What is missing is the step between them.** *"As a result may lead to potential sales"* asserts an outcome without the mechanism that produces it.
+> **Compare a 9/9 on the same structural moment:** *"This means the employee satisfaction in the workplace will be high. **Therefore** the employees will be more productive… **As a result** there will be more sales of cars/vehicles."* **Same words, but each link carries a cause.**
+>
+> ### ⚠️ AND TWO COMPANION FAULTS FROM THE SAME ANSWER
+> - **Examples replace development:** *"An example of this could be showing a commercial on TV"* — naming an illustration is not building a chain, and it consumes the space the chain needed.
+> - **Sound AO2 with weak AO3 and no AO4 = 7.** *"Every point is anchored in IKEA"* — application was never the problem. **This is the cleanest proof in the bank that the Justify ceiling is caused by the chains and the judgement, never by context.**
+
+---
+
+## 98. ⭐⭐ DOES A DEFINITION HELP ON AN ANALYSE QUESTION? NO — AND IT DOES NOT HURT
+
+Four full-mark Analyse scripts, two of them 6/6:
+
+| Script | Definition? | Mark |
+|---|---|---|
+| P1 Q1(g) branding | ❌ | **6/6** |
+| P1 Q4(b) place | ❌ | **6/6** |
+| P1R Q4(b) measuring success | ❌ | **6/6** |
+| **P2 Q3(d) shortlisting** | ✅ *"Shortlisting refers to evaluating application forms and choosing candidates to be interviewed"* | **6/6** |
+
+> ### 🎯 **No AO1 marks means a definition earns nothing — and costs nothing.**
+> The shortlisting answer uses one as a **launch pad** into its first chain. **Write one if it helps you start. Never expect a mark for it. Never let it replace the chain.**
+> ⚠️ This resolves an ambiguity in the bank: the branding commentary's *"there are no AO1 marks"* is a warning about **substituting** knowledge for application, **not** a ban on opening with a definition.
+
+---
+
+## 99. ⭐ WHAT SEPARATES 6/6 FROM 5/6 ON THE SAME PAPER
+
+Two Analyse answers from May 2023 P2, same question type, same session:
+
+| | **6/6** (shortlisting) | **5/6** (statement of comprehensive income) |
+|---|---|---|
+| **Independent chains** | **Two**, each complete | Several correct analytic statements, strung with connectives |
+| **Where they arrive** | *"making the recruitment process **more effective**"* · *"**productivity can rise in IKEA factories** as worker selected matches the job requirements"* | *"causing IKEA to **see if they are performing well or not**"* — the chain returns to its own starting point |
+| **Business vocabulary** | moderate | **superior** — *profit margins · competitor values · cost of sales · normal profit · stakeholder satisfaction* |
+| **Verdict** | 6 | 5 |
+
+> ### 🔬 THE UNCOMFORTABLE LESSON
+> **The 5/6 knows more business than the 6/6.** It is denser, more technical and more accurate. It scores less because **its chains do not arrive anywhere** — and because *"These values can then be used to inform decision making"* **asserts a use without explaining how.**
+> **Marks track chains that arrive, not vocabulary that impresses.**
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
