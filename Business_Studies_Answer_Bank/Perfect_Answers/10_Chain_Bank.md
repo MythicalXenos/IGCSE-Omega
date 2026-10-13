@@ -76,10 +76,12 @@ Every entry gives you:
 | **1** | Newest 3-mark topics — June 2026 + Nov 2025 | ✅ 16 entries |
 | **2** | **3.1 Business activity + 3.2 structure/HR cluster** | ✅ **33 entries** |
 | **3** | **3.3 Marketing** | ✅ **23 entries (50–72)** |
-| **4** | 3.4 Operations + 3.5 Finance + measuring business success | ⬜ next |
-| **5–6** | 6-mark Analyse chains | ⬜ |
+| **4** | **3.4 Operations + 3.5 Finance + the last stragglers** | ✅ **28 entries (73–100)** |
+| **5–6** | 6-mark Analyse chains | ⬜ next |
 | **7–8** | 9-mark Justify option pairs | ⬜ |
 | **9** | 12-mark Evaluate topics | ⬜ |
+
+> ✅ **THE 3-MARK BANK IS CLOSED.** All **97 canonical topics** and all **151 blocks across the 38 papers** are covered by entries 1–100.
 
 ### 🚨 SCOPE CORRECTION — **151** three-mark blocks, not 111
 
@@ -99,13 +101,13 @@ How much is lost varies by paper — **May/June 2024 P1 shows 3 in the CSV but h
 ### ⭐ PROGRESS — 3-mark Explain, derived and not estimated
 
 ```
-3-mark blocks total     :  151
-canonical topics        :   97
-covered by entries 1-72 :   69 topics  ·  112 blocks
-REMAINING               :   28 topics  ·   39 blocks
+3-mark blocks total      :  151
+canonical topics         :   97
+covered by entries 1-100 :   97 topics  ·  151 blocks
+REMAINING                :    0 topics  ·    0 blocks
 ```
 
-> **How this is counted.** `build_layer_c_3mark.py` reads all 38 mark schemes, harvests every 3-mark block, and normalises each to a canonical topic — *"identification of a benefit to a business of using e-newsletters"*, *"a way a business could use e-newsletters"* and *"a benefit to a business of using e-newsletters"* all resolve to **E-NEWSLETTERS**. **0 blocks are unmapped.** The figure above is **97 distinct canonical topics, of which 69 are carried by an entry in this file.**
+> **How this is counted.** `build_layer_c_3mark.py` reads all 38 mark schemes, harvests every 3-mark block, and normalises each to a canonical topic — *"identification of a benefit to a business of using e-newsletters"*, *"a way a business could use e-newsletters"* and *"a benefit to a business of using e-newsletters"* all resolve to **E-NEWSLETTERS**. **0 blocks are unmapped.** The figure above is **97 distinct canonical topics, all of which are now carried by an entry in this file.**
 > ⚠️ **Rule 118 is now enforced by machine.** Every hand-written total in this file has drifted at least once. **This one cannot**: re-run the tool and it prints the number.
 
 ### ⚠️ THE 6-, 9- AND 12-MARK TOTALS ARE STILL UNSAFE — DO NOT QUOTE THEM
@@ -1400,5 +1402,645 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 > **On State, one reference to the business is enough and no reasoning is needed. On Explain, you need the two steps.** Do not write three sentences for a one-mark State question.
 
 ---
+
+---
+
+---
+
+# BATCH 4 — Spec 3.4 (Operations), 3.5 (Finance), and the last stragglers
+
+**28 entries — and this closes the 3-mark bank.** After this batch, every one of the **97 canonical 3-mark topics**, across all **151 blocks in all 38 papers**, is carried by an entry in this file.
+
+---
+
+## 73. Measuring business **success** — one measure
+
+**Asked:** *"Explain one measure a business can use to judge its success."* — Nov 2021 P1 · *"Explain one way to measure the success of a business."* — May/June 2020 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Market share can be used to measure the success of a business** (1) — what proportion of the whole market it sells to. **Changes in market share show how well or how badly the business is doing against its rivals** (1), which profit alone cannot tell you: profit can rise while market share quietly falls. **This helps the business make decisions** (1) — whether to invest, hold, or change what it is doing.
+
+**The chain, broken out**
+1. **Name a measure** — market share · profit · customer satisfaction · sales revenue · number of customers · staff turnover · growth.
+2. **What it reveals** — whether performance is improving or slipping.
+3. **What the business does with it** — a decision.
+
+**A second acceptable route** *(scheme, May/June 2020 P1)*
+**Customer satisfaction** (1) → **happy customers revisit the business** (1) → **they recommend it to friends and family** (1).
+
+**Measures worth knowing, each with the comparison that makes it a measure:**
+| Measure | The comparison it needs |
+|---|---|
+| Market share | against the whole market, or against last year |
+| Profit | against last year, or against the target set |
+| Customer satisfaction | against a previous survey, or a rival |
+| Staff turnover | against the industry, or the previous year |
+
+> ⚠️ **A measure needs something to measure *against*.** *"Profit measures success"* is a definition. *"**A rise in** profit compared with last year shows the business is doing better"* is a measure. **The comparison earns the second mark.**
+
+---
+
+## 74. **Private limited company (Ltd)** — one benefit to the owner
+
+**Asked:** *"Explain one benefit to an owner of a private limited company."* — May/June 2025 P1R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A private limited company has **limited liability** (1) — the owner's responsibility for the company's debts is capped. **This reduces the risk of ownership** (1) compared with a sole trader or a partnership, where the owner can be pursued personally. **Their personal possessions are protected if the business has to pay back outstanding debts** (1), so the worst case is losing what they put in, not their home.
+
+**The chain, broken out**
+1. **Limited liability exists** — the legal feature.
+2. **The risk to the owner is capped** — what that means for them.
+3. **Personal assets are protected** — the concrete consequence.
+
+**A second acceptable route** *(constructed)*
+**The company can sell shares privately** → it raises far more capital than a sole trader could → **it can grow faster** without the owner taking on more personal risk.
+
+> 🚨 **READ THE QUESTION: it asks about the OWNER, not the business.** This is one of the **relevance-by-party** traps — five separate instances are recorded in this bank. *"The business has limited liability"* is an answer about the **business**; **the mark is for what it does for the owner.** Write *"the owner's personal possessions are protected"*.
+> ⚠️ **Do not claim an Ltd can sell shares to the public.** That is a **public** limited company (plc). An Ltd sells shares **privately, by invitation** — which is exactly what keeps control with the existing owners, and is a legitimate separate benefit if you want a different route.
+
+---
+
+## 75. **Hierarchical** organisational structure — one disadvantage
+
+**Asked:** *"Explain one disadvantage of having a hierarchical organisational structure."* — May/June 2024 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Communication through many layers can be difficult** (1) — a message has to pass through every level to reach the bottom. **There is a long chain of command** (1), so each layer can delay it or change it on the way. **This possibly leads to slow decision-making** (1), and the business reacts to customers more slowly than a flatter rival does.
+
+**The chain, broken out**
+1. **Many layers** — the structural fact.
+2. **A long chain of command** — the mechanism that causes the problem.
+3. **Slow decisions** — or messages arriving distorted.
+
+**A second acceptable route** *(constructed)*
+**A wide span of control at the top** → managers have too many staff to supervise closely → **problems are not spotted until they have grown**.
+
+> ⚠️ **The scheme links two syllabus terms in one breath — "many layers" and "long chain of command" — and it is worth copying that link.** It shows you know how they connect: **layers are the structure; the chain of command is the path instructions travel through them.**
+> ⚠️ **Do not write "it costs more".** More layers do cost more in salaries, but that answers a *cost* question. **This question is about organisational structure, so the answer must be about communication, decisions or control.**
+
+---
+
+# 3.4 — OPERATIONS MANAGEMENT
+
+## 76. **Job production** — one reason to use it
+
+**Asked:** *"Explain one reason why a business would use job production."* — May/June 2019 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> Job production is used **to produce a unique piece of work** (1) — one item at a time, made to order. **It is made to meet the exact needs of the customer** (1), which the business could not do with standardised output. **This requires the time and the skills of the employees** (1), which is why job production suits businesses selling high-value, bespoke products.
+
+**The chain, broken out**
+1. **Unique, made-to-order output** — the defining feature.
+2. **Exact customer requirements are met** — why a customer will pay for it.
+3. **It needs skilled labour, and allows a high price** — the consequence for the business.
+
+**A second acceptable route** *(constructed — the pricing route)*
+**Each item is unique** → the customer cannot compare it with a rival's price → **the business can charge a premium**, which covers the high labour cost.
+
+> ⚠️ **`NB No marks are awarded for a definition`** — printed on this exact question in 2019 P2. *"Job production makes one item at a time"* scores **0**.
+> 🚨 **JOB PRODUCTION HAS NOTHING TO DO WITH JOBS OR EMPLOYMENT.** This is a named word-collision in this bank. A candidate who writes *"job production means the business creates jobs for people"* has answered a **completely different question and scores zero.** Job production = **one bespoke item at a time** — a wedding cake, a tailored suit, a made-to-measure bridge.
+
+---
+
+## 77. **Batch production** — one reason to use it
+
+**Asked:** *"Explain one reason why a business would use batch production."* — May/June 2021 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A business with **a wide range of products may need to produce them in smaller numbers** (1) — neither one at a time nor in one endless run. **It can then change the product easily — the colour or the size, for example** (1) — between one batch and the next. **And it does so without incurring too much cost** (1), because the same machinery and layout are reused for every batch.
+
+**The chain, broken out**
+1. **Variety is needed, in moderate volumes** — the business's situation.
+2. **The line can be switched between batches** — the flexibility this gives.
+3. **Costs stay controlled** — or: it is cheaper than job production at this volume.
+
+**A second acceptable route** *(constructed — the stock route)*
+**Producing in batches builds stock ahead of demand** → customers are served immediately → **the business does not lose sales while it waits for a new batch**.
+
+> ⭐ **Batch production sits between the other two, and the exam expects you to place it.**
+> | | **Job** | **Batch** | **Flow** |
+> |---|---|---|---|
+> | Output | one unique item | groups of identical items | continuous, high volume |
+> | Labour | highly skilled | semi-skilled | low-skilled, often automated |
+> | Example | wedding cake | a bakery's batch of loaves | bottling a drink |
+> **Use volume and flexibility as the reason — never "it makes more products", which is the answer for flow production, not batch.**
+
+---
+
+## 78. **Flow production** — one disadvantage
+
+**Asked:** *"Explain one disadvantage for a business of using flow production to produce its goods."* — Nov 2024 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **The employees may get bored on the production line** (1) — the work is repetitive and each person does one task all day. **Their job roles are likely to be monotonous** (1), with no variety and little skill involved. **This leads to poorly motivated employees and high labour turnover** (1), so the business is constantly recruiting and training replacements.
+
+**The chain, broken out**
+1. **Repetitive, specialised work** — the nature of a flow line.
+2. **Monotony and low motivation** — the effect on the worker.
+3. **High labour turnover, poor quality, or industrial action** — the cost to the business.
+
+**A second acceptable route** *(scheme, same question)*
+**The production facility may be inflexible** (1) → **the goods produced are standardised and similar** (1) → **which may prevent the business from tailoring its products to individual customer tastes** (1).
+
+> ⭐ **The inflexibility route is often the stronger of the two**, because it is a **strategic** disadvantage rather than a human one — a rival offering variety can take customers a flow line cannot serve at all. **Both routes are the scheme's, so choose whichever chains more naturally to the case.**
+> ⚠️ **Note the scheme's own example wording "high labour turnover"** — the exam expects the technical term, not just "staff leave".
+
+---
+
+## 79. **Technology** — one impact on production
+
+**Asked:** *"Explain one impact of technology on the manufacture of vehicles."* — May/June 2019 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Fewer people are required in the factories to do repetitive jobs** (1), because machines can perform them instead. **People get bored doing these jobs and make mistakes** (1), so removing them also removes a source of error. **Fewer employees brings the cost of goods down** (1), through lower wage costs or fewer faulty items.
+
+**The chain, broken out**
+1. **Technology replaces labour** — the impact itself.
+2. **The effect on the work or the product** — fewer errors, faster output, more consistent quality.
+3. **A cost consequence** — unit costs fall.
+
+**A second acceptable route** *(scheme, same question)*
+**More robots are manufacturing the vehicles than previously** (1) → **the vehicles can be manufactured in any country** (1) → **so the business could move to a cheaper country** (1).
+
+> ⚠️ **"Impact" is not the same word as "benefit".** An impact can be negative, and the scheme's own answer hedges — it notes that people **make mistakes** on dull jobs, so the technology is not simply good. **If the question says impact, a balanced answer is safe. If it says benefit, write only the upside.**
+
+---
+
+## 80. **Robotics** — one reason a business would use it
+
+**Asked:** *"Explain one reason why a business would use robotics in its production."* — Nov 2024 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> Using robots **reduces production errors** (1) — a machine does not tire or lose concentration. **Robots can be programmed to do the same thing time after time** (1), with no variation between items. **Products can therefore be made with greater consistency and higher quality** (1), which is what the customer actually experiences.
+
+**The chain, broken out**
+1. **Robots reduce error, or raise output** — the reason.
+2. **Because they repeat a programmed action exactly** — the mechanism.
+3. **Consistency, quality, or lower unit cost** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**Robotics increases the number of goods produced** (1) → **reducing the cost of production** (1) → **leading to the possibility of greater profits** (1).
+
+> ⚠️ **Robotics, technology and automation overlap almost completely in a 3-mark answer — so use the scheme's own vocabulary.** Robots are **programmed**; they remove **errors**; they give **consistency**. An answer that says only *"it is faster"*, without naming consistency or error-reduction, stops one link short.
+
+---
+
+## 81. **Just in time (JIT)** stock control — one reason or benefit
+
+**Asked:** *"Explain one way in which the JIT method of stock control might benefit a business."* — May/June 2020 P1R · *"Explain one reason why many manufacturing businesses use just-in-time (JIT)."* — May/June 2025 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> JIT **reduces the amount of inventory held by the business** (1) — materials arrive as they are needed rather than being stockpiled. **This reduces the costs associated with over-ordering** (1) and, because far less space is needed for storage, **overall costs for the business may be reduced** (1).
+
+**The chain, broken out**
+1. **Less stock is held** — the defining feature of JIT.
+2. **Storage and holding costs fall** — the immediate benefit.
+3. **Overall costs fall, or space is freed for something else** — the consequence.
+
+**A second acceptable route** *(scheme, May/June 2025 P2)*
+**JIT reduces out-of-date or damaged stock** (1) → **less storage space is required** (1) → **the space can be used for other business activities** (1).
+
+**A third** *(scheme, May/June 2020 P1R)*
+**Less space needed for buffer stock** (1) → **a reduction in storage costs** (1) → **stock arrives as and when it is needed** (1).
+
+> ⚠️ **`No marks are awarded for a definition`** — printed on both of these. Do not write *"JIT means stock arrives just in time"* and stop there.
+> 🚩 **JIT has a matching DISADVANTAGE, and you should be able to produce it too:** there is **no buffer stock**, so if a supplier is late **production stops entirely** — orders cannot be fulfilled and sales are lost. **On a "benefit" or "reason" question keep to the upside; on an evaluate or analyse question the stoppage risk is the strongest counter-argument you have.**
+
+---
+
+## 82. **Kaizen** — one reason manufacturers use it
+
+**Asked:** *"Explain one reason why many manufacturing businesses use Kaizen in their factories."* — May/June 2022 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Kaizen means employees are involved in the process of improvement** (1) — the people doing the work are the ones who suggest the changes. **They suggest ways to improve the manufacturing process** (1), which is precisely what a manager sitting in an office cannot see. **This can lead to improved product quality** (1).
+
+**The chain, broken out**
+1. **Everyone is involved in improvement** — the defining feature of Kaizen (continuous improvement).
+2. **Suggestions come from the people doing the job** — why those suggestions are worth having.
+3. **Quality improves, waste falls, costs fall** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**Kaizen helps reduce waste** (1) → **because employees understand how to operate the machinery more effectively** (1) → **resulting in lower overall costs for the business** (1).
+
+> ⚠️ **`No marks are awarded for a definition.`** *"Kaizen is continuous improvement"* scores **0** — and that is the exact trap here, because the definition is the memorable part. **Say what it does:** it puts the people who run the machines in charge of improving them, and that produces suggestions no manager can generate from a desk.
+> ⭐ **Kaizen is on the examiners' list of named content gaps** — historically candidates have simply not known it. **Two points are enough: employees suggest improvements, and waste falls so costs fall.**
+
+---
+
+## 83. Total quality management (**TQM**) — one advantage or benefit
+
+**Asked:** *"Explain one benefit for a business from the introduction of total quality management (TQM)."* — Nov 2021 P1 · *"Explain one advantage to a business of using total quality management."* — May/June 2025 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> TQM produces **improved product quality** (1) — fewer faults reach the customer. **This is because everyone is working as a team** (1) and quality is everybody's responsibility, not one inspector's. **So fewer mistakes are likely to be made** (1).
+
+**The chain, broken out**
+1. **Quality improves** — the benefit.
+2. **Because responsibility is shared by all employees** — the mechanism, and the thing that separates TQM from quality control.
+3. **Fewer mistakes, less waste, higher customer satisfaction** — the consequence.
+
+**A second acceptable route** *(scheme, May/June 2025 P1)*
+**Increased customer satisfaction** (1) → **because managing quality is the responsibility of every employee** (1) → **so they are fully trained and complete their role effectively and consistently** (1).
+
+> 🚨 **TQM AND QUALITY CONTROL ARE NOT THE SAME, AND THIS IS THE TRAP.**
+> | | **Quality control** | **TQM** |
+> |---|---|---|
+> | Who is responsible | **one inspector, or one department** | **every employee** |
+> | When | **at the end** — faults found after production | **throughout** — faults prevented |
+> | Effect on waste | the faulty items are already made | the faulty items are never made |
+> **This has already cost marks in a real paper:** a candidate who answered TQM with *"increased customer satisfaction"* as a standalone claim had it **not awarded**, because the premise underneath it was wrong. **A TQM answer must contain the words "all employees" or "everyone".** That is the phrase the mark rests on.
+
+---
+
+## 84. **Quality** of goods — why it is important
+
+**Asked:** *"Explain one reason why the quality of goods manufactured by a business is important to its success."* — Nov 2023 P2 · *"Explain one reason why businesses maintain the quality of their products."* — May 2023 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Manufacturing quality goods leads to a good reputation for the business** (1) — customers talk about it, and the name comes to stand for something. **This encourages more people to purchase the goods** (1), including people who would not previously have considered the business. **Which increases the sales for the business** (1).
+
+**The chain, broken out**
+1. **Quality builds reputation** — or: it prevents complaints and returns.
+2. **Customers choose it, and come back to it** — the behavioural effect.
+3. **Sales, profit, or the ability to charge more** — the commercial result.
+
+**A second acceptable route** *(scheme, May 2023 P2R)*
+**Consumers expect quality products** (1) → **and expect them to perform the function for which they were bought** (1) → **failure to do this could lose customers to competitors** (1).
+
+> ⚠️ **"Quality" does not mean "expensive", and it does not mean "luxury".** Quality means **fit for purpose** — the product does what the customer bought it to do. A cheap product can be high quality. **Use "fit for purpose" or "performs the function it was bought for" and you cannot be wrong.**
+> ⭐ **The strongest third sentence is the counterfactual** — *"if it does not, customers go to a competitor."* The scheme reaches for it in its own answer, and it lands the point without needing a number.
+
+---
+
+## 85. **Using resources effectively** — one reason
+
+**Asked:** *"Explain one reason why businesses want to use resources effectively in manufacturing."* — May 2023 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Being effective in the use of resources reduces waste** (1) — fewer materials thrown away, fewer items scrapped. **This could decrease the amount of inventory held** (1), because the business no longer has to over-order to cover for spoilage. **Thus lowering the expenses of the business** (1).
+
+**The chain, broken out**
+1. **Waste is reduced** — the immediate effect.
+2. **Less material and less stock is needed** — the mechanism.
+3. **Costs fall, or output rises for the same input** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**Using fewer machines to manufacture goods** (1) → **makes the business more efficient** (1) → **allowing for greater productivity** (1).
+
+> ⚠️ **Efficiency and effectiveness are different words — use the one the question gives you.** **Efficiency** = producing with the least input (cost per unit). **Effectiveness** = achieving the intended result (the right output). The scheme treats them together so either is safe — **but the chain must end on waste, cost or productivity.** "It is good for the environment" is not a scheme point here.
+
+---
+
+## 86. **Location** — why the proximity of materials matters
+
+**Asked:** *"Explain one reason why proximity of material is important to a business when locating to a new factory."* — Nov 2024 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Locating close to materials may reduce delivery costs** (1) — the raw materials have far less distance to travel. **Because the material only has to travel a short distance to the new factory** (1), the transport element of the cost is much smaller. **This reduces total cost and increases the profitability of the business** (1).
+
+**The chain, broken out**
+1. **Delivery and transport costs fall** — the immediate benefit.
+2. **Because the distance is short** — the mechanism.
+3. **Total costs fall, or production is not delayed** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**Access to materials close to the new factory saves time** (1) → **if the business runs out of inventory it can be delivered quickly** (1) → **which prevents delays in production** (1).
+
+> ⭐ **Two routes, and the second is the better one to memorise** — *"prevents delays in production"* is a stronger business consequence than a cost saving, and **a business close to its materials can run a leaner stock policy**, which links straight back to JIT (entry 81).
+> **Other location factors, in case the question is broader:** proximity to **the market** (the customers) · **labour** (skilled workers available) · **competitors** (clustering brings customers to the area) · **the cost of the site** · **government grants or incentives**.
+
+---
+
+## 87. **Job advertisement** — one important piece of information
+
+**Asked:** *"Explain one important piece of information that should be included in a job advertisement in a newspaper."* — May/June 2024 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> The advertisement should include **an address, telephone number or website** (1) for making contact. **This range gives the applicant a greater choice** (1) about how they apply. **Which means more of the right people apply** (1), rather than giving up at the first obstacle.
+
+**The chain, broken out**
+1. **Name the piece of information** — contact details · salary · job title and description · person specification · location · hours · closing date.
+2. **What it does for the applicant** — they can judge whether it is worth applying, and how to do it.
+3. **What that does for the business** — better applicants, fewer wasted applications, less time sifting.
+
+**A second acceptable route** *(scheme, same question)*
+**Including the salary** (1) → **people apply if the amount offered interests them** (1) → **saving applicants time and effort, so they apply for the job they actually want** (1).
+
+> ⭐ **The best answers to this question catch both sides in one sentence** — what the *applicant* gains, and what the *business* gains as a result. *"The salary is included so people know whether it is worth applying, which means the business does not waste time on applications from people who would refuse the pay."*
+> ⚠️ **`No marks are awarded for a definition.`** Do not write *"a job advertisement is an advert for a job."*
+
+---
+
+## 88. Training employees — one **disadvantage**
+
+**Asked:** *"Explain one disadvantage for a business of training its employees."* — May/June 2025 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Training employees takes a great deal of time** (1) — the training has to be delivered, and someone has to deliver it. **It needs existing employees to carry it out** (1), so experienced staff are taken off the work they are paid to do. **This can reduce the productivity of the business** (1) in the short term, even though the training should raise it later.
+
+**The chain, broken out**
+1. **Training costs time and money** — the disadvantage.
+2. **Existing staff are diverted to deliver it** — the specific mechanism.
+3. **Productivity falls, or output is missed** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**Existing employees have to be taught how to train others** (1) → **which incurs additional expense** (1) → **and there is no guarantee they are trained efficiently** (1).
+
+> ⭐ **Read this beside entry 11 (on-the-job training — advantage).** An advantage question and a disadvantage question on the same topic need **different chains**, not one chain reversed. Here the chain is **time → staff diverted → productivity falls.**
+> 🚩 **The strongest third sentence available — mine, not the scheme's — is the poaching risk:** training employees makes them **more employable elsewhere**, so a competitor can hire them away and the business has paid to train its rival's workforce. **That is a real disadvantage, and it cannot be answered by "but they work better afterwards".**
+
+---
+
+# 3.5 — FINANCE
+
+## 89. **Cash flow forecast** — why it is important / one limitation
+
+**Asked:** *"Explain one reason why cash flow forecasts are important for a business."* — May/June 2019 P2R · *"Explain one reason why cash flow forecasting is important to a business."* — May 2023 P2 · *"Explain one limitation of a cash flow forecast when making business decisions."* — May/June 2021 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **It allows the business to predict its future inflows and outflows** (1) — money coming in and money going out, month by month. **It knows whether it can survive** (1) through a lean period or a large payment. **And whether it has sufficient funds to keep trading** (1), so it can arrange finance before the problem arrives rather than after.
+
+**The chain, broken out**
+1. **Inflows and outflows are predicted** — what the forecast does.
+2. **Shortfalls are visible in advance** — the point of looking.
+3. **The business acts before the crisis** — arrange a loan or overdraft, delay a payment, chase debtors.
+
+**A second acceptable route** *(scheme, May 2023 P2)*
+**Businesses can plan for the future** (1) → **by estimating the revenue coming in and the money going out** (1) → **and can identify periods of insufficient funds so they can plan for that situation and make adjustments to enable survival** (1).
+
+**⭐ THE LIMITATION — and it is a different question, so it needs a different chain** *(scheme, May/June 2021 P1)*
+> **A limitation is that it is a forecast, not an actual figure** (1) — it is an estimate, and estimates can be wrong. **The forecast does not show what happens if goods are not sold** (1) — the sales figures in it are assumptions, not guarantees. **Nor does it provide a contingency plan if that occurs** (1).
+> **Other limitations that chain honestly:** it is only as good as the figures put into it · it cannot predict an unexpected event such as a machine breakdown or a lost customer · it shows cash, not profit, so a business can look healthy on one and be in trouble on the other.
+
+> 🚨 **CASH FLOW IS NOT PROFIT — this confusion is the single most expensive one in 3.5.**
+> | | **Cash flow** | **Profit** |
+> |---|---|---|
+> | What it measures | money **actually moving** in and out | revenue **earned** minus costs **incurred** |
+> | A sale on 60-day credit | no cash yet — **already revenue** | revenue now, cash later |
+> | A loan received | **cash in — not revenue at all** | not profit |
+> | A machine bought for cash | cash out immediately | **depreciated over years**, not a one-off cost |
+> **A business can be profitable and still fail**, because the cash arrives too late to pay the wages. That sentence is worth memorising; it is the standard content of a 6- or 12-mark answer on cash.
+
+---
+
+## 90. One method of **increasing profit**
+
+**Asked:** *"Explain one method a small business might use to increase its profit."* — May/June 2020 P1R and May/June 2022 P1 · *"Explain one way a business could increase its profit."* — May/June 2025 P1R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Profits could be increased by cutting costs** (1). **A small business could cut the number of workers it has, or reduce their hours** (1), which are usually its largest single expense. **So if the revenue stays the same, this will increase the profit** (1).
+
+**The chain, broken out**
+1. **Cut costs, or raise the price** — the two levers, and there are only two.
+2. **Name the specific cost** — wages · rent · materials · energy · stock.
+3. **Profit rises because revenue is unchanged** — the mechanism, and the scheme always states it.
+
+**A second acceptable route** *(scheme, May/June 2022 P1)*
+**Cutting costs** (1) → **such as reducing the number of employees** (1) → **which could increase profit if revenue stays the same** (1).
+
+**A third acceptable route — the other lever** *(scheme, May/June 2025 P1R)*
+**Increase the price of the product** (1) → **if customers feel the quality is high they may be willing to pay the new price** (1) → **and if costs stay the same, profit will increase** (1).
+
+> ⭐ **The scheme's phrasing is the thing to steal: "if revenue stays the same" and "if costs stay the same".** Profit is **revenue minus costs**, so a change to one side only counts if you say what happens to the other. **Say both halves and the third mark takes care of itself.**
+> ⚠️ **`Answers that list three methods with no explanation will get 1 mark only.`** Do not write three levers with no chain — **one lever, fully developed, outscores three named and abandoned.**
+
+---
+
+## 91. Increasing the **gross profit margin**
+
+**Asked:** *"Explain one way a business could increase its gross profit margin."* — May/June 2019 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> A business could **negotiate deals with its suppliers at a cheaper rate** (1) — buying the same materials for less. **This keeps costs as low as possible** (1), and the gross profit margin is revenue minus the cost of sales, so a lower cost of sales raises the margin directly. **This means the business can look to reduce the prices of its products or services to encourage more sales** (1), or simply keep the extra as profit.
+
+**The chain, broken out**
+1. **Reduce the cost of sales, or raise the selling price** — the two levers on this ratio, and again there are only two.
+2. **Name the specific action** — negotiate with suppliers · buy in bulk · find a cheaper supplier · reduce waste · raise the price if demand allows.
+3. **The margin rises, and here is what the business does with it** — keep it, or cut the price to win volume.
+
+**A second acceptable route** *(constructed — the price lever)*
+**Raise the selling price without raising the cost of sales** (1) → **the gap between the two widens** (1) → **so the gross profit margin rises even if the number of sales stays the same.**
+
+> 🚨 **GET THE FORMULA RIGHT — and write it, because the exam recognises it:**
+> **Gross profit margin = (gross profit ÷ revenue) × 100**, where **gross profit = revenue − cost of sales.**
+> ⚠️ **Do not confuse gross profit with profit.** **Gross profit** counts only the **cost of sales** — what it cost to buy or make the goods. **Profit (net)** also deducts **expenses** — rent, wages, advertising, interest. **A higher gross margin does not guarantee a higher net profit** if expenses have risen alongside it, and saying so is a strong closing sentence.
+> ⭐ **This topic is on the examiners' named gap list** — *"gross profit margin"* and *"profitability ratios"* both appear. **The six ratios are on the formulae sheet; the formula for gross profit margin is not one you have to carry in your head, but you must know which two figures go into it.**
+
+---
+
+## 92. **Crowdfunding** — one benefit or reason for using it
+
+**Asked:** *"Explain one benefit to a business of using crowdfunding as a source of finance."* — May/June 2021 P1 · *"Explain one reason why some businesses use crowdfunding as a source of finance."* — Nov 2023 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Crowdfunding can be a fast way to raise finance** (1) — the pitch goes online and the money can come in quickly. **It comes from many small investors** (1) rather than one lender or bank. **At a point when no other lender may be available** (1) — which is the reason a business with no trading history reaches for it at all.
+
+**The chain, broken out**
+1. **It raises money fast, or from many people** — the benefit.
+2. **Because it is online, and open to anyone** — the mechanism.
+3. **When banks or investors would say no** — the consequence, and the strongest one.
+
+**A second acceptable route** *(scheme, Nov 2023 P2)*
+**Crowdfunding is organised online** (1) → **and can come from anywhere in the world** (1) → **giving access to a wide number of investors** (1).
+
+> ⚠️ **`No marks are awarded for a definition`** — printed on the Nov 2023 question. *"Crowdfunding is raising money from lots of people online"* scores **0** on its own.
+> 🚩 **The matching DISADVANTAGE, in case the question flips:** crowdfunding is **public**, so **competitors and customers see the idea** before it launches · the campaign **may fail and raise nothing at all** · the business may owe **rewards or equity** to its backers · and it takes **marketing effort** to succeed. **Use these on any evaluate or analyse question about finance.**
+
+---
+
+## 93. **Venture capital** — one advantage or one disadvantage
+
+**Asked:** *"Explain one advantage of using a venture capitalist."* — May/June 2024 P1 · *"Explain one disadvantage for an entrepreneur of using venture capital to start their business."* — June 2026 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]` — **advantage**
+> **Venture capitalists can be specialists** (1) — they bring more than money. **They may bring skills and new ideas to the business** (1), from having backed similar businesses before. **Giving it a greater chance of success** (1), particularly where the owner is strong on the product and weak on the business side.
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]` — **disadvantage**
+> **The entrepreneur may lose some control of the business** (1) — the venture capitalist becomes a part-owner. **Because they give a share of the business away** (1) in exchange for the investment. **So they will have to consult others before making decisions** (1), and they can no longer simply do as they wish.
+
+**The chain, broken out**
+1. **Money — and usually expertise — comes in** / **or: ownership and control go out.**
+2. **The specific mechanism** — skills and ideas, or a share of the business handed over.
+3. **Greater chance of success** / **or: shared profits and slower decisions.**
+
+**A second acceptable route — the profit route** *(scheme, June 2026 P2R)*
+**The entrepreneur will have to share future profits with the venture capitalist** (1) → **which means the entrepreneur keeps a smaller proportion of profits** (1) → **so they receive less personal income** (1).
+
+> 🚨 **VENTURE CAPITAL vs BANK LOAN vs CROWDFUNDING — the exam tests the difference.**
+> | | **Bank loan** | **Venture capital** | **Crowdfunding** |
+> |---|---|---|---|
+> | What the business gives up | **interest** | **a share of ownership and control** | rewards, or equity |
+> | Repayments | fixed, monthly, regardless of profit | **dividends only if profitable** | depends on the model |
+> | Expertise | none | **often, yes** | none |
+> **The single most useful sentence in this topic:** a bank loan must be repaid **whether or not the business succeeds**, while venture capital is repaid **only if the business makes a profit.** That is the trade-off, stated once, and it is the spine of any 9-mark Justify on the two.
+
+---
+
+## 94. Borrowing from a **bank** — one disadvantage
+
+**Asked:** *"Explain one disadvantage to a small business of borrowing money from a bank."* — May/June 2025 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Borrowing from a bank means the business has to pay back the loan with interest** (1). **This will increase its costs** (1), and for a small business the repayment is a fixed outgoing every month regardless of how trade goes. **Leading to a reduction in profit** (1) — and if the payments cannot be met, the business risks insolvency.
+
+**The chain, broken out**
+1. **The loan must be repaid, with interest** — the disadvantage.
+2. **This adds a fixed cost that does not move with sales** — the specific mechanism.
+3. **Profit falls, or cash flow comes under pressure** — the consequence.
+
+**A second acceptable route** *(constructed)*
+**The business must provide security, or a guarantee, to get the loan** → the owner may have to risk personal assets → **which raises the personal risk of running the business**.
+
+> ⭐ **The interest point should be written as a *fixed* cost, not just a cost.** A repayment is due **whether or not the business sells anything this month** — which is why a bank loan is dangerous for a business with unpredictable income, and is exactly the trade-off against venture capital (entry 93, and the table there).
+> ⚠️ **Read the party.** This question says **"to a small business"**. A large business can borrow on better terms than a small one, so **"the interest rate is likely to be higher for a small business, because it is seen as riskier"** is a strong and specifically small-business point.
+
+---
+
+## 95. **Personal savings** — one disadvantage as a source of finance
+
+**Asked:** *"Explain one disadvantage of using personal savings as a source of finance for a business."* — May/June 2022 P1R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Money to deal with an emergency may not be available** (1) — the savings that would have covered it have gone into the business. **So there is no back-up if things go wrong** (1), and the owner has no reserve to fall back on. **Meaning that it may be necessary to find another source of finance** (1), possibly at short notice and on poor terms.
+
+**The chain, broken out**
+1. **The savings are gone** — the disadvantage.
+2. **There is no reserve left for an emergency** — the specific mechanism.
+3. **The owner must borrow, or the business cannot respond** — the consequence.
+
+**A second acceptable route** *(constructed)*
+**The amount available is limited to what the owner has saved** → it may be too little for the expansion planned → **so the business grows more slowly than a rival that borrowed properly**.
+
+**A third** *(constructed — the personal-risk route)*
+**The owner's own money is at risk** → there is no limited liability protecting it in a sole trader or partnership → **and losing it affects the owner's household, not just the business.**
+
+> ⭐ **Every source of finance has the same four-point skeleton, and it is worth knowing it off by heart:** **cost** (interest, or profit shared) · **availability** (how much, how fast) · **control** (what the owner gives up) · **risk** (what happens if it goes wrong). **Run those four against any source and you will never be short of a chain.**
+
+---
+
+## 96. **Retained profit** — one disadvantage as a source of finance
+
+**Asked:** *"Explain one disadvantage to a business of using retained profit to purchase goods and services."* — Nov 2023 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Using retained profit reduces the amount of funds available for the business to use** (1) — the reserve is spent. **If there is an emergency where funds are needed — a machine breaking down, for example** (1) — **the business may not have the funds to get it repaired** (1).
+
+**The chain, broken out**
+1. **The reserve is spent** — the disadvantage.
+2. **Nothing is left for the unexpected** — the specific mechanism.
+3. **The business cannot respond, or must borrow** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**By using its retained profit to buy new machinery** (1) → **the business may not have the funds** (1) → **to pay the rent or the wages of its employees** (1).
+
+> ⭐ **The scheme's own vocabulary is the key: retained profit IS the financial cushion.** So the disadvantage is always, in one form or another, **"the cushion is gone"** — and the scheme's two examples (machine repair, rent and wages) are the ones to reuse.
+> ⚠️ **Do not say retained profit "has no cost".** It has **no interest and no ownership is given up** — that is its advantage — but it has a **very real opportunity cost**, because the money can only be spent once. **Say which one the question is asking about.**
+
+---
+
+## 97. The **statement of comprehensive income** — one reason it is used
+
+**Asked:** *"Explain one reason why businesses use statements of comprehensive income when making decisions."* — May/June 2025 P2R
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **A business can see how the business is performing** (1) over the period — whether it is heading in the right direction. **It can calculate the profit margin** (1), because the statement holds revenue, cost of sales and expenses together. **Along with other calculations, if the performance has deteriorated** (1) — which is what turns the statement into a decision.
+
+**The chain, broken out**
+1. **It shows performance over a period** — the statement's function.
+2. **It allows ratios to be calculated** — profit margin, and what has changed.
+3. **A decision is taken** — cut costs, raise prices, change the product mix.
+
+**A second acceptable route** *(scheme, same question)*
+**Businesses can use it to compare themselves with similar businesses** (1) → **which lets them judge their performance against competitors** (1) → **giving an indication of how well the business is doing** (1).
+
+> 🚨 **KNOW WHAT IS ON IT — this is a named content gap.** The **statement of comprehensive income** shows, for a **period**: **revenue** − **cost of sales** = **gross profit**; then minus **expenses** = **profit (net)**. It is the answer to *"how did the business do?"*
+> ⚠️ **`No marks are awarded for a definition`** — printed here. Write what the statement is **for**, not what it is.
+> ⭐ **The contrast to hold in your head:** the statement of comprehensive income is the **video** (a period, what happened); the statement of financial position is the **photograph** (one moment, what the business owns and owes). That one sentence has carried many candidates through this pair.
+
+---
+
+## 98. The **statement of financial position** — one purpose
+
+**Asked:** *"Explain one purpose for a business of the statement of financial position."* — Nov 2023 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **By reviewing its financial position, a business can see how the business is performing** (1) — what it owns set against what it owes. **It may decide to expand further if it has the funds** (1), because the statement shows whether the money is there. **By introducing new products to sell** (1) — the decision the statement makes possible.
+
+**The chain, broken out**
+1. **It shows the position at one moment** — assets, liabilities and capital.
+2. **Something becomes visible** — whether the business can afford to expand; whether it is carrying too much debt.
+3. **A decision follows** — invest, borrow, cut stock, reduce liabilities.
+
+**A second acceptable route** *(scheme, same question)*
+**If a business has liabilities** (1) → **it may want to find ways to reduce its expenditure** (1) → **by decreasing the amount of stock it holds** (1).
+
+> 🚨 **KNOW WHAT IS ON IT.** The **statement of financial position** records, **on one date**: **non-current assets** (buildings, machinery), **current assets** (stock, debtors, cash), **current liabilities** (creditors, overdraft), **non-current liabilities** (bank loans), and **capital / equity**. **Assets = liabilities + capital.**
+> ⚠️ **`No marks are awarded for a definition`** — printed here too. Say what it is **for**.
+> ⭐ **The one-sentence distinction, again:** the statement of comprehensive income is **for a period**; the statement of financial position is **on a date**. **Getting that backwards is the commonest error on this pair.**
+
+---
+
+## 99. **Financial documents** — why shareholders are interested
+
+**Asked:** *"Explain one reason why shareholders would be interested in the financial documents of a business."* — Nov 2025 P1
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Shareholders may review the financial documents to assess whether the business is making a profit** (1). **The shareholder is interested in gaining a return on their investment** (1) — dividends, and a share price that rises. **Which helps them decide whether to sell their shares or buy more** (1).
+
+**The chain, broken out**
+1. **Shareholders look at the documents** — the act.
+2. **They are looking for a return, or for trouble** — dividends, share price, debt levels, growth.
+3. **They act on it** — buy more shares, sell, or vote at the AGM.
+
+**A second acceptable route** *(scheme, same question)*
+**To compare the financial performance of the business** (1) → **in order to identify cost savings** (1) → **which can help to improve the profitability of the business** (1).
+
+> ⚠️ **Note which party the scheme is thinking from, and read the question the same way.** *"Shareholders are interested because the business wants to know its profit"* mixes the parties up — **the shareholder is a separate person from the business**, and their interest is in **what THEY get**, which is the return on their investment. **Check who the question asks about; five instances in this bank turn on exactly that.**
+> ⭐ **Shareholders versus other stakeholders, in one line each:** **shareholders** want **dividends and a rising share price** · **banks** want to know **whether the loan will be repaid** · **the government** wants **the correct tax** · **managers** want **data for decisions** · **employees** want **job security and the ability to pay wages**.
+
+---
+
+## 100. **Paying suppliers on time** — why it is important
+
+**Asked:** *"Explain one reason why it is important that businesses pay their suppliers on time."* — May/June 2025 P2
+
+> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Paying suppliers on time establishes a good relationship with them** (1). **If the business needs goods urgently from them** (1) at some point, **they would be more likely to help, knowing they would be paid on time** (1).
+
+**The chain, broken out**
+1. **The relationship is maintained** — the immediate benefit.
+2. **Because the supplier trusts the business** — the mechanism.
+3. **Better terms, priority treatment, or continued supply** — the consequence.
+
+**A second acceptable route** *(scheme, same question)*
+**Paying on time gives the business better negotiating power with the supplier** (1) → **so if the supplier trusts them, they may negotiate better prices** (1) → **thus keeping the business's costs down** (1).
+
+> ⭐ **Note what the scheme does NOT say: there is no legal or moral argument here.** The mark is purely commercial — **a supplier who trusts you helps you in a crisis, and gives you better terms.** That is why payment terms are a **cash-flow decision, not just an accounting one**: the business is trading a short-term cash advantage (holding on to the money longer) against a long-term relationship (entry 89 on cash flow).
+> 🚩 **The mirror question — a known trap — is the opposite one:** *"Which one of the following would be a benefit to a business of **delaying** paying its suppliers?"* (May/June 2024 P2, 1 mark). **Delaying payment keeps cash in the business longer** — that is a genuine short-term cash-flow benefit, and the exam has asked for it. **Know both sides; the syllabus expects you to see the trade-off.**
+
+---
+
+# ✅ THE 3-MARK BANK IS CLOSED
+
+| Batch | Content | Entries |
+|---|---|---|
+| **1** | Newest 3-mark topics — June 2026 + Nov 2025 | 16 |
+| **2** | 3.1 Business activity + 3.2 structure/HR cluster | 33 |
+| **3** | 3.3 Marketing | 23 |
+| **4** | **3.4 Operations + 3.5 Finance + the last three stragglers** | **28** |
+| **TOTAL** | | **100 entries** |
+
+```
+3-mark blocks total           :  151
+canonical topics              :   97
+carried by entries 1-100      :   97 topics  ·  151 blocks
+REMAINING                     :    0 topics  ·    0 blocks
+```
+
+**Every 3-mark Explain question in the qualification — all 151 blocks across all 38 papers — is now covered by a named entry above.** Reverify at any time with `python3 layer_c_coverage.py` from the folder above.
+
+> ⚠️ **What this does NOT mean.** It does not mean there is a verified full-mark script for every one of these questions — Pearson has published scripts for only a fraction of them, and those are held in `02_Verified_Exemplars.md` and `External_Exemplars/`. **For almost every entry above, the model is the mark scheme's own worked answer** — official, but not a candidate's script. **The labelling rules at the top of this file apply to all of it.**
+> ⚠️ **And the 6-, 9- and 12-mark totals remain underived.** They come from the same broken CSV (rule 120), and the 9-mark count is **provably too low** — the P1-family papers carry **two** Justify questions each. **That re-derivation is the next task, before Batches 5–9.**
 
 ---

@@ -204,17 +204,21 @@ So the correct response is **not one essay per question** — that would repeat 
 | **1** | Newest 3-mark topics — June 2026 + Nov 2025 | ✅ **16 entries** |
 | **2** | 3.1 Business activity + 3.2 structure/HR cluster | ✅ **33 entries** |
 | **3** | 3.3 Marketing | ✅ **23 entries (50–72)** |
-| **4** | 3.4 Operations + 3.5 Finance + measuring success | ⬜ next |
-| **5–6** | 6-mark Analyse chains | ⬜ |
+| **4** | 3.4 Operations + 3.5 Finance + the last stragglers | ✅ **28 entries (73–100)** |
+| **5–6** | 6-mark Analyse chains | ⬜ next |
 | **7–8** | 9-mark Justify option pairs | ⬜ |
 | **9** | 12-mark Evaluate topics | ⬜ |
 
+### ✅ LAYER C, 3-MARK TIER — CLOSED
+
 ```
-3-mark blocks total     :  151
-canonical topics        :   97
-covered by entries 1-72 :   69 topics  ·  112 blocks
-REMAINING               :   28 topics  ·   39 blocks
+3-mark blocks total      :  151
+canonical topics         :   97
+covered by entries 1-100 :   97 topics  ·  151 blocks
+REMAINING                :    0 topics  ·    0 blocks
 ```
+
+**Every 3-mark Explain question in the qualification is now carried by a named entry in `10_Chain_Bank.md`** — and, for the large majority of them, by **Pearson's own worked answer** from the mark scheme rather than by a construction. See the label table in `10_` for what that does and does not mean.
 
 > **Reverify any time with** `python3 layer_c_coverage.py` (from `Business_Studies_Answer_Bank/`). It reads `layer_c_3mark_master.csv` and prints these numbers. **Never re-type them.**
 

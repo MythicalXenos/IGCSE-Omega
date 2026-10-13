@@ -54,6 +54,18 @@ COVERED = {
     "BELOW-THE-LINE promotion method": 65, "SPONSORSHIP": 66,
     "TARGETED ADVERTISING ONLINE": 67, "E-NEWSLETTERS": 68, "SOCIAL MEDIA use": 69,
     "PUBLIC RELATIONS": 70, "REPEAT PURCHASE method": 71, "LOYAL CUSTOMERS advantage": 72,
+    # Batch 4 — 3.4 Operations, 3.5 Finance, and the last stragglers
+    "MEASURING BUSINESS SUCCESS": 73, "PRIVATE LIMITED COMPANY (LTD)": 74,
+    "HIERARCHICAL STRUCTURE disadvantage": 75, "JOB PRODUCTION": 76, "BATCH PRODUCTION": 77,
+    "FLOW PRODUCTION disadvantage": 78, "TECHNOLOGY impact": 79, "ROBOTICS": 80,
+    "JIT STOCK CONTROL": 81, "KAIZEN": 82, "TQM": 83, "QUALITY importance": 84,
+    "RESOURCE USE EFFICIENCY": 85, "LOCATION proximity of materials": 86,
+    "JOB ADVERTISEMENT information": 87, "TRAINING disadvantage": 88, "CASH FLOW FORECAST": 89,
+    "INCREASE PROFIT method": 90, "INCREASE GROSS PROFIT MARGIN": 91, "CROWDFUNDING": 92,
+    "VENTURE CAPITAL": 93, "BANK LOAN disadvantage": 94, "PERSONAL SAVINGS disadvantage": 95,
+    "RETAINED PROFIT disadvantage": 96, "STATEMENT OF COMPREHENSIVE INCOME": 97,
+    "STATEMENT OF FINANCIAL POSITION purpose": 98, "FINANCIAL DOCUMENTS (shareholders)": 99,
+    "PAYING SUPPLIERS ON TIME": 100,
 }
 
 
@@ -71,7 +83,7 @@ def main() -> int:
 
     print(f"3-mark blocks            : {len(rows)}")
     print(f"canonical topics         : {len(counts)}")
-    print(f"covered by entries 1-72  : {len(covered)} topics  ·  {sum(covered.values())} blocks")
+    print(f"covered by entries 1-100  : {len(covered)} topics  ·  {sum(covered.values())} blocks")
     print(f"REMAINING                : {len(remaining)} topics  ·  {sum(remaining.values())} blocks")
     if unknown:
         print(f"\nWARNING: {len(unknown)} names in COVERED are not in the master CSV:")
