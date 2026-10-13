@@ -42,7 +42,7 @@ Across 38 papers the qualification asks **governed** questions — anything need
 | Tier | Blocks | Written | Remaining |
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
-| **6-mark Analyse** | **114** | **12** | **102** |
+| **6-mark Analyse** | **114** | **19** | **95** |
 | 9-mark Justify | 76 | 0 | 76 |
 | 12-mark Evaluate | 38 | 0 | 38 |
 
@@ -92,7 +92,8 @@ Every entry gives you:
 | **3** | **3.3 Marketing** | ✅ **23 entries (50–72)** |
 | **4** | **3.4 Operations + 3.5 Finance + the last stragglers** | ✅ **28 entries (73–100)** |
 | **5a** | **6-mark Analyse — June 2026, all four papers** | ✅ **12 entries (101–112)** |
-| **5b–6** | 6-mark Analyse — the remaining **102 blocks** | ⬜ next |
+| **5b** | **6-mark Analyse — May–June 2019, all four papers** | ✅ **7 entries (113–119)** |
+| **5c–6** | 6-mark Analyse — the remaining **95 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
@@ -2349,5 +2350,176 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** Nando's needs local suppliers → **Malaysian farmers and food producers gain a customer** → their income and their employees' income also rise.
 
 > ⚠️ **The whole answer must stay on Malaysia.** The moment a sentence is about Nando's profitability, you have left the question. **Read who the beneficiary is before you write a word.**
+
+---
+
+# BATCH 5b — 6-MARK ANALYSE, PART 2
+
+**7 entries — the twelve 6-mark questions of May–June 2019, collapsed into seven topics.** This is the first batch where the tier's *repetition* shows: twelve blocks, but **Statement of Comprehensive Income**, **break-even** and **profitability ratios** each appear once per paper, and **customer satisfaction** and **internal sources of finance** are the same topic under two different businesses.
+
+> ### ⭐ WHERE THE OLD PAPERS DIFFER FROM THE NEW ONES
+> In 2019 the mark schemes print the **AO2 bullets without naming the case-study business** — *"Lavender are able to see if they have enough money to expand into other parts of Malaysia"* rather than *"Apple may have access to lower labour costs in China and Vietnam"*. **That is the older scheme's style, not a licence to write generally.** The application mark is still earned by using **the business's own facts**, and the facts are in the case study.
+
+---
+
+## 113. CUSTOMER SATISFACTION — why it matters
+
+**Asked:** *"Analyse why customer satisfaction might be important to Lavender."* — **May–June 2019 P1R, 1(g)**
+
+**The AO2 anchors:** satisfied customers are **more likely to repeat purchase** cakes from Lavender; and Lavender is **expanding into different types of food outlets — L.bistro, L.cafe and L.table**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A satisfied customer at Lavender buys again, so **the revenue arrives without Lavender having to spend anything to win it back**. **What makes that worth more than one repeat sale is the group:** Lavender is opening **L.bistro, L.cafe and L.table**, so a customer who is happy in one outlet is far more likely to try the others — **one satisfied customer becomes a customer of three businesses, not one**. **Satisfaction also replaces advertising.** A customer who has enjoyed the cake **recommends it to friends and family by word of mouth**, which is a channel Lavender does not pay for, so **Lavender can spend less on promotion and still grow** — and money not spent on promotion is money left in the business.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Satisfaction → **repeat purchase, at no cost of acquisition** |
+| **2. Strand A** | Lavender is opening **three more outlets** → one happy customer becomes three customers |
+| **3. Strand B** | Recommendation **replaces paid promotion** |
+| **4. Measurable end** | **Lower promotional spend + higher revenue** from the same customer base |
+
+**Second acceptable chain:** satisfaction → **fewer complaints and returns** → staff time is spent serving rather than fixing → **the outlet runs at lower cost** as well as higher sales.
+
+> ⭐ **The three outlets are the answer's spine.** Without L.bistro / L.cafe / L.table you have written a general essay about customer service and left the application marks on the table.
+
+---
+
+## 114. STATEMENT OF COMPREHENSIVE INCOME — how a business uses it
+
+**Asked:** *"Analyse how the Statement of Comprehensive Income can be used by Lavender when considering its expansion."* — **May–June 2019 P1R, 3(d)**
+**Also asked:** *"Analyse how LEGO could use a Statement of Comprehensive Income when considering the development of new toys."* — June 2022 P2 3(d) · *"Analyse why IKEA uses statements of comprehensive income to assess its business performance."* — May 2023 P2 4(b)
+
+**The AO2 anchors:** Lavender can **see whether it has enough money to expand** into other parts of Malaysia; and it can **use the figures to show investors how successful it is** and that it is capable of expanding.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> The Statement of Comprehensive Income shows **what Lavender earned and what it spent over the year, ending in a profit figure** — so before committing to expansion it can **see whether the money is actually there**. **That check matters because expansion brings costs the current figures do not yet contain:** new outlets mean **higher overheads and outgoings**, so **the net profit available to fund the expansion may be lower than the headline figure suggests**. **The statement's second use is with other people's money.** A strong and improving profit figure is **evidence Lavender can show to investors** that it is capable of expanding — which is what persuades them to put funds in.
+
+| Step | The move |
+|---|---|
+| **1. Point** | The statement reveals **whether there is enough profit to fund expansion** |
+| **2. Strand A** | Expansion adds **overheads and outgoings** → real funding headroom is smaller than it looks |
+| **3. Strand B** | A strong statement is **evidence for investors** → finances the expansion |
+| **4. Measurable end** | **A decision made on numbers** rather than on optimism |
+
+**Second acceptable chain:** comparing this year's statement with **last year's** → shows whether performance is improving or worsening → the expansion is timed to a good year **or postponed out of a bad one**.
+
+> ⚠️ **The Statement of Comprehensive Income is the *profit* statement — income and expenses over a period.** It is **not** the Statement of Financial Position (assets, liabilities, what the business owns and owes on one day). Mixing the two up loses the application mark. *Examiner-named content gap in multiple reports.*
+
+---
+
+## 115. INTERNAL SOURCES OF FINANCE — the benefits
+
+**Asked:** *"Analyse the benefits to Lavender of using internal sources of finance for its expansion plans."* — **May–June 2019 P1R, 4(b)**
+**Also asked:** *"Analyse the benefits to NOF of using personal savings to expand its product range."* — June 2021 P1 4(b) · *"Analyse the impact on Aude Rose of using its retained profits for this proposed development."* — May 2023 P1R 3(d)
+
+**The AO2 anchors:** Lavender will **know the amount of internal finance it has available**; and **the money does not have to be borrowed or negotiated**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Internal finance — retained profit already sitting in the business — is **money Lavender knows it has, because it can see the balance**. **That certainty is the first benefit: there is no application to be approved and no lender to persuade**, so **the funds are available immediately** rather than after a process that can take weeks. **The second benefit is what it does not create.** Because the money is not borrowed, **Lavender pays no interest and faces no monthly repayment**, so **the expansion does not have to generate profit fast enough to service a debt in its early months** — a new L.cafe that takes a year to find its customers can be allowed that year. **The measurable end is lower risk:** costs are lower, and the business keeps the whole of the return rather than losing part of it to a lender.
+
+| Step | The move |
+|---|---|
+| **1. Point** | The business **already knows the money is there** |
+| **2. Strand A** | No negotiation → **available straight away**, so expansion is not delayed |
+| **3. Strand B** | No borrowing → **no interest, no repayments** |
+| **4. Measurable end** | **Lower cost and lower risk** — the return stays with Lavender |
+
+**Second acceptable chain:** using retained profit **does not increase what Lavender owes** → the Statement of Financial Position stays strong → **it is still able to borrow later** for a bigger opportunity, having kept its borrowing capacity.
+
+> ⚠️ **The limitation is real but it is not what this question asks.** Internal finance is *limited to what the business has saved* — that is the counter-argument, and it belongs in a 9-mark or 12-mark answer. Here the question says **benefits**, so the drawback costs you time and adds no mark.
+
+---
+
+## 116. SATISFYING CUSTOMER NEEDS — why it matters
+
+**Asked:** *"Analyse the importance to Backyard Shoez of satisfying customer needs."* — **May–June 2019 P1, 1(g)**
+
+**The AO2 anchors:** Backyard Shoez is **located in three shopping malls where there are other shoe shops**; and it **needs to maintain a high standard at all times** to encourage customers to buy.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Backyard Shoez trades **in three shopping malls, each with other shoe shops nearby**, so a customer who is not satisfied does not have to go far to buy elsewhere — **they can simply walk into the next unit, and that makes every sale contestable**. **Meeting customer needs is therefore not a courtesy; it is what stops the sale crossing the corridor.** **The second effect is on the customers Backyard Shoez already has.** A customer whose needs are met **keeps coming back**, so **loyalty builds a base of repeat revenue** that a competitor's lower price finds much harder to take away. **The measurable end is on sales and revenue:** holding the customer base protects the current turnover, and repeat customers **cost nothing to win again**, so more of each sale is kept as profit.
+
+| Step | The move |
+|---|---|
+| **1. Point** | **Other shoe shops in the same three malls** → the customer can switch instantly |
+| **2. Strand A** | Unmet needs → the customer **buys from the shop next door** |
+| **3. Strand B** | Met needs → **loyalty and repeat purchase** → a defended revenue base |
+| **4. Measurable end** | **Sales and revenue protected**, at no extra selling cost |
+
+**Second acceptable chain:** high standards → **positive word of mouth in the mall** → customers arrive already intending to buy → **less spent on promotion**.
+
+> ⭐ **Compare this with entry 113.** Both are "customer satisfaction" questions, but **Lavender's answer turns on multiple outlets and Backyard Shoez's turns on being surrounded by competitors.** *The chain is the same shape; the AO2 is completely different.* That is the whole skill at this tariff.
+
+---
+
+## 117. BREAK-EVEN ANALYSIS — what it is useful for
+
+**Asked:** *"Analyse the benefits to Backyard Shoez of using break-even analysis to plan the launch of its new shoes."* — **May–June 2019 P1, 3(d)**
+
+**Also asked in reverse:** *"Analyse the limitations for HRMW of using break-even charts when planning the manufacture of tennis racquets."* — May–June 2020 P2R 3(d) · *"Analyse the limitations for Irsi Chocolatier of using break-even charts to decide whether it should sell the new product."* — May 2023 P1 3(d) · *"Analyse how useful break-even calculations can be for NOF when deciding whether to include ice cream in its product range."* — June 2021 P1 3(d)
+
+> **The same topic has been asked four times — twice as benefits and twice as limitations. Learn both directions; the questions alternate.**
+
+**The AO2 anchors:** Backyard Shoez **will be able to see that it needs to sell 125 pairs before it can break even**; and it **can ask "what if" questions and see what impact various price changes have on the break-even point**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Break-even analysis converts the launch into **one number: 125 pairs of shoes must be sold before Backyard Shoez makes a profit**. **That number is the value of the tool — it lets the owner compare the target with what the three mall shops can realistically sell**, and decide *before* ordering stock whether the launch is worth attempting at all. **Its second use is as a rehearsal.** Because the calculation can be re-run, Backyard Shoez can **ask "what if" questions — what if the price rises, what if the supplier's cost rises — and see what each change does to the 125**. **The measurable end is a better pricing decision:** the owner can **raise or lower the price and see whether the business is still moving into profit**, which is also how it stays competitive with the other shoe shops in the malls.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Break-even gives **one target number — 125 pairs** |
+| **2. Strand A** | The target can be **compared with achievable demand** before stock is bought |
+| **3. Strand B** | "What if" re-runs show the effect of **price and cost changes** |
+| **4. Measurable end** | A **price set with the numbers known** → profit rather than guesswork |
+
+**Second acceptable chain:** the same calculation shows **how far sales can fall before the business makes a loss** → the owner knows the **margin of safety** and can judge how much risk the launch carries.
+
+> ⚠️ **Two standard traps, both recorded.** **(1)** Break-even is a *forecast*, not a certainty — it assumes costs and price stay constant. If you are asked for **limitations**, that assumption *is* your answer. **(2)** **Learn the formula: break-even output = fixed costs ÷ contribution per unit.** The formulae sheet gives only the six accounting ratios and does **not** include break-even — an examiner-named content gap.
+
+---
+
+## 118. PROFITABILITY RATIOS — what they are useful for
+
+**Asked:** *"Analyse the usefulness of profitability ratios to Backyard Shoez."* — **May–June 2019 P1, 4(b)**
+**Also asked:** *"Analyse the usefulness to TBTS of the acid test ratio."* — June 2022 P1 4(b) · *"Analyse the usefulness of the gross profit margin to PPS."* — June 2024 P1R 1(g)
+
+**The AO2 anchors:** Backyard Shoez can **work out how much profit it has made** from buying and selling shoes **and compare it with previous years**; and ratios can show **whether there is a need to take out short-term finance**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A profitability ratio turns the raw figures into **a percentage that can be compared** — so Backyard Shoez can see **how much profit it makes on each pair of shoes**, and set that against **what it made in previous years**. **On its own, a profit figure cannot tell you whether the business is getting better or worse; the ratio can**, because it strips out the effect of simply selling more. **The second use is as a warning light.** The same ratios show whether there is **a need to take out short-term finance** — a margin falling while sales rise tells the owner that costs are running ahead, before the bank balance shows it. **The measurable end is the expansion decision:** used **before** expanding, the ratios show whether the financial position can carry it, and **investors weigh exactly the same information** when judging how much return they will receive against the risk.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A ratio is **comparable** — this year against last year |
+| **2. Strand A** | Shows **a decline even when sales rise** → an early warning |
+| **3. Strand B** | Warns when **short-term finance may be needed** |
+| **4. Measurable end** | A **better-informed expansion decision**, and evidence for investors |
+
+**Second acceptable chain:** the ratio lets Backyard Shoez **compare itself with rival shoe shops** on the same measure → the owner sees whether the problem is the business **or the whole sector**.
+
+> ⚠️ **Know which ratio you have been given.** **Gross profit margin** = gross profit ÷ revenue × 100 — what is left after the *cost of the goods*. **Acid test** = (current assets − inventory) ÷ current liabilities — can the business pay its debts **without selling stock**. Quoting the wrong formula is a calculation mark lost, and **the final answer line is what is marked**.
+
+---
+
+## 119. KAIZEN — why a business encourages its suppliers to use it
+
+**Asked:** *"Analyse why Yellow might encourage its clothing manufacturers to use Kaizen."* — **May–June 2019 P2R, 1(g)**
+**Also asked:** *"Analyse how Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d)
+
+**The AO2 anchors:** the **quality of the T-shirts will be better**; and there will be a **reduction in the costs of making the T-shirts**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Kaizen means **continuous improvement — small changes made all the time by the people doing the work**, rather than one large redesign. Applied at Yellow's clothing manufacturers, those small changes **raise the quality of the T-shirts**, because the faults that recur on the line are found and fixed by the staff who see them every day. **Yellow's reputation is built on the clothes it puts its name to**, so **better T-shirts protect the brand and lead to higher sales**. **The second effect is on cost.** Continuous improvement **reduces wasted cloth, wasted time and rejected garments**, and **fewer faulty T-shirts means fewer returns** — which cuts the cost of making each T-shirt and **increases the manufacturer's profitability**. **The measurable end is that Yellow gains on both sides at once:** it pays less per T-shirt and sells more of them, and its supplier keeps more of the price as profit — which is why the supplier has a reason to keep improving.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Kaizen = **continuous small improvements by the workforce** |
+| **2. Strand A** | Better quality → **Yellow's reputation improves → higher sales** |
+| **3. Strand B** | Less waste and fewer faults → **lower cost per T-shirt** |
+| **4. Measurable end** | **Lower cost and higher sales at once** |
+
+**Second acceptable chain:** Kaizen gives the line workers **a say in how the work is done** → they are more motivated → **labour productivity rises** → more T-shirts from the same hours.
+
+> ⚠️ **Kaizen is not quality control and not TQM.** Quality control *inspects faults out* at the end; Kaizen *improves the process continuously* so there are fewer faults to find. **An examiner-named content gap — the vocabulary is expected and often absent.**
 
 ---
