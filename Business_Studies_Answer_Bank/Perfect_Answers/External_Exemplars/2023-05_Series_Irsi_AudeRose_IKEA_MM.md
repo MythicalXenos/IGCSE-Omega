@@ -248,6 +248,55 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 
 ---
 
+# ⭐⭐⭐ THREE MORE FULL-MARK 6/6 ANALYSE ANSWERS (all three scored 6 marks)
+
+## 6/6 — P1 Q1(g) · *"Analyse the importance of branding for Irsi Chocolatier"* **(6)**
+
+> For Irsi Chocolatier, branding is very important as **if they have a good reputation with hand-made chocolates and jelly-fruits**, people will want to try their products, which would therefore **increase the repeating customers and therefore increase profit**. Also, the branding for Irsi Chocolatier is very important as **their chocolate shop has several competitors of chocolate shops nearby**, if they have a **better brand image than rivals**, customers will go to Irsi Chocolatier and **buy the chocolates and jelly-fruits there instead of going to other nearby shops rivals**, this will **decrease the risk of decreasing of customers because of other competitors**. For example, Irsi chocolatier could **promote it's shop with attractive adverts or through social media to increase brand recognition**. Also if branding gets better, Irsi chocolatier will be able to **sell in a wider area instead of locally only**.
+
+**Commentary — verbatim and unusually blunt:**
+> *"A question where **around one quarter of candidates achieved a level 3 mark**… Those who did not gain full marks either **lacked the knowledge of branding or they did not apply their response back to the given business scenario**. **Candidates must be reminded that there are no AO1 marks for this question**, there are AO2 marks for this level-based question as often candidates would **provide an extended answer but not apply this answer to the context of Irsi Chocolatier therefore not allowing themselves to move into the top of level 2**. Most marks gained by candidates were within the level 2 band."*
+
+> 🔬 **The 6/6 is ONE paragraph and it never defines branding.** The knowledge is *inside* the chains — *"a good reputation with hand-made chocolates and jelly-fruits"* is knowledge **and** context at once. **Only a quarter of the cohort reached Level 3.** The failure is not knowing less — it is failing to apply.
+
+## 6/6 — P1 Q4(b) · *"Analyse the importance of place to Irsi Chocolatier"* **(6)**
+
+> Irsi Chocolatier is located in **Belgium which is the most famous place for chocolate businesses**. Place is very important to Irsi Chocolatier since they have to **locate next to their markets** [ *to deliver locally — low transportation costs* ]. Since **they have been operating since 1989, they have acquired customer loyalty** over the years, Irsi Chocolatier is most likely to **locate close to their loyal customers so that they keep visiting their chocolate shop**. Irsi Chocolatier also needs to be **close to raw materials — cocoa powder or jelly** to make their handmade chocolates and jelly fruit sweets. **If they were to locate far away from suppliers, Flacent Corne and the other directors would have to find a way to increase cash inflows to make up for the increased transportation costs.** Furthermore, Irsi Chocolatier should **locate near its workers since it would be demotivating to have to travel far for work**. By doing this, Irsi Chocolatier makes sure that **both employees and customers are satisfied**.
+
+**Commentary:** *"Those who responded well to this question understood **the current location of Irsi Chocolatier where it is surrounded by many competitors but benefits from being located somewhere central making it more accessible to the market**."*
+
+> ⭐⭐ **THE DEEPEST CONTEXT IN THE BANK: NAMED PEOPLE AND NAMED MATERIALS.**
+> *"**Flacent Corne and the other directors**"* · *"**cocoa powder or jelly**"* · *"**since 1989**"* · *"**Belgium**"*.
+> **This is the ceiling of AO2.** You cannot write that sentence about any other business. Everything else in the bank about context escalates to this.
+
+## 6/6 — P1R Q4(b) · *"Analyse factors that Aude Rose might consider when measuring the success of its business"* **(6)**
+
+> Aude Rose may use **market share** to measure the success of its flower shop. If market share has increased **since Aude Rose moved to a large premises in the centre of Paris**, then **Aude Anglaret can consider it successful**. This is because it **proves the right choice was made** and that **Aude Rose is making more sales than competitors, hence, taking a part of their share in the market**. Since **florist shops are also quite niche, Aude Rose should aim to dominate**. Aude Rose may also use **revenue** to measure the success of its floral shop. This is because **an increase in revenue will show Aude Rose is selling more flowers and roses at the same price or selling the same amount of bouquets at a higher price**. Either way, revenue will **quantitatively prove Aude Rose is becoming more or less successful** and **it does not require Aude Anglaret to hire a specialist to evaluate. Therefore cost of research will be kept low.**
+
+**Commentary — verbatim:**
+> *"**Another good example of how we expect candidates to respond to an 'analyse' question.** This response shows **detailed knowledge and understanding of business concepts with context throughout the response as well as interconnected points with logical chains of reasoning**. This candidate has considered the **market share and revenue of Aude Rose** when measuring its success."*
+
+> 🔬 **Note the ending:** the final chain lands on **cost** — *"hire a specialist to evaluate. Therefore cost of research will be kept low."* **Two paragraphs, no definition, ending on a business outcome.** That is the house style, proven again.
+
+---
+
+# ⭐ THE ANALYSE COMMENTARIES — the recurring reminders to centres
+
+**P1 Q3(d)** (limitations of break-even charts): *"Candidates who accessed level 3 carefully considered **the limitations for Irsi Chocolatier** of using break-even charts… **Candidates were disadvantaged when they did not apply their answer to Irsi Chocolatier as they cannot access the top of level 2 without any application.** Common responses included effects of external factors on the break-even point, the assumption that all stock would be sold, the effect on costs over time. **This question shows a lack of knowledge of break-even charts for some candidates.**"*
+
+**P2 Q3(d)** (why IKEA shortlists candidates): *"**Unfortunately a number of candidates did not appear to understand what shortlisting was and therefore nearly a third of the cohort did not gain the marks available.** Nearly a third gained a Level 2 mark… Remember examiners will look at the response **'holistically'** — has the candidate applied their knowledge to the scenario and have they analysed the information[?] They will then make a decision as to where the response **'best fits'** into the Levels."*
+
+**P2 R Q1(g) (4/6, social media):** *"This response clearly shows that the candidate is aware of the **disadvantages of social media** and the impact it could have on the business. **However, there was no development of the points made** and therefore this response gained a Level 2 – 4 marks. **If the candidate had given interconnected points with logical chains of reasoning this could have moved the response into Level 3.**"*
+
+**P2 Q4(b) (5/6, statement of comprehensive income):** *"…an 'Analyse' question [is] looking for **application and analysis** of why IKEA uses statement of comprehensive income to assess its business performance… **from previous series some candidates do find questions on finance more difficult than others**."*
+
+> ### ⭐⭐ THREE RECURRING LESSONS
+> 1. **Without application you cannot reach the top of Level 2, let alone Level 3** — stated identically in the branding and break-even commentaries.
+> 2. **The definitional gap kills Analyse answers:** *"nearly a third of the cohort"* lost everything on **shortlisting** because they did not know what it meant. ⚠️ **Analyse carries no AO1 marks — but the content still has to be understood to be applied.** This is the trap: no marks for *stating* the definition, and no marks for anything if you don't *have* it.
+> 3. **Level 2 with no chains is the most common shape:** *"no development of the points made… if the candidate had given interconnected points with logical chains of reasoning this could have moved the response into Level 3."*
+
+---
+
 # ⭐⭐⭐⭐⭐ THE FIVE 9/9 SCRIPTS, VERBATIM — and the mechanism behind every mark band
 
 These are the actual full-mark answers. Read the **evaluation sentences** carefully — they are the whole difference between 7 and 9.

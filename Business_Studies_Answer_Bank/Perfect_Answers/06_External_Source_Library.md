@@ -1241,7 +1241,7 @@ June 2022 P2 (LEGO) Q1(g) — two marked answers on the *benefits of being a mul
 
 ---
 
-## 70. ⭐⭐ FIVE VERIFIED FULL-MARK 6-MARK ANALYSE ANSWERS — and what they share
+## 70. ⭐⭐⭐ NINE VERIFIED FULL-MARK 6-MARK ANALYSE ANSWERS — and what they share
 
 | Paper | Question | Length |
 |---|---|---|
@@ -1636,6 +1636,52 @@ The M&M answer does something unusual and effective: it traces one effect throug
 > ### 🔬 A REUSABLE AO2 TECHNIQUE
 > **Trace your chain through the business's functions** — finance, marketing, HR, production, operations. Each is a **different piece of applied knowledge**, so it demonstrates breadth of AO2 in a few words, and it keeps the answer anchored in the business rather than the theory.
 > **This is not the only route, but it is the cheapest way to widen application without padding.**
+
+---
+
+## 94. ⭐⭐ NAMED PEOPLE AND NAMED MATERIALS — the ceiling of AO2
+
+From the May 2023 P1 Q4(b) 6/6 Analyse on the importance of place:
+> *"**If they were to locate far away from suppliers, Flacent Corne and the other directors** would have to find a way to **increase cash inflows to make up for the increased transportation costs**."*
+
+**Named people from the case study. Named raw materials. The founding year. The country.** *"cocoa powder or jelly"* · *"since 1989"* · *"Belgium, which is the most famous place for chocolate businesses."*
+
+> ### 🎯 THIS IS THE HIGHEST FORM OF CONTEXT IN THE BANK
+> Every other context rule in `06_` escalates to this one. **You cannot write that sentence about any other business, and you cannot write it from the question paper alone — it requires having read the scenario closely enough to know the directors' names.**
+> **Practical use:** when you read a case study, note **who** the people are and **what** the specific inputs/products are called. Those are the words that make an answer ungeneralisable.
+
+---
+
+## 95. 🚨 ANALYSE CARRIES NO AO1 MARKS — BUT YOU STILL HAVE TO KNOW THE CONTENT
+
+Two May 2023 commentaries state the trap from both sides.
+
+**From the branding question (6 marks, AO2+AO3):**
+> *"**Candidates must be reminded that there are no AO1 marks for this question**, there are AO2 marks for this level-based question as often candidates would **provide an extended answer but not apply this answer to the context** of the business therefore **not allowing themselves to move into the top of level 2**. **Only around one quarter of candidates achieved a level 3 mark.**"*
+
+**From the shortlisting question (6 marks, AO2+AO3):**
+> *"**Unfortunately a number of candidates did not appear to understand what shortlisting was and therefore nearly a third of the cohort did not gain the marks available.**"*
+
+> ### ⚠️ THE TWO-SIDED TRAP
+> | Error | Cost |
+> |---|---|
+> | Write knowledge **only** | **No AO1 marks exist** — an extended, accurate, well-organised answer scores **zero** or bottom of Level 2 |
+> | **Not know the content at all** | You cannot apply something you cannot define — *"nearly a third of the cohort did not gain the marks available"* on shortlisting |
+>
+> **The definition is never written down and never rewarded. It is still the prerequisite.** Revise definitions for Analyse topics — not to write them, but to use their content.
+
+---
+
+## 96. ⭐ THE COMMONEST ANALYSE SHAPE: LEVEL 2, POINTS WITH NO CHAINS
+
+> *"This response clearly shows that the candidate is **aware of the disadvantages of social media** and the impact it could have on the business. **However, there was no development of the points made** and therefore this response gained a Level 2 – 4 marks. **If the candidate had given interconnected points with logical chains of reasoning this could have moved the response into Level 3.**"* — May 2023 P2R Q1(g)
+
+**The candidate knew the material. They produced correct, contextualised, relevant points. They scored 4/6.** The missing ingredient is named exactly: **development of the points** — a chain, not a list of correct statements.
+
+⭐ **And the marking frame, stated verbatim (P2 Q3(d)):**
+> *"Remember examiners will look at the response **'holistically'** — has the candidate **applied their knowledge to the scenario** and have they **analysed the information**? They will then make a decision as to where the response **'best fits'** into the Levels."*
+
+**Two questions decide every Analyse mark: has it been applied, and has it been analysed.** Not length, not the number of points.
 
 ---
 
