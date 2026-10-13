@@ -79,20 +79,30 @@ So complete means **four things, all achievable**:
 
 ### Chunks still unread — none outstanding
 
-### 🚨 INTEGRITY CORRECTION — the running totals were wrong
+### ✅ INTEGRITY CORRECTION — DONE, and the counts are now a REGISTER
 
-`09_Verified_Tally.md` is new. It **derives** the exemplar counts from the bank's own headings via `tally_exemplars.py` instead of carrying hand-written totals.
+`09_Verified_Tally.md` is no longer a table of totals. It is a **per-script register** — one row per distinct script, each citing a file and line. Counts are now a *property* of the register, not an assertion beside a list.
 
 | Claimed | Truth |
 |---|---|
-| 9/9 = 6, then 7 | **14** |
-| 6/6 = 9 (then 10) | **18** |
-| 12/12 = 2 | **2** ✅ *the only count that was right* |
+| 9/9 = 6, then 7 | **15** |
+| 6/6 = 9 (then 10) | **19** *(possibly 20 — one June 2019 claim unresolved)* |
+| 12/12 = 2 | **2** ✅ *the only count that was ever right* |
+| *"May 2023 printed four full-mark Justify answers"* | **five** — the fifth was a Paper 2R script filed elsewhere in the report |
 
-**Cause:** totals were hand-incremented while the lists beside them grew by transcription. The two drifted.
-**Rule going forward: never carry a running total by hand.** Quote the script's output.
+**Cause:** totals were hand-incremented while the lists beside them grew by transcription. **They drifted in five separate places.**
+**Rule: never carry a running total by hand.** Quote the register.
 
-**Two duplicate files remain the reason the naive scan over-counts by 2** — `2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA.md` against `2023-05_Series_*.md`. **This fold is now overdue.**
+### ✅ THE DUPLICATE-FILE TASK — RESOLVED (and the note was half wrong)
+
+*"May 2023" and "June 2023" are the same series* — papers sat in May, reports published in August. So all three files describe one series. But:
+
+| File | Verdict |
+|---|---|
+| `2023-06_P2_IKEA.md` | ✅ **NOT a duplicate.** Covers Paper 2 **Q1–Q2**; the series file covers **Q3(d)–Q4(b)**. **Different questions, same report. Kept.** |
+| `2023-06_P1R_Aude_Rose.md` | ⚠️ **PARTIAL duplicate.** Two 9/9s are shared with the series file; its **6/6 Q3(d)**, **2/2 Q3(b)**, define and calculation content is **unique**. **Kept; duplicated headings stubbed `not counted`.** |
+
+> 🚨 **A "duplicate file" flag is a hypothesis, not a finding.** Deleting on the strength of that note would have destroyed **four unique entries, including a verified 6/6**. `tally_exemplars.py` now skips headings marked `not counted`.
 
 **None.** All four June 2025 reports have now been read end to end — see the second-pass entry above.
 
@@ -104,8 +114,8 @@ Currently held (verbatim, with award):
 
 | Type | Tariff | Best verified |
 |---|---|---|
-| **Analyse** | 6 | **18 × 6/6** — derived, see `09_Verified_Tally.md` |
-| **Justify** | 9 | **14 × 9/9** — derived, see `09_Verified_Tally.md` |
+| **Analyse** | 6 | **19 × 6/6** — per-script register, `09_Verified_Tally.md` |
+| **Justify** | 9 | **15 × 9/9** — per-script register, `09_Verified_Tally.md` |
 | **Evaluate** | 12 | **2 × 12/12** (Jun 2024 P1 PPS · May 2023 P1 Irsi) · 11/12 (Spud Bros) |
 | **Explain** | 3 | multiple 3/3 |
 | **Calculate** | 2 | 2/2 with the d.p. rule |

@@ -1,4 +1,17 @@
-# HARVESTED — June 2023, Paper 1R (Aude Rose)
+# June 2023 Paper 1R — Aude Rose — **SUPPLEMENT**
+
+> ### ⚠️ READ THIS FIRST — this file is a SUPPLEMENT, not a separate series
+> **"May 2023" and "June 2023" are the same exam series.** The papers are sat in May; the reports are published in August. This file and `2023-05_Series_Irsi_AudeRose_IKEA_MM.md` therefore describe **one series**, harvested twice.
+>
+> | Content | Where it lives |
+> |---|---|
+> | **9/9 · Q2(f) Justify** (flower show vs leaflets) | ✅ **Recorded in full in the series file** (line 409). **NOT COUNTED HERE** — see below. |
+> | **9/9 · Q3(e) Justify** (questionnaires vs internet) | ✅ **Recorded in full in the series file** (line 417). **NOT COUNTED HERE** — see below. |
+> | **6/6 · Q3(d) Analyse** (retained profits) | ⭐ **UNIQUE TO THIS FILE** — no counterpart in the series file. |
+> | **2/2 · Q3(b) Outline** (packaging) | ⭐ **UNIQUE TO THIS FILE.** |
+> | Define *variable costs* · the decimal-place calculation | ⭐ **UNIQUE TO THIS FILE.** |
+>
+> **The two 9/9 sections below are kept as one-line stubs only, so the register counts them once.** Run `../../tally_exemplars.py` — the script skips any heading containing `not counted`.
 
 **Business context:** Aude Rose, a florist. **Source:** `4bs1-01r-pef-20230824.pdf`
 
@@ -13,7 +26,7 @@
 
 ---
 
-## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 9/9 · Q2(f) Justify
+## ⤴ 9/9 · Q2(f) Justify — **not counted here** (duplicate of the series file)
 
 **Question:** Choose between sponsoring a local event or distributing leaflets to increase sales.
 
@@ -28,7 +41,7 @@
 
 ---
 
-## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 9/9 · Q3(e) Justify
+## ⤴ 9/9 · Q3(e) Justify — **not counted here** (duplicate of the series file)
 
 **Question:** Choose between handing out questionnaires in the shop, or using the internet to research trends.
 

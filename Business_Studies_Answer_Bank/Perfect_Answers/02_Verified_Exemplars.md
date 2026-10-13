@@ -766,7 +766,7 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 
 ## ⭐⭐⭐ THE 9/9 JUSTIFY — FOUR FULL-MARK VERDICTS IN ONE SESSION (May 2023)
 
-May 2023 printed **four** full-mark Justify answers — **P1 Q2(f)** (batch vs job production) · **P1 Q3(e)** (on-the-job vs off-the-job training) · **P1R Q2(f)** (sponsoring a flower show vs leaflets in Paris) · **P1R Q3(e)** (questionnaires vs internet research). **⚠️ This section describes FOUR of the fourteen verified 9/9 Justify scripts in the bank.** The running total previously printed here was wrong — see **`09_Verified_Tally.md`**, which derives the count from the bank's own headings rather than asserting it.
+May/June 2023 printed **FIVE** full-mark Justify answers — **P1 Q2(f)** (batch vs job production) · **P1 Q3(e)** (on-the-job vs off-the-job training) · **P1R Q2(f)** (sponsoring a flower show vs leaflets in Paris) · **P1R Q3(e)** (questionnaires vs internet research) · **P2R Q3(e)** (job rotation vs bonus, M&M). **⚠️ This section describes FOUR of the fourteen verified 9/9 Justify scripts in the bank.** The running total previously printed here was wrong — see **`09_Verified_Tally.md`**, which derives the count from the bank's own headings rather than asserting it.
 
 **The shared verdict — near-identical in three of the four:**
 > *"This response shows **what is expected from candidates** in order to gain the full marks for this type of 'justify' question. This candidate has **shown detailed understanding of the choice they have made**, they have **included context throughout** their response with **logical chains of reasoning** and has made a **good judgement about their choice with a thorough evaluation**."*

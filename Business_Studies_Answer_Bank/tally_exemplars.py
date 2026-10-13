@@ -40,6 +40,8 @@ for f in sorted(ROOT.rglob("*.md")):
     for i, line in enumerate(f.read_text(encoding="utf-8", errors="replace").splitlines(), 1):
         if not line.lstrip().startswith("#"):
             continue
+        if "not counted" in line:          # explicitly annotated duplicate
+            continue
         if not TOKEN.search(line) or not CLAIM.search(line) or ABSENCE.search(line):
             continue
         tariff = TOKEN.search(line).group(1)
