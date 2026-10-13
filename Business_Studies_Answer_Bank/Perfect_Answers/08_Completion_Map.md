@@ -383,6 +383,7 @@ python3 verify_collision_cluster.py     # the collision table's total is its row
 python3 verify_stem_quotes.py           # every quoted question is the paper's own question
 python3 verify_block_tiers.py           # every block dump carries its own tier's mark
 python3 verify_ms_point_coverage.py     # every awarded MS point is at least named in its entry
+python3 verify_coverage_claims.py       # the coverage grids agree with the register
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -403,6 +404,17 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 151 citations compared by question number · 100 more by paper · 0 unresolved · 0 misattributed.** Names the question a quote belongs to when the citation is wrong |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
+| `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
+
+### ⚠️ THE COVERAGE GRID SAID ONE THING AND THE LINE BELOW IT SAID ANOTHER (14 Oct 2026)
+
+`06_`'s "what is actually still missing" table listed **Paper 2R Justify — ✅ held (2)**, and the bullet directly beneath it said **"Paper 2 Justify — no verified 9/9 in any series."** *"In any series"* reads as *nowhere*, which the table above it contradicted. **The same bullet also cited the May 2023 Paper 2 script as Q3(e) — that question scored 5/9; the 7/9 was Q2(f).**
+
+Both are now corrected, and the corrected position is stronger than either version: **Paper 02 Justify holds no 9/9, and the best held is 7/9 — three times, all of them Q2(f):** June 2019 P2 (Tata) · May 2023 P2 (IKEA) · **June 2025 P2 (Starbucks, script at `02_Verified_Exemplars.md:643`)**. Paper 02R is **not** a gap and never was — May 2023 M&M and June 2025 Rabanne.
+
+**Three files state the coverage position** (`00_`, `06_`, the 2019 booklet), which is the same failure mode as the collision cluster's four totals: hand-maintained, drifting, agreeing only because they were typed on the same day. `verify_coverage_claims.py` now derives the truth from the register and reads the claims.
+
+**Its limit is stated in the file, because it was found by trying to write the check:** it **cannot** tell that a 7/9 was scored on Q2(f) rather than Q3(e) — **both labels are real questions of that tariff on that paper.** Only the per-series mark records distinguish them, and those live in tables whose formats differ between files. **That one has to be read by hand whenever a claim changes.** What the check *can* do, it now does: cells must agree with the register, absolute claims must be scoped to papers, and a mark-claim's question label must belong to its tariff. Both rules are sabotage-tested.
 
 ### ✅ LAYER C ENTRY QUALITY — every awarded point is now named in its entry (14 Oct 2026)
 
