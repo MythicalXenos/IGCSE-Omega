@@ -428,7 +428,7 @@ Since 2019 these have been **linear**, set on the total of both papers out of **
 > 3. **The November series runs Papers 01/02 only** — no regional versions — so an R-entered candidate has no November fallback on the standard papers.
 >
 > ### ⚠️ THE ONE SENTENCE THAT MATTERS MOST
-> The grade-9 boundary is around **133/160 — so roughly 68/80 on Paper 1 and 65/80 on Paper 2.** **A "comfortable 8" performance — say 120/160 — is 13 marks short of a 9, and those 13 marks live almost entirely in AO4 evaluation.** That is why `10_Chain_Bank.md` spends its largest tier on 9- and 12-mark evaluation and why the 3-mark answers are capped at three sentences: **the marks that separate 8 from 9 are won in the last two tariffs, not in the first two.**
+> **The grade-9 boundary is around 133/160 on the standard route and 137/160 on the regional route** — and the two routes do not divide the same way. **June 2026, component by component: Paper 01 = 68, Paper 01R = 68, Paper 02 = 65, Paper 02R = 69.** So a standard candidate needs **68 + 65 = 133**, and a regional candidate needs **68 + 69 = 137** — the same 01-style paper on both routes, and **a Paper 02R worth 4 marks MORE than the Paper 02 it is a variant of.** **A "comfortable 8" performance — say 120/160 — is 13 marks short of a 9, and those 13 marks live almost entirely in AO4 evaluation.** That is why `10_Chain_Bank.md` spends its largest tier on 9- and 12-mark evaluation and why the 3-mark answers are capped at three sentences: **the marks that separate 8 from 9 are won in the last two tariffs, not in the first two.**
 
 ### Sources (Pearson publications, all `qualifications.pearson.com`)
 

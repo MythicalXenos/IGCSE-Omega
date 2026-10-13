@@ -980,25 +980,44 @@ Summer 2019 P1 Q1(f), a 3-mark Explain on **one way to increase gross profit mar
 
 ---
 
-## 74. ⭐ THE WORD-COLLISION CLUSTER — read the spec word against its everyday twin
+## 74. ⭐⭐⭐ THE WORD-COLLISION CLUSTER — the canonical table
 
-| Term in the question | How candidates read it | Report |
+**Read the spec word against its everyday twin.** Every row below is a **named** examiner observation — a term on the paper that candidates read as a different, ordinary word and then answered the wrong question to.
+
+> ### ✅ THIS TABLE IS THE ONLY PLACE THE CLUSTER IS COUNTED
+> **THE CLUSTER STANDS AT **20** TERMS**, and that figure is **the number of rows below** — nothing else. **It is derived, not remembered:** `python3 ../verify_collision_cluster.py` counts the rows and fails if the stated total and the table ever disagree.
+>
+> **Why it needs a check at all: the total was incremented by hand in four different files and drifted every time.** Rule 78 said "now 15" by adding two terms when **one of them — `secondary sector` — was already row 5**. Rule 109's summary said 19 and named **`current liabilities`, which was not a row in the table above it**. `08_Completion_Map.md` and the Nov 2025 addendum said **"19 → 22"**, adding *"trade bloc · job production · share capital"* — **and two of those three were already here.** **Now every other mention points at this table.**
+
+| Term in the question | How candidates read it | Report(s) |
 |---|---|---|
-| **job** production | **jobs** (employment) — *"creating more job opportunities"* | June 2025 P1 |
+| **job** production | **jobs** (employment) — *"creating more job opportunities"* | June 2025 P1 · June 2025 P2 |
 | **promotion** (marketing) | **promotion** (a job) | Summer 2019 P1 |
 | **public relations** | public **communication** | June 2022 P2R |
 | **personal** savings | business **owner's** belongings | June 2022 P2R |
-| **secondary** sector | secondary **market research** | June 2024 P1R |
+| **secondary** sector | secondary **market research** | June 2024 P1R · **June 2026 P1R** |
 | **autonomy** | **automation** / robots · or generic freedom | June 2025 P2R |
 | **capital** intensive | **labour** intensive | Nov 2020 P1R |
 | **liquidity** | profitability / "making money" | Nov 2020 P1 |
-| **quantitative** | **qualitative** | Nov 2020 P1R |
+| **quantitative** | **qualitative** | Nov 2020 P1R · Nov 2021 P1 |
 | **stakeholder** | **shareholder** | Summer 2019 P1 · Nov 2020 P1 · Nov 2024 P1 |
-| **trade bloc** | *"trade being blocked/banned"* | June 2025 P1 |
+| **trade bloc** | *"trade being blocked/banned"* · **protectionism** | June 2025 P1 · Nov 2024 P2 |
 | **fixed costs** | costs generally | Nov 2020 P1 |
 | **flow** production | job / batch production | June 2025 P2 |
+| **e-commerce** | digital **communication** | **June 2026 P1R** |
+| **span of control** | **hierarchical levels** in the structure | Nov 2023 P1 |
+| **public corporation** | **public limited company** | Nov 2024 P2 |
+| **above-the-line** promotion | below-the-line promotion · **an employee being promoted** | 2019 P1R |
+| **diseconomies** of scale | **economies** of scale — *"the business gets too big"* | 2019 P1R |
+| **current liabilities** | **current assets** | 2019 P1R |
+| **job share** | other types of employment | Nov 2020 P1R |
 
-> ### ✅ THE HABIT: before defining, cover the word and ask *"what does this word mean ELSEWHERE in business?"*
+> ### ⚠️ THE LAST FOUR COMPLETED THE TABLE ON 14 OCT 2026
+> `span of control`, `public corporation`, `above-the-line promotion`, `current liabilities` and `diseconomies of scale` **were all real collisions sitting in other files while four different totals disagreed.** `job share` (*"only one fifth… confused this term with other types of employment"*, Nov 2020 P1R) **was the one genuinely missing term** — the count is **20 rows, not 19**, and the arithmetic that produced 19 omitted it.
+>
+> ⚠️ **`share capital` is deliberately NOT here.** `08_Completion_Map.md` listed it among three additions in a "19 → 22" claim, but **no examiner statement in this bank reports it as a collision** — and two of the three terms in that same claim were already rows above. **A term goes in this table when a report names it, not when a total needs to reach a number.**
+
+> ### ✅ THE HABIT: before defining, cover the word and ask *"what does this mean ELSEWHERE in business?"*
 > If the term has a common English twin, **write your definition so it could not be read the other way.** For **job production**, the disambiguating words are *"one at a time"*, *"customised"*, *"made to order."*
 
 ---
@@ -1067,7 +1086,7 @@ The bank previously recorded that **2026 examiner reports are locked until ~Augu
 | **secondary** sector | secondary **market research** | **June 2026 P1R** · June 2024 P1R |
 | **e-commerce** | digital **communication** | **June 2026 P1R** |
 
-**Full cluster now 15 entries** (rule 74 plus these two). Both June 2026 collisions cost a **1-mark Define**, and the report's remedy is the same: *"Centres are reminded that any area of the specification can appear in the paper."*
+⚠️ **These two rows were folded into rule 74's canonical table on 14 Oct 2026 — and one of them changed the arithmetic.** **`e-commerce` was genuinely new; `secondary sector` was NOT** — it is already row 5 of rule 74, first recorded from June 2024 P1R. **So this rule added ONE term, not two, and the "15" that used to stand here was wrong by one.** *(Rule 74's table, and the check that counts it, are now the only place the cluster is counted.)* Both June 2026 collisions cost a **1-mark Define**, and the report's remedy is the same: *"Centres are reminded that any area of the specification can appear in the paper."*
 
 ---
 
@@ -1557,7 +1576,7 @@ Pearson's own balance standard, stated outright — Nov 2024 P2 summary advice:
 | **public corporation** | *"Many confused the term with **public limited company**"* (Nov 2024 P2) |
 | **job production** advantages | *"only **half** of the candidates selecting the correct answer"* (Nov 2024 P2) |
 
-**Word-collision cluster now stands at 19 entries** — rule 74 plus rule 78 plus the five above (**span of control · public corporation · above-the-line promotion · current liabilities · diseconomies of scale**).
+⚠️ **This line used to read *"the word-collision cluster now stands at 19 entries"* and named its five additions as *"span of control · public corporation · above-the-line promotion · **current liabilities** · diseconomies of scale"* — and **`current liabilities` was not a row in the table above it.** It was a real collision, reported at **2019 P1R Q3(a)** (*"confused this term with current assets"*), sitting in `External_Exemplars/Advisory_Reports_Nov2023_Nov2024_Nov2021_2019P1R.md` the whole time. **All five are rows of rule 74's canonical table now, along with `job share`, which no total had ever counted.** **The cluster is 20 terms. Count it — `python3 ../verify_collision_cluster.py` — do not quote it.**
 
 ---
 

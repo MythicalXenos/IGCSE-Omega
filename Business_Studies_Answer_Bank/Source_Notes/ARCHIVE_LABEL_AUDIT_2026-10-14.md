@@ -201,3 +201,57 @@ class of error Phase 4 exists to find:
 **Every figure above is now derived rather than typed**, and the two scripts that
 derive them — `build_layer_c_tariffs.py` (full distribution + the 80-mark check on
 all 38 papers) and `verify_chain_bank_anchors.py` (mappings) — are tracked.
+
+---
+
+# 8. THE WORD-COLLISION CLUSTER — four totals, three of them wrong
+
+**The cluster is a list of terms the examiners caught candidates reading as a
+different, ordinary word** — *"job production"* read as *jobs*, *"promotion"* read
+as a promotion at work, *"public corporation"* as a public limited company. Each
+one is a **named** observation in a report, and each one costs a 1-mark Define.
+
+**Its total had drifted in four files, and every figure had been right when typed:**
+
+| Where | Said | Truth |
+|---|---|---|
+| `06_` rule 74's table | **13 rows** | the real list — and it was missing five collisions recorded elsewhere in the bank |
+| `06_` rule 78 | *"full cluster now 15 entries"* | added two, **but one (`secondary sector`) was already row 5** |
+| `06_` rule 109's summary | *"stands at 19 entries"*, naming five additions | **`current liabilities` was not a row in the table above it** — though it *was* a real collision, reported at 2019 P1R Q3(a) and sitting in the advisory file |
+| `08_Completion_Map.md` and the Nov 2025 addendum | *"19 → 22"*, adding *"trade bloc · job production · share capital"* | **two of the three were already rows**, so they were never additions; **`share capital` has no examiner statement anywhere in the bank** |
+| `2026-06_P1R_SpudBros.md` | *"word-collision #14"*, *"#15"* | a **numbering scheme** with no single authority behind it, running beside a total in a different file |
+
+## The repair
+
+- **Rule 74 is now the canonical table, and it is the only place the cluster is
+  counted.** It has **20 rows**, each with the report that named it.
+- **Five collisions that were scattered across other files were promoted into it:**
+  `span of control` · `public corporation` · `above-the-line promotion` ·
+  `diseconomies of scale` · `current liabilities`.
+- **One term had never been counted by any total: `job share`** — *"only one fifth
+  of the candidates were able to correctly define the term job share… confused this
+  term with other types of employment"* (Nov 2020 P1R). **The 19 was 19 because
+  `job share` was missing from it.**
+- **`share capital` was refused a row**, and the refusal is written down: **a term
+  enters this table when a report names it, not when a total needs to reach a
+  number.**
+- **The per-file numbering in the Spud Bros file was removed**, leaving the
+  observation without a number that a later file might contradict.
+- **`verify_collision_cluster.py` counts the rows and fails if the stated total and
+  the table ever disagree.** It caught its own author on the first run: the table I
+  had just written held **20** rows while the sentence above it said **19**.
+
+> **The generalisable finding, and it is the same one the coverage tables and the
+> exemplar register produced: a total that is maintained by hand is a claim, and a
+> total that is counted is a fact. This bank now counts its cluster, its exemplars,
+> its population, its By_Paper items and its block-to-entry mappings.**
+
+# 9. One more conflation, in the most-read file
+
+`00_Pearson_Official_Rulebook.md` summarised the grade-9 boundary as *"around
+133/160 — so roughly 68/80 on Paper 1 and 65/80 on Paper 2."* **Those are the
+STANDARD route's components attached to the REGIONAL route's total.** June 2026 is
+**01 = 68 · 01R = 68 · 02 = 65 · 02R = 69**: **133 = 68 + 65** (standard) and
+**137 = 68 + 69** (regional). **Paper 02R is worth 4 marks more than the Paper 02 it
+is a variant of**, and the tidy 68/65 pairing describes only one of the two routes.
+Fixed in place, with all four component figures printed.

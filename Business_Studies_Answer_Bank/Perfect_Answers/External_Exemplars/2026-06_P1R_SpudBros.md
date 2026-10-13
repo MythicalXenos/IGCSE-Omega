@@ -152,12 +152,12 @@
 > ❌ *"This candidate does not demonstrate clear knowledge of the term 'secondary sector'. **Total: 0 marks**"*
 > ✅ *"This candidate shows good knowledge of the term 'secondary sector'. **Total: 1 mark**"*
 **Commentary:** *"many candidates provide a clear definition… However, some candidates **do confuse the term with secondary market research**. Centres are reminded that any area of the specification can appear in the paper."*
-→ **Word-collision #14: secondary sector / secondary market research.** (Also seen the same way in June 2024 P1R.)
+→ **Word-collision: secondary sector / secondary market research.** *(this file numbered it #14; it was already a row of rule 74 — see the canonical table in `06_`)* (Also seen the same way in June 2024 P1R.)
 
 **Q1(c) — Define *e-commerce*** · 1 mark
 > ❌ *"does not show clear knowledge: there is some confusion shown because **they have discussed digital communication**."*
 > ✅ *"shows good knowledge of the term 'e-commerce'."*
-→ **Word-collision #15: e-commerce / digital communication.**
+→ **Word-collision: e-commerce / digital communication.** *(this file numbered it #15; the +1 was not a real addition — see the canonical table in `06_`)*
 
 **Q1(d) — State one reason why brand image is important to Spud Bros** · 1 mark
 > ❌ *"This candidate only offers **a reason why brand image is important to Spud Bros [but] there is no applied context**. **Total: 0 marks**"* ← the report's own wording is garbled here; the verdict is 0.
