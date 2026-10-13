@@ -99,6 +99,18 @@ OVERRIDES = {
 DROPPED: dict[str, list[str]] = {}
 
 
+def repair(text: str) -> str:
+    """Undo the character fragmentation in the May-June 2021 PDFs.
+
+    Those files print "A0 1 - 3 mark s" for "AO1 - 3 marks". Without this the
+    extractor silently loses whole blocks; with it they read normally and stay
+    quotable. Shared with extract_ms_blocks.py.
+    """
+    text = re.sub(r"\bA\s?[O0]\s?([1-4])\b", r"AO\1", text)
+    text = re.sub(r"\bm\s?a\s?r\s?k\s?s\b", "marks", text)
+    return text
+
+
 def _key(n: str, letter: str, roman: str | None) -> str:
     return f"{n}({letter})" + (f"({roman})" if roman else "")
 

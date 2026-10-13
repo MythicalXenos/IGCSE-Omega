@@ -183,6 +183,22 @@ Priority order:
 **The fix is durable, not a one-off.** Two re-runnable scripts regenerate all of this from the archive, so a sandbox re-seed cannot lose it:
 - `python3 build_layer_c_tariffs.py` → validates all 38 papers at 80 marks, writes `layer_c_6_9_12_master.csv`
 - `python3 build_layer_c_3mark.py` → writes `layer_c_3mark_master.csv`
+- `python3 extract_ms_blocks.py <3|6|9|12>` → writes `layer_c_<N>mark_blocks.txt`
+
+### ⭐ THE SOURCE FILES FOR BATCHES 5–9 NOW EXIST
+
+`extract_ms_blocks.py` dumps the mark schemes' own wording for a whole tariff, verbatim, one block per question — the question stem, the `AO2` application bullets, the `AO3` chain bullets and the level descriptors. **It was built because doing this with `grep` does not work**: the PDF text layer breaks terms across lines (`test marke ting`, `public rela tions`) and the May–June 2021 files fragment characters (`A0 1 - 3 mark s`).
+
+| File | Blocks | For |
+|---|---|---|
+| `layer_c_3mark_blocks.txt` | **152** | Batch 3–4 *(closed; kept as the audit trail)* |
+| **`layer_c_6mark_blocks.txt`** | **114** | **Batches 5–6 — next** |
+| `layer_c_9mark_blocks.txt` | **76** | Batches 7–8 |
+| `layer_c_12mark_blocks.txt` | **38** | Batch 9 |
+
+> **Each file's block count is a second, independent confirmation of the derived populations.** The extractor finds blocks by locating part labels from their AO allocations — it does not reuse the tariff script's output — and it reports `OK` only when the count matches `4 × 38`, `3 × 38`, `2 × 38` or `1 × 38`. **All four report `OK`.**
+>
+> Every block also carries its **own question wording** and the **level descriptors for its tariff**, so a batch can be written from one file without opening a PDF — and a sandbox re-seed cannot take the source material with it.
 
 **One trap worth naming, because it caused correction 3:** the AO header's separator is a **hyphen in some papers and an en dash in others**, and successive allocations are **comma-separated in some papers but not others**. A pattern that assumed `[-=]` and no comma read a 12-mark Evaluate as 3 marks and a 9-mark Justify as 3 — which is exactly how the CSV arrived at 17 and 48.
 

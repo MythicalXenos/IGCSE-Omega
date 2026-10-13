@@ -1,0 +1,764 @@
+# 3-MARK QUESTION BLOCKS, VERBATIM FROM THE 4BS1 MARK SCHEMES
+# 152 blocks. Regenerate: python3 extract_ms_blocks.py 3
+# Each block runs from its part label to the start of the next part.
+
+
+==============================================================================
+=== June 2026 | P1R | 1(f)
+==============================================================================
+Question Number Explain one advantage to a business of having a flat organisational structure. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for an advantage to a business of having a flat organisational structure plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • Communication may be faster (1) because there are fewer layers of management in the organisation (1) this may mean the business makes fewer mistakes (1) • Faster decision making (1) because there is a shorter chain of command (1) as a result the productivity of the business would improve (1) NB No marks are awarded for a definition. Answers that list three advantages to a business of having a flat organisational structure with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P1R | 2(c)
+==============================================================================
+Question Number Explain one reason why a business calculates the break-even level of output. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for one reason why a business calculates the break-even level of output, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • To understand how many goods it needs to sell (1) to cover the costs of producing the goods (1) to ensure the business does not make a loss (1) • To help decide on business plans/goals (1) as the business can see when total costs are equal to total revenue (1) the business can then plan to adjust their prices if the break-even point is too high (1) NB No marks are awarded for a definition. Answers that list three reasons why a business calculates the break-even level of output with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P1R | 2(d)
+==============================================================================
+Question Number Explain one reason why a business would segment the market by income. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why a business would segment the market by income, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • To target customers with a particular spending budget (1) so the business can price a product in line with a price people are willing to pay (1) leading to increased sales/competitiveness in the market (1) • To produce the right goods at the right price to its customers (1) those with higher incomes will be able to afford higher prices (1) allowing the business to make higher sales (1) NB No marks are awarded for a definition. Answers that list three reasons why a business would segment the market by income with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P1R | 2(e)
+==============================================================================
+Question Number Explain one benefit to a business from productivity improvements. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why a business would benefit from productivity improvements, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • A business can produce more goods (1) because the rate/speed of output will increase (1) reducing the average costs for the business (1) • A business can gain competitive advantage (1) as more products are produced in the same/reduced amount of time (1) resulting in lower costs of production. NB No marks are awarded for a definition. Answers that list three reasons why a business would benefit from productivity improvements with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P1 | 1(f)
+==============================================================================
+Question Number Explain one disadvantage for a business of having a long chain of command. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for a disadvantage to a business of having a long chain of command plus 2 further marks for explaining the disadvantage, for a maximum of 3 marks. • This may cause communication problems (1) because there are many layers in the organisation (1). This means employees may not get the right instructions (1) NB No marks are awarded for a definition. Answers that list three disadvantages to a business of having a long chain of command with no explanation will get a maximum of 1 mark. Accept any other appropriate response (3)
+
+==============================================================================
+=== June 2026 | P1 | 2(c)
+==============================================================================
+Question Number Explain one reason why business aims and objectives may change over time. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for one reason why business aims and objectives may change over time, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • In response to market conditions (1) competitors may start to lower their prices (1) the business may need to focus on improving its competitive advantage (1) • In response to business performance (1) as sales/profits/revenue may have increased (1) so objectives may change from survival to increasing market share (1) NB No marks are awarded for a definition. Answers that list three reasons why business aims and objectives change over time with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P1 | 2(d)
+==============================================================================
+Question Number Explain one reason why a business may benefit from economies of scale. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why a business may benefit from economies of scale, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • The average unit costs of the business will decrease (1) which will enable the business to reduce the price of its products (1) leading to increased competitiveness in the market (1) • The business can benefit from bulk buying (1) leading to a reduction in cost of production per unit (1) which means that the business may increase its profits (1) NB No marks are awarded for a definition. Answers that list three reasons why a business may benefit from economies of scale with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P1 | 2(e)
+==============================================================================
+Question Number Explain one reason why business failure may be caused by poor cash flow. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why business failure may be caused by poor cash flow, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • A business may run out of cash (1) resulting in the inability to pay suppliers on time (1) which may lead to the lack of materials to produce goods (1) NB No marks are awarded for a definition. Answers that list three reasons why business failure may be caused by poor cash flow with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3) Question Number Claire wants to increase the revenue of Violet Cakes. She is considering two options: Option 1: Write and sell a new recipe cookbook Option 2: Introduce a range of vegan products Justify which one of these two options Claire should choose to increase revenue. Indicative content Mark
+
+==============================================================================
+=== June 2026 | P2R | 1(f)
+==============================================================================
+1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage for a shareholder of having limited liability, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • Less risk to the shareholder (1) as they only stand to lose the amount invested in the business (1) which means they will not lose their personal assets (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Analyse the advantages for Steve Jobs and Steve Wozniak of starting the business as a partnership. Indicative content Mark
+
+==============================================================================
+=== June 2026 | P2R | 2(c)
+==============================================================================
+2 (c) AO1 - 3 marks Award 1 mark for identification of one advantage to a business of using temporary employees, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • The business benefits from flexibility (1) because when the business has low demand it can decrease the number of workers (1) resulting in lower costs for the business (1) • Temporary employees can bring specialist/innovative skills (1) which means the business can resolve specific problems or challenges (1) which helps to maintain productivity and efficiency (1) NB No marks are awarded for a definition. Answers that list three advantages with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Explain one advantage of on-the-job training for a business. Answer Mark
+
+==============================================================================
+=== June 2026 | P2R | 2(d)
+==============================================================================
+2 (d) AO1 - 3 marks Award 1 mark for explaining one advantage of on-the-job training for a business, plus 2 further marks for explaining the limitations, for a maximum of 3 marks. • It is a relatively cheap form of training (1) as there are no travel costs/training is done by another employee (1) allowing the business to reduce costs/save money (1) • Employees can gain practical skills and knowledge more efficiently (1) because they learn while in the working environment (1) which may help to improve productivity in the workplace (1) NB No marks are awarded for a definition. Answers that list three advantages with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Explain one disadvantage for an entrepreneur of using venture capital to start a business. Answer Mark
+
+==============================================================================
+=== June 2026 | P2R | 2(e)
+==============================================================================
+2 (e) AO1 - 3 marks Award 1 mark for identification of one disadvantage for an entrepreneur of using venture capital to start their business, plus 2 further marks for explaining the benefit, for a maximum of 3 marks. • The entrepreneur may lose some control of the business (1) because they give a share of the business away (1) so they will have to consult others before making decisions (1). • The entrepreneur will have to share future profits with the venture capitalist (1) which means that the entrepreneur keeps a smaller proportion of profits (1) so they will receive less personal income (1). NB No marks are awarded for a definition. Answers that list three disadvantages with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Option 1: increase its spending on TV advertisements Option 2: offer university students free AirPods (wireless headphones) when purchasing a MacBook laptop Justify which one of these two options Apple should choose to increase sales in India. Indicative content Mark
+
+==============================================================================
+=== June 2026 | P2 | 1(f)
+==============================================================================
+Question Number Explain one reason why packaging may be important for a business. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for a reason why packaging is important to a business, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • The packaging may protect the goods (1) if the goods are fragile or easily broken (1) which should ensure the goods are delivered safely to the customer (1) • The packaging may be important to attract consumers (1) who are concerned with the aesthetics of a product (1) which may persuade the consumer to purchase the product (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P2 | 2(c)
+==============================================================================
+Question Number Explain one advantage for a business of having a strong brand. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for an advantage of having a strong brand, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • The product/service is easily recognisable (1) which may lead to customers choosing the business over competitors (1) leading to high levels of sales revenue (1) NB No marks are awarded for a definition. Answers that list three advantages of a strong brand with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P2 | 2(d)
+==============================================================================
+Question Number Explain one advantage for a business of using quality control. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for an advantage to a business of using quality control, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • As a business checks the products at the end of the production line (1) defective products should be removed before shipment to the customers (1) which should result in satisfied customers (1) NB No marks are awarded for a definition. Answers that list three advantages to a business of using quality control with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== June 2026 | P2 | 2(e)
+==============================================================================
+Question Number Explain one reason why a business needs to follow legal controls for equal opportunities. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why a business needs to follow legal controls for equal opportunities, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • A business may be fined by the government/courts (1) if it does not treat its employees fairly/equally (1) resulting in a poor reputation for the business (1) NB No marks are awarded for a definition. Answers that list three reasons why a business needs to follow legal controls for equal opportunities with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1R | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage, plus 2 further marks for explaining how this advantage will affect the business for a maximum of 3 marks. • The franchisee invests in a tried and tested business (1) and gets advice and training from the franchisor (1) this reduces the risk of failure (1). Answers that list more than one advantage with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1R | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a way a business can use penetration pricing, plus 2 further marks for explaining this way, for a maximum of 3 marks. • A business can offer a low price for a new product (1). This will entice customers to try the new product in its introduction stage (1) and stop them from buying from the competitors (1). Answers that list three ways with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1R | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of a reason why a business would have a short span of control, plus 2 further marks for explaining this reason, for a for a maximum of 3 marks. • This will allow the business to have better communication with its employees (1) as messages have less levels to go through (1) leading to a more productive workforce (1). Answers that list three reasons with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1R | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for identification of a reason why diseconomies of scale may occur, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • The business gets too big (1) employees can become demotivated (1), which could result in falling productivity levels (1). Answers that list more than one reason with no explanation will get a maximum of one mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1 | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a way, plus 2 further marks for explaining how this way will affect a business for a maximum of 3 marks. • A business could negotiate deals with suppliers at a cheaper rate (1) this will keep costs as low as possible (1) meaning that the business can look to reduce the prices of their products/services to encourage more sales (1). Answers that list three ways with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1 | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a reason for having a human resource functional area, plus 2 further marks for explaining this reason for a business, for a maximum of 3 marks. • A reason is to recruit employees (1). It will identify a vacancy in the business and seek to fill it (1) having found the right person for that role (1). Answers that list more than one reason with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1 | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of method, plus 2 further marks for explaining this method, for a maximum of 3 marks. • A business could use television advertising (1). This can be seen by large numbers of people raising awareness (1) resulting in an increase in sales for a business (1). Answers that list more than one method with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P1 | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for identification of one way the product life cycle can be extended, plus 2 further marks for explaining the way, for a maximum of 3 marks. • A business could change the packaging of its product (1), this could be done by brightening up old packaging or adding extras to the packaging (1). This could result in more repeat purchase as well as new custom (1). Answers that list more than one way with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2R | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 = 3 marks Award 1 mark for identification of an advantage of a business having loyal customers, plus 2 further marks for explaining this advantage for a maximum of 3 marks.  An advantage will be repeat custom (1) if customers are loyal they will only shop at that business (1) which could increase market share/revenue (1). Answers that list three advantages with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2R | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 = 3 marks Award 1 mark for identification of a benefit of retaining staff, plus 2 further marks for explaining the benefits, for a maximum of 3 marks.  If staff stay with the business it means that there is consistency (1). It means that employees gain knowledge of the products they are selling (1) and they can pass this information on to customers (1). Answers that list three benefits with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2R | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 = 3 marks Award 1 mark for identification of an advantage of a business using targeted advertising online, plus 2 further marks for explaining the advantage for a maximum of 3 marks.  A business can target a wider audience (1) because it is worldwide and 24/7 (1) and is a relatively cheap method of advertising to traditional methods (1). Answers that list three advantages with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2R | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 = 3 marks Award 1 mark for identification of a reason why cash flow forecasts are important, plus 2 further marks for explaining the importance for a maximum of 3 marks.  It allows the business to predict its future inflow and outflows (1). It knows whether it can survive or not (1) and whether it has sufficient funds to keep trading (1). Answers that list three reasons why a cash flow forecast is important with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2 | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of an impact of technology on production, plus 2 further marks for explaining the impact, for a maximum of 3 marks.  Fewer people required to work in the factories doing repetitive jobs (1) people get bored doing these jobs and make mistakes (1). Less employees brings the cost of goods down (1).  More robots are manufacturing the vehicles than previously (1) this means that the vehicles can be manufactured in any country (1) therefore the business could move to a cheaper country (1). Answers that list three impacts with no explanation will get a maximum of 1 mark. Accept any other appropriate response. 3)
+
+==============================================================================
+=== May-June 2019 | P2 | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a reason for using fringe benefits, plus 2 further marks for explaining why fringe benefits are beneficial for a business, for a maximum of 3 marks.  Employees will be motivated. (1) This could lead to improvement in productivity (1) and higher sales (1). NB Answers that list three benefits with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2 | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason to use job production, plus 2 further marks for explaining this reason, for a maximum of 3 marks.  Job production is used to produce a unique piece of work. (1) It is made to meet the exact needs of the customer (1) that requires time and skills of the employees (1). Answers that list three reasons with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2019 | P2 | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a benefit of a short chain of command, plus 2 further marks for explaining that benefit, for a maximum of 3 marks.  A short chain of command means that communication between workers and managers is less (1). Therefore there is less chance of messages being mistaken (1). Managers are less remote and therefore if there is a problem they can sort it out quicker (1). Answers that list three benefits of short chains of commands with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1R | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 = 3 marks Award 1 mark for identification of a method of increasing profit, plus 2 further marks for explaining the impact, for a maximum of 3 marks. • Profits could be increased by cutting costs (1). A small business could cut the number of workers it has or reduce their hours (1) so if the revenue stays the same this will increase the profit (1). NB Answers that list three methods with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1R | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 = 3 marks Award 1 mark for identification of a benefit to a business of using e-newsletters, plus 2 further marks for explaining this benefit for a business, for a maximum of 3 marks. • It can target its existing customers (1). This allows it to introduce new products (1) and this can encourage more sales (1). NB Answers that list three benefits with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1R | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 = 3 marks Award 1 mark for identification of a responsibility of the human resources function, plus 2 further marks for explaining this responsibility, for a maximum of 3 marks. • A responsibility is recruitment (1) whereby the human resources function creates recruitment documents and carries out interviews (1) allowing the business to hire the right person for the job (1). NB Answers that list three responsibilities with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1R | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 = 3 marks Award 1 mark for the identification of a way in which the JIT (just in time) method of stock control might benefit a business, plus 2 further marks for explaining that way, for a maximum of 3 marks. • JIT stock control method could reduce the space needed to hold buffer stock (1) leading to a reduction in storage costs (1) and allow the business to have stock as and when needed (1). NB Answers that list three ways with no explanation of how the JIT method of stock control might benefit a business will get a maximum of 1 mark. No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1 | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 = 3 marks Award 1 mark for identification of a disadvantage, plus 2 further marks for explaining how this will affect a business for a maximum of 3 marks. • Partners may disagree and fall out (1) meaning decision making can take longer (1) stopping the business moving forward with new ideas (1). Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1 | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 = 3 marks Award 1 mark for identification of a purpose of market research, plus 2 further marks for explaining this purpose for a business, for a maximum of 3 marks. • A purpose of market research can be to identify your customers’ needs (1) this will help you to design your products to meet those needs (1) and allow the business to be more successful (1). NB Answers that list three purposes with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1 | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 = 3 marks Award 1 mark for identification of a measure of business success, plus 2 further marks for explaining this measure for a business, for a maximum of 3 marks. • A measure can be through customer satisfaction (1). If customers are happy with the products/services they are likely to revisit the business (1) and this could lead to them recommending the business to friends and family (1). NB Answers that list three measures with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P1 | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 = 3 marks Award 1 mark for the identification of an impact of an increase in interest rates, plus 2 further marks for explaining that impact, for a maximum of 3 marks. • An increase in interest rates could lead to higher costs for a business (1). This can lead to a reduction in profits because each month the business must pay back part of the debt (1) and the interest charged on the loan will be higher (1). Answers that list three impacts of an increase in interest rates with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2R | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 = 3 marks Award 1 mark for identification of a reason for sponsoring an event, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Sponsorship is making a financial contribution to an event (1). This makes more people aware of the business’s products (1). This could, in turn, increase sales of those products (1). Answers that list three reasons with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2R | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 = 3 marks Award 1 mark for identification of a benefit for using penetration pricing, plus 2 further marks for explaining why penetration pricing is beneficial for a business, for a maximum of 3 marks. • By using this method, the business puts its prices lower than other businesses (1). It does this in order to get established in the market (1). Once customers are buying the product the price may increase (1). NB Answers that list three benefits with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2R | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 = 3 marks Award 1 mark for a benefit to using the internet for secondary market research, plus 2 further marks for explaining this benefit, for a maximum of 3 marks. • Using the internet for secondary research enables businesses to access a large volume of data (1). This means that businesses do not have to go out and collect the data themselves, as they find it on the internet (1). This is a much cheaper and quicker way of collecting the required information as someone else has already done it (1). Answers that list three benefits with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2R | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 = 3 marks Award 1 mark for the identification of a benefit of introducing new products, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • A business introduces new products to keep customers interested in the business and the products it sells (1). The business can replace an old product with a new one (1) in order to keep up with trends in the market (1). Answers that list three benefits of introducing new products with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2 | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 = 3 marks Award 1 mark for identification of a factor in Herzberg’s motivational theory, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • One factor is called a hygiene factor (1) workers can become demotivated (1) if hygiene factors such as pay are not met (1). • The other factor is motivator (1) employees gain achievement in their job (1) which allows then to grow and develop (1). Answers that list two factors with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2 | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 = 3 marks Award 1 mark for the identification of a benefit of having full-time employees, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • The workforce remains stable (1). Employees are well prepared for the job they are employed for (1). Opportunities may arise for employees to gain promotion when someone leaves (1). Answers that list three benefits of full-time employees with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2 | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 = 3 marks Award 1 mark for a reason for using seasonal staff, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • Seasonal staff are employed when there is increased demand (1) this could be during holiday periods (1) when the full-time employees cannot meet the demand (1). Answers that list three reasons with no explanation will get a maximum of 1 mark. NB No marks are awarded for a definition. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2020 | P2 | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 = 3 marks Award 1 mark for identification of a reason for undertaking health and safety training, plus 2 further marks for explaining why health and safety training is beneficial to a business, for a maximum of 3 marks. • Employees undertake this training, because it could be the law in that country (1). By undertaking the training, employees are aware of the hazards within their job (1) so they know how to protect themselves when using equipment (1). NB Answers that list three benefits with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2021 | P1 | 1(f)
+==============================================================================
+Question Number Explain one strategy a small business might use to extend the pro duct life cycle of one of its products Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a strategy of extending a product life cycle , plus 2 further marks for explaining the impact, for a maximum of 3 marks. • Local a dvertising could e xtend the life cycle of a product (1) . A small business could deliver lea flets to the local area to increase customer awareness of a product (1) leading to a potential increa s e in sales (1). NB Answers that list three strategies with no explanation will g et a maximum of 1 mark. Accept any other appropriate response . (3) 4BS1/01 Summer 2021
+
+==============================================================================
+=== May-June 2021 | P1 | 2(c)
+==============================================================================
+Question Number Explain one benefit to a busin ess of using secondary market r esearch Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identifica tion of a benefit to a business of using secondary market research , plus 2 further marks for explaining this benefit for a business, fo r a maximum of 3 marks. • Businesses save money by not carry ing out the research themselves (1) as the information is free ly accessible on the internet (1) and they can access a large amoun t of information at no cost (1). NB Answers that list three benefits w ith no expl anation will get a maximum o f 1 mark. Accept any other appropriate response. (3) 4BS1/01 Summer 2021
+
+==============================================================================
+=== May-June 2021 | P1 | 2(d)
+==============================================================================
+Question Number Explain one limitation of a cash flow forecast when making business dec isions Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identificat ion of a li mitation of a cash flow fore c ast , plus 2 further marks for explaining this limitation , for a maximum of 3 marks. • A limitation is that it is a forecast not actual figure (1) . The forecast does not show what happens if goods are not sold (1) or provide a c ontingen cy p lan if this occurs (1) . NB Answers that list three limitations with no explanation will get a ma ximum of 1 mark. Accept any other appropriate response . (3)
+
+==============================================================================
+=== May-June 2021 | P1 | 2(e)
+==============================================================================
+Question Number Explain one benefit to a business of using crowdfun ding as a s ource of fi n ance Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a benefit of usin g crowdfunding as a source of finance, plus 2 further marks for expl aining that benefit , for a maximum of 3 marks. • Crowdfunding can be a fast way to raise fi n ance (1) from many small investors (1) wh en no oth er lender may be available (1) NB Answers th at list three benefits with no explanation will get a maximum of 1 mar k. Accept any other appropriate response. (3) 4BS1/01 Summer 2021 Quest ion Number NOF is c onsi dering two options to introduce the product into the market: Option 1 : offering a low introductory price for three months Option 2: selling at the same price as competitors. J ustify which one of these two options NOF should choose. Indicative content Mark
+
+==============================================================================
+=== May-June 2021 | P2 | 1(f)
+==============================================================================
+Question Number Explain one disadvantage for a business that does not achieve its predicted growth. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark fo r identification of a disadvantage for a business that do es not achieve its p redicted growth , plus 2 further marks for explaining the reason , for a maximum of 3 marks. • Shareholders may not be very happy (1) because if the business does not reach its predicted growth they may not receive dividends (1) and this may mean that they invest in other businesses (1) • If the business does not achieve its predicted growth it may not b e able to expand (1) this means that it may lose some market share (1) as customer s could go elsewhere (1) NB Answers that list three disadvantages with no e xplanation will get 1 mark only . Accept any other appropriate response. (3 )
+
+==============================================================================
+=== May-June 2021 | P2 | 2(c)
+==============================================================================
+Question Number Explain one reason why businesses fail. Answer Mark 2 (c) AO1 - 3 marks Awar d 1 mark for a reason why businesses fail , plus 2 further marks for explaining the reason , for a maximum of 3 marks. • Businesses fail because of cash flow problems (1) this may be that the business has a greater outflow than inflow (1) leading to potential problems paying employees/suppliers (1) NB Answers that list three reasons why a business fails with no e xplanation will get 1 mark only . Accept any other appropriate response. (3 )
+
+==============================================================================
+=== May-June 2021 | P2 | 2(d)
+==============================================================================
+Question Number Explain one reason why a business would use batch production. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason for using batch production , plus 2 further marks for explaining this reason , for a maximum of 3 marks. • A business with a wide range of products may need to produce the m in smaller numbers (1) . They can change the product easily, for example colour /size (1) without incurring too much cost (1) NB Answers that list three reasons with no e xplanation will get 1 mark only . Accept any other appropriate response . (3 )
+
+==============================================================================
+=== May-June 2021 | P2 | 2(e)
+==============================================================================
+Question Number Explain one reason why employees keep their curriculum vitae (CV) up to date. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for identifica tion of a r eason why employees keep their curriculum v itae (CV) up to date , plus 2 further marks for expla ining why having an up to date c urriculum vitae is beneficial to an employee , for a maximum of 3 marks. • It means that an employee can apply for a job straight away (1 ) without having to sp end time updating a CV (1) which avoids missing out on job opportunities (1) NB Answers that list three reasons with no e xplanation will get 1 mark only . Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1R | 1(f)
+==============================================================================
+Question Number Explain one benefit to a business of improving communication with its employees. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a benefit to a business if it improves communication with employees, plus 2 further marks for explaining the benefit, for a maximum of 3 marks. • Employees will have a clear understanding of what has to be done (1) this could mean that fewer mistakes will be made (1) leading to an increase in productivity of employees (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1R | 2(c)
+==============================================================================
+Question Number Explain one method a business could use to encourage repeat purchase of its products Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a method a business could use to encourage repeat purchase of its products, plus 2 further marks for explaining this method, for a maximum of 3 marks. • Issue loyalty cards (1) which could be used to offer special discounts (1) leading to customers being motivated to return to the business rather than its competitors (1) NB Answers that list three methods with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1R | 2(d)
+==============================================================================
+Question Number Explain one disadvantage of using personal savings as a source of finance for a business. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of a disadvantage of using personal savings as a source of finance, plus 2 further marks for explaining this disadvantage, for a maximum of 3 marks. • Money to deal with an emergency may not be available (1) so there is no backup if things go wrong (1) meaning that it may be necessary to find another source of finance (1) NB Answers that list three disadvantages with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1R | 2(e)
+==============================================================================
+Question Number Explain one benefit for a business of motivating its employees. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a benefit of motivating employees, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • Retention of employees (1) avoids spending time and money on recruitment (1) allowing the business to concentrate elsewhere (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1 | 1(f)
+==============================================================================
+Question Number Explain one advantage of being a sole trader. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage of being a sole trader, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • Sole traders have full control of their business (1) this means they can run the business how they want (1) without having to consult with anyone when making decisions (1) NB Answers that list three advantages with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1 | 2(c)
+==============================================================================
+Question Number Explain one benefit to a business of having a flat organisational structure. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a benefit to a business of having a flat organisational structure, plus 2 further marks for explaining this benefit for a business, for a maximum of 3 marks • Businesses will have fewer levels (1) so lines of communication are shorter (1) leading to quicker decision-making (1) NB Answers that list three benefits with no explanation will get 1 mark only Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P1 | 2(d)
+==============================================================================
+Question Number Explain one method a small business may use to increase its profit. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of a method of increasing profit, plus 2 further marks for explaining this method, for a maximum of 3 marks. • Cutting costs (1) such as reducing the number of employees (1) which could increase profit if revenue stays the same (1) NB Answers that list three methods with no explanation will get 1 mark only Accept any other appropriate response (3)
+
+==============================================================================
+=== May-June 2022 | P1 | 2(e)
+==============================================================================
+Question Number Explain one benefit to a business of using the Boston Matrix. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a benefit of using the Boston Matrix, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • The Boston Matrix helps a business to balance its product portfolio (1) showing if they have too many similar products (1) and can lead to identifying when they need to introduce a new product (1) NB Answers that list three benefits with no explanation will get 1 mark only Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2R | 1(f)
+==============================================================================
+Question Number Explain one advantage for businesses if banks reduce their interest rates. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage for a business if the banks reduce their interest rates, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • This means that if a business took out loans (1) monthly repayments would be lower (1) leaving more funds for other business expenses (1) • If the interest rates are reduced, then customers may have more funds available (1) to spend on goods/products (1) thus increasing the turnover of businesses (1) NB No marks are awarded for a definition. Answers that list three advantages with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2R | 2(c)
+==============================================================================
+Question Number Explain one method a business could use to motivate its employees. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for a method a business could use to motivate its employees, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Giving its employees fringe benefits (1) such as discounts off products produced (1) makes them feel that their work is valued (1) • Bonus payments given to employees (1) as an individual or teams (1) when they have met certain targets (1) NB No marks are awarded for a definition. Answers that list three methods why a business could use to motivate its employees, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2R | 2(d)
+==============================================================================
+Question Number Explain one reason why a business has fully trained employees. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why businesses ensure that its employees are fully trained, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • Training is important as it increases the skills and knowledge of the employee (1) so that they can perform their job more effectively (1) thereby increasing productivity (1) • The training keeps employees up-to-date (1) with any new technology/machines (1) so that they can maximise the amount they can produce per hour (1) NB No marks are awarded for a definition. Answers that list three reasons why businesses ensure that its employees are fully trained, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2R | 2(e)
+==============================================================================
+Question Number Explain one reason why many manufacturing businesses use Kaizen in their factories. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for identification why businesses use Kaizen in manufacturing plus 2 further marks for explaining why, for a maximum of 3 marks. • Kaizen means employees are involved in the process of improvement (1) and suggest ways in the manufacturing process (1) that could lead to improved product quality (1) • Kaizen helps to reduce waste (1) as employees understand how to operate the machinery more effectively (1) resulting in lower overall costs for the business (1) NB No marks are awarded for a definition. Answers that list three reasons of why businesses use Kaizen in manufacturing with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2 | 1(f)
+==============================================================================
+Question Number Explain one disadvantage of using questionnaires as a method of market research. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a disadvantage of using a questionnaire, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • If the questionnaire is too long (1) people may be reluctant to complete them (1) and may not give true answers (1) • If there are too many questions then people may not focus properly (1) and this could result in a low rate of return (1) therefore not giving the information required (1) NB No marks are awarded for a definition. Answers that list three disadvantages with no explanation will get a 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2 | 2(c)
+==============================================================================
+Question Number Explain one reason why a business would pay its employees above the minimum wage. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark why a business would pay its employees above the minimum wage, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Paying above the minimum wage will encourage more employees to work at a business (1) as they could be paid more than at a competitor (1) and they are likely to stay with the business because of the payment they receive (1) • Employees will feel more rewarded because of the pay they receive (1) and this could increase their motivation at work (1) and also improve their productivity (1) NB No marks are awarded for a definition. Answers that list three reasons why a business would pay above minimum wage with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2 | 2(d)
+==============================================================================
+Question Number Explain one reason why product trials are important to a business. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why product trials are important, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • Gain customer feedback on a new product (1) identify strength/weaknesses/problems (1) which can then be addressed before the product enters the wider market (1) • By offering a customer a three month trial on electronic games (1) the customer can find out if they like the games (1) and if they do, they may a purchase the game console (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2022 | P2 | 2(e)
+==============================================================================
+Question Number Explain one reason why a business complies with health and safety legislation. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for identification why a business complies with health and safety legislation plus 2 further marks for explaining this reason, for a maximum of 3 marks. • If a business does not comply with the laws given by the country (1) they could be fined/sued if there was an accident or someone was injured (1) and the business could be fined/closed down for not complying with the legislation (1) • It ensures all staff are protected against injuries (1) meaning less days are lots to illness (1) and reducing the need to get in temporary cover saving costs (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get a 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P1R | 1(f)
+==============================================================================
+Question Number Explain one reason why many businesses have a human resource function. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for a reason why businesses have a human resource function, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • To recruit employees (1) by identifying a vacancy in the business (1) and finding the right person for that vacancy (1) NB Answers that list three reasons with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P1R | 2(c)
+==============================================================================
+Question Number Explain one impact on a business of ineffective communication. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of an impact to a business of ineffective communication, plus 2 further marks for explaining this impact, for a maximum of 3 marks. • This can create misunderstanding between owners and employees (1) as employees may not be clear of what they are supposed to be doing (1) and this could lead to errors being made (1) NB Answers that list three impacts with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P1R | 2(d)
+==============================================================================
+Question Number Explain one advantage to a business of having a decentralised organisation. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for an advantage to a business of having a decentralised organisation, plus 2 further marks for explaining this advantage, for a maximum of 3 marks. • The business can react to changes quicker (1) because they do not need to run decisions through many layers (1) leading to decisions being made that meet the needs of local customers (1) NB Answers that list three advantage with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P1R | 2(e)
+==============================================================================
+Question Number Explain one benefit to a business of using seasonal employees. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a benefit of using seasonal employees, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • This gives the business flexibility with its workforce (1) by having more employees at busier times (1) allowing them to meet the demands of customers at certain times of the year (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any other appropriate response. (3) Question Number PPS is looking to improve its revenue and is considering two options. Option 1: trial a new brand of dog food in the shop Option 2: sponsor a local dog show. Justify which one of these two options PPS should choose. Indicative content Mark
+
+==============================================================================
+=== May-June 2024 | P1 | 1(f)
+==============================================================================
+Question Number Explain one advantage to a start-up business of using a venture capitalist. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage of using a venture capitalist, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • Venture capitalists can be specialists (1) who may bring skills and new ideas to the business (1) giving it a greater chance of success (1) NB Answers that list three advantages with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P1 | 2(c)
+==============================================================================
+Question Number Explain one responsibility of the human resources function. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a responsibility of the human resources function, plus 2 further marks for explaining this responsibility for a business, for a maximum of 3 marks • Recruitment and selection of employees (1) that includes placing job adverts/interviewing/appointing candidates (1) leading to the most suitable applicant going through (1) NB Answers that list three responsibilities with no explanation will get 1 mark only Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P1 | 2(d)
+==============================================================================
+Question Number Explain one advantage of being in a partnership. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of an advantage of being in a partnership, plus 2 further marks for explaining this advantage, for a maximum of 3 marks. • Each partner can bring their own experience and expertise (1) specialising in their own area of skill (1) thus increasing the chances of its success (1) NB Answers that list three advantages with no explanation will get 1 mark only Accept any other appropriate response (3)
+
+==============================================================================
+=== May-June 2024 | P1 | 2(e)
+==============================================================================
+Question Number Explain one disadvantage to a business of having a hierarchical organisational structure. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a disadvantage of having a hierarchical organisational structure, plus 2 further marks for explaining that disadvantage, for a maximum of 3 marks. • Communication through many layers can be difficult (1) there is a long chain of command (1) possibly leading to slow decision making (1) NB Answers that list three disadvantages with no explanation will get 1 mark only Accept any other appropriate response. (3) Question Number Café Pinch is considering two options: Option 1: introduce a vegan range of products Option 2: a special offer of 7.5% off to customers on Wednesday mornings 9am – 12pm Justify which one of these two options Café Pinch should choose Indicative content Mark
+
+==============================================================================
+=== May-June 2024 | P2R | 1(f)
+==============================================================================
+1 (f) AO1 - 3 marks Award 1 mark for a valid reason why businesses comply with equal opportunities legislation, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Businesses comply with the law as it is a legal requirement. (1) They cannot discriminate against a person because of gender/race/age. (1) The business could be taken to court and sued if they do not comply (1) • If the business is not compliant with legislation (1) then employers (1) are liable to be sued (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Analyse two problems for Jimmy Choo if customer needs are not satisfied. Indicative content Mark
+
+==============================================================================
+=== May-June 2024 | P2R | 2(c)
+==============================================================================
+2 (c) AO1 - 3 marks Award 1 mark for an advantage to a country being a member of a trading bloc, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • Being a member of a trading bloc gives access to other markets within the trading bloc. (1) This means that prices between the countries will be competitive (1) as there will be no additional costs involved (1) • It gives a wider choice of goods for consumers (1) as the goods move freely with limited trade restrictions (1) from one country to another country (1) NB No marks are awarded for a definition. Answers that list three advantages to a country being a member of a trading bloc, with no explanation will get a maximum of 1 mark. Accept any appropriate response. (3) Q. No. Explain one way businesses support employees with disabilities. Answer Mark
+
+==============================================================================
+=== May-June 2024 | P2R | 2(d)
+==============================================================================
+2 (d) AO1 - 3 marks Award 1 mark for identification of one way businesses support employees with disabilities, plus 2 further marks for explaining the benefits, for a maximum of 3 marks. • Businesses aim to ensure that they do not discriminate against disabled employees (1) employing a person who has limited mobility (1) means that the business may have to make reasonable adjustments to the premises (1) • If an employee has a disability, this should not affect their promotion prospects (1) if they apply for an internal promotion (1) so that they are treated the same as the other candidates (1) NB No marks are awarded for a definition. Answers that list three ways with no explanation will get 1 mark only. Accept any appropriate response. (3)
+
+==============================================================================
+=== May-June 2024 | P2R | 2(e)
+==============================================================================
+Question Number Explain one impact on a business of an increase in interest rates. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for one impact on a business of an increase in interest rates plus 2 further marks for explaining why, for a maximum of 3 marks. • An increase in interest rates could lead to an increase in financing costs for a business. (1) This could lead to a reduction in profits (1) and affect the growth/expansion of a business (1) • An increase in interest rates may mean customers have less money to spend (1) this may mean that they will only buy the essentials they need (1) and a business may see a reduction in its revenue (1) NB No marks are awarded for a definition. Answers that list three impacts on a business of an increase in interest rates with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3) Q. No. Option 1: casual employees Option 2: part-time employees. Justify which one of these two options Jimmy Choo should choose. Indicative content Mark
+
+==============================================================================
+=== May-June 2024 | P2 | 1(f)
+==============================================================================
+1 (f) AO1 - 3 marks Award 1 mark for identification of a factor in Herzberg’s motivational theory, plus 2 further marks for explaining the theory, for a maximum of 3 marks. • One is called a hygiene factor (1) where employees are paid for their work (1) which means employees gain security knowing they can pay their bills (1) • One is called a motivator factor (1) employees gain achievement in their work (1) which allows them to grow and develop (1) NB No marks are awarded for a definition. Answers that list three factors with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Analyse the benefits for TUI from including health and safety training for its employees in their induction training. Indicative content Mark
+
+==============================================================================
+=== May-June 2024 | P2 | 2(c)
+==============================================================================
+2 (c) AO1 - 3 marks Award 1 mark for identification of a reason why businesses employ people with disabilities, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Employing people with a disability gives them an equal opportunity of working (1) which improves their lifestyle (1) and develops the skills they have (1) • Businesses must follow government legislation relating to disabled people (1) if businesses do not follow the legislation (1) they can be sued (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Explain one benefit to a business of having a short chain of command. Answer Mark
+
+==============================================================================
+=== May-June 2024 | P2 | 2(d)
+==============================================================================
+2 (d) AO1 - 3 marks Award 1 mark for identification of one benefit to a business of having a short chain of command, plus 2 further marks for explaining the benefits, for a maximum of 3 marks. • Communication within a business would be faster (1) as there are less levels to go through (1) so fewer mistakes may be made (1) • A short chain means that workers and managers work closely together. (1) Managers are less remote (1) and if there is a query it can be answered quickly (1) NB No marks are awarded for a definition. Answers that list three benefits with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Explain one important piece of information that should be included in a job advertisement in a newspaper. Answer Mark
+
+==============================================================================
+=== May-June 2024 | P2 | 2(e)
+==============================================================================
+2 (e) AO1 - 3 marks Award 1 mark for identification of one important piece of information that should be included in a job advertisement in a newspaper, plus 2 further marks for explaining the importance, for a maximum of 3 marks. • An address, telephone number or website (1) to use for making contact (1) this range would give a greater choice to applicants (1) • By including the salary in the advertisement (1) people will apply if the amount offered is of interest to them (1) saving applicants time and effort so they apply for the job they want (1) NB No marks are awarded for a definition. Answers that list three pieces of information with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Option 1: competition pricing Option 2: promotional pricing Justify which one of these two options TUI should choose. Indicative content Mark
+
+==============================================================================
+=== May-June 2025 | P1R | 1(f)
+==============================================================================
+Question Number Explain one benefit to the business owner of operating as a private limited company. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for a benefit to an owner of a private limited company, plus 2 further marks for explaining the benefit, for a maximum of 3 marks. • A private limited company has limited liability (1) which reduces the risk of ownership (1) as personal possessions will be protected in the event the business has to pay back any outstanding debts (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2025 | P1R | 2(c)
+==============================================================================
+Question Number Explain one way a business could increase its profit. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a way a business could increase its profit, plus 2 further marks for explaining this way, for a maximum of 3 marks. • Increase the price of the product (1) if customers feel the quality is high they may be willing to pay the new price (1) and if costs stay the same profit will increase (1) NB Answers that list three ways with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2025 | P1R | 2(d)
+==============================================================================
+Question Number Explain one way that the introduction of tariffs might affect a business importing goods. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a way that the introduction of tariffs might affect a business importing goods, plus 2 further marks for explaining this impact, for a maximum of 3 marks. • Imported products will now become more expensive (1) because of the tax imposed on imports (1) which may lead to a decrease in sales for the importer NB Answers that list three impacts with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2025 | P1R | 2(e)
+==============================================================================
+Question Number Explain one reason why quality control is important to a business. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why quality control is importance to a business, plus 2 further marks for explaining that reason, for a maximum of 3 marks. • Improved customer satisfaction (1) as defects would be identified before goods are despatched to customers (1) leading to fewer returns from customers (1) NB Answers that list three reasons with no explanation will get 1 mark only. Accept any other appropriate response. (3) Question Number The owner of CCT wants to measure the success of the business. The owner is considering two options: Option 1: customer satisfaction Option 2: profit Justify which one of these two options the owner of CCT should choose. Indicative content Mark
+
+==============================================================================
+=== May-June 2025 | P1 | 1(f)
+==============================================================================
+Question Number Explain one impact to a business of providing fringe benefits to employees. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for an impact to a business of providing fringe benefits to employees, plus 2 further marks for explaining the impact, for a maximum of 3 marks. • Lower staff turnover (1) which reduces recruitment costs (1) as they will not need to find new employees (1) NB Answers that list three impacts with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2025 | P1 | 2(c)
+==============================================================================
+Question Number Explain one advantage to a business of using total quality management. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of an advantage to a business of using total quality management, plus 2 further marks for explaining this advantage, for a maximum of 3 marks. • Increased customer satisfaction (1) as managing quality is the responsibility of all employees (1) so they will be fully trained to complete their role effectively and consistently (1) NB Answers that list three advantages with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2025 | P1 | 2(d)
+==============================================================================
+Question Number Explain one problem a business might face as a result of ineffective communication. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a problem a business might face as a result of ineffective communication, plus 2 further marks for explaining this problem, for a maximum of 3 marks. • Employees may become demotivated as they do not understand what they have to do (1) leading to lower levels of productivity (1) and increased costs for the business (1) NB Answers that list three problems with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May-June 2025 | P1 | 2(e)
+==============================================================================
+Question Number Explain one disadvantage to a small business of borrowing money from a bank. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a disadvantage to a small business of borrowing money from a bank, plus 2 further marks for explaining that disadvantage, for a maximum of 3 marks. • Borrowing from a bank means the business has to pay back the loan with interest (1) which will increase its costs (1) leading to a reduction in profit (1) NB Answers that list three disadvantages with no explanation will get 1 mark only. Accept any other appropriate response. (3) Question Number Four Fitness is looking to introduce a new service to increase its market share. It is considering two options. Option 1: as part of its monthly subscription price, members are given a ‘Technogym Electronic Key’ which is inserted into the gym equipment. The key will track and store their progress. An instructor helps them to analyse their progress. Option 2: introduce links to online fitness classes on its website which can be accessed from home. Customers will be charged for each fitness class downloaded. Indicative content Mark
+
+==============================================================================
+=== May-June 2025 | P2R | 1(f)
+==============================================================================
+1 (f) AO1 - 3 marks Award 1 mark for identification of a reason why an employer might use a letter to communicate with an employee, plus 2 further marks, for a maximum of 3 marks. • Letters are private way of communicating (1) a job offer/promotion/suspension/redundancy with an employee (1) to confirm the next stage in the process (1) • Letters are a formal way of communication (1) as it portrays a professional image for the business (1) and is personal to an employee (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Analyse two benefits to Rabanne of being a global business. Indicative content Mark
+
+==============================================================================
+=== May-June 2025 | P2R | 2(c)
+==============================================================================
+2 (c) AO1 - 3 marks Award 1 mark for identification of a reason why some businesses fail, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Poor cashflow can lead to failure (1) from a lack of finance (1) to pay suppliers and other debtors (1) • Prices could be too high and therefore not competitive (1) which could result in a fall in demand (1) leading to a lack of revenue (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Explain one reason why a business would use targeted advertising online to promote itself. Answer Mark
+
+==============================================================================
+=== May-June 2025 | P2R | 2(d)
+==============================================================================
+2 (d) AO1 - 3 marks Award 1 mark for identification of one reason why a business would use targeted advertising online to promote itself, plus 2 further marks for explaining the benefits, for a maximum of 3 marks. • The business can send information to customers who have purchased from them before (1) and are more likely to purchase again (1) which can lead to improved customer loyalty (1) • The business could promote to a specific demographic (1) using different online activities (1) which may lead to increased brand awareness (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Explain one reason why businesses use statements of comprehensive income when making decisions. Answer Mark
+
+==============================================================================
+=== May-June 2025 | P2R | 2(e)
+==============================================================================
+2 (e) AO1 - 3 marks Award 1 mark for identification of one reason why businesses use statements of comprehensive income when making decisions, plus 2 further marks for explaining the importance, for a maximum of 3 marks. • A business can see how the business is performing (1) and can calculate the profit margin (1) along with other calculations if the performance has deteriorated (1) • Businesses can use it to compare itself to similar businesses (1) which will enable them to judge its performance against competitors (1) giving an indication of how well the business is doing (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Option 1: communicate all information through text messaging/email Option 2: hold weekly meetings Justify which one of these two options Rabanne should choose. Indicative content Mark
+
+==============================================================================
+=== May-June 2025 | P2 | 1(f)
+==============================================================================
+1 (f) AO1 - 3 marks Award 1 mark for identification of a disadvantage for a business training its employees, plus 2 further marks, for a maximum of 3 marks. • Training employees takes a great deal of time (1) and needs existing employees to carry out the training (1) which can reduce the productivity of the business (1) • Existing employees have to be taught how to train employees (1) which incurs additional expense (1) for the business and there is no guarantee they are trained efficiently (1) NB No marks are awarded for a definition. Answers that list three disadvantages with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Analyse the benefits for Starbucks of using batch production. Indicative content Mark
+
+==============================================================================
+=== May-June 2025 | P2 | 2(c)
+==============================================================================
+2 (c) AO1 - 3 marks Award 1 mark for identification of a reason why many manufacturing business use just-in-time (JIT), plus 2 further marks for explaining the reason, for a maximum of 3 marks. • JIT reduces the amount of inventory held by a business (1) reducing the costs associated with over ordering of inventory (1) meaning overall costs for a business may be reduced (1) • JIT reduces the amount of out-of-date or damaged stock (1) reducing the amount of storage space required for inventory (1) and this can then be used for other business activities (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get a 1 mark only. Accept any appropriate response. (3) Q. No. Explain one reason why it is important that businesses pay their suppliers on time. Answer Mark
+
+==============================================================================
+=== May-June 2025 | P2 | 2(d)
+==============================================================================
+2 (d) AO1 - 3 marks Award 1 mark for identification of one reason why it is important for a business of paying its suppliers on time, plus 2 further marks for explaining the reason for a maximum of 3 marks. • Paying suppliers on time establishes a good relationship with suppliers (1) and if a business needs goods urgently from them (1) they would be more likely to help them knowing they would be paid on time (1) • Paying on time, gives the business better negotiating powers with the supplier (1) so that if the supplier trusts them they may negotiate better prices (1) thus keeping its costs down (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get a 1 mark only. Accept any appropriate response. (3) Q. No. Explain one effect on a business if interest rates are decreased. Answer Mark
+
+==============================================================================
+=== May-June 2025 | P2 | 2(e)
+==============================================================================
+2 (e) AO1 - 3 marks Award 1 mark for identification of an effect on a business if the interest rates are decreased, plus 2 further marks for explaining the importance, for a maximum of 3 marks. • A decrease in interest rates reduces the cost of borrowing for a business (1) making it cheaper to finance new projects/expansion (1) improving the profitability of the business (1) • This could increase sales income for a business (1) because consumers may have more money to spend (1) on additional items they might want, which the business sells (1) NB No marks are awarded for a definition. Answers that list three effects with no explanation will get 1 mark only. Accept any appropriate response. (3) Q. No. Option 1: financial methods Option 2: non-financial methods. Justify which one of these two methods Starbucks should choose. Indicative content Mark
+
+==============================================================================
+=== May 2023 | P1R | 1(f)
+==============================================================================
+Question Number Explain one reason why a business might fail. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a reason why a business might fail, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • A lack of finance (1) from poor cashflow can lead to its failure (1) leading to an issue of paying for inventory to sell on to customers (1) NB Answers that list three reasons with no explanation will get 1 mark only. Accept any other appropriate response. (3) 4BS1/01R Summer 2023
+
+==============================================================================
+=== May 2023 | P1R | 2(c)
+==============================================================================
+Question Number Explain one impact of ineffective communication on a business. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of an impact of ineffective communication on a business, plus 2 further marks for explaining the impact, for a maximum of 3 marks. • More mistakes could be made (1) as employees will not know what they are doing (1) leading to low customer satisfaction (1) NB Answers that list three impacts with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P1R | 2(d)
+==============================================================================
+Question Number Explain one advantage of a partnership. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of an advantage of a partnership, plus 2 further marks for explaining this advantage, for a maximum of 3 marks. • Different partners may have different skills (1) and be able to offer a wider range of services (1) which could lead to increased business (1) NB Answers that list three advantages with no explanation will get 1 mark only. Accept any other appropriate response. (3) 4BS1/01R Summer 2023
+
+==============================================================================
+=== May 2023 | P1R | 2(e)
+==============================================================================
+Question Number Explain one disadvantage to a business of product orientation. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a disadvantage to a business of product orientation, plus 2 further marks for explaining that disadvantage, for a maximum of 3 marks. • Product may not suit the needs of the customer (1) so potential customers may go elsewhere (1) resulting in the business losing sales (1) NB Answers that list three disadvantages with no explanation will get 1 mark only. Accept any other appropriate response. (3) 4BS1/01R Summer 2023 Question Number Aude Rose is considering two options. Option 1: sponsor a local event such as a flower show Option 2: advertise, using leaflets around Paris. Justify which one of these two options Aude Rose should choose. Indicative content Mark
+
+==============================================================================
+=== May 2023 | P1 | 1(f)
+==============================================================================
+Question Number Explain one benefit for a business that uses test marketing. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a benefit for a business that uses test marketing, plus 2 further marks for explaining the benefit, for a maximum of 3 marks. • The risk of failure is reduced (1) as the new product is only tested in one area gaining feedback from customers (1) leading to modifications being made before the final launch (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P1 | 2(c)
+==============================================================================
+Question Number Explain one way a business could use e-newsletters. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a way a business could use e-newsletters, plus 2 further marks for explaining this way, for a maximum of 3 marks. • E-newsletters can be personalised based on a customer’s previous transactions (1) it could include special discounts just for them (1) leading to customers being motivated to return (1) NB Answers that list three ways with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P1 | 2(d)
+==============================================================================
+Question Number Explain one way a business could use market research information. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of a way a business could use market research information, plus 2 further marks for explaining this way, for a maximum of 3 marks. • To find out what customers think of their products (1) so they can act on any relevant feedback given (1) and therefore better meet the needs of customers (1) NB Answers that list three ways with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P1 | 2(e)
+==============================================================================
+Question Number Explain one benefit to a business that has a decentralised organisational structure. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a benefit to a business that has a decentralised organisational structure, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • Employees may be better motivated (1) as they can share their ideas with the fellow employees (1) and can be part of the decision making process (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any other appropriate response. (3) Question Number Irsi Chocolatier is considering using: Option 1: batch production Option 2: job production. Justify which one of these two options Irsi Chocolatier should choose. Indicative content Mark
+
+==============================================================================
+=== May 2023 | P2R | 1(f)
+==============================================================================
+Question Number Explain one advantage of becoming a multinational business. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for an advantage of a business becoming a multinational plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • A multinational business has a global supplier base (1) that is able to supply a range of components/products (1) and this could increase revenue (1) • Multinationals operate in many different countries (1) this makes the movement of products easier (1) as trade barriers are reduced (1) NB No marks are awarded for a definition. Answers that list two reasons with no explanation will gain 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2R | 2(c)
+==============================================================================
+Question Number Explain one reason why branding is important to businesses. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for why branding is important to businesses plus 2 further marks for explaining the importance, for a maximum of 3 marks. • Branding is important because it differentiates the products of a business from others (1) this helps customers identify the brand they want (1) and maintains loyalty (1) • By branding its products manufacturers develop a strong image of the business’ product (1) this could increase the price of products (1) resulting in the strong brand being worth a great deal of money (1) NB No marks are awarded for a definition. Answers that list three reasons why branding is important to a business, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2R | 2(d)
+==============================================================================
+Question Number Explain one way businesses ensure that all employees have equal opportunities. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why businesses ensure that all employees have equal opportunities, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • Businesses ensure that they employ both men and women (1) and any training offered is open to everyone (1) so that they do not disadvantage any one (1) • Employees are paid the same salary (1) if they carry out the same or similar work (1) so that they do not discriminate in any way (1) NB No marks are awarded for a definition. Answers that list three reasons why business ensure that all employees have equal opportunities, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2R | 2(e)
+==============================================================================
+Question Number Explain one reason why businesses maintain the quality of their products. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why businesses maintain the quality of their products plus 2 further marks for explaining why, for a maximum of 3 marks. • Consumers expect quality products (1) and to perform the function for which they were bought (1) failure to do this could lose customers to competitors (1) • By offering quality goods (1) a business could gain a competitive edge (1) which could result in charging higher prices (1) NB No marks are awarded for a definition. Answers that list three reasons of why businesses maintain the quality of products with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2 | 1(f)
+==============================================================================
+Question Number Explain one reason why businesses want to use resources effectively in manufacturing. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for a reason why businesses want to use resources effectively plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Being effective in the use of resources reduces waste (1) this could decrease the amount of inventory held (1) thus lowering the expenses of the business (1) • If a business uses fewer machines to manufacture goods (1) this will make the business more efficient (1) allowing for greater productivity (1) NB No marks are awarded for a definition. Answers that list two reasons with no explanation will gain 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2 | 2(c)
+==============================================================================
+Question Number Explain one reason why cash flow forecasting is important to a business. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for why cash flow forecasting is important to a business plus 2 further marks for explaining the reason, for a maximum of 3 marks. • By using a cash flow forecast businesses can plan for the future (1) by estimating the amount of revenue coming in (1) and also the amount going out of the business (1) • By using a cash flow forecast a business can identify periods where there may be insufficient funds (1) to carry out the work required (1) so they can plan for that situation and make adjustments to enable survival (1) NB No marks are awarded for a definition. Answers that list three reasons why cash flow forecasting is important to a business, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2 | 2(d)
+==============================================================================
+Question Number Explain one reason why diseconomies of scale may occur. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why diseconomies of scale may occur, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • The business may become too large (1) which then demotivates employees (1) resulting in falling productivity levels (1) • The business relies more on bureaucracy (1) meaning that more time is spent in administration (1) resulting in decision making being slower (1) NB No marks are awarded for a definition. Answers that list three reasons why diseconomies of scale may occur, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== May 2023 | P2 | 2(e)
+==============================================================================
+Question Number Explain one reason why businesses continually design new products. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why businesses continually design new products plus 2 further marks for explaining why, for a maximum of 3 marks. • By designing new products, it keeps existing customer interested (1) this may mean that they will visit a store to see and purchase the new goods (1) increasing profit for the business (1) • Fashions constantly change (1) and if a business does not introduce new products (1) they may find that demand for their products decreases (1) NB No marks are awarded for a definition. Answers that list three reasons of why businesses design new products with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2021 | P1 | 1(f)
+==============================================================================
+Question Number Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a measure of success, plus 2 further marks for explaining this measure, for a maximum of 3 marks. • Market share can be used to measure the success of a business (1). Changes in market share will show how well or not the business is doing (1) and help them to make decisions for the business (1). NB Answers that list three measures of success with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2021 | P1 | 2(c)
+==============================================================================
+Question Number Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a benefit to a business of being a partnership, plus 2 further marks for explaining this benefit for a business, for a maximum of 3 marks. • The business gains investment from each partner (1) increasing the capital available to the partnership (1) which can help the business to expand (1). NB Answers that list three benefits of being a partnership with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3) 4BS1/01 November 2021
+
+==============================================================================
+=== November 2021 | P1 | 2(d)
+==============================================================================
+Question Number Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of a way social media can be used by a business, plus 2 further marks for explaining this way, for a maximum of 3 marks. • Creating a targeted advertising campaign (1) where the business can send a specific advert to a targeted group (1) who may be interested in the product or service (1). NB Answers that list three ways of using social media with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2021 | P1 | 2(e)
+==============================================================================
+Question Number Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a business benefit that comes from introducing TQM, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • One benefit is improved product quality (1). This is because everyone is working as a team (1) and so fewer mistakes are likely to be made (1). NB Answers that list three benefits of using TQM with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3) 4BS1/01 November 2021
+
+==============================================================================
+=== November 2021 | P2 | 1(f)
+==============================================================================
+Question Number Explain one advantage for a business of using sponsorship. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage of a business of using sponsorship, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • By sponsoring an event the business will gain publicity (1) the event could be local, national or global (1) this would mean the business would cover a wide spectrum of people (1) • By sponsoring an event brand awareness will be increased (1) this could encourage followers of the event to consider purchasing from the business (1) leading to increased revenue/profits (1) NB Answers that list three advantages with no explanation will get 1 mark only. Accept any other appropriate response. (3) 4BS1 02 November 2021
+
+==============================================================================
+=== November 2021 | P2 | 2(c)
+==============================================================================
+Question Number Explain one reason why having good public relations is important to a business. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark why good public relations is important to a business, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • By a business having good public relations means it is likely to improve its brand image (1). This could lead to increased sales and (1) overall profitability (1) NB No marks are awarded for a definition. Answers that list three reasons why good public relations are important to a business with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2021 | P2 | 2(d)
+==============================================================================
+Question Number Explain one benefit of being a multinational business. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a benefit of being a multinational business, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • Multinationals operate globally (1). So, if the sales are low in one country this can be offset by high sales in another country (1) thus, thereby spreading the risk for the business (1) NB Answers that list three reasons with no explanation will get 1 mark only. Accept any other appropriate response. (3) 4BS1 02 November 2021
+
+==============================================================================
+=== November 2021 | P2 | 2(e)
+==============================================================================
+Question Number Explain one reason why secondary research would be used by a business. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why secondary research would be of interest to a business, plus 2 further marks for explaining why it would be of interest to a business, for a maximum of 3 marks. • Secondary research already exists and is available (1) this can save a business a great deal of time and effort in collecting such information (1). The information can then be used to help the business to further develop its products or gain information on other businesses (1) NB Answers that list three reasons with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3) 4BS1 02 November 2021
+
+==============================================================================
+=== November 2023 | P1 | 1(f)
+==============================================================================
+Question Number Explain one benefit to a business that operates as a sole trader. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for identification of a benefit to a business that operates as a sole trader, plus 2 further marks for explaining the benefit, for a maximum of 3 marks. • Independence of the owner (1) which means they can make decision without reference to anyone else (1) eliminating any conflicts or disagreements within the business (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P1 | 2(c)
+==============================================================================
+Question Number Explain one benefit of globalisation to a small business. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for identification of a benefit of globalisation to a small business, plus 2 further marks for explaining this benefit, for a maximum of 3 marks. • A small business can reach a larger audience of customers (1) because it can sell its products into new countries (1) leading to increased revenue and profitability for the business (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P1 | 2(d)
+==============================================================================
+Question Number Explain one method of below-the-line promotion a business may use to retain its customers. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for identification of a method of below-the-line promotion a business could use, plus 2 further marks for explaining this method, for a maximum of 3 marks. • Existing customers may be offered sales promotions/discounts (1) with the aim of enticing customers to buy at a lower price (1) and therefore encourage repeat sales by its customers (1) NB Answers that list three methods with no explanation will get 1 mark only. Accept any appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P1 | 2(e)
+==============================================================================
+Question Number Explain one benefit to a business of using market segmentation to target its customers. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for the identification of a benefit to a business of using market segmentation to target its customers, plus 2 further marks for explaining that benefit, for a maximum of 3 marks. • To identify customers with similar characteristics (1) in order to develop a product or service which meets those customers' needs (1) leading to an increase in sales and consumer loyalty (1) NB Answers that list three benefits with no explanation will get 1 mark only. Accept any appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P2 | 1(f)
+==============================================================================
+Question Number Explain one purpose for a business of the statement of financial position. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for a purpose of the statement of financial position plus 2 further marks for explaining the purpose, for a maximum of 3 marks. • By reviewing its financial position, a business can see how the business is performing (1) it may decide to expand further if it has the funds (1) by introducing new products to sell (1) • If a business has liabilities (1) it may want to find ways to reduce its expenditure (1) by decreasing the amount of stock it holds (1) NB No marks are awarded for a definition. Answers that list three purposes with no explanation will gain 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P2 | 2(c)
+==============================================================================
+Question Number Explain one reason why some businesses use crowdfunding as a source of finance. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for a reason why some businesses use crowdfunding as a source of finance plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Using crowdfunding can be a fast way to raise finance (1) from many investors (1) who may do this for the success of the business (1) • Crowdfunding is organised online (1) and can come from anywhere in the world (1) giving access to a wide number of investors (1) NB No marks are awarded for a definition. Answers that list three reasons why some businesses use crowdfunding as a source of finance, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P2 | 2(d)
+==============================================================================
+Question Number Explain one disadvantage to a business of using retained profits to purchase goods and services. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a disadvantage to a business of using retained profit to purchase goods and services, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • Using retained profit reduces the amount of funds available for the business to use. (1) If there is an emergency where funds are needed such as a machine breaking down (1) the business may not have the funds to get it repaired (1) • By using its retained profit to purchase new machinery (1) the business may not have the funds (1) to pay the rent or wages of employees (1) NB No marks are awarded for a definition. Answers that list three disadvantages to a business of using retained profits to purchase goods and services, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2023 | P2 | 2(e)
+==============================================================================
+Question Number Explain one reason why the quality of goods manufactured by a business is important to its success. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why the quality of goods manufactured by a business is important to its success plus 2 further marks for explaining why, for a maximum of 3 marks. • Manufacturing quality goods can lead to a good reputation for the business (1) thus encouraging more people to purchase the goods (1) which increases the sales for the business (1) • Increased competition from other businesses is why quality is important (1) the higher the quality of goods can increase customer purchases (1) which will then increases the profits of the business (1) NB No marks are awarded for a definition. Answers that list three reasons of why the quality of goods manufactured by a business is important to its success with no explanation will get 1 mark only. Accept any other appropriate response. (3) Question Number Kraft Heinz constantly aims to promote its products to encourage people to increase sales. To do this Kraft Heinz is considering using the following techniques. Option 1: sponsorship of a local charity Option 2: increasing the number of special offers. Indicative content Mark
+
+==============================================================================
+=== November 2024 | P1 | 1(f)
+==============================================================================
+Question Number Explain one advantage to a business of having limited liability. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for an advantage to a business of having limited liability plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • As the business exists as a separate legal entity (1) if the business goes into debt (1) this means the business owners are protected from losing their personal assets (1) • The business may raise large amounts of finance through selling shares (1) as investors only risk losing the value of their shares if the business fails (1) therefore the added finance will help the business to expand (1) NB No marks are awarded for a definition. Answers that list three advantages to a business of having limited liability with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2024 | P1 | 2(c)
+==============================================================================
+Question Number Explain one disadvantage for a business of using flow production to produce its goods. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for one disadvantage to a business of using flow production, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • The employees may get bored on the production line (1) as job roles are likely to be monotonous (1) leading to poorly motivated employees/high labour turnover (1) • The production facility may be inflexible (1) as the goods produced are standardised/similar (1) which may prevent the business from tailoring its products to individual tastes of its customers (1) NB No marks are awarded for a definition. Answers that list three disadvantages of a business using flow production with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2024 | P1 | 2(d)
+==============================================================================
+Question Number Explain one method of above the line promotion a business may use to increase its sales revenue. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for an above the line promotion method a business might use to increase its sales revenue, plus 2 further marks for explaining this method, for a maximum of 3 marks. • A business may use television advertising (1) as this form of advertising may be viewed by a wide audience (1) leading to increased awareness of the product (1) • A business could use billboards (1) which can be seen by many people as they drive in their cars or walk in busy areas (1) leading to increased brand recognition of the products (1) NB No marks are awarded for a definition. Answers that list three above the line promotion methods a business might use to sell more products, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2024 | P1 | 2(e)
+==============================================================================
+Question Number Explain one reason why the proximity to materials is important to a business when locating to a new factory. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why proximity of material is important to a business when locating to a new factory, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Locating close to materials may reduce delivery costs (1) as the material only has to travel a short distance to the new factory (1) which reduces total cost/increases the profitability of the business (1) • Access to materials which are close to the new factory may save time (1) because if the business runs out of inventory (1) it could be delivered quickly and prevent delays in production (1) NB No marks are awarded for a definition. Answers that list three reasons why proximity of material is important, with no explanation will get a maximum of 1 mark Accept any other appropriate response. (3) Question Number When Saha expands its business it will require additional finance. It is considering two options: Option 1: crowdfunding Option 2: loan capital Justify which one of these two options Saha should choose. Indicative content Mark
+
+==============================================================================
+=== November 2024 | P2 | 1(f)
+==============================================================================
+Question Number Explain one advantage of using focus groups when carrying out market research. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for an advantage of using focus groups when carrying out market research, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • By using focus groups researchers can talk directly to the people in the group (1) this means that they may get a more truthful answer (1) which may allow researchers to gain in-depth insights into consumers’ thought, feelings and motivations (1) • Focus groups allow a variety of people to discuss the research being carried out (1) detailed notes of the discussion can be taken (1) which can then be used and analysed at a later date (1) NB No marks are awarded for a definition. Answers that list two advantages with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2024 | P2 | 2(c)
+==============================================================================
+Question Number Explain one reason why a business would use robotics in its production. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for a reason why a business would use robotics in its production, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Using robots in the production process reduces production errors (1) as robots can be programmed to do the same thing time after time (1) products can be made with greater consistency/higher quality (1) • Using robotics in the production process increases the number of goods produced (1) reducing the cost of production (1) leading to the possibility of greater profits (1) NB No marks are awarded for a definition. Answers that list three reasons why a business would use robotics in its production, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2024 | P2 | 2(d)
+==============================================================================
+Question Number Explain one reason why a business might use sponsorship. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for a reason why business might use sponsorship, plus 2 further marks for explaining this reason, for a maximum of 3 marks. • If a business sponsored an event the business would gain publicity (1) this would mean the business would raise awareness in a wide range of people (1) which may attract new customers (1) • The business would gain brand awareness from any sponsorship (1) this could encourage followers of the event to consider purchasing from the business (1) leading to increased revenue/profits (1) NB No marks are awarded for a definition. Answers that list three reasons why a business might use sponsorship to promote itself, with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2024 | P2 | 2(e)
+==============================================================================
+Question Number Explain one advantage for a country of being in a trading bloc. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for an advantage for a country being in a trading bloc, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • Businesses within a country can trade with no tariff barriers (1) This means that there will be no additional costs involved (1) therefore prices could be lower (1) • It gives a wider choice of goods for consumers (1) as the goods move freely with no trade restrictions (1) from one country to another country (1) NB No marks are awarded for a definition. Answers that list three advantages why a business is in a trading bloc, with no explanation will get a maximum of 1 mark Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2025 | P1 | 1(f)
+==============================================================================
+Question Number Explain one advantage to an individual of being a sole trader. Answer Mark 1 (f) AO1 - 3 marks Award 1 mark for an advantage to an individual of being a sole trader plus 2 further marks for explaining the advantage for a maximum of 3 marks. • The individual has complete control over the business (1) as they make all the decisions for the business (1) therefore decisions for the business can be made quickly (1) • The individual keeps all the profits (1) as they have no partners/shareholders within the business (1) which means that they can increase their personal wealth (1) NB No marks are awarded for a definition. Answers that list three advantages to an individual of being a sole trader with no explanation will get a maximum of 1 mark. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2025 | P1 | 2(c)
+==============================================================================
+Question Number Explain one advantage to a business of having high market share. Answer Mark 2 (c) AO1 - 3 marks Award 1 mark for one advantage to a business of having a high market share, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • The business is likely to have loyal customers (1) as the business is performing better than competitors in terms of sales volume/revenue (1) leading to higher potential profitability (1) • Higher market share can generate higher sales (1) this would allow the business to benefit from economies of scale (1) reducing the total costs of the business (1) NB No marks are awarded for a definition. Answers that list three advantages of a business having a high market share with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2025 | P1 | 2(d)
+==============================================================================
+Question Number Explain one advantage to a business of using e- commerce to sell its products. Answer Mark 2 (d) AO1 - 3 marks Award 1 mark for an advantage to a business of using e-commerce to sell its products, plus 2 further marks for explaining this advantage, for a maximum of 3 marks. • A business may reduce its costs (1) as it may not have to pay for a retail store/office (1) leading to increased levels of profit for the business (1) • More customers will use an online business rather than going to a store (1) this will increase the revenue of the business (1) leading to increased market share (1) NB No marks are awarded for a definition. Answers that list three advantages of using e- commerce to sell its products with no explanation will get 1 mark only. Accept any other appropriate response. (3)
+
+==============================================================================
+=== November 2025 | P1 | 2(e)
+==============================================================================
+Question Number Explain one reason why shareholders would be interested in the financial documents of a business. Answer Mark 2 (e) AO1 - 3 marks Award 1 mark for a reason why shareholders would be interested in the financial documents of a business, plus 2 further marks for explaining the reason, for a maximum of 3 marks. • Shareholders may review the financial documents to assess if the business is making a profit (1) as the shareholder is interested in gaining a return on their investment (1) which may help them to decide to either sell their shares or buy more shares in the business (1) • To compare the financial performance of the business (1) in order to identify cost savings (1) which can help to improve the profitability of the business (1) NB No marks are awarded for a definition. Answers that list three reasons why shareholders would be interested in the financial documents of a business, with no explanation will get a maximum of 1 mark Accept any other appropriate response. (3) Question Number The owners of Ocean Vibes plan to grow the business. They are considering two options to finance the growth: Option 1: venture capital Option 2: loan capital. Justify which one of these two options the owners of Ocean Vibes should choose Indicative content Mark
+
+==============================================================================
+=== November 2025 | P2 | 1(f)
+==============================================================================
+1 (f) AO1 - 3 marks Award 1 mark for identification of an advantage to a business of mass marketing, plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • More sales may be generated (1) as the product is promoted to a large number of people (1) which may improve the profitability of the business (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get 1 mark only. Accept any appropriate response. (3) 9 Q. No. Analyse how recruitment documents may help Samsung to hire the best employees for its business Indicative content Mark
+
+==============================================================================
+=== November 2025 | P2 | 2(c)
+==============================================================================
+2 (c) AO1 - 3 marks Award 1 mark for identification of an advantage to a business of having a social objective , plus 2 further marks for explaining the advantage, for a maximum of 3 marks. • The business can gain a good reputation (1) from creating a positive impact on society (1) resulting in more potential customers (1) • The business may attract employees (1) who are interesting in environmental problems (1) leading to a wider pool of talent/skills in the business (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get a 1 mark only. Accept any appropriate response. (3) Q. No. Explain one limitation of a break-even chart. Answer Mark
+
+==============================================================================
+=== November 2025 | P2 | 2(d)
+==============================================================================
+2 (d) AO1 - 3 marks Award 1 mark for identification of one limitation of a break-even chart plus 2 further marks for explaining the limitations, for a maximum of 3 marks. • Break-even is based on predictions (1) which may result in incorrect forecast (1) leading to wasted resources (1) NB No marks are awarded for a definition. Answers that list three reasons with no explanation will get a 1 mark only. Accept any appropriate response. (3) 13 Q. No. Explain one benefit to a business of being located within a trading bloc. Answer Mark
+
+==============================================================================
+=== November 2025 | P2 | 2(e)
+==============================================================================
+2 (e) AO1 - 3 marks Award 1 mark for identification of one benefit to a business of being located within a trading bloc, plus 2 further marks for explaining the benefit, for a maximum of 3 marks. • There is the potential for a business to increase sales (1) because a trading bloc encourages trade between member countries (1) therefore a business has a wider pool of customers (1) • Costs of imported materials may decrease for the business (1) as tariffs are likely to be reduced or eliminated in the trading bloc (1) allowing the business to potentially increase its profits (1) NB No marks are awarded for a definition. Answers that list three effects with no explanation will get 1 mark only. Accept any appropriate response. (3) 14 Q. No. Option 1: Sponsor celebrities to use its products Option 2: Provide a free game app to customers when they purchase a product Justify which one of these two options Samsung should choose. Indicative content Mark
