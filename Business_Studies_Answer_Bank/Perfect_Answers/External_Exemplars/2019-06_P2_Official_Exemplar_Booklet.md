@@ -604,7 +604,12 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 
 # RULES ESTABLISHED BY THIS BOOKLET
 
-Numbered for entry into `06_External_Source_Library.md`.
+> ### ✅ FOLDED — 14 October 2026. Do not fold these in again.
+> **All twelve `E`-rules below were matched against the numbered rule sequence and ALL TWELVE were already carried there.** They are therefore folded **by reference**: **`06_External_Source_Library.md` rule 125 is the concordance**, mapping each of `E1`–`E12` to the numbered rule that holds it, with the June 2019 evidence it adds.
+>
+> **Nothing here is a new rule. The table is kept because the EVIDENCE is the value** — two of the rows (`E6` length-vs-marks, `E3` all three AO4 questions opening with a concession) are findings in their own right and are cited on the rules they belong to.
+>
+> ⚠️ **The reason this note exists: left un-folded, the next pass could have entered these as rules 125–136** — eight duplicates and two competing numbering schemes for the same twelve ideas. **Match before you fold.**
 
 | # | Rule | Evidence |
 |---|---|---|

@@ -1802,6 +1802,39 @@ text = re.sub(r"\bm\s?a\s?r\s?k\s?s\b", "marks", text)     # "mark s" -> "marks"
 
 ---
 
+## 125. ✅ THE JUNE 2019 `E1`–`E12` CONCORDANCE — twelve rules that were FOLDED IN BY REFERENCE, not re-numbered
+
+**The June 2019 Paper 2 Official Exemplar Booklet closed with a table of twelve rules, labelled `E1`–`E12`, *"Numbered for entry into `06_External_Source_Library.md`"*.** The table sat in `External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md` for the life of the bank with the folding still outstanding.
+
+**Folded now. And the honest result is that all twelve were already in the sequence.**
+
+That is not a filing technicality — **it is the point.** A rule table that is re-numbered into a list which already carries it **doubles the instruction**, and a bank with two versions of one rule will eventually obey one and forget the other. So the twelve were **matched against the numbered rules first**, and the concordance below is the fold:
+
+| E | Rule, as the booklet states it | Carried by | The June 2019 evidence it adds |
+|---|---|---|---|
+| **E1** | **The listing cap** — *"Answers that list three [points] with no explanation will get a maximum of 1 mark."* | **rule 8** | **official mark schemes, Q1(f) and Q2(d)** — a second and third mark-scheme confirmation |
+| **E2** | **No marks for a definition** — *"NB No marks are awarded for a definition."* | **rules 9 · 119** | **official mark scheme, Q2(d)** |
+| **E3** | **AO4 is written as a CONCESSION** — every AO4 item begins *"Although…"* / *"Even though…"* / *"By… may be higher"* | **rule 15** | **Q2(f), Q3(e), Q4(c) mark schemes — all three, in one booklet** |
+| **E4** | **Correct, relevant knowledge can still earn nothing** — *"that secondary research could be outdated, cannot be awarded marks"* | **rule 10** | **Q3(e) response B** |
+| **E5** | **A fluent, chained answer with no case-study fact is bottom-of-Level-2** | **rule 17** | **Q1(g) response B, 3/6** |
+| **E6** | **Length is not marks** — 400 words → **8/12**; 110 words → **7/12** | **rule 11** | **Q4(c) responses A and B** — the cleanest length finding in the archive |
+| **E7** | **A conclusion must decide and RANK** — new factors are a hedge, not a judgement | **rule 12** | **Q4(c) response B** |
+| **E8** | **Finish the chain at the business outcome** — 5/6s are one link short of profit, sales or reputation | **rules 16 · 53** | **Q1(g) A and B, on both P2R and P2** |
+| **E9** | **Apply to the SUBJECT the question names** — *"Why might Yellow encourage…"* → the answer lands on Yellow, not the manufacturer | **rules 13 · 102** | **Q2R Q1(g), the examiner's opening remark** |
+| **E10** | **If a question says "in Figure 2", naming a NUMBER from it beats general reasoning about it** | **rule 14** | **Q3(d): 3/6 (named a fact) vs 2/6 (named none)** |
+| **E11** | **Analysis must terminate in a business consequence** — *"may lose customers"* is not an outcome | **rules 16 · 63** | **Q2(f) response B, 4/9** |
+| **E12** | **Explain = a three-link chain** — identify (1) + development (1) + development (1); **two links = 2 marks, always** | **rule 53** *(now in `01_`)* | **Q2(d) responses A and B — both 2/3, both two links** |
+
+> ### Why "folded by reference" is the correct outcome, and not a dodge
+> **Each E-rule already existed in a stronger form.** The numbered rule states the rule **and** carries confirmations from several series; the E-entry stated it a second time with one year's evidence. **The value in the booklet's table is the EVIDENCE, not the rule** — and every row above now points at the rule that holds it.
+>
+> **Two rows are worth more than a cross-reference, and both are recorded on their own rule:** **E6** (400 words → 8/12 against 110 words → 7/12) is the cleanest length comparison in the archive, and **E3** is the only place **all three AO4 questions of a single paper** were read together and found to open with a concession. **`E12`'s "two links = 2 marks, always" is the most testable single sentence in the table** — two matched scripts, same question, same mark, same fault.
+
+> ### ⚠️ The trap this closes
+> **A pending fold is an instruction the bank owes itself.** Left open, the next pass over the booklet could have re-entered `E1`–`E12` as rules **125–136** — duplicating eight existing rules and creating two competing numbering schemes for the same twelve ideas. **The check that prevents it is the one used here: before folding an un-numbered rule set in, match it against the numbered rules and count the matches.** If every row matches, **the fold is a concordance**; if some do not, **only those get numbers.**
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
