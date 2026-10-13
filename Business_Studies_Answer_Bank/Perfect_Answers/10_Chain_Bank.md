@@ -43,7 +43,7 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 > ✅ **THE 9-MARK TIER IS OPEN — and it behaves differently from the other two.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **56 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**, and promotion + pricing together are two decision types carrying **21 blocks in 17 pairs**.
 >
-> ✅ **Two decision types are now CLOSED — sources of finance (13 pairs, 14 blocks) and promotion + pricing (17 pairs, 21 blocks).** **35 of the 76 blocks are done, 46% of the tier, and the two most heavily examined decision types in the whole qualification are carried in full.**
+> ✅ **FOUR decision types are now CLOSED** — **sources of finance** (13 pairs · 14 blocks) · **promotion + pricing** (17 pairs · 21 blocks) · **market research + measuring success** (4 pairs · 9 blocks) · **job design, motivation and contracts** (9 pairs · 14 blocks). **That is 55 of the 76 blocks — 72% of the tier — and every one of the four largest decision types in the qualification is carried in full.**
 
 **Progress against those 380 blocks:**
 
@@ -111,7 +111,9 @@ Every entry gives you:
 | **6** | **6-MARK TIER — CLOSED at 114/114 blocks** | ✅ **done** |
 | **7a** | **9-mark Justify — the universal scaffold + the sources-of-finance cluster** | ✅ **13 entries (175–187)** |
 | **7b** | **9-mark Justify — promotion (12 pairs) + pricing (9 pairs)** | ✅ **17 entries (188–204)** |
-| **7c–8** | 9-mark Justify — the remaining **44 blocks** | ⬜ next |
+| **7c** | **9-mark Justify — market research + measuring success** | ✅ **4 entries (205–208)** |
+| **7d** | **9-mark Justify — job design, motivation, contracts** | ✅ **9 entries (209–217)** |
+| **7e** | 9-mark Justify — the remaining **21 blocks** | ⬜ next |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
@@ -4523,6 +4525,412 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 > **Reaching** → act before the decision: social media, an event, an exhibition, a newsletter. **The risk is that you pay for delivery and cannot guarantee the result — *"you pay for the delivery, not for the result".***
 >
 > **Every AO4 in this cluster is one of those two risks.** **Name which one applies, and the evaluation writes itself.**
+
+---
+# BATCH 7d — 9-MARK JUSTIFY, PART 4 — MARKET RESEARCH AND MEASURING SUCCESS
+
+**4 entries covering 9 blocks — every research and success-measurement Justify question in the qualification.**
+
+> ### ⭐ THE RESEARCH CLUSTER IS THE SINGLE MOST REPEATED IN THE WHOLE TIER
+> **Nine blocks, but only four underlying decisions.** The pair *primary research versus secondary research* appears **five separate times** — Lavender, Tata, NOF, TUI and Aude Rose — across **four different series spanning six years**, and the scheme's counter-arguments are recognisably the same every time:
+
+| Method | Its strength | Its fixed weakness |
+|---|---|---|
+| **Questionnaires / primary** | **You ask the people you actually want to know about** — their views, their prices, their opinions | ⭐ *"People may not have time to fill it in"* / *"may not want to fill in the questionnaires whilst they are shopping"* / *"not filled in correctly"* |
+| **Secondary research / the internet** | **Fast, cheap, wide — "much easier to collate", "a large selection of websites"** | ⭐ *"You could spend a lot of time looking at information which is not relevant … or is out of date"* / *"gives no specific information on the demand … by its existing customers"* |
+
+---
+
+## 205. MARKET RESEARCH — primary research versus secondary research
+
+**Asked five times in six years:**
+- *"Option 1: questionnaires to existing and potential customers face to face · Option 2: the internet, to gain wider sources of information about the area it wishes to expand into."* — **May–June 2019 P1R, 3(e)**, Lavender
+- *"Option 1: obtain the information directly from the people about the cars they want and the price they are prepared to pay · Option 2: secondary research, easier to collate from other car manufacturing websites and reports."* — **May–June 2019 P2, 3(e)**, Tata Motor Company
+- *"Option 1: questionnaires, approaching potential customers face to face to see what will attract them to visit the farm · Option 2: view a large selection of websites to look at other farms."* — **May–June 2021 P1, 3(e)**, NOF
+- *"Option 1: the internet, to view a wide variety of customers' comments about their experiences · Option 2: customers complete a form at their leisure, giving details of the experiences they received."* — **June 2024 P2, 3(e)**, TUI
+- *"Option 1: hand out questionnaires to customers that visit the shop · Option 2: using the internet to research new flower trends."* — **May 2023 P1R, 3(e)**, Aude Rose
+
+> **Note how the same decision is written five different ways, and that the option ORDER changes.** TUI's question puts the internet first. **Read the options, not the pattern.**
+
+**The AO2 anchors (Lavender):** primary research **allows Lavender to approach existing and potential customers face to face**; secondary research **allows it to gain wider sources of information about the area it wishes to expand into**.
+**The AO2 anchors (Aude Rose):** questionnaires give **feedback straight away from customers buying flowers in the shop**; the internet lets it **view a large selection of flower-based websites**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Aude Rose; the structure transfers, the case facts do not)*
+> **Aude Rose should use the questionnaires.** The decisive fact is **what the business is trying to find out and from whom: whether customers will buy a new range, which only its own customers can answer.** **Its customers are standing in the shop, buying flowers** — the scheme's own point is that this gives **"feedback straight away from customers when buying flowers"**, so the research and the customers are in the same place at the same time, at no travel cost. **The internet reaches a vast amount of flower information, but none of it is about Aude Rose's customers.** **The scheme's objection is decisive here: "whilst this research can give information about up-and-coming trends, it gives no specific information on the demand for the new trends by its existing customers, so could be a waste of time."** **Trends that exist in general may not be wanted by the people who actually walk into the shop.** **However, the questionnaire has its own weakness and it is a serious one: "customers may not know about the new trends, so cannot give any constructive feedback on the purpose of the research being conducted."** **Asking someone about something they have never considered produces an opinion, not evidence.** **I would still choose the questionnaires, on the condition that they are shown the new range rather than asked to imagine it — because the method only works if the customer has something real to react to.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The questionnaires** — first sentence |
+| **2. AO2 + AO3** | The customers are **in the shop, buying flowers** → **immediate, relevant feedback** on **whether they will buy the new range** |
+| **3. Counter-arguments** | Internet → **gives trends but nothing about this shop's customers → may waste time**; questionnaires → **customers may know nothing about the trends** |
+| **4. Named condition** | ⭐ **Provided customers are shown the range rather than asked to imagine it** |
+
+**The same decision, five different named conditions — and this is the entry to study if you want to see what a named condition really is:**
+
+| Business | What the research is FOR | So the condition is |
+|---|---|---|
+| **Lavender** | expanding into **other parts of Malaysia** | *provided the questions are pitched at customers in the area being considered, not the ones already served* |
+| **Tata** | designing and **pricing the next cars** | *provided the sample covers the buyers of the segment the new car is aimed at* |
+| **NOF** | **what would attract visitors to the farm** | *provided it is asked of people who have never visited — existing customers already know* |
+| **TUI** | **improving a day trip** | *provided the form is handed out on the trip itself, while the experience is fresh* |
+| **Aude Rose** | a **new range** | *provided the customers are shown the range* |
+
+> ⭐ **Five blocks, one decision, five different conditions — and not one of them could be pasted onto another.** **That is the proof that the named condition is not a phrase to memorise, it is a fact to find.** **Ask: what is this research FOR, and what would have to be true for it to actually work?**
+
+**Second acceptable chain for any of the five:** secondary research **costs almost nothing and can be done today** → for a business with **no budget for research**, something is better than nothing → **but if the trend it reveals is not what this business's customers want, the whole exercise is wasted — and secondary research cannot tell you that.**
+
+---
+
+## 206. MARKET RESEARCH — questionnaires versus focus groups
+
+**Asked:** *"Option 1: questionnaires, easy for passengers to complete · Option 2: focus groups, allowing passengers to give their opinions face-to-face."* — **May–June 2020 P2, 2(f)**, Emirates
+**Also asked:** *"Option 1: hand out questionnaires to customers that visit the shops · Option 2: hold focus group meetings with parents and observe children playing with the new toys."* — **June 2022 P1, 2(f)**, TBTS
+
+> **Both methods are primary research — so the usual "primary beats secondary" argument does not apply here.** **The comparison is depth against coverage, and which of the two the business actually needs.**
+
+**The AO2 anchors (Emirates):** questionnaires are **easy for passengers to complete**; focus groups **allow passengers to give their opinions face-to-face**.
+**The AO2 anchors (TBTS):** questionnaires **get feedback directly from the customers who buy the toys on behalf of children**; focus groups **let TBTS observe children playing with the new range**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on TBTS)*
+> **TBTS should hold the focus groups.** The decisive fact is **who the real user of the product is and who does the buying.** **A toy is bought by a parent and used by a child — and a parent cannot accurately describe what a child will pick up, play with and want again.** **A focus group lets TBTS "observe children playing with the new range of toys", which produces the one thing a questionnaire never can: evidence of what the child actually does.** **The questionnaire only collects what the parent says.** **However, "the responses from the children may not be valid as they are in a new setting and may find other things more interesting"** — children in a strange room behave differently from children at home, so **observed behaviour is not automatically real behaviour.** **And the questionnaire's weakness compounds the problem: "as TBTS have shops in busy locations like airports, people may not have the time to fill in the questionnaires or may rush it, therefore not giving them accurate feedback."** **I would still choose the focus groups, on the condition that the toy is taken home and observed there for a week — because a focus group that tells you what a child does in an unfamiliar room has replaced one uncertain answer with another.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The focus groups** — first sentence |
+| **2. AO2 + AO3** | **Parents buy, children use** → observing children **produces evidence a parent cannot describe** |
+| **3. Counter-arguments** | Children **behave differently in a new setting**; questionnaires at airport shops **are rushed and inaccurate** |
+| **4. Named condition** | ⭐ **Provided the toy is taken home and observed there** |
+
+**On Emirates the balance tips the other way, and the reason is the population.** **Focus groups can only include "a certain number of passengers and therefore might not give a true cross section of all classes of passengers"** — and an airline needs to know about **first class and economy, long-haul and short-haul**. **A small group cannot represent that spread.** So for Emirates: **questionnaires, on the condition that they are handed out to a genuinely mixed set of passengers across cabin classes** — with the scheme's warning that **"often they are not filled in correctly and do not give the information about flights needed"**, which is exactly what a badly designed form produces.
+
+> ⭐ **The deciding question for this pair: does the business need DEPTH on a few people, or a CROSS-SECTION of many?** **A product decision about how something will be used → depth. A service decision about a whole customer base → cross-section.** **TBTS is testing a toy; Emirates is testing an airline.**
+
+---
+
+## 207. MARKET RESEARCH — questionnaires versus tasting the product
+
+**Asked:** *"Option 1: use questionnaires to collect customer views on the new toppings · Option 2: offer free samples of new toppings and ask customers for their opinions."* — **June 2026 P1R, 2(f)**, Spud Bros
+
+> **This pair is the newest in the qualification and the most literal: ask people what they think, or let them try it and then ask.** **The second option is still research — it is a taste test — which is why the scheme puts it in the research section.**
+
+**The AO2 anchors:** questionnaires **allow people to provide quantitative and qualitative feedback on the new toppings**; free samples **may encourage more people to taste the food**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Spud Bros should offer the free samples.** The decisive fact is **what is being researched: taste — and taste cannot be reported, it has to be experienced.** **A customer who has not eaten the new topping is guessing, and a questionnaire then records that guess as data.** **Free samples "encourage more people to taste the food", so the opinion collected is a reaction to the actual product rather than to a description of it.** **The questionnaire does one thing the samples cannot: it collects "quantitative and qualitative feedback", meaning the answers can be counted and the reasons behind them captured — which matters if the brothers need to compare three new toppings against each other.** **However, "many people do not have the time to fill in a questionnaire and the response rate may be low for Spud Bros"** — a questionnaire with too few responses decides nothing. **However, giving free samples "will be costly" and will "take time to record participants' responses", which for a small family business is money and hours it cannot easily spare.** **I would still choose the samples, on the condition that the customers are asked their view immediately after tasting, before they walk away — because the taste is the research, and the opinion only has value while it is fresh.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The free samples** — first sentence |
+| **2. AO2 + AO3** | **Taste must be experienced, not described** → samples produce **real reactions, not guesses** |
+| **3. Counter-arguments** | Questionnaires → **low response rate**; samples → **costly for a small business, and recording responses takes time** |
+| **4. Named condition** | ⭐ **Provided the opinion is captured immediately after tasting** |
+
+**Second acceptable chain:** a free sample **is also a promotion, not just research** → the customer tastes, likes, and buys → **so the cost of the research is partly recovered in sales on the day**, which no questionnaire can do.
+
+> ⭐ **The transferable test: is the thing being researched something the customer can REPORT, or something they can only EXPERIENCE?** **Price sensitivity, brand awareness and past behaviour can be asked about. Taste, feel, ease of use and enjoyment have to be tried.** **Match the method to the senses.**
+
+---
+
+## 208. MEASURING SUCCESS — customer satisfaction versus profit
+
+**Asked:** *"Option 1: customer satisfaction · Option 2: profit."* — **June 2025 P1R, 2(f)**, CCT
+
+> **This is the only 9-mark question in the qualification about MEASURING SUCCESS rather than doing something.** **Note that both measures are legitimate — the question is which tells CCT more about whether the business is working.**
+
+**The AO2 anchors:** customer satisfaction **will indicate how happy customers are with the level of the bicycle touring service**; a high level of profit **will show CCT they can provide the tours at a cost lower than the price they are selling them for**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **CCT should measure customer satisfaction.** The decisive fact is **what the business is: a bicycle touring company whose product IS the experience of the tour.** **Satisfaction measures the thing the customer actually bought** — how happy they were with the tour — and **for a tour business, the customer's own verdict is not a proxy for quality, it is the quality.** **It also predicts the future rather than reporting the past: a satisfied customer recommends the tours, which produces the bookings CCT has not made yet.** **Profit, by contrast, is a lagging measure.** It tells CCT **that the pricing has worked over a period**, but **"profit can be affected by short-term fluctuations in the market, making it difficult to measure success over a longer period of time"** — a good season of weather can flatter a profit figure while the tours themselves are being run badly. **However, "it is difficult to measure customer satisfaction accurately as it relies on customers leaving reviews and providing honest feedback of their experiences"** — the measure depends on the customer bothering, and satisfied people are the least likely to bother. **I would still choose customer satisfaction, on the condition that the feedback is collected from every tour rather than waiting for reviews — because the customers who never write a review are as much part of the verdict as the ones who do.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Customer satisfaction** — first sentence |
+| **2. AO2 + AO3** | **The experience IS the product** → satisfaction measures what was bought, **and predicts future bookings** |
+| **3. Counter-arguments** | Satisfaction → **hard to measure; relies on reviews and honesty**; profit → **distorted by short-term market fluctuations** |
+| **4. Named condition** | ⭐ **Provided feedback comes from every tour, not only from reviews** |
+
+**Second acceptable chain:** profit **is the measure the owner can act on directly**, because it is a number in the accounts rather than an opinion → **but a tour business that is profitable this season and disliked by its customers will not be profitable next season.**
+
+> ⚠️ **The profit caveat in this scheme — "affected by short-term fluctuations in the market" — is a genuinely unusual argument and worth remembering.** **It says profit is not wrong, it is UNRELIABLE as a long-term measure** — which is a more sophisticated point than "profit matters less than customers", and it is where the AO4 marks are.
+
+---
+
+## ✅ THE RESEARCH AND SUCCESS-MEASUREMENT CLUSTER — COMPLETE
+
+**4 entries covering 9 blocks.** Nine blocks in the tier are research or success measurement, and they reduce to **four decisions**:
+
+| Decision | Blocks | Entry |
+|---|---|---|
+| **Primary vs secondary research** | **5** — Lavender · Tata · NOF · TUI · Aude Rose | **205** |
+| **Questionnaires vs focus groups** | **2** — Emirates · TBTS | **206** |
+| **Questionnaires vs tasting the product** | **1** — Spud Bros | **207** |
+| **Customer satisfaction vs profit** | **1** — CCT | **208** |
+
+> ### ⭐ THE THREE QUESTIONS THAT DECIDE ANY RESEARCH CHOICE
+> **1. WHO can answer this?** — Not "who is available". **Aude Rose needs its own customers, NOF needs people who have never visited, TBTS needs the child rather than the parent.** **If the wrong people are asked, the data is worthless however well it is collected.**
+> **2. Can the customer REPORT it, or must they EXPERIENCE it?** — Price, brand and past behaviour can be asked about. **Taste, feel and enjoyment have to be tried.**
+> **3. Do you need DEPTH on a few, or a CROSS-SECTION of many?** — **How something will be used → depth. What a whole customer base thinks → cross-section.**
+
+---
+# BATCH 7e — 9-MARK JUSTIFY, PART 5 — JOB DESIGN, MOTIVATION AND CONTRACTS
+
+**9 entries covering 14 blocks — every job design, motivation and contract-type Justify question in the qualification.**
+
+> ### ⭐ THE DOMINANT PAIR IN THIS CLUSTER: A BONUS VERSUS JOB ENRICHMENT
+> **It appears four times — Backyard Shoez, Starbucks, IKEA and Huawei — across four series.** And the scheme's two counter-arguments are *identical in all four*:
+>
+> ⭐ **The bonus fails because not everyone can win it, or not everyone wants it:** *"employees may not be interested in a bonus as it requires more work and effort"* · *"not all employees are interested in bonus payments, as many are more interested in a good work-life balance"* · *"employees may not be interested in bonus payments if their bonus is based on everyone who works in the factory, as some employees may not work as hard as others"* · *"if an employee cannot continually achieve the highest sales then they may become demotivated."*
+> ⭐ **Job enrichment fails because it suits some people and not others:** *"not all employees are motivated by non-financial methods such as job enrichment, they may prefer to have additional remuneration"* · *"some employees may resent not being chosen for job enrichment, and therefore may become demotivated."*
+>
+> **So the deciding question is never "which motivates people more" — it is WHOSE REWARD IS IT, and does it suit THIS workforce?** **That is what the case facts are for.**
+
+---
+
+## 209. MOTIVATION — a bonus versus job enrichment
+
+**Asked four times:**
+- *"Option 1: bonuses for whoever achieves the highest shoe sales in a month · Option 2: job enrichment, giving employees greater responsibilities."* — **May–June 2019 P1, 2(f)**, Backyard Shoez
+- *"Option 1: bonus payments if the coffee shop increases its sales · Option 2: non-financial benefits such as job enrichment, so employees gain more skills and knowledge."* — **June 2025 P2, 2(f)**, Starbucks
+- *"Option 1: the opportunity of earning a bonus to encourage carpenters to make more tables and chairs · Option 2: job enrichment, such as training present employees so they can work in the packing department."* — **May 2023 P2, 2(f)**, IKEA
+- *"Option 1: financial methods such as bonus payments and piece rates · Option 2: non-financial benefits such as job enrichment."* — **Nov 2021 P2, 2(f)**, Huawei
+
+> **Four papers, one decision, and the case facts point in genuinely different directions. This is the entry to read if you want to see how the same pair produces opposite answers.**
+
+**The AO2 anchors (IKEA):** the bonus **encourages carpenters to make more tables and chairs**; job enrichment means **training present employees so they are able to work in the packing department**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on IKEA)*
+> **IKEA should use the bonus.** The decisive fact is **what the job is and why output is the problem: factory carpentry is measured in tables and chairs, and a bonus tied to making more of them rewards exactly the thing the business needs.** **It is also the reward the whole workforce can understand immediately — the scheme's own phrasing is that it "encourages them to make more tables and chairs", with no course to attend and no waiting to see whether the training worked.** **Job enrichment is the more thoughtful option and would give the carpenters a route into the packing department** — but **it changes where people work rather than how much they make, and the factory's output problem is a volume problem.** **However, "employees may not be interested in a bonus as it requires more work and effort"** — a reward for more output is only a reward to someone who wants more output. **However, that is the smaller risk here than the alternative: "not all employees are motivated by non-financial methods of motivation such as job enrichment; they may prefer to have additional remuneration."** **I would still choose the bonus, on the condition that it is paid on output the individual can actually control — because a factory bonus measured on the whole line's output rewards the carpenter for what the next shift did, and that is the version of it that demotivates.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The bonus** — first sentence |
+| **2. AO2 + AO3** | Factory work is **measured in units**, and output is the problem → **the bonus rewards the exact thing needed** |
+| **3. Counter-arguments** | Bonus → **requires more effort, may not be wanted**; enrichment → **not everyone wants non-financial rewards** |
+| **4. Named condition** | ⭐ **Provided it is paid on output the individual controls, not the whole line's** |
+
+**Backyard Shoez runs the other way — and the reason is that the bonus is a COMPETITION.** The scheme says it is for *"the person who has achieved the highest shoe sales"*, and warns that **"if an employee cannot continually achieve the highest sales then they may become demotivated and this could have the opposite effect."** **A prize that only one person can win demotivates everyone else by design.** **So for Backyard Shoez: job enrichment, provided the extra responsibility is offered to everyone rather than to a chosen few** — because the scheme's objection to enrichment is *"some employees may resent not being chosen."* **Both options in this pair fail in the same way — by excluding people — and the fix is the same.**
+
+**Second acceptable chain (Huawei or Starbucks):** non-financial rewards **cost the business less and stay with the employee** — the skills cannot be taken to a rival the way a bonus can → **but they only work where the workforce is not primarily there for the money, which the case has to tell you.**
+
+> ⭐ **The transferable test: does the reward EXCLUDE anyone?** **A prize for one winner demotivates the rest; enrichment offered to a few creates resentment among the others.** **The named condition for this entire pair is almost always about who gets it.**
+
+---
+
+## 210. JOB DESIGN — job rotation, job enrichment and added tasks
+
+**Asked in three different pairings:**
+- *"Option 1: adding additional tasks, such as supervising newly recruited employees · Option 2: employees could rotate between the store and the stock room."* — **May–June 2019 P2R, 3(e)**, Yellow
+- *"Option 1: job rotation, moving from the stock room to the shop floor · Option 2: job enrichment, using their skills in displaying furniture and clothes in the shop windows."* — **May–June 2021 P2, 3(e)**, NEXT
+- *"Option 1: moving to different jobs on or off the production line · Option 2: a bonus if car manufacturing targets are met."* — **May 2023 P2R, 3(e)**, M&M
+
+> **Three blocks sharing one family of methods.** **The scheme's counter-arguments are the ones to learn, because they are specific to each method and they recur:**
+
+| Method | What it does | Its fixed weakness |
+|---|---|---|
+| **Adding tasks** | Widens the job — supervision, extra duties | ⭐ *"There may come to a point where they demand more pay"* |
+| **Job rotation** | Moves people between different jobs | ⭐ *"These new experiences and skills may mean that employees could decide to look for other jobs instead"* / *"may not be interested in job rotation as it may not increase their wages"* |
+| **Job enrichment** | Gives more responsibility and autonomy | ⭐ *"This could incur additional costs of time and training"* / *"some employees may resent not being chosen"* |
+
+**The AO2 anchors (NEXT):** job rotation lets employees **experience different jobs, moving from the stock room to the shop floor**; job enrichment lets them **utilise their skills of displaying furniture and children's clothes in the shop windows**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on NEXT)*
+> **NEXT should use job enrichment.** The decisive fact is **what NEXT sells and what its stores depend on: furniture and children's clothing have to be displayed to sell, and the skill of arranging a window or a showroom is exactly the skill the business needs more of.** **Job enrichment puts an employee's existing ability to use rather than moving them somewhere it is not needed** — and the scheme states the payoff as *"employees may find they utilise their skills of displaying the furniture and children's clothes in their shop windows."* **Job rotation does something different: it moves people around the store so nobody is stuck on one job all day.** **That relieves boredom, but it also means the person arranging the window this month is on the stock room the next.** **However, "this could incur additional costs for NEXT of time and training of the employees"** — enrichment is not free; giving someone more responsibility takes someone else's time to set up. **However, rotation has the more serious risk of the two: "these new experiences and skills may mean that employees could decide to look for other jobs other than remaining employed by NEXT."** **I would still choose job enrichment, on the condition that the responsibility given is genuinely theirs and not a manager's task passed down — because responsibility without authority is the version of enrichment that annoys people, and the scheme already warns that employees who are not chosen will resent it.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Job enrichment** — first sentence |
+| **2. AO2 + AO3** | **Windows and showrooms sell the products** → use the skill the business depends on |
+| **3. Counter-arguments** | Enrichment → **extra training cost, resented by those not chosen**; rotation → **trained staff may leave for other jobs** |
+| **4. Named condition** | ⭐ **Provided the responsibility is genuinely theirs, not borrowed from a manager** |
+
+**On Yellow the answer is rotation, for a specific reason: the shop and the stock room are two jobs that must both be covered, and the scheme notes rotation "helps the managers if staff are able to move from one job to another at busy times."** **The benefit there is operational flexibility, not motivation.** **On M&M the answer is likely rotation too — but the bonus is the option it is paired against, and the scheme warns employees "may not be interested in job rotation as it may not increase their wages", which makes the named condition about pay: rotation only works if it is not simply more work for the same money.**
+
+> ⭐ **The decisive question for this family: is the business short of FLEXIBILITY or of EXPERTISE?** **Flexibility — cover for busy times and absence → rotation.** **Expertise — a skill the business's product depends on → enrichment.** **Motivation is a by-product either way, not the reason.**
+
+---
+
+## 211. MOTIVATION — extra holiday versus a bonus
+
+**Asked:** *"Option 1: offer managers an extra five days' paid holiday a year · Option 2: pay a bonus to the managers whose restaurants achieve the highest levels of profit."* — **June 2026 P2, 2(f)**, Nando's
+
+> **Both options target the same people — restaurant managers — and the question is what a manager is short of: time, or money.**
+
+**The AO2 anchors:** extra holiday **will help provide the managers with a better work–life balance**; a bonus **will encourage the managers to attempt to sell more chicken, salad and wraps**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Nando's should offer the extra holiday.** The decisive fact is **whether the bonus can actually be won: the scheme ties it to "the managers whose restaurants achieve the highest levels of profit", which is a contest with a small number of winners.** **Most managers will look at the target and conclude they cannot reach it** — and the scheme names exactly this: *"the restaurant managers may not believe they can achieve the highest levels of profit and this potential reward may not be sufficient to stop them leaving Nando's for a new job."* **A reward that most people cannot win is not a reward; it is a message.** **Holiday is different, because it is available to every manager on the same terms, and running a restaurant is a job with long hours and late finishes** — so **"better work-life balance" is something every one of them wants and can use.** **However, "managers may already have enough holidays to take and might not be persuaded to stay with the business for this reward"** — time off only motivates someone who does not already have enough of it. **I would still choose the extra holiday, on the condition that it can be taken in a block rather than scattered as single days — because a manager who cannot leave the restaurant for a week has not been given a holiday, only paperwork.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The extra holiday** — first sentence |
+| **2. AO2 + AO3** | The bonus is **a contest most managers cannot win** → **only a few are motivated**; holiday is **available to all and suits the long hours of the job** |
+| **3. Counter-arguments** | Holiday → **managers may already have enough**; bonus → **may be seen as unachievable and not worth staying for** |
+| **4. Named condition** | ⭐ **Provided it can be taken in a block, not as single days** |
+
+**Second acceptable chain:** the bonus **directly links pay to the profit the manager produces, so it costs Nando's nothing unless the restaurant has already earned more** → it is self-funding in a way holiday never is → **but a prize for the highest profit also creates competition between managers, which can make them unwilling to share staff or best practice.**
+
+> ⚠️ **This is the clearest "unachievable target" AO4 in the tier, and it recurs.** **Whenever a scheme says a reward is for the HIGHEST or the BEST, the counter-argument writes itself: most people cannot win it, so most people are not motivated by it.** **Compare entry 209's Backyard Shoez block, where the same logic decides the question.**
+
+---
+
+## 212. MOTIVATION — commission versus a higher hourly rate
+
+**Asked:** *"Option 1: commission to encourage teachers to find new pupils · Option 2: an increased hourly rate to encourage teachers to work longer hours."* — **May–June 2020 P1, 2(f)**, TADS
+
+> **Both options are financial — so this is not financial against non-financial. It is PAY FOR FINDING WORK against PAY FOR DOING WORK**, and that difference decides it.
+
+**The AO2 anchors:** commission **would encourage its teachers to find new pupils who want to learn music**; a higher hourly rate **would encourage music teachers to work for longer hours**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **TADS should use the commission.** The decisive fact is **what the business actually needs: a drumming school with too few pupils has a demand problem, not an hours problem.** **Commission pays for finding new pupils, which is the thing the school is short of** — and paying for a result means **TADS only pays out once a pupil has arrived and started paying fees.** **An increased hourly rate pays for time, whether or not there is any work for the teacher to do.** **That direction matters, because the scheme's own objection to the hourly rate is that "if TADS cannot increase the number of pupils it may not be able to retain all of the teachers it currently employs"** — **paying more per hour without more pupils simply raises the cost of serving the pupils it already has.** **However, "the commission is a one-off payment and once paid the teachers would only receive their hourly rate, which may not be sufficient to continue to be employed by TADS"** — so commission brings a teacher a pupil but does not make them stay. **I would still choose the commission, on the condition that it is paid on pupils who actually stay for a term — because a payment on signatures rather than on retained pupils pays teachers to recruit people who will not come back.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The commission** — first sentence |
+| **2. AO2 + AO3** | The problem is **too few pupils, not too few hours** → pay for the result the business lacks |
+| **3. Counter-arguments** | Commission → **one-off; the teacher's ongoing rate is unchanged**; hourly rate → **costs more with no more pupils, and may not be affordable** |
+| **4. Named condition** | ⭐ **Provided it is paid on pupils who stay, not on sign-ups** |
+
+**Second acceptable chain:** a higher hourly rate **rewards the teachers who are already good and therefore keeps them**, which matters in a school whose product is the quality of its teaching → **but it rewards loyalty rather than growth, and the scheme is clear that the enrolment problem is the one that would cost TADS its teachers.**
+
+> ⭐ **The decisive question: what is the business short of — DEMAND or CAPACITY?** **Short of customers → pay for bringing them in (commission).** **Short of output or hours → pay for time (a higher rate).** **TADS has an empty class, not a tired teacher.**
+
+---
+
+## 213. COSTS — reducing wages by using part-time staff versus reducing commission
+
+**Asked:** *"Option 1: employ part-time tour guides instead of full-time tour guides · Option 2: reduce the rate of commission paid to its sales team."* — **Nov 2025 P1, 2(f)**, Ocean Vibes
+
+> **Read what this question is: the stem asks which cost to cut, not which reward to give.** **Both options save money — so the answer depends entirely on which saving damages the business less.**
+
+**The AO2 anchors:** part-time guides **reduce the wages of the wildlife tour guides**; reducing commission from 5% **lowers the total variable costs of the boat tours**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Ocean Vibes should reduce the commission rather than move to part-time guides.** The decisive fact is **who delivers the product: the tour guides ARE the dolphin and bird tours.** **A part-time guide is one who is not there on the day the guests wanted** — and the scheme warns that **"it is possible that part-time employees are less committed to the business if they prefer full time work, which may lead to tour guides leaving Ocean Vibes for alternative employment."** **The saving is real but it is bought by putting the touring at risk, and the tours are the entire revenue.** **Commission is different in one important way: it is a variable cost, paid only when the sales team has actually sold something** — so the saving follows the sales rather than preceding them. **However, that is also exactly why it is dangerous: "the sales team may be less motivated to work, which may lead to a reduction in the revenue and the profitability of boat tours for Ocean Vibes."** **Cutting the reward of the people who bring in money reduces the money coming in.** **I would still cut the commission, on the condition that the rate is reduced by a stated amount rather than tied to a sales target the team cannot influence — because a demotivated sales team costs more in lost bookings than the commission ever saved.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Reduce the commission** — first sentence |
+| **2. AO2 + AO3** | **The guides ARE the tours** → part-time risks the product and the staff | 
+| **3. Counter-arguments** | Part-time guides → **less committed, likely to leave**; commission cut → **sales team demotivated → revenue falls** |
+| **4. Named condition** | ⭐ **Provided the cut is a stated amount, not a target the team cannot influence** |
+
+**Second acceptable chain:** wage cost is **fixed and paid whether or not a single tour runs** → in a season with bad weather, part-time guides are the difference between a loss and a surplus → **but saving a fixed cost by removing the people who deliver the service is a saving taken from the product itself.**
+
+> ⚠️ **This question is a cost-reduction question wearing a motivation question's clothes. Identify which one you have before writing** — otherwise you will argue about motivation theory when the examiner is asking which cut is survivable. **The scheme's own framing gives it away: both options are phrased as cost reductions, not rewards.**
+
+---
+
+## 214. CONTRACTS — full-time versus part-time staff
+
+**Asked:** *"Option 1: full-time staff, meaning fewer employees in each store · Option 2: part-time staff, offering flexibility in the hours they work."* — **May–June 2019 P2R, 2(f)**, Yellow
+
+**The AO2 anchors:** full-time staff means **fewer employees in each store**; part-time staff **offer flexibility in the hours they work**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Yellow should employ part-time staff.** The decisive fact is **what a clothes shop's demand does: it rises at weekends, at lunchtimes and in the run-up to holidays, and almost nowhere in between.** **Part-time contracts let Yellow put staff on the floor exactly when customers are there**, and the scheme's framing — *"flexibility in the hours they work in each store"* — is the whole argument in six words. **Full-time contracts buy certainty of who is on shift, and "fewer employees in each store" means fewer people to manage and to train.** **However, "costs may be increased because they have to be paid regardless of demand in the stores"** — a full-time wage is paid in a quiet week exactly as it is in a busy one, which for a fashion retailer with a quiet season is the risk that matters most. **However, the part-time route has its own cost: "higher recruitment costs because part-time staff may be less committed to Yellow."** **I would still choose part-time staff, on the condition that the hours offered are enough that the good staff stay — because the recruitment cost the scheme warns about is a repeat cost, paid again every time a part-timer leaves.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Part-time staff** — first sentence |
+| **2. AO2 + AO3** | Retail demand **peaks and troughs** → hours match the customers |
+| **3. Counter-arguments** | Full-time → **paid regardless of demand**; part-time → **higher recruitment costs, less committed** |
+| **4. Named condition** | ⭐ **Provided the hours are enough to keep good staff** |
+
+**Second acceptable chain:** full-time staff **know the stock, the customers and the systems better** → fewer errors and better service → **but a store cannot be staffed to a peak all week simply to have experienced people on a Tuesday morning.**
+
+---
+
+## 215. CONTRACTS — permanent versus temporary contract
+
+**Asked:** *"Option 1: offer the new chef a permanent contract · Option 2: offer the new chef a temporary contract."* — **May–June 2022 P1R, 2(f)**, Can Culleretes
+
+**The AO2 anchors:** a permanent contract means **the chef will be more committed to the restaurant long term**; a temporary contract lets them **wait to see if the desserts are popular before hiring on a permanent basis**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Can Culleretes should offer the temporary contract.** The decisive fact is **what the business is testing and what a mistake would cost it: a dessert chef has been hired to produce a new dessert range, and nobody yet knows whether customers will want it.** **A temporary contract lets the restaurant "wait to see if the desserts are popular or not before hiring on a permanent basis"** — so **the decision that cannot be undone is deferred until there is evidence for it.** **That matters more in a family business than in a chain: the scheme notes that "as Can Culleretes is a family run business they may be cautious of having someone come into the business on a permanent basis, especially if the new desserts do not meet customer expectations."** **In a restaurant run by the family that owns it, a permanent appointment is a personal commitment as well as a contract.** **However, "a skilled dessert chef may not like the uncertainty of a temporary contract and may choose to work elsewhere"** — and the best chefs are the ones with options. **I would still choose the temporary contract, on the condition that it states what would make it permanent — because a competent chef will accept a trial, and will not accept an open-ended one.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The temporary contract** — first sentence |
+| **2. AO2 + AO3** | **The dessert range is untested** → defer the irreversible decision until there is evidence |
+| **3. Counter-arguments** | Temporary → **a skilled chef may go elsewhere**; permanent → **a commitment the family business may regret** |
+| **4. Named condition** | ⭐ **Provided the contract states what makes it permanent** |
+
+**Second acceptable chain:** a permanent contract **secures commitment from the chef, who then invests in the restaurant's menu rather than just executing it** → **but a family restaurant that has traded for generations does not need to gamble its payroll on an untested dessert.**
+
+> ⭐ **The decisive question: can the decision be UNDONE?** **Untested product, uncertain demand, a small business → temporary. Proven need, scarce skill, a role the business cannot function without → permanent.** **And the named condition is always the same: say what converts one into the other.**
+
+---
+
+## 216. CONTRACTS — part-time working versus job share
+
+**Asked:** *"Option 1: part-time working, to provide flexibility for employees · Option 2: job share, so that if one employee is absent through illness the other can take their place."* — **May–June 2022 P2R, 2(f)**, Cadbury
+
+> **Both options reduce hours — so the difference is COVER.** A part-timer's hours are theirs alone; a job share has two people who know the same role.
+
+**The AO2 anchors:** part-time working **provides flexibility for employees**; with a job share, **if one employee is absent through illness the other members may be able to take their place**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Cadbury should use job sharing.** The decisive fact is **what the roles being covered actually are: designing chocolate wrappers is skilled work that cannot be picked up by whoever is free that morning.** **A job share puts TWO people in the same role, so when one is ill, the other knows the work, the software, the brief and the deadlines.** **That is cover, not just flexibility** — and the scheme's own phrasing, that the other member "may be able to take their place", is a benefit no single part-timer can offer. **Part-time working gives the individual flexibility, which is what it is for** — and it is far simpler to arrange, with one contract and one set of hours. **However, "it may increase employment costs because of legal benefits that have to be offered to part-time employees"** — part-time is not free. **However, the job-share route carries the harder risk: "the two people job sharing will have to work as a team and liaise effectively."** **If they do not, the role has two owners and no accountability.** **I would still choose job sharing, on the condition that the two sharers are given overlapping hours to hand over — because a handover that happens by email at midnight is where job shares fail.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **Job sharing** — first sentence |
+| **2. AO2 + AO3** | **Skilled design work needs continuous cover** → two people who both know the role |
+| **3. Counter-arguments** | Part-time → **higher employment costs and benefits**; job share → **the two must liaise and work as a team** |
+| **4. Named condition** | ⭐ **Provided they get overlapping hours for a handover** |
+
+**Second acceptable chain:** part-time working **is easy to offer and easy to withdraw, so it can be used across the whole workforce rather than one role** → the flexibility is available to hundreds of staff → **but it solves absence by hiring someone new each time, which the job share solves with the person already there.**
+
+---
+
+## 217. CONTRACTS — on-call staff versus student staff
+
+**Asked:** *"Option 1: keep employees 'on call' for emergencies or staff shortages · Option 2: employ college and university students during the summer holidays."* — **June 2024 P2R, 2(f)**, Jimmy Choo
+
+> **Both options give flexibility, and neither guarantees commitment — so the question is which sort of unreliability is easier to live with.**
+
+**The AO2 anchors:** some employees **like the option of being on call**; students **wanting to work during the summer holidays would be grateful for the opportunity**.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **Jimmy Choo should employ the students.** The decisive fact is **what the work is and when it is needed: producing handbags and clothes in the summer holidays is seasonal demand, and students are available in exactly that window, wanting exactly that work.** **The scheme captures the fit in one phrase — they "would be grateful for the opportunity" — and a worker who wants the hours in the weeks the business wants them is a worker who turns up.** **On-call staff look more convenient because they are existing employees who already know the work.** **However, the scheme's objection to them is fundamental: "casual employees do not get any guarantee of work from Jimmy Choo and this may make them lack commitment to do their work when they are employed."** **A worker with no guaranteed hours has no reason to answer the phone on the day they are needed** — and the moment they are needed is by definition an emergency, which is the worst time to find out. **However, "there is no guarantee that the part-time employees can work the hours or have the skills that Jimmy Choo needs"** — students are unskilled and will leave in September. **I would still choose the students, on the condition that a core of experienced staff remains to supervise and train them — because student labour is seasonal by definition, and the skills have to leave with them.**
+
+| Move | The answer |
+|---|---|
+| **1. Choice** | **The students** — first sentence |
+| **2. AO2 + AO3** | Seasonal production demand **matches the summer holiday exactly** → and they want the hours |
+| **3. Counter-arguments** | On-call → **no guaranteed hours, so no commitment**; students → **no guarantee of skills or availability** |
+| **4. Named condition** | ⭐ **Provided experienced staff stay to supervise and train them** |
+
+**Second acceptable chain:** on-call staff **need no recruitment, no induction and no training, because they already work for the business** → the costs of taking on students are avoided → **but a workforce that is only called when there is a crisis will not plan around Jimmy Choo's needs, only its own.**
+
+> ⭐ **The decisive question: which kind of unreliability can the business absorb?** **On-call staff are unreliable when you MOST need them; students are unreliable because they leave.** **The second is predictable and can be planned for — the first is not.**
+
+---
+
+## ✅ THE JOB DESIGN, MOTIVATION AND CONTRACTS CLUSTERS — COMPLETE
+
+**9 entries covering 14 blocks.**
+
+| Decision | Blocks | Entry |
+|---|---|---|
+| **A bonus vs job enrichment** | **4** — Backyard Shoez · Starbucks · IKEA · Huawei | **209** |
+| **Job rotation vs enrichment vs added tasks** | **3** — Yellow · NEXT · M&M | **210** |
+| Extra holiday vs a bonus | 1 — Nando's | **211** |
+| Commission vs a higher hourly rate | 1 — TADS | **212** |
+| Reducing wages vs reducing commission | 1 — Ocean Vibes | **213** |
+| Full-time vs part-time staff | 1 — Yellow | **214** |
+| Permanent vs temporary contract | 1 — Can Culleretes | **215** |
+| Part-time vs job share | 1 — Cadbury | **216** |
+| On-call vs student staff | 1 — Jimmy Choo | **217** |
+
+> ### ⭐ THE TESTS, IN ONE PLACE
+> **A reward that only one person can win demotivates everyone else.** *(entries 209, 211)*
+> **Pay for the result the business lacks — customers, output or hours.** *(entry 212)*
+> **Never cut the reward of the people who bring the money in.** *(entry 213)*
+> **Can the decision be undone? If not, buy evidence first.** *(entry 215)*
+> **Which unreliability can the business absorb — unreliability at the moment of need, or unreliability that is scheduled?** *(entry 217)*
 
 ---
 ## 196. PRICING — an introductory/low price vs another tactic

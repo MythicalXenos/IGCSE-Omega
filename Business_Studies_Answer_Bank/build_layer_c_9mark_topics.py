@@ -66,6 +66,8 @@ RULES = [
     # ---- research and success measures -----------------------------------
     (r"questionnaire.*focus group|focus group.*questionnaire",
      "RESEARCH — questionnaires vs focus groups"),
+    (r"quantitative and qualitative feedback|free samples of new toppings",
+     "RESEARCH — questionnaires vs taste-testing with samples"),
     (r"questionnaire", "RESEARCH — questionnaires vs secondary research"),
     (r"primary market research", "RESEARCH — primary vs secondary research"),
     (r"secondary research|secondary market research",
@@ -112,6 +114,8 @@ RULES = [
     (r"coffee shops in supermarkets|coffee shops in hospitals",
      "PLACE — which new location to open in"),
     # ---- motivation, job design, contracts ------------------------------
+    (r"reduce the wages|reducing commission",
+     "COSTS — reducing wages vs reducing commission"),
     (r"job enrichment.*job rotation|job rotation.*job enrichment",
      "JOB DESIGN — job enrichment vs job rotation"),
     (r"adding additional tasks", "JOB DESIGN — adding tasks vs job rotation"),
@@ -146,8 +150,8 @@ RULES = [
     # ---- structure and costs --------------------------------------------
     (r"limited liability as will his new",
      "STRUCTURE — partnership vs private limited company"),
-    (r"reduce the wages|reducing commission",
-     "COSTS — reducing wages vs reducing commission"),
+    (r"financial methods to its employees|non-financial benefit|extra five days.holiday|commission|hourly rate",
+     "MOTIVATION — financial reward vs non-financial methods"),
 ]
 
 
