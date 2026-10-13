@@ -58,15 +58,40 @@ def stem_of(body):
     return best
 
 
+def _shift(m, offset):
+    """Re-anchor a match found in a slice back to the whole string."""
+    return _Shifted(m, offset)
+
+
+class _Shifted:
+    def __init__(self, m, offset):
+        self._m, self._o = m, offset
+
+    def start(self):
+        return self._m.start() + self._o
+
+    def end(self):
+        return self._m.end() + self._o
+
+
 def ao_bullets(body):
+    # SKIP THE ALLOCATION HEADER FIRST. Every 4(c) block opens with
+    # "AO1 = 3 marks AO2 = 3 marks AO3 = 3 marks AO4 = 3 marks", and searching for
+    # "AO1 =" found THAT. The chunk for AO1 was the words "= 3 marks", AO2 and AO3
+    # likewise, and AO4 swallowed every score line in the block -- so 29 of 38 rows
+    # in this file had their whole answer sitting in the AO4 column and three of the
+    # four columns empty. The content was never missing; the columns were.
+    hdr = re.search(r'A\s*[O0]\s*4\s*=\s*3\s*marks?', body)
+    start = hdr.end() if hdr else 0
     res = {}
     for ao in (1, 2, 3, 4):
-        m = re.search(r'AO%d\s*=' % ao, body)
+        m = re.search(r'A[O0]\s*%d\b(?!\s*=)' % ao, body[start:])
+        m = m and re.match(r'.*', body[start:]) and _shift(m, start)
         if not m:
             res[ao] = []
             continue
         tail = body[m.end():]
-        nxt = re.search(r'AO\d\s*=', tail)
+        nxt = re.search(r'A[O0]\s*[1-4]\b(?!\s*=)', tail)
         chunk = tail[:nxt.start()] if nxt else tail
         chunk = chunk.replace('3 marks', ' ')
         chunk = re.sub(r'\(12\)\s*$', '', chunk)

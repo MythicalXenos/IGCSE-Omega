@@ -76,6 +76,13 @@ def main() -> int:
             sec = _sections(body[m0.end():])
             if len(sec) >= 2:
                 anchor, sections = m0.start(), sec
+        if not sections:
+            # A block that must not be contaminated by the part above it starts at
+            # its OWN row label and carries no heading ("2 (f) AO2 = 3 marks ...
+            # AO4 = 3 marks ... Option 1 ..."). It still has every section - the
+            # scheme's own AO allocations - so parse from the start of the block.
+            # Requiring a heading is what silently emptied 19 rows of this CSV.
+            sections = _sections(body)
         stem = ""
         if anchor >= 0:
             sm = STEM.search(body[anchor:])

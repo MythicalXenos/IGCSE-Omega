@@ -381,6 +381,8 @@ python3 tally_exemplars.py              # 19 x 6/6 - 15 x 9/9 - 2 x 12/12
 python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
 python3 verify_collision_cluster.py     # the collision table's total is its row count (20)
 python3 verify_stem_quotes.py           # every quoted question is the paper's own question
+python3 verify_block_tiers.py           # every block dump carries its own tier's mark
+python3 verify_ms_point_coverage.py     # every awarded MS point is at least named in its entry
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -399,6 +401,30 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
 | `verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
 | `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **150 citations compared · 0 unresolved · 0 misattributed.** Names the question a quote actually belongs to when the citation is wrong |
+| `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
+| `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 9 absent from their entry, across 7 entries** — the current Layer C worklist. Advisory: a zero is a question to read, not a verdict |
+
+### 🚨 THE BLOCK DUMPS WERE CARRYING THE WRONG QUESTION — eighteen blocks, 14 Oct 2026
+
+**Found by writing a check that reads a fact from OUTSIDE the two files it tests.**
+
+`layer_c_9mark_blocks.txt` and `layer_c_12mark_blocks.txt` are the verbatim mark-scheme content every Layer C batch was written from, and the input to the anchor and point-coverage checks. **Nothing had ever checked that a block in the 9-mark file was a 9-mark question.**
+
+**Nine blocks in the 9-mark dump contained the preceding 3(d) 6-mark Analyse** (2019 P1R/P1/P2R/P2, 2020 P1R/P1/P2R/P2, Nov 2021 P1), and **nine in the 12-mark dump the preceding 4(b)**. On those papers the mark scheme shares one heading row per page and prints no question wording, so the extractor's search for the block's opening heading walked back to the page heading — and a page heading introduces **the part before it**.
+
+**Every check passed while that was true**, because each one read the same two files and agreed with them. What exposed it was `extract_ms_blocks.py` being asked for the blocks afresh: a block's own text prints the mark value for its question, and a 9-mark block that prints no "(9)" is not a 9-mark block.
+
+**The first fix failed silently, in the same way as the stem checker.** The rejection test for "this heading is followed by the previous part's row" was written *after* the code that strips a leading label — and `LABEL_TAIL` removes the row's label too, so the row no longer looked like a row. **Order of operations inside a test is a correctness property.**
+
+**What the contamination had cost, downstream:**
+
+* **`layer_c_12mark_inventory.csv`: nine rows quoted the preceding 4(b)'s indicative content in a 4(c) row** — invisible until you notice a 6-mark total, `(6)`, printed inside a 12-mark question's content.
+* **The same file had 29 of its 38 rows with every score line in the `AO4` column and three columns empty.** The parser searched for `AO1 =` and found the *allocation header* (`AO1 = 3 marks AO2 = 3 marks …`), so the AO1 chunk was the words "= 3 marks", AO2 and AO3 the same, and AO4 swallowed the lot. **The content was never missing; the column was wrong** — and any check that read `AO1`–`AO3` read nothing. Now **0 of 38 rows**, and the file holds **5,692 more characters** of official content than it did.
+* `layer_c_9mark_inventory.csv` re-derived **byte-identical** from the corrected blocks, and a rebuild that briefly emptied 19 of its rows was caught because that builder also needed the heading. **A fixed input must not be allowed to degrade an artifact: re-run the checks that read it and diff.**
+
+**Why this one matters more than the others:** the corrected content is the *source* Layer C was written from. The checks that guard Layer C read the same dump, so they could not see it. **A source file is only verified by something that does not read it.**
+
+---
 
 **Two of those checks were written because a hand-typed total had already been wrong in a way nothing else could see:**
 

@@ -58,18 +58,56 @@ STOP_TAIL = re.compile(
     r"|Answer Mark|Answer\s+Mark|Mark)\s*$")
 
 
+# A part label (with an optional sub-part) IMMEDIATELY followed by an AO
+# allocation. Text that starts this way is a mark-scheme ROW, not a question
+# stem: the row's own label comes first and the awarded content follows.
+ROW_START = re.compile(
+    r"^\s*\d+\s*\(\s*[a-z]\s*\)\s*"
+    r"(?:\(\s*[ivx]+\s*\)\s*)?"
+    r"(?:A\s*[O0]\s*[1-4]|Award\b|Level\b)")
+
+# Column headings that can sit between the heading and the row label.
+COLS = re.compile(
+    r"^\s*(?:Answer|Indicative content|Additional guidance|Question Number"
+    r"|Mark|Total|AO\s*[1-4])\b\s*", re.I)
+
+
 def _stem_start(raw: str, pos: int, window: int = 2500) -> int:
     """Find where this part's question stem begins.
 
     Walk BACKWARDS through every heading in a wide window and accept the nearest
-    one that actually carries stem text. A heading followed straight by a column
-    label ("Question Number Indicative content Mark 1 (g) ...") carries no stem
-    and is a false lead -- accepting it is what produced blank stems.
+    one that actually carries stem text.
+
+    A heading followed straight by a column label ("Question Number Indicative
+    content Mark 1 (g) ...") carries no stem and is a false lead. **So is a
+    heading followed by the PREVIOUS part's row** ("Question Number Answer Mark
+    2 (e) AO1 - 3 marks Award 1 mark for ..."): that is the last page heading,
+    and accepting it prepends the previous part's whole answer to this block.
+    That is not hypothetical - it is what put 3(d) content inside nine 3(e)
+    blocks and 4(b) content inside nine 4(c) blocks, on the older papers whose
+    mark schemes share one heading row per page and print no question wording.
+    Eighteen blocks were wrong and every check passed.
+
+    So a candidate is accepted only if, after stripping any leading column
+    headings, it does NOT open with a row label and AO allocation.
     """
     lo = max(0, pos - window)
     back = raw[lo:pos]
     for m in reversed(list(HDR_MARK.finditer(back))):
-        seg = STOP_TAIL.sub("", back[m.end():]).strip()
+        seg = back[m.end():].strip()
+        while True:
+            stripped = COLS.sub("", seg)
+            if stripped == seg:
+                break
+            seg = stripped.lstrip()
+        # TEST THE ROW SHAPE **BEFORE** STRIPPING THE LABEL. `LABEL_TAIL` is here
+        # to remove a label that belongs to the stem it precedes; run first, it
+        # also removes the label of the PREVIOUS part's row and the row then looks
+        # like ordinary stem text. That is exactly how the rejection silently
+        # failed the first time it was written.
+        if ROW_START.match(seg) or seg.lower().startswith(("answer", "mark")):
+            continue                  # the previous part's row, not this stem
+        seg = STOP_TAIL.sub("", seg).strip()
         seg = LABEL_TAIL.sub("", seg).strip()
         if len(seg) > 15:
             return lo + m.start()
@@ -108,6 +146,14 @@ def blocks_for(pdf: pathlib.Path, tier: int) -> list[tuple[str, str]]:
         seen.add(key)
         end = spans[i + 1][0] if i + 1 < len(spans) else len(raw)
         head = _stem_start(raw, pos)
+        # A head that lands BEFORE the previous part's label has walked into that
+        # part's answer, whatever shape it has: the heading it found introduces the
+        # previous part, not this one. Start at this part's own label instead and
+        # lose the stem, which is the honest trade - a block is evidence only if
+        # everything in it belongs to the question it is filed under.
+        prev_pos = max((p for p, _k, _t in spans[:i] if p < pos), default=-1)
+        if head < prev_pos:
+            head = pos
         body = raw[head:end].strip()
         # The tail is the NEXT question's stem, because that stem sits between
         # this block's content and the next part label. Drop it -- the next
