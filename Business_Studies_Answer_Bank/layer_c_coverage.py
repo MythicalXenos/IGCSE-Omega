@@ -83,7 +83,7 @@ def main() -> int:
 
     print(f"3-mark blocks            : {len(rows)}")
     print(f"canonical topics         : {len(counts)}")
-    print(f"covered by entries 1-100  : {len(covered)} topics  ·  {sum(covered.values())} blocks")
+    print(f"covered by the 3-mark entries : {len(covered)} topics  ·  {sum(covered.values())} blocks")
     print(f"REMAINING                : {len(remaining)} topics  ·  {sum(remaining.values())} blocks")
     if unknown:
         print(f"\nWARNING: {len(unknown)} names in COVERED are not in the master CSV:")

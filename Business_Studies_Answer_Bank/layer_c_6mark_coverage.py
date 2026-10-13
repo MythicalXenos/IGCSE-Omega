@@ -77,7 +77,7 @@ def main() -> int:
     print(f"blocks in the tier        : {total}")
     print(f"blocks covered            : {total - len(remaining)}")
     print(f"REMAINING                 : {len(remaining)}")
-    print(f"entries written (1-100 3-mark + 6-mark) : {len(entries)}")
+    print(f"entries in 10_Chain_Bank.md           : {len(entries)}")
     if dangling:
         print(f"\n*** DANGLING entry references: {dangling}")
     if orphan:

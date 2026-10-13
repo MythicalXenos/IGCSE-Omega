@@ -39,6 +39,20 @@ BLOCK = re.compile(r"(\d+) \(([a-z]+)\)(?:\(([ivx]+)\))?\s*(A[O0]1)\s*[-=]\s*3\s
 # match early and silently TRUNCATES the topic. It must be the full phrase.
 AWARD = re.compile(r"Award 1 mark\s+(?:for\s+)?(.*?)(?:,?\s*plus\s+2\s+further|\.\s|,?\s*for\s+a+\s+maximum)", re.S | re.I)
 WORKED = re.compile(r"•\s*(.*?(?:\(\d\).*?){1,4})", re.S)
+# Some mark schemes print no bullet glyph at all (May-June 2019 P2 and P2R: the
+# answer is plain prose after "for a maximum of 3 marks."). Without this branch
+# those eight blocks harvested an EMPTY worked answer.
+PLAIN = re.compile(
+    r"for a maximum of 3 marks\.?\s*(.+?)"
+    r"(?=\s*(?:Answers? that list|Accept any|NB |Note:|\(\d+\s*\)?\s*Question|Question Number)|$)",
+    re.S)
+# A worked answer must stop before the next question's stem, or the canonical-topic
+# fallback reads the NEXT question and mislabels this one. That is exactly how
+# May-June 2021 P2 2(c) -- "explain one reason why businesses fail" -- was filed
+# as BATCH PRODUCTION: its segment ran on into 2(d)'s stem.
+STOP = re.compile(
+    r"\s*(?:NB |Note:|Answers? that list|Accept any other appropriate response"
+    r"|\(\d+\s*\)\s*(?:Question|Total)|Question Number).*$", re.S)
 
 # regex on the normalised mark-scheme topic phrase -> canonical Layer C topic
 MAP = [
@@ -92,7 +106,7 @@ MAP = [
     (r"sole trader", "SOLE TRADER"),
     (r"partnership", "PARTNERSHIP"),
     (r"private limited company", "PRIVATE LIMITED COMPANY (LTD)"),
-    (r"business failure|business might fail|some businesses fail|poor cash flow", "BUSINESS FAILURE"),
+    (r"business failure|business might fail|some businesses fail|poor cash flow|why businesses fail|businesses fail", "BUSINESS FAILURE"),
     (r"predicted growth", "PREDICTED GROWTH not achieved"),
     (r"economies of scale", "ECONOMIES OF SCALE"),
     (r"diseconomies of scale", "DISECONOMIES OF SCALE"),
@@ -200,14 +214,17 @@ def harvest() -> list[dict]:
             (p.extract_text() or "") for p in pypdf.PdfReader(str(pdf)).pages)))
         session = pdf.parent.name.replace("_", " ")
         paper = re.search(r"(P\dR?)_MS", pdf.name).group(1)
-        for m in BLOCK.finditer(raw):
+        hits = list(BLOCK.finditer(raw))
+        for i, m in enumerate(hits):
             if re.match(r"\s*A[O0]2", raw[m.end():m.end() + 40]):
                 continue  # the 6/9/12-mark headers also print "AO1 = 3 marks"
-            seg = raw[m.end():m.end() + 800]
+            # bound the segment at the next block, not at a fixed character count
+            end = hits[i + 1].start() if i + 1 < len(hits) else min(len(raw), m.end() + 1200)
+            seg = raw[m.end():end]
             a = AWARD.search(seg)
             topic = " ".join(a.group(1).split()).rstrip(",") if a else ""
-            w = WORKED.search(seg)
-            worked = " ".join(w.group(1).split()) if w else ""
+            w = WORKED.search(seg) or PLAIN.search(seg)
+            worked = STOP.sub("", " ".join(w.group(1).split())).strip() if w else ""
             rows.append(dict(session=session, paper=paper, question=f"{m.group(1)}({m.group(2)})",
                              ms_topic=topic, canonical_topic=canonical(topic, worked),
                              ms_worked_answer=worked))
