@@ -223,6 +223,29 @@ def main() -> int:
     print(f"  the 1- and 2-mark tiers carry "
           f"{sum(k * v for k, v in allt.items() if k < 3)} marks of the 3040")
 
+    # INDEPENDENT CHECK 2: the Getting Started Guide says every paper is "four
+    # compulsory questions, each worth 20 marks". Nothing above tests that - a paper
+    # could sum to 80 with 25/15/20/20. It does not: 38 of 38 split 20/20/20/20, so
+    # every question carries the same internal shape, which is WHY the tariff
+    # skeleton is invariant. Reproduce the claim, do not admire it.
+    qtot = collections.Counter()
+    odd = []
+    for name, parts in sorted(papers.items()):
+        per = collections.Counter()
+        for part, (total, _aos) in parts.items():
+            qn = re.match(r"(\d)", part)
+            if qn:
+                per[qn.group(1)] += total
+        qtot[tuple(sorted(per.items()))] += 1
+        if any(v != 20 for v in per.values()):
+            odd.append((name, dict(sorted(per.items()))))
+    print("\n  QUESTION-LEVEL CHECK — 'four compulsory questions, each worth 20 marks'")
+    for k, v in qtot.most_common():
+        print(f"    {v:>2} papers : {k}")
+    print(f"    papers where a question is NOT 20 marks: {len(odd)}")
+    for name, per in odd:
+        print(f"      {name:<46} {per}")
+
     print(f"\n  wrote {OUT.name}: {len(rows)} rows of 3+ marks")
     return 0
 

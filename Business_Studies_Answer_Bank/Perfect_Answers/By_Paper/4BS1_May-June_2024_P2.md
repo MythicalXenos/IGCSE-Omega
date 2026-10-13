@@ -1,6 +1,6 @@
 # 4BS1 — May-June 2024 — Paper 2
 
-**Items:** 21  ·  **Marks in this paper:** 80  
+**Items:** 26  ·  **Marks in this paper:** 80  
 **Source:** `Paperlords_Archive/IGCSE/4BS1_Business_Studies/.../4BS1_Business_Studies_May-June_2024_P2_MS.pdf`  
 **Mark scheme:** `.../4BS1_Business_Studies_May-June_2024_P2_MS.pdf` (text index: `4BS1_Business_Studies_May-June_2024_P2_MS.txt`)
 
@@ -10,7 +10,9 @@
 
 ## Question 1
 
-### `1(a)(i)` — 6 marks (AO1:1, AO1:1, AO1:1, AO1:1, AO1:1, AO1:1)
+### `1(a)(i)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a non-financial objective?
 
 **Official mark scheme answer:**
 
@@ -18,22 +20,91 @@ AO1 - 1 mark
 
 The only correct answer is B - Personal satisfaction
 
-A – is not the correct answer as generating wealth is a financial
+A – is not the correct answer as generating wealth is a financial objective
 
-objective
+C - is not the correct answer as maximising profit is a financial objective
 
-C - is not the correct answer as maximising profit is a financial
+D - is not the correct answer as regular income is a financial objective
 
-objective
+### `1(a)(ii)` — 1 mark (AO1:1)
 
-D - is not the correct answer as regular income is a financial
+**Question:** Which one of the following would be a benefit to a business delaying paying its suppliers?
 
-objective
+**Official mark scheme answer:**
 
-Q. No.   Which one of the following would be a benefit to a business Mark
+AO1 - 1 mark
 
-delaying paying its suppliers?
+The only correct answer is A - Improved cash flow
 
+B – is not the correct answer as profit would not be greater if you delayed paying suppliers
+
+C - is not the correct answer as suppliers would want more interest on the outstanding amount
+
+D - is not the correct answer as delaying payment would have the opposite effect on suppliers
+
+### `1(a)(iii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following would be the total monthly cost for Jewellery For You?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is B - €3 480
+
+A – is not the correct answer as €924 is 27 x 12 + 600
+
+C - is not the correct answer as €6 480 is 240 x 27
+
+D - is not the correct answer as €7 080 is 240 x 27 + 600
+
+### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a reason why a business would produce a cash flow forecast?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is C - It can help a bank decide whether it should lend money to a business
+
+A – is not the correct answer as it is not a legal requirement that a business has a cash flow forecast
+
+B – is not the correct answer as a cash flow forecast does not ensure that the business will be successful
+
+D - is not the correct answer as a forecast does not show the profit and loss of a business in the past six months
+
+### `1(a)(v)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following was the cost of the holiday in Thai Baht?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is C - 40 828.18
+
+A – is not the correct answer as 24.20 is 998 ÷ 40.91
+
+B – is not the correct answer as 1038.91 is 998 + 40.91
+
+D - is not the correct answer as 40 869.09 is 998 x 40.91 + 40.91
+
+### `1(a)(vi)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a reason why a sole trader would want to become a private limited company?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is D - Increased ability to raise finance
+
+A – is not the correct answer as the business would have to publish its financial records so therefore not confidential
+
+B – is not the correct answer as the private limited company would have limited liability
+
+C - is not the correct answer as shareholders are not liable for all debts
 
 ### `1(b)` — 1 mark (AO1:1)
 

@@ -1,6 +1,11 @@
 # 03 — CALIBRATION: WHAT LOSES MARKS
 
-These are **`[VERIFIED CANDIDATE EXEMPLAR]`** scripts that did *not* gain full marks, with the examiner's stated reason. All quotes are verbatim from official Pearson materials.
+These are **`[VERIFIED CANDIDATE EXEMPLAR]`** scripts that did *not* gain full marks. All quotes are verbatim from official Pearson materials.
+
+> ### ⚠️ WHERE THE REASON COMES FROM — and it is not always the same place
+> **Every mark in this file is printed by Pearson.** Where Pearson also states the defect *in the script's own examiner comment*, it is quoted as such — that is the great majority of this file.
+>
+> **For the June 2026 matched pair, it does not.** Those comments state what each script **did**; they do not state what was **missing**. **The diagnosis for that pair is the bank's**, drawn from the two scripts and from the level descriptors the same report prints — and it is labelled in place so it is never quoted as an examiner sentence. **The marks are Pearson's; the explanation of the gap is mine.**
 
 **Why this file matters more than the perfect answers.** Everyone can see that a good answer is good. What is hard — and what actually moves a grade 7 to a 9 — is recognising the *specific, repeatable* mistakes that Pearson penalises again and again. Every one of these patterns recurs across papers and sessions, so each error you eliminate here is worth marks in five or more future questions.
 
@@ -177,6 +182,44 @@ And on the 4/9 response from the same question:
 
 ---
 
+### 🏆🏆 THE MATCHED PAIR — the same question, scored **11/12** and **6/12** in the same session
+
+**June 2026 Paper 1R, Q4(c)** — *"Evaluate the extent to which social objectives may contribute to the success of Spud Bros."* **(12)** — **five marks apart on one stem, in one report.** This is the cleanest calibration evidence in the bank, because everything that could differ between two candidates — the case, the paper, the session, the year, the examiner's mood — is **held constant**, and only the **answer** differs.
+
+Both scripts are `[VERIFIED CANDIDATE EXEMPLAR]`s with their marks printed. Full transcripts: `External_Exemplars/2026-06_P1R_SpudBros.md`; the marked pages are rendered in `Exemplar_Scans/J26P1R_Q4c_11of12.png` and `…_6of12.png`.
+
+| | **11/12** | **6/12** |
+|---|---|---|
+| **Structure** | Continuous prose, two long paragraphs + a conclusion | Continuous prose, several short paragraphs |
+| **Every point** | A benefit **and** a drawback | **A benefit only** |
+| **The chain** | **Six links**: charity → posted online → recipients comment → reputation → *"recognise Spud Bros from other potato businesses"* → competitiveness → sales | Clean three-link chains: *"customers want to spend more → increase in sales → increase in profit"* |
+| **Context** | In every paragraph, inside the chains | **Also present throughout** |
+| **Conclusion** | **Concedes, then outweighs:** *"Although it causes a huge cost… the increase in sales may over the cost in long term."* | **Restates** what was already said |
+
+**Examiner comments — verbatim, both of them:**
+> **11/12:** *"This response shows that the candidate understands how social objectives have contributed to the success of Spud Bros. **They offer balance in their argument with appropriate levels of context throughout the response.** Total: **11 marks**"*
+>
+> **6/12:** *"This example shows that the candidate understands social objectives and the benefits it brings in the context of Spud Bros. Total: **6 marks**"*
+
+> ### ⚠️ WHAT THE REPORT DOES AND DOES NOT SAY — read this before quoting it
+> **Pearson states the marks, and for the 11/12 it states that the script offers balance with context throughout. It does NOT state which mark was missing, or why, in either case.**
+>
+> **The diagnosis below is the bank's, drawn from the scripts themselves plus the level descriptors the same report prints** — it is **not** an examiner sentence, and it must never be quoted as one.
+>
+> **What makes the diagnosis safe here is that the two scripts are the same question, and the difference between them is not subtle: the 11/12 answers the question twice — for and against — and the 6/12 answers it once.**
+>
+> **And the report supplies the standard the pair is measured against, verbatim, in its own Q4(c) commentary:**
+> > *"Those candidates who accessed **Level 3** considered the importance of social objectives, **provided balance in the context of Spud Bros** and the impact they have on the business. Then they **linked their points together in a logical order** and were able to **conclude their answer with a well-balanced and justified argument**."*
+>
+> **Three requirements, named in order: balance · logical linking · a well-balanced and justified conclusion. Nothing about length. Nothing about the number of points.**
+
+**What the 6/12 had, and it was not enough:** correct knowledge of social objectives, **context throughout**, and **clean chains that end on a business outcome**. Everything this bank teaches for the 3-, 6- and 9-mark tariffs — and it is worth **half marks**, because **the descriptor for the top levels of a 12-marker is not about the quality of your argument for the business, it is about whether you argued both ways.**
+
+### ⚠️ AND THE ONE THING THE 11/12 IS NOT
+**It is not a model of the "it depends" formula — it does not use one.** It outweighs in plain words: *"Although it causes a huge cost… the increase in sales may over the cost in long term."* **Outweighing earns AO4. The phrase does not.** *(The two 12/12s in `02_Verified_Exemplars.md` each take a different route again — one names its condition explicitly, one has no conclusion paragraph at all. Three full-or-near-full 12-markers, three different shapes, one requirement in common: **the argument has two sides and the last word decides.**)*
+
+---
+
 ## The merged diagnosis
 
 Reading all the examiner comments together, the same four failures recur, and none of them is about knowing more content:
@@ -187,6 +230,7 @@ Reading all the examiner comments together, the same four failures recur, and no
 | **2** | **Generic language — "a business", "products"** | 6-mark analyse → 3/6, 2/6 | Replace with the case's nouns. *Food*, not product. *Shoe suppliers*, not suppliers. |
 | **3** | **Describing options instead of choosing** | 9-mark justify → 3/9 | No knowledge marks exist. Decide in sentence one. |
 | **4** | **Shallow or absent evaluation** | 9-mark → 7/9 · 12-mark → 10/12 | Counter-argue against your own choice, then resolve it with "this depends on…" and short vs long term. |
+| **5** | **Arguing ONE side only** | 12-mark → **6/12** *(Spud Bros, Jun 2026 — the matched pair)* | **The top-level descriptor is not about how good your argument for the business is. It is about whether you argued both ways.** A benefits-only answer with perfect chains and full context is a Level 2 answer, and no amount of polish moves it. |
 
 **Note what is absent from that list: subject content.** Every single one of these candidates demonstrated the relevant business knowledge. They lost marks on **how they deployed it**.
 

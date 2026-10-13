@@ -151,17 +151,22 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 
 ## Coverage status of this batch
 
+> ### ✅ SUPERSEDED — 14 OCTOBER 2026. THE PLAN BELOW WAS CARRIED OUT AND THE BANK IS COMPLETE.
+> **This section listed four tiers as "remaining". All four were finished.** The six models on this page are **Batch 1 of the 12-mark tier**; the tier was completed across batches 8a–8c and **all 380 governed blocks are now carried by 252 labelled entries in `10_Chain_Bank.md`.** **The table below is kept as the record of what this batch started with; it is not a to-do list.**
+>
+> **`08_Completion_Map.md` is the live status page. Coverage is verified by `layer_c_coverage.py` (152/152), `layer_c_6mark_coverage.py` (114/114), `layer_c_9mark_coverage.py` (76/76) and `layer_c_12mark_coverage.py` (38/38) — each currently reporting 0 remaining.**
+
 | | Count |
 |---|---|
 | 12-mark questions in the archive | **38** |
 | Written as constructed models in this batch | **6** (the six most recent sessions) |
-| Remaining | 32 |
+| Remaining **at the time** | 32 — ✅ **since written: all 38 are covered** |
 
-**Next batches, in priority order** (agreed approach: highest tariff first, most recent sessions first):
+**The batches that were planned here, in the order they were worked** — highest tariff first, most recent sessions first:
 
-1. **12-mark tier** — remaining 32 evaluations
-2. **9-mark tier** — 76 justifications (highest-frequency high-value tariff: 2 per paper × 38)
-3. **6-mark tier** — 116 analyses
-4. **3-mark tier** — 152 explains
+1. **12-mark tier** — 32 evaluations ✅ **done**
+2. **9-mark tier** — 76 justifications (highest-frequency high-value tariff: 2 per paper × 38) ✅ **done — 58 distinct option pairs**
+3. **6-mark tier** — **114** analyses ✅ **done** *(this line said 116; the mark schemes say 114 — 3 per paper × 38)*
+4. **3-mark tier** — 152 explains ✅ **done — 97 distinct topics**
 
-The **official** answer content for every one of the 977 items is already complete in `By_Paper/` — this constructed tier adds the "how to assemble it into full marks" layer on top.
+The **official** answer content for every one of the **988 items** is complete in `By_Paper/` — this constructed tier adds the "how to assemble it into full marks" layer on top. *(This line said 977; the true count is 988 — see the correction in `README.md`.)*

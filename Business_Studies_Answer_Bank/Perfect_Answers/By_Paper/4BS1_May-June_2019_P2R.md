@@ -1,6 +1,6 @@
 # 4BS1 — May-June 2019 — Paper 2R (R)
 
-**Items:** 25  ·  **Marks in this paper:** 79  
+**Items:** 26  ·  **Marks in this paper:** 80  
 **Source:** `Paperlords_Archive/IGCSE/4BS1_Business_Studies/.../4BS1_Business_Studies_May-June_2019_P2R_MS.pdf`  
 **Mark scheme:** `.../4BS1_Business_Studies_May-June_2019_P2R_MS.pdf` (text index: `4BS1_Business_Studies_May-June_2019_P2R_MS.txt`)
 
@@ -27,6 +27,19 @@ AO1 = 1 mark
 
 A – Rent
 
+
+### `1(a)(iii)` — 1 mark (no AO — see note)
+
+**Question:** *withdrawn item — see the mark scheme note*
+
+**Official mark scheme answer (verbatim, an ERRATUM not an answer):**
+
+We are aware that there is no correct answer to this item. Because of this, all candidates will be awarded 1 mark for this question 1 (a) (iii). An error was made with the multiple-choice distractors. We take our responsibility of ensuring the accuracy of our assessments very seriously and we are reviewing candidate responses to ensure no one is disadvantaged.
+
+> ### ⚠️ WHY THIS ITEM HAS NO AO LABEL
+> **It carries a mark and tests nothing.** Pearson withdrew it after an error in the multiple-choice distractors and awarded the mark to every candidate.
+>
+> **This is the reason the paper sums to 79 on every arithmetic check that reads AO labels** — a parser looking for `AO1 - 1 mark` to know an item has begun walks straight past it. **The paper is 80 marks; the missing mark was ours.** The same fact is recorded as an explicit override in `build_layer_c_tariffs.py`, and it is the one paper in the archive whose mark total does not reconcile without it.
 
 ### `1(a)(iv)` — 1 mark (AO2:1)
 

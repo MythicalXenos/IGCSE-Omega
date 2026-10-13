@@ -1,6 +1,6 @@
 # 4BS1 — May-June 2024 — Paper 2R (R)
 
-**Items:** 21  ·  **Marks in this paper:** 80  
+**Items:** 26  ·  **Marks in this paper:** 80  
 **Source:** `Paperlords_Archive/IGCSE/4BS1_Business_Studies/.../4BS1_Business_Studies_May-June_2024_P2R_MS.pdf`  
 **Mark scheme:** `.../4BS1_Business_Studies_May-June_2024_P2R_MS.pdf` (text index: `4BS1_Business_Studies_May-June_2024_P2R_MS.txt`)
 
@@ -10,7 +10,9 @@
 
 ## Question 1
 
-### `1(a)(i)` — 6 marks (AO1:1, AO1:1, AO1:1, AO1:1, AO1:1, AO1:1)
+### `1(a)(i)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following describes Kaizen?
 
 **Official mark scheme answer:**
 
@@ -18,22 +20,91 @@ AO1 - 1 mark
 
 The only correct answer is A – Continuous improvement
 
-B – is not the correct answer as just-in-time (JIT) is the arrival
+B – is not the correct answer as just-in-time (JIT) is the arrival of supplies when needed
 
-of supplies when needed
+C – is not the correct answer as market orientation is not manufacturing
 
-C – is not the correct answer as market orientation is not
+D – is not the correct answer as job production is where employees make one unit at a time
 
-manufacturing
+### `1(a)(ii)` — 1 mark (AO1:1)
 
-D – is not the correct answer as job production is where
+**Question:** Which one of the following function areas would pay its employees’ wages?
 
-employees make one unit at a time
+**Official mark scheme answer:**
 
-Q. No.   Which one of the following function areas would pay its Mark
+AO1 - 1 mark
 
-employees’ wages?
+The only correct answer is A - Finance
 
+B – is not the correct answer as Human resources deals with recruitment
+
+C – is not the correct answer as Marketing deals with the promotion of the product
+
+D – is not the correct answer as Production deals with the manufacture of goods
+
+### `1(a)(iii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is the price of the shoes in pounds?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is B – £594.54
+
+A – is not the correct answer as £565.00 is 5.65 x 100
+
+C – is not the correct answer as £3 353.48 is 3 359.13 – 5.65
+
+D - is not the correct answer as £18 979.08 is 3 359.13 x 5.65
+
+### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a benefit of being a sole trader?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is C – Independence for the owner
+
+A – is not the correct answer as it is not easy for a sole trader to raise additional capital
+
+B – is not the correct answer as decisions are not shared
+
+D – is not the correct answer as sole traders do not have limited liability
+
+### `1(a)(v)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is the closing balance for the business?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is B – £48 000
+
+A – is not the correct answer as £44 000 is cash inflow plus cash outflow
+
+C – is not the correct answer as £55 000 is opening balance plus cash outflow
+
+D – is not the correct answer as £65 000 is opening balance plus cash inflow
+
+### `1(a)(vi)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an advantage of primary market research?
+
+**Official mark scheme answer:**
+
+AO1 - 1 mark
+
+The only correct answer is D It is a more up to date method of research
+
+A – is not the correct answer as it is more expensive due to being tailor-made to the business
+
+B – is not the correct answer as primary research takes more time due to carrying out surveys
+
+C – is not the correct answer as primary market research is not always done by market research agencies
 
 ### `1(b)` — 1 mark (AO1:1)
 

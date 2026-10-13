@@ -23,6 +23,7 @@ The guide's content-guidance section goes topic by topic stating, in Pearson's o
 | Weighting | **50%** of the total International GCSE | **50%** |
 | Length | **1 hour 30 minutes** | **1 hour 30 minutes** |
 | Marks | **80** | **80** |
+| Per-question marks | **20 · 20 · 20 · 20** *(verified on all 38 papers)* | same |
 | Structure | **four compulsory questions, each worth 20 marks** | same |
 | Case study | a **small business — up to 49 employees** | a **large business — more than 250 employees** |
 | Availability | June | June |
@@ -34,6 +35,8 @@ The guide's content-guidance section goes topic by topic stating, in Pearson's o
 **1. Every paper is four questions of exactly 20 marks each.** So the 20 marks of Question 1 and the 20 marks of Question 4 are **worth the same**. Questions are *ramped* — they get harder — but they are **not weighted**. **A mark is a mark wherever you find it.**
 
 > *"Initially the examination paper asks questions testing Knowledge (AO1) and Application (AO2) but increase in difficulty towards the end of each question… an increased number of questions are presented that test the higher-order skills of Analysis (AO3) and Evaluation (AO4)."*
+
+✅ **AND IT IS TRUE OF THE MARK SCHEMES, NOT JUST OF THE GUIDE — verified, 38 of 38.** Every archived paper splits **20 · 20 · 20 · 20**, with **no paper scoring a question at anything other than 20** (`python3 ../build_layer_c_tariffs.py` prints the check). **That is a stronger statement than it looks: an 80-mark paper could have been 25 / 15 / 20 / 20 and still totalled 80 — and none of them is.** So **every question is internally identical**, which is the reason the tariff skeleton never varies and the reason a technique learned on Question 1 transfers whole to Question 4.
 
 **2. There is no choice.** *"four compulsory questions."* You cannot skip a topic. And: *"Questions can be taken from any part of the specification… it appeared that some candidates had not covered the full specification."*
 

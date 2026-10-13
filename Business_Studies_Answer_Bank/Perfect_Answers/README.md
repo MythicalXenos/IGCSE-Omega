@@ -53,7 +53,7 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 | **`00_Pearson_Official_Rulebook.md`** | ⭐ **START HERE.** Pearson's own published marking guidance for 4BS1, by command word. The awarding body stating how its papers are marked. Where anything else disagrees with this, **this wins**. |
 | **`External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md`** | ⭐ **17 real candidate responses with the official mark scheme, awarded mark and examiner commentary** — June 2019 Paper 2/2R. The highest-quality source in the bank. |
 | **`07_Official_Exam_Scope.md`** | ⭐ **What you do NOT need to learn.** The Getting Started Guide's own limits on every topic, the exact formulae and definitions in scope, and the precise wording of each required distinction. |
-| **`By_Paper/`** | **Every question in every paper.** 38 files, one per question paper, containing all **977 items** with the official mark scheme answer for each. Start here when working a specific paper. |
+| **`By_Paper/`** | **Every question in every paper.** 38 files, one per question paper, containing all **988 items** with the official mark scheme answer for each. **Every file is checked against the mark schemes by `verify_by_paper.py` — 26 items and 80 marks each, in the identical 12/4/4/3/2/1 tariff shape.** Start here when working a specific paper. |
 | `01_Mark_Tariff_Playbook.md` | The rules. AO splits, level bands and the structural recipe for every tariff — with literal opening sentences. **Read before writing anything.** |
 | `02_Verified_Exemplars.md` | The verified full-mark scripts, transcribed in full, with examiner commentary. This is the benchmark. |
 | `03_Calibration_Below_Full_Marks.md` | Near-miss scripts with the examiner's reason for every mark lost. Arguably more instructive than the full-mark ones. |
@@ -74,7 +74,17 @@ When guidance conflicts, trust in this order:
 
 ## The two layers
 
-**Layer 1 — official content (complete).** `By_Paper/` holds the mark scheme answer for every one of the 977 items across all 38 papers. For the 595 one- and two-mark items (443 + 152) the mark scheme answer **is** the perfect answer — there is nothing to add. For the 382 level-based items it is the official accepted content that a full-mark response must assemble into developed chains.
+**Layer 1 — official content (complete).** `By_Paper/` holds the mark scheme answer for every one of the **988 items** across all 38 papers. For the **608 one- and two-mark items (456 + 152)** the mark scheme answer **is** the perfect answer — there is nothing to add. For the **380 level-based items** it is the official accepted content that a full-mark response must assemble into developed chains.
+
+> ### ⚠️ THESE THREE NUMBERS WERE WRONG UNTIL 14 OCT 2026 — and they looked right
+> This paragraph used to say **977 items · 595 one- and two-mark (443 + 152) · 382 level-based**. Every figure was typed by hand, and the file it described **agreed with all of them** — so nothing in `By_Paper/` looked broken. **Three defects were hiding behind that agreement, in three different files:**
+>
+> 1. **May-June 2024 P2 and P2R** each collapsed the six one-mark MCQs into a single heading read as **"6 marks"** — the scheme prints the roman numeral on its own line, so the parser saw six `AO1 - 1 mark` runs as one item. **And it carried the content of only the FIRST of the six.** Measured on the file as committed: **one "only correct answer is" and three distractors, where the mark scheme prints six and eighteen.** ⚠️ **So five MCQs' official answers were simply absent from the file — while the "6 marks" heading still counted their marks.** The paper still summed to 80, which is why nothing noticed.
+> 2. **May-June 2019 P2R was missing `1(a)(iii)`** — a **withdrawn item** that carries a mark but **no AO label**, which the generator used as its start-of-item signal. That is the paper that sums to **79**.
+>
+> ✅ **All three are repaired (`repair_by_paper_mcq_blocks.py`), and the check that found them is now tracked: `python3 verify_by_paper.py` compares every file against the tariff table derived from the mark schemes — item count, mark total, tariff histogram and governed-part labels. It passes 38/38, and the counts above are now what it prints.**
+>
+> **The lesson is sharper than "counts drift", and it has two halves.** **First: a check that only sums marks cannot see a six-for-one substitution** — the old reality check, *does this paper total 80?*, was satisfied by a file that had lost five questions **and** was satisfied on both 2024 papers. **Second: a file can be internally consistent and still be wrong.** `By_Paper/`'s headers agreed with its own headings, in all 38 files; agreement between a document and itself is not evidence. **What broke the deadlock was an INDEPENDENT count** — the tariff table derived from the mark schemes by `build_layer_c_tariffs.py`, which says how many parts of each tariff a paper must have.
 
 **Layer 2 — constructed models (in progress).** Assembling that official content into full-mark-shaped responses. Priority order: 12-mark (38 items) → 9-mark (76) → 6-mark (116) → 3-mark (152). Batch 1 covers six 12-mark questions; see `05_Constructed_12mark_Models.md` for what remains.
 
