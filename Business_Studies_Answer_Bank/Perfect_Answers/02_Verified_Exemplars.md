@@ -794,6 +794,41 @@ May 2023 printed **four** full-mark Justify answers — **P1 Q2(f)** (batch vs j
 
 ---
 
+## ⭐⭐⭐⭐⭐ THE NAMED CONDITION — why some evaluations score and others do not
+
+The bank now holds **five verbatim 9/9 Justify scripts** and a **12/12**, plus every below-full-mark verdict. Side by side, one mechanism decides the mark.
+
+| Mark | The candidate's evaluation | Condition named? |
+|---|---|---|
+| **12/12** | *"could be limited because it depends on factors such as **nature of employee**"* | ✅ + outside knowledge |
+| **9/9** | *"it depends on **the quality of training that the chocolate makers will be provided with**"* | ✅ |
+| **9/9** | *"this entirely depends on **the success of the local event**… if **the number of attendants is low**"* | ✅ |
+| **9/9** | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ |
+| **9/9** | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ |
+| **9/9** | *"the internet is generalised… they **won't find trends about flowers**"* | ✅ |
+| **8/9** | *"it depends on **how much they have spent**"* | ⚠️ vague |
+| **8/9** | *nothing* | ❌ |
+| **7/9** | *nothing* | ❌ |
+
+> ## 🎯 **An evaluation earns marks only when the condition is NAMED and SPECIFIC to this business and this option.**
+> **Test:** could you paste your condition clause onto a different question? If yes, it is generic and it will not lift you past 8.
+
+### THE THREE VALID MOVES — the phrase "it depends" is optional
+| Move | Real full-mark example |
+|---|---|
+| **Named condition** | *"it depends on the quality of training the chocolate makers will be provided with"* |
+| **Specific drawback of your chosen option** | *"the internet is generalised… they won't find trends about **flowers**"* |
+| **Concede against your own choice** | *"**In the long term, job rotation may be better** as it gives employees a sense of value"* |
+
+⭐ **The concession is the strongest move of the three.** That candidate argues against their own choice and still scores 9. **It is the exact opposite of the restate-your-argument fault that caps answers at 8.**
+
+### 🏆 THE 9/9 CONCLUSION — THREE SENTENCES, THREE JOBS
+> *"**Personally, I would choose to use Bonuses** as money can be a key motivator to people, it also helps increase your sales. **A disadvantage of job rotation is that people may not be qualified for every job** in a company. **In the long term, job rotation may be better as it gives employees a sense of value.**"*
+>
+> **1** decides · **2** names the alternative's drawback · **3** concedes the long-run counter-case.
+
+---
+
 # 12 MARKS — EVALUATE
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 12/12

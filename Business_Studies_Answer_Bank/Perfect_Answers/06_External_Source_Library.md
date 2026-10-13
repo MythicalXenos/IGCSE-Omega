@@ -1578,6 +1578,67 @@ May 2023 produced **four verified 9/9 Justify answers** (P1 Q2(f), P1 Q3(e), P1R
 
 ---
 
+## 91. ⭐⭐⭐⭐⭐ THE NAMED CONDITION — the single rule that explains every mark band
+
+Five full-mark (9/9) Justify scripts from May 2023, read verbatim, plus every below-full-mark verdict in the bank. Set the evaluation sentences side by side and one mechanism appears.
+
+| Mark | The evaluation sentence | Condition named? |
+|---|---|---|
+| **12/12** | *"could be limited because it depends on factors such as **nature of employee**"* | ✅ named + outside knowledge |
+| **9/9** | *"it depends on **the quality of training that the chocolate makers will be provided with**"* | ✅ |
+| **9/9** | *"this entirely depends on **the success of the local event**… if **the number of attendants is low**"* | ✅ |
+| **9/9** | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ |
+| **9/9** | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ |
+| **9/9** | *"the internet is also generalised… they **won't find trends about flowers**"* | ✅ |
+| **8/9** | *"it depends on **how much they have spent**"* | ⚠️ vague |
+| **8/9** | *no condition at all* | ❌ |
+| **8/9** | *no evaluative dimension* | ❌ |
+| **7/9** | *no judgement at all* | ❌ |
+
+> ## 🎯 **THE RULE: an evaluation earns marks only when the condition is NAMED and SPECIFIC to this business and this option.**
+>
+> ### THE TEST — could your condition clause be pasted onto a different question?
+> - ❌ *"it depends on how much they spent"* → fits anything. **Generic. Scored 8.**
+> - ✅ *"it depends on the size of the bonus and how the system works"* → only a bonus scheme. **Specific. Scored 9.**
+>
+> ### THREE VALID MOVES — you do not need the phrase "it depends"
+> | Move | Example (all scored 9/9 or 12/12) |
+> |---|---|
+> | **Named condition** | *"it depends on the quality of training the chocolate makers will be provided with"* |
+> | **Specific drawback of the chosen option** | *"the internet is generalised… they won't find trends about flowers"* |
+> | **Concede against your own choice** | *"In the long term, job rotation may be better as it gives employees a sense of value"* |
+>
+> ⭐ **THE CONCESSION IS THE STRONGEST MOVE.** The M&M 9/9 names the case against its own choice and still gets full marks. **A judgement that concedes something is stronger than one that does not** — and it is the direct opposite of the restate-your-own-argument fault that caps answers at 8.
+
+---
+
+## 92. 🏆 THE 9/9 JUSTIFY CONCLUSION — three sentences, three jobs
+
+From the M&M 9/9:
+> *"**Personally, I would choose to use Bonuses as money can be a key motivator to people, it also helps increase your sales.** **A disadvantage of job rotation is that people may not be qualified for every job in a company/business.** **In the long term, job rotation may be better as it gives employees a sense of value.**"*
+
+1. **Decides** — names the choice and the decisive reason.
+2. **Names the other option's drawback** — attacks the alternative on a specific point.
+3. **Concedes the long-run case against its own choice.**
+
+**Copy this shape.** It is short, it uses AO2 vocabulary from the case (*cars/vehicles*, *bonuses*, *employees*), and it is the only conclusion in the bank that reaches 9/9 in the same three sentences.
+
+⭐ **Compare the failing conclusions:** *"the social objectives could bring more benefits…"* (6/12) · *"I believe that Spud Bros should use crowdfunding because they won't have to pay anyone in return"* (8/9 — restates) · *"if M&M takes their customer opinions… they will be able to increase in sales"* (10/12 — summarises).
+
+---
+
+## 93. ⭐ THE P2R 9/9 JUSTIFY USES AO2 AS DEPARTMENTAL IMPACT
+
+The M&M answer does something unusual and effective: it traces one effect through **four functional areas** —
+> *"This would affect the **finance department** as they would have to track how much each employee is getting and deserves as a bonus. It would also affect the **marketing department** as they will have a better brand image. It could also affect the **HR department** as they can use the bonuses system to attract new employees…"*
+> and later: *"This would affect the **production department** as not as many cars will be manufactured. This would also affect the **HR department** as they may have to start looking to recruit new employees…"*
+
+> ### 🔬 A REUSABLE AO2 TECHNIQUE
+> **Trace your chain through the business's functions** — finance, marketing, HR, production, operations. Each is a **different piece of applied knowledge**, so it demonstrates breadth of AO2 in a few words, and it keeps the answer anchored in the business rather than the theory.
+> **This is not the only route, but it is the cheapest way to widen application without padding.**
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)

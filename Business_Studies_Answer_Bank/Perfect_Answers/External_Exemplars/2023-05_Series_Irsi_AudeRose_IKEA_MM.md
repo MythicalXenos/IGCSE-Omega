@@ -248,6 +248,113 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 
 ---
 
+# ⭐⭐⭐⭐⭐ THE FIVE 9/9 SCRIPTS, VERBATIM — and the mechanism behind every mark band
+
+These are the actual full-mark answers. Read the **evaluation sentences** carefully — they are the whole difference between 7 and 9.
+
+## 9/9 — P1 Q2(f) · *"Justify which one of these two options Irsi Chocolatier should choose"* (job production vs batch production)
+
+> By using **job production** it is possible to make the different shapes and flavours in a **custom manner**. Since the chocolate lollipops will be made **one at a time**, it is possible to customise the shape and the flavour. This will help **satisfy customers**. Hence, they will be **loyal**. As a result **sales and profit will rise**.
+>
+> Furthermore, the lollipops can be made to a **high quality**. This will enable Irsi Chocolatier to use this **unique selling point** to **gain a competitive edge in the market** and **charge higher prices**. This will help **raise revenue and profit**.
+>
+> **However, it is expensive.** Since the chocolate makers **who are highly skilled** have to be employed, the wages that has to be paid to them will be higher. As a result the **wage cost** of Irsi Chocolatier will rise. Hence **profit may reduce**.
+>
+> Furthermore, the **lead time will be longer**. As the custom shapes have to be produced one at a time, it will take longer to produce. Hence, customers may have to **stay longer to get their order**. This may inconvenience the customer and result in **dissatisfaction**. As a result they may spread **negative publicity**.
+>
+> **Overall, it is beneficial to use job production if the business aims to provide high quality custom chocolates, however it depends on the quality of training that the chocolate makers will be provided with. The most important factor of this method of work is that employees may be motivated. Batch production is non-desirable since quality and customisability will be less.**
+
+**Examiner:** *"shown detailed understanding of the choice they have made… context throughout… logical chains of reasoning… **a good judgement about their choice with a thorough evaluation**."*
+
+> 🔬 **THE EVALUATION SENTENCE:** *"it depends on **the quality of training that the chocolate makers will be provided with**"* — **a named, business-specific condition.**
+> And note the last sentence: **it rules against the other option on the criterion it built** — *"Batch production is non-desirable since quality and customisability will be less."*
+
+## 9/9 — P1 Q3(e) · on-the-job vs off-the-job training
+
+> Irsi Chocolatier should **train the new employee on-the-job** because then the employee will **learn how to make the handmade chocolates the way the business prefers it**, meaning that **no difference to the recipe will be made**, therefore the chocolates can **maintain the quality that customers are used to**, meaning **no impact on customer satisfaction**.
+>
+> **However, unlike training off-the-job, the employee may not learn the most up-to-date methods**, meaning that **the current methods may be slower or less effective** so **there's less output being made**, therefore **the business can't restock the shelves as often** and there will be **less available to locally be delivered**. **(considering that the business was opened in 1989 and may want to keep their traditional production methods)**
+>
+> **Overall, the business should use on-the-job training because the employee is producing sweets while on the job and salaries are being paid…**
+
+> 🔬 **THE EVALUATION MOVE IS IN BRACKETS:** *"(considering that the business was opened in 1989 and may want to keep their traditional production methods)"* — **it uses a fact from the case study to weigh the drawback against the benefit.** That is AO4 in one parenthetical.
+
+## 9/9 — P1R Q2(f) · sponsor a local flower show vs leaflets around Paris
+
+> Sponsoring a local event may be a good option for Aude Rose in order to increase its sales. This is because **large amount of customers may pass by or attend the event, and become more aware of Aude Rose**. This may encourage customers to visit Aude Rose, and as it is already recognised for its **high quality flower arrangements**, customers may be more satisfied; therefore, **purchase other flowers once they visit the flower shop** as well. This means that Aude Rose may have a **larger customer base**, and customers may be more **attracted to Aude Rose rather than other flower shops**.
+>
+> **However, this entirely depends on the success of the local event, and whether it was held effectively or not**, meaning that Aude Rose may not be able to increase its sales **if the number of attendants of the local show is low**.
+
+> 🔬 **THE CONDITION IS THE SENTENCE:** *"this entirely depends on the success of the local event… **if the number of attendants of the local show is low**"* — **a specific, measurable condition tied to the option.**
+
+## 9/9 — P1R Q3(e) · questionnaires in the shop vs internet research
+
+> Using the internet to research on trends is a better way as they are **provided with more information than questionnaires**. The internet is also **easily accessible** as long as there is a **suitable device connected to the network**. The internet will also allow users to **filter their searches** which will make their search **quick and accurate**. Trending topics will be **easiest to spread** as the internet is accessible from almost all parts of the world which means countries that are **ahead of them such as Australia** will provide the trends happening there which **may also be starting in Paris**. As a result, Aude Rose can **already properly plan and expect changes needed if the city starts to take a liking to the new trends**.
+>
+> **However, the internet is also generalised sometimes so it is possible that they won't find trends about flowers. The internet is also filled with a lot of false information as the posters can choose to be anonymous which could make Aude Rose prepare for the wrong trends.**
+
+> 🔬 **AND HERE IS A SECOND SHAPE FOR AO4 — drawbacks of the chosen option, with no "depends" at all.** *"won't find trends about **flowers**"* and *"**false information**… **prepare for the wrong trends**"*. Both are **specific to this option in this business.**
+
+## 9/9 — P2R Q3(e) · job rotation vs bonus (M&M) — **THE MOST INSTRUCTIVE ONE**
+
+> One advantage to using **bonuses** is it can **increase motivation**… This means the employee satisfaction in the workplace will be high. Therefore the employees will be **more productive**… **As a result there will be more sales of cars/vehicles and the manufacturing process can run smoother and more efficient.** As well as this **high employee satisfaction gives the business a good image and reputation**. This would affect the **finance department** as they would have to **track how much each employee is getting and deserves as a bonus**. It would also affect the **marketing department** as they will have a better brand image. It could also affect the **HR department** as they can use the bonuses system to **attract new employees** which would help with recruitment. It also gives employees a **sense of achievement**.
+>
+> **However this depends on the size of the bonus and how the system to get a bonus works. If it is not good no one will be motivated.**
+>
+> One disadvantage of using bonuses is it **may not give employees a sense of responsibility**. This means they may **feel bored throughout the day**. As a result they could have a **decrease in motivation** and could lead to a **decrease in productivity**. This would affect the **production department** as not as many cars will be manufactured. This would also affect the **HR department** as they may have to **start looking to recruit new employees if the current ones aren't leaving**.
+>
+> **Personally, I would choose to use Bonuses as money can be a key motivator to people, it also helps increase your sales. A disadvantage of job rotation is that people may not be qualified for every job in a company/business. In the long term, job rotation may be better as it gives employees a sense of value.**
+
+**Examiner:** *"This candidate considered both of the options for retaining employees, **offering evaluative comments** gaining the full marks available."*
+
+> 🔬 **THE CONCLUSION DOES THREE THINGS IN THREE SENTENCES** — and this is the model to copy:
+> 1. **Decides:** *"Personally, I would choose to use Bonuses as money can be a key motivator to people, it also helps increase your sales."*
+> 2. **Names the other option's drawback:** *"A disadvantage of job rotation is that people may not be qualified for every job."*
+> 3. **Concedes the long-run case against its own choice:** *"**In the long term, job rotation may be better as it gives employees a sense of value.**"*
+>
+> **A judgement that concedes something is stronger than one that does not.** This answer disagrees with itself and gets 9.
+
+---
+
+# ⭐⭐⭐⭐⭐ THE MECHANISM — one rule that explains every mark band
+
+Put all the evaluation sentences side by side and the pattern is unmistakable.
+
+| Mark | Session · paper | **The evaluation sentence** | **Is the condition NAMED?** |
+|---|---|---|---|
+| **12/12** | 2023 P1 Q4(c) | *"the effectiveness … could be limited because it depends on factors such as **nature of employee**"* — then supports it with job rotation and job enrichment | ✅ **named + external knowledge** |
+| **9/9** | 2023 P1 Q2(f) | *"it depends on **the quality of training that the chocolate makers will be provided with**"* | ✅ **named** |
+| **9/9** | 2023 P1R Q2(f) | *"this entirely depends on **the success of the local event**… if **the number of attendants is low**"* | ✅ **named** |
+| **9/9** | 2023 P2R Q3(e) | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ **named** |
+| **9/9** | 2023 P1 Q3(e) | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ **named** |
+| **9/9** | 2023 P1R Q3(e) | *"the internet is also generalised… they **won't find trends about flowers**"* | ✅ **named** |
+| **8/9** | 2026 P1R Q2(f) | *"it depends on **how much they have spent in these expenditure sample**"* | ⚠️ **vague** |
+| **8/9** | 2025 P1R Q1(g) | *(no condition — examiner: could add "the 'it depends' rule")* | ❌ **absent** |
+| **8/9** | 2023 P2R Q2(f) | *(context and chains, but no evaluative dimension)* | ❌ **absent** |
+| **7/9** | 2025 P2 Q2(f) | *(no judgement at all)* | ❌ **absent** |
+
+> ## 🎯 **THE RULE**
+> ### **The evaluation is only worth marks when the condition is NAMED and SPECIFIC to this business and this option.**
+>
+> *"It depends"* alone scores nothing. *"It depends on how much they spent"* scores 8. **"It depends on the size of the bonus and how the system to get a bonus works"** scores 9.
+>
+> ### THE TEST: could your condition clause be pasted onto a different question?
+> - ❌ *"it depends on how much they spent"* → could apply to anything. **Generic.**
+> - ✅ *"it depends on the size of the bonus and how the system works"* → only makes sense for a bonus scheme. **Specific.**
+> - ✅ *"this entirely depends on the success of the local event… if the number of attendants is low"* → only makes sense for event sponsorship. **Specific.**
+>
+> ### ⭐ AND THE SECOND, EQUALLY VALID ROUTE
+> **A drawback of the option you chose, stated specifically, with no conditional at all** — the internet answer (*"won't find trends about flowers"*) and the bonuses answer (*"may not give employees a sense of responsibility… feel bored"*) both do this and both scored 9.
+>
+> **You do not need the phrase "it depends". You need a condition, a drawback, or a concession — and it must be about THIS business.**
+
+### ⭐⭐ AND THE THIRD MOVE, FROM THE BEST OF THE FIVE — *concede against yourself*
+> *"**In the long term, job rotation may be better** as it gives employees a sense of value."*
+>
+> The 9/9 M&M answer **names the case against its own choice and still gets full marks.** This is the opposite of the 8/9 behaviour of restating your own argument. **A judgement that concedes something is stronger than one that does not.**
+
+---
+
 ## Harvest status — May 2023
 
 | Item | State |
@@ -259,7 +366,8 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 | **P1R Q4(c) 12-mark Evaluate** | ✅ **verified 4/12** + the full four-point critique |
 | All four Q4(c) commentaries | ✅ text layer read in full |
 | Four Paper Summary pages | ✅ verbatim |
-| **The four 9/9 Justify scripts** | ⏳ **not yet rendered** — P1 pp. 22, 30 · P1R pp. 17, 27 · P2R p39 (8/9 on p27, 5/9 on p26, 3/9 on p38, 7/9 on p34, 5/9 on p36) |
+| **The 9/9 Justify scripts** | ✅ **FIVE captured verbatim** — P1 Q2(f), P1 Q3(e), P1R Q2(f), P1R Q3(e), P2R Q3(e) (pp. 22, 30, 17, 27, 39–40) |
+| ~~The four 9/9 scripts~~ | ✅ done — P1 pp. 22, 30 · P1R pp. 17, 27 · P2R p39 (8/9 on p27, 5/9 on p26, 3/9 on p38, 7/9 on p34, 5/9 on p36) |
 | Other Q1–Q3 scripts | ⏳ not yet rendered — page maps below |
 | P2R scripts for Q1–Q4 | ⏳ not yet rendered |
 
