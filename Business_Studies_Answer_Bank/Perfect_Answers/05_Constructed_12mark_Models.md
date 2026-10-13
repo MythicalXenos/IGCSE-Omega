@@ -14,6 +14,26 @@
 
 ---
 
+## ⚠️ READ THIS BEFORE USING THIS PAGE — every model here has a CANONICAL version elsewhere
+
+**This file is Batch 1** — the first six constructed 12-mark models, written before the Chain Bank existed. **All six questions were later covered again in `10_Chain_Bank.md`, where the treatment is longer, case-specific and maintained.** **Two models for one question, with nothing saying which to use, is a trap** — so here is the map, and the rule:
+
+| Model below | Question | **CANONICAL version** | What the Chain Bank adds |
+|---|---|---|---|
+| **1** | June 2026 P1 4(c) — *quality → competitive advantage* (Violet Cakes / Crumb) | **entry 229** | the case's own materials — *"fruit from England and Italy, the chocolate from France and Belgium"* — and the two-name warning |
+| **2** | June 2026 P2 4(c) — *market orientation → future success* (Nando's) | **entry 242** | why the verb is *"guarantee"*, and what a guarantee claim does to AO4 |
+| **3** | May 2025 P1 4(c) — *responding to changes in the market* (Four Fitness) | **entry 236** | the three-paper family: the same question on Apple, Emirates and Four Fitness, and **what "the change" is in each** |
+| **4** | May 2024 P1R 4(c) — *methods of market research* (Café Pinch) | **entry 232** | the Backyard Shoez comparison and *"more research is not automatically better"* |
+| **5** | Nov 2024 P1 4(c) — *introducing TQM* (Saha) | **entry 230** | the factory-disruption line, which is where the AO4 marks are |
+| **6** | Nov 2025 P1 4(c) — *operating as a franchise* (Ocean Vibes) | **entry 246** | the two AO4s that both concern **the other party** — the franchisee's incentives |
+
+> ### ✅ WHAT THIS PAGE IS FOR, NOW
+> **Use `10_Chain_Bank.md` to write the answer, and use this page to see the scaffold on its own** — the four-paragraph shape (Knowledge + answer · However · Alternatively · Overall + "depends") with the case stripped down, which is easier to hold in your head than the long versions.
+>
+> **They do not disagree. The Chain Bank versions are these, expanded.** If you ever find the two contradicting each other on a fact or a judgement, **the Chain Bank is right and this page is wrong** — it is the maintained one.
+
+---
+
 ## The 12-mark architecture (recap)
 
 Recall from the verified 12/12 that the top-band structure is:
@@ -131,7 +151,14 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 
 # 6. November 2025 — Paper 1, Question 4(c)
 
-**Question:** *Evaluate the benefits to Ocean Vibes of becoming a franchisor.* (12)
+**Question:** *"Evaluate the benefits to Ocean Vibes of operating as a franchise to further expand its business. You should use the information provided as well as your own knowledge of business."* (12)
+
+> ### ⚠️ THE STEM HERE WAS WRONG — CORRECTED 14 OCT 2026
+> **This page said *"becoming a franchisor"*. The paper and the mark scheme both say *"operating as a franchise to further expand its business"*** — and the two are not synonyms: **a franchisor SELLS the right; a franchisee BUYS it.** *"Becoming a franchisor"* would put Ocean Vibes on the **receiving** side of the fee.
+>
+> **The mark scheme resolves which side the question means, and it means the SELLING side:** *"A franchise is a business that gives the right to another person or business to sell its products or services"* · *"The franchise receives set-up/royalty fees from the franchisee"* · *"The franchisees can assist in the…"* **So the model below is right, and it was written to the mark scheme content — but the question printed above it was a paraphrase that said the opposite relationship.**
+>
+> ⚠️ **This is the FIFTH stem on this page found to disagree with the paper.** Four were corrected in an earlier pass; this one survived because the model it sits above happens to be correct — **which is exactly why a stem check has to compare the printed question, not the answer.** Use the paper's wording, and note that Pearson's own phrasing — *"operating as a franchise"* — is loose, so **the mark scheme's content, not the phrase, tells you what to write about.**
 
 **Context:** Ocean Vibes runs boat tours in Portugal; the owners are Alfred and Pedro.
 
