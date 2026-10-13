@@ -1884,6 +1884,157 @@ Pearson's own balance standard, stated outright — Nov 2024 P2 summary advice:
 
 ---
 
+## 110. ⭐⭐⭐ THE 6-MARK ANALYSE NEEDS **ONE** POINT — not several
+
+**June 2025 P1 Q1(g)** — *Analyse the effectiveness of the wide span of control used by Gianni Polvani* — **6/6**:
+> *"Gianni Polvani having a wide span of control means that **he can tell his 14 employees what he wants done and how**. This means that there is **less likely to be miscommunication**… By having less misunderstandings… **both of the gyms are more likely to become more successful**… Therefore this can lead to **the business performing more effectively** and so **the business is more likely to maintain a positive cashflow**."*
+
+> *"6 marks awarded. The candidate has provided **1 point with developed strands**… There is application throughout their response. Candidates are reminded that **there are no marks for knowledge in this question**."*
+
+> ### 🚨 **ONE POINT. FOUR CONSEQUENCE STEPS. 6/6. ~140 WORDS.**
+> | Assumption | The evidence |
+> |---|---|
+> | "You need 2–3 separate points for 6/6" | **No.** This has **one**. |
+> | "Longer is better" | It is **140 words**. |
+> | "Name the theory" | **"There are no marks for knowledge in this question."** |
+>
+> ⭐ **Depth of chain beats breadth of coverage.** One point driven four steps to a **business outcome** — *positive cashflow* — outranks three points driven one step each.
+> ⚠️ **Compare the same series: P2R Q2(d) offered TWO reasons, each developed, and scored 5/6.**
+> ⭐ **Every 6/6 in the bank ends at something measurable:** stock piles · sales · cashflow · bad reputation needing time to recover.
+>
+> **The 0-mark companion:** *"14 qualified instructor would lead to a good coordination…"* → *"**0 marks**. The candidate **demonstrates no knowledge of a wide span of control**."* — on a **no-AO1** question, "no knowledge" means **no understanding of the concept**, without which application is impossible.
+> **Most common 0:** *"more work getting done as there are more employees to do it"* — answers *"why are 14 employees good?"* not *"what is the effect of Gianni managing 14?"*
+
+---
+
+## 111. ⭐⭐⭐ THE STATE MINIMUM — "just one reference is enough"
+
+> **Examiner tip, June 2025 P1 Q2(a):** *"**Just one reference to the context of the business is enough for a 'state' question.**"*
+
+**And the companion, June 2025 P1 Q1(d):**
+> *"**Using the name of the business is not application (AO2) as the name of the business 'Four Fitness' is used in the question.**"*
+
+### The matched pairs — all June 2025
+
+| Question | ✅ 1 mark | ❌ 0 marks |
+|---|---|---|
+| P1 Q1(d) motivate staff | *"retain its **gym instructors**… prevent them going to **other nearby gyms in Italy**"* | *"…keeping working for **Four**"* — **name only** |
+| P1 Q2(a) location factor | *"close to **instructors**"* | *"locate away from competitors"* · *"close to the target market"* |
+| P1 Q2(b) why branding matters | *"attract more potential **gym members**… a **suitable gym to work out**"* | *"**good quality product and brand image**"* — generic |
+| P1R Q2(a) financial motivation | *"A bonus for the **tour guides** who achieve…"* | *"Providing bonuses if the employees are achieving their goals and targets."* |
+| P1R Q2(b) benefit of satisfying needs | *"recommend the **tour company** to people visiting **Shanghai**"* | *"a correct answer **but it is not contextualised to CCT**"* |
+
+> ### 🎯 **TEST: could this sentence be written about a different business without changing a word?**
+> *"branding gives a good quality product and brand image"* → yes → **0.** *"attract more potential gym members"* → no, it is a gym → **1.**
+> **Pearson's own suggested check:** *"…if their response is **generic and can be applied to any business**… For this scenario reference to **the service provided**, eg **tour guide, tourist, bicycle company**, would be sufficient."*
+
+---
+
+## 112. ⭐⭐⭐ THE 3-MARK EXPLAIN, PROVED BY A MATCHED PAIR
+
+**June 2025 P1R Q1(f)** — benefit of operating as a private limited company. Same paper, same question, same cohort:
+
+| Mark | Script | Examiner |
+|---|---|---|
+| **3** | *"limited liability which means that **he isn't responsible for any debts**, and therefore **won't have to sell his personal possessions**"* | *"a clearly identified benefit, with **clear interconnected points of development**"* |
+| **2** | *"separate legal identity. This means **owners are only required to pay debts on the amount invested**"* | *"a clearly identified point, with **ONE interconnected point**"* |
+
+> ### 🎯 **1 point + 2 developed steps = 3. 1 point + 1 developed step = 2.**
+> The 3 differs from the 2 by **exactly one further consequence** — from the same question, so it is structure, not marker mood.
+> ⭐ **Pearson's own count of the structure (June 2025 P2R Q2(e) tip):** *"from the mark scheme they can **only gain 2 further marks** for explaining the reason. **Do not waste time with longer responses than necessary.**"*
+> **So: 1 for the reason, 2 for development. Nothing more can score. The 3-mark answer is three sentences.**
+
+### 🚨 THE THIRD-MARK FAILURE, NAMED
+> *"a common issue… candidates **failing to reach the third mark**, as their **second strand of development often involved merely restating the initial point**."* (P1R Q2(c))
+> *"…providing **distinct, further reasoning or implications**… rather than **reiterating**."* (P1R)
+
+> **DEVELOPMENT = A NEW STEP DOWN THE CHAIN. NOT A REWORDING.**
+
+### ❌ And a NEW failure mode: a wrong premise poisons the consequences
+> *"Total quality management gives a business a better name but increase in customer satisfaction… This will increase profit which increases revenue."*
+> *"There is **no understanding of TQM demonstrated** in the response therefore the reference to 'increased customer satisfaction/higher productivity' is **not awarded**."* — **0 marks**
+> Same pattern twice more: *"importing goods may be **cheaper**"* with tariffs → 0 · *"quality control will **increase the competition**"* → 0.
+> ⭐ **A good consequence built on a false premise earns nothing. Check the opening claim is true before developing it.**
+
+---
+
+## 113. ⭐⭐ PREMATURE ROUNDING — a new calculation trap
+
+> *"those who **rounded their figures up or down prematurely**, affecting the accuracy to two decimal places, did **not achieve the full 2 marks**."* (June 2025 P1R Q1(e))
+
+**Correct answer `2.41` = 2 marks.** *"the correct substitution of numbers is evident… However, the answer was **incorrectly rounded up** and not calculated to the two decimal places indicated"* = **1 mark**.
+
+> ### 🎯 **Carry full precision through every intermediate step. Round ONLY the final answer on the answer line.**
+> **And the standing rule restated:** *"if **two accurate decimal places are not provided then the mark will be lost even with a correct response**."* (rule 107 → now **16 confirmations**)
+
+**And the discount error reaches its FIFTH confirmation** (June 2025 P2 Q4(a)):
+> *"awarded 1 mark for calculating the discount **which was the first step in the calculation**. However, they **failed to deduct the discount from the full price**."*
+> ⭐ **2019 P1R · Nov 2023 P1 · Nov 2024 P2 · Jun 2025 P2 — the pattern is now conclusive. It is the most reliable 1-mark loss in the qualification.**
+
+---
+
+## 114. ⭐⭐ THE 5/9 ONE-SIDED JUSTIFY — the clearest illustration of what balance is worth
+
+**June 2025 P2 Q3(e)** — *Justify: open coffee shops in supermarkets (Option 1) or hospitals (Option 2)*.
+> *"Opening coffee shops in supermarkets will has many advantages. It will encourage customers to go to Starbucks… people go shopping weekly so this will attract more people… which will make them more profit… **Overall I believe** putting coffee shops in the supermarkets will encourage more people to come in and buy something so this will mean **more profit for the company**."*
+> **Examiner:** *"This is a level 2 response, awarded **5 marks**, which showed **good knowledge in the context of Starbucks**. However, **it is a one sided argument and fails to provide a balanced assessment**."*
+
+> ### 🎯 IT HAS CONTEXT. IT HAS CHAINS. IT REACHES A CONCLUSION. **AND IT IS CAPPED AT 5/9.**
+> **The single missing element: the drawback of the alternative.** Nothing else.
+> ⭐ **This is the most instructive calibration in the whole bank** — the gap between it and a 9/9 is **one paragraph**, and every mark above 5 sits in that paragraph.
+
+---
+
+## 115. ⭐⭐ DEFINING — the two-part term, and three more collisions
+
+| Paper | Question | 1 mark | 0 marks |
+|---|---|---|---|
+| Jun 2025 P1R Q3(a) | define **share capital** | *"raised by selling shares."* | *"capital that consists only of shares"* — **circular** |
+| Jun 2025 P2R Q3(a) | define **JIT** | *"A method of **lean production** where **stock is bought only when needed** to avoid waste"* | — |
+| Jun 2025 P1 Q1(b) | define **trade bloc** | *"group of states or countries that have an agreement to trade between each other freely without many conditions or fees, e.g. the trade bloc of the EU"* | *"When a business might not be able…"* |
+
+> **Examiner tip (verbatim):** *"**Practise with candidates defining the terms rather than describing what they are. No marks can be awarded for a description of the term in a define question.**"*
+> ⭐ **On trade bloc:** *"a small number of candidates only included **either part** of this response so they received **zero marks**"* — **the definition has two halves: countries cooperating, AND no tariffs/taxes. Half a definition is no mark.**
+> ⚠️ **Most common wrong answer: "trade being blocked/banned"** — *bloc* read as *block*.
+> ⭐ **And on JIT:** *"Candidates are reminded that **all areas of the specification can appear**… **no matter how discrete they are**."*
+
+### 🚨 WORD-COLLISION CLUSTER — now **22**
+| Term | Read as | Source |
+|---|---|---|
+| **trade bloc** | *trade being blocked/banned* | Jun 2025 P1 |
+| **job production** | a jobs/HR process — *"creating more job opportunities"* | Jun 2025 P1 |
+| **share capital** | *capital that consists only of shares* | Jun 2025 P1R |
+| *(previous 19)* | | rules 74 · 78 · 109 |
+
+---
+
+## 116. ⭐⭐ THE EXAMINER'S TWO-QUESTION TEST FOR A 6-MARK CHAIN
+
+**June 2025 P2 Q3(d)** — the Level 1 that names a real reason and stops:
+> *"Starbucks wants to promote its existing employees as a **reward and thanks**… It also **motivates** the employees to work hard for the promotion."*
+> *"This is a **level 1** response… **fails to develop their answer to show causes and consequence**, ie **why will it motivate and what is the consequence to Starbucks of motivating staff by rewarding them?**"*
+
+> ### 🎯 **ASK TWICE: "WHY?" THEN "SO WHAT HAPPENS TO THE BUSINESS?"**
+> Applied twice, this is the difference between Level 1 and Level 3. **The examiner states it as a formula — use it as one.**
+
+**And its companion — chains without context (June 2025 P2 Q4(b), Level 2):**
+> *"This response tried to cover many different points but **lacks developed chains of reasoning**. It also **lacks any context**, so it was awarded level 2."*
+> ⭐ **Many points + no chains + no context = Level 2. One point + four chains + context = 6/6.** See rule 110.
+
+---
+
+## 117. ⭐⭐ CONTEXT VARIETY, AND THE "REPEATING THE STEM" WARNING
+
+> *"Context must be **woven throughout the entire response, appearing in all paragraphs**, and should demonstrate **variety rather than mere repetition**."* (June 2025 P1R Q1(g))
+
+> *"remember **not to simply repeat the information given**. This is to be used and **linked to the question** rather than just included in a response without development."* (June 2025 P2R Q2(d) tip)
+
+**Two checkable requirements:** *every paragraph* · *a different route each time* (product · competitor · industry · type of business — rule 44).
+
+⚠️ **But note the counter-case:** the 9/9 Rabanne Q2(f) and the strong Rabanne Q3(e) **both open by stating the chosen option.** *"Do not repeat the question at the start of your answer"* (rule 39) forbids **restating the stem** — it does **not** forbid **stating your decision**.
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)

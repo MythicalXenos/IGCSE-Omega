@@ -766,7 +766,7 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 
 ## ⭐⭐⭐ THE 9/9 JUSTIFY — FOUR FULL-MARK VERDICTS IN ONE SESSION (May 2023)
 
-May 2023 printed **four** full-mark Justify answers — **P1 Q2(f)** (batch vs job production) · **P1 Q3(e)** (on-the-job vs off-the-job training) · **P1R Q2(f)** (sponsoring a flower show vs leaflets in Paris) · **P1R Q3(e)** (questionnaires vs internet research). The bank previously held two 9/9s; it now holds **six**.
+May 2023 printed **four** full-mark Justify answers — **P1 Q2(f)** (batch vs job production) · **P1 Q3(e)** (on-the-job vs off-the-job training) · **P1R Q2(f)** (sponsoring a flower show vs leaflets in Paris) · **P1R Q3(e)** (questionnaires vs internet research). **⚠️ This section describes FOUR of the fourteen verified 9/9 Justify scripts in the bank.** The running total previously printed here was wrong — see **`09_Verified_Tally.md`**, which derives the count from the bank's own headings rather than asserting it.
 
 **The shared verdict — near-identical in three of the four:**
 > *"This response shows **what is expected from candidates** in order to gain the full marks for this type of 'justify' question. This candidate has **shown detailed understanding of the choice they have made**, they have **included context throughout** their response with **logical chains of reasoning** and has made a **good judgement about their choice with a thorough evaluation**."*
@@ -796,7 +796,7 @@ May 2023 printed **four** full-mark Justify answers — **P1 Q2(f)** (batch vs j
 
 ## ⭐⭐⭐⭐⭐ THE NAMED CONDITION — why some evaluations score and others do not
 
-The bank now holds **five verbatim 9/9 Justify scripts** and a **12/12**, plus every below-full-mark verdict. Side by side, one mechanism decides the mark.
+The bank now holds **fourteen verbatim 9/9 Justify scripts** and **two 12/12s**, plus every below-full-mark verdict. **Counts in this file are derived — run `../tally_exemplars.py`. See `09_Verified_Tally.md`.** Side by side, one mechanism decides the mark.
 
 | Mark | The candidate's evaluation | Condition named? |
 |---|---|---|
@@ -826,6 +826,100 @@ The bank now holds **five verbatim 9/9 Justify scripts** and a **12/12**, plus e
 > *"**Personally, I would choose to use Bonuses** as money can be a key motivator to people, it also helps increase your sales. **A disadvantage of job rotation is that people may not be qualified for every job** in a company. **In the long term, job rotation may be better as it gives employees a sense of value.**"*
 >
 > **1** decides · **2** names the alternative's drawback · **3** concedes the long-run counter-case.
+
+---
+
+## 🏆🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — **9/9** — a SEVENTH full-mark Justify, and the *"it depends"* named in full
+
+**June 2025 Paper 2R, Question 2(f)** — *Rabanne.* (9)
+**Source:** *Examiners' Report June 2025, Int GCSE Business 4BS1 02R.*
+
+**Option 1** = communicate all information through **text messaging/email**. **Option 2** = hold **weekly meetings**.
+
+### The full response
+
+> *"Rabanne should hold weekly meetings to improve communication amongst employees around the world either online or in person. This is because holding weekly meetings **creates & improves personal relations** between manufacturers & costume designers. Holding weekly meetings gives an opportunity for managers & manufacturers to directly communicate their opinions & problems they face. This means that **manufacturers & designers & employees feel heard & understood**. This leads to a **sense of belonging amongst designers in Rabanne**, ultimately **increasing motivation to deliver high quality perfumes & handbags** whilst **minimising miscommunication**.*
+>
+> *Rabanne should **not** communicate all information via email & messaging as **not every manufacturer will have the time to check their emails**. This means that **valuable pieces of information gets lost** amongst managers & manufacturers.*
+>
+> *In conclusion, Rabanne should hold weekly meetings as it gives employees this sense of belonging as **their opinions are physically heard**. Whereas **communication via messages can get lost in inboxes** which leads to manufacturers **missing important business objectives announcements**. **However, the success of this depends on how much employees get to voice their own concerns in business.**"*
+
+**Examiner comment (verbatim):**
+> *"This response gained **9 marks**. This response shows **what is expected from candidates in order to gain the higher marks** for this type of 'justify' question. This candidate has chosen to **look at both options** which is acceptable. They have shown an understanding of both options, they have **included context throughout their response with logical chains of reasoning** and have **made a reasonable judgement about their final choice of option**."*
+
+**ResultsPlus Examiner Tip (verbatim):**
+> *"Context can be a range of statements as shown here: **fashion, handbags, costume design, perfumes**."*
+
+### 🔬 THE CONCLUSION — the three-sentence template, for the sixth time
+
+| Move | Text |
+|---|---|
+| **1. Decide with a reason** | *"Rabanne should hold weekly meetings as it gives employees this sense of belonging as their opinions are **physically heard**."* |
+| **2. Name the alternative's drawback** | *"Whereas communication via messages can get lost in **inboxes** which leads to manufacturers **missing important business objectives announcements**."* |
+| **3. Concede the counter-case — the NAMED CONDITION** | *"**However, the success of this depends on how much employees get to voice their own concerns in business.**"* |
+
+> ### ⭐⭐ THE PASTE TEST
+> *"How much employees get to voice their own concerns"* is **specific to weekly meetings**. It cannot be pasted onto a question about pricing, location or finance.
+> **That is precisely why it lifts the answer to 9.** Compare the 8/9 that said only *"it depends on how much they have spent"* — vague, and it stayed at 8.
+>
+> ### ⭐ AND NOTE HOW IT ARGUES BOTH OPTIONS
+> Paragraph 2 is **entirely the drawback of the option it rejects** — *"not every manufacturer will have the time to check their emails… information gets lost"* — developed to the **same depth** as the case for meetings.
+> **Pearson's own standard (rule 105):** *"The counterbalance **should be as equally developed as** the points of analysis."* **This script obeys it.**
+
+---
+
+## 🏆🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — **6/6 ANALYSE IN ONE POINT** — the tenth full-mark Analyse
+
+**June 2025 Paper 1, Question 1(g)** — *Analyse the effectiveness of the wide span of control used by Gianni Polvani.* (6) — *Four Fitness*, 2 gyms in Italy.
+**Source:** *Examiners' Report June 2025, Int GCSE Business 4BS1 01.*
+
+### The full response
+
+> *"Gianni Polvani having a wide span of control means that **he can tell his 14 employees what he wants done and how**. This means that there is **less likely to be miscommunication or misunderstanding** between him and his employees with what he wants done regarding his **two gyms and the physical and social activities** that take part in them with the **gym members**.*
+>
+> *By having less misunderstandings due to the wide span of control, **both of the gyms are more likely to become more successful** and so the employees who are **highly trained instructors** can **better teach the gym members** what to do and help them if they don't understand something. Therefore this can lead to **the business performing more effectively** and so **the business is more likely to maintain a positive cashflow**."*
+
+**Examiner comment (verbatim):**
+> *"**6 marks awarded. The candidate has provided 1 point with developed strands**, analysing the effectiveness of the wide span of control. There is **application throughout their response**. Candidates are reminded that **there are no marks for knowledge in this question** and their response must be in the context of *Four Fitness* to access the AO2 marks."*
+
+### 🚨 THIS OVERTURNS A WIDESPREAD ASSUMPTION
+
+| Assumption | The evidence |
+|---|---|
+| "You need two or three separate points for 6/6" | **No. This 6/6 has ONE point.** |
+| "Longer is better" | **~140 words.** |
+| "Name the theory for the AO1 mark" | **"There are no marks for knowledge in this question."** |
+| "The answer must explain the concept first" | It **applies** the concept in sentence one and never defines it. |
+
+> ### ⭐ THE CHAIN, STEP BY STEP
+> wide span → **Gianni tells 14 employees directly what to do** → **less miscommunication** → **both gyms more successful** → **instructors teach better** → **business performs more effectively** → **positive cashflow maintained**
+>
+> **Six links, one idea, and it lands on a financial outcome.** ⭐ **Every 6/6 in the bank lands on something measurable:** *stock piles · sales · cashflow · bad reputation needing time to recover.*
+>
+> ⚠️ **Compare within the same series:** June 2025 P2R Q2(d) offered **two** reasons, each developed, and scored **5/6**. **Depth beat breadth.**
+
+### ❌ The 0-mark companions — and what they teach
+| Script | Examiner |
+|---|---|
+| *"14 qualified instructor would lead to a good coordination as each would have a specific job, if they were less they would be shared their tasks making them to have fatigue very quickly and lose motivation."* | *"**0 marks.** The candidate **demonstrates no knowledge of a wide span of control**."* |
+| *"more work getting done as there are more employees to do it"* (most common 0) | Answers *"why are 14 employees good?"* not *"what is the effect of Gianni managing 14?"* |
+
+> ⭐ **"No knowledge" on a no-AO1 question** means **no understanding of the concept** — without which there is nothing to apply.
+
+---
+
+## 🚨 CALIBRATION — the **5/9** that has everything except balance
+
+**June 2025 Paper 2, Question 3(e)** — *Justify: open coffee shops in **supermarkets** or in **hospitals**.* (9) — *Starbucks.*
+
+> *"I believe Starbucks should choose option 1: open coffee shops in supermarkets. Opening coffee shops in supermarkets will has many advantages. It will **encourage customers to go to Starbucks** but also people go shopping weekly so this will **attract more people** to go in there which will **make them more profit**. Putting coffee shops in supermarkets means people can buy a drink and go shopping whilst having it… Some people **may not have a Starbucks close to them but they have supermarkets**… **Overall I believe** putting coffee shops in the supermarkets will encourage more people to come in and buy something so this will mean **more profit for the company**."*
+
+**Examiner comment (verbatim):**
+> *"This is a **level 2** response, awarded **5 marks**, which showed **good knowledge in the context of Starbucks**. However, **it is a one sided argument and fails to provide a balanced assessment**."*
+
+> ### 🎯 IT HAS CONTEXT. IT HAS CHAINS. IT REACHES A CONCLUSION. **AND IT IS CAPPED AT 5/9.**
+> The single missing element: **the drawback of the alternative.** Nothing else.
+> ⭐ **This is the most instructive calibration in the entire bank.** The gap between it and the 9/9 above is **one paragraph**, and every mark above 5 lives in that paragraph.
 
 ---
 

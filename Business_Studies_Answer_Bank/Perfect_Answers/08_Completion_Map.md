@@ -61,7 +61,40 @@ So complete means **four things, all achievable**:
 
 ### Chunks still unread in reports already fetched
 
-**June 2025** ×4 — chunk 1 read for all four; the 12-mark exemplars sit in later chunks. **Render the remaining script pages.**
+**June 2025 ×4** — ✅ **NOW COMPLETE.** A second pass over all four reports recovered two further verified full-mark exemplars and nine rule-groups (**rules 110–117**). See `External_Exemplars/2025-06_Second_Pass_Addendum.md`.
+
+**What the second pass added to the verified set:**
+| Item | Detail |
+|---|---|
+| **A 10th verified 6/6 Analyse** | June 2025 P1 Q1(g) — *Four Fitness*, wide span of control. **"1 point with developed strands"** — one idea, six links, ~140 words. |
+| **A 7th verified 9/9 Justify** | June 2025 P2R Q2(f) — *Rabanne*, weekly meetings vs email. The named condition in full. |
+| **The State minimum, quantified** | *"**Just one reference to the context of the business is enough for a 'state' question.**"* |
+| **The 3-mark anatomy, proved** | 1 point + **2** developed steps = 3 · 1 point + **1** step = 2. Same question, same cohort. |
+| **Premature rounding** | New calculation trap — *"rounded their figures up or down prematurely."* |
+| **A priced 5/9 one-sided Justify** | Everything except balance → capped at 5. |
+| **Word-collision cluster 19 → 22** | *trade bloc · job production · share capital.* |
+
+> ### ⚠️ ONE DELIBERATE NON-ADDITION
+> The June 2025 P2R **Q3(e)** Justify script (product trials vs advertising) is a strong answer, **but no mark is printed against it in the retrievable text.** It is filed as **script-without-mark** and is **not** counted as a verified exemplar. **This is what the labelling contract requires.**
+
+### Chunks still unread — none outstanding
+
+### 🚨 INTEGRITY CORRECTION — the running totals were wrong
+
+`09_Verified_Tally.md` is new. It **derives** the exemplar counts from the bank's own headings via `tally_exemplars.py` instead of carrying hand-written totals.
+
+| Claimed | Truth |
+|---|---|
+| 9/9 = 6, then 7 | **14** |
+| 6/6 = 9 (then 10) | **18** |
+| 12/12 = 2 | **2** ✅ *the only count that was right* |
+
+**Cause:** totals were hand-incremented while the lists beside them grew by transcription. The two drifted.
+**Rule going forward: never carry a running total by hand.** Quote the script's output.
+
+**Two duplicate files remain the reason the naive scan over-counts by 2** — `2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA.md` against `2023-05_Series_*.md`. **This fold is now overdue.**
+
+**None.** All four June 2025 reports have now been read end to end — see the second-pass entry above.
 
 ---
 
@@ -71,8 +104,8 @@ Currently held (verbatim, with award):
 
 | Type | Tariff | Best verified |
 |---|---|---|
-| **Analyse** | 6 | **9 × 6/6** (Cadbury, Can Culleretes, Café Pinch, Starbucks, CCT, Irsi ×2, Aude Rose, IKEA) |
-| **Justify** | 9 | **6 × 9/9** (Cadbury, Café Pinch, Rabanne, Irsi ×2, Aude Rose ×2, M&M) |
+| **Analyse** | 6 | **18 × 6/6** — derived, see `09_Verified_Tally.md` |
+| **Justify** | 9 | **14 × 9/9** — derived, see `09_Verified_Tally.md` |
 | **Evaluate** | 12 | **2 × 12/12** (Jun 2024 P1 PPS · May 2023 P1 Irsi) · 11/12 (Spud Bros) |
 | **Explain** | 3 | multiple 3/3 |
 | **Calculate** | 2 | 2/2 with the d.p. rule |
