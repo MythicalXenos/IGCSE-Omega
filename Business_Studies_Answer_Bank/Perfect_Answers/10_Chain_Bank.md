@@ -42,7 +42,7 @@ Across 38 papers the qualification asks **governed** questions — anything need
 | Tier | Blocks | Written | Remaining |
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
-| **6-mark Analyse** | **114** | **19** | **95** |
+| **6-mark Analyse** | **114** | **31** | **83** |
 | 9-mark Justify | 76 | 0 | 76 |
 | 12-mark Evaluate | 38 | 0 | 38 |
 
@@ -93,7 +93,8 @@ Every entry gives you:
 | **4** | **3.4 Operations + 3.5 Finance + the last stragglers** | ✅ **28 entries (73–100)** |
 | **5a** | **6-mark Analyse — June 2026, all four papers** | ✅ **12 entries (101–112)** |
 | **5b** | **6-mark Analyse — May–June 2019, all four papers** | ✅ **7 entries (113–119)** |
-| **5c–6** | 6-mark Analyse — the remaining **95 blocks** | ⬜ next |
+| **5c** | **6-mark Analyse — May–June 2020, all four papers** | ✅ **8 entries (120–127)** |
+| **5d–6** | 6-mark Analyse — the remaining **83 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
@@ -2521,5 +2522,209 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** Kaizen gives the line workers **a say in how the work is done** → they are more motivated → **labour productivity rises** → more T-shirts from the same hours.
 
 > ⚠️ **Kaizen is not quality control and not TQM.** Quality control *inspects faults out* at the end; Kaizen *improves the process continuously* so there are fewer faults to find. **An examiner-named content gap — the vocabulary is expected and often absent.**
+
+---
+
+# BATCH 5c — 6-MARK ANALYSE, PART 3
+
+**8 new entries — May–June 2020's twelve blocks, covering all twelve.** Four of the twelve were **the same topic as an entry already banked**, so they are pointed at those entries rather than repeated:
+
+| Block | Topic | Where it now lives |
+|---|---|---|
+| 25 P1R 1(g) *importance of environmental factors (Loaf)* | environmental responsibility | **entry 120** |
+| 26 P1R 3(d) *how useful the information in Figure 2 is (Loaf)* | ratio comparison — operating profit margin | **entry 118** |
+| 27–31, 33–36 | six new topics + two merges | **entries 121–127** |
+| 32 P2R 3(d) *limitations of break-even charts (HRMW)* | break-even — the limitation direction | **entry 117** |
+| 35 P2 3(d) *why Emirates would want to be more environmentally friendly* | environmental responsibility | **entry 120** |
+
+> ### ⭐ THE PATTERN THIS PAPER PAIR EXPOSES
+> May–June 2020 asked **the same topic four times** — break-even (32), profitability (26), cash (29) and financial documents (33) — **once on each of its four papers**, because the four papers share a syllabus but not a case study. **That is the justification for this whole bank: learning the chain once answers every paper it appears on, and it will appear again.**
+
+---
+
+## 120. ENVIRONMENTAL RESPONSIBILITY — why it matters to a business
+
+**Asked:** *"Analyse the importance of environmental factors for Loaf."* — **May–June 2020 P1R, 1(g)**
+**Asked the other way round:** *"Analyse why Emirates would want to be more environmentally friendly."* — **May–June 2020 P2, 3(d)**
+
+**The AO2 anchors (Loaf):** there is **more interest in businesses becoming "green"** and Loaf provides somewhere for the community to **recycle**; Loaf runs the **"Waste Not" scheme**, giving away waste instead of disposing of it.
+
+**The AO2 anchors (Emirates):** Emirates **recycles all waste from its aircraft**; it wants to **maintain its reputation** as a business that cares about the environment and does this by **reducing fuel consumption**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Customers have become more interested in businesses that are **seen** to be green, so a business that acts on it **is rewarded in the market rather than merely avoiding criticism**. **Loaf's "Waste Not" scheme is the clearest form of this: it gives waste away instead of paying to dispose of it**, so the business **cuts a cost at the same time as doing something the local community can actually see**. **Customers who watch their own area being helped are more willing to buy from Loaf**, which is why the scheme is worth more than the money it saves. **The measurable end is that the community and the local area are visibly better off, so customers keep choosing Loaf** — and because it is helping charities and meeting its social objectives as well, the business's reputation does the advertising for it.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Green behaviour is **now something customers look for** |
+| **2. Strand A** | Giving away waste **cuts disposal cost while being visible locally** |
+| **3. Strand B** | A visibly helped community → **customers choose the business** |
+| **4. Measurable end** | **Cost down and reputation up**, with no paid promotion |
+
+**Second acceptable chain (Emirates):** recycling aircraft waste **protects a reputation the airline has spent decades building** → passengers who care about the environment **choose Emirates over a rival** → **higher passenger numbers at the same fare**.
+
+> ⚠️ **The word "environmental" hides two different questions.** *"Importance of environmental factors"* means **what is happening outside the business** — legislation, customer attitudes, pressure groups. *"Why be more environmentally friendly"* means **what the business gains by acting**. This entry answers both; **the case facts are what tell you which one you have been asked**, because Loaf's scheme is an action and Emirates' recycling is too.
+
+---
+
+## 121. CASUAL STAFF — the benefits of employing them
+
+**Asked:** *"Analyse the benefits for Loaf of employing casual staff."* — **May–June 2020 P1R, 4(b)**
+
+**The AO2 anchors:** Loaf can use casual staff **to fill roles such as chefs for the cooking class** and can **ask them to work at short notice**; and it can use **a number of chefs with different skills** to run different classes.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A casual worker is **called in when there is work rather than kept on the payroll**, so **Loaf does not pay a salary to a chef on the days no cooking class runs**. **That is the central benefit: the cost moves with the demand instead of against it** — a quiet week costs Loaf little, while a full timetable is staffed properly. **The second benefit is the range of skills Loaf can buy for the same money.** Because each chef is brought in for a particular class, **Loaf can run different cooking classes with chefs who specialise in each one**, rather than relying on one salaried chef to cover a menu they know only partly. **The measurable end is flexibility and a better product:** Loaf can put on the classes customers actually want, at short notice, **without carrying a wage bill it cannot fill** — which protects margin on the classes it does run.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Casual staff are **paid only when used** — the wage bill follows demand |
+| **2. Strand A** | No salary on quiet days → **costs stay low outside the class timetable** |
+| **3. Strand B** | Each chef bought for one specialism → **more classes, better taught** |
+| **4. Measurable end** | **Flexibility to meet demand** at a cost the business can carry |
+
+**Second acceptable chain:** casual chefs can be **called at short notice** → Loaf can accept a late booking it would otherwise turn down → **revenue captured that a salaried-only team would lose**.
+
+> ⚠️ **"Casual staff are cheaper" is not enough on its own** — that is knowledge. The mark is for **why** the cost moves with demand, and for **what the skill range lets Loaf do that it could not do otherwise**. Compare with entry on **seasonal staff** and **temporary employees** in the 3-mark tier: same family, different question.
+
+---
+
+## 122. LOCATION — why it matters, and what decides it
+
+**Asked:** *"Analyse the importance of location for TADS."* — **May–June 2020 P1, 1(g)**
+**Also asked:** *"Analyse two factors that could influence Cadbury when locating a new factory."* — June 2022 P2R 1(g) · *"Analyse the benefits for Huawei of locating its factories near to its labour sources."* — Nov 2021 P2 1(g)
+
+**The AO2 anchors (TADS):** TADS is located in a **wealthy area near to people with more disposable income**; and it **needs to be far away from competitors** in the music school industry.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A drumming school sells a **specialised service to a local market**, and **parents are unlikely to travel far to bring a child to a lesson every week** — so location decides how many customers TADS can ever have. **Being in a wealthy area matters for a second reason: the families nearby have more disposable income**, which means they can afford lessons that are a choice rather than a necessity. **The other half of the decision points the opposite way.** TADS must be **far from other drumming schools**, because not everyone wants to learn the drums — the market for a specialised instrument is small, and **two schools in one area would split a market that is already narrow**. **The measurable end is that a good location raises demand while a poor one caps it:** the wrong side of town could mean full classes and higher fees, the wrong distance from a rival could mean both schools struggle.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A local, specialised service → **customers must live close enough to attend** |
+| **2. Strand A** | Wealthy area → **more disposable income → lessons are affordable** |
+| **3. Strand B** | Far from rivals → **the small, specialised market is not split** |
+| **4. Measurable end** | **Demand is higher and defended** at the business's chosen site |
+
+**Second acceptable chain (Cadbury's factory):** locate where **raw materials and labour are available** → lower transport and wage costs → **the chocolate can be produced more cheaply** → a better margin on every bar.
+
+**Second acceptable chain (Huawei):** factories **near the labour sources** → workers arrive without relocating → **the business gets the skills it needs without paying relocation costs** → lower unit cost.
+
+> ⚠️ **Location questions always have two directions — pull towards customers, push away from rivals or towards materials.** An answer that only says "close to customers" answers half the question. **The mark scheme's second AO2 bullet is always the one candidates miss.**
+
+---
+
+## 123. CASH — why it is important to a business
+
+**Asked:** *"Analyse the importance of cash to TADS."* — **May–June 2020 P1, 3(d)**
+**Also asked:** *"Analyse the importance of cash to PPS."* — June 2024 P1R 4(b) · *"Analyse the importance of cash to the success of Ocean Vibes."* — Nov 2025 P1 4(b)
+
+> **This topic has appeared three times in six years, on three different businesses. The chain does not change; only the bills do.**
+
+**The AO2 anchors:** if TADS has **sufficient cash it can pay its electricity bills for the music studio**; if it **runs out of cash it cannot pay its music teachers**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Cash is what a business pays its bills **with, on the day they fall due** — and for TADS that means **the electricity for the music studio and the wages of the teachers who take the lessons**. **Running out of cash does not make the business unprofitable; it makes it stop.** **The consequence is immediate and physical: if TADS cannot pay the electricity bill the power is cut, and if it cannot pay its teachers they stop coming — so no lessons take place at all.** **That is what makes cash different from profit.** A business can be owed money by customers and still have no cash in the bank, and **the measurable end is that a profitable business trading on credit can still fail** because it cannot meet a payment on the day it is due. Cash is the difference between a business that is doing well and a business that is still open.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Cash is what **pays the bills on the due date** |
+| **2. Strand A** | No cash → **electricity cut, teachers unpaid** |
+| **3. Strand B** | No teachers or power → **no lessons can be delivered at all** |
+| **4. Measurable end** | **Trading stops** — even if the business is owed money and is profitable on paper |
+
+**Second acceptable chain:** holding cash lets TADS **pay for an opportunity the moment it appears** — a set of drums at a discount, or a room becoming free — so **cash buys the chances that a business without it has to refuse**.
+
+> ⚠️ **Never write "cash is the money a business has" and stop.** The whole mark is in **the failure mechanism** — unpaid bill → service withdrawn → no revenue. And never confuse cash with profit: **a profitable business can be insolvent**, and that distinction is what the examiners are testing.
+
+---
+
+## 124. BELOW-THE-LINE PROMOTION — the benefits
+
+**Asked:** *"Analyse the benefits for TADS of using below-the-line promotion."* — **May–June 2020 P1, 4(b)**
+
+**The AO2 anchors:** TADS could use **sales promotions such as coupons in the local newspaper Ollie writes a column for**; and it could **go to music festivals to showcase the skills of its students**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Below-the-line promotion targets **specific people with a direct offer**, rather than paying to be seen by everyone. **Coupons in the local newspaper are the clearest case: only readers of that paper see them, and those readers are the families living near the studio** — so the money buys attention in exactly the area TADS can serve. **Because Ollie writes a column in that paper, the coupons also carry his personal recommendation**, which is a credibility that a paid advertisement cannot buy. **The second route widens the reach while staying cheap.** Performing at music festivals puts TADS' students on a stage, and **spectators see what the teaching has actually produced** — which is evidence, not a claim. **The measurable end is students:** coupons convert readers into bookings, and the festival show converts spectators who had never considered drumming into enquiries.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Below-the-line targets **a specific, reachable audience** |
+| **2. Strand A** | Local newspaper coupons → **only local families see them → every view is a prospect** |
+| **3. Strand B** | A festival performance shows **what the teaching produces — proof, not promise** |
+| **4. Measurable end** | **More students enrolled** for a small, controlled spend |
+
+**Second acceptable chain:** below-the-line spend is **measurable** — TADS can count the coupons returned → it learns **which promotion actually works** → **future marketing budgets go where the students came from**.
+
+> ⚠️ **Know the line.** **Above-the-line** = paid mass media (TV, national press, billboards) — *seen by many, targeted at nobody*. **Below-the-line** = targeted, direct, usually cheaper (coupons, samples, exhibitions, direct mail). Getting the side wrong loses the application mark. *Examiner-named content gap: "above-the-line".*
+
+---
+
+## 125. BRANDING — why it is important to a business
+
+**Asked:** *"Analyse the benefit to HRMW of branding the products it sells."* — **May–June 2020 P2R, 1(g)**
+**Also asked:** *"Analyse the importance of branding for Irsi Chocolatier."* — May 2023 P1, 1(g)
+
+**The AO2 anchors (HRMW):** branding **differentiates its football products from those of its competitors**; and it helps customers **recognise its own logo, which appears on all its products**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A brand is the logo and name a customer recognises **before they read a price**, and that recognition is what **separates HRMW's footballs from an identical unbranded one on the next shelf**. **The value of that separation shows up in two places.** First, **customers who know the brand are willing to buy the hockey stick too**, because the logo carries the reputation of the football with it — so one strong product **sells the whole range**. Second, **advertising becomes easier and cheaper**, because the business no longer has to explain who it is: **it only has to say what the new product does**. **The measurable end is that customers choose the branded product over an unbranded equivalent**, which lets HRMW charge for the reputation rather than competing on price alone.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A brand is **recognition before price** — it differentiates |
+| **2. Strand A** | The logo carries the reputation onto **every other product in the range** |
+| **3. Strand B** | Recognition makes **each advertisement work harder for the same spend** |
+| **4. Measurable end** | **Customers choose branded over unbranded** → price power |
+
+**Second acceptable chain:** a recognised brand is **a promise of consistent quality** → customers who have been satisfied once **buy again without comparing** → lower customer-acquisition cost on every repeat sale.
+
+> ⭐ **The two halves the scheme rewards are differentiation and recognition.** "Branding makes the business famous" is neither — it is a slogan. **Differentiated from what, and recognised by whom, and then what does the customer do?**
+
+---
+
+## 126. FINANCIAL DOCUMENTS — why a bank is interested in them
+
+**Asked:** *"Analyse why a bank would be interested in HRMW's financial documents if it were to apply for a loan."* — **May–June 2020 P2R, 4(b)**
+
+**The AO2 anchors:** a bank **needs details of HRMW's financial situation to assess the risk of granting the loan**; and it would look at **several years' accounts to see a pattern or trend and whether there are large debts**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A bank is deciding **whether it will be paid back**, and the financial documents are the only evidence it has — so it reads them **to price the risk of the loan**. **One year tells it very little, which is why the bank asks for several:** a single good year can be luck, **but the same trend repeated shows whether HRMW is reliably profitable or simply had one good season**. **The bank is looking for two things at once.** It wants to know **whether the business generates enough funds to pay back the interest as well as the loan**, and it wants to see **whether HRMW already has large debts**, because a business owing money elsewhere is a business behind in the queue for repayment. **The measurable end is the terms HRMW is offered:** a business that can show years of successful trading **may receive a lower rate of interest**, because the bank has less reason to charge for risk.
+
+| Step | The move |
+|---|---|
+| **1. Point** | The documents are the bank's **only evidence of the risk** |
+| **2. Strand A** | Several years → **a trend, not one lucky year** |
+| **3. Strand B** | Existing debts + ability to pay **interest as well as capital** |
+| **4. Measurable end** | Proven trading record → **a lower interest rate** on the loan |
+
+**Second acceptable chain:** the documents also show **what the loan is secured against and how much the business owns** → the bank can recover its money if HRMW fails → **it is more willing to lend at all**, not just at a lower rate.
+
+> ⚠️ **Answer the question that was asked: why the BANK cares, not why the business keeps accounts.** The difference is that the bank is **pricing risk**, and every chain you write must end in something the bank does — lending, refusing, or charging more.
+
+---
+
+## 127. INTERVIEWING CANDIDATES — why it is central to recruitment
+
+**Asked:** *"Analyse why Emirates considers interviewing pilots as an important part of the recruitment process."* — **May–June 2020 P2, 4(b)**
+**Also asked:** *"Analyse why Starbucks thinks it is important to interview candidates that have applied for a job with them."* — June 2025 P2, 4(b)
+
+**The AO2 anchors (Emirates):** it gets **the opportunity to employ only those pilots with the skills it wants**; and **Emirates' staff can ask the pilots questions to judge whether they meet the airline's needs**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A CV or application form shows **what a candidate has done**, but a pilot's job depends on **how they behave under pressure and how they work with a crew** — and that cannot be written down. **The interview is where Emirates' own staff ask the questions that test it**, drawing out how a candidate would react rather than taking their word for it. **That questioning matters more in this job than in most: choosing wrongly is not a wasted salary, it is a safety and reputational risk** that no amount of later training fully removes. **The measurable end is the quality of the crew Emirates ends up with** — pilots who meet the airline's needs serve passengers better, and **better service wins market share** from rival airlines flying the same routes.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Paper shows **what** a candidate did; an interview shows **how** they behave |
+| **2. Strand A** | Emirates' own staff probe with questions → **judge fit beyond the CV** |
+| **3. Strand B** | A wrong hire in a safety-critical job is **not recoverable by training** |
+| **4. Measurable end** | **Better service → greater market share** |
+
+**Second acceptable chain:** seeing the candidate in person reveals **attitude and communication** → the recruiter can judge whether they fit the airline's culture → **new staff settle faster and stay longer**, which cuts repeated recruitment costs.
+
+> ⭐ **The scheme's phrase is "only those pilots with the skills it wants".** *Selection* is the point of an interview — **not "the business gets to know the candidate"**, which is a description rather than a consequence.
 
 ---

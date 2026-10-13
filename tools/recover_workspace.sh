@@ -28,6 +28,12 @@ echo "== resetting to origin/$BRANCH =="
 git reset --hard "origin/$BRANCH"
 
 echo
+echo "== reinstalling the PDF libraries (a re-seed always loses them) =="
+python3 -c "import pypdf" 2>/dev/null && echo "pypdf already present" \
+  || pip install --break-system-packages -q pypdf pymupdf cryptography
+python3 -c "import pypdf, pymupdf; print('pypdf + pymupdf OK')"
+
+echo
 echo "== after =="
 git log --oneline -3
 echo

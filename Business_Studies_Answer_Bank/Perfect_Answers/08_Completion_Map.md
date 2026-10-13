@@ -131,7 +131,7 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**112 entries written · 380 governed blocks in scope · 268 still to cover** (102 six-mark + 76 nine-mark + 38 twelve-mark, plus 52 unfilled 3-mark repeats not needed).
+**127 entries written · 380 governed blocks in scope · 249 still to cover** (83 six-mark + 76 nine-mark + 38 twelve-mark).
 
 Priority order:
 1. **6-mark Analyse — 114 blocks.** The single largest remaining tier, and the only one where the examiners' own complaint (*"valid comments… failed to develop these points"*) maps directly onto a repeated structural failure.
@@ -231,7 +231,9 @@ So the correct response is **not one essay per question** — that would repeat 
 | **3** | 3.3 Marketing | ✅ **23 entries (50–72)** |
 | **4** | 3.4 Operations + 3.5 Finance + the last stragglers | ✅ **28 entries (73–100)** |
 | **5a** | 6-mark Analyse — June 2026 (12 topics) | ✅ **12 entries (101–112)** |
-| **5b–6** | 6-mark Analyse — the remaining **102 blocks** | ⬜ next |
+| **5b** | 6-mark Analyse — May–June 2019 (7 topics) | ✅ **7 entries (113–119)** |
+| **5c** | 6-mark Analyse — May–June 2020 (8 topics) | ✅ **8 entries (120–127)** |
+| **5d–6** | 6-mark Analyse — the remaining **83 blocks** | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
 | **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
 
