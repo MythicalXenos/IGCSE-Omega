@@ -319,7 +319,16 @@ Re-deriving the three larger tariffs needs a proper **block** parser, not a head
 
 **Second acceptable chain:** limited liability → **risk limited to the investment** → more people willing to buy shares → **business raises more finance for growth**.
 
-> ⚠️ **Read who the question asks about.** This one asks about **the shareholder**, not the business. *"The business can raise finance"* is a business benefit and would be a different answer. Rule 102 — relevance by party — is the fault documented **five times** in the examiner reports.
+**The same topic is asked about the OTHER party — and this bank maps that block here, so it is answered here too.**
+
+**Asked:** *"Explain one advantage **to a business** of having **limited liability**."* — **November 2024 P1, 1(f)**. The scheme awards **two chains, and both are written from the business's side:**
+
+* **As the business exists as a separate legal entity (1)** → if the business goes into debt (1) → **this means the business owners are protected from losing their personal assets (1)**
+* **The business may raise large amounts of finance through selling shares (1)** → as investors only risk losing the value of their shares if the business fails (1) → **therefore the added finance will help the business to expand (1)**
+
+> ⚠️ **The scheme adds, in its own words: "NB No marks are awarded for a definition."** Both versions of this question are 3-mark Explain, so all three marks come from the **chain** — saying what limited liability *means* earns nothing.
+
+> ⚠️ **Read who the question asks about — this topic is asked BOTH ways, and the two answers overlap without matching.** **June 2026 P2R asks about the shareholder** (model above); **Nov 2024 P1 1(f) asks about the business** (chains above). On the shareholder wording, *"the business can raise more finance"* is a **business** benefit and earns nothing; on the business wording, the scheme's own first chain is about the owners being protected, so **do not assume "the owners are protected" is off-topic — the scheme awards it.** Rule 102 — relevance by party — is the fault documented **five times** in the examiner reports.
 
 ---
 
@@ -2289,6 +2298,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **The AO2 anchors (Apple):** access to **lower labour and production costs in China and Vietnam** for manufacturing its laptops; and a **larger consumer market** for its smartphones and smartwatches.
 
+**The other paper's own anchors — verbatim from the scheme (LEGO,** June 2022 P2 1(g)**):** LEGO **can sell its Harry Potter toys around the world**; and **the arts and craft materials can be produced in the most cost-effective location for LEGO**. **The scheme's chain runs through the rival —** *"this means that LEGO's global market will increase compared to rivals"* → *"thus reducing the average total cost and leading to a larger profit margin."* **Note the second half: the advantage is not only cheaper inputs, it is a bigger market than the competition's, which is what makes the average total cost fall.**
+
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
 > Manufacturing in China and Vietnam lets Apple pay **lower labour and production costs than it would in the US**, so the cost of building each laptop falls. **That cost saving is not passed entirely to the customer — it is kept as margin**, which is what allows Apple to **fund the continued updating of its products and stay ahead on innovation**. **The second half of the same advantage is reach:** selling into many countries gives Apple a **far larger consumer market for its smartphones and smartwatches**, and high global sales volumes let it **mass-produce the iPhone and drive the unit cost down further**. **The measurable end is a cycle, not a single gain** — lower unit costs and larger volumes reinforce each other, so Apple stays profitable while competing on specification rather than on price.
 
@@ -2517,6 +2528,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 | **4. Measurable end** | A **price set with the numbers known** → profit rather than guesswork |
 
 **Second acceptable chain:** the same calculation shows **how far sales can fall before the business makes a loss** → the owner knows the **margin of safety** and can judge how much risk the launch carries.
+
+**Usefulness runs in both directions — the calculation can also be the reason NOT to launch.** The scheme's NOF block (June 2021 P1 3(d)) awards the negative answer in full: NOF can see it **will need to sell 55 ice creams each day to break even**, and **can use this information to decide if it can sell 55 tubs a day, 365 days a year** — so *"this might stop NOF from making ice creams as it may not be able to sell 55 tubs all year round."* **A tool that prevents a loss-making launch is useful**, and *"it shows them the product is not viable"* is a full-mark answer to **"how useful…"**.
 
 > ⚠️ **Two standard traps, both recorded.** **(1)** Break-even is a *forecast*, not a certainty — it assumes costs and price stay constant. If you are asked for **limitations**, that assumption *is* your answer. **(2)** **Learn the formula: break-even output = fixed costs ÷ contribution per unit.** The formulae sheet gives only the six accounting ratios and does **not** include break-even — an examiner-named content gap.
 
@@ -2972,6 +2985,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Second acceptable chain (TUI's customers):** higher rates make **borrowing for a holiday dearer**, so **customers choose a cheaper destination or postpone the trip** → TUI fills fewer seats and must discount to fill them.
 
+**The scheme's own TUI chain, point by point (June 2024 P2 3(d)) —** customers **"may have less to spend on holidays and cruises if interest rates increase"** → *"some customers on holiday may not book additional trips or excursions offered by TUI"* → *"this could lead to a reduction in customers booking holidays **or going to travel agencies of TUI competitors**"* → *"this could lead to TUI having to reduce or cancel trips, which reduces its income."* **Two things to take from it: the loss is to RIVALS, not merely to lower spending, and the end of the chain is CAPACITY — trips reduced or cancelled — not just lower revenue.** **The question names the customers, so write it from their side.**
+
 > ⚠️ **Direction matters, and the question sets it.** *"An **increase**"* and *"a **decrease**"* are opposite answers — the Nov 2021 Artify question is about a **decrease**, where **the cost of borrowing falls and demand rises**. Getting the direction wrong makes every chain you write wrong, and **an answer built on a reversed premise scores nothing.**
 
 ---
@@ -3190,6 +3205,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 > **The word "two" is an instruction, not decoration.** Two factors, each developed — **not one factor developed well and a fragment of a second.**
 
 **The AO2 anchors:** Kumaran **can check the business objectives he has set**; and he can **compare the annual financial details, such as profit from 2018 to the present**.
+
+**The other paper's own anchors — verbatim from the scheme (Aude Rose,** May 2023 P1R 4(b)**):** **Aude Rose have grown by opening a larger shop in the centre of Paris**; and **by moving to the centre of Paris it has made possible an increase in the number of people buying its flowers**. **The scheme's two developments are worth copying, because both turn a fact into evidence of success:** *"by moving to a larger shop in a better location Aude Rose has shown success **by being able to pay the higher rent**"* — **paying more to expand is itself the proof that the business can afford it**; and *"this shows success of the business as **there is a demand for its flowers** and they are willing to increase the risk to the business by investing in a wider range of flowers."* **Careful: paying a higher rent proves success only while the business can afford it — the scheme ties it to growth, not to spending.**
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
 > Success has to be **measured against something the owner chose in advance**, otherwise it is only a feeling. **The clearest measure for Café Pinch is the objectives Kumaran set when he opened it** — because a business that has hit its own targets is succeeding **on its own terms**, and one that has not **needs to know that before it commits any more money**. **The second factor is the financial record.** Comparing **profit from 2018 through to the present** shows **a trend rather than a snapshot**: a single good year can be luck or a one-off event, **but profit rising year on year shows there is genuine demand for what the café sells** — and demand is what produces **loyal customers**. **The measurable end is that Kumaran can make the next decision on evidence:** the objectives tell him whether he is on course, and the trend tells him whether the business is getting stronger or merely holding still.
@@ -4124,6 +4141,8 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 | **4. Named condition** | ⭐ **Provided the stock turns over fast enough to clear the balance within the season** |
 
 **Second acceptable chain:** crowdfunding **brings customers as well as cash** — the people who fund a small shoe shop become shoppers → but **a mall shop's customers must be local**, and **an online campaign reaches people who will never walk into the three shops.**
+
+**Second chain for crowdfunding, verbatim from the scheme:** *"they could also pay the investors with products rather than a financial reward **which could help cash flow**."* **That is the AO3 point the crowdfunding option is awarded and it is easy to miss: the reward does not have to be money, so a business short of cash can settle part of the cost in stock — which protects the very thing an overdraft is being used for.**
 
 > ⚠️ **The overdraft's AO4 is the one candidates forget: "the bank can demand repayment at any time."** **That is a genuine risk and it is printed in the scheme** — an answer that treats the overdraft as simply "flexible" has not evaluated it.
 
@@ -5383,7 +5402,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 **The AO2 anchors (M&M):** increasing promotion **means more people will know about M&M and the vehicles it has on sale**; introducing new features such as automatic door locking **may interest customers**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on M&M)*
-> **M&M should introduce the new features.** The decisive fact is **what a vehicle is and what decides a purchase: a car is bought after it has been driven or after someone has recommended it, and the scheme states the consequence of that — "there is no guarantee that people will buy the vehicles unless they have driven them or been recommended to buy one."** **Promotion makes people aware; awareness is not the step at which a car is chosen.** **A new feature, such as automatic door locking, gives the salesperson and the owner something to talk about and something to compare** — and it works on the customer who has already walked in, which is the customer who actually buys. **However, "designing this feature could be expensive and customers may not wish to buy the vehicle because of the increase in price."** **A feature that costs money to add and more money to sell is a feature that can reduce sales.** **I would still choose the new features, on the condition that they are added to the models where the competition already offers them — because a feature that a rival also has is a cost of staying in the market, while a feature no rival has is the only kind that can be charged for.**
+> **M&M should introduce the new features.** The decisive fact is **what a vehicle is and what decides a purchase: a car is bought after it has been driven or after someone has recommended it, and the scheme states the consequence of that — "there is no guarantee that people will buy the vehicles unless they have driven them or been recommended to buy one."** **Promotion makes people aware; awareness is not the step at which a car is chosen.** **A new feature, such as automatic door locking, gives the salesperson and the owner something to talk about and something to compare** — and it works on the customer who has already walked in, which is the customer who actually buys. **The scheme's own reason is blunter, and it is the AO3 line to use: "customers may prefer to have the latest technology available."** **A feature is a reason to buy from one dealer rather than another; promotion is only a reason to know that the dealer exists.** **However, "designing this feature could be expensive and customers may not wish to buy the vehicle because of the increase in price."** **A feature that costs money to add and more money to sell is a feature that can reduce sales.** **I would still choose the new features, on the condition that they are added to the models where the competition already offers them — because a feature that a rival also has is a cost of staying in the market, while a feature no rival has is the only kind that can be charged for.**
 
 | Move | The answer |
 |---|---|

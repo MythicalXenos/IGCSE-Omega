@@ -400,9 +400,35 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_chain_bank_anchors.py` | all **228** block → entry mappings | each block scored against **its own mark-scheme content**; **146 proven outright** because the entry quotes the question |
 | `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
 | `verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
-| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **150 citations compared · 0 unresolved · 0 misattributed.** Names the question a quote actually belongs to when the citation is wrong |
+| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 151 citations compared by question number · 100 more by paper · 0 unresolved · 0 misattributed.** Names the question a quote belongs to when the citation is wrong |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
-| `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 9 absent from their entry, across 7 entries** — the current Layer C worklist. Advisory: a zero is a question to read, not a verdict |
+| `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
+
+### ✅ LAYER C ENTRY QUALITY — every awarded point is now named in its entry (14 Oct 2026)
+
+`verify_ms_point_coverage.py` asks, for every bullet the mark schemes award, **is it named anywhere in the entry mapped to that block?** It found **9 points across 7 entries that were not**, and all seven are now closed with the schemes' own wording — 24 quotes, every one verified verbatim against the block it came from:
+
+| Entry | What the scheme awards and the entry did not carry | Source |
+|---|---|---|
+| **9.** Limited liability | **The question asked about the OTHER party.** The entry answers the *shareholder* wording (June 2026 P2R) and its warning dismisses the business route — **while the bank maps the November 2024 P1 1(f) "advantage to a business" block here.** Both parties' chains are now carried, plus the scheme's own *"NB No marks are awarded for a definition."* | Nov 2024 P1 1(f) |
+| **108.** Multinational | **LEGO's own anchors** — *"can sell its Harry Potter toys around the world"*; *"the arts and craft materials can be produced in the most cost-effective location for LEGO"* — and a chain that runs through the rival: *"LEGO's global market will increase compared to rivals"* → *"reducing the average total cost and leading to a larger profit margin."* | June 2022 P2 1(g) |
+| **117.** Break-even | **Usefulness can be a NO.** *"This might stop NOF from making ice creams as it may not be able to sell 55 tubs all year round."* A tool that prevents a loss-making launch is useful — a full-mark answer to *"how useful"*. | June 2021 P1 3(d) |
+| **135.** Interest rates | **The TUI chain's real ending** — customers lost to *"travel agencies of TUI competitors"* → *"TUI having to reduce or cancel trips, which reduces its income."* Not merely lower spending: **lost to rivals, and ending in CAPACITY.** | June 2024 P2 3(d) |
+| **144.** Measuring success | **Aude Rose's own anchors** — growth by *"opening a larger shop in the centre of Paris"*; success *"shown by being able to pay the higher rent"*; *"there is a demand for its flowers"*. | May 2023 P1R 4(b) |
+| **179.** Crowdfunding vs overdraft | **The crowdfunding AO3** — *"they could also pay the investors with products rather than a financial reward which could help cash flow."* | May–June 2019 P1 3(e) |
+| **226.** Promotion vs product improvement | **The scheme's own reason for the features** — *"customers may prefer to have the latest technology available."* | May 2023 P2R 2(f) |
+
+**Every one is a case of the entry claiming a paper in `**Also asked:**` and then answering only the first paper.** The claim was true; the content was incomplete. **A citation is a promise that the entry serves that paper, and the promise has to be paid.**
+
+### 🔎 THE STEM CHECK WAS BLIND TO 100 CITATIONS (closed the same day)
+
+`verify_stem_quotes.py` skipped every citation that named a **session and paper but no question number** — and that is how the bank cites most 3-mark questions. **The largest blind spot in the check, and the check reported clean.** Now:
+
+* **the 3-mark tier is loaded** — 380 blocks known across the four tiers, 310 of which print a stem;
+* **100 citations are checked against their paper**: **70 proven** (a question on that paper reads like the quote), **30 not comparable**;
+* the 30 sit on **9 of the 38 papers that print no 3-mark question wording at all** — all four May–June 2019 papers, all four May–June 2020 papers, and November 2021 P1. **That list is derived in the script, not typed**, because a figure inside a correction note is still a claim (see the ellipsis note above).
+
+**The check's coverage now closes arithmetically, from its own output:** **273** citations found by the parser = **151** compared against a named question's printed stem + **18** where that question's scheme prints none + **4** duplicates folded + **100** resolved by paper (**70** proven, **30** on papers that print no 3-mark wording). **Every citation the check cannot test is now counted in a named category instead of skipped** — which is the only reason the blind spot was invisible: 100 citations were not "passing", they were never read. *(The first version of this note said "251 of the bank's 274" — it compared citations to citation-*lines* and was wrong. Derive it from the script, which now prints these counts itself.)*
 
 ### 🚨 THE BLOCK DUMPS WERE CARRYING THE WRONG QUESTION — eighteen blocks, 14 Oct 2026
 

@@ -51,6 +51,7 @@ import sys
 HERE = pathlib.Path(__file__).resolve().parent
 PA = HERE / "Perfect_Answers"
 FLOOR = 0.60            # below this, a quoted stem is not the printed one
+PAPER_FLOOR = 0.50      # below this, NO question on the named paper resembles the quote
 SHOW = 25               # how many of the weakest to print
 
 SESSION = {
@@ -127,6 +128,28 @@ def load_blocks():
     with open(HERE / "layer_c_12mark_inventory.csv", encoding="utf-8-sig") as fh:
         for r in csv.DictReader(fh):
             out[(r["Session"], r["Paper"], r["Part"].replace(" ", ""))] = r["Stem"]
+
+    # THE 3-MARK TIER WAS NOT LOADED AT ALL, so every 3-mark citation came back
+    # "could not resolve" and was never actually compared. Its inventory
+    # (`layer_c_3mark_master.csv`) has no stem column — the stem is printed in the
+    # block dump, between the heading and the "Answer Mark" column labels, and only
+    # on the blocks where the scheme prints it. The rest are left empty and counted
+    # as not-comparable, exactly like the 34 nine-mark schemes that print options only.
+    dump = (HERE / "layer_c_3mark_blocks.txt")
+    if dump.exists():
+        parts = re.split(r"\n={78}\n=== (.+?)\n={78}\n", dump.read_text(encoding="utf-8"))
+        for head, body in zip(parts[1::2], parts[2::2]):
+            bits = [x.strip() for x in head.split("|")]
+            if len(bits) != 3:
+                continue
+            sess, paper, label = bits
+            m = re.search(r"(?i)Question\s*Number|Q\.\s*No\.", body)
+            stem = ""
+            if m:
+                seg = body[m.end():]
+                cut = re.search(r"Answer\s+Mark|Indicative\s+content\s+Mark|Indicative\s+Content\s+Mark", seg)
+                stem = " ".join(seg[:cut.start() if cut else len(seg)].split())
+            out[(sess, paper, label.replace(" ", ""))] = stem
     return out
 
 
@@ -140,12 +163,14 @@ def main() -> int:
 
     seen, unresolved, nostem, weak, checked = set(), [], [], [], 0
     misattributed = []
+    paper_only = []
+    found = 0
+    dupes = 0
     for f in sorted(PA.rglob("*.md")):
         text = f.read_text(encoding="utf-8", errors="replace")
         for m in CITE.finditer(text):
+            found += 1
             quote, sess_raw, paper, qn = m.group(1), m.group(2), m.group(3), m.group(4)
-            if not qn:
-                continue
             key_s = None
             low = norm(sess_raw)
             for k, v in SESSION.items():
@@ -154,6 +179,15 @@ def main() -> int:
                     break
             if not key_s:
                 continue
+            if not qn:
+                # THE BANK CITES MOST 3-MARK QUESTIONS BY SESSION AND PAPER ONLY.
+                # Skipping those (the original behaviour) left ~126 citations
+                # entirely unchecked - the largest single blind spot in this check.
+                # With no claimed part there is nothing to contradict, but there is
+                # still a fact to test: does ANY question on the named paper read
+                # like the quote? If none does, the citation names the wrong paper.
+                paper_only.append((f.relative_to(PA), (key_s, paper), quote))
+                continue
             q = qn.replace(" ", "")
             if re.fullmatch(r"\d", q):
                 q = q + "(c)" if False else q          # bare number: cannot resolve
@@ -161,6 +195,7 @@ def main() -> int:
             stem = blocks.get(key)
             sig = (f.name, key, norm(quote)[:60])
             if sig in seen:
+                dupes += 1
                 continue
             seen.add(sig)
             if stem is None:
@@ -193,12 +228,46 @@ def main() -> int:
             else:
                 weak.append((score, f.relative_to(PA), key, quote, stem))
 
+    print(f"citations found by the parser : {found}   (this is coverage: it is how many the")
+    print(f"                                          check sees, so a parser failure is visible)")
     print(f"quoted stems compared       : {checked}")
     print(f"quoted stems the scheme does not print : {len(nostem)}  (not comparable)")
     print(f"quoted stems NOT resolved   : {len(unresolved)}  (reported, never skipped)")
+    print(f"quote+key duplicates folded : {dupes}  (the same citation written twice in one file)")
     print()
     weak.sort()
     misattributed.sort(reverse=True)
+
+    # ---- citations that name a paper but no question number ------------------
+    # Most of these are 3-mark Explain questions, and the schemes are split on
+    # whether they print the question's wording at all. **Eight of the 38 papers
+    # print no 3-mark wording anywhere** - all four May-June 2019 papers and all
+    # four May-June 2020 papers. (Nov 2021 P1 is a ninth for the P1/P2 pair; the
+    # count is per paper, and it is derived below rather than typed.) On those, a
+    # citation cannot be checked and must be counted as not comparable, NOT as a
+    # failure. On the other 30 papers the wording is printed, and a quote that
+    # resembles none of it is a real signal.
+    THREE = {"1(f)", "2(c)", "2(d)", "2(e)"}
+    no_match, paper_proven, paper_blind = [], 0, 0
+    for f, (sess, paper), quote in paper_only:
+        best = (0.0, None)
+        printable3 = False
+        for (s2, p2, q2), stem in blocks.items():
+            if (s2, p2) != (sess, paper):
+                continue
+            if q2 in THREE and stem.strip():
+                printable3 = True
+            if not stem.strip():
+                continue
+            sc = similarity(quote, stem)
+            if sc > best[0]:
+                best = (sc, q2)
+        if best[0] >= PAPER_FLOOR:
+            paper_proven += 1
+        elif printable3:
+            no_match.append((best[0], f, f"{sess} {paper}", quote, best[1]))
+        else:
+            paper_blind += 1
     # Two different things can make a score low, and only one of them is an error.
     # A MISATTRIBUTION is a contradiction - the quote demonstrably belongs to another
     # question - and fails the check. A low score with no better alternative is the
@@ -217,6 +286,29 @@ def main() -> int:
               f"({best[0]:.0%} against {score:.0%}) — margin {margin:+.0%}")
         print(f"       quote: {re.sub(chr(10), ' ', quote)[:100]}")
     print()
+    print("=" * 74)
+    print(f"CITATIONS WITH NO QUESTION NUMBER — {len(paper_only)} checked against their paper")
+    print("=" * 74)
+    print(f"  of {len(paper_only)}: {paper_proven} proven (a question on that paper reads like "
+          f"the quote), {paper_blind} not comparable")
+    # Which papers print no 3-mark wording at all — derived, then reported, so the
+    # number can never be a stale claim in a message (see 08_: a figure inside a
+    # correction note is still a claim).
+    blind = sorted({(s2, p2) for (s2, p2, q2), stem in blocks.items()
+                    if q2 in THREE and not stem.strip()
+                    and not any(v.strip() for (a, b, c), v in blocks.items()
+                                if (a, b) == (s2, p2) and c in THREE)})
+    print(f"  ({paper_blind} of the {len(paper_only)} sit on one of the {len(blind)} papers that print "
+          f"NO 3-mark question wording at all: "
+          + ", ".join(f"{x} {y}" for x, y in blind) + ")")
+    if not no_match:
+        print("  no citation names a paper whose printed 3-mark wording it fails to resemble.")
+    for score, f, where, quote, q2 in sorted(no_match):
+        print(f"  {score:5.1%}  {f}  {where} — no question on that paper matches")
+        print(f"          quote: {re.sub(chr(10), ' ', quote)[:96]}")
+        print(f"          closest on that paper is {q2}")
+
+    print()
     print(f"ADVISORY — {len(weak)} quotes below the floor with no better alternative")
     print("  (plain-English glosses of option pairs; the citation and scheme content "
           "both carry them):")
@@ -234,11 +326,12 @@ def main() -> int:
             print(f"  {f}  {key}  {re.sub(chr(10),' ',quote)[:80]}")
 
     print()
+    problems = len(misattributed) + len(no_match)
     print("RESULT:", "OK — no quoted stem names the wrong question."
-          if not misattributed
-          else f"FAIL — {len(misattributed)} quote(s) belong to a different question. "
-               f"The bank is wrong; the paper wins.")
-    return 0 if not misattributed else 1
+          if not problems
+          else f"FAIL — {len(misattributed)} quote(s) belong to a different question, "
+               f"and {len(no_match)} name a paper with no question like them. The bank is wrong.")
+    return 0 if not problems else 1
 
 
 if __name__ == "__main__":
