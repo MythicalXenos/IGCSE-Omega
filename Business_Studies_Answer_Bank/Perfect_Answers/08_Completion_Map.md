@@ -23,30 +23,45 @@ So complete means **four things, all achievable**:
 
 ## LAYER A — EVIDENCE COVERAGE
 
-4BS1 has four papers: **P1 · P1R · P2 · P2R**. Status by series:
+> ### 🚨 THREE STRUCTURAL FACTS — established this session, and they bound "complete"
+> 1. **November-series reports contain NO candidate scripts.** They are *"Principal Examiner Feedback"* — commentary only. **Every verified script in the bank comes from a Summer series.**
+> 2. **The November series runs only Papers 01 and 02.** Pearson's availability table: *Papers 1R & 2R — Nov 2025: **No**; Jun 2026: **Yes***. **"Nov P1R"/"Nov P2R" reports do not exist to be found.**
+> 3. **June 2021 has no report** — that series used teacher-assessed grades. **Nothing is missing; it was never produced.**
 
-| Series | P1 | P1R | P2 | P2R |
-|---|---|---|---|---|
-| **Jun 2019** | ✅ Backyard Shoez + official booklet | ⬜ | ✅ official booklet | ✅ Yellow |
-| **Nov 2020** | ✅ TADS | ✅ Loaf | ✅ Emirates | ⬜ |
-| **Jun 2021** | ⬜ | ⬜ | ⬜ | ⬜ |
-| **Nov 2021** | ✅ Artify | ⬜ | ⬜ | ⬜ |
-| **Jun 2022** | ✅ TBTS | ✅ Can Culleretes | ✅ LEGO | ✅ Cadbury |
-| **May/Jun 2023** | ✅ **fully worked** | ✅ **fully worked** | ✅ **fully worked** | ✅ **fully worked** |
-| **Nov 2023** | ⬜ | ⬜ | ✅ Kraft Heinz | ⬜ |
-| **Jun 2024** | ✅ PPS | ✅ Café Pinch | ✅ TUI | ⛔ **no report exists** |
-| **Nov 2024** | ✅ Paper Advice | ⬜ | ⬜ | ⬜ |
-| **Jun 2025** | ✅ Four Fitness | ✅ CCT | ✅ Starbucks | ✅ Rabanne |
-| **Nov 2025** | ⬜ | ⬜ | ⬜ | ⬜ |
-| **Jun 2026** | ⬜ | ✅ **fully worked** | ⬜ | ⬜ |
+### Coverage after the Phase 1 sweep
 
-**~22 report-papers remain outstanding.** Roughly 3–5 are likely never to be retrievable; the rest should be.
+| Series | P1 | P1R | P2 | P2R | Status |
+|---|---|---|---|---|---|
+| **Jun 2019** | ✅ | ✅ **new** | ✅ | ✅ | **COMPLETE** |
+| **Nov 2020** | ✅ | — | ✅ | — | **COMPLETE** (2 papers only) |
+| **Nov 2021** | ✅ | — | ✅ **new** | — | **COMPLETE** |
+| **Jun 2022** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
+| **May/Jun 2023** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
+| **Nov 2023** | ✅ **new** | — | ✅ | — | **COMPLETE** |
+| **Jun 2024** | ✅ | ✅ | ✅ | ⛔ | **COMPLETE** — P2R report confirmed non-existent |
+| **Nov 2024** | ✅ | — | ✅ **new** | — | **COMPLETE** |
+| **Jun 2025** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
+| **Nov 2025** | ❓ | — | ❓ | — | **OUTSTANDING** — not found at any date tried |
+| **Jun 2026** | ❓ | ✅ | ❓ | ❓ | **P1R COMPLETE** · others behind Edexcel Online |
 
-### Held locally (no fetching, no truncation) — 5 files
-`May_2023/` **P1 · P1R · P2 · P2R** (187pp) · `June_2026/P1R` (48pp)
+**Ten of eleven report-bearing series are complete.** The whole **Summer 2019 → Summer 2025** run is now closed.
 
-### ⚠️ The June 2026 discovery changes the timeline
-June 2026 **P1R** is complete and worked. **P1, P2 and P2R for June 2026 are unverified** — and Pearson's support page names "May 2026" as holding full-mark examples. **These are the single highest-value outstanding items.**
+### Outstanding, precisely
+
+| Item | State | Why |
+|---|---|---|
+| **Nov 2025 P1 · P2** | ❓ | Publication ~Jan 2026. **Every date tried returned 404** (`20260121`, `20260122`, `20260123`). Not on any mirror either. **May not be publicly posted yet, or the filename differs.** |
+| **Jun 2026 P1 · P2 · P2R** | ⛔ | Pearson states Summer 2026 examiner reports released **"From 25 August 2026"** via **secure download** (Edexcel Online login). The **P1R** report circulates and is held; the other three do not. **Likely unreachable until the public release.** |
+| **Jun 2020** | ❓ | **Verify whether a report was produced** — that series was cancelled. The archive holds QP/MS but no ER. |
+| **Nov 2022** | ❓ | **Verify whether a series ran** — no QP, MS or ER in the archive, and none held. |
+
+### Held locally, needing no fetch
+
+`May_2023/` **P1 · P1R · P2 · P2R** (187pp) · `June_2026/P1R` (48pp) — **5 files, complete, with scripts.**
+
+### Chunks still unread in reports already fetched
+
+**June 2025** ×4 — chunk 1 read for all four; the 12-mark exemplars sit in later chunks. **Render the remaining script pages.**
 
 ---
 
@@ -87,11 +102,12 @@ Priority order:
 
 | Item | Status |
 |---|---|
-| ⚠️ **Stale claim in `06_`** — "no full-mark Analyse/Justify held for 2026" | **FALSE as of this week.** June 2026 P1R supplied 6/6 Analysе and 8/9 + 9/9 Justify. Must be rewritten. |
+| ✅ **Stale claim in `06_`** — "no full-mark Analyse/Justify held for 2026" | **CORRECTED.** June 2026 P1R supplied verified 6/6 and 8/9 scripts; the claim is rewritten. |
 | Duplicate 2023 files — `2023-06_P1R_Aude_Rose.md`, `2023-06_P2_IKEA.md` vs `2023-05_Series_*` | **Consolidate.** |
 | Taxonomy table + rules 48–63 → `01_` | Not yet moved. |
 | E1–E12 folding into `06_` | Not yet folded. |
 | `May-June_2019_P2R` 79-marks puzzle | Unresolved. |
+| **Word-collision cluster** | ✅ now **19 entries**; run a collision check over every QP in the archive to find the remaining pairs. |
 | **253 MiB redundant tracked duplicate bundle parts** | **Awaiting your approval to delete.** |
 | June 2026 grade boundaries (Grade 9 = 133/160 overall) | Sourced but **needs verification against the grade-boundary PDF** before entering `00_`. |
 
@@ -99,11 +115,10 @@ Priority order:
 
 ## ORDER OF WORK
 
-**Phase 1 — Evidence (highest value, finite).**
-1. **June 2026 P1, P2, P2R** reports — the newest series and the likeliest source of a Paper 2 full-mark exemplar.
-2. **Nov 2025** (4 papers) — published ~Jan 2026, should be unlocked.
-3. **Nov 2024 P1R/P2/P2R · Nov 2023 P1/P1R/P2R · Nov 2021 P2/P2R/P1R · Nov 2020 P2R · Jun 2019 P1R · Jun 2021 (all)** — the long tail.
-4. Render the script pages of **every report already held but not yet read** (June 2025 ×4 have pages unread).
+**Phase 1 — Evidence.**
+1. ✅ **DONE — the Summer 2019 → Summer 2025 run is complete.** Nov 2023 P1, Nov 2024 P2, Nov 2021 P2 and Summer 2019 P1R were all recovered in this sweep, along with nine new rule-groups (rules 100–109).
+2. **Outstanding:** Nov 2025 P1/P2 (filename unknown) · Jun 2026 P1/P2/P2R (secure download) · verify Jun 2020 and Nov 2022.
+3. **Render the unread script pages of the June 2025 reports** — chunks 2–3 of all four hold the remaining 12-mark exemplars.
 
 **Phase 2 — Exemplars.** Capture the best script for every type × paper from the newly acquired reports.
 

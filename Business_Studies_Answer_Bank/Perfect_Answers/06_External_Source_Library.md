@@ -1737,6 +1737,153 @@ Two Analyse answers from May 2023 P2, same question type, same session:
 
 ---
 
+## 100. 🚨 THE REPORT ARCHIVE — three structural facts
+
+Discovered while completing the evidence sweep. **These bound what "complete" can ever mean.**
+
+| Fact | Consequence |
+|---|---|
+| **November-series reports contain NO candidate scripts.** They are *"Principal Examiner Feedback"* — commentary only. | **Every verified script in the bank comes from a Summer series:** 2019 · 2022 · 2023 · 2024 · 2025 · 2026. |
+| **The November series runs only Papers 01 and 02.** | *"Nov P1R"* and *"Nov P2R"* reports **do not exist to be found.** Pearson's availability table: *Papers 1R & 2R — Nov 2025: **No**; Jun 2026: **Yes***. |
+| **June 2021 has no report** — that series used teacher-assessed grades. | Nothing is missing; it was never produced. |
+
+⭐ **The maximum possible number of script-bearing reports is fixed by the Summer-series count, not by search effort.**
+
+---
+
+## 101. 🚨 THE DISCOUNT ERROR — the most-failed calculation in 4BS1
+
+**Four separate reports, four separate mentions.**
+
+> *"Some candidates worked out the 15% discount but **did not go on to take the discount from the cost of 25 cakes**"* (2019 P1R)
+> *"Some candidates gained a mark for **calculating the discount** but they did not then **go on to apply the discount**"* (Nov 2023 P1)
+> *"Whilst many students were able to **calculate the discount** they failed to **subtract the discount from the full price**"* (Nov 2024 P2)
+> *"Some however **calculated the discount only**"* (Jun 2025 P2)
+
+> ### 🎯 **On a percentage-discount question the discount is NOT the answer. The final price is.**
+> **Before writing, name the thing the question asks for** — *"the new price"*, *"the price the customer pays"* — **and check your last operation produces that**, not the percentage removed.
+> ⚠️ A **1-mark loss on a question most candidates otherwise get right**, appearing in **every series examined**.
+
+---
+
+## 102. 🚨 RELEVANCE BY PARTY — answering about the wrong subject (5 instances)
+
+| Report | The question | What candidates did |
+|---|---|---|
+| **Nov 2024 P2 Q1(g)** | how new Premier Inn hotels in **India** benefit **India** | *"Many students wrote about how the new hotels would benefit **Premier Inn and not India**. This is a **prime example of students not reading the question carefully**."* |
+| **Nov 2021 P2 Q1(g)** | benefits for **Huawei** of siting factories near labour | *"a large number of candidates gave **very detailed response of the benefits for its employees not Huawei**"* |
+| **Nov 2024 P2 Q2(d)** | benefits **to a business** of sponsoring | *"Many candidates wrote about the **benefits of being sponsored**"* |
+| **Nov 2021 P2 Q1(f)** | advantage of sponsoring | *"mentioned that it enables **more money to be put into the business**. Perhaps giving the benefits of those who are sponsored."* |
+| **Nov 2023 P1 Q2(a)** | a **non-financial** method of motivation | *"candidates offered a **financial** method… **this cannot be awarded a mark as it does not answer the question**"* |
+
+> ### 🎯 **Circle the SUBJECT of the question — the party and any qualifier — before planning.**
+> *Benefits to X · reasons for Y · non-financial Z · benefits to India, not to Premier Inn.*
+> ⚠️ **A long, accurate, detailed, contextualised answer about the wrong party scores ZERO.**
+
+---
+
+## 103. ⭐⭐ KNOWLEDGE IN PLACE OF APPLICATION — "even though the description was accurate"
+
+| Report | Examiner's words |
+|---|---|
+| **Nov 2021 P2 Q3(b)** | *"A number of candidates **described what robotics was, this is knowledge and therefore did not gain them any marks, even though the description was accurate**. The response needed to include the scenario as the marks allocated are for **AO2, application**."* — *"nearly three quarters of the cohort not gaining a mark"* |
+| **Nov 2021 P2 Q2(e)** | *"a number of candidates **described what secondary research was, rather than how it would be used**."* |
+| **Nov 2021 P2 Q3(d)** | *"others again **described in depth what off-the-job training was**."* |
+| **Nov 2021 P2 Q2(f)** | *"gave **very detailed descriptions of the two options, which was knowledge** and therefore they did not gain any marks."* |
+| **2019 P1R Q01f** | *"**explained what a franchisee was but did not provide any advantage** of being a franchisee therefore not gaining any marks."* |
+
+> ### 🎯 **Does the sentence say how it helps THIS business, or what the thing IS?**
+> *"even though the description was accurate"* — **accuracy is not the criterion. Direction of use is.**
+
+---
+
+## 104. ⭐⭐ DEFINING BADLY — four distinct ways to lose a 1-mark Define
+
+| Report | Question | Failure mode |
+|---|---|---|
+| **Nov 2024 P2 Q1(b)** | define **job description** | *"simply stated it was **a description of a job**"* → **self-referential** |
+| **Nov 2021 P2 Q1(c)** | define **demographics** | *"**turning the term around**, such as 'the graphics made to check a profit or loss'"* → **self-referential** |
+| **2019 P1R Q01b** | define **short-term finance** | *"**simply stated methods** of short-term finance as opposed to providing a definition"* → **examples** |
+| **2019 P1R Q03a** | define **current liabilities** | *"**listed** current liabilities as opposed to providing a definition"* → **listing** |
+| **Nov 2021 P2 Q3(a)** | define **revenue** | *"referred to revenue as **money received**"* → **imprecise wording** |
+
+> **The test: can your definition be read back as the term itself?** *"A job description is a description of a job"* defines nothing.
+> **A list is not a definition. An example is not a definition. Turning the word around is not a definition.**
+
+---
+
+## 105. ⭐⭐⭐ "THE COUNTERBALANCE SHOULD BE AS EQUALLY DEVELOPED AS THE POINTS OF ANALYSIS"
+
+Pearson's own balance standard, stated outright — Nov 2024 P2 summary advice:
+> *"Many candidates are still failing to provide **developed counterbalance** in their answers. For justify and evaluate questions students must always provide a balanced assessment. Failing to provide balance means it is **extremely unlikely** the candidate can reach the top level in the mark scheme. **The counterbalance should be as equally developed as the points of analysis.**"*
+
+> ### 🎯 WHAT THIS SETTLES
+> A single counter-sentence does not balance three developed paragraphs. **Whatever length you give the analysis, the counter-argument needs comparable length.**
+> ⭐ **This is the mechanism behind every 8/9 and 6/12 in the bank** — see rules 75 and 76.
+
+---
+
+## 106. ⭐⭐ THE "OTHER" TRAP — a stem qualifier can make a good answer score zero
+
+**2019 P1R Q04(c):**
+> *"The stem of the question states that **Lavender already uses a website** to promote its products so it is unfortunate that a handful of candidates misunderstood the question and **detailed the benefits of a website** to Lavender when promoting its products **thus gaining no marks as this does not answer the question**."*
+
+**Check:** is the thing I am describing **the one the stem already ruled out?** Words to watch: *other · another · different · additional · besides*.
+
+---
+
+## 107. ⭐⭐ ROUNDING — "significant figures" exists too
+
+> *"Centres must remind candidates that where it is stated in the question the answer is **'to 2 significant figures'** then this is the expectation… Candidates have often provided a lengthy answer and **not gained full marks as their answer is not to 2 significant figures**."* (2019 P1R Q04(a))
+> *"if the question asks for **two decimal places** and their response has **three decimal places** they will not gain all the marks available."* (Nov 2021 P2 Q1(e))
+
+**Read the instruction — it is not always decimal places:** *2 d.p. · **2 s.f.** · whole number · nearest £.*
+⚠️ **2 s.f. and 2 d.p. give different answers.** Extra precision is a mark lost, not earned.
+
+**And the companion rule, four more times:** *"they could gain a mark for the formula, even if the actual answer is wrong"* · *"often candidates have gained a mark for their calculation despite their final answer being incorrect"* · *"**the writing of candidate's number 4 and number 9 could be confused by the examiner**"* — **legibility costs marks.**
+
+---
+
+## 108. 🚨 THE STATE ATTRITION, QUANTIFIED — 10–20% success, and it is never knowledge
+
+| Report | Question | Success rate |
+|---|---|---|
+| Nov 2023 P1 Q2(b) | task of an employee in **HR** | **one tenth** |
+| Nov 2024 P2 Q1(d) | why a manager would **delegate** | **80% scored nothing** |
+| Nov 2024 P2 Q2(a) | a role in the **marketing function** | *"particularly poorly answered"* |
+| Nov 2021 P2 Q1(d) | share capital as a source of finance | **less than one tenth** |
+| Nov 2021 P2 Q2(a) | why pay above the minimum wage | **less than one tenth** |
+| Nov 2021 P2 Q2(b) | reason for keeping customers loyal | **just over 10%** |
+| 2019 P1R Q01d | why recruit internally | **just under a fifth** |
+| 2019 P1R Q02a | non-financial method of motivation | **less than a fifth** |
+| 2019 P1R Q02b | function of the **finance area** | **less than a fifth** |
+
+> **The cause is stated every time and it is never knowledge:** *"Candidates were able to identify a reason… but **not relate it to the business**."*
+> ⚠️ **Note the wording in Nov 2024:** *"applied to the business/**person** referred to in the exam paper."* **The context can be a person, not just the firm.**
+
+---
+
+## 109. ⭐ CONTENT GAPS NAMED BY THE EXAMINERS — add to the revision list
+
+| Concept | The stated gap |
+|---|---|
+| **depreciation of currency** | *"over one third… lack of knowledge of the impact of depreciation of currency"* (Nov 2023 P1) |
+| **Kaizen** | *"over one third… lack of knowledge"* (Nov 2023 P1) |
+| **competition pricing** | *"**not** about charging a very low price… but charging **approximately the same price as competitors**"* — *"over 10% failed to score any marks"* (Nov 2024 P2) |
+| **trading blocs** | *"confused the term and wrote about **protectionism** rather than **liberalising trade**"* (Nov 2024 P2) |
+| **focus groups** | *"many stated it was a **quick, easy or an unbiased** method which is **not correct**"* (Nov 2024 P2) |
+| **diseconomies of scale** | *"**half**… lack of knowledge… often **confused with economies of scale**. The most popular answer was '**the business gets too big**'."* (2019 P1R) |
+| **short span of control** | *"over one third… lack of knowledge"* (2019 P1R) |
+| **above the line promotion** | *"confused this with below the line promotion **or an employee being promoted**"* (2019 P1R) |
+| **Statement of Comprehensive Income** | *"one fifth… lack of knowledge"* (2019 P1R) |
+| **span of control** | *"confused with **hierarchical levels** within an organisation structure"* (Nov 2023 P1) |
+| **public corporation** | *"Many confused the term with **public limited company**"* (Nov 2024 P2) |
+| **job production** advantages | *"only **half** of the candidates selecting the correct answer"* (Nov 2024 P2) |
+
+**Word-collision cluster now stands at 19 entries** — rule 74 plus rule 78 plus the five above (**span of control · public corporation · above-the-line promotion · current liabilities · diseconomies of scale**).
+
+---
+
 ## Checklist — the seven ways to lose marks that recur in EVERY report
 
 1. Naming the business instead of using a case-study fact (four routes to context)
@@ -1819,7 +1966,7 @@ These are the highest-value targets in the project: the newest papers, filling g
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **15 confirmed** — **all four May 2023 reports** (P1 12/12 · P2 10/12 · P2R 10/12 · P1R 4/12) · **June 2026 P1R** (seven scripts) · June 2025 P1, P1R, P2, P2R  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
+| **Reports with MARKED SCRIPTS** | **15 confirmed** — plus **4 advisory reports read in full** (Nov 2023 P1 · Nov 2024 P2 · Nov 2021 P2 · Summer 2019 P1R) — **all four May 2023 reports** (P1 12/12 · P2 10/12 · P2R 10/12 · P1R 4/12) · **June 2026 P1R** (seven scripts) · June 2025 P1, P1R, P2, P2R  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |
