@@ -25,7 +25,7 @@ So complete means **four things, all achievable**:
 
 > ### 🚨 THREE STRUCTURAL FACTS — established this session, and they bound "complete"
 > 1. **November-series reports contain NO candidate scripts.** They are *"Principal Examiner Feedback"* — commentary only. **Every verified script in the bank comes from a Summer series.**
-> 2. **The November series runs only Papers 01 and 02.** Pearson's availability table: *Papers 1R & 2R — Nov 2025: **No**; Jun 2026: **Yes***. **"Nov P1R"/"Nov P2R" reports do not exist to be found.**
+> 2. **The November series runs only Papers 01 and 02 — with ONE exception, and it is a paper neither this bank nor the archive holds.** Pearson's availability table: *Papers 1R & 2R — Nov 2025: **No**; Jun 2026: **Yes***. **"Nov P1R"/"Nov P2R" reports do not exist to be found.** ⚠️ **But November 2022 ran a Paper 01R and nothing else** — Pearson's assessment-support page prints a notional **Paper 1R** boundary for Nov 2022 (grade 9 = **49/80**) and **no row at all** for the qualification, Papers 1, 2 or 2R. **So the exception is real, it is a whole paper, and it is missing from every total in this bank.** See the scope note in `00_`.
 > 3. **June 2021 has no report** — that series used teacher-assessed grades. **Nothing is missing; it was never produced.**
 
 ### Coverage after the Phase 1 sweep
@@ -52,6 +52,7 @@ So complete means **four things, all achievable**:
 |---|---|---|
 | **Nov 2025 P1 · P2** | ❓ | Publication ~Jan 2026. **Every date tried returned 404** (`20260121`, `20260122`, `20260123`). Not on any mirror either. **May not be publicly posted yet, or the filename differs.** |
 | **Jun 2026 P1 · P2 · P2R** | ⛔ | Pearson states Summer 2026 examiner reports released **"From 25 August 2026"** via **secure download** (Edexcel Online login). The **P1R** report circulates and is held; the other three do not. **Likely unreachable until the public release.** |
+| **Nov 2022 Paper 01R** | ❓ | **The paper EXISTS and is not held.** Found 14 Oct 2026 on Pearson's assessment-support page: a notional **Paper 1R** boundary row for Nov 2022 (**grade 9 = 49/80**), and no Nov 2022 row for the qualification or Papers 1/2/2R — so that series was a **1R sitting only**. **The mark scheme is not in the archive and two searches did not retrieve it.** If it is ever obtained, the derived population becomes **39 papers · 1014 parts · 3120 marks · 390 governed**, and Layer C gains four 3-mark, three 6-mark, two 9-mark and one 12-mark block. |
 | **Jun 2020** | ❓ | **Verify whether a report was produced** — that series was cancelled. The archive holds QP/MS but no ER. |
 | **Nov 2022** | ❓ | **Verify whether a series ran** — no QP, MS or ER in the archive, and none held. |
 

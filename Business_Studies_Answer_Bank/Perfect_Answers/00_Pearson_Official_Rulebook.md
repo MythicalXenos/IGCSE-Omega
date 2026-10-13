@@ -39,6 +39,13 @@ Everything else in this bank — exemplars, examiner reports, calibration — is
 >
 > **Reproduce it:** `python3 build_layer_c_tariffs.py` prints the full distribution and the 80-mark check.
 
+> ### ⚠️ THE SCOPE OF THESE TOTALS — stated, because it is not the whole qualification's history
+> **988 / 3040 is the count for the 38 papers whose mark schemes this bank holds** — every Summer series from 2019 to 2026 (four papers each, except June 2024 P2R and June 2026 P1/P2/P2R which were never published) and the November series of 2020, 2021, 2023, 2024 and 2025.
+>
+> **The qualification's history contains at least one more paper: November 2022, Paper 01R.** Pearson's own assessment-support page (retrieved 14 Oct 2026) prints a **notional Paper 1R** boundary row for **Nov 2022 — grade 9 = 49/80** — and **no Nov 2022 row** for the qualification, Paper 1, Paper 2 or Paper 2R. **That series ran as a 1R sitting only.** Its mark scheme is not in the archive and no search has retrieved it, so it is **not** in the totals above: with it, they would be **39 papers · 1014 parts · 3120 marks · 390 governed**.
+>
+> **So read "the whole qualification" as "the whole held qualification".** A count is only as complete as the source set it was derived from, and that set is a **fact about the archive**, not about the exam board. *(This scoping was added after the Nov 2022 1R paper was found on Pearson's boundary tables — the bank had recorded "the November series runs only Papers 01 and 02", which is true of every November series except that one.)*
+
 ⚠️ **The question-paper extraction under-detects every tier.** It reports 111 / 86 / 48 / 17 for the 3/6/9/12 tiers (withdrawn) **and 328 / 106 for the 1- and 2-mark tiers** — against **456 / 152** derived. **Non-constant loss: it cannot be corrected with a fudge factor.** For any count, read the mark scheme.
 
 ---
@@ -373,6 +380,9 @@ Since 2019 these have been **linear**, set on the total of both papers out of **
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Standard: Papers 01 + 02** | 160 | **133** | 124 | 115 | 103 | 92 | 81 | 70 | 59 | 48 |
 | **Regional: Papers 01R + 02R** | 160 | **137** | 129 | 122 | 110 | 98 | 87 | 72 | 58 | 44 |
+
+> ### 📄 A SERIES WITH NO MOCK VALUE AT ALL — November 2022
+> **November 2022 ran a Paper 01R sitting and nothing else** (Pearson's assessment-support page, retrieved 14 Oct 2026: a notional **Paper 1R** row for Nov 2022, and no row for the qualification, Paper 1, Paper 2 or Paper 2R). **Its notional grade 9 was 49/80** — against **68/80** in June 2026. **Read beside the other old sittings on the same page (notional Paper 1 / Paper 2): Nov 2021 = 41 and 43 · Nov 2020 = 46 and 44 · May 2019 = 57 and 54** — so 49 is not the lowest of the modern era, it is the fourth-lowest of the six old sittings, and **Nov 2021's 41 is**. *(Claiming the superlative before reading the rows is exactly the error this bank keeps catching; the correct statement is the comparison, not the medal.)* It is still the trap this section warns about: a paper from that sitting marked against its own boundary would flatter a candidate by nearly **twenty marks**. **The paper is also the one 4BS1 paper this bank does not hold** — see the scope note at the top of this file.
 
 > ⚠️ **The two routes are NOT the same, and the gap is not a constant.** In **June 2026 the regional route needed 4 marks more for a 9** (137 v 133); in **June 2025 both routes needed exactly 130.** **Check which route you are entered for, and never assume last year's gap.** The `1C/2C` rows are identical to `01/02` and `1CR/2CR` to `01R/02R`.
 
