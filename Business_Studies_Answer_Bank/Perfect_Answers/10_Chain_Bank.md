@@ -39,12 +39,14 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 > 🧮 **Coverage is now DERIVED, not carried by hand.** Run `python3 layer_c_6mark_coverage.py` from the folder above: it reads the derived inventory, checks every block against a `COVERED` map, and **also checks the other way — any entry number that does not exist in this file is printed as a dangling reference.** It was written because **Batch 5b recorded twelve blocks covered when it had covered eight**, leaving four 2019 blocks missing until the block file was re-read by hand. **That is the failure mode this bank is built to prevent, and one hand-counted total was enough.**
 
+> ✅ **THE 6-MARK TIER IS CLOSED.** All **114 blocks** are carried by entries **101–174** — verified by `layer_c_6mark_coverage.py`, which prints **114 covered / 0 remaining** and flags any dangling entry reference. **It was 74 entries for 114 blocks**, because **40% of the tier was a repeat of a topic already answered**: *multinational* and *motivating employees* **six times each**, *break-even* **five**, and *cash*, *SoCI*, *interest rates*, *branding*, *robotics*, *induction* and *host-economy benefit* **three or four times each**.
+
 **Progress against those 380 blocks:**
 
 | Tier | Blocks | Written | Remaining |
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
-| **6-mark Analyse** | **114** | **90** | **24** |
+| **6-mark Analyse** | **114** | ✅ **114** | 0 |
 | 9-mark Justify | 76 | 0 | 76 |
 | 12-mark Evaluate | 38 | 0 | 38 |
 
@@ -101,8 +103,9 @@ Every entry gives you:
 | **5f** | **6-mark Analyse — May–June 2024, all four papers** | ✅ **6 entries (143–148)** |
 | **5g** | **6-mark Analyse — May–June 2025, all four papers** | ✅ **8 entries (149–156)** |
 | **5h** | **6-mark Analyse — May 2023, all four papers** | ✅ **6 entries (157–162)** |
-| **5i–6** | 6-mark Analyse — the remaining **24 blocks** (Nov 2021 / Nov 2023 / Nov 2024 / Nov 2025) | ⬜ next |
-| **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
+| **5i** | **6-mark Analyse — the four November papers** | ✅ **12 entries (163–174)** |
+| **6** | **6-MARK TIER — CLOSED at 114/114 blocks** | ✅ **done** |
+| **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ next |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
@@ -3613,5 +3616,324 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** shortlisting **makes the interviews comparable**, because every candidate called in has already been tested against the same requirements → the decision is **made on fit for the role rather than on who interviewed well**.
 
 > ⚠️ **Shortlisting is a *filter*, not a *search*.** It happens **after** the advert and the applications, and **before** the interview. **The application form collects the information (entry 146); shortlisting is what is done with it.** Two different questions — the exam has asked both.
+
+---
+
+# BATCH 5i — 6-MARK ANALYSE, PART 9 — **THE TIER IS COMPLETE**
+
+**12 new entries covering all 24 remaining blocks — the November papers of 2021, 2023, 2024 and 2025.** Eleven of the 24 were topics already banked:
+
+| Block | Topic | Where it now lives |
+|---|---|---|
+| 91 P1 1(g) *effect of a DECREASE in interest rates (Artify)* | interest rates | **entry 135** *(4th appearance)* |
+| 92 P1 3(d) *gross profit margin (Artify)* | profitability ratios | **entry 118** *(4th appearance)* |
+| 94 P2 1(g) *locating factories near labour sources (Huawei)* | location | **entry 122** |
+| 99 P1 4(b) *how Kaizen could affect the business (AWG)* | Kaizen | **entry 119** *(2nd appearance)* |
+| 101 P2 3(d) *benefit of reducing waste (Kraft Heinz)* | resource efficiency | **entry 154** |
+| 102 P2 4(b) *benefits to countries where it is located* | host-economy benefit | **entry 112** *(3rd appearance)* |
+| 105 P1 4(b) *becoming a multinational (Saha)* | multinational | **entry 108** *(6th appearance)* |
+| 106 P2 1(g) *benefits for India (Premier Inn's plans)* | host-economy benefit | **entry 112** |
+| 107 P2 3(d) *motivating employees (Premier Inn)* | motivating employees | **entry 139** *(6th appearance)* |
+| 111 P1 4(b) *importance of cash (Ocean Vibes)* | cash | **entry 123** *(4th appearance)* |
+| 112 P2 1(g) *recruitment documents to hire the best (Samsung)* | recruitment documents | **entry 146** *(2nd appearance)* |
+
+---
+
+## 163. TRAINING — the advantages of on-the-job training
+
+**Asked:** *"Analyse the benefits for Artify Studio of on-the-job training for new employees."* — **Nov 2021 P1, 4(b)**
+**Also asked:** *"Analyse the advantages to Ocean Vibes of using on-the-job training for new workers."* — Nov 2025 P1, 3(d) · *"Analyse why Huawei offers its new employees in the design department **off-the-job** training."* — Nov 2021 P2, 3(d) *(see entry 164 — the opposite method)*
+
+**The AO2 anchors (Artify):** Artify can **use the existing employees at its Kampong Glam studio to train the new employees**; and this **gives Tay Hui Jae the chance to see if the new employees are skilled enough**.
+
+**The AO2 anchors (Ocean Vibes):** new tour guides **learn from existing guides on the boats how to give an enjoyable tour**; and it is **less expensive than learning from an external business**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> On-the-job training means **the new worker learns by doing the real job, beside someone who already does it well**. **For Ocean Vibes that is the only place the job can be learned: a tour guide's skill is pointing out dolphins and birds to passengers on a moving boat**, and no classroom reproduces that. **The second benefit is what it costs — and here the scheme is specific: it is less expensive than sending people to an external business.** **Ocean Vibes pays its own existing guides to train rather than paying a college's fees**, and the trainee is **working on the boats while learning** rather than being away. **The measurable end is twofold.** **Tay Hui Jae can see for herself whether the new employees are skilled enough to work in the studio** — the owner watches the actual work being done, which no certificate proves. And at Ocean Vibes, **the guides reach the standard needed to give excellent customer service, which improves profitability because the training cost stayed low.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Learning **by doing the real job**, beside someone who does it |
+| **2. Strand A** | **No external fees** — the business's own staff deliver it |
+| **3. Strand B** | The trainee **works while learning**, and the owner **sees the real work** |
+| **4. Measurable end** | **Lower training cost + verified competence** |
+
+**Second acceptable chain:** the trainee learns **the way this particular business does it** → consistency across staff → **customers get the same standard every time**, which is what builds a reputation.
+
+> ⚠️ **On-the-job vs off-the-job is a named content gap in the reports, and the exam asks both directions.** On-the-job = **in the workplace, doing the real job, usually cheaper, learning the employer's own methods**. Off-the-job = **away from work, at a college or training centre, expert tutors, but the employee is absent and it costs fees.** **Entry 164 is its mirror. Do not blend them.**
+
+---
+
+## 164. TRAINING — why a business chooses off-the-job training
+
+**Asked:** *"Analyse why Huawei offers its new employees in the design department off-the-job training."* — **Nov 2021 P2, 3(d)**
+
+**The AO2 anchors:** this **involves new employees being trained outside Huawei at an external college by tutors and experts in modern technology**; and **employees can learn at their own pace the detail and requirements of producing smartphones and tablets**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Off-the-job training sends the employee **away from the workplace to learn from people whose job is teaching**, and Huawei's design department is exactly the case that needs it. **The technology inside smartphones and tablets changes faster than any single business can keep ahead of, so the expertise has to be bought in from tutors and specialists** — Huawei's own designers can teach how it works today, not what is coming next. **The second benefit is the freedom the classroom gives the learner.** Away from the production line, **an employee can learn at their own pace and get to grips with the detail**, instead of picking up whatever they can between tasks. **The measurable end is on both the trainee and the team they leave behind.** Because the new employee is not on the shop floor, **Huawei's existing staff can concentrate on their own work and do not have to supervise or train anyone** — and the trainee **does not have to worry about making mistakes that would cost Huawei money while they are still learning.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Away from the workplace, taught by **people whose job is teaching** |
+| **2. Strand A** | Specialist tutors know **the newest technology**, not just Huawei's current method |
+| **3. Strand B** | No pressure of production → **learn at their own pace, mistakes cost nothing** |
+| **4. Measurable end** | **Existing staff undisturbed + trainee fully competent** |
+
+**Second acceptable chain:** off-the-job training **often leads to a recognised qualification** → the employee gains something that is theirs, which **motivates them to stay** and makes Huawei more attractive to future recruits.
+
+> ⚠️ **The scheme's third bullet is the one candidates miss: it is not just about the trainee.** *"Huawei's present employees concentrate on their work, and do not have to supervise or train new employees"* — **the productivity of the existing team is protected.** That is a cost saving, and it earns a mark.
+
+---
+
+## 165. QUALITY CONTROL — why a manufacturer protects quality
+
+**Asked:** *"Analyse why Huawei would want good quality control when producing its smartphones."* — **Nov 2021 P2, 4(b)**
+**Also asked:** *"Analyse the importance of making sure guests have a quality service (Premier Inn)."* — Nov 2024 P2, 4(b)
+**Related:** entry **119 (Kaizen)** and the **quality** entries in `10_`'s 3-mark tier — *quality control is checking faults out; Kaizen and TQM are about stopping them arising.*
+
+**The AO2 anchors:** if Huawei **gains a reputation for good quality products, more customers are likely to purchase its smartphones**; and **to repair faulty smartphones would be expensive**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Quality control means **checking the product before it reaches the customer and stopping the faulty ones going out**, and for a smartphone maker it guards two things at once. **The first is money.** **Repairing or replacing a faulty phone is expensive, and the cost lands twice** — the customer is sent a working phone, and the faulty one is scrapped, so **the business has paid to make the same product twice**. **The second is the reputation, and it is the larger of the two.** If the standard slips, **customers stop trusting the reliability of Huawei's phones and switch to another brand** — and in a market where a phone is judged over two years of use, **that trust is the whole product**. **The measurable end is what a repair costs in patience:** **customers who have to wait for a phone to be repaired tell other people about the wait as well as the fault**, so a single bad unit **does more damage to the brand than the repair itself costs.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Quality control **stops faults reaching the customer** |
+| **2. Strand A** | A faulty unit is **paid for twice** — made, then replaced |
+| **3. Strand B** | Loss of trust in reliability → **customers switch brand** |
+| **4. Measurable end** | **A damaged reputation costs more than the repair** |
+
+**Second acceptable chain (Premier Inn — quality of *service*):** helpful reception staff and the amenities a guest expects **make a guest return** → **repeat bookings raise profit** → and guests **tell friends and family**, which is promotion the hotel did not pay for.
+
+> ⚠️ **"Quality is important" is not an answer.** The scheme gives you **the cost of repair** and **the reputation effect** — **use both, and drive each to something measurable.**
+
+---
+
+## 166. E-COMMERCE — the advantages of selling online
+
+**Asked:** *"Analyse the advantages to AWG of using e-commerce to sell its products."* — **Nov 2023 P1, 1(g)**
+
+**The AO2 anchors:** AWG **sells its shirts online to customers based in other countries**; and **uses a website to advertise its baby clothes to attract new customers**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Selling online **removes the two things that stop a small clothing business from trading abroad: distance and shop cost**. AWG's shirts **reach customers in other countries without AWG ever opening a store there** — and **the scheme's second bullet is the reason that matters financially: selling online is far less expensive than opening stores overseas**, where rent, staff and local taxes all have to be paid before a single shirt is sold. **The second advantage is that the website works as an advertisement as well as a shop.** It **shows the baby clothes to new customers who would never have found the business otherwise**, so **recognition of AWG builds internationally** — and recognition, for a clothing brand, is what turns a browser into a buyer. **The measurable end is sales revenue rising while the fixed costs stay where they are:** AWG sells to more countries **without acquiring more shops**, so each additional sale **contributes far more to profit than an extra sale through a new store would.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Distance and shop cost **both disappear** — no overseas stores needed |
+| **2. Strand A** | Website advertises as well as sells → **recognition grows internationally** |
+| **3. Strand B** | Reach **without the fixed cost** of premises abroad |
+| **4. Measurable end** | **More sales revenue at a lower cost per sale** |
+
+**Second acceptable chain:** an online shop **never closes** → AWG sells to customers in other time zones **while its own staff sleep** → **the same stock and staff generate revenue for more hours of the day**.
+
+> ⭐ **E-commerce questions reward the *comparison* with physical retail.** *"You can sell to more people"* is knowledge. **"You can sell abroad without the rent, staff and local taxes of an overseas store"** is the analysis, because it says **what the business does not have to pay for.**
+
+---
+
+## 167. EXCHANGE RATES — the impact of a depreciation
+
+**Asked:** *"Analyse the impact on AWG of a depreciation of the ISK."* — **Nov 2023 P1, 3(d)**
+
+> **This is one of the examiners' named content gaps: "depreciation of currency" appears in the reports as a topic candidates handle poorly.** It is also the only question in the tier where **the same event helps and hurts the same business at once** — which is precisely why it is set.
+
+**The AO2 anchors:** exchange rates **affect the price AWG pays for importing the wool and other materials** it buys to make clothing; and **the cost of the jumpers bought by customers in other countries will be impacted**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A depreciation means **the krona is worth less against other currencies**, and it cuts both ways for a clothing maker that **imports its materials and exports its finished jumpers**. **On the import side it hurts.** AWG **buys wool and other materials from abroad**, so a weaker krona **raises the price it pays for every metre of fabric** — **an increase in cost that AWG has not caused and cannot avoid** — and, unless it absorbs that, **it may have to raise the price of its own clothing**. **On the export side it helps.** **A weaker krona makes AWG's jumpers cheaper for customers buying in other currencies**, so **overseas demand rises** and AWG can sell more abroad than it could at the old rate. **The measurable end is which effect is larger:** if AWG **imports more than it exports, the depreciation costs it money**; if it sells more than it buys in, **the extra demand outweighs the higher material cost** — and either way **the business is exposed to a rate it does not control.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | A depreciation **cuts both ways** — cheaper to sell abroad, dearer to buy abroad |
+| **2. Strand A** | **Imported wool costs more** → cost rises → price may have to rise |
+| **3. Strand B** | **Exports are cheaper abroad** → overseas demand rises |
+| **4. Measurable end** | **The net effect depends on whether AWG imports or exports more** |
+
+**Second acceptable chain:** the exposure itself is a risk → AWG may **switch to local suppliers to avoid the exchange rate altogether** → but that may cost more or reduce quality, so **the business trades one risk for another**.
+
+> ⚠️ **Get the direction right first, and say it out loud: a depreciation makes a country's exports CHEAPER and its imports MORE EXPENSIVE.** An answer that reverses this **fails every subsequent step**, and a wrong opening premise is the one error you cannot recover from. **Then apply it to the specific business — what does AWG buy in, and what does it sell out?**
+
+---
+
+## 168. SOCIAL MEDIA AS A RESEARCH TOOL — the benefits
+
+**Asked:** *"Analyse the benefits to Kraft Heinz of using social media to collect market research data."* — **Nov 2023 P2, 1(g)**
+
+> **Note what this is and is not.** The 3-mark tier and entry **129** cover social media as **promotion** and as **a reputational risk**. **This question is about using it to gather data** — a research tool, not an advertising channel. **The scheme's bullets are all about collecting views and analysing them.**
+
+**The AO2 anchors:** social media is **widely used around the world and enables Kraft Heinz to collect global data quickly** about a new variety of tomato sauce; and it can **set up links with a variety of people to collect their views on changes made to Mac & Cheese**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Social media gives Kraft Heinz **a panel of consumers it never had to recruit** — the data comes **from people already talking about food in public, at global scale, and it arrives quickly** rather than after a research agency's timetable. **That speed is worth real money on a new product.** A tomato sauce in test **can be judged by consumers in several countries within days**, which means Kraft Heinz **learns whether to carry on with it or stop it before the tooling and the marketing spend are committed**. **The second advantage is the variety of the sample.** By **setting up links with many different people**, Kraft Heinz hears from **far more kinds of customer than it could interview in person** — and the reaction to a change in **Mac & Cheese** is only useful if it comes from the people who actually buy it. **The measurable end is a cheaper, faster research cycle:** the business can **analyse the views and adjust the product while it is still cheap to change**, instead of discovering the problem after launch.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A **ready-made global panel** — no recruitment, and fast |
+| **2. Strand A** | Test a product with consumers **in days, across countries** |
+| **3. Strand B** | A **wide range of customers**, not a small in-person sample |
+| **4. Measurable end** | **Adjust or stop the product before the money is committed** |
+
+**Second acceptable chain:** social media research is **far cheaper than commissioning face-to-face interviews or surveys** → the money saved goes into the product rather than into finding out about it → **more research can be done for the same budget**, so fewer decisions are made blind.
+
+> ⚠️ **"Social media" questions come in three flavours and the exam sets all three:** as **promotion** (entry 129's reverse), as a **reputational risk** (entry 129), and as **a research tool** (this entry). **Read the verb and the object — here it is "collect market research data".**
+
+---
+
+## 169. PRIMARY RESEARCH — choosing the right method
+
+**Asked:** *"Analyse two methods of primary research that could be of benefit to Saha when developing its products."* — **Nov 2024 P1, 1(g)**
+
+> **The word "two" is an instruction.** Two methods, each developed — the scheme's two bullets are **interviews with current customers** and **focus groups with customers from restaurants and hotels**.
+
+**The AO2 anchors:** Saha could **interview current customers who use the robots in hospitals** to understand how moving supplies between departments could be improved; and **focus groups could include customers from restaurants and hotels** to discuss potential new features.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Primary research means **finding out from the customers themselves, first-hand**, and Saha's customers know things no desk research can supply. **Interviews with the hospitals already using the robots** are the first method, and their value is **depth on a defined problem**: Saha can ask **exactly how moving supplies between departments could be improved**, and follow up on the answer, because it is talking to **the people who watch the robots work every day**. **The second method, a focus group, does a different job.** Bringing **customers from restaurants and hotels together** puts **users from different settings in one room**, and **the discussion between them is where new features come from** — one customer's complaint prompts another's idea, which **no questionnaire would capture**. **The measurable end is in the product:** the interviews **direct the redesign towards the problem the hospitals actually have**, and the focus group **generates the features that make the next model worth buying** — which is how the research pays for itself in sales rather than in reports.
+
+| Step | The move |
+|---|---|
+| **1. Method 1** | **Interviews** with existing hospital users → depth on a **known** problem |
+| **2. Method 2** | **Focus groups** mixing restaurants and hotels → **new ideas from discussion** |
+| **3. What each gives** | Interviews = detail · Focus groups = ideas |
+| **4. Measurable end** | **Products designed to real needs → sales** |
+
+**Second acceptable chain:** primary research is **specific to Saha's own product and customers**, unlike published secondary data that covers the whole robotics industry → **the findings can be acted on directly** because they are about *these* robots in *these* hospitals.
+
+> ⚠️ **Primary vs secondary, and the research methods, are named gaps.** **Primary** = collected first-hand for this purpose (interviews, questionnaires, focus groups, observation, trials). **Secondary** = already exists (government data, trade reports, competitor websites, internal records). **Asking customers is primary; reading about the market is secondary.**
+
+---
+
+## 170. BUSINESS FAILURE — the reasons it happens
+
+**Asked:** *"Analyse two possible reasons that may lead to business failure for Saha."* — **Nov 2024 P1, 3(d)**
+
+**The AO2 anchors:** **many new competitors, such as NIO, are entering the robot market and challenging Saha for market share**; and **as Saha has ambitious plans to expand, it may encounter cash flow problems due to increased outflows** for advertising and materials.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **The first reason is competition, and Saha's market makes it acute: NIO and others are entering robotics, and a new entrant usually attacks on either price or technology.** **If a rival develops a robot that is technologically superior, or less expensive, Saha loses the customers it has** — and in a market where products are bought on specification, **being overtaken is not a gradual decline; the customers simply stop buying.** **The second reason comes from Saha's own growth plan.** **Expanding to other continents requires spending heavily on advertising and materials before any of the new revenue arrives**, and **that gap is where businesses die: the outflows come first, the sales come later**. **The measurable end is insolvency, not unprofitability.** **A shortage of cash means Saha cannot pay what it owes on the day it is due**, and **a business with a full order book and no liquidity can still be forced to stop trading** — **which is why cash flow, not ambition, is what decides whether the expansion is survivable.**
+
+| Step | The move |
+|---|---|
+| **1. Reason 1** | New entrants (NIO) **attack on price or technology** |
+| **2. Reason 2** | Expansion spends **before** the revenue arrives |
+| **3. The mechanism** | **Outflows come first** → a cash gap |
+| **4. Measurable end** | **Insolvency** — the business stops, even with customers |
+
+**Second acceptable chain:** a small business expanding into other continents **stretches its management** — the same people doing more **leads to mistakes in pricing, stock or quality**, any of which can cost the customers it was trying to win.
+
+> ⚠️ **This is the same mechanism as entry 123 (the importance of cash) read in reverse.** **Failure here is a cash failure, not a lack of profit** — and **naming insolvency rather than "they will make a loss" is what shows you understand the difference.**
+
+---
+
+## 171. QUALITY SERVICE — why it matters in hospitality
+
+**Asked:** *"Analyse the importance of making sure guests have a quality service when staying at a Premier Inn."* — **Nov 2024 P2, 4(b)**
+
+**The AO2 anchors:** if the **reception staff are helpful and accommodating**, guests are **more likely to return**; and if the **room has all the amenities guests require, such as tea and coffee facilities**, that matters too.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> In a hotel, **the service is the product** — a guest cannot take the room home and inspect it later, so **their judgement is formed in the hours they are there, and it is formed about people as much as furniture**. **Two things decide it, and they are both in the scheme's bullets.** The first is **the room itself: whether the amenities the guest expects, such as tea and coffee, are actually there** — because a missing kettle is not a small thing at eleven at night, it is **the difference between a hotel that thought about them and one that did not**. **The second is the staff: helpful, accommodating reception staff are what turn an ordinary stay into one a guest remembers well**, and **only one of the two has to go wrong for the whole stay to be judged badly**. **The measurable end is repeat business and free promotion:** guests who were looked after **book again and raise the number of bookings and the profit**, and they **tell friends and family about the service they received** — which is the cheapest marketing a hotel chain will ever get.
+
+| Step | The move |
+|---|---|
+| **1. Point** | In a hotel **the service is the product** — judged as it is delivered |
+| **2. Strand A** | The room's **amenities** — what the guest expects to find |
+| **3. Strand B** | The **staff** — helpful and accommodating |
+| **4. Measurable end** | **Repeat bookings + word of mouth** |
+
+**Second acceptable chain:** quality service **reduces complaints and refunds** → staff spend their time serving rather than resolving → **the hotel runs at a lower cost as well as a better reputation**.
+
+> ⭐ **A "quality of service" question wants you to break the service into its parts** — what the guest finds (the room, the amenities) and **how they are treated (the staff)**. **Naming both, from the scheme's own bullets, is the difference between a level 2 and a level 3 answer.**
+
+---
+
+## 172. EMPLOYEE SATISFACTION — why a business measures it
+
+**Asked:** *"Analyse why Ocean Vibes should measure employee satisfaction."* — **Nov 2025 P1, 1(g)**
+
+> **Note the verb: MEASURE, not *improve*.** The question is about **finding out** what staff think — and what the business does with the answer.
+
+**The AO2 anchors:** measuring satisfaction **will help Ocean Vibes retain its tour guides who operate the dolphin and bird tours**; and **if employees are satisfied, they will be motivated to provide good quality boat tours**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A business **cannot manage what it does not know**, and **unhappy staff rarely say so before they leave**. Measuring satisfaction **is how Ocean Vibes finds out that its tour guides are thinking of going** while there is still time to do something about it — **which matters more here than in most businesses, because the guides are the product**. **The second reason is what satisfaction does to the work itself.** Guides who are **satisfied are motivated to provide good quality boat tours**, and **the customers on a dolphin or bird tour are judging exactly that** — the guide's knowledge, patience and enthusiasm. **The measurable end runs through three stages.** Holding on to the guides **reduces the recruitment and training costs of replacing them**, which **raises profitability**; better tours produce **good reviews**; and good reviews **encourage recommendation and increase sales** — so the questionnaire that measures satisfaction is really **the first step in a chain that ends in revenue.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | You **cannot manage what you do not measure** — staff leave without warning |
+| **2. Strand A** | Spotting dissatisfaction early → **the guides are retained** |
+| **3. Strand B** | Satisfied guides **give better tours** — they *are* the product |
+| **4. Measurable end** | **Lower recruitment cost + reviews → more sales** |
+
+**Second acceptable chain:** measuring satisfaction **tells Ocean Vibes what specifically to change** — pay, rota, equipment — so **any money spent on improving conditions goes where the problem actually is**, rather than being spread across everything.
+
+> ⚠️ **"Measure" is the command word, and it carries a mark.** A business measures **so that it can act on the result** — **the diagnosis is the point.** An answer that only says *"happy staff work harder"* has answered a question about **motivation** (entry 139), not about **measurement**.
+
+---
+
+## 173. PROFIT — why it is important
+
+**Asked:** *"Analyse why profit is important to Samsung."* — **Nov 2025 P2, 3(d)**
+
+**The AO2 anchors:** Samsung **invests large amounts of funding to design and develop innovative electronic products**; and it **is a public limited company and the leading manufacturer of TVs**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> For a business like Samsung, **profit is not the reward at the end — it is the fuel at the start of the next product**. **Designing and developing innovative electronics takes enormous funding before anything can be sold**, and **every smartphone or TV in the shops was paid for by the profit from the model before it**. **That is why a fall in profit is more serious for Samsung than for a business selling a simpler product: the next generation gets funded out of this one.** **The second reason is what Samsung's ownership makes possible.** **As a public limited company, it can attract funds from investors — and investors are enticed by the possibility of high returns.** **Profit is the evidence that produces those returns, so strong profit draws in further funding on top of what Samsung earns itself.** **The measurable end is a cycle:** high profit **funds new technology, which keeps it competitive in the electronics market**, which **generates the next round of profit** — and a business that cannot turn that cycle **loses ground to rivals within one product generation.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Profit **funds the next product**, not just this one |
+| **2. Strand A** | Design and development are paid for **before any sale happens** |
+| **3. Strand B** | As a plc, **high returns attract investor funds** |
+| **4. Measurable end** | **Competitiveness in the next generation**, funded from this one |
+
+**Second acceptable chain:** profit **provides a cushion** for a product that fails → Samsung can **absorb a flop without cutting staff or development** → which **protects the long-term innovation the business depends on**.
+
+> ⚠️ **"Profit is the difference between revenue and costs" is a definition and earns nothing at this tariff.** The scheme's bullets are **reinvestment in innovation** and **attracting investors** — **both consequences, both forward-looking.** Compare the 3-mark tier, where the *method* of increasing profit **is** what is marked.
+
+---
+
+## 174. MARKET RESEARCH — its purpose
+
+**Asked:** *"Analyse the purpose of market research for Samsung."* — **Nov 2025 P2, 4(b)**
+**Also asked:** *"Analyse the importance of reliable market research (PPS)."* — June 2024 P1R 3(d) · *"Analyse two methods of primary research (Saha)."* — Nov 2024 P1 1(g)
+
+> **Three research questions across three papers, each testing something different:** **entry 143** = whether the data can be trusted · **entry 169** = which method to use · **this entry** = what the research is *for*.
+
+**The AO2 anchors:** Samsung is able to **identify and understand its customers' needs** in what they look for when buying a laptop or TV; and market research **will help Samsung identify potential gaps in the competitive smartphone market**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Market research exists **to replace a guess about the customer with evidence**, and for Samsung the guess would be an expensive one. **Its first purpose is to identify and understand what customers actually look for when buying a laptop or a TV** — because **the features a design team finds impressive are not always the ones that sell**, and a product built around the wrong feature **cannot be fixed after launch**. **The second purpose is finding gaps.** Research lets Samsung **see what the competitive smartphone market is not offering**, and **a gap is a product the rivals have not built** — the cheapest kind of advantage there is, because **there is no competition to fight on price yet**. **The measurable end is a product that sells on purpose rather than by luck.** Knowing **which features customers prefer increases demand for the product**, and identifying a gap lets Samsung **build a unique selling point that attracts customers the others are not reaching** — which is what turns a research budget into a market position.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Research **replaces a guess with evidence** — and guesses are expensive in electronics |
+| **2. Strand A** | **Customer needs identified** → features built around what sells |
+| **3. Strand B** | **Gaps in the market found** → a product with no direct rival |
+| **4. Measurable end** | **Higher demand + a USP that attracts new customers** |
+
+**Second acceptable chain:** research **tests a product or a price before launch** → Samsung can **find out whether it will sell without gambling the whole development budget** → so **the cost of being wrong falls from a failed product to a failed survey.**
+
+> ⭐ **The three research questions side by side:** **purpose** = why do it at all · **reliability** = is the answer trustworthy · **method** = how do you collect it. **Each has a different answer, and the exam has now set all three.**
+
+---
+
+# ✅ THE 6-MARK TIER IS COMPLETE
+
+| | |
+|---|---|
+| **Blocks in the tier** | **114** — derived from the 38 mark schemes, validated at 80 marks per paper |
+| **Blocks carried by an entry** | **114 · 100%** |
+| **Blocks needing an entry of their own** | 68 |
+| **Blocks covered by an existing entry** | 46 |
+| **Entries used** | **74** — numbers 101–174 |
+
+**What that compression means.** 114 six-mark questions became **74 entries**, because **40% of them were repeats of a topic already answered** — *multinational* six times, *motivating employees* six times, *break-even* five times, *interest rates*, *cash*, *SoCI*, *branding* and *robotics* three times each. **No candidate ever sits six papers, but the topic they are examined on has been set six times, and the chain that earns the marks is the same every time.**
+
+**How to use this tier under pressure.** Read the **question stem** for two things before writing: **the direction** (*benefits* / *concerns* / *impact* / *effectiveness*) and **the party** (the business, its owners, its customers, a country). Half the errors recorded in this tier come from answering the wrong direction or **analysing the wrong party** — entry **112**, entry **140** and entry **135** are the three clearest cases.
+
+> ### THE ONE RULE FOR EVERY 6-MARK ANSWER, EARNED FROM THE 6/6 IN THE ARCHIVE
+> **One point, developed in strands, with application throughout — and end on something measurable.** *"The candidate has provided 1 point with developed strands… Candidates are reminded that there are no marks for knowledge in this question."* **Two points each developed once scored 5/6. Depth beats breadth, and every entry above is built in that shape.**
 
 ---

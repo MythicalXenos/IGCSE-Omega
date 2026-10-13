@@ -131,9 +131,9 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**162 entries written · 380 governed blocks in scope · 204 still to cover** (24 six-mark + 76 nine-mark + 38 twelve-mark).
+**174 entries written · 380 governed blocks in scope · 114 still to cover** (76 nine-mark + 38 twelve-mark).
 
-> **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, 90 covered, 24 remaining, and flags any entry reference that does not exist.
+> **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, **114 covered, 0 remaining**, and flags any entry reference that does not exist.
 
 Priority order:
 1. **6-mark Analyse — 114 blocks.** The single largest remaining tier, and the only one where the examiners' own complaint (*"valid comments… failed to develop these points"*) maps directly onto a repeated structural failure.
@@ -240,9 +240,20 @@ So the correct response is **not one essay per question** — that would repeat 
 | **5f** | 6-mark Analyse — May–June 2024 (6 topics) | ✅ **6 entries (143–148)** |
 | **5g** | 6-mark Analyse — May–June 2025 (8 topics) | ✅ **8 entries (149–156)** |
 | **5h** | 6-mark Analyse — May 2023 (6 topics) | ✅ **6 entries (157–162)** |
-| **5i–6** | 6-mark Analyse — the remaining **24 blocks** | ⬜ next |
+| **5i** | 6-mark Analyse — the four November papers | ✅ **12 entries (163–174)** |
+| **6** | **6-MARK TIER — CLOSED at 114/114** | ✅ **done** |
 | **7–8** | 9-mark Justify option pairs — **76 blocks** | ⬜ |
 | **9** | 12-mark Evaluate topics — **38 blocks** | ⬜ |
+
+### ✅ LAYER C, 6-MARK TIER — CLOSED
+
+```
+6-mark Analyse blocks      : 114
+carried by entries 101-174 : 114   (74 entries · 40% were repeats)
+REMAINING                  :   0
+```
+
+**Reverify with** `python3 layer_c_6mark_coverage.py` — it reads the derived inventory, checks every block against the `COVERED` map, **and checks the reverse direction** so a stale entry reference cannot pass unnoticed.
 
 ### ✅ LAYER C, 3-MARK TIER — CLOSED
 
