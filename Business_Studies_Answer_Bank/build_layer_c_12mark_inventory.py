@@ -37,10 +37,25 @@ def parse_blocks():
 
 
 def stem_of(body):
-    m = re.search(r'Question Number\s*(.*?)(?:\n|STOP)', body, re.S)
-    s = ' '.join(m.group(1).split()) if m else ''
-    # a bare "4 (c)" is a look-ahead artefact, not a stem
-    return '' if re.fullmatch(r'4\s*\(c\)', s) else s
+    """The block now OPEN includes the tail of the previous question, so read the
+    stem from the LAST 'Question Number' / 'Q. No.' heading whose following text
+    carries a full run of AO sections - i.e. this block's own header."""
+    best = ''
+    for m in re.finditer(r'(?i)(?:q\s*u\s*e\s*s\s*t\s*i\s*o\s*n\s*n\s*u\s*m\s*b\s*e\s*r'
+                         r'|q\.\s*no\.)', body):
+        seg = body[m.end():]
+        cut = seg.find('Level Mark Descriptor')
+        if cut > 0:
+            seg = seg[:cut]
+        if len(re.findall(r'\bA[O0]\s*[1234]\s*=', seg)) < 4:
+            continue
+        sm = re.search(r'\s*(.*?)\s*(?:Indicative content Mark|Indicative Content Mark|STOP)',
+                       body[m.start():], re.S)
+        cand = ' '.join(sm.group(1).split()) if sm else ''
+        cand = re.sub(r'^Question Number|^Q\.\s*No\.', '', cand).strip()
+        if cand and not re.fullmatch(r'4\s*\(c\)', cand):
+            best = cand
+    return best
 
 
 def ao_bullets(body):
@@ -73,15 +88,16 @@ RULES = [
     ('FINANCIAL DOCUMENTS', r'financial document|statement of comprehensive income|balance sheet|final accounts'),
     ('VENTURE CAPITAL', r'venture capital'),
     ('QUALITY', r'\bquality\b|TQM|total quality'),
-    ('CUSTOMER NEEDS / MARKET CHANGE', r'changes? in (the )?(customer|market|consumer)|respond to the changes|changes? in customer needs|consumer spending'),
+    ('CUSTOMER NEEDS / MARKET CHANGE', r'changes? in (the )?(customer|market|consumer)|respond(ing)? to the changes|changes? in customer needs|consumer spending'),
     ('MARKET ORIENTATION', r'market orientation'),
     ('DEMOGRAPHIC SEGMENTATION', r'demographic|segment'),
     ('PRODUCT TRIALS', r'product trial|test(ing)? (it|the product) on the market|test market'),
     ('MARKET RESEARCH', r'market research'),
-    ('PROMOTION / ADVERTISING', r'advertis|promotion|social media|e-newsletter'),
+    ('PUBLIC RELATIONS', r'public relations'),
+    ('PROMOTION / ADVERTISING', r'advertis|promot|social media|e-newsletter'),
     ('MARKETING', r'\bmarketing\b'),
     ('COMPETITIVE ADVANTAGE', r'competitive advantage|remain competitive|maintain(ed)? .{0,25}(market share|advantage)'),
-    ('MEASURING SUCCESS', r'measure (its|the|a) (success|business)|success by|only consider profit|financial methods of motivation'),
+    ('MEASURING SUCCESS', r'measur\w* .{0,24}(success|business)|make a business.{0,25}success|only consider profit'),
     ('SOCIAL OBJECTIVES / ETHICS', r'social objective|ethic|charit|donat|sustainab|environment'),
     ('MOTIVATION', r'motivat'),
     ('COMMUNICATION', r'communicat'),
@@ -94,6 +110,20 @@ def topic_of(stem):
         if re.search(pat, s, re.I):
             return name
     return 'UNMAPPED'
+
+
+# Seven mark schemes print no 4(c) stem AND sit outside the CSV's coverage.
+# Stems below were read off the QUESTION PAPER (page cited) - see
+# Source_Notes/ARCHIVE_LABEL_AUDIT_2026-10-14.md for the June 2026 name clash.
+STEM_OVERRIDES = {
+    ('June 2026', 'P2R'): 'Evaluate the importance of Apple responding to changes in the market.',
+    ('May-June 2024', 'P2R'): 'Evaluate the factors Jimmy Choo would have to consider when making decisions on the location of a new factory.',
+    ('May-June 2024', 'P2'): 'Evaluate the benefits for TUI of providing a quality service.',
+    ('May-June 2025', 'P2R'): 'Evaluate the effect for Rabanne of working hard to maintain and improve its public relations.',
+    ('May-June 2025', 'P2'): 'Evaluate why Starbucks carries out product trials that might reduce the risks from introducing new products.',
+    ('November 2021', 'P1'): 'Evaluate the factors that Artify Studio would have considered when deciding where to locate its second art studio.',
+    ('November 2025', 'P2'): 'Evaluate whether a centralised organisation structure will benefit Samsung.',
+}
 
 
 def main():
@@ -111,6 +141,8 @@ def main():
     for b in blocks:
         stem = stem_of(b['body'])
         src = 'MS'
+        if not stem and (b['session'], b['paper']) in STEM_OVERRIDES:
+            stem, src = STEM_OVERRIDES[(b['session'], b['paper'])], 'QP'
         if not stem:
             key = (b['session'].replace('-', '').replace(' ', ''), b['paper'])
             cand = None

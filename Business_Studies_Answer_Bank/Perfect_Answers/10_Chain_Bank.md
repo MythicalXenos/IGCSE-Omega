@@ -117,7 +117,9 @@ Every entry gives you:
 | **7d** | **9-mark Justify — job design, motivation, contracts** | ✅ **9 entries (209–217)** |
 | **7e** | **9-mark Justify — the final 21 blocks** | ✅ **10 entries (218–227)** |
 | **8** | **9-MARK TIER — CLOSED at 76/76 blocks** | ✅ **done** |
-| **9** | 12-mark Evaluate topics — 38 blocks | ⬜ **next — the last tier** |
+| **8a** | **12-mark Evaluate — the scaffold, quality, TQM, location and research families** | ✅ **6 entries (228–233)**, 12 of 38 blocks |
+| **8b** | 12-mark Evaluate — marketing, the market, success, objectives, structure, finance | ⬜ next |
+| **8** | **12-MARK TIER — the last one** | 🔄 **12 of 38 blocks** |
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
 >
@@ -5421,3 +5423,189 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 > ⚠️ **Note which way this one goes, and why: the scheme's own formulation makes the sponsorship link weak — "there is no guarantee … that people will purchase its products".** **When a counter-argument is printed in the scheme, it is the correct ground to argue on.** **This is the opposite conclusion from entry 186 (AWG), where venture capital beat franchising — because there the option being rejected damaged the BRAND, and here the option being rejected is merely indirect.**
 
 ---
+
+---
+
+# BATCH 8 — THE 12-MARK TIER (entries 228–252)
+
+> **38 blocks — one `4(c)` on every paper.** The bank's last tier. **This is the tier with a permanent limit: there is no verified 12/12 for Paper 2 or Paper 2R** (Pearson's 12-mark exemplars are Paper 1 scripts; see `09_Verified_Tally.md`). Everything here is therefore a `[CONSTRUCTED GRADE 9 TARGET]` unless labelled otherwise.
+>
+> **The unit is the TOPIC, as in every other tier** — 38 blocks collapse to **22 topics carried by 25 entries**, because *location* alone appears on four papers and *quality* on four. **One essay per topic, with every paper's own markscheme anchors printed**, is what makes the tier complete; writing 38 separate essays would repeat the same chains a dozen times.
+
+## 228. ⭐⭐ THE UNIVERSAL 12-MARK SCAFFOLD — what every Evaluate has in common
+
+**Asked:** all 38 papers, question **4(c)**, `AO1 = 3 · AO2 = 3 · AO3 = 3 · AO4 = 3`.
+
+**The framing varies; the shape does not.** Across 38 papers the command sits in five forms — *"Evaluate the **extent to which**…"* · *"the **importance** of…"* · *"the **impact** of…"* · *"the **benefits** for…"* · *"Evaluate **how / why / whether**…"* — and **all five are marked with the same four-way split.** So there is one architecture, and it is the architecture of the verified 12/12 (May 2023 P1, Irsi — rule 82).
+
+```
+PARA 1   The concept, in today's words + your answer in the same breath        AO1 + AO2
+PARA 2   Applied to THIS business — a chain, not a claim                       AO2 + AO3
+PARA 3   "However…" — turn against what you just argued                        AO3 (+AO2)
+PARA 4   Decide, and NAME THE CONDITION                                        AO4
+```
+
+**Continuous prose only.** *"Some candidates are using bullet points or a numbering format which will not allow them to gain the higher levels."* (May 2023 P2 **and** P2R). **A bulleted 12-marker cannot reach Level 3, however good the content.**
+
+### The four routes to AO4 — all four are official, and you need one
+
+| Route | What it sounds like | Where the scheme shows it |
+|---|---|---|
+| **1. The drawback of the same thing** | *"However, [the option] also means…"* | **Every one of the 38 schemes** has an AO4 bullet opening *"However"* |
+| **2. A more important factor** | *"…but other factors may matter more, such as…"* | Crumb: *"other factors such as **location of the cafe and the price** may be more important"* |
+| **3. The named condition** | *"…and this depends on **X**, because…"* | Irsi 12/12: *"could be limited because it **depends on factors such as nature of employee**"* |
+| **4. Argue against the premise** | *"…in fact the opposite may be true, because…"* | Pearson, on a 4/12: *"…**or if other factors should be taken into account as well**"* — stated outright as a route to Level 3 |
+
+> ### ⭐ THE CONDITION TEST — the same test as the 9-mark tier
+> **"It depends" is worth nothing. "It depends on whether customers in its area value quality over price" is AO4.** Ask: *could this condition be pasted onto another question?* If yes, it scores nothing.
+
+> ### ⭐⭐ THREE THINGS THE TOP BAND REQUIRES, ALL CONFIRMED IN THE REPORTS
+> **1. No separate "In conclusion" paragraph.** The 12/12's last paragraph *decides* — *"the effectiveness of using financial methods of motivation could be limited because…"*. **A summary paragraph is the ceiling**, at 12 marks as it was at 9 (rule 83).
+> **2. AO2 must be woven, not stamped.** *"The name of the business does not provide context"* (June 2024 P1R). Naming Crumb in a sentence that would work for any business is not application.
+> **3. ≈330–400 words in 12–14 minutes.** The 12/12 is ≈330 words in two and a half paragraphs. **Written lines are printed to size** — overrunning earns nothing and costs the time the answer needs.
+
+**AO checkpoint before you move on:** *Have I said what the thing **is** (AO1) · applied it with a **chain** (AO2/AO3) · given the **other side** (AO3) · **decided and named a condition** (AO4)?* Four ticks, four AOs.
+
+---
+
+# ---- THE FAMILY THAT APPEARS MOST: QUALITY -------------------------------
+
+## 229. QUALITY — will it give a competitive advantage, and can it be maintained?
+
+**Asked:** *"Evaluate the extent to which quality will give **Violet Cakes** a competitive advantage."* — **June 2026 P1 4(c)**, cake business and cafe · *"Evaluate the importance for **NEXT** of maintaining quality throughout all of its manufacturing processes."* — **May 2021 P2 4(c)**, clothing and furniture, 70 countries · *"Evaluate the benefits for **TUI** of providing a quality service."* — **May 2024 P2 4(c)**, holidays, hotels and car hire.
+
+> ⚠️ **June 2026 P1 carries two names for the same business** — the question paper says **Crumb** (owner: Alex), the mark scheme says **Violet Cakes** (owner: Claire). Same story, same paper code; the bank carries both. **Use the name printed on your own paper.** See `Source_Notes/ARCHIVE_LABEL_AUDIT_2026-10-14.md`.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — June 2026 P1, Violet Cakes / Crumb
+>
+> Quality means a product is free from defects and meets or exceeds what the customer expects. At Violet Cakes it comes from high-quality materials — the fruit from England and Italy, the chocolate from France and Belgium — and from quality control, so that the cakes taste the same every time. Quality clearly matters to a business selling celebration cakes, but it is only one of the things that creates a competitive advantage.
+>
+> If the food served in the cafe is of a high quality, this should attract consumers to visit, and if the cookies and cakes are of a high quality this should lead to word-of-mouth recommendations. That is how a cake business grows without paying for advertising: a wedding guest who tastes the cake recommends the baker. It may also lead to more high-profile orders such as the wedding cakes it has supplied to celebrities, resulting in increased publicity and a larger market share. A reputation built this way is difficult for a rival to copy quickly, because it rests on years of consistent quality rather than on a price cut — and that is exactly what makes it a competitive advantage rather than a temporary gain.
+>
+> However, other factors such as the location of the cafe and the price of the cakes may be more important to potential customers. A customer choosing where to buy lunch weighs convenience and cost heavily, and may never taste the difference in quality before deciding. In addition, the cost of high-quality ingredients such as chocolate from France may increase the cost of the cakes, making them uncompetitive against businesses using cheaper ingredients, and if it raises prices to protect its margin, it risks losing the price-sensitive customers that quality was supposed to win.
+>
+> Overall, quality will give Violet Cakes a competitive advantage, but only to a limited extent. This depends on whether the customers who buy its cakes are willing to pay a premium for ingredients they can taste, and on whether the high-profile orders continue. In the short term the higher ingredient costs will reduce the profit margin, but in the long term a reputation for quality is the business's strongest and least imitable asset.
+
+**The scheme's own content, per paper — use your paper's column:**
+
+| | **Violet Cakes / Crumb** (2026 P1) | **NEXT** (2021 P2) | **TUI** (2024 P2) |
+|---|---|---|---|
+| **AO2 anchor** | high quality attracts consumers to the cafe; word-of-mouth recommendations | NEXT sells quality furniture and fashionable dress; a poor reputation means fewer customers in its worldwide shops | if holidays and experiences are good, customers return and book again |
+| **AO3 chain** | reputation keeps it competitive against **Gail's Bakery**; a high-profile order (the scheme names the **Harry and Meghan** wedding cake) → publicity and market share | the same standard must be maintained by every manufacturer across **70 countries**; a poor reputation means closing shops, cutting outlets and sales | repeat bookings → recommendations to friends and family |
+| **AO4 — "However"** | **other factors** — location and price — may matter more; French chocolate raises cost and makes it uncompetitive against **Flour Cafe** | maintaining the standard is **expensive** — constant inspection; and **once a poor reputation is gained it is very hard to regain loyalty** | good service to every customer is **expensive** — enough employees to meet their needs; once a poor reputation for car hire or lack of variety is gained, **loyalty is very hard to regain** |
+
+⭐ **The three AO4s are three different arguments, and the paper picks one:** Crumb's is **price** (a more important factor), NEXT's is **cost of control** (the drawback of the same choice), TUI's is **cost plus irreversibility** (the drawback, sharpened). **A "quality is expensive" answer is not a substitute for the whole answer** — it is one paragraph of it.
+
+⚠️ **The trap that turns an AO2 into a zero:** *"Quality is important to Crumb because it makes good cakes."* — no chain, and the business name is doing the work. **Build it:** *high-quality materials → a cake that tastes better than a rival's → customers recommend it at weddings → orders carry a premium price → a margin a cheaper rival cannot match.*
+
+---
+
+## 230. TQM — introducing it, and what it does to the factory while it is introduced
+
+**Asked:** *"Evaluate the effects on **Saha** of introducing Total Quality Management (TQM) to its business."* — **November 2024 P1 4(c)**, robots for hotels, restaurants and homes.
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]`
+>
+> TQM should ensure that the robots are manufactured without any faults, and it involves training every employee in quality assurance so that waste and costs fall. For a manufacturer selling to hotels, hospitals and the home, a faulty robot is not a small problem — it is a customer who will not order again.
+>
+> If the robots are subject to quality checks throughout the production process, they should be delivered to the restaurants with no defects, which protects Saha's revenue from the cost of returns and repairs. Successful training of each employee should also lead to a reduction in waste in the production of the new robots built for the home. Together these may improve the reputation of Saha and attract more customers to buy the robots, increasing the revenue for its business, and trained employees who are focused on quality should result in zero defects of robots to ensure Saha meets its objective of making the robots long lasting — which matters most to the hotel and hospital customers who use them continuously.
+>
+> However, TQM involves disruption to the manufacturing facility as new processes are introduced, which could cause delays and late deliveries of robots to the hotel and hospital customers — and those are customers on contracts, not one-off buyers. The cost of training all employees in TQM also takes time and is costly, which could reduce profitability in the short term and increase the price of the robots, making Saha uncompetitive in the robot market against manufacturers who have not taken on the same costs.
+>
+> Overall, TQM will benefit Saha, but only in the long term. This depends on whether its customers buy on reliability or on price, and on how long the hotel and hospital contracts can tolerate disruption during the changeover. In the short term the disruption and the training cost will hurt profit, but in the long term zero-defect manufacturing is the only way a robot-maker protects the reputation its orders depend on.
+
+| Move | The scheme's content |
+|---|---|
+| **AO1** | TQM = robots manufactured without faults; **every** employee trained in quality assurance |
+| **AO2** | quality checks throughout production → delivered to restaurants with no defects; trained employees → less waste in the home-robot line |
+| **AO3** | better reputation → more customers → higher revenue; zero defects → meets the objective that the robots are long lasting |
+| **AO4** | **disruption** to the facility → delays and late deliveries to hotels and hospitals; training all employees is **time-consuming and costly** → lower short-term profitability and **higher prices → uncompetitive** |
+
+⭐ **TQM appears in the bank twice over — here and as a 3-mark definition (`6_`, rules on quality).** The 12-mark version is *not* "what is TQM": it is **what it does to this factory while it is being introduced.** The disruption bullet is the paragraph most candidates never write.
+
+---
+
+# ---- THE SECOND FOUR-PAPER FAMILY: WHERE TO PUT THE BUSINESS -------------
+
+## 231. LOCATION — four papers, one spine, four different reasons
+
+**Asked:** *"Evaluate the factors **Tata Motor Company** would have to take into account when making decisions about where to locate a new factory."* — **May 2019 P2 4(c)**, cars · *"Evaluate the factors that **Loaf** would have to consider when deciding where to locate its second bakery."* — **May 2020 P1R 4(c)**, bakery and cookery classes, a social enterprise · *"Evaluate the factors **Jimmy Choo** would have to consider when making decisions on the location of a new factory."* — **May 2024 P2R 4(c)**, luxury handbags · *"Evaluate the factors that **Artify Studio** would have considered when deciding where to locate its second art studio."* — **November 2021 P1 4(c)**.
+
+**The spine is identical on all four, and it is cost, not preference:** *the factor → why this business in particular needs it → what it saves or earns → what it costs elsewhere.*
+
+| | **Tata Motor Company** (2019 P2) | **Loaf** (2020 P1R) | **Jimmy Choo** (2024 P2R) | **Artify Studio** (2021 P1) |
+|---|---|---|---|---|
+| **Factor 1 — labour** | needs a range of **skilled employees, e.g. engineers and designers** | needs **skilled bakers or chefs who can run the cooking classes** | needs a wide variety of skilled labour, **from machinists producing handbags to employees with financial skills** | needs **employees with art-based skills** to work at the studio |
+| **Factor 2** | **accessibility** — near a port, motorways or railway, to bring materials in and move vehicles out | **proximity of competition** — may choose to locate **away from other bakeries** | **accessibility by road, rail and sea** — reduces the transport cost of dress material from suppliers | **availability of materials** — art supplies for its courses |
+| **The chain** | near skilled labour → **reduces the overall costs** of the new factory; a continuous supply in and finished vehicles out | skilled labour already trained → **saves training costs**, money spendable elsewhere; no competition nearby → **greater chance of survival** | near skilled labour **reduces overall costs**; roads and rail nearby **make delivery of finished goods easier** | skilled labour → can **progress and expand the range of courses**; supplies → **all current courses can be offered, giving consistency between the two studios** |
+| **AO4 — "However"** | land and infrastructure **cost more** near skilled labour, **adding to the cost** of the location; **infrastructure is one of many factors** and others may be more important | if **no skilled labour is available** the impact is negative — newly trained bakers will not have a trained baker's skills; and Loaf **may deliberately locate near competitors**, because as a social enterprise its aims differ from other bakeries | locating near skilled labour is **more expensive** — labour costs may be higher, **increasing overall costs**; and infrastructure may matter less than delivery to and from the factory | no skilled labour → **courses cannot run**; relocating to a **small mining town** may make art materials hard to source, so it could not offer its full range |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — Jimmy Choo, the most recent of the four
+>
+> Location decisions matter to a luxury goods manufacturer because they set costs for years: a factory cannot be moved once the trained staff and supplier routes are built around it. For Jimmy Choo, making handbags that sell at a high price, the cost of labour and of moving materials are two of the factors that decide where the new factory should go.
+>
+> Jimmy Choo would need to locate its factory near to where labour can be found, because it needs a wide variety of skilled labour, from machinists producing handbags to employees with financial skills. If the factory is easily accessible it could reduce the transport costs of dress material from suppliers. By locating near to a skilled labour force in Italy the business could reduce its overall costs, and the finished handbags could be delivered more easily with roads and rail nearby — which matters for a product whose reputation rests on the quality of both the stitching and the finish.
+>
+> However, locating near to skilled labour could be more expensive, as the cost of labour may be higher, increasing overall costs and cancelling out part of the saving. Infrastructure may also matter less than other considerations: how close the factory sits to its suppliers, and how easily finished goods reach the airports and the shops that sell them, may be more important than the road and rail links themselves.
+>
+> Overall, labour is the most important factor for Jimmy Choo, but only if the wage cost does not consume the saving the skills create. This depends on whether the business competes on craftsmanship or on cost, and on how many skilled machinists are actually available in the area it is considering. In the short term the higher wages will raise costs, but in the long term a factory near genuinely skilled labour is what protects the quality the brand is built on.
+
+⭐ **"Nearest to the market" is not on any of the four mark schemes.** What appears on all four is **labour** and **a second, business-specific factor** (transport · competition · materials). **Learn the spine, then learn each paper's second leg.**
+
+⚠️ **The counter-argument differs by business type, and this is where AO4 lives:** Tata's is *cost of land near skills*; Loaf's is *no skilled labour available at all* — plus the twist that a social enterprise may *want* to be near competitors; Artify's is *a remote mining town cannot supply art materials*. **Write the one that fits your case, not the generic "it might be expensive".**
+
+---
+
+# ---- RESEARCH: TWO DIFFERENT 12-MARK QUESTIONS ---------------------------
+
+## 232. MARKET RESEARCH METHODS — primary against secondary, and why "more research" is not automatically better
+
+**Asked:** *"Evaluate the importance of primary market research to **Backyard Shoez**."* — **May 2019 P1 4(c)**, shoes sold in a mall · *"Evaluate the importance of using methods of market research for **Café Pinch** to meet customer needs."* — **May 2024 P1R 4(c)**, cafe serving breakfast, lunch and drinks.
+
+| | **Backyard Shoez** (2019 P1) | **Café Pinch** (2024 P1R) |
+|---|---|---|
+| **AO1** | research the business does itself, e.g. a **questionnaire**; or methods that suit it, like **focus groups** | **primary** market research such as questionnaires; **secondary** market research such as the internet |
+| **AO2** | question customers **in the mall** on their needs and wants for shoes; speak directly to people who buy its shoes, who then **feel valued** | speak directly to customers who come for breakfast, lunch and drinks; search for **specific menu information that other cafes in the area are offering** |
+| **AO3** | primary research finds out **exactly what they need** and how to meet it; focus groups give **qualitative data** that helps design new shoes | questionnaire feedback on the menu gives **ideas to improve** and better meet customer needs; the internet lets them find **suppliers, and source one more local and cheaper** |
+| **AO4** | **time-consuming**; and if local competitors already meet those needs, **no amount of research will help** target the new audience. **Without secondary research as well**, they cannot find out wider information on **competitors and suppliers** | **without secondary as well as primary**, they will not have wider research such as local competitors and their activity; there may be **too much information**, which **makes decision making harder and possibly less accurate** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — Backyard Shoez
+>
+> Primary market research is information the business collects itself, first-hand from its own customers — for Backyard Shoez, a questionnaire in the mall or a focus group. Secondary research is information someone else has already gathered. Because Backyard Shoez sells shoes face to face, primary research is the more useful of the two, but it has to be done properly to be worth the time.
+>
+> Backyard Shoez could question customers in the mall on their needs and wants for shoes, and will be able to speak directly to customers who buy its shoes, who will then feel valued. Using primary market research, Backyard Shoez can find out exactly what it needs and work out ways of meeting those needs, rather than guessing and buying stock that does not sell. Focus groups would give it qualitative data — the reasons behind a preference, not just a count of them — which is what helps with the design of new shoes, because a customer can explain why a particular sole or fit does not work.
+>
+> However, it can be time-consuming to find out what customers' needs are, and if these are already being met by competitors in the local area then no amount of market research will help Backyard Shoez to target its new audience. Research tells it what customers want; it cannot make those wants unserved. In addition, without doing secondary market research as well, Backyard Shoez cannot find out wider information such as what its competitors are charging or which suppliers could offer it better terms — both of which are cheaper to look up than to survey for.
+>
+> Overall, primary research is important to Backyard Shoez, but it is not sufficient, and this depends on whether the business is trying to serve a need nobody currently meets or to compete with the shops already in the mall. In the short term a questionnaire costs time and may confirm what the owners already suspect, but in the long term designing shoes around what local customers actually ask for is the cheapest way to avoid unsold stock.
+
+⭐ **Café Pinch adds the third leg the four-mark version never has: data overload.** *"There might be too much information and this could make decision making harder and possibly less accurate"* — **the argument against research is not only its cost, it is the quality of the decision it produces.** Keep it for any question that offers the internet as an option.
+
+⚠️ **Do not confuse this with Block 233.** Both are research, but the question is different: this one is *which method*, the next one is *why research before you launch*.
+
+---
+
+## 233. RESEARCH BEFORE LAUNCH — does it de-risk the product, or only delay it?
+
+**Asked:** *"Evaluate why **Starbucks** carries out product trials that might reduce the risks from introducing new products."* — **May 2025 P2 4(c)** · *"Evaluate why **Huawei** would carry out market research before designing a new product."* — **November 2021 P2 4(c)**.
+
+| | **Starbucks** (2025 P2) | **Huawei** (2021 P2) |
+|---|---|---|
+| **AO1** | if a business launches a new product it wants to know customers will buy it; **all new products need to be tested on the market, and the larger the sample the more accurate the results** | research finds out what customers' **needs and wants** are; it lets the business make **informed decisions** about actions it should take |
+| **AO2** | it could have **wasted a great deal of money** introducing a new coffee customers did not like; if it introduces a new cake it needs to know customers are likely to purchase it | if it produced **a watch very few customers want** it could waste a great deal of money; it may **add features or change the size** of its smartphones from customers' comments |
+| **AO3** | by carrying out **product trials** they can find out if the new coffee flavour will be bought; they need customers' opinions on the new product to see if it will sell | a flop would **damage Huawei's financial situation and hold back other products** such as tablets; getting it right **increases sales and keeps Huawei competitive** |
+| **AO4** | **no guarantee** that because some customers disliked the new coffee it would not eventually have become popular; **no matter how much research is done, there is no guarantee customers will want to buy it** | producing **a watch no other business offers** could mean it **sells more and gains a competitive advantage** *(the scheme's counter-argument)*; and **no guarantee the research is worthwhile, as customers' tastes change constantly with new technology** |
+
+> ## `[CONSTRUCTED GRADE 9 TARGET]` — Starbucks
+>
+> A product trial is a limited launch — the product is tested on a sample of the market before it is offered everywhere. Starbucks carries out product trials because a coffee chain's cost is not only the coffee: rolling a new drink out to every coffee shop means new ingredients, new staff training and new menus, and all of that spending happens before a single customer has tasted it.
+>
+> If Starbucks launches a new product it wants to know customers will buy it, and the larger the sample the more accurate the results. Without a trial, it could have wasted a great deal of money introducing a new coffee which customers did not like. If Starbucks introduces a new cake, it needs to know that customers are likely to purchase it. By carrying out product trials it can find out whether the new coffee flavour will be bought, and the opinions it gathers tell it whether the product will sell — which matters more in coffee than in most markets, because the menu changes constantly and a failed drink takes shelf space from a successful one.
+>
+> However, there is no guarantee that just because some customers did not like the new coffee it would not eventually become very popular. Tastes can change once a product is in front of customers, and a trial sample of a few hundred people cannot represent the millions who use its shops. More fundamentally, no matter how much research is done on a new product, there is no guarantee that customers will want to purchase the item, so a trial reduces the risk of a failure without removing it.
+>
+> Overall, product trials are worthwhile for Starbucks, but only as risk reduction rather than risk removal. This depends on how similar the trial customers are to the wider market and on how costly a full launch would be if the product failed. In the short term the trial costs money and slows the launch, but in the long term a chain that tests first wastes far less on the drinks customers quietly stop ordering.
+
+⭐ **Huawei's AO4 contains the rarest move in the whole bank: the scheme argues *against* its own question.** *"Producing a watch that no other business is offering could mean that it sells more of the products and gains a competitive advantage"* — **research can talk a business out of its best idea.** Pearson's own advice on a 4/12 (*"if other factors should be taken into account as well"*) confirms this is a route, not a risk.
+
+⚠️ **Both AO4s end in the same place, and it is the sentence to memorise for either paper:** *research cannot guarantee demand.*

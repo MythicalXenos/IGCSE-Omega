@@ -131,7 +131,7 @@ Currently held (verbatim, with award):
 
 ## LAYER C — CONSTRUCTED MODELS
 
-**227 entries written · 380 governed blocks in scope · 38 still to cover** (all twelve-mark).
+**233 entries written · 380 governed blocks in scope · 26 still to cover** (all twelve-mark).
 
 > **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, **114 covered, 0 remaining**, and flags any entry reference that does not exist.
 
@@ -266,6 +266,13 @@ Opening the 12-mark tier exposed **three file-level defects** in the archive fol
 **Also fixed in the same pass:** `04_` still carried the **withdrawn** `111 / 86 / 48 / 17` population and a per-paper tariff table that was wrong (it said 6-mark items are worth ~24 marks a paper; they are worth **18**). Both replaced with the derived figures.
 
 ---
+
+### 🔄 LAYER C, 12-MARK TIER — OPEN (12 of 38 blocks · Batch 8a, entries 228–233)
+
+**The last tier.** One `4(c)` per paper, **38 blocks → 22 topics → 25 entries (228–252)**, because *location* and *quality* each appear on four papers.
+**Batch 8a closed:** the universal scaffold (228) · quality/reputation (229, 3 papers) · TQM (230) · location (231, **4 papers**) · research methods (232, 2) · research before launch (233, 2).
+**Tracked by `layer_c_12mark_coverage.py`** — block→entry, checked both ways, `--audit` prints each block's own stem beside the entry claiming it.
+⚠️ **Permanent limitation: no verified 12/12 exists for Paper 2 or 2R**, so every model in this tier is `[CONSTRUCTED GRADE 9 TARGET]`.
 
 ### ✅ LAYER C, 9-MARK TIER — CLOSED at 76/76, verified 0 remaining
 
