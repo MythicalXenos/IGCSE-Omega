@@ -168,7 +168,7 @@ Priority order:
 | `May-June_2019_P2R` 79-marks puzzle | Unresolved. |
 | **Word-collision cluster** | ✅ now **19 entries**; run a collision check over every QP in the archive to find the remaining pairs. |
 | **253 MiB redundant tracked duplicate bundle parts** | **Awaiting your approval to delete.** |
-| June 2026 grade boundaries (Grade 9 = 133/160 overall) | Sourced but **needs verification against the grade-boundary PDF** before entering `00_`. |
+| June 2026 grade boundaries | ✅ **verified against the Pearson PDFs, 14 Oct 2026 — in `00_`** (standard 133/160 · regional 137/160 · paper-level 68 / 68 / 65 / 69). |
 
 ---
 
@@ -353,7 +353,7 @@ REMAINING                :    0 topics  ·    0 blocks
 3. **Add the restatement filter to `tally_exemplars.py`** so a repeated General Comment cannot be counted as new evidence (rule 40), and re-run the tally.
 4. **Locate June 2019's second 9/9** — the report's own count does not yet match the bank's.
 5. **Fold the E1–E12 rules** into the numbered rule sequence.
-6. **Verify the June 2026 grade boundaries against the PDF** before any figure reaches `00_` — 4BS1 overall 9 = 133, and the notional components, are currently from a search snippet only. **A snippet is not a source.**
+6. ✅ **DONE — the grade boundaries are verified and now live in `00_`.** Fetched from Pearson's own PDFs on 14 Oct 2026: **June 2026 overall** (standard **133/160** · regional **137/160**) and **June 2026 notional components** (Paper 01 **68**/80 · Paper 01R **68** · Paper 02 **65** · Paper 02R **69**), with **June 2025** and **Nov 2025** alongside them. **The search snippet that started this was wrong in a way worth remembering** — it interleaved the Paper 02 row into Paper 02R, so it reported the regional Paper 2 boundary as **65** when it is **69**. ✅ **Two findings came out of the verification and both are now in `00_`:** (a) **the grade-9 boundary has roughly doubled since 2021** — Nov 2021 needed **84/160**, June 2026 needs **133–137** — so **an old paper must be marked against the modern boundary, not its own**; (b) ✅ **a self-check that passed on every series tested — the two component boundaries add to the qualification boundary** (68 + 69 = 137; 65 + 65 = 130), **which is how you catch a wrong number without re-downloading anything.**
 7. **Final sweep of `00_`–`09_` for stale claims** — the same class of error as the 3-mark count and the MS swap, i.e. a statement that was true when written and is not true now.
 
 ---

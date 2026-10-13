@@ -334,57 +334,88 @@ Pearson lists **May 2026** throughout. The archive's newest papers are labelled 
 
 Since 2019 these have been **linear**, set on the total of both papers out of **160**.
 
-## Standard papers (4BS1, Papers 1+2)
+> ## ⚠️ READ THIS BEFORE USING ANY NUMBER BELOW
+> **The same subject has had a grade-9 boundary of 84/160 and of 137/160 — in the same qualification.** Nov 2021 needed **84**; June 2026 needed up to **137**. The boundary is set to hold the standard, not to hold the marks, so **an old paper's boundary tells you nothing about yours except that you should not be comforted by it.** A mock marked against a 2021 boundary would tell you that you have a 9 when you do not.
+>
+> **Use the most recent series. That is the whole point of this section.**
+>
+> **Provenance:** every row is read from Pearson's own published grade-boundary PDF. Rows marked ✅ were **re-read and confirmed on 14 Oct 2026**; rows marked 📄 are **corroborated by the published documents but not re-fetched this session.** No row here is estimated. **Sources are listed at the end of the section.**
 
-| Session | Max | **9** | 8 | 7 | 6 | 5 | 4 | 3 |
-|---|---|---|---|---|---|---|---|---|
-| May 2026 | 160 | **133** | 124 | 115 | 103 | 92 | 81 | 70 |
-| Nov 2025 | 160 | **133** | 122 | 111 | 95 | 79 | 64 | 55 |
-| May 2025 | 160 | **130** | 121 | 112 | 101 | 90 | 80 | 69 |
-| Nov 2024 | 160 | **132** | 121 | 110 | 95 | 80 | 65 | 55 |
-| May 2024 | 160 | **133** | 123 | 113 | 101 | 89 | 77 | 68 |
-| Nov 2023 | 160 | **132** | 121 | 111 | 96 | 81 | 67 | 57 |
-| May 2023 | 160 | **132** | 121 | 111 | 96 | 81 | 67 | 57 |
-| May 2022 | 160 | **111** | 100 | 90 | 77 | 64 | 51 | 42 |
-| Nov 2021 | 160 | **84** | 71 | 58 | 46 | 34 | 23 | 18 |
-| Nov 2020 | 160 | **90** | 77 | 64 | 50 | 37 | 24 | 20 |
-| May 2019 | 160 | **113** | 101 | 90 | 76 | 62 | 48 | 40 |
+## Overall boundaries — June 2026 (the series to aim at)
 
-## Regional papers (4BS1R, Papers 1R+2R)
+| Route | Max | **9** | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Standard: Papers 01 + 02** | 160 | **133** | 124 | 115 | 103 | 92 | 81 | 70 | 59 | 48 |
+| **Regional: Papers 01R + 02R** | 160 | **137** | 129 | 122 | 110 | 98 | 87 | 72 | 58 | 44 |
 
-| Session | Max | **9** | 8 | 7 | 6 | 5 | 4 | 3 |
-|---|---|---|---|---|---|---|---|---|
-| May 2026 | 160 | **137** | 129 | 122 | 110 | 98 | 87 | 72 |
-| May 2025 | 160 | **130** | 122 | 114 | 101 | 89 | 77 | 66 |
-| May 2024 | 160 | **139** | 130 | 122 | 107 | 93 | 79 | 67 |
-| May 2023 | 160 | **137** | 127 | 117 | 104 | 92 | 80 | 69 |
-| May 2022 | 160 | **114** | 105 | 97 | 84 | 71 | 59 | 49 |
-| May 2019 | 160 | **111** | 101 | 91 | 77 | 63 | 49 | 40 |
+> ⚠️ **The two routes are NOT the same, and the gap is not a constant.** In **June 2026 the regional route needed 4 marks more for a 9** (137 v 133); in **June 2025 both routes needed exactly 130.** **Check which route you are entered for, and never assume last year's gap.** The `1C/2C` rows are identical to `01/02` and `1CR/2CR` to `01R/02R`.
 
-## Notional component boundaries — Paper 1 and Paper 1R (out of 80)
+## 🎯 Notional component boundaries — the numbers for a MOCK
 
-Useful for **mocks**, since the qualification boundary requires both papers.
+*A mock is one paper, so the qualification boundary — which needs both — cannot mark it. These are Pearson's own component-level boundaries, published for exactly this purpose.*
 
-| Session | Paper 1: **9** / 8 / 7 | Paper 1R: **9** / 8 / 7 |
-|---|---|---|
-| May 2026 | **68** / 63 / 59 | **68** / 64 / 61 |
-| May 2025 | **65** / 60 / 56 | **65** / 61 / 57 |
-| May 2024 | **65** / 60 / 56 | **71** / 66 / 61 |
-| May 2023 | **68** / 62 / 57 | **68** / 62 / 57 |
-| May 2022 | **54** / 49 / 45 | **58** / 53 / 48 |
+**June 2026** ✅
 
-### 🎯 What this means for your mock target
+| Paper | Max | **9** | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **Paper 01** | 80 | **68** | 63 | 59 | 53 | 47 | 41 | 35 | 30 | 25 |
+| **Paper 01R** | 80 | **68** | 64 | 61 | 55 | 49 | 43 | 36 | 29 | 22 |
+| **Paper 02** | 80 | **65** | 60 | 56 | 50 | 45 | 40 | 34 | 28 | 23 |
+| **Paper 02R** | 80 | **69** | 65 | 61 | 55 | 49 | 44 | 36 | 29 | 22 |
 
-**On a single Paper 1 mock, a grade 9 is roughly 65–68 out of 80** — about **82–85%**.
+**June 2025** ✅ — for comparison, one series back
 
-Your English baseline of 55/100 flagged by your own teacher as "possibly generous" sits around a grade 5–6 on that scale. For **Business**, the working target for a mock is:
+| Paper | Max | **9** | 8 | 7 |
+|---|---|---|---|---|
+| Paper 01 | 80 | 65 | 60 | 56 |
+| Paper 01R | 80 | 65 | 61 | 57 |
+| Paper 02 | 80 | 65 | 60 | 56 |
+| Paper 02R | 80 | 65 | 61 | 57 |
 
-| Mock paper | Grade 9 target | "Solid 8" floor | Never settle for |
-|---|---|---|---|
-| Paper 1 (/80) | **68** | 60 | **< 57** (the grade-7 line) |
-| Paper 2 (/80) | **67** | 60 | **< 56** |
+> ✅ **A check you can run yourself, on any series, and which passed on every one tested:** the two component boundaries **add to the qualification boundary.** June 2026 regional: 68 + 69 = **137** ✅. June 2025: 65 + 65 = **130** ✅. On the standard route they add to within ±1 (the scaling rounds), e.g. 68 + 65 = 133 ✅ at grade 9, but 63 + 60 = 123 against a published 124 at grade 8. **If a number you have found does not add up like this, it is the wrong number.**
 
-**Note May 2026 is the hardest set of boundaries in the table** (68/80 on Paper 1 for a 9). Boundaries rise as cohorts improve; assume you need **~85%** rather than the ~70% that a quick internet search would suggest.
+## Trend — the whole series history, so the drift is visible
+
+| Series | Max | **9** | 8 | 7 | 6 | 5 | 4 | 3 | Source |
+|---|---|---|---|---|---|---|---|---|---|
+| **Jun 2026 · standard** | 160 | **133** | 124 | 115 | 103 | 92 | 81 | 70 | ✅ |
+| **Jun 2026 · regional** | 160 | **137** | 129 | 122 | 110 | 98 | 87 | 72 | ✅ |
+| Nov 2025 · standard | 160 | **133** | 122 | 111 | 95 | 79 | 64 | 55 | 📄 |
+| Jun 2025 · standard | 160 | **130** | 121 | 112 | 101 | 90 | 80 | 69 | ✅ |
+| Jun 2025 · regional | 160 | **130** | 122 | 114 | 101 | 89 | 77 | 66 | ✅ |
+| Nov 2024 · standard | 160 | **132** | 121 | 110 | 95 | 80 | 65 | 55 | 📄 |
+| Jun 2024 · standard | 160 | **133** | 123 | 113 | 101 | 89 | 77 | 68 | 📄 |
+| Nov 2023 · standard | 160 | **132** | 121 | 111 | 96 | 81 | 67 | 57 | 📄 |
+| Jun 2023 · standard | 160 | **132** | 121 | 111 | 96 | 81 | 67 | 57 | 📄 |
+| Jun 2023 · regional | 160 | **137** | 127 | 117 | 104 | 92 | 80 | 69 | 📄 |
+| Jun 2022 · standard | 160 | **111** | 100 | 90 | 77 | 64 | 51 | 42 | 📄 |
+| Jun 2022 · regional | 160 | **114** | 105 | 97 | 84 | 71 | 59 | 49 | 📄 |
+| **Nov 2021** | 160 | **84** | 71 | 58 | 46 | 34 | 23 | 18 | 📄 |
+| **Nov 2020** | 160 | **90** | 77 | 64 | 50 | 37 | 24 | 20 | 📄 |
+| Jun 2019 · standard | 160 | **113** | 101 | 90 | 76 | 62 | 48 | 40 | 📄 |
+| Jun 2019 · regional | 160 | **111** | 101 | 91 | 77 | 63 | 49 | 40 | 📄 |
+
+> ### ⭐ THE TREND IS THE POINT, AND IT IS NOT GRADUAL
+> **84 → 111 → 132 → 133.** The grade-9 boundary roughly **doubled in seven years**, and it **jumped 21 marks in a single year** between June 2022 (111) and June 2023 (132). Nothing about that is a change in how hard the papers are; it is a change in how well the field performs against a standard that is held fixed. **Three consequences for you:**
+> 1. **Boundaries are near their ceiling** — the last four series sit within 5 marks of each other (130–137). **Assume ~83–86% for a 9, i.e. ~133/160.**
+> 2. **A mock on a 2019–2022 paper should be marked against the modern boundary, not the paper's own.** A 2019 paper's own boundary would award a 9 for 113/160 — **50 marks a paper too generous.**
+> 3. **The November series runs Papers 01/02 only** — no regional versions — so an R-entered candidate has no November fallback on the standard papers.
+>
+> ### ⚠️ THE ONE SENTENCE THAT MATTERS MOST
+> The grade-9 boundary is around **133/160 — so roughly 68/80 on Paper 1 and 65/80 on Paper 2.** **A "comfortable 8" performance — say 120/160 — is 13 marks short of a 9, and those 13 marks live almost entirely in AO4 evaluation.** That is why `10_Chain_Bank.md` spends its largest tier on 9- and 12-mark evaluation and why the 3-mark answers are capped at three sentences: **the marks that separate 8 from 9 are won in the last two tariffs, not in the first two.**
+
+### Sources (Pearson publications, all `qualifications.pearson.com`)
+
+| Document | Path |
+|---|---|
+| Grade boundaries, June 2026 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2026-international-gcse.pdf` |
+| Notional component, June 2026 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2026-notional-component-international-gcse.pdf` |
+| Grade boundaries, June 2025 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2025-int-gcse.pdf` |
+| Notional component, June 2025 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2025-notional-component-int-gcse.pdf` |
+| Grade boundaries, Nov 2025 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/2511-international-gcse-subject-grade-boundaries.pdf` |
+| Older series | `2111_intGCSE_(9-1)_Subject_Grade_Boundaries_V2.pdf` · `2206-intgcse-9-1-subject-grade-boundaries.pdf` · `2306-intgcse-9-1-subject-grade-boundaries.pdf` · `2311-intgcse-9-1-subject-grade-boundaries.pdf` · `1906-ig-9-1-subject-grade-boundaries.pdf` |
+
+> ⚠️ **The filename never follows one pattern.** It has been `grade-boundaries-june-2026-international-gcse.pdf`, `grade-boundaries-june-2025-int-gcse.pdf`, `2511-international-gcse-subject-grade-boundaries.pdf` and `2206-intgcse-9-1-subject-grade-boundaries.pdf` **in the same folder.** Three guesses failed on 14 Oct 2026 before the right names were found. **404 on one spelling is not absence** — and while you are guessing, a search engine that has already indexed the PDF will hand you the row in one query.
 
 ---
 

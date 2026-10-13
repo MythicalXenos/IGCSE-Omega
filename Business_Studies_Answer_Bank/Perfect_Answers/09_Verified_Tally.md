@@ -1,6 +1,6 @@
 # 09 — THE VERIFIED REGISTER
 
-**One row per distinct script.** The bank previously carried hand-written totals — *"the bank now holds six 9/9s"* above a list of fourteen, and a coverage table labelled *"6 × 9/9"* above eight names. **Both were wrong.**
+**One row per distinct FULL-MARK script.** The bank previously carried hand-written totals — *"the bank now holds six 9/9s"* above a list of fourteen, and a coverage table labelled *"6 × 9/9"* above eight names. **Both were wrong.**
 
 A hand-written total is an assertion; a register is evidence. Rebuild the audit at any time:
 
@@ -19,6 +19,9 @@ python3 tally_exemplars.py
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **19** |
 | **1- and 2-mark items** | n/a — *the mark scheme IS the perfect answer; Pearson publishes no scripts* |
+
+> ### ⚠️ WHAT THIS TABLE COUNTS — AND WHAT IT DOES NOT
+> **It counts scripts Pearson printed with FULL marks against them.** A script the report itself scores at **11/12** is not a row here, and neither is a **6/12** or a **10/12** — **they are held instead in `03_Calibration_Below_Full_Marks.md` and in the 12-mark section of `02_Verified_Exemplars.md`, which is where their examiner comments teach the most.** The best of them — **Spud Bros, June 2026 P1R Q4(c), 11/12** — is called *"the best 12-mark model in the bank"* in `02_` for the reason that matters: **it is the closest thing to a full-mark 12-mark answer the bank owns, and it is the one Pearson printed with a conclusion.**
 
 ---
 

@@ -5804,6 +5804,8 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 
 ---
 
+⚠️ **This question has a `[VERIFIED CANDIDATE EXEMPLAR]` printed beside it — read it before writing your own.** **June 2026 P1R Q4(c), Spud Bros — 11/12**, the highest-marked 12-mark script the bank holds, with its examiner comment: *"They offer balance in their argument with appropriate levels of context throughout the response."* **Note that this one DOES end with an explicit "In conclusion" paragraph — and it balances rather than summarises.** Compare the **6/12 printed on the same pages**: identical chains, no drawback, no second half of the argument. Both are transcribed in `02_Verified_Exemplars.md`; the mark scheme's own AO4 for this paper is at the head of this entry.
+
 ## 241. PUBLIC RELATIONS — the same facts as social objectives, a different question
 
 **Asked:** *"Evaluate the effect for **Rabanne** of working hard to maintain and improve its public relations."* — **May 2025 P2R 4(c)**, donating to charities, refillable glass bottles and sustainable packaging.
@@ -6111,4 +6113,9 @@ entry, 0 remaining, 0 dangling.**
 > ## ⚠️ THE TIER'S PERMANENT LIMIT — STATE IT, NEVER HIDE IT
 > **There is no verified 12/12 for Paper 2 or Paper 2R, in any series.** Pearson publishes 12-mark exemplars from **Paper 1** reports; both full-mark scripts in this bank are Paper 1. **Everything in this tier is a `[CONSTRUCTED GRADE 9 TARGET]`** — engineered from the mark scheme's own indicative content, the level descriptors, and the examiner reports. **No score is claimed for any of them.**
 >
-> The one verified full-mark anchor in the tier is **entry 251's paper — Irsi, May 2023 P1** — and its anatomy (≈330 words, no conclusion paragraph, the named condition, both AO4 routes) is what every model above is built to imitate.
+> ## ⭐ THE TWO ANCHORS EVERY MODEL ABOVE IS BUILT TO IMITATE
+> **1. The verified 12/12 — Irsi, May 2023 P1 Q4(c)** (entry 251's paper). **≈330 words, no bullets, and NO conclusion paragraph** — its last paragraph decides (*"the effectiveness … could be limited because it depends on factors such as nature of employee"*) and stops. **It uses both official AO4 routes in one answer:** the drawback of the same option (*"it could compromise quality of products and lead to higher defects / spoiled chocolates"*) and the named condition.
+>
+> **2. The verified 11/12 — Spud Bros, June 2026 P1R Q4(c)** (entry 240's paper). **The highest-marked 12-mark script in the bank and the best 12-mark model in it**, because it is the closer of the two to a full-mark answer in the situation you will actually face. **It DOES end with an explicit "In conclusion" paragraph — which balances rather than summarises** (*"Although it causes a huge cost to provide free meal, the increase in sales due to support of customers may over the cost in long term"*). **So the rule is not "never write a conclusion". The rule is: a conclusion must WEIGH, never repeat.** The examiner's own words: *"They offer balance in their argument with appropriate levels of context throughout the response."*
+>
+> **And on the same two pages Pearson printed the 6/12** — the same chains, the same case, **not one drawback on the page**. **That pair is the clearest demonstration in the whole bank of where the marks live in this tier: the second half of the argument.**
