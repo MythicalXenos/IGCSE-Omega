@@ -151,7 +151,7 @@
 
 ⭐⭐ **All five standing rules are independently confirmed here in 2023, in Pearson's own words: no repetition · context in State/Outline · no context needed in Explain · one option is enough for Justify · linking words.**
 
-⚠️ **One nuance worth keeping:** P2 and P2R advise *"develop your responses using linking words"*, while `06_` rule 63 warns **connectives are not analysis**. Both are true and they are not in conflict: **linking words signpost a chain you have actually built. A connective with nothing to connect adds nothing.**
+⚠️ **One nuance worth keeping:** P2 and P2R advise *"develop your responses using linking words"*, while rule 63 of `01_Mark_Tariff_Playbook.md` warns **connectives are not analysis**. Both are true and they are not in conflict: **linking words signpost a chain you have actually built. A connective with nothing to connect adds nothing.**
 
 ---
 
