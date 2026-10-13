@@ -317,7 +317,7 @@ Read the sixteen answers above side by side and the pattern is visible. **Every 
 
 # BATCH 2 — Spec 3.1 (Business activity) and the 3.2 structure cluster
 
-**23 entries covering 31 inventory items** — the clusters are merged into one entry each, because the chain is the same and only the wording changes.
+**33 entries.** The clusters are merged into one entry each — partnership appears four times in the papers, the HR function three — **because the chain that earns the marks is identical and only the wording moves.** That deduplication is what makes the bank tractable.
 
 ---
 
@@ -801,14 +801,20 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 | Batch | Content | Status |
 |---|---|---|
-| **1** | Newest 3-mark topics — June 2026 (11) + Nov 2025 (5) | ✅ 16 answers |
-| **2** | **3.1 Business activity + 3.2 structure/HR cluster** | ✅ **This file — 33 answers covering 45 items** |
-| **3** | 3.2 employment & motivation remainder + 3.3 Marketing | ⬜ |
+| **1** | Newest 3-mark topics — June 2026 (11) + Nov 2025 (5) | ✅ 16 entries |
+| **2** | **3.1 Business activity + 3.2 structure/HR cluster** | ✅ **33 entries** |
+| **3** | 3.3 Marketing — the remaining promotion, research and product topics | ⬜ next |
 | **4** | 3.4 Operations + 3.5 Finance | ⬜ |
 | **5–6** | 6-mark Analyse chains | ⬜ |
 | **7–8** | 9-mark Justify option pairs | ⬜ |
 | **9** | 12-mark Evaluate topics | ⬜ |
 
-**Remaining: 217 of 262 governed items.**
+### ⭐ PROGRESS — counted, not estimated
 
-**3-mark Explain: 49 of 111 done. 62 to go.**
+```
+3-mark Explain:  61 of 111 covered   ·   50 remaining
+Layer C total:   61 of 262 covered   ·  201 remaining
+```
+
+> **How this is counted.** A script matches the 111 three-mark stems in `4BS1_Question_Instances.csv` against the topics covered in this file, and reports the difference. It is deliberately conservative — it matches on phrasing, so a topic covered under slightly different wording may still count as remaining. **Where the script and the prose disagree, the script is right.**
+> ⚠️ The reason this matters: the previous hand-written status line in this very file said *"49 of 111 done, 62 to go"*. **The script says 61 and 50.** A hand-tallied total drifted again within one turn — which is rule 118 in practice.
