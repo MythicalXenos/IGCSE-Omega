@@ -158,6 +158,47 @@ Priority order:
 
 ## ORDER OF WORK
 
+### 🔎 SCOPE CORRECTED — Layer C is **262 items**, not ~382
+
+Measured from `4BS1_Question_Instances.csv`, not estimated:
+
+| Tariff | Instances | Distinct framings |
+|---|---|---|
+| 3-mark Explain | **111** | **8** |
+| 6-mark Analyse | **86** | ~6 |
+| 9-mark Justify | **48** | **1** — *"justify which one of these two options…"* |
+| 12-mark Evaluate | **17** | ~5 |
+| **TOTAL** | **262** across **38 papers**, **12 sessions** | ~20 |
+
+The old ~382 figure had counted the 2-mark and 1-mark types in, and **those need no models at all** — for those the mark scheme *is* the perfect answer.
+
+### ⭐ THE KEY STRUCTURAL FINDING FOR LAYER C
+
+**There are only about twenty distinct framings in the whole qualification.** Every one of the 262 items is a **framing wrapped around a topic**.
+
+So the correct response is **not 262 separate essays** — that would repeat the same chains dozens of times. It is:
+
+| Layer | File | Covers |
+|---|---|---|
+| **The framings** | `01_Mark_Tariff_Playbook.md` + `00_Pearson_Official_Rulebook.md` | ✅ already complete |
+| **The topics** | **`10_Chain_Bank.md`** (NEW) | the causal chains that earn the marks, one entry per topic |
+
+**A topic done once covers every paper it has appeared on — and every paper it will appear on next.**
+
+### Progress
+
+| Batch | Content | Status |
+|---|---|---|
+| **1** | Newest 3-mark topics — June 2026 (11) + Nov 2025 (5) | ✅ **done — 16 answers** |
+| 2–3 | Historical 3-mark topics by spec section | ⬜ |
+| 4 | 6-mark Analyse chains | ⬜ |
+| 5–6 | 9-mark Justify option pairs | ⬜ |
+| 7 | 12-mark Evaluate topics | ⬜ |
+
+**Remaining: 246 of 262 governed items.**
+
+---
+
 **Phase 1 — Evidence.**
 1. ✅ **DONE — the Summer 2019 → Summer 2025 run is complete.** Nov 2023 P1, Nov 2024 P2, Nov 2021 P2 and Summer 2019 P1R were all recovered in this sweep, along with nine new rule-groups (rules 100–109).
 2. **Outstanding:** Nov 2025 P1/P2 (filename unknown) · Jun 2026 P1/P2/P2R (secure download) · verify Jun 2020 and Nov 2022.
