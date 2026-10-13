@@ -587,10 +587,17 @@ Across the two official June 2019 booklets (Paper 1/1R and Paper 2/2R):
 
 | Tariff | Exemplar responses held | Marks seen |
 |---|---|---|
-| **3-mark Explain** | **9** | 3/3 ×3, 2/3 ×3, 1/3 ×3 |
-| **6-mark Analyse** | **16** | 6/6 ×4, 5/6 ×2, 4/6 ×3, 3/6 ×3, 2/6 ×4 |
-| **9-mark Justify** | **8** | 9/9 ×2, 7/9 ×2, 6/9, 5/9, 4/9 ×2, 3/9 |
-| **12-mark Evaluate** | **4** | 10/12, 8/12, 7/12, 4/12 |
+| **3-mark Explain** | **8** | 3/3 ×3, 2/3 ×2, 1/3 ×3 |
+| **6-mark Analyse** | **16** | 6/6 ×3, 5/6 ×2, 4/6 ×3, 3/6 ×3, 2/6 ×5 |
+| **9-mark Justify** | **8** | **9/9 ×1**, 7/9 ×2, 6/9 ×1, 5/9 ×1, 4/9 ×2, 3/9 ×1 |
+| **12-mark Evaluate** | **4** | 10/12 ×1, 8/12 ×1, 7/12 ×1, 4/12 ×1 |
+
+> ### 🚨 CORRECTION, 14 Oct 2026 — this table used to be wrong, and it mattered
+> **It claimed `9/9 ×2` for June 2019. There is exactly ONE.** The four Justify scripts printed across the two June 2019 booklets are **9/9** (P1 Q3(e), Backyard Shoez) · **7/9 ×2** (P1 Q2(f) TADS, P2 Q2(f) Tata) · **6/9** (P2 Q3(e)) · **5/9** (P2 Q3(e) B) · **4/9 ×2** (P1 Q2(f) B, P2 Q2(f) B) · **3/9** (P1 Q3(e) B) — **eight scripts, one of them full marks.**
+>
+> **A housekeeping task sat open for two sessions on the strength of that cell** — *"locate June 2019's second 9/9"* — when the correct action was to **stop trusting the cell**. Two rows were wrong in the opposite direction as well: the table said **9** Explain exemplars and **6/6 ×4** in Analyse; the headings give **8** and **6/6 ×3**.
+>
+> ✅ **The table above is now DERIVED, not typed.** `python3 audit_exemplar_marks.py --all-2019` reads every `### Exemplar … **N marks**` heading in this file and the Paper 2 booklet and prints the distribution. **If this table and that script ever disagree, the table is wrong** — it is the one that was written by hand.
 
 **Every one of these carries a verbatim question, the official mark scheme, the verbatim candidate response, the awarded mark, and the examiner's reasoning.**
 
