@@ -6,8 +6,19 @@ A hand-written total is an assertion; a register is evidence. Rebuild the audit 
 
 ```bash
 cd Business_Studies_Answer_Bank
-python3 tally_exemplars.py
+python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it does not
 ```
+
+> ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
+> **It parses this file's own tables and checks them**, rather than counting prose:
+>
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 36 rows resolve.**
+> 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **34 matched, 0 unaccounted.**
+> 3. **Everything else is filtered out as narrative.** That is the restatement filter: a rule section called *"THE 9/9 JUSTIFY — six required features"* **is not a script**, and a cross-reference to a transcript held in another file **is not a second script**.
+>
+> ⚠️ **The previous version of this script counted headings, and printed 17 / 14 / 4 against this register's 19 / 15 / 2** — it counted rule sections, cross-references and repeats. **A total that is wrong in a new way each time it is run is not evidence either.** The rewrite is why the rule above exists: **if this script and this table ever disagree, the script says so in the exit code and prints the offending heading.**
+>
+> **Two genuine defects came out of the first run of the rewritten script, both in this file:** the June 2019 canonical sources were written as `2023-05_Series…md` — **a truncated filename with an ellipsis, which resolves to nothing** — and two rows pointed at headings that state the mark in words. **Both fixed; the filenames are now exact.**
 
 ---
 
@@ -30,7 +41,7 @@ python3 tally_exemplars.py
 | # | Series | P · Q | Case study | Canonical source |
 |---|---|---|---|---|
 | 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:928` |
-| 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series…md:17` |
+| 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
 
 > ### ⚠️ PERMANENT LIMITATION — BOTH ARE PAPER 1
 > **No verified 12/12 exists for Paper 2 or Paper 2R, in any series.** Pearson names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **This is the edge of what is published, not a gap in the search.**
@@ -46,11 +57,11 @@ python3 tally_exemplars.py
 | 3 | **Jun 2022** | P1 Q3(e) | questionnaires vs focus groups — *TBTS* | `2022-06_P1_TBTS.md:188` |
 | 4 | **Jun 2022** | P1R Q2(f) | advertising vs open for breakfast — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:51` |
 | 5 | **Jun 2022** | P1R Q3(e) | permanent vs temporary contract — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:76` |
-| 6 | **May/Jun 2023** | P1 Q2(f) | job vs batch production — *Irsi* | `2023-05_Series…md:382` |
-| 7 | **May/Jun 2023** | P1 Q3(e) | on-the-job vs off-the-job training — *Irsi* | `2023-05_Series…md:399` |
-| 8 | **May/Jun 2023** | P1R Q2(f) | sponsor a flower show vs leaflets — *Aude Rose* | `2023-05_Series…md:409` |
-| 9 | **May/Jun 2023** | P1R Q3(e) | questionnaires vs internet — *Aude Rose* | `2023-05_Series…md:417` |
-| 10 | **May/Jun 2023** | **P2R Q3(e)** | job rotation vs bonus — *M&M* | `2023-05_Series…md:425` |
+| 6 | **May/Jun 2023** | P1 Q2(f) | job vs batch production — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:382` |
+| 7 | **May/Jun 2023** | P1 Q3(e) | on-the-job vs off-the-job training — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:399` |
+| 8 | **May/Jun 2023** | P1R Q2(f) | sponsor a flower show vs leaflets — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:409` |
+| 9 | **May/Jun 2023** | P1R Q3(e) | questionnaires vs internet — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:417` |
+| 10 | **May/Jun 2023** | **P2R Q3(e)** | job rotation vs bonus — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:425` |
 | 11 | **Jun 2024** | P1 Q2(f) | — *PPS* | `2024-06_P1_PPS.md:60` |
 | 12 | **Jun 2024** | P1 Q3(e) | — *PPS* | `2024-06_P1_PPS.md:79` |
 | 13 | **Jun 2024** | P1R Q2(f) | vegan range vs discount — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:9` |
@@ -77,11 +88,11 @@ python3 tally_exemplars.py
 | 6 | **Jun 2022** | P1R Q1(g) | impact of technology — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:108` |
 | 7 | **Jun 2022** | P1R Q3(d) | social media reviews — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:133` |
 | 8 | **Jun 2022** | P2R Q1(g) | two location factors, **43 words** — *Cadbury* | `2022-06_P2R_Cadbury.md:170` |
-| 9 | **May/Jun 2023** | P1 Q1(g) | branding — *Irsi* | `2023-05_Series…md:253` |
-| 10 | **May/Jun 2023** | P1 Q4(b) | place — *Irsi* | `2023-05_Series…md:262` |
-| 11 | **May/Jun 2023** | P1R Q4(b) | measuring success — *Aude Rose* | `2023-05_Series…md:272` |
+| 9 | **May/Jun 2023** | P1 Q1(g) | branding — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:253` |
+| 10 | **May/Jun 2023** | P1 Q4(b) | place — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:262` |
+| 11 | **May/Jun 2023** | P1R Q4(b) | measuring success — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:272` |
 | 12 | **May/Jun 2023** | P1R Q3(d) | retained profits as finance — *Aude Rose* | `2023-06_P1R_Aude_Rose.md:52` |
-| 13 | **May/Jun 2023** | P2 Q3(d) | shortlisting — *IKEA* | `2023-05_Series…md:327` |
+| 13 | **May/Jun 2023** | P2 Q3(d) | shortlisting — *IKEA* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:327` |
 | 14 | **Jun 2024** | P1 Q1(g) | — *PPS* | `2024-06_P1_PPS.md:32` |
 | 15 | **Jun 2024** | P1 Q3(d) | — *PPS* | `2024-06_P1_PPS.md:47` |
 | 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:65` |
@@ -89,8 +100,12 @@ python3 tally_exemplars.py
 | 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:423` |
 | 19 | **Jun 2025** | P2 Q2(c) | batch production, 46 words — *Starbucks* | `02_Verified_Exemplars.md:423` |
 
-> ### ⚠️ ONE OPEN AMBIGUITY
-> The June 2019 booklets' own coverage table claims **"6/6 × 4"** across both booklets. **Three** are enumerated above (entries 1–3). **A fourth may exist in the Paper 2/2R booklet and is not yet located.** The count is therefore **19 confirmed, possibly 20** — flagged rather than fudged.
+> ### ✅ THE ONE OPEN AMBIGUITY — CLOSED, 14 Oct 2026
+> The June 2019 booklets' own coverage table claimed **"6/6 × 4"** across both booklets while only **three** were enumerated above. **A fourth appeared to be missing, and the count was therefore carried as "19 confirmed, possibly 20".**
+>
+> **There is no fourth.** The booklets' headings give exactly **6/6 ×3** — Backyard Shoez Q1(g), Backyard Shoez Q4(b) and Lavender Q1(g) — and **the same table was wrong in three other places too** (it claimed `9/9 ×2` for June 2019 where there is **one**, `9` Explain exemplars where there are **8**, and `6/6 ×4` where there are **three**).
+>
+> ✅ **So: 19, confirmed. Not "possibly 20".** Verify with `python3 audit_exemplar_marks.py --all-2019`, which derives the distribution from the booklet headings themselves — **or read the correction block in `2019-06_P1_Official_Exemplar_Booklet.md`.** **The generalisable lesson: when a total disagrees with its own list, count the list. The total was typed by hand.**
 
 ---
 
