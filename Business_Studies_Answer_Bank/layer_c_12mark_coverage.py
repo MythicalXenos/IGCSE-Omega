@@ -79,9 +79,15 @@ def main() -> int:
 
     print("12-MARK EVALUATE — COVERAGE")
     print("-" * 58)
+    written = sorted({COVERED[b] for b in covered if COVERED[b] in entries})
+    unwritten_blocks = [b for b in covered if COVERED[b] not in entries]
     print(f"blocks in the tier        : {total}  (expected 38)")
-    print(f"blocks covered            : {len(covered)}")
-    print(f"REMAINING                 : {len(missing)}")
+    print(f"blocks planned            : {len(covered)}")
+    print(f"blocks covered by a WRITTEN entry : {len(covered) - len(unwritten_blocks)}")
+    if unwritten_blocks:
+        print(f"  claimed by an entry not yet written: {len(unwritten_blocks)} blocks "
+              f"-> entries {sorted({COVERED[b] for b in unwritten_blocks})}")
+    print(f"REMAINING (not even planned)      : {len(missing)}")
     if missing:
         print("  blocks with no entry yet:")
         for b in missing:
