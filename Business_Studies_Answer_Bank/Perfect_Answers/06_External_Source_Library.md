@@ -1900,24 +1900,28 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 
 ## 🎯 Highest-value unharvested targets — from Pearson's own road map
 
-Pearson's support page names **May 2026** as containing full-mark examples in several papers. The archive's newest papers are labelled *June 2026* — almost certainly the same series. If so, examiner reports exist for the 2026 series in **five** tariff-and-paper combinations where **no verified full-mark exemplar is currently held at all**:
+> ### ✅ SUPERSEDED — 14 OCTOBER 2026. EVERY LINE BELOW WAS TRUE WHEN WRITTEN AND IS NOT TRUE NOW.
+> **This section was written before the 2025 and 2026 reports were harvested, and it listed as "unharvested" four targets that have all since been found** — the June 2025 P1R Analyse, the June 2025 P2 Analyse, the June 2025 P2R Justify and the May 2023 P2R Justify. **Read the table below instead; the register that proves it is `09_Verified_Tally.md`, and `tally_exemplars.py` re-derives it.**
 
-| Tariff | Paper | Full-mark example available? |
-|---|---|---|
-| **Analyse (6)** | Paper 1R, Paper 2, Paper 2R | **No** — currently none held |
-| **Justify (9)** | Paper 2, Paper 2R | **No** — currently none held |
+**What is actually still missing, by tariff and paper — derived from the register (19 × 6/6 · 15 × 9/9 · 2 × 12/12):**
 
-These are the highest-value targets in the project: the newest papers, filling gaps that no earlier report covers.
+| Tariff | Paper 1 | Paper 1R | Paper 2 | Paper 2R |
+|---|---|---|---|---|
+| **Analyse (6)** | ✅ held | ✅ held | ✅ held | ✅ held |
+| **Justify (9)** | ✅ held | ✅ held | ❌ **still none** | ✅ held *(2)* |
+| **Evaluate (12)** | ✅ held *(2)* | ⚠️ **best held is 11/12** | ❌ none published | ❌ none published |
 
-**Also outstanding** (Pearson records no 12-mark full-mark example for Paper 2 or 2R — the only verified 12/12 in this bank is June 2024 Paper 1):
-- May 2025 Paper 2 Justify · May 2025 Paper 1R Justify · May 2024 Paper 1R Analyse · May 2023 Paper 2R Justify
+**So there are exactly three open cells, and two of them may never close:**
+1. **Paper 2 Justify — no verified 9/9 in any series.** The best held is **7/9** (June 2019 P2 Q2(f), Tata) and **7/9** (May 2023 P2 Q3(e), IKEA). **A search target, not a permanent gap** — the Justify structure is identical on all four papers, so the 9/9 models in `10_Chain_Bank.md` already cover the *technique*; what is missing is a Paper 2 example of it.
+2. **Paper 1R Evaluate — the best held is 11/12** (June 2026 P1R, Spud Bros — transcribed in `External_Exemplars/2026-06_P1R_SpudBros.md` and banked at `02_Verified_Exemplars.md:708`).
+3. **Paper 2 / 2R Evaluate — no full-mark example is published**, which Pearson's own road map confirms. **This one is permanent**, and it is recorded as a limitation rather than a target in `08_Completion_Map.md`.
 
 ## Progress
 
 | | |
 |---|---|
 | PEF reports identified for 4BS1 | **15** + 5 GCSE 1BS0 resources |
-| **Reports with MARKED SCRIPTS** | **15 confirmed** — plus **4 advisory reports read in full** (Nov 2023 P1 · Nov 2024 P2 · Nov 2021 P2 · Summer 2019 P1R) — **all four May 2023 reports** (P1 12/12 · P2 10/12 · P2R 10/12 · P1R 4/12) · **June 2026 P1R** (seven scripts) · June 2025 P1, P1R, P2, P2R  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
+| **Reports with MARKED SCRIPTS** | **every series from 2019 to 2026 that publishes scripts** — plus **4 advisory reports read in full** (Nov 2023 P1 · Nov 2024 P2 · Nov 2021 P2 · Summer 2019 P1R) — **all four May 2023 reports** (P1 12/12 · P2 10/12 · P2R 10/12 · P1R 4/12) · **June 2026 P1R** (seven scripts) · June 2025 P1, P1R, P2, P2R  **June 2026 P1R (Spud Bros — 11/12 Evaluate, 8/9 Justify)** · **June 2025 P1 (Four Fitness)** · June 2022 P2R (Cadbury) · June 2022 P2 (LEGO) · June 2022 P1R (Can Culleretes) · **June 2025 P1R (CCT) · June 2025 P2 (Starbucks) · June 2025 P2R (Rabanne)** · June 2024 P1R (Café Pinch) · June 2023 P2 (IKEA) · June 2024 P2 (TUI) |
 | **Examiner reports harvested** | **16** — Jun 2024 P1/P1R/P2 · Jun 2023 P1R/P2 · Jun 2022 P1/P1R/P2R · Nov 2024 P1 · Nov 2021 P1 · Nov 2023 P2 · Nov 2020 P1, P2, P1R · Summer 2019 P1, P2R · **+ the Specification PDF and the June 2022 P2R full ER with marked scripts** |
 | **Official exemplar booklets harvested** | **2, both complete** — **June 2019 Paper 2/2R** (17 responses) and **June 2019 Paper 1/1R** (17 responses). **34 official exemplar responses, each with question, mark scheme, verbatim script, awarded mark and examiner commentary.** |
 | **Official level descriptors** | **captured verbatim** — the AO2/AO3/AO4 rubric for 6, 9 and 12 marks. See rule 18 and `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` |

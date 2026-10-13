@@ -19,6 +19,30 @@ Everything else in this bank — exemplars, examiner reports, calibration — is
 
 ---
 
+# THE PAPER — what is actually on it, derived from all 38 mark schemes
+
+**Before any rule about a command word, know the population it applies to.** These figures are **derived**, not counted from question papers: every part of every one of the 38 archived papers is reconstructed from its **mark scheme**, and each paper is required to sum to **80 marks**. **38 of 38 do.**
+
+| Tariff | Parts | Marks | Per paper | Where it sits |
+|---|---|---|---|---|
+| **1 mark** | **456** | 456 | **12** | MCQ · define · state · identify |
+| **2 marks** | **152** | 304 | **4** | calculate one figure · outline one |
+| **3 marks — Explain** | **152** | 456 | **4** | **1(f) · 2(c) · 2(d) · 2(e)** |
+| **6 marks — Analyse** | **114** | 684 | **3** | **1(g) · 3(d) · 4(b)** |
+| **9 marks — Justify** | **76** | 684 | **2** | **2(f) · 3(e)** |
+| **12 marks — Evaluate** | **38** | 456 | **1** | **4(c)** |
+| **TOTAL** | **988** | **3040** | **26** | **38 × 80 ✅** |
+
+> **The skeleton never varies.** Twelve one-mark items, four two-mark items, four Explain, three Analyse, two Justify, one Evaluate — **on every paper, in the same question positions.** 1(f)=3 · 1(g)=6 · 2(c)(d)(e)=3 · 2(f)=9 · 3(d)=6 · 3(e)=9 · 4(b)=6 · 4(c)=12.
+>
+> **The four governed tariffs carry 60 of the 80 marks (75%)**, and the 1- and 2-mark tiers carry the other 20. **Those 380 governed blocks are what this bank models; for the 608 parts of 1 and 2 marks the mark scheme itself is the perfect answer.**
+>
+> **Reproduce it:** `python3 build_layer_c_tariffs.py` prints the full distribution and the 80-mark check.
+
+⚠️ **The question-paper extraction under-detects every tier.** It reports 111 / 86 / 48 / 17 for the 3/6/9/12 tiers (withdrawn) **and 328 / 106 for the 1- and 2-mark tiers** — against **456 / 152** derived. **Non-constant loss: it cannot be corrected with a fudge factor.** For any count, read the mark scheme.
+
+---
+
 # DEFINE (1 mark)
 
 > *"Define questions assess **AO1**.*

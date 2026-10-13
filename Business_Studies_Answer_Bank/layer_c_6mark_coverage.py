@@ -43,6 +43,16 @@ COVERED = {
     # May-June 2024  (P1R first, then P1 - the archive's MS files for this
     # session were filed under each other's names until 2026-10-14; the blocks
     # were corrected, and these entries follow the content, not the old labels)
+    # ⚠️ May-June 2024 — read this before touching the numbers. The block number is an index
+    # into layer_c_6mark_blocks.txt. The inventory was once frozen to a dump taken BEFORE the
+    # two misnamed May/June 2024 mark schemes were renamed, so its 55-60 were the reverse of
+    # the block file's, under paper labels that were wrong in the other direction. Both files
+    # are now regenerated from the current dump (build_layer_c_6mark_inventory.py, which did
+    # not exist and was replaced - it wrote the 9-mark CSV). Content and entry agree:
+    #   55 Cafe Pinch 1(g) motivated employees -> 139 ;  58 PPS 1(g) gross profit margin -> 118
+    #   56 Cafe Pinch 3(d) measuring success   -> 144 ;  59 PPS 3(d) reliable research   -> 143
+    #   57 Cafe Pinch 4(b) market segmentation -> 145 ;  60 PPS 4(b) importance of cash  -> 123
+    # verify_chain_bank_anchors.py scores every one of these against the scheme's own AO text.
     55: 139, 56: 144, 57: 145, 58: 118, 59: 143, 60: 123,
     61: 116, 62: 146, 63: 147, 64: 111, 65: 135, 66: 148,
     # May-June 2025

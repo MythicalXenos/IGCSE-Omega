@@ -2548,7 +2548,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 119. KAIZEN — why a business encourages its suppliers to use it
 
 **Asked:** *"Analyse why Yellow might encourage its clothing manufacturers to use Kaizen."* — **May–June 2019 P2R, 1(g)**
-**Also asked:** *"Analyse how Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d)
+**Also asked:** *"Analyse how Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d) · *"Analyse how [Kaizen] could affect **its** business."* — **Nov 2023 P1, 4(b)**, **AWG**, where the business runs Kaizen **in its own clothing workshop** rather than asking a supplier to — the same chains apply, and the AO anchors are the workshop staff's.
 
 **The AO2 anchors:** the **quality of the T-shirts will be better**; and there will be a **reduction in the costs of making the T-shirts**.
 
@@ -2565,6 +2565,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** Kaizen gives the line workers **a say in how the work is done** → they are more motivated → **labour productivity rises** → more T-shirts from the same hours.
 
 > ⚠️ **Kaizen is not quality control and not TQM.** Quality control *inspects faults out* at the end; Kaizen *improves the process continuously* so there are fewer faults to find. **An examiner-named content gap — the vocabulary is expected and often absent.**
+
+⭐ **WHEN THE BUSINESS RUNS KAIZEN ITSELF — AWG (Nov 2023 P1 4(b)).** The question there is *"Analyse how this could affect **its** business"*, and the scheme's own anchors are these: **employees in the clothing workshop will be able to discuss different manufacturing techniques and designs for the jumpers**, and **"a major advantage of Kaizen is efficiency" — it may improve the quality of children's clothing** (AO2). The chains then run to **innovative ideas that help AWG stand out from other competitors selling clothing**, and **attracting more customers who are seeking sustainable and long-lasting items of clothing** (AO3). **Note where the two cases differ, because the examiners do: Yellow is told what its suppliers should do; AWG is told what its own workshop will do. Same mechanism, different actor — and the actor is what the mark scheme marks.**
 
 ---
 

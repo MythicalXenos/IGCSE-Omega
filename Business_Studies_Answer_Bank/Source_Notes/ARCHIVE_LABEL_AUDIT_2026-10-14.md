@@ -111,3 +111,93 @@ skeleton that all 38 papers satisfy:
 
 **1(f) 3 · 1(g) 6 · 2(c)(d)(e) 3 · 2(f) 9 · 3(d) 6 · 3(e) 9 · 4(b) 6 · 4(c) 12 = 60
 marks, plus 20 marks of 1- and 2-mark items = 80.**
+
+---
+
+# 6. THE MAY/JUNE 2024 SWAP, RESOLVED — the second-order damage
+
+**Fixed in `9b44650`, and re-opened on 14 Oct 2026 because the fix was only half of it.**
+The two mark schemes were misnamed, so `P1` held Café Pinch (which is Paper 01R) and
+`P1R` held PPS (which is Paper 01). The files were renamed, the `10_Chain_Bank.md`
+citations were corrected, and the six-mark coverage map's six May/June 2024 entries
+were swapped to match. **That last step was the mistake** — not in intent, in
+evidence: it was done by reading the *paper labels* in the inventory, and those
+labels were themselves the stale, pre-rename ones.
+
+## What had actually happened, in order
+
+1. **The block dump was made before the rename.** `layer_c_6mark_blocks.txt` headed
+   the PPS blocks `P1R` and the Café Pinch blocks `P1` — because the headings were
+   taken from the filenames, and the filenames were the swapped thing.
+2. **`layer_c_6mark_inventory.csv` was built from that dump — and it had no builder.**
+   The file named `build_layer_c_6mark_inventory.py` was a copy of the *9-mark*
+   builder: it read `layer_c_9mark_blocks.txt`, filtered `Mark value == "9"`, and
+   wrote `layer_c_9mark_inventory.csv`. **A committed artifact with no reproducible
+   builder is an artifact nobody can re-derive, and this is what that costs.**
+3. **The block dump was then regenerated** (after the rename), which flipped the
+   order of the six May/June 2024 blocks — `P1R` sorts before `P1` — **so the dump
+   and the inventory silently disagreed about which block was which.**
+4. **The chain-bank citations were corrected correctly** (entry 118 gained
+   *"the gross profit margin to PPS"*, entry 139 gained *"Kumaran, the owner of
+   Café Pinch"*), **and the coverage map was then swapped to match the labels** —
+   which put each block against the entry for the *other* paper's question.
+
+## How it surfaced
+
+`verify_chain_bank_anchors.py` (new, this pass) scores every block→entry mapping
+against **the block's own mark-scheme content** rather than against its label. It
+flagged six May/June 2024 mappings in the six-mark tier at 17–29% overlap, and the
+printed pairings made the swap obvious at a glance:
+
+| block | the block's actual question | the map said | the entry that actually quotes it |
+|---|---|---|---|
+| 55 | PPS — *gross profit margin* | 139 motivating employees | **118 profitability ratios** |
+| 56 | PPS — *reliable market research* | 144 measuring success | **143 market research** |
+| 57 | PPS — *importance of cash* | 145 market segmentation | **123 cash** |
+| 58 | Café Pinch — *motivated employees* | 118 profitability ratios | **139 motivating employees** |
+| 59 | Café Pinch — *measuring success* | 143 market research | **144 measuring success** |
+| 60 | Café Pinch — *market segmentation* | 123 cash | **145 market segmentation** |
+
+## The repair, and why it is now permanent
+
+- **`build_layer_c_6mark_inventory.py` was rewritten as a real 6-mark builder**
+  (6-mark block dump in, 6-mark CSV out, `Mark value == "6"`), with the stem trim
+  that stops a May-June 2021 stem running on into `Indica t ive content Mark 1 (g)`.
+- **The inventory was regenerated**, moving 6 rows and cleaning 1 stem. It now
+  reproduces from the dump: `--check` prints the 7 differing rows and nothing else.
+- **The coverage map was re-keyed to the regenerated numbering** and every
+  May/June 2024 pair is annotated in the map itself with its block, case and entry.
+- **`verify_chain_bank_anchors.py` now passes with no contradiction**: 114 + 76 + 38
+  = **228 mappings, 0 below the floor**, and **146 of them proven outright** because
+  the entry quotes the question verbatim (108 of 114 in the 6-mark tier, 38 of 38 in
+  the 12-mark tier).
+- **The one genuine content gap it found was filled:** block 99 is **AWG, Nov 2023
+  P1 4(b) — *"Analyse how this could affect its business"*, Kaizen run in the
+  business's own clothing workshop** — and **entry 119 did not carry the case**. The
+  entry now cites it and prints the scheme's AWG anchors, with the distinction that
+  matters: **Yellow is told what its suppliers should do; AWG is told what its own
+  workshop will do. Same mechanism, different actor — and the actor is what the
+  scheme marks.**
+
+## Reproducibility audit of the other two inventories
+
+Both were regenerated and diffed against the committed files: **9-mark 0 rows
+changed, 12-mark 0 rows changed.** They reproduce exactly. **The six-mark inventory
+was the only one whose builder did not exist.**
+
+---
+
+# 7. The same-day stale-claim sweep
+
+Three more claims that were true when written and were not true when read — the
+class of error Phase 4 exists to find:
+
+| Where | Said | Truth |
+|---|---|---|
+| `06_External_Source_Library.md` § *Highest-value unharvested targets* | **five** tariff-and-paper combinations with **no** full-mark exemplar held, listing 2025 and 2023 P2R targets | **All four named targets have since been harvested.** Replaced with a tariff × paper grid derived from the register: **exactly three open cells** — Paper 2 Justify 9/9, Paper 1R Evaluate 12/12 (best held 11/12), and **Paper 2/2R Evaluate 12/12, which is permanent.** |
+| `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` | *"Verified 9/9 on Paper 2 or Paper 2R Justify — **not held**"* | **Paper 2R is now held twice** (May 2023 M&M, June 2025 Rabanne). Only **Paper 2** is still missing. The row was typed when the bank held two 9/9s and was never revisited as the count rose to fifteen. |
+| `04_Type_Coverage_and_Gaps.md` | the question-paper CSV is *"still useful for the 1- and 2-mark items"* | **It is not.** Derived: **456 one-mark and 152 two-mark parts** against the CSV's **328 and 106** — the same non-constant under-detection, in the tiers where it had been assumed harmless. |
+
+**Every figure above is now derived rather than typed**, and the two scripts that
+derive them — `build_layer_c_tariffs.py` (full distribution + the 80-mark check on
+all 38 papers) and `verify_chain_bank_anchors.py` (mappings) — are tracked.

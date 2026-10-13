@@ -187,6 +187,14 @@ def main() -> int:
         if s != 80:
             bad.append((name, s, len(parts)))
 
+    # The 1- and 2-mark tiers were never derived before: the question-paper CSV was
+    # used for them, and that CSV under-detects NON-CONSTANTLY (see rule 120). The
+    # same 80-mark reconciliation that fixed the 3/6/9/12 totals fixes these too.
+    allt = collections.Counter()
+    for parts in papers.values():
+        for total, _aos in parts.values():
+            allt[total] += 1
+
     print("TARIFF POPULATION, DERIVED FROM THE 38 MARK SCHEMES")
     print("-" * 58)
     for k in sorted(tally):
@@ -206,6 +214,15 @@ def main() -> int:
         w = csv.writer(fh)
         w.writerow(["paper", "question", "marks", "ao_allocation"])
         w.writerows(rows)
+    print("\n  FULL DISTRIBUTION — every question part on all 38 papers")
+    for k in sorted(allt):
+        print(f"  {k:>2}-mark parts      : {allt[k]:>4}   ({k * allt[k]:>5} marks)")
+    print(f"  parts, all tariffs : {sum(allt.values())}")
+    print(f"  marks, all tariffs : {sum(k * v for k, v in allt.items())}"
+          f"   (38 papers x 80 = 3040)")
+    print(f"  the 1- and 2-mark tiers carry "
+          f"{sum(k * v for k, v in allt.items() if k < 3)} marks of the 3040")
+
     print(f"\n  wrote {OUT.name}: {len(rows)} rows of 3+ marks")
     return 0
 

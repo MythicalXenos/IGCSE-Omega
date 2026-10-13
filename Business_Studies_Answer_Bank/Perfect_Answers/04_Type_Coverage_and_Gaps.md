@@ -6,6 +6,25 @@ An honest account of what this bank contains and what it does not. Read this bef
 
 ## The full taxonomy
 
+> ### 🚨 CORRECTION — 14 October 2026. THE TABLE BELOW IS A QUESTION-PAPER VIEW, NOT A CENSUS.
+> **Everything in it comes from text-extracted question papers, and that extraction under-detects NON-CONSTANTLY.** The 3/6/9/12 rows have since been **re-derived from the mark schemes** and are shown in bold at the bottom of the table. **The 1- and 2-mark rows have now been re-derived as well, and they were wrong too** — which this file previously said they were not.
+>
+> **The derived population, from all 38 mark schemes, every paper reconciling to 80 marks:**
+>
+> | Tariff | Parts | Marks | Per paper | The part |
+> |---|---|---|---|---|
+> | **1 mark** | **456** | 456 | **12** | MCQ · define · state · identify |
+> | **2 marks** | **152** | 304 | **4** | calculate one figure · outline one |
+> | **3 marks** | **152** | 456 | **4** | **1(f) · 2(c) · 2(d) · 2(e)** |
+> | **6 marks** | **114** | 684 | **3** | **1(g) · 3(d) · 4(b)** |
+> | **9 marks** | **76** | 684 | **2** | **2(f) · 3(e)** |
+> | **12 marks** | **38** | 456 | **1** | **4(c)** |
+> | **ALL TARIFFS** | **988** | **3040** | **26** | = 38 × 80 marks ✅ |
+>
+> **The CSV's own subtotals were 328 one-mark and 106 two-mark items. Derived from the mark schemes: 456 and 152.** So the question-paper extraction **under-detects the 1- and 2-mark tiers by 128 and 46 parts** — the same fault, in the tiers where it was assumed not to matter. **Rebuild with `python3 ../build_layer_c_tariffs.py`, which now prints this distribution and the check that proves it: 988 parts and 3040 marks across 38 papers.**
+>
+> **What this does NOT change:** the **1- and 2-mark tiers still need no models** — for those the mark scheme *is* the perfect answer. **The 380 governed blocks and the whole of Layer C stand.** What changes is only **how many of them there are**, and therefore any percentage in this file computed against 696.
+
 Automatically detected across **38 archived 4BS1 question papers** (May/June 2019 – June 2026, including R variants):
 
 | Marks | Detected type | Instances | % of 696 |
@@ -31,25 +50,31 @@ Automatically detected across **38 archived 4BS1 question papers** (May/June 201
 The CSV in the row below it reports **111 / 86 / 48 / 17** for the same four
 tariffs. Every one is low, the 12-mark worst of all, because the CSV is built
 from *question-paper text extraction* and that under-detects non-constantly.
-**111 / 86 / 48 / 17 is WITHDRAWN — 152 / 114 / 76 / 38 replaces it.** The
-696-row item count itself is still useful for the 1- and 2-mark items, which is
-what the other rows of that table describe; rebuild those with
-`python3 ../build_question_inventory.py`.
+**111 / 86 / 48 / 17 is WITHDRAWN — 152 / 114 / 76 / 38 replaces it.**
+
+⚠️ **AND SO IS THE CLAIM THAT THE CSV IS "STILL USEFUL FOR THE 1- AND 2-MARK ITEMS".**
+It is not. Derived from the mark schemes, the 1- and 2-mark tiers hold
+**456 parts (12 per paper) and 152 parts (4 per paper)** — the CSV reports
+**328 and 106**. The extraction misses **128 one-mark parts and 46 two-mark
+parts**, i.e. **220 marks of the 760** those tiers carry. **The 696-row count is
+a question-paper view of the papers, useful for reading prompts; it is not a
+count of anything.** For any count, read the mark scheme (rule 120).
 
 ### Why the four bold rows are the whole game
 
-The 3, 6, 9 and 12-mark questions are **380 of the 696 items** — and they carry **60 of the 80 marks on every paper (75%)**, because the 1-mark MCQ and define items are single marks while a single evaluate is worth twelve.
+The 3, 6, 9 and 12-mark questions are **380 of the 988 parts** — and they carry **60 of the 80 marks on every paper (75%)**, because the 1-mark MCQ and define items are single marks while a single evaluate is worth twelve.
 
-On a Paper 1 (80 marks total), the tariff breakdown is roughly:
+On every paper (80 marks total), the tariff breakdown is **exactly this — derived, not estimated:**
 
-| Tariff | Items per paper | Marks per paper |
+| Tariff | Parts per paper | Marks per paper |
 |---|---|---|
-| 1- and 2-mark items | 20 | **20** |
+| 1-mark items | **12** | **12** |
+| 2-mark items | **4** | **8** |
 | 3-mark Explain | **4** | **12** |
 | 6-mark Analyse | **3** | **18** |
 | 9-mark Justify | **2** | **18** |
 | 12-mark Evaluate | **1** | **12** |
-| | **30 items** | **80 marks** |
+| | **26 parts** | **80 marks** |
 
 **Identical on all 38 papers.** The skeleton never varies: **1(f) = 3 · 1(g) = 6 · 2(c)(d)(e) = 3 · 2(f) = 9 · 3(d) = 6 · 3(e) = 9 · 4(b) = 6 · 4(c) = 12** — that is 60 marks — and the remaining **20 marks** are the 1- and 2-mark items above them.
 
@@ -94,7 +119,7 @@ These are genuinely useful calibration (and are quoted in `03_Calibration_Below_
 | 12 | May 2023 P2 Q4(c) — demographic segmentation (IKEA) | 10/12 |
 | 3/6/9/12 | June 2019 P2 selected pages — technology (3/3 ✅), public relations (5/6, 3/6), job production (2/3), pricing (7/9, 4/9), research (6/9, 5/9), factory location (8/12, 7/12), Kaizen (5/6, 4/6) | mixed |
 
-**The June 2019 Paper 2 booklet contains one further verified full-mark script** — P2 Q1(f), *explain one impact of technology*, **3/3** — catalogued in the source notes but not yet transcribed into this bank.
+**The June 2019 Paper 2 booklet contains one further verified full-mark script** — P2 Q1(f), *explain one impact of technology*, **3/3** — ✅ **and it IS transcribed: it is in `External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md` with the response verbatim, the examiner's comment verbatim, and the three marks decomposed element by element.** *(This line said "not yet transcribed" — it was stale; the booklet harvest carried it in.)* **Its examiner comment is the finding worth keeping: *"A number of responses tended to give two impacts of technology as opposed to one, and the consequence of this was that they could not gain the full marks available."***
 
 ### ❌ Not covered by verified scripts
 
@@ -102,7 +127,7 @@ These are genuinely useful calibration (and are quoted in `03_Calibration_Below_
 |---|---|---|
 | **All 1-mark types** (MCQ, define, state) | **328** | Pearson does not publish exemplar scripts for 1-mark items. The **mark scheme answer is the perfect answer** — there is nothing to model beyond it. |
 | **2-mark types** (calculate, outline) | **106** | Same. For *calculate*, the MS gives the worked figures and states *"Award full marks for correct numerical answer without working."* For *outline*, the MS convention is identify (1) + context (1). |
-| Remaining 3/6/9/12 variations | — | Only a small subset of the 262 high-value items has a published exemplar. Pearson publishes exemplars for a handful of questions per paper, not all of them. |
+| Remaining 3/6/9/12 variations | — | Only a small subset of the **380** governed blocks has a published exemplar. *(This said 262 — a withdrawn figure.)* Pearson publishes exemplars for a handful of questions per paper, not all of them. |
 
 ---
 
