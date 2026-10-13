@@ -44,7 +44,7 @@ Across 38 papers the qualification asks **governed** questions — anything need
 | Tier | Blocks | Written | Remaining |
 |---|---|---|---|
 | 3-mark Explain | 152 | ✅ **152** | 0 |
-| **6-mark Analyse** | **114** | **66** | **48** |
+| **6-mark Analyse** | **114** | **90** | **24** |
 | 9-mark Justify | 76 | 0 | 76 |
 | 12-mark Evaluate | 38 | 0 | 38 |
 
@@ -99,7 +99,9 @@ Every entry gives you:
 | **5d** | **+ the four 2019 blocks Batch 5b missed** | ✅ **4 entries (128–131)** |
 | **5e** | **6-mark Analyse — June 2021 + June 2022** | ✅ **11 entries (132–142)** |
 | **5f** | **6-mark Analyse — May–June 2024, all four papers** | ✅ **6 entries (143–148)** |
-| **5g–6** | 6-mark Analyse — the remaining **48 blocks** | ⬜ next |
+| **5g** | **6-mark Analyse — May–June 2025, all four papers** | ✅ **8 entries (149–156)** |
+| **5h** | **6-mark Analyse — May 2023, all four papers** | ✅ **6 entries (157–162)** |
+| **5i–6** | 6-mark Analyse — the remaining **24 blocks** (Nov 2021 / Nov 2023 / Nov 2024 / Nov 2025) | ⬜ next |
 | **7–8** | 9-mark Justify option pairs — 76 blocks | ⬜ |
 | **9** | 12-mark Evaluate topics — 38 blocks | ⬜ |
 
@@ -3255,5 +3257,361 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** the remaining two boxes **identify the problem products** — low growth and low share — so TUI **knows which holidays to withdraw deliberately** rather than continuing to sell them out of habit.
 
 > ⚠️ **Name the axes and the four boxes correctly.** **Market growth (high/low) against market share (high/low):** **Star** = high growth, high share · **Cash cow** = low growth, high share · **Question mark / problem child** = high growth, low share · **Dog** = low growth, low share. **Calling a dog a cash cow loses the application mark — and this is a named content gap in the examiners' reports.**
+
+---
+
+# BATCH 5g — 6-MARK ANALYSE, PART 7
+
+**8 new entries covering June 2025's twelve blocks.** Four were topics already banked:
+
+| Block | Topic | Where it now lives |
+|---|---|---|
+| 71 P1 3(d) *benefits of recruiting externally (Four Fitness)* | external recruitment | **entry 150** — same topic as block 68, one entry answers both |
+| 73 P2R 1(g) *benefits of being a global business (Rabanne)* | multinational / global | **entry 108** *(5th appearance)* |
+| 75 P2R 4(b) *benefits of robotics (Rabanne)* | robotics | **entry 142** *(3rd appearance)* |
+| 78 P2 4(b) *why interview candidates (Starbucks)* | interviewing | **entry 127** *(3rd appearance)* |
+
+> ### ⭐ THE ONE QUESTION IN JUNE 2025 THAT ASKS FOR BOTH SIDES
+> Block **77** carries a weight the others do not, and the reason is a lesson the examiners repeat in every report. Of the twelve June 2025 six-mark questions, **eleven ask for a one-directional analysis** — *benefits*, *concerns*, *effects*, *importance*. **Block 77 asks why Starbucks promotes its own employees**, which the scheme's own bullets state as **loyalty and reduced advertising time and money**. The temptation to fill it with the *disadvantages* of internal promotion — no fresh ideas, resentment — is strong and would be **answering the wrong question**. **Match the direction the stem asks for. It is set deliberately.**
+
+---
+
+## 149. NEW TECHNOLOGY — the concerns before adopting it
+
+**Asked:** *"Analyse the concerns CCT may have of introducing this app for its customers."* — **June 2025 P1R, 1(g)**
+
+**The AO2 anchors:** customers **might be reluctant to download the app for a one-off biking experience**; and it **can be costly for CCT to introduce an app where customers can book the bicycles**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> CCT's customers are **people on holiday**, and that is what makes the app a risk rather than an obvious improvement. **A tourist hiring a bike for a day or two has no reason to download an app they will use once** — they will never be back to use it again, so **the app is work for the customer and a permanent cost for CCT**. **Most phones already hold too many apps, which makes "another one" easy to refuse**, and a customer who refuses it **cannot book at all if the app is the only way in**. **The second concern is that CCT is a bike tour business, not a software business.** CCT **may not have the experience to build an app, so it must pay a designer to create it and someone else to maintain it** — a cost that is **paid whether or not customers use it**, and which continues after the season ends. **The measurable end is that the app's fixed cost lands on a business whose customers are temporary**, so the revenue it brings must clear the development and maintenance bills before it makes anything at all.
+
+| Step | The move |
+|---|---|
+| **1. Point** | The customers are **on holiday** — a one-off relationship |
+| **2. Strand A** | No reason to download an app used once → **customers may refuse it entirely** |
+| **3. Strand B** | CCT is **not a software business** → must pay to build and maintain it |
+| **4. Measurable end** | **A permanent cost against temporary custom** |
+
+**Second acceptable chain:** an app that fails **damages more than the app** — customers who could not book **leave with a poor impression of CCT itself** → the damage spreads to the tours, which are the actual business.
+
+> ⭐ **The stem says "concerns", not "disadvantages of an app".** The concern in the mark scheme is **about the customers** — their reluctance, their holiday habits. **A generic list of technology drawbacks would miss the AO2 entirely.**
+
+---
+
+## 150. RECRUITING EXTERNALLY — the effects on the business
+
+**Asked:** *"Analyse the possible effects on CCT of recruiting externally."* — **June 2025 P1R, 3(d)**
+**Also asked:** *"Analyse the benefits to Four Fitness of recruiting externally."* — **June 2025 P1, 3(d)**
+
+> **Two of June 2025's six 3(d) questions are the same question on two different papers.** The scheme's own bullets for both contain **the advantage and the drawback**, which tells you what shape the answer should take.
+
+**The AO2 anchors (CCT):** external recruitment **provides a larger pool of potential candidates who may have specialised knowledge**; and **it may be expensive and time-consuming to advertise, shortlist and interview**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Recruiting externally means **looking outside the business**, and the first effect is on **who is available**. A candidate from outside brings **specialised knowledge CCT does not have — for example a marketing specialist who understands team-building activities** — which is the whole reason to look outside rather than promote from within. **That specialist can give CCT new ideas and a competitive edge in the bicycle tour market**, because they have seen how other businesses in the field do it. **The second effect is what the process costs.** Advertising, shortlisting and interviewing **take both money and time**, and for a business the size of CCT, **that time comes out of work on the current services and the current staff** — so the business is **weaker for a period in order to be stronger afterwards**. **The measurable end is the gamble:** CCT buys expertise it does not have, **and pays for it with money and management attention it could have spent developing what it already sells.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | External recruitment widens **who is available** |
+| **2. Strand A** | Specialist skills → **new ideas and a competitive edge** |
+| **3. Strand B** | The process costs **money and management time** |
+| **4. Measurable end** | **Expertise gained, but current services go under-served meanwhile** |
+
+**Second acceptable chain (Four Fitness):** the new manager comes with **ideas from outside the business** → but existing staff may feel **overlooked for the role** → **demotivation and the risk of losing them** is the price of bringing someone in above them.
+
+> ⚠️ **"Effects" means both directions; "benefits" means the good one.** The scheme's bullets carry the cost in **both** questions, so include it — **but when the stem says *benefits*, lead with the benefit and let the drawback close the answer rather than open it.**
+
+---
+
+## 151. TECHNOLOGY FOR COMMUNICATION — choosing the channel
+
+**Asked:** *"Analyse other forms of technology CCT can use to communicate its services."* — **June 2025 P1R, 4(b)**
+
+**The AO2 anchors:** **social media can be used to target bicycle enthusiasts**; and **e-newsletters can keep previous customers up-to-date** on new bicycle services.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> The right technology is the one that **reaches the customers a business already has a relationship with, as well as the ones it does not.** **Social media reaches bicycle enthusiasts by interest** — CCT can put the tours in front of people whose profiles say they ride, **so the spend buys people who might actually book rather than passers-by**. **The channel that matters more to CCT, though, is the e-newsletter.** It goes **only to people who have already been on a tour**, so it costs almost nothing to send and **it reaches the warmest audience the business has** — people who know the tours work. **Used together the two do different jobs.** Social media **targets and personalises** by what a customer has searched for, so the message is relevant; the newsletter **brings back the customers who have already paid once**, encouraging them to **book another tour or recommend CCT to friends and family**. **The measurable end is repeat custom:** for a seasonal tour business, **the cheapest sale it will ever make is to a customer who has already been**.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Different channels reach **different audiences** — match the tool to the group |
+| **2. Strand A** | Social media → **targets bicycle enthusiasts, and personalises the message** |
+| **3. Strand B** | E-newsletter → **reaches past customers at almost no cost** |
+| **4. Measurable end** | **Repeat bookings and recommendations** from the warmest audience |
+
+**Second acceptable chain:** a **live booking and availability system on the website** → customers book without waiting for an email reply → **CCT captures the booking that a slower response would have lost** to a competitor.
+
+> ⭐ **Do not answer "technology" with a list.** *Website, social media, e-newsletter, app, text, online chat* — **each reaches a different audience at a different cost, and the mark is in that match.** A list of five with no chains scores in the bottom level, and **bullets disqualify the top levels outright.**
+
+---
+
+## 152. SPAN OF CONTROL — analysing whether it works
+
+**Asked:** *"Analyse the effectiveness of the wide span of control used by Gianni Polvani."* — **June 2025 P1, 1(g)**
+
+> **This is the question the bank holds a verified 6/6 script for** — the candidate in the June 2025 report wrote **one point with developed strands, with application throughout**, and the examiner's comment is quoted at the head of this batch series. Read entry **70's companion** in `02_Verified_Exemplars.md` before writing your own.
+
+**The AO2 anchors:** Gianni **will be able to empower his employees directly within the gym as there are no layers between him and them**; and **14 employees may be too many for Gianni to manage himself, especially as he has two gyms to run**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A wide span of control means **Gianni manages a lot of people directly** — in his case fourteen staff across two gyms, with **no layers of management between him and them**. **That structure has a real advantage: because nothing sits between the owner and the employees, he can empower them directly**, and **decisions are made faster when they do not have to travel up and down a chain**. Staff who are trusted to decide **take ownership of their own work, which motivates them to bring new ideas into the gym** — ideas that someone three layers removed would never hear. **The problem is the arithmetic.** **Fourteen people is more than one manager can supervise closely**, and **Gianni also has two gyms to run**, so at any moment he is in the wrong one for half his staff. **The measurable end is where the structure fails: supervision thins out**, and **employees who are under-supervised become less productive** — so the same design that creates the motivation is also what removes the attention that keeps it on course.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Wide span = **many staff, no layers between owner and them** |
+| **2. Strand A** | Direct empowerment → **faster decisions → motivation and new ideas** |
+| **3. Strand B** | 14 staff and 2 gyms → **he cannot supervise them all** |
+| **4. Measurable end** | **Reduced supervision → lower productivity** |
+
+**Second acceptable chain:** fewer managers **saves salary cost**, because Gianni is not paying middle managers to relay instructions → **the gyms run at a lower overhead** → but **he becomes the bottleneck** for any decision only he can make.
+
+> ⭐ **"Effectiveness" questions are the only ones at this tariff that want a verdict.** You do not have to choose between good and bad, but you must **analyse both halves and let the final line say where the balance falls for this business.**
+
+---
+
+## 153. HEALTH AND SAFETY — why a business complies
+
+**Asked:** *"Analyse why Four Fitness complies with health and safety laws."* — **June 2025 P1, 4(b)**
+
+**The AO2 anchors:** it **regularly inspects gym equipment to make sure it is safe** and keeps **safety signs on the treadmills clear**; and Gianni **could train all his instructors in relevant health and safety procedures**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A gym is **a building full of heavy moving equipment and untrained members**, so Four Fitness cannot rely on people to be careful — **the risk has to be designed out**. **Regular inspection of the equipment and clear signage on the treadmills** is how it does that, and **the reason is not legal duty alone: a customer injured on a machine is a customer who will not renew, and who may tell others why**. **The second half of the answer is on the staff side.** Training **all the instructors in health and safety procedures** means that **when an injury does happen, the person standing next to it knows what to do and gives first aid properly** — which is the difference between **an incident and a worse one**. **The measurable end is protection from two directions at once:** fewer customers injured means **fewer complaints, less risk of being sued, and no drop in customer numbers**; and staff who know what to do in an emergency **work with more confidence**, which is its own reason to comply.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A gym's risk **has to be designed out** — equipment and signage |
+| **2. Strand A** | An injured customer **does not renew — and tells others why** |
+| **3. Strand B** | Trained instructors → **an incident does not become a worse one** |
+| **4. Measurable end** | **Fewer claims, protected customer numbers**, confident staff |
+
+**Second acceptable chain:** complying is **cheaper than not complying** — failing an inspection can bring **a fine, a closure order or a refusal of insurance**, any of which stops the gym trading entirely.
+
+> ⚠️ **Do not answer with the law.** The question asks **why the business complies**, which means what the business gets. *"Because it is illegal not to"* is a one-line answer scoring nothing. **The mark is in the consequences — injuries, claims, reputation, insurance, confidence.**
+
+---
+
+## 154. USING RESOURCES EFFECTIVELY — the importance of it
+
+**Asked:** *"Analyse the importance for Rabanne of using its resources effectively."* — **June 2025 P2R, 3(d)**
+**Also asked:** *"Analyse why Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d)
+
+**The AO2 anchors:** Rabanne uses resources effectively by **not wasting packaging material** for its handbags and accessories; and by **developing higher quality packaging** for its fragrances.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Resources used effectively are **resources that do not have to be bought twice** — so the effect of avoiding waste is **an immediate cost saving**, because **packaging material that is used well is material that does not have to be replaced**. **For a luxury brand the saving is not the whole story, and the second half of the answer is the one that matters most.** **Higher-quality packaging** does two things at once: it **reduces the number of damaged bottles and accessories that must be replaced, which cuts cost**, and it **makes the product look like what it is** — a prestige item — which is **why a customer is willing to pay the price at all**. **The measurable end runs in three directions:** lower costs, fewer replacements, and a stronger brand image — **and using resources effectively turns out to be as much about reputation as about money.** Wasting less **also makes the business more environmentally friendly**, which matters to the customers luxury brands sell to.
+
+| Step | The move |
+|---|---|
+| **1. Point** | No waste = **materials not bought twice → direct cost saving** |
+| **2. Strand A** | Better packaging → **fewer damaged bottles needing replacement** |
+| **3. Strand B** | Presentation **is** the luxury product → **the price the brand charges** |
+| **4. Measurable end** | **Lower cost, stronger image, greener reputation** |
+
+**Second acceptable chain:** using resources effectively includes **labour and machine time** — shorter changeovers and less rework **release capacity without buying another machine** → **output rises with no rise in fixed cost**.
+
+> ⭐ **"Resources" is wider than "materials":** people, machines, time, money and materials. **The case decides which one to reach for** — and Rabanne's case points at packaging, which is why the scheme's bullets are about packaging and not about staff.
+
+---
+
+## 155. BATCH PRODUCTION — the benefits
+
+**Asked:** *"Analyse the benefits for Starbucks of using batch production."* — **June 2025 P2, 1(g)**
+
+**The AO2 anchors:** batch production means Starbucks **can produce cakes at a lower cost per unit**; and it **maximises the use of kitchen equipment and reduces waste of ingredients** for sandwiches.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Batch production makes **a set quantity of one item, then switches to another** — and for a food business that shape fits the job exactly. **Making cakes in batches lowers the cost of each one, because the equipment is set up once and used to capacity** before it is changed, **so the kitchen and the ovens are never sitting idle between jobs**. **The second gain is on ingredients.** Producing in planned quantities means **less waste — the sandwich fillings are prepared for a known number, not guessed at** — and **ingredient waste is money that has been bought and then thrown away**. **The measurable end is the one that matters most to Starbucks: uniformity.** Because each batch is made to the same recipe in the same way, **the cakes and sandwiches taste the same in every location**, and **a customer who buys the same item in a different shop is not disappointed** — which is what makes a chain a chain rather than a collection of shops.
+
+| Step | The move |
+|---|---|
+| **1. Point** | Batch = **one item at a time, in a set quantity** |
+| **2. Strand A** | Set-up amortised over the batch → **lower cost per unit** |
+| **3. Strand B** | Planned quantities → **less ingredient waste** |
+| **4. Measurable end** | **Identical products everywhere** — the basis of a chain |
+
+**Second acceptable chain:** batches can be **timed to demand** — cakes made in the morning for the lunch rush → **fresher stock and less unsold at the end of the day** than a single huge production run.
+
+> ⚠️ **Batch is neither job nor flow.** **Job** = one bespoke item (a wedding cake). **Batch** = a set quantity, then switch. **Flow** = continuous, one standard product. **Starbucks makes cakes in batches; it does not make one bespoke cake, and it does not run a continuous line.** Getting the method wrong makes every chain in your answer wrong.
+
+---
+
+## 156. PROMOTING FROM WITHIN — why a business does it
+
+**Asked:** *"Analyse why Starbucks wants to promote its existing employees."* — **June 2025 P2, 3(d)**
+
+**The AO2 anchors:** promoting its own employee to **Assistant Manager means they remain loyal to Starbucks**; and it **reduces the cost of advertising for new employees** who have experience of coffee shops.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Filling a vacancy from inside means **the person appointed already knows the business**, so the first benefit is **what Starbucks does not have to buy: the advertising, the shortlisting and the induction that a new manager from outside would need**. **The second is what the promotion does to everyone else.** An employee who is **promoted to Assistant Manager** has a career in front of them, and **that is what loyalty is built on — the visible proof that working well is rewarded here**. **It reaches past the individual as well.** **Every other member of staff watches how the promotion was decided**, so promoting from within **tells the whole team that effort is noticed**, and demotivation and resignations come down with it. **The measurable end is on the payroll and the training budget:** Starbucks **fills a management post without recruiting**, **keeps a manager who is already familiar with how it works and what it aims for**, and **saves the time and money of training someone who has never made a Starbucks coffee.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Inside appointment → **no advertising, shortlisting or induction to pay for** |
+| **2. Strand A** | A visible career → **loyalty** |
+| **3. Strand B** | The rest of the team sees it → **motivation across the shop** |
+| **4. Measurable end** | **A manager who already knows the aims of the business**, at no recruitment cost |
+
+**Second acceptable chain:** the promoted employee is **already familiar with how the business works**, so **they become effective in the role sooner** than an outsider → **the shop is not weakened during a management change**.
+
+> ⚠️ **The scheme's bullets here are `loyalty` and `reduced cost of advertising` — both advantages.** An answer built on the *drawbacks* of internal promotion — no new ideas from outside, possible resentment among those not chosen — **would be answering the opposite question.** **Note that entry 150 (recruiting externally) is its mirror image: the same business decision, and the exam has asked about both sides in the same session.**
+
+---
+
+# BATCH 5h — 6-MARK ANALYSE, PART 8
+
+**6 new entries covering May 2023's twelve blocks.** Six were already banked — and this paper shows the repeats at their densest:
+
+| Block | Topic | Where it now lives |
+|---|---|---|
+| 79 P1R 1(g) *motivating her employees (Aude Anglaret)* | motivating employees | **entry 139** *(5th appearance)* |
+| 81 P1R 4(b) *factors when measuring success (Aude Rose)* | measuring success | **entry 144** |
+| 82 P1 1(g) *importance of branding (Irsi Chocolatier)* | branding | **entry 125** |
+| 83 P1 3(d) *limitations of break-even charts (Irsi)* | break-even | **entry 117** *(5th appearance)* |
+| 85 P2R 1(g) *disadvantages of social media (M&M)* | social media | **entry 129** |
+| 90 P2 4(b) *SoCI to assess performance (IKEA)* | Statement of Comprehensive Income | **entry 114** *(4th appearance)* |
+
+> ### ⭐ FIVE OF MAY 2023'S TWELVE WERE TOPICS ALREADY ANSWERED BY A PAPER UP TO FIVE YEARS OLDER
+> **Motivating employees** has now appeared **five times** — TBTS, Café Pinch, Aude Rose, Premier Inn and Aude Anglaret — and **break-even five times**. Nothing about the chain changes between them. **What changes is the AO2**, and that is the whole of the skill: the examiners are not testing whether you know what motivation is, they are testing whether you can attach it to **florists producing bunches of flowers**, **waiters in a Berlin café**, or **gym instructors in Italy**.
+
+---
+
+## 157. RETAINED PROFITS — the impact of using them
+
+**Asked:** *"Analyse the impact on Aude Rose of using its retained profits for this proposed development."* — **May 2023 P1R, 3(d)**
+
+**The AO2 anchors:** by using retained profit **Aude Rose can buy the flowers straight away**; and **retained profit can only be used to buy a wider range of flowers if it exists**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Retained profit is **money the business has already earned and not yet spent** — so using it means **the flowers can be bought straight away, with no application to a bank and no waiting for approval**. **That speed matters in a flower business, where stock is perishable and a range has to be in the shop before customers ask for it.** **The second effect is what the money does not cost.** Because retained profit **does not have to be repaid, any profit the new range makes goes back into the flower shop** rather than out to a lender in interest — so **the development pays for itself faster than a loan would**. **But the scheme's second bullet is the sting, and it is where an "impact" answer earns its top level: the money only exists if the business has earned it.** **Aude Rose can only widen its range if there is enough retained profit to do it** — and if there is not, **the business must wait to accumulate more, which means the opportunity passes while it saves.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Retained profit is **already earned and in hand** → buy immediately |
+| **2. Strand A** | No loan → **no interest, no repayments** → profit returns to the business |
+| **3. Strand B** | **The limit: the money must exist** — it is capped by past profit |
+| **4. Measurable end** | Range widened now, **or the opportunity missed while saving for it** |
+
+**Second acceptable chain:** spending the retained profit leaves **less of a cushion for a bad month** → if sales fall, the business has **less to fall back on** → it may have to borrow later, at the worst possible time.
+
+> ⚠️ **Internal sources of finance are the only ones whose limitation is built into the source itself.** A loan is capped by what a bank will lend; **retained profit is capped by what the business has made.** On an *impact* question, **that limitation is half the answer** — and it is the half most candidates leave out.
+
+---
+
+## 158. PLACE — the importance of it in the marketing mix
+
+**Asked:** *"Analyse the importance of place to Irsi Chocolatier."* — **May 2023 P1, 4(b)**
+**Also asked:** *"Analyse the importance of location for TADS."* — May–June 2020 P1 1(g) · *"Analyse the factors that could influence Cadbury when locating a new factory."* — June 2022 P2R 1(g)
+
+> **Place in the marketing mix is not the same as location for a factory.** For a retailer, *place* is **how the customer gets the product** — the shop, the website, the delivery van. **A factory location question is about cost; a place question is about the customer.** Read which one you have.
+
+**The AO2 anchors:** Irsi is **located in a busy area with competitors nearby and wants customers drawn to it over the other chocolate shops**, so it will not want to move; and **as a small business with only 3 employees, it may want to consider its online place** as well as the physical shop.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Place is **the route the product travels to reach the customer**, and for Irsi's shop it does two jobs at once. **The physical shop is a fixed asset with a reputation attached to it: the business has traded from the same location since 1989, and locals and tourists come back to it year after year because that is where the chocolates they remember were bought.** **Moving would throw that away — and with competitors close by in a busy area, the shop has to keep drawing customers past them rather than relying on being found.** **The second half of place is where Irsi is weakest.** With **only three employees**, the business **can serve the customers who walk in and no more**, so **an online shop and its local delivery service let it sell to people who are not in the street** — and **that reach is what keeps a small shop competitive against bigger rivals.** **The measurable end is a wider market from the same three staff:** the shop keeps the regulars, and the website **sells to people the shop will never see.**
+
+| Step | The move |
+|---|---|
+| **1. Point** | Place = **the route the product takes to the customer** |
+| **2. Strand A** | The 1989 shop **is the reputation** → moving loses it |
+| **3. Strand B** | Three staff → **online plus local delivery widens reach** |
+| **4. Measurable end** | **Same staff, customers beyond the street** |
+
+**Second acceptable chain:** place also decides **which customers can be reached at all** — tourists who plan before they travel **find the website first** → a poor online presence **means they choose a competitor before they ever arrive**.
+
+> ⚠️ **The four Ps are product, price, place and promotion — and place is not promotion.** A website that *sells* is place; a social media post that *tells people about the shop* is promotion. **The scheme's bullets here are about where the customer buys, and mixing the two loses the application mark.**
+
+---
+
+## 159. COMPARING WITH COMPETITORS — why a business benchmarks
+
+**Asked:** *"Analyse why M&M would want to compare its business with other vehicle manufacturers."* — **May 2023 P2R, 3(d)**
+**Also asked:** *"Analyse why M&M wants to continue planting trees."* — May 2023 P2R 4(b)
+
+**The AO2 anchors:** M&M can **compare its sales of cars with other businesses such as the Ford Motor Company**; and **if Fiat introduces different models of tractors, M&M may consider changing the design of its own**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A figure on its own **cannot tell a business whether it is doing well — only a comparison can**. Comparing its car sales with **Ford** tells M&M **whether it is gaining or losing ground**, which is information that its own accounts cannot supply no matter how detailed they are. **The second reason is that competitors show what is coming.** If **Fiat introduces a new model of tractor, M&M learns what customers in the market are being offered**, and **it may decide to change the design of its own tractors** — either to match it or to attack the gap Fiat has left. **The measurable end is the action that follows the comparison.** If M&M's figures are **not as good as Ford's, it can respond — offering discounts or other incentives to customers** — and it can do so **before the gap becomes a loss**, rather than after. **The scheme adds the caution: there is no guarantee that M&M's new tractor will compete with Fiat's** — because a rival's success **cannot simply be copied**.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A figure is meaningless **without a comparison** |
+| **2. Strand A** | Rival sales → **shows whether M&M is gaining or losing ground** |
+| **3. Strand B** | Rival products → **shows what customers are being offered** |
+| **4. Measurable end** | **A response — discounts, incentives or a redesign — before the loss** |
+
+**Second acceptable chain:** comparing against rivals **tests whether M&M's own costs are competitive** → a manufacturer with higher unit costs **cannot match a rival's price without losing money** → so the comparison **decides whether M&M can compete on price at all**.
+
+> ⭐ **There is a naming trap here and the bank has a rule for it: M&M's own case mixes vehicle manufacturers, and the scheme names FORD for cars and FIAT for tractors.** Use the right name for the right product — **a wrong business name is not application, it is a mistake.**
+
+---
+
+## 160. ENVIRONMENTAL ACTION — why a manufacturer keeps doing it
+
+**Asked:** *"Analyse why M&M wants to continue planting trees."* — **May 2023 P2R, 4(b)**
+**Also asked:** *"Analyse why Emirates would want to be more environmentally friendly."* — May–June 2020 P2 3(d) · *"Analyse the importance of environmental factors for Loaf."* — May–June 2020 P1R 1(g)
+
+**The AO2 anchors:** planting trees is **good for M&M's image, its customers and the sale of its cars**; and it **would improve the environment and air quality in countries where M&M has factories**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A vehicle manufacturer has **a credibility problem that planting trees addresses directly: it pollutes, and everyone knows it**. **Paying for trees is a visible answer to that — it improves the environment and the air quality in the countries where M&M's factories are**, so the benefit is felt **where the business is actually operating rather than somewhere convenient**. **The second reason is what the trees are for commercially.** The scheme's bullets are explicit that this is **good for the image, for the customers and for the sale of the cars** — because **customers who care about the environment are more likely to buy from a company they can see is trying** to reduce the damage it does. **The measurable end is a defence rather than a gain:** M&M **still pollutes when it makes vehicles**, and no amount of tree planting changes that — but **the business can show that it is reducing the damage rather than ignoring it**, which protects it from the customers, and eventually the rules, that would otherwise turn against it.
+
+| Step | The move |
+|---|---|
+| **1. Point** | A vehicle maker **pollutes, and everyone knows it** |
+| **2. Strand A** | Trees planted **where the factories are** → a visible, local improvement |
+| **3. Strand B** | Green image → **customers more willing to buy** — the scheme's own link |
+| **4. Measurable end** | **Damage reduced and defended against**, not eliminated |
+
+**Second acceptable chain:** planting trees **builds goodwill with the governments and communities of the countries M&M operates in** → the business is **less likely to face tighter regulation or local opposition** to its factories.
+
+> ⚠️ **Never claim the environmental action makes the business clean.** The scheme's own bullet says it plainly: *"even though the manufacture of vehicles and tractors does pollute the atmosphere, M&M are trying to reduce the amount of damage done."* **An answer that overstates the benefit is less accurate than the mark scheme — and accuracy is what is being marked.**
+
+---
+
+## 161. FRANCHISING — the benefits to the FRANCHISOR
+
+**Asked:** *"Analyse the benefits to IKEA of all its stores being franchises."* — **May 2023 P2, 1(g)**
+
+> **Read who benefits.** This is the **franchisor's** question — IKEA selling the right to trade under its name. The 3-mark tier already holds the **franchisee's** advantage (entry 10). **Two questions, same business relationship, opposite sides.**
+
+**The AO2 anchors:** franchises **allow IKEA to sell its flat-pack products throughout the world**; and **all franchisees pay a percentage of their profit to IKEA for the use of its name and furniture**.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Franchising lets IKEA **grow without paying for the growth**. The franchisee **funds the store, the staff and the stock**, so IKEA can **have its flat-pack furniture sold all over the world without raising the money to build each shop itself**. **The second benefit is the income that comes back without any of that risk.** **Every franchisee pays a percentage of its profit for the use of the IKEA name and furniture** — so IKEA **earns from stores it does not run, and from regions it has never had to learn**. **The measurable end is scale without capital:** many retail stores selling IKEA furniture **create wealth for the business and revenue from every franchised store**, which **makes IKEA more successful on its own balance sheet than a chain of company-owned shops of the same size could** — because the money that would have been tied up in buildings is free.
+
+| Step | The move |
+|---|---|
+| **1. Point** | The franchisee **pays for the shop** — IKEA does not |
+| **2. Strand A** | Royalty on every franchisee's profit → **income from stores IKEA does not run** |
+| **3. Strand B** | Global reach **without IKEA learning each market alone** — locals run it |
+| **4. Measurable end** | **Growth without capital tied up in property** |
+
+**Second acceptable chain:** franchisees **know their own local market** better than a head office in Sweden would → sites and ranges **suit local demand** → more of the stores succeed, and **IKEA's royalty income rises with them**.
+
+> ⚠️ **The franchisee's answer is "a tried and tested business, advice and training, lower risk of failure" (entry 10). The franchisor's answer is "growth without capital, and a royalty on someone else's profit."** **They are mirror images — and writing the wrong one wastes the whole question.**
+
+---
+
+## 162. SHORTLISTING — why a business does it before interview
+
+**Asked:** *"Analyse why IKEA shortlists candidates for positions in its factories."* — **May 2023 P2, 3(d)**
+**Also asked:** *"Analyse why Jimmy Choo asks all candidates to complete an application form."* — June 2024 P2R 3(d) · *"Analyse how recruitment documents may help Samsung."* — Nov 2025 P2 1(g)
+
+**The AO2 anchors:** shortlisting **saves IKEA time by only calling applicants for interview if they have the experience or qualifications**; and IKEA **will shortlist candidates that match the job description** of a carpenter in its factories.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A vacancy at IKEA can draw **far more applications than it can interview**, so the shortlist exists to **cut the pile down to the people worth spending time on**. **The test applied is the job description** — for a factory carpenter that means **the experience or the qualifications to work with flat-pack furniture** — and **anyone who does not match it is not called in**. **That is where the saving is realised.** **Only the matching applicants are interviewed, so the time IKEA's Human Resources team spends filling one factory post falls sharply** — and their time is a cost the business pays whether it is recruiting or not. **The measurable end is a better use of management time, and a better appointment.** Shortlisting also **checks that what the applicant wrote on the form actually matches the job they applied for** — which is how an application **that reads well but does not fit the role** is caught **at the desk rather than in the interview room**.
+
+| Step | The move |
+|---|---|
+| **1. Point** | More applicants than can be interviewed → **the pile must be cut** |
+| **2. Strand A** | The **job description is the test** — experience and qualifications |
+| **3. Strand B** | Only matching candidates interviewed → **HR time saved** |
+| **4. Measurable end** | **Faster, cheaper appointment — and the right one** |
+
+**Second acceptable chain:** shortlisting **makes the interviews comparable**, because every candidate called in has already been tested against the same requirements → the decision is **made on fit for the role rather than on who interviewed well**.
+
+> ⚠️ **Shortlisting is a *filter*, not a *search*.** It happens **after** the advert and the applications, and **before** the interview. **The application form collects the information (entry 146); shortlisting is what is done with it.** Two different questions — the exam has asked both.
 
 ---
