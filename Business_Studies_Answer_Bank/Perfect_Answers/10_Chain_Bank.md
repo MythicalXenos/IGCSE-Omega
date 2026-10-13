@@ -4389,7 +4389,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 190. PROMOTION — special offers vs social media
 
-**Asked:** *"Option 1: increase special offers to encourage more passengers to fly · Option 2: use social media to advertise to a large number of potential passengers."* — **May–June 2020 P2, 2(f)**, Emirates
+**Asked:** *"Option 1: increase special offers to encourage more passengers to fly · Option 2: use social media to advertise to a large number of potential passengers."* — **May–June 2020 P2, 3(e)**, Emirates
 
 **The AO2 anchors:** special offers **encourage more passengers to fly with Emirates**; **many passengers use social media, so it is a good way to advertise to a large number of people**.
 
@@ -4596,7 +4596,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 **Asked:** *"Option 1: cost plus pricing · Option 2: promotional pricing."* — **May–June 2019 P2, 2(f)**, Tata Motor Company ($£$*new vehicles*)
 **Also asked:** *"Option 1: a price comparable to other travel agents · Option 2: a cheaper price to attract customers from rivals."* — **June 2024 P2, 2(f)**, TUI
-**Also asked:** *"Option 1: a realistic price · Option 2: a cheaper price to switch customers from their present brand."* — **Nov 2021 P2, 2(f)**, Huawei
+**Also asked:** *"Option 1: a realistic price · Option 2: a cheaper price to switch customers from their present brand."* — **Nov 2021 P2, 3(e)**, Huawei
 
 > **Three papers, three businesses, the same decision shape: a price that covers the cost against a price that wins the sale.** **The scheme's counter-arguments are near-identical every time**, which is why one entry answers all three.
 
@@ -4829,7 +4829,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 ## 206. MARKET RESEARCH — questionnaires versus focus groups
 
 **Asked:** *"Option 1: questionnaires, easy for passengers to complete · Option 2: focus groups, allowing passengers to give their opinions face-to-face."* — **May–June 2020 P2, 2(f)**, Emirates
-**Also asked:** *"Option 1: hand out questionnaires to customers that visit the shops · Option 2: hold focus group meetings with parents and observe children playing with the new toys."* — **June 2022 P1, 2(f)**, TBTS
+**Also asked:** *"Option 1: hand out questionnaires to customers that visit the shops · Option 2: hold focus group meetings with parents and observe children playing with the new toys."* — **June 2022 P1, 3(e)**, TBTS
 
 > **Both methods are primary research — so the usual "primary beats secondary" argument does not apply here.** **The comparison is depth against coverage, and which of the two the business actually needs.**
 
@@ -4854,7 +4854,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 207. MARKET RESEARCH — questionnaires versus tasting the product
 
-**Asked:** *"Option 1: use questionnaires to collect customer views on the new toppings · Option 2: offer free samples of new toppings and ask customers for their opinions."* — **June 2026 P1R, 2(f)**, Spud Bros
+**Asked:** *"Option 1: use questionnaires to collect customer views on the new toppings · Option 2: offer free samples of new toppings and ask customers for their opinions."* — **June 2026 P1R, 3(e)**, Spud Bros
 
 > **This pair is the newest in the qualification and the most literal: ask people what they think, or let them try it and then ask.** **The second option is still research — it is a taste test — which is why the scheme puts it in the research section.**
 
@@ -4996,7 +4996,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 211. MOTIVATION — extra holiday versus a bonus
 
-**Asked:** *"Option 1: offer managers an extra five days' paid holiday a year · Option 2: pay a bonus to the managers whose restaurants achieve the highest levels of profit."* — **June 2026 P2, 2(f)**, Nando's
+**Asked:** *"Option 1: offer managers an extra five days' paid holiday a year · Option 2: pay a bonus to the managers whose restaurants achieve the highest levels of profit."* — **June 2026 P2, 3(e)**, Nando's
 
 > **Both options target the same people — restaurant managers — and the question is what a manager is short of: time, or money.**
 
@@ -5044,7 +5044,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 213. COSTS — reducing wages by using part-time staff versus reducing commission
 
-**Asked:** *"Option 1: employ part-time tour guides instead of full-time tour guides · Option 2: reduce the rate of commission paid to its sales team."* — **Nov 2025 P1, 2(f)**, Ocean Vibes
+**Asked:** *"Option 1: employ part-time tour guides instead of full-time tour guides · Option 2: reduce the rate of commission paid to its sales team."* — **Nov 2025 P1, 3(e)**, Ocean Vibes
 
 > **Read what this question is: the stem asks which cost to cut, not which reward to give.** **Both options save money — so the answer depends entirely on which saving damages the business less.**
 
@@ -5088,7 +5088,7 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 
 ## 215. CONTRACTS — permanent versus temporary contract
 
-**Asked:** *"Option 1: offer the new chef a permanent contract · Option 2: offer the new chef a temporary contract."* — **May–June 2022 P1R, 2(f)**, Can Culleretes
+**Asked:** *"Option 1: offer the new chef a permanent contract · Option 2: offer the new chef a temporary contract."* — **May–June 2022 P1R, 3(e)**, Can Culleretes
 
 **The AO2 anchors:** a permanent contract means **the chef will be more committed to the restaurant long term**; a temporary contract lets them **wait to see if the desserts are popular before hiring on a permanent basis**.
 

@@ -103,6 +103,17 @@ def main() -> int:
     for r in unknown:
         print(f"   {r['session']} {r['paper']} {r['question']}")
 
+    bad = []
+    if len(out) != 114:
+        bad.append(f"blocks: {len(out)} (expected 114)")
+    if unknown:
+        bad.append(f"{len(unknown)} block(s) with an unknown stem source")
+    print()
+    print("RESULT:", "OK — 114 six-mark blocks, every stem sourced." if not bad
+          else "FAIL — " + "; ".join(bad))
+    if bad:
+        return 1
+
     if args.check:
         old = list(csv.DictReader(OUT.open(encoding="utf-8")))
         diff = [(a["n"], a["session"], a["paper"], a["question"], a["stem"][:44], b["stem"][:44])

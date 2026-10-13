@@ -175,6 +175,20 @@ def main():
     print(f'blocks missing an AO set : {len(bad)}')
     topics = collections.Counter(r['Topic'] for r in rows)
     print(f'distinct topics          : {len(topics)}  (unmapped {topics.get("UNMAPPED", 0)})')
+    problems = []
+    if len(rows) != 38:
+        problems.append(f"blocks: {len(rows)} (expected 38)")
+    if bad:
+        problems.append(f"{len(bad)} block(s) missing an AO set")
+    if topics.get('UNMAPPED', 0):
+        problems.append(f"{topics['UNMAPPED']} unmapped block(s)")
+    if len(rows) - sum(1 for r in rows if r["Stem source"] != "NONE"):
+        problems.append("block(s) with no stem at all")
+    print()
+    print("RESULT:", "OK — 38 twelve-mark blocks, stemmed, AO-labelled and mapped."
+          if not problems else "FAIL — " + "; ".join(problems))
+    if problems:
+        return 1
     print()
     for t, c in topics.most_common():
         papers = [f'{r["Session"][:12]}/{r["Paper"]}' for r in rows if r['Topic'] == t]

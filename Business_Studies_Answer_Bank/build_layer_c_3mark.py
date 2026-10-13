@@ -245,7 +245,11 @@ def main() -> int:
     print(f"written                 : {OUT.name}")
     for r in unmapped:
         print("   UNMAPPED:", r["session"], r["paper"], r["question"], "|", r["ms_topic"][:80])
-    return 0
+    print()
+    ok = len(rows) == 152 and not unmapped
+    print("RESULT:", "OK — 152 three-mark blocks, every one mapped to a canonical topic."
+          if ok else f"FAIL — {len(rows)} block(s) (expected 152); {len(unmapped)} unmapped.")
+    return 0 if ok else 1
 
 
 if __name__ == "__main__":

@@ -247,7 +247,32 @@ def main() -> int:
         print(f"      {name:<46} {per}")
 
     print(f"\n  wrote {OUT.name}: {len(rows)} rows of 3+ marks")
-    return 0
+
+    # State the claims as assertions. This script is the ONLY independent statement
+    # of the population, so it must fail loudly if a mark scheme ever disagrees with
+    # the table everything else is checked against.
+    expect = {3: 152, 6: 114, 9: 76, 12: 38}
+    got = collections.Counter()
+    for name, parts in papers.items():
+        got[0] += 0
+        for part, (total, _aos) in parts.items():
+            got[total] += 1
+    bad = []
+    if len(papers) != 38:
+        bad.append(f"papers parsed: {len(papers)} (expected 38)")
+    for tariff, n in expect.items():
+        if got[tariff] != n:
+            bad.append(f"{tariff}-mark blocks: {got[tariff]} (expected {n})")
+    for name, parts in sorted(papers.items()):
+        tot = sum(t for t, _ in parts.values())
+        if tot != 80:
+            bad.append(f"{name}: {tot} marks (expected 80)")
+    if odd:
+        bad.append(f"{len(odd)} paper(s) with a question that is not 20 marks")
+    print()
+    print("RESULT:", "OK — 38 papers, 80 marks each, 152/114/76/38 governed blocks, "
+          "20 marks per question." if not bad else "FAIL — " + "; ".join(bad))
+    return 0 if not bad else 1
 
 
 if __name__ == "__main__":

@@ -183,7 +183,10 @@ def main() -> int:
     for t, c in tally.most_common():
         print(f"  {c:>2}  {t}")
     print(f"\nwrote {OUT.name}")
-    return 0
+    ok = len(rows) == 76 and not unmapped
+    print("RESULT:", "OK — 76 nine-mark blocks, every one mapped to an option pair."
+          if ok else f"FAIL — {len(rows)} block(s) (expected 76); {len(unmapped)} unmapped.")
+    return 0 if ok else 1
 
 
 if __name__ == "__main__":

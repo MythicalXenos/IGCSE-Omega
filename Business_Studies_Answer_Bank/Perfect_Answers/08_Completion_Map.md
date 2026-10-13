@@ -362,16 +362,35 @@ REMAINING                :    0 topics  ·    0 blocks
 
 ## 🔍 HOW TO VERIFY THIS BANK — every check, in one place
 
-**Run all six from `Business_Studies_Answer_Bank/`. Each exits 0 when it passes and 1 when it does not, so they can be run as a suite.**
+**Run all of these from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+
+```bash
+cd Business_Studies_Answer_Bank
+python3 verify_by_paper.py              # 988 items / 3040 marks / 12·4·4·3·2·1 per paper
+python3 build_layer_c_tariffs.py        # 38 papers x 80 marks; 152/114/76/38 governed
+python3 build_layer_c_3mark.py          # 152 three-mark blocks, all mapped
+python3 build_layer_c_6mark_inventory.py    # 114 six-mark blocks
+python3 build_layer_c_9mark_inventory.py    #  76 nine-mark blocks, both options, AO4 present
+python3 build_layer_c_9mark_topics.py       #  76 blocks -> option pairs
+python3 build_layer_c_12mark_inventory.py   #  38 twelve-mark blocks
+python3 layer_c_coverage.py             # 152/152 three-mark coverage
+python3 tally_exemplars.py              # 19 x 6/6 - 15 x 9/9 - 2 x 12/12
+python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
+python3 verify_collision_cluster.py     # the collision table's total is its row count (20)
+python3 verify_stem_quotes.py           # every quoted question is the paper's own question
+```
+
+**⚠️ THREE of these scripts were, until 14 Oct 2026, printing nothing and returning 0 unconditionally** — `build_layer_c_tariffs.py`, `layer_c_coverage.py` and the three tier builders ran to completion whatever they found. A "suite" of checks that cannot fail is not a suite. They now state their claims as assertions and exit 1 on a mismatch.
 
 | Check | What it derives | Proves |
 |---|---|---|
-| `python3 verify_by_paper.py` | item count, marks, tariff histogram and governed-part labels for all 38 `By_Paper/` files | **988 items · 3040 marks · 12/4/4/3/2/1 per paper** — against the mark schemes, not against the files' own headers |
-| `python3 build_layer_c_tariffs.py` | the tariff population from all 38 mark schemes | **152 / 114 / 76 / 38 governed, 456 / 152 below them, 38 of 38 papers at 80 marks, and every paper split 20 · 20 · 20 · 20** |
-| `python3 tally_exemplars.py` | the verified-exemplar register | **19 × 6/6 · 15 × 9/9 · 2 × 12/12**, every row resolving to a real `file:line`, and no script-bearing heading unaccounted for |
-| `python3 verify_chain_bank_anchors.py` | all **228** block → entry mappings | each block scored against **its own mark-scheme content**; **146 proven outright** because the entry quotes the question |
-| `python3 layer_c_coverage.py` *(and the 6-, 9-, 12-mark scripts)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
-| `python3 verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
+| `verify_by_paper.py` | item count, marks, tariff histogram and governed-part labels for all 38 `By_Paper/` files | **988 items · 3040 marks · 12/4/4/3/2/1 per paper** — against the mark schemes, not against the files' own headers |
+| `build_layer_c_tariffs.py` | the tariff population from all 38 mark schemes | **152 / 114 / 76 / 38 governed, 456 / 152 below them, 38 of 38 papers at 80 marks, and every paper split 20 · 20 · 20 · 20** |
+| `tally_exemplars.py` | the verified-exemplar register | **19 × 6/6 · 15 × 9/9 · 2 × 12/12**, every row resolving to a real `file:line`, and no script-bearing heading unaccounted for |
+| `verify_chain_bank_anchors.py` | all **228** block → entry mappings | each block scored against **its own mark-scheme content**; **146 proven outright** because the entry quotes the question |
+| `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
+| `verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
+| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **150 citations compared · 0 unresolved · 0 misattributed.** Names the question a quote actually belongs to when the citation is wrong |
 
 **Two of those checks were written because a hand-typed total had already been wrong in a way nothing else could see:**
 
@@ -381,6 +400,8 @@ REMAINING                :    0 topics  ·    0 blocks
 > **A document that agrees with itself is not evidence.** Every `By_Paper/` file's header agreed with its own headings, in all 38 files. **What broke the deadlock was an independent count.**
 >
 > **Two lists that both look complete can overlap.** The collision cluster's total was inflated by adding terms that were already rows, and deflated by omitting one that was never anywhere.
+>
+> **A checker that parses nothing exits 0.** `verify_stem_quotes.py`'s first run printed **"RESULT: OK" having compared zero citations** — its regex required the quote directly after `**Asked:**`, while the bank writes `**Asked:** *"…"*`. It reports its own parsed counts at the top for exactly that reason: **an empty parse must not look like a clean parse.** The second version likewise passed a wrong citation, because it scored text similarity only — an option pair quoted in plain English scored 38% against the right stem and 82% against the wrong one. It now takes the **best of text similarity and keyword overlap**, and was **tested by sabotaging a correct citation and confirming it fails.**
 >
 > **So: for any count, there is exactly one deriving script, and it is listed above. If a number in a `.md` file disagrees with its script, the number is wrong.**
 

@@ -109,7 +109,17 @@ def main() -> int:
         print("  no options found on blocks:",
               [r["n"] for r in out if not (r["option_1"] and r["option_2"])])
     print(f"wrote {OUT.name}")
-    return 0
+    bad = []
+    if len(out) != 76:
+        bad.append(f"blocks: {len(out)} (expected 76)")
+    if n_opt != len(out):
+        bad.append(f"{len(out) - n_opt} block(s) missing an option")
+    if n_ao4 != len(out):
+        bad.append(f"{len(out) - n_ao4} block(s) with no AO4 content")
+    print()
+    print("RESULT:", "OK — 76 nine-mark blocks, all with both options and AO4 content."
+          if not bad else "FAIL — " + "; ".join(bad))
+    return 0 if not bad else 1
 
 
 if __name__ == "__main__":

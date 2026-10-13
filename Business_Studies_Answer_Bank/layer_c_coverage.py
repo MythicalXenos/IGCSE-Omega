@@ -93,7 +93,13 @@ def main() -> int:
     print("-" * 60)
     for k, v in sorted(remaining.items()):
         print(f"  {v}  {k}")
-    return 0
+    print()
+    ok = (not remaining) and (not unknown)
+    print("RESULT:", "OK — every 3-mark block is covered by a topic in 10_Chain_Bank.md."
+          if ok else
+          f"FAIL — {sum(remaining.values())} block(s) in {len(remaining)} topic(s) "
+          f"uncovered; {len(unknown)} name(s) in COVERED are not real topics.")
+    return 0 if ok else 1
 
 
 if __name__ == "__main__":
