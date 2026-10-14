@@ -284,6 +284,89 @@ def main() -> int:
     if cited and not unexplained:
         print("  every one either belongs to its entry or names the entry that owns it.")
 
+    # ---- the 9-mark tier: does the entry name BOTH sides of the option pair? --
+    # The n-gram overlap measure above is the wrong instrument for this tier. A
+    # nine-mark block is mostly the mark scheme's indicative content, while its
+    # entry is an essay; the entry also paraphrases the scheme, so a correct
+    # mapping can score in the thirties. Five correct mappings sat in the advisory
+    # band for exactly that reason (blocks 75, 63, 47, 58, 70), and all five name
+    # both options plainly.
+    #
+    # The tier's atomic unit is the OPTION PAIR, so the question to ask is
+    # structural: does the entry name each side? An option counts as named when
+    # the entry shares a distinctive word with EITHER the option's own wording OR
+    # the scheme's AO2 description of it - because the entry is expected to
+    # paraphrase. Block 37 is why: its option 2 reads "a special offer of 7.5% off
+    # ... on Wednesday mornings", and entry 192 writes "a 7.5% discount ... at a
+    # time when it might not be busy" - the scheme's own words for the same thing.
+    print("=" * 74)
+    print("9-MARK OPTION PAIRS - does each entry name both sides of its block's pair?")
+    print("=" * 74)
+    STOP = set("""option the a an of for its to and or with by in on is are be as that this which they their it not
+    marks mark ao2 ao3 ao4 justify one two these choose should business customers customer employees new more from
+    will can could would may might also such when than then there here them use used using make makes made""".split())
+
+    def _kw(t):
+        return {w for w in re.findall(r"[a-z][a-z\-']{3,}", t.lower()) if w not in STOP}
+
+    def _sides(bt):
+        t = " ".join(bt.split())
+        a1 = re.search(r"Option\s*1\s*[:\u2013\-]?\s*(.*?)(?=Option\s*2\s*[:\u2013\-]?)", t, re.I | re.S)
+        a2 = re.search(r"Option\s*2\s*[:\u2013\-]?\s*(.*?)(?=Justify|Indicative|AO2|AO3|\bMark\b)", t, re.I | re.S)
+        # the scheme's AO2 line for each option, as a fallback vocabulary.
+        # "AO2" appears first in the allocation header ("AO2 = 3 marks AO3 = ..."),
+        # so take the FIRST occurrence that is followed by the option bullets -
+        # otherwise the fallback vocabulary is the words "= 3 marks" and matches
+        # nothing, which is how block 37 stayed flagged after the first fix.
+        d1 = d2 = ""
+        for ao2 in re.finditer(r"AO2", t):
+            seg = t[ao2.end(): ao2.end() + 900]
+            if "Option 1" not in seg:
+                continue
+            seg = seg.split("AO3")[0]
+            for sent in re.split(r"\u2022", seg):
+                if re.search(r"option\s*1", sent, re.I):
+                    d1 += " " + sent
+                if re.search(r"option\s*2", sent, re.I):
+                    d2 += " " + sent
+            if d1 or d2:
+                break
+        return (a1.group(1) if a1 else "") + " " + d1, (a2.group(1) if a2 else "") + " " + d2
+
+    _m9 = load_map("layer_c_9mark_coverage.py")
+    _bt = block_text("layer_c_9mark_blocks.txt")
+    both, one_sided, unparsed = 0, [], []
+    for n in sorted(_m9):
+        e = _m9[n]
+        bt = _bt.get(n, "")
+        s1, s2 = _sides(bt)
+        if not (s1.strip() and s2.strip()):
+            unparsed.append(n)
+            continue
+        et = " ".join(entries.get(e, "").split()).lower()
+        has1 = any(w in et for w in _kw(s1))
+        has2 = any(w in et for w in _kw(s2))
+        if has1 and has2:
+            both += 1
+        else:
+            one_sided.append((n, e, has1, has2, s1[:70], s2[:70]))
+    print(f"  blocks with a parseable pair: {len(_m9) - len(unparsed)}   unparseable: {len(unparsed)}")
+    print(f"  entry names BOTH sides      : {both}")
+    if not _m9:
+        print("  NONE PARSED - check the parser, not the bank.")
+    for n, e, h1, h2, s1, s2 in one_sided:
+        print(f"  !! block [{n}] -> entry {e}   option1 named: {h1}   option2 named: {h2}")
+        print(f"       opt1 {s1}")
+        print(f"       opt2 {s2}")
+        # the tuple is (label, BLOCK, ENTRY, detail) and the printer reads
+        # `block [{n}] -> entry {e}`. Passing (label, e, e, ...) put the entry
+        # number in the block slot, so a sabotage of block 37 was reported as
+        # block [1] -> entry 1 - a report that names the wrong block is worse
+        # than no report.
+        hard_all.append(("OPTION-PAIR", n, e, f"option pair not both named (1:{h1} 2:{h2})"))
+    if _m9 and not one_sided and not unparsed:
+        print("  every entry names both sides of its block's option pair.")
+
     # ---- the labelling contract: every model answer carries its own label ----
     # The file declares its batches ("Batches 1 and 2 were CONSTRUCTED throughout")
     # and that is how entries 1-49 came to sit under a batch heading with no label
