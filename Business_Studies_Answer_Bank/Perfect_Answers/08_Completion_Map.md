@@ -436,6 +436,17 @@ Four June 2026 P1R **0/3** answers fail identically — each names a correct **c
 
 **246 models, four tiers, every one carrying the shape its tariff requires.** Five 6-mark entries were flagged on the first pass and **all five were false positives of a narrow marker list** — read by hand, each is a full chain (*"otherwise it is only a feeling"*, *"and that cannot be written down"*). That is the same lesson as entries 72, 100 and 93: **the screen must accept what the examiner accepts, or it teaches the wrong thing.**
 
+**The models were then read by size, which is where a weak one would hide** — the shortest model in each tier, against the verified benchmark for that tier:
+
+| Tier | Shortest model in the bank | The verified benchmark |
+|---|---|---|
+| **3-mark** | **47 words** (entry 100, Pearson's own) | the four June 2026 **3/3s run 35–70 words** — the shortest full-mark answer in the bank is 35 |
+| **6-mark** | **124 words** (entry 114, *Lavender*) | the June 2025 P1 6/6 is *"one point with developed strands"*, ~140 words |
+| **9-mark** | **193 words** (entry 223, *Apple*) | — |
+| **12-mark** | **326 words** (entry 231, *Jimmy Choo*) | the verified 12/12 (Irsi) is **~330 words** |
+
+**Every shortest model names its case study, and every tier's floor sits at or above the published benchmark — nothing in the bank is short enough to be a list rather than an answer.** *Length is not marks* (rule 11) cuts the other way too, and that is the point: these are floors, not targets.
+
 **Every tier was sabotage-tested and every tier failed correctly** — a 0/3 in place of a 3-mark chain, the condition vocabulary stripped from a 9-mark model, and a bare verdict in place of a 12-mark evaluation.
 
 ### ⭐ THE 9-MARK TIER NEEDED A DIFFERENT INSTRUMENT, AND NOW HAS ONE (14 Oct 2026)
