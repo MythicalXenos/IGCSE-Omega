@@ -496,10 +496,61 @@ Put all the evaluation sentences side by side and the pattern is unmistakable.
 | **The 9/9 Justify scripts** | ✅ **FIVE captured verbatim** — P1 Q2(f), P1 Q3(e), P1R Q2(f), P1R Q3(e), P2R Q3(e) (pp. 22, 30, 17, 27, 39–40) |
 | ~~The four 9/9 scripts~~ | ✅ done — P1 pp. 22, 30 · P1R pp. 17, 27 · P2R p39 (8/9 on p27, 5/9 on p26, 3/9 on p38, 7/9 on p34, 5/9 on p36) |
 | Other Q1–Q3 scripts | ⏳ not yet rendered — page maps below |
-| P2R scripts for Q1–Q4 | ⏳ not yet rendered |
+| P2R scripts for Q1–Q4 | ✅ **Q3(d) 6/6 and Q4(b) 6/6 rendered and transcribed** (pp. 35, 43 — see the Level-phrasing section above); the rest ⏳ |
 
 **Page maps** (script pages are images — render at 200 dpi):
 `P1: Q1(b)4 Q1(c)6 Q1(d)7 Q1(e)9 Q1(f)11 Q1(g)12 Q2(a)14 Q2(b)15 Q2(c)16 Q2(d)18 Q2(e)19 Q2(f)21 Q3(a)24 Q3(b)25 Q3(c)26 Q3(d)27 Q3(e)29 Q4(a)32 Q4(b)33 · Q4(c)36–37`
 `P1R: Q1(b)4 … Q3(e)26 Q4(a)29 Q4(b)30 · Q4(c)33`
 `P2: Q1(b)4 … Q3(e)48 Q4(a)51 Q4(b)54 · Q4(c)57`
 `P2R: Q1(b)4 … Q3(e)37 Q4(a)41 Q4(b)43 · Q4(c)45–46`
+
+---
+
+# ⭐⭐⭐ THE LEVEL-PHRASING SWEEP — TWO MORE 6/6s THAT NO EARLIER SWEEP COULD SEE (14 Oct 2026)
+
+**Why they were missed — and how the miss was found.** Every sweep in this bank, and every earlier harvest, searched for *"scored N marks"*, which is the phrasing the ResultsPlus boxes use. **The May 2023 reports state marks three further ways:**
+
+| Phrasing (verbatim) | Where |
+|---|---|
+| *"This response **is** a Level 3 – 6 marks."* | P2R Q3(d) · P2R Q4(b) · P2R Q4(c) · P2 Q4(b) · P2 Q4(c) |
+| *"This response **was** Level 3 – 8 marks."* | P2R Q2(f) |
+| *"This response **gained** a Level 3 – 6 marks."* | P2R Q4(b) |
+
+…and June 2026 P1R uses a fourth: *"**Total: N marks**"*, after each script. **A pattern that requires the word "scored" sees none of these.** The four May 2023 reports together carry **153 marked responses**; **14 of them are stated only in Level form**, and two of the 14 are full marks. Neither was in the bank.
+
+**The complete May 2023 index now derived from the reports themselves** (question · page · mark — script pages are images, so each one is read visually):
+
+`P1 (22 responses)` Q1(b)5/0 · Q1(c)6/1 · Q1(d)7/1 · Q1(d)8/0 · Q1(e)9/2 · Q1(e)10/1 · Q1(f)11/3 · **Q1(g)12/6** · Q2(a)14/1 · Q2(b)15/0 · Q2(c)16/3 · Q2(d)18/3 · Q2(e)19/3 · **Q2(f)22/9** · Q3(a)24/1 · Q3(b)25/2 · Q3(c)26/2 · **Q3(d)27/6** · **Q3(e)30/9** · Q4(a)32/2 · **Q4(b)33/6** · **Q4(c)36/12**
+`P1R (20)` Q1(b)4/1 · Q1(c)5/1 · Q1(d)6/1 · Q1(e)7/2 · Q1(f)8/3 · **Q1(g)10/6** · Q2(a)11/1 · Q2(b)12/0 · Q2(c)13/3 · Q2(d)14/3 · Q2(e)15/3 · **Q2(f)16/9** · Q3(a)19/1 · Q3(b)20/2 · Q3(c)22/1 · **Q3(d)24/6** · **Q3(e)26/9** · Q4(a)29/2 · **Q4(b)31/6** · Q4(c)33/4
+`P2 (31)` … **Q2(f)33/7** · Q2(f)36/5 · **Q3(d)45/6** · Q3(e)48/5 · **Q4(b)54/5** · **Q4(c)56/10**
+`P2R (37)` … **Q1(g)14/4** · **Q2(f)24/5** · **Q2(f)27/8** · **Q3(d)34/6** · Q3(d)36/2 · Q3(e)38/3 · **Q3(e)39/9** · **Q4(b)43/6** · **Q4(c)44/10**
+
+## 6/6 — P2R Q3(d) · *"Analyse why M&M would want to compare its business with other vehicle manufacturers"* **(6)**
+
+**Source:** `4BS1_Business_Studies_May_2023_P2R_ER.pdf` — verdict on p. 34 (*"This response is Level 3 – 6 marks."*), script on p. 35. Rendered at 300 dpi and transcribed.
+
+> *"one reason may be to see how well they are doing alongside their Competitors. This leads to an increase in awareness of what they have to do to be able to remain the best vehicle manufacturers in the world. The effect on the business is they are able to Create a plan or idea of how they are doing against other vehicle manufacturers.*
+>
+> *Another reason is that they are able to see what they need to do to better to help improve customer satisfaction. This leads to an increase in awareness of what the business need to change or keep in order to better appeal to the needs of customers while also staying committed to certain initiatives that they reside with such as being environmentally friendly."*
+
+**Examiner comment (verbatim):**
+> *"This response shows how we expect candidates to respond to an 'Analyse' question. The response shows detailed application of knowledge and understanding of business concepts with context throughout, as well as interconnected points with logical chains of reasoning."*
+
+🔬 **What makes it 6/6.** Two reasons, and **each one carries an explicit consequence clause** — *"This leads to an increase in awareness of…"*, *"The effect on the business is…"*. That is the AO3 the level descriptor asks for, written as two plain sentences. The second reason then **names one of M&M's own commitments** (*"stay[ing] committed to certain initiatives… such as being environmentally friendly"*) — scenario fact, not generic benefit. **No definition, no conclusion, no AO1** — the same shape as every other 6/6 in this bank.
+
+## 6/6 — P2R Q4(b) · *"Analyse why M&M wants to continue planting trees"* **(6)**
+
+**Source:** same report — verdict, commentary and script all on p. 43 (*"This response gained a Level 3 – 6 marks."*). Rendered at 300 dpi.
+
+> *"M&M have committed to ensuring the protect their environment. They have already planted 1.32 million trees. Them continuing to plant trees firstly shows a commitment to protecting the environment understanding the negative effects that motor vehicles have on the environment and also as a positive image to the public that they are an ^accountable brand that is willing to try and make up for the harm they do. This will help show a commitment to the community which boosts public perception and the likelihood for people to trust their brand which in turn increases sales."*
+
+*(`^` = the candidate's own insertion caret, written between "an" and "accountable". Everything else is as written, including "the protect their" and "M&M have".)*
+
+**Examiner comment (verbatim):**
+> *"Those candidates that accessed a Level 3 considered why M&M wanted to continue planting trees and the benefits that it provided both for the image of the business and also in helping the environment. Candidates successfully linked their points together in a logical order and were able to make conclusions with a well-balanced and justified reasoning."*
+
+🔬 **Two things to copy from this one.**
+1. **It uses the scenario's own figure** — *"They have already planted **1.32 million trees**."* On an Analyse question, quoting the case study's data is the cheapest application there is, and it costs four words.
+2. **It is four sentences long.** The chain runs *commitment → protecting the environment → positive image → accountable brand → public perception and trust → sales*. **One sentence of context, one chain, one consequence.** A Grade 9 does not need length on a 6-mark question; it needs the chain.
+
+⚠️ **Register effect:** the 6-mark register moves **19 → 21**, and **two of the twenty-one are Paper 2R** (these, and the June 2022 Cadbury Q1(g) two-location-factors script). Before today it held one.

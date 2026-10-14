@@ -44,7 +44,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
 
 > ### ⚠️ PERMANENT LIMITATION — BOTH ARE PAPER 1
-> **No verified 12/12 exists for Paper 2 or Paper 2R, in any series.** Pearson names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **This is the edge of what is published, not a gap in the search.**
+> **No verified 12/12 exists for Paper 2 or Paper 2R, in any series.** Pearson names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **This is the edge of what is published, not a gap in the search.** **The best held on those two papers is a verified 10/12 on each — IKEA (P2 Q4(c), May 2023) and M&M (P2R Q4(c), May 2023); both were docked for *"limited judgements"*.**
 
 ---
 
@@ -76,7 +76,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 6 MARKS — **19 scripts**
+## 6 MARKS — **21 scripts**
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
@@ -99,13 +99,15 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:871` |
 | 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:423` |
 | 19 | **Jun 2025** | P2 Q2(c) | batch production, 46 words — *Starbucks* | `02_Verified_Exemplars.md:423` |
+| 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:528` |
+| 21 | **May/Jun 2023** | **P2R Q4(b)** | continuing to plant trees — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:541` |
 
 > ### ✅ THE ONE OPEN AMBIGUITY — CLOSED, 14 Oct 2026
 > The June 2019 booklets' own coverage table claimed **"6/6 × 4"** across both booklets while only **three** were enumerated above. **A fourth appeared to be missing, and the count was therefore carried as "19 confirmed, possibly 20".**
 >
 > **There is no fourth.** The booklets' headings give exactly **6/6 ×3** — Backyard Shoez Q1(g), Backyard Shoez Q4(b) and Lavender Q1(g) — and **the same table was wrong in three other places too** (it claimed `9/9 ×2` for June 2019 where there is **one**, `9` Explain exemplars where there are **8**, and `6/6 ×4` where there are **three**).
 >
-> ✅ **So: 19, confirmed. Not "possibly 20".** Verify with `python3 audit_exemplar_marks.py --all-2019`, which derives the distribution from the booklet headings themselves — **or read the correction block in `2019-06_P1_Official_Exemplar_Booklet.md`.** **The generalisable lesson: when a total disagrees with its own list, count the list. The total was typed by hand.**
+> ✅ **So: 19, confirmed. Not "possibly 20".** *(The register has since grown to **21** — two May 2023 Paper 2R scripts, rows 20–21, found by the Level-phrasing sweep recorded in `08_Completion_Map.md`.)* Verify with `python3 audit_exemplar_marks.py --all-2019`, which derives the distribution from the booklet headings themselves — **or read the correction block in `2019-06_P1_Official_Exemplar_Booklet.md`.** **The generalisable lesson: when a total disagrees with its own list, count the list. The total was typed by hand.**
 
 ---
 

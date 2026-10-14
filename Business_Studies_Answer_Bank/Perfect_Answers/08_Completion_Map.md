@@ -163,7 +163,7 @@ Priority order:
 | Item | Status |
 |---|---|
 | ✅ **Stale claim in `06_`** — "no full-mark Analyse/Justify held for 2026" | **CORRECTED.** June 2026 P1R supplied verified 6/6 and 8/9 scripts; the claim is rewritten. |
-| Duplicate 2023 files — `2023-06_P1R_Aude_Rose.md`, `2023-06_P2_IKEA.md` vs `2023-05_Series_*` | ✅ **RESOLVED — and this row was itself stale.** The question was answered at `08_`:102–103 and `09_`:132–139: the IKEA file is **NOT a duplicate** (0 shared long sentences — it covers Paper 2 Q1/Q2, which the series file does not), and the Aude Rose file is a **declared partial duplicate** — its two 9/9s are explicitly marked *"not counted here (duplicate of the series file)"*, leaving only 3 shared long sentences, one of them an examiner quotation. **Nothing is double-counted: the register counts each script once (19 · 15 · 2).** ⚠️ **What remains is the filename: `2023-06` is the SAME series as `2023-05`** — see the rename row below. |
+| Duplicate 2023 files — `2023-06_P1R_Aude_Rose.md`, `2023-06_P2_IKEA.md` vs `2023-05_Series_*` | ✅ **RESOLVED — and this row was itself stale.** The question was answered at `08_`:102–103 and `09_`:132–139: the IKEA file is **NOT a duplicate** (0 shared long sentences — it covers Paper 2 Q1/Q2, which the series file does not), and the Aude Rose file is a **declared partial duplicate** — its two 9/9s are explicitly marked *"not counted here (duplicate of the series file)"*, leaving only 3 shared long sentences, one of them an examiner quotation. **Nothing is double-counted: the register counts each script once (21 · 15 · 2 — the 6-mark side grew from 19 on 14 Oct 2026, see the Level-phrasing finding below).** ⚠️ **What remains is the filename: `2023-06` is the SAME series as `2023-05`** — see the rename row below. |
 | Taxonomy table + rules 48–63 → `01_` | ✅ **MOVED, byte-exact.** 17 rules — **41 · 42 · 49–57 · 58–63** — now live in `01_Mark_Tariff_Playbook.md` under *"RULES MOVED HERE FROM `06_`"*, with an index. **Rule 48 stayed behind on purpose** (a fact about the archive, not about answering), which is why `06_`'s visible sequence now jumps 48 → 64. **The numbers were kept unchanged so every cross-reference still resolves** — the one external citation (*"`06_` rule 63"*) and the one internal one are both updated. **Verified: all 17 blocks are byte-identical to what `06_` held** (`git show HEAD:…` compared block by block), `01_` grew by exactly the moved text plus headings, and `06_` keeps rules 1–48 and 64–124. |
 | E1–E12 folding into `06_` | ✅ **FOLDED as `06_` rule 125 — a concordance, not new numbers.** All twelve were already carried by numbered rules (see Phase 4 item 5). **Match before you fold: an un-numbered rule set that duplicates the sequence must be folded by reference.** |
 | `May-June_2019_P2R` 79-marks puzzle | ✅ **RESOLVED — the paper is 80 marks, and the missing mark was ours.** `1(a)(iii)` carries **(1)** with no AO label printed against it, so the parser dropped it. It is entered as an explicit override in `build_layer_c_tariffs.py`, and **`papers NOT summing to 80: 0`** — all 38 papers now validate, which is the check the whole governed population rests on. |
@@ -346,7 +346,7 @@ REMAINING                :    0 topics  ·    0 blocks
 2. ✅ **DONE — the June 2025 second pass.** All four reports re-read, **rules 110–117** added and **two further verified full-mark exemplars** recovered (a 10th 6/6 at June 2025 P1 1(g) and a 7th 9/9 at June 2025 P2R 2(f)). Write-up: `External_Exemplars/2025-06_Second_Pass_Addendum.md`.
 3. **Outstanding, and the only evidence still missing:** Nov 2025 P1/P2 (filename unknown at every date tried) · June 2026 P1/P2/P2R (behind Edexcel Online, released 25 Aug 2026) · verify whether June 2020 and Nov 2022 produced reports at all.
 
-**Phase 2 — Exemplars.** ✅ **Largely done** — 15 nine-out-of-nines, 19 six-out-of-sixes and 2 twelve-out-of-twelves are held verbatim with session, paper, question, mark and report page (`02_Verified_Exemplars.md`). **The residue is the June 2026 P1R report and the November-series reports, which publish commentary only.**
+**Phase 2 — Exemplars.** ✅ **Largely done** — 15 nine-out-of-nines, **21** six-out-of-sixes and 2 twelve-out-of-twelves are held verbatim with session, paper, question, mark and report page (`02_Verified_Exemplars.md`). **The residue is the June 2026 P1R report and the November-series reports, which publish commentary only.**
 
 **Phase 3 — Models.** ✅ **DONE — LAYER C IS COMPLETE.** All **380** governed blocks, in all four tiers, are carried by **252** labelled entries in `10_Chain_Bank.md`, each tier verified by its own coverage script. **No governed question in the qualification is unbanked.**
 
@@ -448,6 +448,35 @@ The anchoring check flagged four six-mark mappings in its 30%–45% band — **b
 **All four now carry their block's chains, quoted verbatim from the schemes, and the result is visible in the check itself: six-mark mappings proven by the entry quoting the question went from 109 of 114 to 112, block 94's overlap went from 37.5% to 90.6%, and the 30%–45% band is now empty.**
 
 **This is the shape of a coverage claim that is technically true and practically thin.** The mapping existed; the mark-scheme content behind it did not. `verify_ms_point_coverage.py` found no absent points because it asks whether a point is **named** somewhere in the entry, not whether the entry's **model answer** uses it.
+
+### 🚨 A SCORE PHRASING THAT HID FOURTEEN MARKED SCRIPTS — TWO OF THEM FULL MARKS (14 Oct 2026)
+
+**The bank's harvest and every sweep since had one pattern for a marked script: *"scored N marks"*. The reports state marks four ways, and the other three were invisible to it.**
+
+| Phrasing (verbatim) | Reports that use it |
+|---|---|
+| *"This response **scored** N marks."* | all five local reports |
+| *"This response **is** a Level 3 – 6 marks."* | May 2023 — P2 Q4(b), P2 Q4(c), P2R Q3(d), P2R Q4(b), P2R Q4(c) |
+| *"This response **was** Level 3 – 8 marks."* | May 2023 — P2R Q2(f) |
+| *"This response **gained** a Level 3 – 6 marks."* | May 2023 — P2R Q4(b) |
+| *"**Total: N marks**"* | June 2026 P1R — after every script (39 of them) |
+
+**Every one of these carries the mark in the text layer**, so nothing here needed a new source — only a pattern that did not require the word *"scored"* and did not require the number to sit next to *"Level N – "*.
+
+**What the May 2023 sweep recovered: 14 marked responses stated only in Level form, out of 153 across the four papers' reports. Two are full marks, and neither was in the bank:**
+
+* **P2R Q3(d) — 6/6**, *"Analyse why M&M would want to compare its business with other vehicle manufacturers"* (verdict p. 34, script p. 35)
+* **P2R Q4(b) — 6/6**, *"Analyse why M&M wants to continue planting trees"* (verdict + script p. 43 — *"This response gained a Level 3 – 6 marks"*)
+
+Both are now transcribed verbatim with their examiner comments, in `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`. **The 6-mark register moves 19 → 21, and two of the twenty-one are Paper 2R where it previously held one.** May 2023 alone printed **five 6/6s** (three already held: P1 Q1(g), P1 Q4(b), P1R Q4(b); these two new).
+
+**The twelve other recovered scores are diagnostic, not ornamental** — they are the middle and bottom of the band, and three of them are the only marked scripts the bank holds for the questions examiners say were hardest:
+
+* **P2R Q1(g) 4/6** — *"no development of the points made… If the candidate had given interconnected points with logical chains…"*
+* **P2R Q3(d) 2/9** — Level 1: *"limited application of knowledge and providing a simple justification."*
+* **P2 Q3(e) 5/9 · P2 Q4(b) 5/6 · P2 Q4(c) 10/12 · P2R Q2(f) 5/9 · P2R Q4(c) 10/12**
+
+⚠️ **The generalisable lesson, and it is the same one as the why/how misquote: a search pattern is a hypothesis about how a document is written.** This pattern had been wrong since the first harvest, and it was wrong in a way that made the bank *count fewer exemplars than it had sources for* — the one error direction that silently degrades a register rather than contradicting it. **When a phrase is used to find something, list every way the source states that thing, and sweep for all of them.** The June 2026 P1R report was already harvested by hand, which is why its `Total: N marks` channel had not cost anything — but it *would* have: **39 responses are stated that way and no automated sweep would have seen one of them.**
 
 ### ⚠️ THE NINE-MARK BAND, AND A MEASURE THAT FINALLY FITS IT (14 Oct 2026)
 
