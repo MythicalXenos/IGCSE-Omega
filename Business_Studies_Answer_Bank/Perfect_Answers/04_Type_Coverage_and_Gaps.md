@@ -126,8 +126,8 @@ These are genuinely useful calibration (and are quoted in `03_Calibration_Below_
 
 | Type | Instances | Why |
 |---|---|---|
-| **All 1-mark types** (MCQ, define, state) | **328** | Pearson does not publish exemplar scripts for 1-mark items. The **mark scheme answer is the perfect answer** — there is nothing to model beyond it. |
-| **2-mark types** (calculate, outline) | **106** | Same. For *calculate*, the MS gives the worked figures and states *"Award full marks for correct numerical answer without working."* For *outline*, the MS convention is identify (1) + context (1). |
+| **All 1-mark types** (MCQ, define, state) | **456** *(derived)* | **Nothing to model: the mark scheme answer IS the perfect answer.** ⚠️ **This row said 328 and "Pearson does not publish exemplar scripts for 1-mark items" — both wrong, corrected 14 Oct 2026.** 328 is the *withdrawn extraction count* (the true derived figure is 456); and Pearson **does** print scored 1-mark scripts — June 2026 P1R, May 2023 P1/P1R/P2/P2R — usually as 0/1 versus 1/1 pairs. **What those pairs teach is the context trap, not the content**: on a State question the answer is right and the mark is lost for not applying it. That is already rule territory (`01_`), so the scripts stay unrendered by choice — but not because they do not exist. |
+| **2-mark types** (calculate, outline) | **152** *(derived)* | Same, and **the count is likewise corrected from the withdrawn extraction figure of 106.** For *calculate*, the MS gives the worked figures and states *"Award full marks for correct numerical answer without working."* For *outline*, the MS convention is identify (1) + context (1) — and June 2026 P1R prints a worked 1/2 versus 2/2 **outline** pair where the only difference is the context sentence. |
 | Remaining 3/6/9/12 variations | — | Only a small subset of the **380** governed blocks has a published exemplar. *(This said 262 — a withdrawn figure.)* Pearson publishes exemplars for a handful of questions per paper, not all of them. |
 
 ---
