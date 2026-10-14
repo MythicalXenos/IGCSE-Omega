@@ -177,9 +177,9 @@
 | **3** | **Calculations: answer line, precision, the discount error** *(rules 59 · 101 · 113)* | **152 two-mark parts** |
 | **4** | **Analyse as a list** instead of one developed chain *(rules 96 · 97 · 110)* | **114 parts** |
 | **5** | **Justify without a named condition** — the whole band hangs on it *(rule 91)* | **76 parts** |
-| **6** | **Evaluate without woven judgement** — and bullets disqualify the top levels *(rules 82 · 84)* | **38 parts · 12 marks each — a quarter of the paper on one question** |
+| **6** | **Evaluate without woven judgement** — and bullets disqualify the top levels *(rules 82 · 84)* | **38 parts — one per paper, 12 of that paper's 80 marks** |
 
-⚠️ **Note the arithmetic of the paper:** the six 12-mark questions in 4BS1 are worth 12 of the 80 marks each. **One weak 12-marker can cost more than ten state questions.**
+⚠️ **Note the arithmetic of the paper:** every one of the 38 papers carries exactly **one** 12-mark question — `4(c)` — and on its own paper it is worth **12 of the 80 marks**. **One weak 12-marker can cost more than ten state questions.**
 
 ---
 
