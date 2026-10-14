@@ -363,7 +363,9 @@ REMAINING                :    0 topics  ·    0 blocks
 
 ## 🔍 HOW TO VERIFY THIS BANK — every check, in one place
 
-**Run all of these from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+**Twenty checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+
+> **A check that prints OK while parsing nothing is the failure mode this bank has hit three times** (`verify_stem_quotes.py` v1 compared 0 citations, a tier was never loaded so no 3-mark citation could resolve, and a near-empty parse sat inside a green run). **Every check that reads text therefore prints how many items it SAW, and the ones that can count their own input fail when that count is implausibly low.** Read the count, not just the RESULT line.
 
 ```bash
 cd Business_Studies_Answer_Bank
@@ -386,6 +388,7 @@ python3 verify_block_tiers.py           # every block dump carries its own tier'
 python3 verify_ms_point_coverage.py     # every awarded MS point is at least named in its entry
 python3 verify_coverage_claims.py       # the coverage grids agree with the register
 python3 verify_boundaries.py            # both boundary tables agree with Pearson
+python3 verify_rule_index.py            # rules 1-125 defined once; every citation resolves
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -400,12 +403,13 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_by_paper.py` | item count, marks, tariff histogram and governed-part labels for all 38 `By_Paper/` files | **988 items · 3040 marks · 12/4/4/3/2/1 per paper** — against the mark schemes, not against the files' own headers |
 | `build_layer_c_tariffs.py` | the tariff population from all 38 mark schemes | **152 / 114 / 76 / 38 governed, 456 / 152 below them, 38 of 38 papers at 80 marks, and every paper split 20 · 20 · 20 · 20** |
 | `tally_exemplars.py` | the verified-exemplar register | **19 × 6/6 · 15 × 9/9 · 2 × 12/12**, every row resolving to a real `file:line`, and no script-bearing heading unaccounted for |
-| `verify_chain_bank_anchors.py` | all **228** block → entry mappings | each block scored against **its own mark-scheme content**; **146 proven outright** because the entry quotes the question |
+| `verify_chain_bank_anchors.py` | all **228** block → entry mappings (114 six-mark + 76 nine-mark + 38 twelve-mark) | each block scored against **its own mark-scheme content**; **152 proven outright** because the entry quotes the question — **109 of 114**, **5 of 76** (most nine-mark schemes print no stem to compare), **38 of 38**. 0 below the 30% contradiction floor |
 | `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
 | `verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
-| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 151 citations compared by question number · 100 more by paper · 0 unresolved · 0 misattributed.** Names the question a quote belongs to when the citation is wrong |
+| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 310 print a stem · 273 citations = 151 by question number + 18 the scheme does not print + 4 duplicates folded + 100 by paper** (70 of those proven, 30 on the nine papers printing no 3-mark wording) · **0 unresolved · 0 misattributed.** Prints the citation count first, because a version of it that parsed nothing reported OK |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
+| `verify_rule_index.py` | the rule index — every number 1–125 defined exactly once across `01_` and `06_`, and every `rule N` cited anywhere in the bank | **125 rules, 125 definitions, 0 duplicates, 0 gaps; 41 distinct rule numbers cited across 75 files, every one resolving.** Written because `10_Chain_Bank.md` numbers its 252 entries in the **same `## N. Title` format** as the rules — the two domains are indistinguishable to a grep, which is how a duplicate would hide |
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
 | `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
