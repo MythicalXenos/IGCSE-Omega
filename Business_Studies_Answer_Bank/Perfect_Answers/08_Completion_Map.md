@@ -379,7 +379,9 @@ python3 layer_c_coverage.py             # 152/152 three-mark coverage
 python3 layer_c_6mark_coverage.py       # 114/114 coverage   (tier coverage checks)
 python3 layer_c_9mark_coverage.py       #  76/76 coverage
 python3 layer_c_12mark_coverage.py      #  38/38 coverage
-python3 tally_exemplars.py              # 44 x 3/3 - 25 x 6/6 - 15 x 9/9 - 2 x 12/12 = 86
+python3 tally_exemplars.py              # 101 register rows: the four governed tiers
+                                        # 44 x 3/3 - 25 x 6/6 - 15 x 9/9 - 2 x 12/12 = 86,
+                                        # plus 9 x 1-mark and 6 x 2-mark script pairs
 python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
 python3 verify_collision_cluster.py     # the collision table's total is its row count (20)
 python3 verify_stem_quotes.py           # every quoted question is the paper's own question
@@ -741,6 +743,6 @@ Both are now corrected, and the corrected position is stronger than either versi
 | 3 | **Jun 2026 P1 / P2 / P2R examiner reports.** | **Release scope, verified three ways** — the sibling filenames 404, the third-party archive that holds the June 2026 **P1R** report holds no P1/P2/P2R report, and its bucket refuses listings. **The P1R report circulating alone is the signal.** |
 | 4 | **Nov 2025 P1 / P2 examiner reports.** | **Not retrievable yet** — five publication dates tried across two sessions, all 404, and absent from the third-party hosts that carry the November 2020 equivalents. **Worth one re-check after January 2027.** |
 | 5 | **The November 2022 Paper 01R mark scheme.** | **The one paper of this qualification's history the bank does not model.** Pearson prints a notional Paper 1R boundary for that sitting (grade 9 = 49/80) and nothing else, so the series ran and the paper exists. **With it, the derived population becomes 39 papers · 1014 parts · 3120 marks · 390 governed** — see the scope note in `00_`. |
-| **6** | 🔨 **67 of the 80 printed 1- and 2-mark scripts are not transcribed** — the tier is the largest in the qualification (456 of 3040 marks, twelve parts per paper) and the bank holds **thirteen**. | **WORK, not a walled gap, and now measured.** `audit_er_fullmarks.py` prints the inventory: paper, part, report page and score for every one. **No model is needed for this tier** — the mark scheme is already the perfect answer — **but it is the only tier where the mark scheme cannot tell you what a 0 looks like**, and the reports print a 0 for nearly every part. ✅ **June 2026 P1R is DONE — all five printed pairs, transcribed in `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md`** (banked 14 Oct 2026). **Next: May 2023 P1 and P1R, whose 1- and 2-mark scripts are single-sided and mostly unpaired.** |
+| **6** | 🔨 **65 of the 80 printed 1- and 2-mark scripts are not transcribed** — the tier is the largest in the qualification (456 of 3040 marks, twelve parts per paper) and the bank holds **fifteen** *(May 2023 p. 2R and p. 2: ten · June 2026 P1R: five)*. | **WORK, not a walled gap, and measured.** The June 2026 P1R set is finished — **all ten of its 1- and 2-mark parts are banked, five in each file** — so the remaining 65 are May 2023's own set plus the other four reports' 1-/2-mark parts. ⚠️ **This tier's parts are NOT invariant** (unlike the 26 governed parts), so it is harvested paper by paper: `audit_er_fullmarks.py` prints every part and every mark printed, which is the worklist. |
 
 **And one resolved-as-non-existent, kept visible so it is not re-investigated:** **June 2020** — Pearson publishes no report and no boundaries for that sitting; the papers were printed and released, the series was not assessed. **Nothing is missing.**

@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 96 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 101 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 35 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
@@ -32,9 +32,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **25** |
 | **3-mark Explain** | **44** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
-| **1-mark items** | **8** *(May/Jun 2023 ×3 · Jun 2026 ×5)* |
-| **2-mark items** | **2** *(May/Jun 2023 ×2 — both P2)* |
-| **TOTAL** | **86** |
+| **1-mark items** | **9** *(May/Jun 2023 ×3 · Jun 2026 ×6)* |
+| **2-mark items** | **6** *(May/Jun 2023 ×2 — both P2 · **Jun 2026 ×4 — all P1R**)* |
+| **TOTAL** | **101** *(the four governed tiers = **86**; the rest are the 1- and 2-mark script pairs the reports print)* |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -254,6 +254,8 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 
 ## 1 MARK SCRIPTS — printed in full, and the only place a 0 is explained
 
+**⚠️ THIS TABLE AND THE 2 MARK TABLE BELOW count SCRIPT PAIRS, not full-mark scripts**: each row is a question the reports printed **twice** — the credited answer beside the rejected one — so a row here is not comparable with a row in the four governed tiers above. **They are rows in this file because they are verified exemplars, not because they are full-mark scripts.**
+
 **The archive prints 80 marked scripts for the 1- and 2-mark tier, each with an examiner comment** *(derived by `audit_er_fullmarks.py`, check 23 — its printed inventory names every paper, part, page and score)*. **No model is needed for this tier** — the mark scheme is already the perfect answer — **but a scheme cannot show you what a 0 looks like.** **These three are the top of that harvest and they are PAIRS: the same question, the full-mark script and the zero-mark script on ONE report page, with a comment on each.** ⚠️ **Two of the three zero-mark scripts are the better English and the better business thinking — and worth nothing.** **Every one is transcribed in `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md`.** **Five more are in `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md` — all five of June 2026 P1R's printed pairs, where the reports state the mark outright (`Total: 0 marks` / `Total: 1 mark`).** ⚠️ **67 further statements remain in the five reports.** ⭐ **And the June 2026 set sorts every failure into three kinds — wrong concept (1(b), 1(c)) · the thing instead of the activity (3(a)) · correct content with no context (2(a), 2(b))** — **two of the five zero-mark answers contain the mark scheme's own content verbatim and still scored nothing.**
 
 | # | Session | Paper · Question | Topic | Source |
@@ -266,14 +268,19 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 6 | **Jun 2026** | P1R Q2(a) | one current asset — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:90` |
 | 7 | **Jun 2026** | P1R Q2(b) | a reason employees are motivated — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:124` |
 | 8 | **Jun 2026** | P1R Q3(a) | define niche marketing — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:157` |
+| 9 | **Jun 2026** | P1R Q1(d) | one reason brand image is important — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:16` |
 
 ---
 
-## 2 MARK SCRIPTS — the only marked calculation scripts the bank owns
+## 2 MARK SCRIPTS — the marked calculation scripts, across two series
 
-**Two calculation questions on May 2023 Paper 2, each printed twice: 2/2 and 1/2.** **Between them they isolate the answer-line rule exactly — a correct value written incompletely, and a complete calculation stopped one step short, both losing the second mark.** **Full marks were awarded to a script whose written answer differs from the mark scheme's own figure** *(see the Q4(a) entry — the report prints and credits it)*. **Transcribed in full, with the mark schemes, in the same file.**
+**Six script-pairs across two series, each printed with its own examiner comment: 2/2 and 1/2.** **Between them they isolate both halves of the calculation tier.** **May 2023 isolates the ANSWER LINE** — a correct value written incompletely, and a complete calculation stopped one step short, both losing the second mark; **full marks were awarded to a script whose written answer differs from the mark scheme's own figure** *(see the Q4(a) entry — the report prints and credits it)*. **June 2026 isolates the WORKINGS** — three scripts whose final answer is wrong and which were paid anyway, because the scheme's own substitution line is on the page. **Transcribed in full, with the mark schemes, in the two series files.**
 
 | # | Session | Paper · Question | Topic | Source |
 |---|---|---|---|---|
 | 1 | **Jun 2023** | P2 Q3(c) | calculate a bonus, 2 d.p. — *IKEA* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:141` |
 | 2 | **Jun 2023** | P2 Q4(a) | calculate a percentage decrease, 2 d.p. — *IKEA* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:191` |
+| 3 | **Jun 2026** | P1R Q1(e) | calculate the retained profit left — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:54` |
+| 4 | **Jun 2026** | P1R Q3(b) | why cash is important — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:100` |
+| 5 | **Jun 2026** | P1R Q3(c) | percentage increase in minimum wage — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:141` |
+| 6 | **Jun 2026** | P1R Q4(a) | calculate total costs — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:201` |
