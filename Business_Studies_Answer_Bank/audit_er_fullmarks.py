@@ -105,6 +105,26 @@ STATEMENT = re.compile("|".join(f"(?:{p})" for _n, p in FAMILIES), re.I)
 # dropped from the grammar, and it fails by name.
 ORACLE = [(name, re.compile(pat, re.I)) for name, pat in FAMILIES]
 
+# ⚠️ THE HOLE THE ORACLE STILL LEFT (closed 14 Oct 2026). The cross-examination
+# above compares each family with the alternation — but BOTH are built from
+# FAMILIES, so deleting a family from the list removes it from the grammar AND
+# from the oracle, and the run still says "no gap". This table closes it: the
+# five phrasings the held reports actually print, each with a LITERAL SAMPLE
+# lifted from the report named beside it. A deleted family now fails BY NAME;
+# a pattern edited so it no longer matches its own sample fails too.
+#
+# `awarded` is deliberately NOT required: no held report uses it. It stays in
+# the grammar (it cost nothing to keep, and an earlier sweep saw the phrasing
+# elsewhere) but a sample that cannot be sourced is not evidence.
+REQUIRED = {
+    "scored":      ("This response scored 1 mark.",                 "May 2023 P1R"),
+    "total":       ("Total: 0 marks",                               "June 2026 P1R"),
+    "is-a-level":  ("This is a Level 1 response \u2013 2 marks.",    "May 2023 P2R"),
+    "only-gained": ("This response only gained 1 mark",             "May 2023 P2"),
+    "was-level":   ("this response gained a Level 2 \u2013 4 marks", "May 2023 P2R"),
+}
+FAMILY_NAMES = [name for name, _pat in FAMILIES]
+
 # file-name session -> the register's own wording for that series
 SERIES = {"May_2023": "2023", "June_2026": "2026", "May-June_2019": "2019",
           "May-June_2020": "2020", "May-June_2021": "2021", "May-June_2022": "2022",
@@ -233,8 +253,31 @@ def main() -> int:
         flag = "GAP " if gap else ("ok  " if used else "—   ")
         print(f"  {flag} {name:<12} present in {used} report(s)"
               f"   missed by the grammar: {gap}")
+    req_fail = []
+    fam_pat = dict(FAMILIES)
+    for name, (sample, src) in REQUIRED.items():
+        if name not in FAMILY_NAMES:
+            req_fail.append(f"{name} — deleted from FAMILIES (sample: {src})")
+            continue
+        if not re.search(fam_pat[name], sample, re.I):
+            req_fail.append(f"{name} — its own pattern no longer matches {sample!r}")
+        elif not STATEMENT.search(sample):
+            req_fail.append(f"{name} — matches alone but was dropped from STATEMENT")
+    print()
+    print(f"  REQUIRED FAMILIES — {len(REQUIRED)} the reports print, each against a literal sample")
+    for name, (sample, src) in REQUIRED.items():
+        print(f"  {'GAP ' if any(name in f for f in req_fail) else 'ok  '} {name:<12}"
+              f" \u2190 {sample!r}  [{src}]")
+    if req_fail:
+        print()
+        print("  FAIL — the score grammar has lost a phrasing the reports USE:")
+        for line in req_fail:
+            print(f"         {line}")
+        print("         Deleting a family takes printed scripts out of this guard's")
+        print("         view AND out of its oracle. Restore it.")
+
     missing = set(grammar_gaps)
-    if missing:
+    if missing or req_fail:
         print()
         print(f"  FAIL — these phrasings are IN the reports and the score grammar")
         print(f"         does not match them: {', '.join(sorted(missing))}")
@@ -282,9 +325,10 @@ def main() -> int:
     print()
     print(f"  printed full-mark scripts: {total_printed}   matched in the register: {total_banked}")
     print()
-    if not all_unbanked and not missing:
+    if not all_unbanked and not missing and not req_fail:
         print("RESULT: no gap the text layer can prove, and every phrasing the")
-        print("        archive uses is matched.")
+        print("        archive uses is matched — against literal samples, so a")
+        print("        deleted family fails by name instead of passing quietly.")
         return 0
 
     # ======================================================================
