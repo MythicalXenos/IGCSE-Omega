@@ -14,6 +14,7 @@ Start here:
 - **`Perfect_Answers/00_Pearson_Official_Rulebook.md`** — Pearson's own published marking guidance, by command word. Where anything else disagrees with this, this wins.
 - **`Perfect_Answers/02_Verified_Exemplars.md`** — the verified full-mark scripts, transcribed in full: **44 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12**, each with its session, paper, question, score and report page. **The 1- and 2-mark tier is held separately, in two files** — `Perfect_Answers/External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md` and `2026-06_P1R_One_Mark_Pairs.md` — **ten scripts in five and five pairs, the only places in the bank where a 0-mark script is transcribed beside the full-mark one, with an examiner comment on each.** ⚠️ **The archive prints 80 scripts for this tier; 67 are not yet transcribed — `08_`, open item 6.**
 - **`Perfect_Answers/03_Calibration_Below_Full_Marks.md`** — near-miss scripts with the examiner's stated reason for every mark lost.
+- **`Perfect_Answers/11_Self_Marking_Protocol.md`** — ⭐ **the sheet to run over your own practice answers**: five passes, one card per tariff, and every rule cited by number.
 - **`Perfect_Answers/08_Completion_Map.md`** — what "complete" means here, what is finished, what is not, and the 25 checks that verify it.
 - **`Perfect_Answers/Exemplar_Scans/`** — the genuine candidate scripts as page images.
 

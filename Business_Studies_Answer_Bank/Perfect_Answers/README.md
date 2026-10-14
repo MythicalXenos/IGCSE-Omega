@@ -63,6 +63,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **`10_Chain_Bank.md`** | ⭐⭐ **THE MODELS.** 252 entries — a full-mark-shaped answer for every governed topic in the qualification, plus the scaffolds (entry 228 = the universal 12-mark shape, 175 = the universal 9-mark shape). **This is where you look up a question you have been set.** |
 | **`08_Completion_Map.md`** | ⭐ **What "complete" means here, what is finished, and the five things that are not** — each one a fact about what Pearson publishes. Also the full list of the bank's checks. |
 | **`09_Verified_Tally.md`** | The per-script register: one row per verified full-mark script, citing file and line. Counts are a property of the register, never hand-typed. |
+| **`11_Self_Marking_Protocol.md`** | ⭐ **The candidate-facing sheet — five passes over your own answer, one card per tariff, every rule cited by number.** Distilled from rules already in `01_`/`06_`; it introduces no new evidence and scores nothing. |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
 | `../build_perfect_answers.py` | Rebuilds the `By_Paper/` bank from the mark scheme text index. |
 
