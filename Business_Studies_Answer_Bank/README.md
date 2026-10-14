@@ -14,12 +14,12 @@ Start here:
 - **`Perfect_Answers/00_Pearson_Official_Rulebook.md`** — Pearson's own published marking guidance, by command word. Where anything else disagrees with this, this wins.
 - **`Perfect_Answers/02_Verified_Exemplars.md`** — the verified full-mark scripts, transcribed in full: **4 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12**, each with its session, paper, question, score and report page.
 - **`Perfect_Answers/03_Calibration_Below_Full_Marks.md`** — near-miss scripts with the examiner's stated reason for every mark lost.
-- **`Perfect_Answers/08_Completion_Map.md`** — what "complete" means here, what is finished, what is not, and the 21 checks that verify it.
+- **`Perfect_Answers/08_Completion_Map.md`** — what "complete" means here, what is finished, what is not, and the 22 checks that verify it.
 - **`Perfect_Answers/Exemplar_Scans/`** — the genuine candidate scripts as page images.
 
 Every answer in that folder carries one of **three** labels: `[VERIFIED CANDIDATE EXEMPLAR]` (a real script, score confirmed by Pearson), `[OFFICIAL MARK-SCHEME WORKED ANSWER]` (Pearson's own indicative content, quoted verbatim, not a candidate script), or `[CONSTRUCTED GRADE 9 TARGET]` (engineered from the mark scheme, not official, never given a score). No constructed answer is ever described as official, and a check fails if any model answer is unlabelled.
 
-**Everything is verified by 21 checks** run from `Business_Studies_Answer_Bank/` — see `Perfect_Answers/08_Completion_Map.md`.
+**Everything is verified by 22 checks** run from `Business_Studies_Answer_Bank/` — see `Perfect_Answers/08_Completion_Map.md`.
 
 ## Deliverables
 
