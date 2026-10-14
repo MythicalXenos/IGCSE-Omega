@@ -39,7 +39,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **25 × 6/6** |
 | **9** | **76** | 2(f) · 3(e) | ✅ **15 × 9/9** |
 | **12** | **38** | 4(c) | ✅ **2 × 12/12** |
-| **TOTAL** | **988** | 26 parts / 80 marks per paper | **86 governed full-mark scripts**, plus **10 for the 1- and 2-mark tier** — ⚠️ **and that tier has 80 printed scripts in all, 67 of them not yet transcribed** (`08_`, open item **6**) |
+| **TOTAL** | **988** | 26 parts / 80 marks per paper | **86 governed full-mark scripts**, plus **the 1- and 2-mark tier — all 80 scripts the five reports print, each transcribed with its examiner comment.** ✅ **`BANKED 80 / REMAIN 0`** *(`layer_c_1_2mark_coverage.py`, check 24; `08_` item 6 closed 14 Oct 2026)* |
 
 **The 380 governed parts (3 marks and above) are all modelled** — 252 entries in `10_Chain_Bank.md`, one per topic rather than one per question, because the framings repeat and only the topic changes. **For the 608 one- and two-mark parts the mark scheme answer *is* the perfect answer** and is already in `By_Paper/`.
 

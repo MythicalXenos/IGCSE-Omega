@@ -12,8 +12,8 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 128 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
-> 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 35 narrative, 0 unaccounted.**
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 136 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
+> 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 36 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
 > 4. **Everything else is filtered out as narrative.** That is the restatement filter: a rule section called *"THE 9/9 JUSTIFY — six required features"* **is not a script**, and a cross-reference to a transcript held in another file **is not a second script**.
@@ -32,9 +32,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **25** |
 | **3-mark Explain** | **44** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
-| **1-mark items** | **24** *(May/Jun 2023 ×18 — **P1R ×6 · P1 ×6** · Jun 2026 ×6)* |
-| **2-mark items** | **18** *(May/Jun 2023 ×14 — P2 ×2 · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4)* |
-| **TOTAL** | **128** *(the four governed tiers = **86**; the rest are the 1- and 2-mark script pairs the reports print)* |
+| **1-mark items** | **30** *(May/Jun 2023 ×24 — **P2 ×6** · **P1R ×6 · P1 ×6** · Jun 2026 ×6)* |
+| **2-mark items** | **20** *(May/Jun 2023 ×16 — **P2 ×4** · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4)* |
+| **TOTAL** | **136** *(the four governed tiers = **86**; the rest are the 1- and 2-mark script pairs the reports print)* |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -256,7 +256,18 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 
 **⚠️ THIS TABLE AND THE 2 MARK TABLE BELOW count SCRIPT PAIRS, not full-mark scripts**: each row is a question the reports printed **twice** — the credited answer beside the rejected one — so a row here is not comparable with a row in the four governed tiers above. **They are rows in this file because they are verified exemplars, not because they are full-mark scripts.**
 
-**The archive prints 80 marked scripts for the 1- and 2-mark tier, each with an examiner comment** *(derived by `audit_er_fullmarks.py`, check 23 — its printed inventory names every paper, part, page and score)*. **No model is needed for this tier** — the mark scheme is already the perfect answer — **but a scheme cannot show you what a 0 looks like.** **These three are the top of that harvest and they are PAIRS: the same question, the full-mark script and the zero-mark script on ONE report page, with a comment on each.** ⚠️ **Two of the three zero-mark scripts are the better English and the better business thinking — and worth nothing.** **Every one is transcribed in `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md`.** **Five more are in `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md` — all five of June 2026 P1R's printed pairs, where the reports state the mark outright (`Total: 0 marks` / `Total: 1 mark`).** ⚠️ **35 further statements remain in the five reports** *(derived, 14 Oct 2026 — `layer_c_1_2mark_coverage.py`)*. ⭐ **And the June 2026 set sorts every failure into three kinds — wrong concept (1(b), 1(c)) · the thing instead of the activity (3(a)) · correct content with no context (2(a), 2(b))** — **two of the five zero-mark answers contain the mark scheme's own content verbatim and still scored nothing.**
+**The archive prints 80 marked scripts for the 1- and 2-mark tier, and every one of them is now transcribed** *(derived, not typed — `layer_c_1_2mark_coverage.py` reads the five reports and these rows: **BANKED 80 / REMAIN 0**, 14 Oct 2026).* **No model is needed for this tier** — the mark scheme is already the perfect answer — **but a scheme cannot show you what a 0 looks like, and the rejected script is where the marks are actually lost.**
+
+⭐ **The harvest runs across four report sets, one per paper:** `2023-05_Series_One_and_Two_Mark_Pairs.md` (five P2R pairs) · `2023-05_P2R_One_and_Two_Mark_Set.md` (**thirteen scripts**) · `2023-05_P1_and_P1R_One_and_Two_Mark_Set.md` (**twenty** — ten per paper) · `2026-06_P1R_One_Mark_Pairs.md` (five pairs, where the report states the mark outright: `Total: 0 marks` / `Total: 1 mark`).
+
+⭐ **And across all 80 the failures sort into four kinds, none of them ignorance:**
+
+> **1 · the definition that reuses the term, or borrows its neighbour** — P2 Q1(c) ×2 (*"quality"* twice, in two different scripts), P2 Q3(a) (an overdraft defined as *"a loan"*);
+> **2 · the business name mistaken for context** — P1 Q1(d), P1 Q2(b), P2 Q1(d), P2 Q2(a) ×2, P2 Q2(b), P1R Q2(b);
+> **3 · the answer rounded below the precision the question demanded** — P1R Q3(c), P2 Q1(e) ×2;
+> **4 · the procedure, or the example list, where a definition was asked for** — P2 Q1(b) (what a business does with the applications), P1R Q1(c) (*"examples of stakeholders"*), and the failure the P1 Q3(a) commentary names outright.
+>
+> ⚠️ **Every one of those scripts was written by a candidate who understood the business.** The report's own verdict on its define questions is *"Most candidates understood what the term meant"* — printed beside *"nearly two thirds of the cohort not gaining the mark"*. **The mark is not for understanding; it is for a sentence a stranger could apply.**
 
 | # | Session | Paper · Question | Topic | Source |
 |---|---|---|---|---|
@@ -284,12 +295,19 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 22 | **Jun 2023** | P1 Q2(a) | improving competitive position — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:532` |
 | 23 | **Jun 2023** | P1 Q2(b) | extending the life cycle — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:560` |
 | 24 | **Jun 2023** | P1 Q3(a) | define fringe benefits — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:601` |
+| 25 | **Jun 2023** | P2 Q1(b) | define person specification — *IKEA* **(0/1 and 1/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:23` |
+| 26 | **Jun 2023** | P2 Q1(c) | define quality control — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:57` |
+| 27 | **Jun 2023** | P2 Q1(d) | why IKEA provides induction training — *IKEA* **(1/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:101` |
+| 28 | **Jun 2023** | P2 Q2(a) | why IKEA would employ temporary staff — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:210` |
+| 29 | **Jun 2023** | P2 Q2(b) | a financial objective — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:250` |
+| 30 | **Jun 2023** | P2 Q3(a) | define overdraft — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:279` |
+
 
 ---
 
 ## 2 MARK SCRIPTS — the marked calculation scripts, across two series
 
-**Six script-pairs across two series, each printed with its own examiner comment: 2/2 and 1/2.** **Between them they isolate both halves of the calculation tier.** **May 2023 isolates the ANSWER LINE** — a correct value written incompletely, and a complete calculation stopped one step short, both losing the second mark; **full marks were awarded to a script whose written answer differs from the mark scheme's own figure** *(see the Q4(a) entry — the report prints and credits it)*. **June 2026 isolates the WORKINGS** — three scripts whose final answer is wrong and which were paid anyway, because the scheme's own substitution line is on the page. **Transcribed in full, with the mark schemes, in the two series files.**
+**Twenty scripts across four papers — fifteen calculations and five `Outline` questions — each printed with its own examiner comment, and between them they isolate both halves of the calculation tier.** **May 2023 isolates the ANSWER** — a value written to the wrong number of decimal places at three separate questions (*22.5* for *22.55*; *31* and *31.4* for *31.38*), a correct value written incompletely, and a complete calculation stopped one step short; **full marks were awarded to a script whose written answer differs from the mark scheme's own figure** *(see the Q4(a) entry — the report prints and credits it)*. ⚠️ **And this series alone settles what the dotted answer line is: a recommendation, not a requirement** — its 2/2 scripts include one that leaves the line blank and one that writes through a struck correction, while **what costs the mark is the precision, at every single question on the paper that demanded it.** **June 2026 isolates the WORKINGS** — three scripts whose final answer is wrong and which were paid anyway, because the scheme's own substitution line is on the page. **Transcribed in full, with the mark schemes, in the four harvest files named in the 1-mark section above.**
 
 | # | Session | Paper · Question | Topic | Source |
 |---|---|---|---|---|
@@ -311,3 +329,5 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 16 | **Jun 2023** | P1 Q3(b) | keeping customer loyalty — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:629` |
 | 17 | **Jun 2023** | P1 Q3(c) | the current ratio, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:667` |
 | 18 | **Jun 2023** | P1 Q4(a) | operating profit margin, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:704` |
+| 19 | **Jun 2023** | P2 Q1(e) | gross profit margin, 2 d.p. — *IKEA* **(1/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:145` |
+| 20 | **Jun 2023** | P2 Q3(b) | why IKEA reads government reports — *IKEA* **(0/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:311` |
