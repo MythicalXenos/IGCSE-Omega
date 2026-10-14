@@ -390,6 +390,7 @@ python3 verify_boundaries.py            # both boundary tables agree with Pearso
 python3 verify_rule_index.py            # rules 1-126 defined once; every citation resolves
 python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's shape
 python3 verify_paper_coverage.py        # every governed part of every PAPER resolves to its entry
+python3 audit_er_fullmarks.py           # REPORT: full-mark scripts the archived reports PRINT vs the register
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -709,10 +710,11 @@ Both are now corrected, and the corrected position is stronger than either versi
 
 ## WHAT REMAINS OPEN — the definitive list, 14 Oct 2026
 
-**Everything above this line is closed. This is what is not, and every one of the five is a fact about what Pearson publishes rather than work still to do.**
+**Everything above this line is closed. This is what is not. Five of these are facts about what Pearson publishes rather than work to do; the sixth is work, and it is measured.**
 
 | # | Open item | Why it cannot be closed |
 |---|---|---|
+| **0** | 🔨 **11 full-mark scripts printed in the May 2023 reports are not banked** — 9 three-mark Explain and 2 six-mark Analyse, listed by paper, part and report page by `audit_er_fullmarks.py`. | **WORK, not a walled gap.** They are printed in full in `4BS1_Business_Studies_May_2023_{P1,P1R,P2,P2R}_ER.pdf` and can be transcribed today. **They were invisible because every sweep the bank owned searched for a PHRASING it had already catalogued, and May 2023 states its marks in a way no sweep knew** — a bare line: *"This response scored 3 marks."* The audit inverts the question and asks the report which scripts it awarded full marks to. **This is the row to work from; the five below are the ones to wait on.** |
 | 1 | **No verified 12/12 on Paper 2 or on Paper 2R.** | **Permanent.** Pearson's own support page names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **Every Paper 2 / 2R Evaluate model in the bank must therefore stay `[CONSTRUCTED GRADE 9 TARGET]`.** Best held on those papers: **10/12 on each** (IKEA and M&M, May 2023), both docked for *"limited judgements"*. |
 | 2 | **One marked script per question.** | **Permanent.** Pearson prints one or two examples per question and some questions none. **So the bank can show that a full-mark answer exists and what it does — it can never show every route to one.** This is the gap the Chain Bank exists to fill: it generalises from the scripts that exist to the questions that have none. |
 | 3 | **Jun 2026 P1 / P2 / P2R examiner reports.** | **Release scope, verified three ways** — the sibling filenames 404, the third-party archive that holds the June 2026 **P1R** report holds no P1/P2/P2R report, and its bucket refuses listings. **The P1R report circulating alone is the signal.** |
