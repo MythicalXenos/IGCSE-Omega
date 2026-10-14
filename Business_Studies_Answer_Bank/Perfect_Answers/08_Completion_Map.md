@@ -362,7 +362,7 @@ REMAINING                :    0 topics  ·    0 blocks
 
 ## 🔍 HOW TO VERIFY THIS BANK — every check, in one place
 
-**Twenty-three checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+**Twenty-four checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
 
 > **A check that prints OK while parsing nothing is the failure mode this bank has hit three times** (`verify_stem_quotes.py` v1 compared 0 citations, a tier was never loaded so no 3-mark citation could resolve, and a near-empty parse sat inside a green run). **Every check that reads text therefore prints how many items it SAW, and the ones that can count their own input fail when that count is implausibly low.** Read the count, not just the RESULT line.
 
@@ -394,6 +394,7 @@ python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's s
 python3 verify_paper_coverage.py        # every governed part of every PAPER resolves to its entry
 python3 audit_er_fullmarks.py           #  23. every full-mark script the archived reports PRINT is in the register
                                         #      + every score phrasing in use is matched, + the whole printed inventory
+python3 layer_c_1_2mark_coverage.py     #  24. the 1-/2-mark tier: printed vs transcribed, session-aware keys
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -743,6 +744,6 @@ Both are now corrected, and the corrected position is stronger than either versi
 | 3 | **Jun 2026 P1 / P2 / P2R examiner reports.** | **Release scope, verified three ways** — the sibling filenames 404, the third-party archive that holds the June 2026 **P1R** report holds no P1/P2/P2R report, and its bucket refuses listings. **The P1R report circulating alone is the signal.** |
 | 4 | **Nov 2025 P1 / P2 examiner reports.** | **Not retrievable yet** — five publication dates tried across two sessions, all 404, and absent from the third-party hosts that carry the November 2020 equivalents. **Worth one re-check after January 2027.** |
 | 5 | **The November 2022 Paper 01R mark scheme.** | **The one paper of this qualification's history the bank does not model.** Pearson prints a notional Paper 1R boundary for that sitting (grade 9 = 49/80) and nothing else, so the series ran and the paper exists. **With it, the derived population becomes 39 papers · 1014 parts · 3120 marks · 390 governed** — see the scope note in `00_`. |
-| **6** | 🔨 **65 of the 80 printed 1- and 2-mark scripts are not transcribed** — the tier is the largest in the qualification (456 of 3040 marks, twelve parts per paper) and the bank holds **fifteen** *(May 2023 p. 2R and p. 2: ten · June 2026 P1R: five)*. | **WORK, not a walled gap, and measured.** The June 2026 P1R set is finished — **all ten of its 1- and 2-mark parts are banked, five in each file** — so the remaining 65 are May 2023's own set plus the other four reports' 1-/2-mark parts. ⚠️ **This tier's parts are NOT invariant** (unlike the 26 governed parts), so it is harvested paper by paper: `audit_er_fullmarks.py` prints every part and every mark printed, which is the worklist. |
+| **6** | 🔨 **37 of the 80 printed 1- and 2-mark scripts are not transcribed** — the tier is the largest in the qualification (456 of 3040 marks, twelve parts per paper) and the bank holds **43** *(May 2023 P2 ×2 questions · P2R ×8 · June 2026 P1R ×10 — plus the 2023 P2R set's other questions)*. | **WORK, not a walled gap — and now DERIVED, with the worklist printed by `layer_c_1_2mark_coverage.py` (check 24).** **June 2026 P1R is finished — all ten of its 1- and 2-mark parts are banked; May 2023 P2R is finished bar Q3(b).** **Remaining: 2023 P1 ×10 · P1R ×10 · P2 ×8 · P2R ×1.** ⚠️ **This tier's parts are NOT invariant** (unlike the 26 governed parts), so it is harvested paper by paper — **and ⚠️ the count must be session-aware: keyed on paper+part alone it reported May 2023 P1R as banked when the rows were June 2026 P1R's. That is the fourth paper-blind key this bank has caught.** |
 
 **And one resolved-as-non-existent, kept visible so it is not re-investigated:** **June 2020** — Pearson publishes no report and no boundaries for that sitting; the papers were printed and released, the series was not assessed. **Nothing is missing.**
