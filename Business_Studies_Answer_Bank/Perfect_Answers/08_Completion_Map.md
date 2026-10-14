@@ -414,6 +414,18 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
 | `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
 
+### ✅ THE DUPLICATE SWEEP — run across the whole bank, 14 Oct 2026
+
+Layer D requires **no duplicates**, so the whole bank was scanned: every line over 160 characters, whitespace-normalised and hashed, in all 75 markdown files. **3,236 substantial lines, 3,167 distinct, 28 repeated — and every one of the 28 is deliberate:**
+
+| Repeated | Times | What it is |
+|---|---|---|
+| The `By_Paper/` opening boilerplate | **38** | one per paper, by design — it states that the content below is official mark-scheme material |
+| Examiner quotations carried in both the transcript and the rule that cites them | **9** | the transcript is the evidence, the rule is the instruction; the same sentence has to appear in both |
+| Scenario quotes repeated across two or three report transcripts | **19** | Pearson prints the same guidance verbatim in more than one paper's report — which is itself rule 40's finding |
+
+**No model answer, no topic entry and no verified script is duplicated.** The scan's value is in what it rules out: the register's 36 rows resolve to 36 distinct `file:line` references, and no Chain Bank entry repeats another's model answer.
+
 ### ⚠️ A CHECK I WROTE CAUGHT TWO NUMBERS I HAD JUST TYPED INTO THIS BANK (14 Oct 2026)
 
 The boundary section gained the notional component table for **every** series (Pearson's assessment-support page publishes all of them; the bank held two) and a corrected additivity rule. Writing the check for it caught **two figures I had typed into `00_` minutes earlier without deriving: *"18 pairs"* and *"14 of 14"*.**
