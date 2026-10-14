@@ -1850,8 +1850,41 @@ That is not a filing technicality — **it is the point.** A rule table that is 
 > **Two rows are worth more than a cross-reference, and both are recorded on their own rule:** **E6** (400 words → 8/12 against 110 words → 7/12) is the cleanest length comparison in the archive, and **E3** is the only place **all three AO4 questions of a single paper** were read together and found to open with a concession. **`E12`'s "two links = 2 marks, always" is the most testable single sentence in the table** — two matched scripts, same question, same mark, same fault.
 
 > ### ⚠️ The trap this closes
-> **A pending fold is an instruction the bank owes itself.** Left open, the next pass over the booklet could have re-entered `E1`–`E12` as rules **125–136** — duplicating eight existing rules and creating two competing numbering schemes for the same twelve ideas. **The check that prevents it is the one used here: before folding an un-numbered rule set in, match it against the numbered rules and count the matches.** If every row matches, **the fold is a concordance**; if some do not, **only those get numbers.**
+> **A pending fold is an instruction the bank owes itself.** Left open, the next pass over the booklet could have re-entered `E1`–`E12` as rules **127–138** — duplicating eight existing rules and creating two competing numbering schemes for the same twelve ideas. **The check that prevents it is the one used here: before folding an un-numbered rule set in, match it against the numbered rules and count the matches.** If every row matches, **the fold is a concordance**; if some do not, **only those get numbers.**
 
+---
+
+## 126. 🚨 THE 0/3 IS A MISSING MECHANISM, NOT A SHORT ANSWER — four scripts, four verdicts, one fault (June 2026 P1R)
+
+*Added 14 October 2026. This is the newest and sharpest evidence in the bank for the 3-mark tier — **152 parts of the qualification**, joint most common written type after the one-mark items — and until now it lived only in a transcript, with no rule to enforce it.*
+
+June 2026 P1R prints **four 3/3 Explain scripts, one for each of the paper's four Explain questions, each with its 0/3 counterpart on the facing page.** Eight scripts on four questions, same session, same marker cohort. **Every 0/3 fails the same way: the consequence is named and the mechanism is missing.**
+
+| | the 3/3 names the mechanism | the 0/3 names only a consequence | the examiner's verdict, verbatim |
+|---|---|---|---|
+| **Q1(f)** flat structure | *"less layers"* → information unchanged → less time → fewer mistakes | *"Everyone can suggest ideas and discusset different ideas"* | *"generic and the benefit is **not specific to a flat organisational structure**"* |
+| **Q2(c)** break-even | *"how many… they need to sell… to not have a loss"* | *"sufficient funds"*, *"a clear idea of what decisions to make"* | *"did not demonstrate **any understanding of** calculating the break-even level of output"* |
+| **Q2(d)** segment by income | segment by income → premium products → *"charge higher prices"* → margins | *"it can calculate their income"* | *"**no valid reason linked to** segmenting the market by income"* |
+| **Q2(e)** productivity | *"more goods ^of services produced in a specific time period"* → efficiency → *"decreased cost of production"* | *"The customer might come back to buy a product… again"* | *"does not **illustrate any knowledge of** productivity improvements"* |
+
+**Four verdicts, four phrasings, one diagnosis.** *Generic · no understanding · not linked to [the question's own qualifier] · not illustrated* — each is a different way of saying **the answer never reached the mechanism the question names.** Q2(e) is the purest case in the whole bank: the 0/3 argues *repeat custom → higher sales → more profit*. **Every link is valid business reasoning and every link is irrelevant**, because none of them is productivity.
+
+> ### ⚠️ AND NOT ONE OF THE FOUR IS A LENGTH PROBLEM
+> The 3/3 and its 0/3 partner are the **same length** on all four questions (≈50/18, ≈70/30, ≈35/20, ≈60/30 words). **Q2(d)'s 3/3 is 35 words — the shortest full-mark script in the bank**, and the examiner's own prescription (*identify + two logical links*) is satisfied inside it.
+>
+> **So the rule has a sharper edge than "write more":** three more sentences about the benefits of the choice **cannot rescue a missing mechanism**, and naming the mechanism then walking it twice **cannot fail.** The 3/3 on Q1(f) does it with *"the structure have less layers"* — broken grammar, full marks. **Marks follow the chain, not the English.**
+
+**Three things this rule settles, all of which the bank had before only as advice:**
+
+1. **A correct consequence is worth NOTHING on its own** — not one mark, not "half". 0/3 four times over. Rule 119 says no marks are given for a definition on an Explain question; **this is its mirror: no marks are given for a consequence without the mechanism.** The mark is earned in the middle of the answer, not at its end.
+2. **The question's OWN QUALIFIER is part of the mechanism.** Q2(d) is *"segment the market **by income**"*, and the report states plainly: *"There was a number of responses that discussed segmentation generally and **was not linked to income**. Such responses received no marks."* **Explaining the wrong half of the question is a 0, not a partial.** Same trap as rule 102 (apply to the subject the question names), one level down: there the answer must land on the right *business*, here on the right *feature* of the concept.
+3. **The FIX is to define the term in the examiner's own words first, then convert it.** Every 3/3 does this and no 0/3 does: break-even → *how many to sell to not make a loss*; productivity → *more goods in a specific time period*; segment by income → *target higher-income customers*. **The definition is not the answer and earns nothing (rule 119) — it is the mechanism written down, and it is what makes the next two links possible.**
+
+**How this is enforced rather than remembered.** The four 3/3 scripts are verifiable exemplars in `09_`, and every 3-mark model in `10_Chain_Bank.md` is checked by `verify_model_shape.py` for the **identify → mechanism → consequence** shape — the check that was written from these eight scripts, and that failed twice during development before it was reading the models rather than the bank's descriptions of them.
+
+**Source:** `External_Exemplars/2026-06_P1R_SpudBros.md`, the section *"THE FOUR 3-MARK EXPLAIN SCRIPTS — and the one failure mode all four share"* — all eight responses transcribed verbatim with their examiner comments and PDF page numbers.
+
+---
 ---
 
 ## Checklist — the seven ways to lose marks that recur in EVERY report

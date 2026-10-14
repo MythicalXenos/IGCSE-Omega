@@ -33,7 +33,7 @@ RULE_FILES = ("01_Mark_Tariff_Playbook.md", "06_External_Source_Library.md")
 
 # The split this bank documents: tariff rules in 01_, the rest in 06_.
 EXPECTED_01 = {41, 42} | set(range(49, 64))          # 41,42,49-63  = 17
-TOP_RULE = 125
+TOP_RULE = 126
 
 HEADING = re.compile(r"^#{2,4}\s+(\d{1,3})\.\s+\S")
 CITE = re.compile(r"\b[Rr]ule[s]?\s+(\d{1,3})\b")
