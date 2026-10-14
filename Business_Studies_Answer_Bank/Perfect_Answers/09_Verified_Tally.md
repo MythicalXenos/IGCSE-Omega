@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 72 rows resolve.**
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 75 rows resolve.**
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **53 matched, 35 narrative, 0 unaccounted.**
 > 3. **Everything else is filtered out as narrative.** That is the restatement filter: a rule section called *"THE 9/9 JUSTIFY — six required features"* **is not a script**, and a cross-reference to a transcript held in another file **is not a second script**.
 >
@@ -29,9 +29,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | **12-mark Evaluate** | **2** |
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **23** |
-| **3-mark Explain** | **32** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×4 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
+| **3-mark Explain** | **35** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×7 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
 | **1- and 2-mark items** | n/a — *the mark scheme IS the perfect answer; Pearson publishes no scripts* |
-| **TOTAL** | **72** |
+| **TOTAL** | **75** |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -39,7 +39,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > **`tally_exemplars.py` now reads this table, every section heading, and that prose sentence, and fails if any stated total disagrees with the rows that back it.** The register was created *because* hand-incremented totals had drifted five times; **its own headline had become the sixth place, which is why the check reads the file's summaries and not only its rows.**
 >
 > ### 🚨 AND ON THE SAME DAY IT DRIFTED AGAIN, IN THE OPPOSITE DIRECTION — the 3-mark row said **4** when the bank held **32**
-> **Six sessions of verified 3/3s sat in the harvest files, fully transcribed, uncounted.** The section had been written for the June 2026 batch, and nothing compared it with what the older files said they held. **Worse: the check reported *0 unaccounted*, because it matched headings to rows on (tariff, question) — and `2022-06_P1_TBTS.md` Q2(c) matched the June 2026 P1R row for Q2(c).** A paper-blind key again. **Both failures are now impossible: the row count is 32, and a heading must be cited by its OWN row, within eight lines, or the run fails.** The full account is in the 3-mark section below.
+> **Six sessions of verified 3/3s sat in the harvest files, fully transcribed, uncounted.** The section had been written for the June 2026 batch, and nothing compared it with what the older files said they held. **Worse: the check reported *0 unaccounted*, because it matched headings to rows on (tariff, question) — and `2022-06_P1_TBTS.md` Q2(c) matched the June 2026 P1R row for Q2(c).** A paper-blind key again. **Both failures are now impossible: the row count is 35, and a heading must be cited by its OWN row, within eight lines, or the run fails.** **Three of the 35 were found within the hour, by sweeping the May 2023 reports for the string `scored 3 marks` rather than for a level phrasing — see `2023-05_Series_3mark_Sweep.md`.** The full account is in the 3-mark section below.
 
 > ### ⚠️ WHAT THIS TABLE COUNTS — AND WHAT IT DOES NOT
 > **It counts scripts Pearson printed with FULL marks against them** — 72 of them, across four tiers and every session from June 2019 to June 2026. **Four of the 32 three-mark rows are held as the report's own single-sentence quotation rather than as a full exemplar section** (marked `*` in that section), which is a note about how they are held, not about what they are worth: for a 3-mark Explain the whole answer is one sentence.
@@ -125,7 +125,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 3 MARKS — **32 scripts** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×4 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)*
+## 3 MARKS — **35 scripts** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×7 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)*
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
@@ -161,11 +161,14 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 30 | **Jun 2026** | P1R Q2(c) | why break-even output is calculated — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:381` |
 | 31 | **Jun 2026** | P1R Q2(d) | segmenting the market by income — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:393` |
 | 32 | **Jun 2026** | P1R Q2(e) | benefit of productivity improvements — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:405` |
+| 33 | **Jun 2023** | P1 Q1(f) | benefit of test marketing *(added 14 Oct 2026 — third sweep)* | `External_Exemplars/2023-05_Series_3mark_Sweep.md:13` |
+| 34 | **Jun 2023** | P1R Q1(f) | why a business might fail *(added 14 Oct 2026 — third sweep)* | `External_Exemplars/2023-05_Series_3mark_Sweep.md:37` |
+| 35 | **Jun 2023** | P1R Q2(c) | an impact of ineffective communication *(added 14 Oct 2026 — third sweep)* | `External_Exemplars/2023-05_Series_3mark_Sweep.md:65` |
 
 **`*` = held as the report's own one-sentence quotation inside a summary table**, rather than transcribed in a dedicated exemplar section. The mark is stated by the report and the response is complete as printed — **for a 3-mark Explain, the whole answer is one sentence** — but the register marks the difference so a reader can audit the hold. **28 of the 32 are full exemplar sections; 4 are single-sentence holds.**
 
-> ### 🚨 28 OF THESE 32 ROWS DID NOT EXIST UNTIL 14 OCT 2026 — the register held FOUR
-> **The section was created for the June 2026 batch and the earlier harvests' 3/3s were never carried over.** They were in the bank all along, fully transcribed, with examiner comments:
+> ### 🚨 31 OF THESE 35 ROWS DID NOT EXIST UNTIL 14 OCT 2026 — the register held FOUR
+> **The section was created for the June 2026 batch and the earlier harvests' 3/3s were never carried over.** **Twenty-eight were recovered from the existing transcripts, and three more from a sweep of the May 2023 reports (rows 33–35).** They were in the bank all along, fully transcribed, with examiner comments:
 >
 > * **`2022-06_P1_TBTS.md` states in its own summary table: *"Verified 3/3 exemplars — 2 (Q2(c), Q2(d))"*; `2022-06_P1R_Can_Culleretes.md` the same for its two; `2023-06_P2_IKEA.md` says *"4 (Q1(f), Q2(c) ×2, Q2(d))"*.** Three files said how many they held and nothing compared it with the register.
 > * **`02_Verified_Exemplars.md` holds six more from June 2022 P2R under its "2/3 vs 3/3 pairs" heading**, and two June 2019 P1 3/3s.

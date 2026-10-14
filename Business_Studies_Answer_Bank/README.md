@@ -12,7 +12,7 @@ Start here:
 - **`Perfect_Answers/10_Chain_Bank.md`** — ⭐⭐ **252 model answers covering every governed question in the qualification.** Look up the question you have been set.
 - **`Perfect_Answers/01_Mark_Tariff_Playbook.md`** — the rules for every tariff (1/2/3/6/9/12), with AO splits, level bands and literal opening sentences.
 - **`Perfect_Answers/00_Pearson_Official_Rulebook.md`** — Pearson's own published marking guidance, by command word. Where anything else disagrees with this, this wins.
-- **`Perfect_Answers/02_Verified_Exemplars.md`** — the verified full-mark scripts, transcribed in full: **32 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12**, each with its session, paper, question, score and report page.
+- **`Perfect_Answers/02_Verified_Exemplars.md`** — the verified full-mark scripts, transcribed in full: **35 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12**, each with its session, paper, question, score and report page.
 - **`Perfect_Answers/03_Calibration_Below_Full_Marks.md`** — near-miss scripts with the examiner's stated reason for every mark lost.
 - **`Perfect_Answers/08_Completion_Map.md`** — what "complete" means here, what is finished, what is not, and the 22 checks that verify it.
 - **`Perfect_Answers/Exemplar_Scans/`** — the genuine candidate scripts as page images.

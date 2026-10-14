@@ -35,11 +35,11 @@ Three labels, because there are three kinds of source. Constructed answers are n
 |---|---|---|---|
 | **1** | **456** | MCQ · define · state · identify | — *the mark scheme answer IS the perfect answer* |
 | **2** | **152** | calculate one figure · outline one | — *same* |
-| **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **32 × 3/3**, Jun 2019 → Jun 2026 |
+| **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **35 × 3/3**, Jun 2019 → Jun 2026 |
 | **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **23 × 6/6** |
 | **9** | **76** | 2(f) · 3(e) | ✅ **15 × 9/9** |
 | **12** | **38** | 4(c) | ✅ **2 × 12/12** |
-| **TOTAL** | **988** | 26 parts / 80 marks per paper | **72 verified full-mark scripts** |
+| **TOTAL** | **988** | 26 parts / 80 marks per paper | **75 verified full-mark scripts** |
 
 **The 380 governed parts (3 marks and above) are all modelled** — 252 entries in `10_Chain_Bank.md`, one per topic rather than one per question, because the framings repeat and only the topic changes. **For the 608 one- and two-mark parts the mark scheme answer *is* the perfect answer** and is already in `By_Paper/`.
 
