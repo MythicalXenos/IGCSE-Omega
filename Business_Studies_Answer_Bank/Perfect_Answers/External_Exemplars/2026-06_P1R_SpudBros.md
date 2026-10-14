@@ -292,27 +292,60 @@
 |---|---|
 | Report text layer (all 48pp) | ✅ **read in full** — every `Total: N marks` verdict captured |
 | **Q1(b) · Q1(c) · Q1(d)** | ✅ 0/1 vs 1/1 pairs (secondary sector · e-commerce · State with/without context) |
+| **Q1(e) · Q1(f)** | ✅ verdicts held (1/2 vs 2/2 · 0/3 vs 3/3) |
+| **Q1(g) 6-mark Analyse** | ✅ **verified 6/6 — full transcript** (sponsorship disadvantages, PDF 11; comment PDF 12) |
+| **Q2(c) · Q2(d)** | ✅ verdicts held (0/3 vs 3/3 each) |
 | **Q2(e)** | ✅ 3/3 — the productivity Explain |
 | **Q2(f) 9-mark Justify** | ✅ **verified 8/9, full transcript** (conclusion repeats) |
-| **Q3(d) 6-mark Analyse** | ✅ 2/6 vs **6/6** + the scenario-and-stem tip |
+| **Q3(d) 6-mark Analyse** | ✅ **both scripts now transcribed** — 2/6 (PDF 29) vs **6/6** (PDF 30) + the scenario-and-stem tip |
 | **Q3(e) 9-mark Justify** | ✅ **verified 3/9 and 8/9, full transcripts** + the **two AO4 routes** |
 | **Q4(a) Calculate** | ✅ 1/2 vs 2/2 |
 | **Q4(b) 6-mark Analyse** | ✅ 3/6 vs 5/6 |
 | **Q4(c) 12-mark Evaluate** | ✅ **verified 11/12 and 6/12, full transcripts** |
-| Q1(e) · Q1(f) · Q1(g) | ⏳ pages mapped (pp. 7, 9, 11); not yet rendered |
-| Q2(a)–(d) · Q3(a)–(c) | ⏳ pages mapped (pp. 13–15, 17, 24–26) |
 
-**Seven of the paper's twenty questions now carry a verified marked script — and every question from Q3(d) onward is complete.** The remaining pages are the short-answer questions, whose verdicts are all in the text layer already.
+**Every question from Q1(g) onward now has its script read, and the four 6-mark/9-mark/12-mark questions have their full scripts transcribed verbatim.** The remaining unrendered pages are the short-answer questions (Q1(e)–(f), Q2(a)–(d), Q3(a)–(c), Q4(a)), whose verdicts are all in the text layer above.
 
+**Page map, corrected to the PDF's physical pages** (footer = PDF page − 1):
+`Q1(b) p4 · Q1(c) p5 · Q1(d) p6 · Q1(e) p8 · Q1(f) p10 · Q1(g) script p11, verdict p12 · Q2(a) p13 · Q2(b) p14 · Q2(c) p15–16 · Q2(d) p17–18 · Q2(e) p19–20 · Q2(f) p23 · Q3(a) p24 · Q3(b) p25 · Q3(c) p26–28 · Q3(d) script p29, verdict+6/6 script p30 · Q3(e) p34–36 · Q4(a) p37–38 · Q4(b) p39–40 · Q4(c) p43–46`
 
-| Item | State |
-|---|---|
-| Report text layer (all 48pp) | ✅ **read in full** |
-| Q1(b) · Q1(c) · Q1(d) · Q2(e) scripts | ✅ read (the `Total: N marks` pairs above) |
-| Q2(f) 9-mark Justify | ✅ **verified 8/9, full transcript** |
-| Q4(c) 12-mark Evaluate | ✅ **verified 11/12 and 6/12, full transcripts** |
-| Q1(e) · Q1(f) · Q1(g) · Q2(a)–(d) · Q3(a)–(e) · Q4(a)–(b) scripts | ⏳ pages mapped, not yet rendered |
-| Q3(e) second 9-mark Justify · Q3(d) Analyse | ⏳ **highest-value remaining pages: pp. 29–36** |
+---
 
-**Page map for the remainder** (this PDF, script pages are images — render at 200 dpi and read visually):
-`Q1(e) p7 · Q1(f) p9 · Q1(g) p11 · Q2(a) p13 · Q2(b) p14 · Q2(c) p15 · Q2(d) p17 · Q3(a) p24 · Q3(b) p25 · Q3(c) p26 · Q3(d) p29 · Q3(e) p32 · Q4(a) p37 · Q4(b) p39`
+# ⭐⭐⭐ TWO MORE 6/6 SCRIPTS, FOUND BY RENDERING RATHER THAN READING (14 Oct 2026)
+
+The June 2026 P1R report's **verdicts** were in this file from the first harvest — *"Total: 6 marks"* on Q1(g) and Q3(d) — but the **scripts themselves were still an unrendered page map**. They are now transcribed. Both are 6/6, and together they show the two ways a 6-mark Analyse is actually written.
+
+**Page-number caution for this report:** the PDF's footer is **one behind the physical page** — the document's own "page 28" is PDF page 29. Cite the footer number, and the physical page in brackets. (Q1(g): verdict footer 11 [PDF 12], script footer 10 [PDF 11]. Q3(d): verdict footer 29 [PDF 30], script footer 28 [PDF 29].)
+
+## 6/6 — Q1(g) · *"Analyse the disadvantages for Spud Bros of using sponsorship"* **(6)**
+
+> ⚠️ **Two expanded forms in the script are the candidate's own insertions**, written above the line with carets. They are marked here with `^…`: *"one disadvantage of the ^Preston ^UK potatoes shop sponsoring"* reads *"one disadvantage of the Preston UK potatoes shop sponsoring"*; *"if they will have to ^from ^baked ^potatoes ^take ^out ^a ^bank ^loan"* reads *"if they will have to take out a bank loan from baked potatoes"*. The carets are transcribed exactly as written so the insertions are visible rather than silently resolved.
+
+> *"One disadvantage of the ^Preston ^UK potatoes shop sponsoring for the football clubs is it will increase cost. This is because Jacob and Harley Nelson will have to pay a lot of money to have their name shown or logos shown in the jersey or stadium itself. Therefore, if the profits isn't [generated] quickly enough ^from ^baked ^potatoes ^take ^out ^a ^bank ^loan[,] Therefore the business based in Preston will be in debt.*
+>
+> *Another disadvantage of the business founded in 1955 using sponsorship is the brand image can be ruined if something bad happen. This is because the Preston North End football club's ^players weaning jersey with the potatoes — selling potatoes on it. Therefore, if ^the ^football ^team did inappropriate things customers might not want to buy from these flavoured baked potatoes stand because they are supporting it. As a result, sales will decrease for Jacob and Harley."*
+
+**Examiner comment — verbatim (the bank's existing quotation, now anchored to its page):**
+> *"This candidate shows they know comprehensively what sponsorship is and covers fully two logical disadvantages to Spud Bros, whilst showing thorough context. The context used was not only from the stem of the question but also from the scenario throughout the entirety of the answer. Total: 6 marks"* — report p. 11 [PDF 12]
+
+🔬 **Take the technique, leave the spelling.** The context is **three facts the scenario gives and the stem does not**: *"Jacob and Harley Nelson"*, *"the business founded in 1955"*, *"Preston"*. Each disadvantage is then built as **cost → who pays → what happens if it cannot be paid**, and **image → whose image in whose shirt → what customers then do → effect on sales**. Two chains, no third point, no conclusion. Note the spelling and agreement errors — *"is it will increase"*, *"if the profits isn't"*, *"if something bad happen"*, *"the business will be in debt"* for a shop — and note that **none of them costs a mark.** The examiner is scoring chains and context, not grammar. **The named owners (Jacob and Harley Nelson) are the whole trick: two words that prove the answer is about this business and no other.**
+
+## 6/6 — Q3(d) · *"Analyse the advantages for Spud Bros of using viral advertising"* **(6)**
+
+> *"By using viral advertising, it is relatively cheap and effective. This is because social media pages where Spud Bros operate on (TikTok and Instagram) is free to use. Therefore, people who follow Spud Bros may share their [posts of the hot baked potatoes] onto their accounts for a lot of more people to see. As a result, these people may be interested and go try out the potatoes, thus increasing market share and revenue.*
+>
+> *Moreover, viral advertising may efficiently increase Spud Bros' brand awareness. People outside of the UK where Spud Bros is based in may be interested in trying out the different toppings with the hot baked potatoes. As a result, these potential customers may raise cash for Spud Bros, enabling them to expand internationally into the US and Canada, thus increasing overall market share and possibly revenues."*
+
+**Examiner comment — verbatim:** *"This candidate shows they understand what viral marketing is and makes appropriate advantages **centred around cost and the increased reach of using social media platforms**. **Context is present throughout the answer** and the candidate discusses links to **Spud Bros growth plans, the nature of their business and their specific social media platforms used**. Total: 6 marks"* — report p. 29 [PDF 30]
+
+**Examiner Tip — verbatim:** *"Use the scenario, as well as the stem of the question, to reduce repetition of context."* — fits one page, on the page **after** the comment (PDF 31)
+
+🔬 **THE PAIR IS THE LESSON: same question, 2/6 and 6/6, and both answers found two viable advantages with development.** The 2/6 (transcribed in full above, PDF 29) writes *"spud Bros we viral advertising can save money… more number of people will know spud Bros and their goods… thus, spud Bros can have increase in profit."* The 6/6 writes *"social media pages where Spud Bros operate on **(TikTok and Instagram)**"* and *"expand internationally into **the US and Canada**"*.
+
+**The difference is one sentence of scenario research. Not length — the 6/6 is barely longer. Not vocabulary — the 2/6 is cleaner English.**
+
+> ### ⭐ THE 6-MARK CONTEXT LADDER, FROM THE TWO SCRIPTS SIDE BY SIDE
+> 1. *"Spud Bros"* — the name, lifted from the stem. **Worth nothing.** (This is what the 2/6 does.)
+> 2. *"Spud Bros operate on TikTok and Instagram"* — a fact from the scenario. **Unlocks AO2.**
+> 3. *"expand internationally into the US and Canada"* — a fact from the scenario that **answers the question's own growth premise**. **This is what carries the answer to 6.**
+>
+> **A 6-mark Analyse is written by finding the TWO most specific facts in the scenario and building one chain out of each.** The chain is: *fact → consequence → business effect*. Every 6/6 in this bank has that shape, and no 6/6 in this bank has anything else.

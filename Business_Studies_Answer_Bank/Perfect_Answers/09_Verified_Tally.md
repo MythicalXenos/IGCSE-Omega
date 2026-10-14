@@ -76,7 +76,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 6 MARKS — **21 scripts**
+## 6 MARKS — **23 scripts**
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
@@ -101,13 +101,15 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 19 | **Jun 2025** | P2 Q2(c) | batch production, 46 words — *Starbucks* | `02_Verified_Exemplars.md:423` |
 | 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:528` |
 | 21 | **May/Jun 2023** | **P2R Q4(b)** | continuing to plant trees — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:541` |
+| 22 | **Jun 2026** | P1R Q1(g) | sponsorship disadvantages — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:319` |
+| 23 | **Jun 2026** | P1R Q3(d) | viral advertising — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:332` |
 
 > ### ✅ THE ONE OPEN AMBIGUITY — CLOSED, 14 Oct 2026
 > The June 2019 booklets' own coverage table claimed **"6/6 × 4"** across both booklets while only **three** were enumerated above. **A fourth appeared to be missing, and the count was therefore carried as "19 confirmed, possibly 20".**
 >
 > **There is no fourth.** The booklets' headings give exactly **6/6 ×3** — Backyard Shoez Q1(g), Backyard Shoez Q4(b) and Lavender Q1(g) — and **the same table was wrong in three other places too** (it claimed `9/9 ×2` for June 2019 where there is **one**, `9` Explain exemplars where there are **8**, and `6/6 ×4` where there are **three**).
 >
-> ✅ **So: 19, confirmed. Not "possibly 20".** *(The register has since grown to **21** — two May 2023 Paper 2R scripts, rows 20–21, found by the Level-phrasing sweep recorded in `08_Completion_Map.md`.)* Verify with `python3 audit_exemplar_marks.py --all-2019`, which derives the distribution from the booklet headings themselves — **or read the correction block in `2019-06_P1_Official_Exemplar_Booklet.md`.** **The generalisable lesson: when a total disagrees with its own list, count the list. The total was typed by hand.**
+> ✅ **So: 19, confirmed. Not "possibly 20".** *(The register has since grown to **23** — two May 2023 Paper 2R scripts (rows 20–21, found by the Level-phrasing sweep) and two June 2026 Paper 1R scripts (rows 22–23, whose scripts had been recorded as verdicts but never rendered). Both growths are recorded in `08_Completion_Map.md`.)* Verify with `python3 audit_exemplar_marks.py --all-2019`, which derives the distribution from the booklet headings themselves — **or read the correction block in `2019-06_P1_Official_Exemplar_Booklet.md`.** **The generalisable lesson: when a total disagrees with its own list, count the list. The total was typed by hand.**
 
 ---
 
