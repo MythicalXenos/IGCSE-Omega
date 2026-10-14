@@ -121,6 +121,21 @@ def cited(stem: str, entry: str) -> bool:
     return False
 
 
+def phrases(a: str, b: str, n: int = 9) -> int:
+    """How many n-word sequences the two texts share VERBATIM.
+
+    The overlap score below is a bag of keywords, and for a 9-mark entry it
+    under-reports badly: the model is written on one case and quotes the other
+    blocks' own phrases, so it can share thirty-nine-word sentences with a block
+    and still score 39% on keyword overlap. A mapping that shares 11 such phrases
+    is covered; the score alone cannot say so.
+    """
+    def grams(t):
+        w = re.findall(r"[a-z0-9']+", t.lower())
+        return {" ".join(w[i:i + n]) for i in range(max(0, len(w) - n + 1))}
+    return len(grams(a) & grams(b))
+
+
 def report(entries, tier: str, pairs, floor=FLOOR):
     print("=" * 74)
     print(f"{tier} — {len(pairs)} mappings scored against the block's OFFICIAL content")
@@ -136,9 +151,11 @@ def report(entries, tier: str, pairs, floor=FLOOR):
     flagged.sort()
     print(f"  mappings PROVEN by the entry quoting the question: "
           f"{len(pairs) - len(flagged)} of {len(pairs)}")
-    print(f"\n  {'weakest 8 of the rest':<46}  overlap")
+    print(f"\n  {'weakest 8 of the rest':<46}  overlap  9-word phrases shared")
     for score, n, entry_no, head in flagged[:8]:
-        print(f"  block [{n:>3}] -> entry {entry_no:<3} {head:<58} {score:6.1%}")
+        ent = entries.get(entry_no, "")
+        shared = phrases(next((p[2] for p in pairs if p[1] == entry_no), ""), ent)
+        print(f"  block [{n:>3}] -> entry {entry_no:<3} {head:<58} {score:6.1%}   {shared:>3}")
     hard = [f for f in flagged if f[0] < floor]
     print(f"\n  below the contradiction floor ({floor:.0%}): {len(hard)}")
     for score, n, entry_no, head in hard:
@@ -155,7 +172,11 @@ def report(entries, tier: str, pairs, floor=FLOOR):
     print(f"\n  below the contradiction floor ({floor:.0%}) : {len(hard)}")
     print(f"  worth reading by hand ({FLOOR:.0%}–{WORRY:.0%}) : {len(band)}")
     for score, n, entry_no, head in band[:12]:
-        print(f"    block [{n:>3}] -> entry {entry_no:<3} {head}  {score:.1%}")
+        ent = entries.get(entry_no, "")
+        shared = phrases(next((p[2] for p in pairs if p[1] == entry_no), ""), ent)
+        verdict = "covered - shares the scheme's own phrases" if shared >= 5 else "READ THIS ONE"
+        print(f"    block [{n:>3}] -> entry {entry_no:<3} {head}  {score:.1%}  "
+              f"({shared} shared 9-word phrases) {verdict}")
     if len(band) > 12:
         print(f"    … and {len(band) - 12} more in the band")
     print()

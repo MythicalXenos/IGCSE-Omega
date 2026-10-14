@@ -449,6 +449,20 @@ The anchoring check flagged four six-mark mappings in its 30%–45% band — **b
 
 **This is the shape of a coverage claim that is technically true and practically thin.** The mapping existed; the mark-scheme content behind it did not. `verify_ms_point_coverage.py` found no absent points because it asks whether a point is **named** somewhere in the entry, not whether the entry's **model answer** uses it.
 
+### ⚠️ THE NINE-MARK BAND, AND A MEASURE THAT FINALLY FITS IT (14 Oct 2026)
+
+The same sweep over the 9-mark tier's advisory band — 8 mappings — found **three more entries that were right and thin**, and one measurement problem.
+
+| Block | The chain that was missing |
+|---|---|
+| **42** (Jimmy Choo, induction vs off-site) | **the whole induction half.** The entry's "asked three times" list named Jimmy Choo and the model covered LEGO and Irsi only. The scheme's own Jimmy Choo pair has a different shape from the other two: **both options can miss the job** — induction *"does not always benefit because they may not work in that specific department"*, and off-site *"is not guaranteed that it will match the job"* |
+| **44** (TUI, internet vs questionnaire) | the AO4s, which are the point of the pair: the internet wastes time **three ways** (*"not relevant to them or is out of date, or even places they do not offer holidays to"*) and the questionnaire **starves the sample** (*"not all customers may want to complete the questionnaires so there may be less data to use"*) |
+| **26** (NOF, questionnaires vs internet) | the AO3 the candidates miss — the internet's advantage is **cost and time**, not information (*"less time consuming /costly"*) — and both AO4s that make the named condition obvious |
+
+**All three now carry their block's chains, quoted verbatim.** Block 26's PDF is **character-fragmented** (`questionna ires`, `t o`, `feedba c k`); the quotes are repaired **by spacing only**, and the repair is machine-verified — each quote is byte-identical to the source once whitespace is removed, so no word was altered. Both blocks 42 and 44 have left the band.
+
+**Then the measurement.** Five 9-mark mappings were still reported as "worth reading by hand" at 35–43% keyword overlap — and all five share **5 to 29 nine-word sequences verbatim with their block.** Keyword overlap is a bag of words and it under-reports badly for this tier: a 9-mark entry is written on one case and **quotes the other blocks' own sentences**, so it can share half a paragraph and still score 39%. **The check now prints the verbatim 9-word-phrase count beside the overlap**, and grades the band member on that: *"covered — shares the scheme's own phrases"* or *"READ THIS ONE"*. **Proven mappings across the three tiers: 152 → 155** (six-mark 112 of 114, nine-mark 5 of 76, twelve-mark 38 of 38).
+
 ### ⚠️ TWELVE CITATIONS SENT THE READER TO THE WRONG CHAINS (14 Oct 2026)
 
 An entry's `**Also asked:**` line means *"this question is this topic; write it this way."* **Twelve citations named a **sibling** question owned by a different entry** — the Kaizen entry citing the Kraft Heinz **waste** question, the quality-**control** entry citing the quality-**service** one, the shortlisting entry citing the recruitment-**documents** ones. A student following that line would write the wrong chains.
