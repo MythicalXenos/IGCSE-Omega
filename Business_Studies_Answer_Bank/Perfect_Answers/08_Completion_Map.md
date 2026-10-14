@@ -391,6 +391,7 @@ python3 verify_rule_index.py            # rules 1-126 defined once; every citati
 python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's shape
 python3 verify_paper_coverage.py        # every governed part of every PAPER resolves to its entry
 python3 audit_er_fullmarks.py           #  23. every full-mark script the archived reports PRINT is in the register
+                                        #      + every score phrasing in use is matched, + the whole printed inventory
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -714,7 +715,21 @@ Both are now corrected, and the corrected position is stronger than either versi
 
 > ### ✅ ITEM 0 WAS THE ONLY ONE THAT WAS WORK — AND IT IS CLOSED, 14 Oct 2026
 > **All eleven May 2023 full-mark scripts are banked, transcribed in full in `External_Exemplars/2023-05_Series_Remaining_FullMarks.md` — question, mark scheme, script and examiner comment, at full fidelity.**
-> **`audit_er_fullmarks.py` now reports `33 printed / 33 banked`, and it was promoted to check 23 the moment the target could be stated as zero — it exits 1 if any archived report prints a full-mark script the register lacks.** Sabotage-tested: dropping one register row makes it fail by name. **The register reads 44 · 25 · 15 · 2 = 86.**
+> ### 🚨 AND ON THE VERY NEXT PASS THE GUARD ITSELF WAS FOUND BLIND — TO FIVE PHRASINGS, NOT ONE
+> **Check 23 reads score statements, and its grammar knew two of them:** *"This response scored N marks"* and *"Total: N marks"*. **The May 2023 Paper 2 and 2R reports state a mark a third way** — *"This is a Level 3 response – 6 marks"*, *"This response was Level 2 – 5 marks"*, *"This response only gained 1 mark"* — **and the guard could not see any of them.**
+>
+> **Scale of the blind spot: 14 printed scripts in those two reports, four of them full marks** — including the **P2R Q3(e) 9/9**, the **P2R 3(d) and 4(b) 6/6s** and the **P2 3(d) 6/6**. The guard built *because* a phrasing nobody knew had hidden eleven scripts was, one day old, itself hiding fourteen. **Fixed by enumerating the grammar rather than assuming it: every `mark(s)` line in all five reports was normalised to a digit-free shape and read, giving five families.** The run now prints which families matched, and **cross-examines the grammar with an independent oracle: every page is matched twice — once by the combined alternation, once by each family pattern on its own — and any statement the families find and the alternation misses fails the run by name.** ⚠️ **The first version of that guard compared the grammar with itself, so deleting a family changed nothing and the run still passed** — a check that cannot fail, which is this bank's oldest recorded failure mode. **Found by sabotage: the sabotage has to be aimed at the grammar, not at the family list.**
+>
+> ✅ **The four newly-visible full-mark scripts were already banked**, so the corrected count is **37 printed / 37 banked**.
+>
+> ### ⭐ AND THE FIX PAID FOR ITSELF IMMEDIATELY: THE ARCHIVE PRINTS 80 SCRIPTS FOR THE 1- AND 2-MARK TIER
+> **`09_`'s headline table said *"1- and 2-mark items: n/a — the mark scheme IS the perfect answer; Pearson publishes no scripts."* The second half of that sentence was false, and the audit now derives the proof: 80 marked scripts on 1- and 2-mark parts across the five archived reports, every one with an examiner comment** — including a **0-versus-1 pair for every single 1- and 2-mark part of June 2026 P1R**, and May 2023 printing the *same part* at 0 and at 1 side by side.
+>
+> **The mark scheme is still the perfect answer for this tier** — a model would be redundant — **but "what a 0 looks like" is the one thing a mark scheme cannot state, and that is precisely what these 80 scripts show.** 🎯 **New open work: harvest them.** They are the largest tier in the qualification (456 of 3040 marks, 12 parts per paper) and the bank holds **none** of them: the May 2023 transcripts contain **zero** one- or two-mark statements.
+>
+> **`audit_er_fullmarks.py` now also prints the full printed-script inventory** — per paper, every part, every mark printed — **so claims about what the archive prints can be cited from a derived table instead of counted by hand.** Two stale claims were corrected on the strength of it: `10_Chain_Bank.md` called the Four Fitness script *"the only 6/6 in the archive whose comment is printed"* (the archive prints **11** full-mark 6-mark Analyses) and called the Spud Bros 11/12 *"the highest-marked 12-mark script in the bank"* (the bank holds **two 12/12s**, both Paper 1 — it is the highest on a regional paper).
+>
+> **`audit_er_fullmarks.py` now reports `37 printed / 37 banked`, and it was promoted to check 23 the moment the target could be stated as zero — it exits 1 if any archived report prints a full-mark script the register lacks.** Sabotage-tested: dropping one register row makes it fail by name. **The register reads 44 · 25 · 15 · 2 = 86.**
 >
 > **⚠️ Two systematic defects died with it, and both would have swallowed the next batch too.** (1) **Every sweep the bank owned searched for a *level* phrasing** — *"This response **is** a Level 3"*, *"gained a Level 3"*, *"was Level 3"* — while May 2023 states the mark as **`This response scored N marks.`**, a **fourth phrasing no catalogue held.** The permanent cure is the audit: it reads the reports' **score lines**, not a phrase list, so a fifth phrasing cannot hide. (2) **The stated-totals check walked `Perfect_Answers/` alone**, so the top-level README — which quotes the register — was outside every automated sweep. **Widened to the whole answer bank; it immediately found one stale total there and now scans 29 claims.**
 

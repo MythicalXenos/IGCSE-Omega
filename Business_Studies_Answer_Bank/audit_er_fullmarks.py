@@ -22,9 +22,10 @@ HOW IT WORKS
 ------------
 1. Reads all five 4BS1 examiner reports in the local archive.
 2. Walks each page's text in reading order, tracking the most recent
-   `Question N (x)` heading, and records every mark statement:
-   `This response scored N marks`, `This response was awarded N marks`,
-   `This response gained N marks`, `Total: N marks`.
+   `Question N (x)` heading, and records every mark statement in any of the
+   five phrasings these reports use - see the score grammar below, which was
+   built by normalising every `mark(s)` line in all five reports rather than
+   by listing the phrasings the bank happened to have seen.
 3. Decides FULL MARKS by the invariant question skeleton — 1(f) 3 · 1(g) 6 ·
    2(c) 3 · 2(d) 3 · 2(e) 3 · 2(f) 9 · 3(d) 6 · 3(e) 9 · 4(b) 6 · 4(c) 12 — so
    "scored 6" on a 9-mark Justify is correctly read as a near-miss.
@@ -38,9 +39,10 @@ score is stated in yet another phrasing. **Zero unbanked means "no un-banked
 full-mark script the text layer can prove", not "no un-banked script".**
 
 Run from Business_Studies_Answer_Bank/:  python3 audit_er_fullmarks.py
-It is a REPORT, not a pass/fail check: it exits 0 while it is printing findings,
-and it exits 1 only if the register cannot be parsed at all. **When every printed
-full-mark script is banked, this becomes check 23 and the target is zero.**
+**Check 23.** It exits 1 if (a) any printed full-mark script is missing from the
+register, or (b) any score phrasing the archive USES is not matched by the
+grammar - cross-examined by an independent oracle, because the first version of
+that guard compared the grammar with itself and could not fail.
 """
 from __future__ import annotations
 import collections
@@ -60,22 +62,75 @@ TARIFF = {"1f": 3, "1g": 6, "2c": 3, "2d": 3, "2e": 3, "2f": 9,
           "3d": 6, "3e": 9, "4b": 6, "4c": 12}
 
 QHEAD = re.compile(r"Question\s*(\d)\s*\((\w)\)", re.I)
-STATEMENT = re.compile(r"(?:This response (?:scored|was awarded|gained)\s*(\d+)\s*marks?"
-                       r"|Total:\s*(\d+)\s*marks?)", re.I)
+
+# ---------------------------------------------------------------------------
+# THE SCORE GRAMMAR. There are FIVE ways these reports state a script's mark,
+# and this list was built by normalising every "mark(s)" line in all five
+# reports to a digit-free shape and reading the result - not by guessing.
+#
+#   1  This response scored N marks.              May 2023 P1/P1R, P2      (96)
+#   2  Total: N marks                             June 2026 P1R            (39)
+#   3  This is a Level N response - N marks.      May 2023 P2R only        ( 8)
+#   4  This response [is|was|gained] [a] Level N - N marks.  May 2023 P2/P2R (10)
+#   5  This response only gained N mark.          May 2023 P2              ( 2)
+#   6  N marks awarded                            June 2025 style          ( 0)
+#
+# ⚠️ FAMILY 3 AND 4 WERE INVISIBLE TO THE FIRST VERSION OF THIS SCRIPT, which
+# knew forms 1 and 2 only. That is fourteen printed May 2023 Paper 2 / 2R
+# scripts - four of them full marks - that the bank's guard against unbanked
+# full-mark scripts could not see. The guard was written BECAUSE a phrasing no
+# sweep knew had hidden eleven scripts; two days later it had a phrasing no
+# guard knew of its own. **Extend the grammar, never the assumption.**
+#
+# Every alternative ends in the score group, so the mark is the LAST matched
+# group. `marks?` covers the singular used on 1- and 2-mark questions.
+# ---------------------------------------------------------------------------
+FAMILIES = [
+    ("scored",      r"This response (?:scored|was awarded|gained)\s*(\d+)\s*marks?"),
+    ("total",       r"Total:\s*(\d+)\s*marks?"),
+    ("is-a-level",  r"This (?:is|was) (?:a )?Level\s*\d+\s*response\s*[\u2013\u2014-]\s*(\d+)\s*marks?"),
+    ("only-gained", r"This response only gained\s*(\d+)\s*marks?"),
+    ("was-level",   r"This response (?:is|was|gained)\s*(?:a\s+)?Level\s*\d+\s*[\u2013\u2014-]\s*(\d+)\s*marks?"),
+    ("awarded",     r"(\d+)\s*marks? awarded"),
+]
+STATEMENT = re.compile("|".join(f"(?:{p})" for _n, p in FAMILIES), re.I)
+# ⚠️ THE ORACLE IS THE GUARD, AND IT MUST BE INDEPENDENT OF THE GRAMMAR.
+# The first version of this coverage check compared the FAMILIES list with
+# itself: every family in the alternation obviously matches, so deleting a
+# family from STATEMENT changed nothing and the run still passed - a check
+# that cannot fail, which is this bank's oldest recorded failure mode.
+# So the scan is cross-examined: every page is matched TWICE, once by the
+# combined alternation and once by each family pattern on its own. Any position
+# the families find and the alternation misses is a family that has been
+# dropped from the grammar, and it fails by name.
+ORACLE = [(name, re.compile(pat, re.I)) for name, pat in FAMILIES]
+
 # file-name session -> the register's own wording for that series
 SERIES = {"May_2023": "2023", "June_2026": "2026", "May-June_2019": "2019",
           "May-June_2020": "2020", "May-June_2021": "2021", "May-June_2022": "2022",
           "May-June_2024": "2024", "May-June_2025": "2025"}
 
 
+def grammar_gap(page_text: str):
+    """Families that match this page but whose matches the grammar misses."""
+    have = {m.start() for m in STATEMENT.finditer(page_text)}
+    missing = collections.Counter()
+    for name, rx in ORACLE:
+        for m in rx.finditer(page_text):
+            if m.start() not in have:
+                missing[name] += 1
+    return missing
+
+
 def scan_report(path: pathlib.Path):
     """Every mark statement in reading order, with the question it belongs to."""
     doc = pymupdf.open(path)
-    current, found = None, []
+    current, found, gaps = None, [], collections.Counter()
     for page_no, page in enumerate(doc, 1):
         text = page.get_text()
         events = ([(m.start(), "Q", (m.group(1), m.group(2).lower())) for m in QHEAD.finditer(text)]
-                  + [(m.start(), "S", int(m.group(1) or m.group(2))) for m in STATEMENT.finditer(text)])
+                  + [(m.start(), "S", int([g for g in m.groups() if g][-1])) for m in STATEMENT.finditer(text)])
+        gaps.update(grammar_gap(text))
         for _pos, kind, value in sorted(events):
             if kind == "Q":
                 current = value
@@ -83,7 +138,7 @@ def scan_report(path: pathlib.Path):
                 part = f"{current[0]}{current[1]}"
                 full = TARIFF.get(part) == value
                 found.append({"page": page_no, "part": part, "mark": value, "full": full})
-    return found
+    return found, gaps
 
 
 def register_parts():
@@ -128,18 +183,27 @@ def main() -> int:
     print("=" * 78)
 
     all_unbanked, total_printed, total_banked = [], 0, 0
+    phrasing_seen = collections.Counter()
+    grammar_gaps = collections.Counter()
+    inventory = collections.defaultdict(list)
     for pdf in sorted(ARCHIVE.glob("*/*ER.pdf")):
-        found = scan_report(pdf)
+        found, gaps = scan_report(pdf)
         fulls = [f for f in found if f["full"]]
         year = SERIES.get(pdf.parent.name, "")
         paper = "P" + pdf.stem.split("_")[-2].replace("P", "")  # ..._P1R_ER -> P1R
         printed = collections.Counter(f["part"] for f in fulls)
+        for f in found:
+            inventory[(year, paper)].append((f["part"], f["mark"]))
         pages = collections.defaultdict(list)
         for f in fulls:
             pages[f["part"]].append(f["page"])
+        text = "".join(pg.get_text() for pg in pymupdf.open(pdf))
+        phrasing_seen.update(name for name, rx in ORACLE if rx.search(text))
+        grammar_gaps.update(gaps)
         print()
         print(f"  {pdf.name}")
-        print(f"    mark statements: {len(found)}   FULL MARK: {len(fulls)}")
+        print(f"    mark statements: {len(found)}   FULL MARK: {len(fulls)}"
+              f"   phrasings used: {', '.join(sorted(name for name, rx in ORACLE if rx.search(text))) or 'NONE'}")
         for part, count in sorted(printed.items()):
             tier = f"{TARIFF[part]}/{TARIFF[part]}"
             banked = reg.get((year, tier, paper, part), 0)
@@ -151,6 +215,52 @@ def main() -> int:
             if banked < count:
                 all_unbanked.append((pdf.parent.name, paper, part, tier, count - banked,
                                      pages[part]))
+
+    # ---------------------------------------------------------------------
+    # PHRASING COVERAGE. The grammar above has five families and they are not
+    # decorative: family 3 and 4 exist ONLY in the May 2023 Paper 2 and 2R
+    # reports. A future edit that drops one of those alternatives would take
+    # fourteen printed scripts out of the guard's view and the run would still
+    # say "no gap". So every family that the archive USES must MATCH.
+    # ---------------------------------------------------------------------
+    print()
+    print("=" * 78)
+    print("PHRASING COVERAGE — every score phrasing the archive uses must be matched")
+    print("=" * 78)
+    for name, _rx in FAMILIES:
+        used = phrasing_seen[name]
+        gap = grammar_gaps[name]
+        flag = "GAP " if gap else ("ok  " if used else "—   ")
+        print(f"  {flag} {name:<12} present in {used} report(s)"
+              f"   missed by the grammar: {gap}")
+    missing = set(grammar_gaps)
+    if missing:
+        print()
+        print(f"  FAIL — these phrasings are IN the reports and the score grammar")
+        print(f"         does not match them: {', '.join(sorted(missing))}")
+        print("         A family dropped from STATEMENT makes printed scripts")
+        print("         invisible to this guard. Restore it; do not lower the bar.")
+
+    print()
+    print("=" * 78)
+    print("WHAT THE FIVE REPORTS PRINT — every score statement, by paper")
+    print("=" * 78)
+    for (year, paper), items in sorted(inventory.items()):
+        by_part = collections.defaultdict(list)
+        for part, mark in items:
+            by_part[part].append(mark)
+        full = sum(1 for p_, mk in items if TARIFF.get(p_) == mk)
+        print(f"  {year} {paper:<4} {len(items):>3} scripts printed, {full:>2} at full marks")
+        for part in sorted(by_part, key=lambda x: (x[0], x[1])):
+            tier = TARIFF.get(part)
+            marks = sorted(by_part[part])
+            note = f"{tier}/{tier}" if tier else "—"
+            flag = "" if (tier and tier in marks) else (" " if tier else "")
+            print(f"      {part:<3} {note:<6} {str(marks):<22}{flag}")
+    print()
+    print("  ⚠️ This inventory is the fact base for claims about what the archive")
+    print("     PRINTS. Cite it instead of counting by hand.")
+    print()
 
     print()
     print("=" * 78)
@@ -164,8 +274,9 @@ def main() -> int:
     print()
     print(f"  printed full-mark scripts: {total_printed}   matched in the register: {total_banked}")
     print()
-    if not all_unbanked:
-        print("RESULT: no gap the text layer can prove.")
+    if not all_unbanked and not missing:
+        print("RESULT: no gap the text layer can prove, and every phrasing the")
+        print("        archive uses is matched.")
         return 0
 
     # ======================================================================

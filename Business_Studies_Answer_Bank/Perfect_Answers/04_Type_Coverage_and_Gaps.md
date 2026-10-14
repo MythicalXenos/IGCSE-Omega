@@ -151,7 +151,7 @@ What it does contain:
 
 - A **`[VERIFIED CANDIDATE EXEMPLAR]`** tells you *"this exact script got this exact mark"*. Trust it as evidence of the standard.
 - A **`[CONSTRUCTED GRADE 9 TARGET]`** tells you *"this is engineered to satisfy the mark scheme"*. It is a target, not proof, and **no score is ever claimed for one.** These **are** in this build: the constructed models in `10_Chain_Bank.md` and `05_Constructed_12mark_Models.md` carry the label. *(This line used to say "None appear in this build", written before they were written — the fourth stale claim of the Layer D audit.)*
-- For **1- and 2-mark items**, ignore exemplars entirely and go to the mark scheme — the MS *is* the perfect answer.
+- For **1- and 2-mark items**, go to the mark scheme first — the MS *is* the perfect answer, **so no model is needed**. ⚠️ **But do not skip the reports: they print marked scripts for this tier too** — **80 across the five archived reports, each with an examiner comment**, including **0-versus-1 pairs for every 1- and 2-mark part of June 2026 P1R** and, in May 2023, the same part printed at **0 and at 1** side by side. **What a 0 looks like is the one thing the mark scheme cannot tell you** — and it is the whole reason these are worth reading. *(Derived by `audit_er_fullmarks.py`.)*
 - The mark scheme is always primary for accepted content. Examiner reports and exemplars show how the criteria are *applied*; they are not the only valid wording. The mark schemes repeatedly state: *"Accept any other appropriate response."*
 
 ## Rebuilding and extending
