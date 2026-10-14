@@ -126,6 +126,72 @@ def scan(heading_only=True):
     return out
 
 
+# ==============================================================================
+# CITATION AGREEMENT — the file a row cites must belong to the session the row
+# names. Added 14 Oct 2026, after the eleven May 2023 scripts were banked: a
+# probe asked whether ANY check would notice a register row whose stated session
+# disagreed with the file it cites, and only audit_er_fullmarks.py did - and it
+# only looks at five reports. A row reading "Jun 2024" while pointing into a
+# 2023-05 file would have passed every one of the other twenty-two checks.
+#
+# ⚠️ THE MONTH RULE IS DELIBERATELY LOOSE, AND HERE IS WHY. Pearson runs one
+# "May/June" series and the archive folder names it May_2023 while the register
+# names it Jun 2023 - both are correct names for the same series, so a probe
+# that demanded an exact month match reported 14 false mismatches, every one of
+# them in the May 2023 files. May and June are therefore the same session here;
+# any other month difference, or any year difference, is a real disagreement.
+#
+# The paper rule only fires where both sides state a paper: the row ("P2R Q1(f)")
+# and the enclosing level-1 section of the cited file ("# PAPER 2R"). A row is
+# never failed for citing a file that does not section its scripts by paper.
+# ==============================================================================
+CITE_DATE = re.compile(r"(20\d\d)-(\d\d)(?!\d)")
+CITE_SESSION = re.compile(r"\b(May/Jun|Jun|May|Nov|Jan)\s*(20\d\d)\b")
+CITE_PART = re.compile(r"\bP(\d)(R?)\s*Q\s*(\d)\s*\(\s*([a-z])\s*\)")
+CITE_PAPER_SECTION = re.compile(r"^#\s+PAPER\s+(\d)(R?)\b")
+SERIES_MONTHS = {"05": "mayjune", "06": "mayjune", "01": "jan", "11": "nov"}
+
+
+def citation_agreement(rows):
+    """[(severity, message)] for every row whose citation contradicts the row."""
+    out, seen_ses, seen_paper = [], 0, 0
+    for tariff, label, f, ln in rows:
+        path = ROOT / f
+        if not path.exists():
+            hits = list(ROOT.rglob(f))
+            if not hits:
+                continue
+            path = hits[0]
+
+        sm = CITE_SESSION.search(label)
+        dm = CITE_DATE.search(path.name)
+        if sm and dm:
+            seen_ses += 1
+            want_m = {"Jan": "01", "May": "05", "Jun": "06", "Nov": "11"}.get(sm.group(1), "")
+            same_series = sm.group(1) == "May/Jun" or SERIES_MONTHS.get(dm.group(2)) == SERIES_MONTHS.get(want_m)
+            if sm.group(2) != dm.group(1) or not same_series:
+                out.append(("session",
+                            f"{f} — row {ln} says {sm.group(0)} but cites {path.name} "
+                            f"({dm.group(0)})"))
+
+        pm = CITE_PART.search(label)
+        if pm:
+            lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+            section = None
+            for line in reversed(lines[: max(0, ln - 1)]):
+                sec = CITE_PAPER_SECTION.match(line)
+                if sec:
+                    section = (sec.group(1), sec.group(2))
+                    break
+            if section:
+                seen_paper += 1
+                if section != (pm.group(1), pm.group(2)):
+                    out.append(("paper",
+                                f"{f} — row {ln} says P{pm.group(1)}{pm.group(2)} "
+                                f"but the script sits under PAPER {section[0]}{section[1]}"))
+    return out, seen_ses, seen_paper
+
+
 def main():
     rows = parse_register()
     bad = resolve(rows)
@@ -360,6 +426,24 @@ def main():
         print(f"    !! {rel}:{i}  {txt}")
         print(f"       {why}")
         stated_bad.append(f"{rel}:{i} states a full mark that no register row cites: {txt[:60]}")
+
+    print()
+    print("=" * 78)
+    print("CITATION AGREEMENT — the session and paper a row names vs the file it cites")
+    print("=" * 78)
+    cite_bad, seen_ses, seen_paper = citation_agreement(rows)
+    print(f"  rows whose session was checked against a dated filename : {seen_ses}")
+    print(f"  rows whose paper was checked against a PAPER section    : {seen_paper}")
+    if seen_ses == 0 or seen_paper == 0:
+        print("  ⚠️ one of those counts is zero — THAT IS THE PARSER FAILING, not the bank.")
+        cite_bad.append(("parser", "the citation-agreement check parsed nothing"))
+    for kind, msg in cite_bad:
+        print(f"  FAIL {kind}: {msg}")
+    if not cite_bad:
+        print("  every dated citation is from the session its row names, and every papered one")
+        print("  sits under the PAPER section its row names.")
+    for kind, msg in cite_bad:
+        stated_bad.append(f"citation disagrees with its row — {msg}")
 
     print()
     print("=" * 78)
