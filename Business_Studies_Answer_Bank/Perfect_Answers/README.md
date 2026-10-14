@@ -21,30 +21,30 @@ Every answer in this bank carries exactly one label:
 
 | Label | Meaning | What guarantees it |
 |---|---|---|
-| **`[VERIFIED CANDIDATE EXEMPLAR]`** | A real student's script, reproduced by Pearson, with the mark Pearson awarded stated in the official document. | Session, paper, question, score and report page are all named. |
-| **`[CONSTRUCTED GRADE 9 TARGET]`** | A model engineered from the QP, mark scheme and examiner-report guidance. | **Not** an official script. **Not** examiner-marked. It is a target, not evidence. |
+| **`[VERIFIED CANDIDATE EXEMPLAR]`** | A real student's script, reproduced by Pearson, with the mark Pearson awarded stated in the official document. | Session, paper, question, score and report page are all named, and `tally_exemplars.py` proves every register row resolves to a real `file:line` and a real mark token. |
+| **`[OFFICIAL MARK-SCHEME WORKED ANSWER]`** | **Pearson's own indicative content, quoted verbatim, carrying the scheme's own `(1)(1)(1)` allocation** — the answer the mark scheme itself prints as acceptable for full marks. | Official words, official allocation. **Not a candidate script and not examiner-marked** — no student wrote it. |
+| **`[CONSTRUCTED GRADE 9 TARGET]`** | A model engineered from the QP, mark scheme and examiner-report guidance. | **Not** an official script. **Not** examiner-marked. It is a target, not evidence. **No score is ever claimed for it.** |
 
-Constructed answers are never described in this bank as "official", "a real student script", or "examiner-marked".
+Three labels, because there are three kinds of source. Constructed answers are never described in this bank as "official", "a real student script", or "examiner-marked" — and `verify_chain_bank_anchors.py` **fails if any model answer is unlabelled**, which it did on 14 October 2026 for 49 entries that had been covered only by a batch heading.
 
 ## Coverage at a glance
 
-Across the 38 archived 4BS1 question papers there are **696 individual mark items**:
+**The whole qualification, derived from its 38 mark schemes:** 988 parts worth 3,040 marks, and **every one of the 38 papers sums to exactly 80**.
 
-| Marks | Type | Count | Verified full-mark exemplar? |
+| Marks | Parts | Where it sits | Verified full-mark exemplars held |
 |---|---|---|---|
-| 1 | MCQ / selection | 147 | — (answer key only) |
-| 1 | Define | 91 | — (MS wording) |
-| 1 | State / identify | 82 | — (MS wording) |
-| 1 | Numerical / other | 8 | — (MS wording) |
-| 2 | Calculate | 72 | — (MS worked figures) |
-| 2 | Outline one | 30 | — |
-| 2 | State / identify | 4 | — |
-| 3 | Explain one | 111 | ✅ **3/3, twice** |
-| 6 | Analyse / assess | 86 | ✅ **6/6, three times** |
-| 9 | Justify a choice | 48 | ✅ **9/9** |
-| 12 | Evaluate | 17 | ✅ **12/12** |
+| **1** | **456** | MCQ · define · state · identify | — *the mark scheme answer IS the perfect answer* |
+| **2** | **152** | calculate one figure · outline one | — *same* |
+| **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **4 × 3/3**, each with its 0/3 counterpart |
+| **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **23 × 6/6** |
+| **9** | **76** | 2(f) · 3(e) | ✅ **15 × 9/9** |
+| **12** | **38** | 4(c) | ✅ **2 × 12/12** |
+| **TOTAL** | **988** | 26 parts / 80 marks per paper | **44 verified full-mark scripts** |
 
-The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the overwhelming majority of the marks that separate a grade 7 from a grade 9) all have verified full-mark exemplars. See `04_Type_Coverage_and_Gaps.md` for exactly what is and is not covered.
+**The 380 governed parts (3 marks and above) are all modelled** — 252 entries in `10_Chain_Bank.md`, one per topic rather than one per question, because the framings repeat and only the topic changes. **For the 608 one- and two-mark parts the mark scheme answer *is* the perfect answer** and is already in `By_Paper/`.
+
+> ### ⚠️ THIS TABLE PREVIOUSLY CARRIED WITHDRAWN NUMBERS
+> It used to show **696 items** with **111 / 86 / 48 / 17** in the governed tiers and a register of *"3/3 twice · 6/6 three times · 9/9 · 12/12"*. **Both sets came from a question-paper extraction that under-detects, and the exemplar column had drifted as scripts were harvested.** The counts above are the ones `build_layer_c_tariffs.py` prints from the mark schemes, and the exemplar column is the register `tally_exemplars.py` verifies. **`verify_coverage_claims.py` fails if any stated total in this bank disagrees with the register.**
 
 ## Files
 
@@ -60,6 +60,9 @@ The four high-value tariffs (3, 6, 9, 12 marks = **262 of 696 items**, and the o
 | `04_Type_Coverage_and_Gaps.md` | The complete item taxonomy, and an honest statement of what this bank does not contain. |
 | `05_Constructed_12mark_Models.md` | `[CONSTRUCTED GRADE 9 TARGET]` models for 12-mark evaluations (batch 1: the six most recent sessions). |
 | `06_External_Source_Library.md` | Web-harvested Pearson examiner reports: further `[VERIFIED CANDIDATE EXEMPLAR]` scripts, the full source catalogue, and collected examiner rules. |
+| **`10_Chain_Bank.md`** | ⭐⭐ **THE MODELS.** 252 entries — a full-mark-shaped answer for every governed topic in the qualification, plus the scaffolds (entry 228 = the universal 12-mark shape, 175 = the universal 9-mark shape). **This is where you look up a question you have been set.** |
+| **`08_Completion_Map.md`** | ⭐ **What "complete" means here, what is finished, and the five things that are not** — each one a fact about what Pearson publishes. Also the full list of the bank's checks. |
+| **`09_Verified_Tally.md`** | The per-script register: one row per verified full-mark script, citing file and line. Counts are a property of the register, never hand-typed. |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
 | `../build_perfect_answers.py` | Rebuilds the `By_Paper/` bank from the mark scheme text index. |
 
@@ -86,7 +89,9 @@ When guidance conflicts, trust in this order:
 >
 > **The lesson is sharper than "counts drift", and it has two halves.** **First: a check that only sums marks cannot see a six-for-one substitution** — the old reality check, *does this paper total 80?*, was satisfied by a file that had lost five questions **and** was satisfied on both 2024 papers. **Second: a file can be internally consistent and still be wrong.** `By_Paper/`'s headers agreed with its own headings, in all 38 files; agreement between a document and itself is not evidence. **What broke the deadlock was an INDEPENDENT count** — the tariff table derived from the mark schemes by `build_layer_c_tariffs.py`, which says how many parts of each tariff a paper must have.
 
-**Layer 2 — constructed models (in progress).** Assembling that official content into full-mark-shaped responses. Priority order: 12-mark (38 items) → 9-mark (76) → 6-mark (116) → 3-mark (152). Batch 1 covers six 12-mark questions; see `05_Constructed_12mark_Models.md` for what remains.
+**Layer 2 — constructed models (complete).** The official content assembled into full-mark-shaped responses: **252 entries covering all 380 governed parts**, held in `10_Chain_Bank.md` and checked by `verify_model_shape.py` against the shape each tariff requires — a mechanism step on 3-mark, developed strands on 6-mark, a **named condition** on 9-mark, and a woven judgement on 12-mark.
+
+**Everything in this bank is verified by 21 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
 
 ## Sources
 
