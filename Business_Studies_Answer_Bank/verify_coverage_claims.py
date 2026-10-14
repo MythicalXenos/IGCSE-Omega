@@ -127,17 +127,29 @@ def label_claims():
     for f in sorted(BANK.rglob("*.md")):
         text = f.read_text(encoding="utf-8", errors="replace")
         for line in text.splitlines():
-            tier = None
+            tier, pos = None, None
             m = re.search(r"\b(\d+)/9\b", line)
             if m:
-                tier = 9
-            if re.search(r"\b(\d+)/12\b", line):
-                tier = 12
-            elif re.search(r"\b(\d+)/6\b", line):
-                tier = 6
+                tier, pos = 9, m.start()
+            m = re.search(r"\b(\d+)/12\b", line)
+            if m:
+                tier, pos = 12, m.start()
+            else:
+                m = re.search(r"\b(\d+)/6\b", line)
+                if m:
+                    tier, pos = 6, m.start()
             if tier is None:
                 continue
-            if not re.search(r"held|none|no verified|best held|gap", line, re.I):
+            # THE CUE MUST SIT NEXT TO THE NUMBER, not anywhere on the line.
+            # This filter began as a whole-line search, and a 900-character
+            # paragraph of prose can contain both an "N/6" and, hundreds of
+            # characters away, an unrelated "held" - which is exactly how a
+            # true sentence about a layout trap was reported as claiming a
+            # 6-mark full mark for a 3-mark question. 120 characters keeps
+            # every real claim, because a real one is written as a phrase
+            # ("no verified 9/9 for Paper 2R", "the best held is 11/12").
+            cue = re.search(r"held|none|no verified|best held|gap", line, re.I)
+            if not cue or not (pos - 120 <= cue.start() <= pos + 120):
                 continue
             for c in CLAIM_CITE.finditer(line):
                 out.append((f.relative_to(BANK), tier, c.group(1).upper(),
@@ -279,7 +291,12 @@ def main() -> int:
     for (tier, _paper), n in counts.items():
         total[tier] += n
     total_claims, total_bad = 0, []
-    for f in sorted(BANK.rglob("*.md")):
+    # SCAN THE WHOLE ANSWER BANK, NOT ONLY Perfect_Answers/. The register is
+    # quoted in the top-level README too, and this section originally walked
+    # Perfect_Answers/ alone - so a stale total in a README that no check
+    # covered would have survived every run. Found while sweeping the totals
+    # after the May 2023 scripts were banked.
+    for f in sorted(BANK.parent.rglob("*.md")):
         text = f.read_text(encoding="utf-8", errors="replace")
         for i, line in enumerate(text.splitlines(), 1):
             for m in re.finditer(r"(?<![\d/])(\d+)\s*[x\u00d7]\s*(3|6|9|12)/(?:3|6|9|12)\b", line):

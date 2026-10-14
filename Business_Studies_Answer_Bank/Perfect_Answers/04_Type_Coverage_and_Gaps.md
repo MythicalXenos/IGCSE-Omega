@@ -88,7 +88,7 @@ On every paper (80 marks total), the tariff breakdown is **exactly this — deri
 
 | Tariff | Type | Verified exemplar | Score |
 |---|---|---|---|
-| 3 | Explain one | **35 scripts, June 2019 → June 2026** — e.g. Jun 2019 P1 Q1(f) gross profit margin · Jun 2022 P1 Q2(c) flat structure · Jun 2023 P2 Q2(c) cash flow forecasting (×2) · Jun 2024 P2 Q2(e) job-advert information (×2) · **Jun 2026 P1R ×4, each with its 0/3 on the facing page** | **3/3 ×35** |
+| 3 | Explain one | **44 scripts, June 2019 → June 2026** — e.g. Jun 2019 P1 Q1(f) gross profit margin · Jun 2022 P1 Q2(c) flat structure · Jun 2023 P2 Q2(c) cash flow forecasting (×2) · Jun 2024 P2 Q2(e) job-advert information (×2) · **Jun 2026 P1R ×4, each with its 0/3 on the facing page** | **3/3 ×35** |
 | 6 | Analyse | June 2019 P1 Q1(g) — satisfying customer needs | **6/6** |
 | 6 | Analyse | June 2019 P1 Q4(b) — usefulness of profitability ratios | **6/6** |
 | 6 | Analyse | June 2019 P1R Q1(g) — customer satisfaction | **6/6** |

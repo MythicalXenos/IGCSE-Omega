@@ -164,9 +164,40 @@ def main() -> int:
     print()
     print(f"  printed full-mark scripts: {total_printed}   matched in the register: {total_banked}")
     print()
-    print("RESULT:", "no gap the text layer can prove." if not all_unbanked
-          else f"{sum(u[4] for u in all_unbanked)} script(s) to bank — THIS IS A FINDING, not a failure.")
-    return 0
+    if not all_unbanked:
+        print("RESULT: no gap the text layer can prove.")
+        return 0
+
+    # ======================================================================
+    # THIS SCRIPT USED TO EXIT 0 WHILE IT FOUND GAPS. It reported the eleven
+    # May 2023 full-mark scripts for two runs without ever failing the suite,
+    # because it was written as a report and every sweep that read it treated
+    # "found something" as information. Twelve checks in this bank had already
+    # been taught the opposite lesson — a check that cannot fail is not a
+    # check. Promoted to check 23 on 14 Oct 2026, once the gap it named was
+    # closed and the target could be stated as zero.
+    #
+    # If this now fails, the run is telling you an archived examiner report
+    # PRINTS a full-mark script the register does not hold. Bank it: transcribe
+    # the question, the mark scheme, the script and the examiner comment into
+    # External_Exemplars/, add the register row with a heading citation within
+    # eight lines, and re-run. Do not lower the expectation — Pearson printing
+    # a script is proof that the script exists.
+    # ======================================================================
+    print()
+    print("=" * 78)
+    print("FAIL — ARCHIVED EXAMINER REPORTS PRINT FULL-MARK SCRIPTS THE REGISTER LACKS")
+    print("=" * 78)
+    for series, paper, part, tier, n, pages in all_unbanked:
+        print(f"  {series} {paper} {part} ({tier}) — {n} script(s) printed, not banked"
+              f"   [report p. {', '.join(str(p) for p in pages)}]")
+    print()
+    print(f"  {sum(u[4] for u in all_unbanked)} script(s) to bank.")
+    print()
+    print("  Each one is a script Pearson awarded FULL marks to, printed in a report")
+    print("  the archive already holds. Transcribe it into External_Exemplars/ and")
+    print("  register it — see the note above this block for the procedure.")
+    return 1
 
 
 if __name__ == "__main__":

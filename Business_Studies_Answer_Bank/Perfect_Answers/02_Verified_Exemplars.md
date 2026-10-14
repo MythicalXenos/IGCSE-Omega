@@ -796,7 +796,7 @@ May/June 2023 printed **FIVE** full-mark Justify answers — **P1 Q2(f)** (batch
 
 ## ⭐⭐⭐⭐⭐ THE NAMED CONDITION — why some evaluations score and others do not
 
-The bank now holds **thirty-five verified 3/3 Explain scripts** *(see `09_` — 31 of them went uncounted until 14 Oct 2026)*, **fifteen verbatim 9/9 Justify scripts** and **two 12/12s** *(was fourteen until the June 2025 P2R Rabanne script was banked — the count is re-derived, never remembered)*, plus every below-full-mark verdict. **Counts in this file are derived — run `../tally_exemplars.py`. See `09_Verified_Tally.md`.** Side by side, one mechanism decides the mark.
+The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 40 of them went uncounted until 14 Oct 2026)*, **fifteen verbatim 9/9 Justify scripts** and **two 12/12s** *(was fourteen until the June 2025 P2R Rabanne script was banked — the count is re-derived, never remembered)*, plus every below-full-mark verdict. **Counts in this file are derived — run `../tally_exemplars.py`. See `09_Verified_Tally.md`.** Side by side, one mechanism decides the mark.
 
 | Mark | The candidate's evaluation | Condition named? |
 |---|---|---|

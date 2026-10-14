@@ -114,10 +114,10 @@ Currently held (verbatim, with award):
 
 | Type | Tariff | Best verified |
 |---|---|---|
-| **Analyse** | 6 | **23 × 6/6** — per-script register, `09_Verified_Tally.md` (19 at the start of 14 Oct 2026) |
+| **Analyse** | 6 | **25 × 6/6** — per-script register, `09_Verified_Tally.md` (19 at the start of 14 Oct 2026) |
 | **Justify** | 9 | **15 × 9/9** — per-script register, `09_Verified_Tally.md` |
 | **Evaluate** | 12 | **2 × 12/12** (Jun 2024 P1 PPS · May 2023 P1 Irsi) · 11/12 (Spud Bros) |
-| **Explain** | 3 | **35 × 3/3**, Jun 2019 → Jun 2026. **The four June 2026 P1R scripts each carry their 0/3 counterpart on the facing page** — the only place a full-mark 3-marker and a zero sit side by side |
+| **Explain** | 3 | **44 × 3/3**, Jun 2019 → Jun 2026. **The four June 2026 P1R scripts each carry their 0/3 counterpart on the facing page** — the only place a full-mark 3-marker and a zero sit side by side |
 | **Calculate** | 2 | 2/2 with the d.p. rule |
 | **State / Define** | 1 | 1/1 vs 0/1 pairs |
 | **Outline** | 2 | 2/2 |
@@ -362,7 +362,7 @@ REMAINING                :    0 topics  ·    0 blocks
 
 ## 🔍 HOW TO VERIFY THIS BANK — every check, in one place
 
-**Twenty-one checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+**Twenty-three checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
 
 > **A check that prints OK while parsing nothing is the failure mode this bank has hit three times** (`verify_stem_quotes.py` v1 compared 0 citations, a tier was never loaded so no 3-mark citation could resolve, and a near-empty parse sat inside a green run). **Every check that reads text therefore prints how many items it SAW, and the ones that can count their own input fail when that count is implausibly low.** Read the count, not just the RESULT line.
 
@@ -379,7 +379,7 @@ python3 layer_c_coverage.py             # 152/152 three-mark coverage
 python3 layer_c_6mark_coverage.py       # 114/114 coverage   (tier coverage checks)
 python3 layer_c_9mark_coverage.py       #  76/76 coverage
 python3 layer_c_12mark_coverage.py      #  38/38 coverage
-python3 tally_exemplars.py              # 35 x 3/3 - 23 x 6/6 - 15 x 9/9 - 2 x 12/12 = 75
+python3 tally_exemplars.py              # 44 x 3/3 - 25 x 6/6 - 15 x 9/9 - 2 x 12/12 = 86
 python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
 python3 verify_collision_cluster.py     # the collision table's total is its row count (20)
 python3 verify_stem_quotes.py           # every quoted question is the paper's own question
@@ -390,7 +390,7 @@ python3 verify_boundaries.py            # both boundary tables agree with Pearso
 python3 verify_rule_index.py            # rules 1-126 defined once; every citation resolves
 python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's shape
 python3 verify_paper_coverage.py        # every governed part of every PAPER resolves to its entry
-python3 audit_er_fullmarks.py           # REPORT: full-mark scripts the archived reports PRINT vs the register
+python3 audit_er_fullmarks.py           #  23. every full-mark script the archived reports PRINT is in the register
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -404,7 +404,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 |---|---|---|
 | `verify_by_paper.py` | item count, marks, tariff histogram and governed-part labels for all 38 `By_Paper/` files | **988 items · 3040 marks · 12/4/4/3/2/1 per paper** — against the mark schemes, not against the files' own headers |
 | `build_layer_c_tariffs.py` | the tariff population from all 38 mark schemes | **152 / 114 / 76 / 38 governed, 456 / 152 below them, 38 of 38 papers at 80 marks, and every paper split 20 · 20 · 20 · 20** |
-| `tally_exemplars.py` | the verified-exemplar register — **and the file's own totals** — and every heading that states a full mark, which must be **CITED BY ITS OWN ROW** (within eight lines; a heading announcing `3/3 ×2` needs two rows in range) | **35 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12 = 75 rows**, every row resolving to a real `file:line`; every headline total, section heading and prose count equal to the rows that back it; and **14 full-mark headings, every one backed by a register row**. Written after the register's own summary drifted: the headline said 19 six-marks against 23 rows, and had no 3-mark row at all |
+| `tally_exemplars.py` | the verified-exemplar register — **and the file's own totals** — and every heading that states a full mark, which must be **CITED BY ITS OWN ROW** (within eight lines; a heading announcing `3/3 ×2` needs two rows in range) | **44 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12 = 86 rows**, every row resolving to a real `file:line`; every headline total, section heading and prose count equal to the rows that back it; and **14 full-mark headings, every one backed by a register row**. Written after the register's own summary drifted: the headline said 19 six-marks against 23 rows, and had no 3-mark row at all |
 | `verify_chain_bank_anchors.py` *(nine-mark option pairs)* | whether each 9-mark entry names **both sides** of its block's option pair — the tier's atomic unit | **76 of 76.** The n-gram measure is the wrong instrument here (five correct mappings score 35–43%); this is the right one |
 | `verify_chain_bank_anchors.py` | all **228** block → entry mappings (114 six-mark + 76 nine-mark + 38 twelve-mark), plus **every question an entry cites** | each block scored against **its own mark-scheme content**; **155 proven outright** because the entry quotes the question — **112 of 114**, **5 of 76** (most nine-mark schemes print no stem to compare), **38 of 38**. **The 30%–45% band is now EMPTY** (it held 4 six-mark mappings), and 0 remain below the contradiction floor. Also fails on an unlabelled model answer, and on a citation of a question the entry does not own with no `see entry N` pointer |
 | `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
@@ -417,7 +417,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_rule_index.py` | the rule index — every number 1–126 defined exactly once across `01_` and `06_`, and every `rule N` cited anywhere in the bank | **126 rules, 126 definitions, 0 duplicates, 0 gaps; 41 distinct rule numbers cited across 75 files, every one resolving.** Written because `10_Chain_Bank.md` numbers its 252 entries in the **same `## N. Title` format** as the rules — the two domains are indistinguishable to a grep, which is how a duplicate would hide |
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
-| `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, every absolute "no full mark" claim, **every stated `N × T/T` total anywhere in the bank, and every figure the bank has RETIRED** | **the register holds 35 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12 = 44 rows, and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two. **The total rule was added when `06_` was found still saying "19 × 6/6" against a register of 23** — a quoted total is a record of a past claim and passes; a live one must match. **The withdrawn-figures rule was added on 14 October 2026, when the reader-facing guide was found still opening with the extraction's 696 / 328 / 106 / 111 / 86 / 48 / 17** — the same contamination the bank had already withdrawn from `00_`, `04_` and both READMEs. It is keyed on the PHRASES the bank used, never on bare numbers (111 is also a grade-9 boundary, 86 a currency answer, 48 and 17 boundary marks), and a retired figure is allowed to stay **only while it is standing next to the words that retire it** — `04_` records the whole withdrawal in a box directly above its `% of 696` column, which is why that column survives. Sabotage-tested: a bare `977 items` claim appended 100 lines from any correction fails the run |
+| `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, every absolute "no full mark" claim, **every stated `N × T/T` total anywhere in the bank, and every figure the bank has RETIRED** | **the register holds 44 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12 = 86 rows, and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two. **The total rule was added when `06_` was found still saying "19 × 6/6" against a register of 23** — a quoted total is a record of a past claim and passes; a live one must match. **The withdrawn-figures rule was added on 14 October 2026, when the reader-facing guide was found still opening with the extraction's 696 / 328 / 106 / 111 / 86 / 48 / 17** — the same contamination the bank had already withdrawn from `00_`, `04_` and both READMEs. It is keyed on the PHRASES the bank used, never on bare numbers (111 is also a grade-9 boundary, 86 a currency answer, 48 and 17 boundary marks), and a retired figure is allowed to stay **only while it is standing next to the words that retire it** — `04_` records the whole withdrawal in a box directly above its `% of 696` column, which is why that column survives. Sabotage-tested: a bare `977 items` claim appended 100 lines from any correction fails the run |
 
 ### 🚨 THE FIRST 3-MARK SHAPE CHECK PASSED ON A MODEL REPLACED WITH A 0/3 (14 Oct 2026)
 
@@ -712,9 +712,15 @@ Both are now corrected, and the corrected position is stronger than either versi
 
 **Everything above this line is closed. This is what is not. Five of these are facts about what Pearson publishes rather than work to do; the sixth is work, and it is measured.**
 
+> ### ✅ ITEM 0 WAS THE ONLY ONE THAT WAS WORK — AND IT IS CLOSED, 14 Oct 2026
+> **All eleven May 2023 full-mark scripts are banked, transcribed in full in `External_Exemplars/2023-05_Series_Remaining_FullMarks.md` — question, mark scheme, script and examiner comment, at full fidelity.**
+> **`audit_er_fullmarks.py` now reports `33 printed / 33 banked`, and it was promoted to check 23 the moment the target could be stated as zero — it exits 1 if any archived report prints a full-mark script the register lacks.** Sabotage-tested: dropping one register row makes it fail by name. **The register reads 44 · 25 · 15 · 2 = 86.**
+>
+> **⚠️ Two systematic defects died with it, and both would have swallowed the next batch too.** (1) **Every sweep the bank owned searched for a *level* phrasing** — *"This response **is** a Level 3"*, *"gained a Level 3"*, *"was Level 3"* — while May 2023 states the mark as **`This response scored N marks.`**, a **fourth phrasing no catalogue held.** The permanent cure is the audit: it reads the reports' **score lines**, not a phrase list, so a fifth phrasing cannot hide. (2) **The stated-totals check walked `Perfect_Answers/` alone**, so the top-level README — which quotes the register — was outside every automated sweep. **Widened to the whole answer bank; it immediately found one stale total there and now scans 29 claims.**
+
 | # | Open item | Why it cannot be closed |
 |---|---|---|
-| **0** | 🔨 **11 full-mark scripts printed in the May 2023 reports are not banked** — 9 three-mark Explain and 2 six-mark Analyse, listed by paper, part and report page by `audit_er_fullmarks.py`. | **WORK, not a walled gap.** They are printed in full in `4BS1_Business_Studies_May_2023_{P1,P1R,P2,P2R}_ER.pdf` and can be transcribed today. **They were invisible because every sweep the bank owned searched for a PHRASING it had already catalogued, and May 2023 states its marks in a way no sweep knew** — a bare line: *"This response scored 3 marks."* The audit inverts the question and asks the report which scripts it awarded full marks to. **This is the row to work from; the five below are the ones to wait on.** |
+| ~~**0**~~ | ✅ **CLOSED 14 Oct 2026 — all eleven banked.** Nine 3/3 Explain and two 6/6 Analyse, transcribed in full into `External_Exemplars/2023-05_Series_Remaining_FullMarks.md`; register rows 36–44 and 24–25. **`audit_er_fullmarks.py` is now check 23 and the expected gap is zero.** | **It was work, not a wall — and it is done.** The eleven had been invisible to every sweep because May 2023 phrases the score as *"This response scored N marks."* |
 | 1 | **No verified 12/12 on Paper 2 or on Paper 2R.** | **Permanent.** Pearson's own support page names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **Every Paper 2 / 2R Evaluate model in the bank must therefore stay `[CONSTRUCTED GRADE 9 TARGET]`.** Best held on those papers: **10/12 on each** (IKEA and M&M, May 2023), both docked for *"limited judgements"*. |
 | 2 | **One marked script per question.** | **Permanent.** Pearson prints one or two examples per question and some questions none. **So the bank can show that a full-mark answer exists and what it does — it can never show every route to one.** This is the gap the Chain Bank exists to fill: it generalises from the scripts that exist to the questions that have none. |
 | 3 | **Jun 2026 P1 / P2 / P2R examiner reports.** | **Release scope, verified three ways** — the sibling filenames 404, the third-party archive that holds the June 2026 **P1R** report holds no P1/P2/P2R report, and its bucket refuses listings. **The P1R report circulating alone is the signal.** |
