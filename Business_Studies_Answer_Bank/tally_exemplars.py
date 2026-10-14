@@ -42,7 +42,7 @@ import re, sys, pathlib, collections
 
 ROOT = pathlib.Path(__file__).parent / "Perfect_Answers"
 REGISTER = ROOT / "09_Verified_Tally.md"
-TOKEN = re.compile(r"(?<![\d/])(6/6|9/9|12/12)(?![\d/])")
+TOKEN = re.compile(r"(?<![\d/])(3/3|6/6|9/9|12/12)(?![\d/])")
 ROW = re.compile(r"^\|\s*\d+\s*\|(.+)\|\s*`([^`]+?):(\d+)`\s*\|\s*$")
 QLABEL = re.compile(r"\bQ\s?(\d)\s?\(([a-z])\)")
 RULEY = re.compile(r"^\s*(?:\d+\.|#{2,4}\s*\d+\.)|ANATOMY|WHAT THIS|HOW TO|THE TEST|"
@@ -53,9 +53,14 @@ def parse_register():
     """Return [(tariff, label_text, file, line)] from the register's tables."""
     rows, tariff = [], None
     for line in REGISTER.read_text(encoding="utf-8").splitlines():
-        m = re.match(r"^##\s*(6|9|12)\s*MARKS", line)
+        m = re.match(r"^##\s*(3|6|9|12)\s*MARKS", line)
         if m:
-            tariff = {"6": "6/6", "9": "9/9", "12": "12/12"}[m.group(1)]
+            # 3 joined the register on 14 Oct 2026 (four June 2026 Explain
+            # scripts). It was left out of this regex at first, which made this
+            # script print TOTAL: 40 while verify_coverage_claims.py printed 44
+            # from the same file - two checks disagreeing about the same data is
+            # exactly the failure this script exists to prevent.
+            tariff = {"3": "3/3", "6": "6/6", "9": "9/9", "12": "12/12"}[m.group(1)]
             continue
         if line.startswith("## "):
             tariff = None
@@ -124,7 +129,7 @@ def main():
     print("=" * 78)
     print("REGISTER — 09_Verified_Tally.md")
     print("=" * 78)
-    for t in ("6/6", "9/9", "12/12"):
+    for t in ("3/3", "6/6", "9/9", "12/12"):
         print(f"  {t}: {counts[t]} rows")
     print(f"  TOTAL: {sum(counts.values())}")
     print()

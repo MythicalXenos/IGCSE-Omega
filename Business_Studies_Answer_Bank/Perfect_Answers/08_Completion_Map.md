@@ -449,6 +449,31 @@ The anchoring check flagged four six-mark mappings in its 30%–45% band — **b
 
 **This is the shape of a coverage claim that is technically true and practically thin.** The mapping existed; the mark-scheme content behind it did not. `verify_ms_point_coverage.py` found no absent points because it asks whether a point is **named** somewhere in the entry, not whether the entry's **model answer** uses it.
 
+### ⭐ THE 3-MARK TIER IS THE ONE THAT HAD NO EXEMPLARS WORTH THE NAME (14 Oct 2026)
+
+**Explain (3) is 152 parts of the qualification — joint most common written type after the one-mark items — and until today the register held three exemplars, all from June 2019.** June 2026 P1R prints **four 3/3 scripts**, one per Explain question, **each with its 0/3 counterpart printed on the facing page**. All eight are now transcribed in `External_Exemplars/2026-06_P1R_SpudBros.md`, with every examiner comment verbatim.
+
+**The register gained a fourth tier: `## 3 MARKS — 4 scripts` — 44 rows now (4 · 23 · 15 · 2).**
+
+**The report states the 3-mark formula four separate times, and one of them gives the number:**
+> *"candidates were required to **identify a valid reason and then further develop the response with two logical links, for 3 marks**."* (Q2(d) — and Q2(e) in the same words)
+> *"developed successfully and logically beyond the point and **two development strands**"* (the Q2(c) comment)
+
+**This confirms the rule the bank already carried** (`00_`:164 *"Three sentences = identify + two developments"*, `06_`:976, `10_`:104) **from a session six years newer** — and it is the first time the tier has an exemplar pair per question.
+
+**⭐ The finding that matters more than the scripts: all four 0/3s fail the same way, and it is not the way candidates expect.**
+
+| | the 3/3 names the mechanism | the 0/3 names only a consequence | examiner verdict |
+|---|---|---|---|
+| Q1(f) flat structure | *less layers* → info unchanged → less time → fewer mistakes | *"Everyone can suggest ideas"* | *"**generic** and the benefit is not specific to a flat organisational structure"* |
+| Q2(c) break-even | *how many they need to sell to not have a loss* | *"sufficient funds"*, *"a clear idea of what decisions to make"* | *"did not demonstrate **any understanding of calculating the break-even level of output**"* |
+| Q2(d) segment by income | *premium products → higher prices → margins* | *"it can calculate their income"* | *"no valid reason **linked to segmenting the market by income**"* |
+| Q2(e) productivity | *more goods in a specific time period* → efficiency → **decreased cost of production** | *"The customer might come back to buy a product"* | *"does not **illustrate any knowledge of productivity improvements**"* |
+
+**Every 0/3 contains a correct consequence and omits the mechanism.** Q2(e)'s is the cleanest: *repeat custom → higher sales → more profit* is sound business reasoning from beginning to end and scores **zero**, because none of it involves productivity. And **none of the four is a length problem** — the four 3/3s run about 35, 50, 60 and 70 words, and the shortest of them (segment by income, **35 words**) is a full-mark answer. **The failure is never brevity. It is writing about the choice instead of about the tool.**
+
+**Also recorded: the 0/3 on Q2(d) is one sentence that answers a different question** (*"It is because it can calculate their income…"*), which is the same fault as the June 2019 booklet's warning about giving two impacts where one was asked. **On an Explain question the mark is lost at the qualifier** — *segment the market **by income*** — and no amount of correct writing after that recovers it.
+
 ### ⚠️ A VERDICT IS NOT A SCRIPT — AND THIS REPORT'S PAGE NUMBERS ARE OFF BY ONE (14 Oct 2026)
 
 **The same sweep that recovered the two May 2023 6/6s turned up a second, quieter version of the same problem in June 2026 P1R.**

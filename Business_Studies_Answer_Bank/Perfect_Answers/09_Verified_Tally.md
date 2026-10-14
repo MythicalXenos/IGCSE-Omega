@@ -113,6 +113,23 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
+## 3 MARKS — **4 scripts** *(all June 2026, P1R)*
+
+| # | Series | P · Q | Topic | Canonical source |
+|---|---|---|---|---|
+| 1 | **Jun 2026** | P1R Q1(f) | flat organisational structure | `External_Exemplars/2026-06_P1R_SpudBros.md:369` |
+| 2 | **Jun 2026** | P1R Q2(c) | why break-even output is calculated | `External_Exemplars/2026-06_P1R_SpudBros.md:381` |
+| 3 | **Jun 2026** | P1R Q2(d) | segmenting the market by income | `External_Exemplars/2026-06_P1R_SpudBros.md:393` |
+| 4 | **Jun 2026** | P1R Q2(e) | benefit of productivity improvements | `External_Exemplars/2026-06_P1R_SpudBros.md:405` |
+
+> ### ⭐ ALL FOUR ARE THE NEWEST SESSION, AND EACH HAS ITS 0/3 PARTNER ON THE FACING PAGE
+> Before 14 Oct 2026 the bank held **three** Explain exemplars, all June 2019. **This is the tier that is 152 parts of the qualification** — joint most common written type after the one-mark items. The four are transcribed with their **0/3 counterparts**, the examiner comments for both, and the rule the report states four times: **identify + two logical links.** See `08_Completion_Map.md` for the finding.
+
+> ### ⚠️ REGISTER READS 44 ROWS ACROSS FOUR TIERS NOW — AND TWO CHECKS ONLY MODEL THREE
+> `tally_exemplars.py` and `verify_coverage_claims.py` both parse the `## N MARKS` sections generically, so the four rows above are counted and resolved like the rest **but do not appear in the three-tier coverage grid** (`06_`'s grid is per-paper for 6/9/12 only, because those are the tiers where a Paper-level cell is meaningful). **The 3-mark tier has no paper-level grid cell on purpose** — an Explain exemplar is a technique example, and the six-mark ladder it feeds is already gridded.
+
+---
+
 ## WHAT THIS REGISTER REPLACED
 
 | Location | Claimed | Truth |

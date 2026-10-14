@@ -90,6 +90,7 @@ On every paper (80 marks total), the tariff breakdown is **exactly this — deri
 |---|---|---|---|
 | 3 | Explain one | June 2019 P1 Q1(f) — increase gross profit margin | **3/3** |
 | 3 | Explain one | June 2019 P1 Q2(d) — above-the-line promotion | **3/3** |
+| 3 | Explain one | **Jun 2026 P1R — flat organisational structure · break-even · segment by income · productivity** | **3/3 ×4** |
 | 6 | Analyse | June 2019 P1 Q1(g) — satisfying customer needs | **6/6** |
 | 6 | Analyse | June 2019 P1 Q4(b) — usefulness of profitability ratios | **6/6** |
 | 6 | Analyse | June 2019 P1R Q1(g) — customer satisfaction | **6/6** |
@@ -98,7 +99,7 @@ On every paper (80 marks total), the tariff breakdown is **exactly this — deri
 
 *(The three 6-mark full-markers were confirmed by the source notes and examiners' comments; the June 2019 P1R 6/6 is confirmed as "Level 3 – 6 marks" in the same booklet.)*
 
-**All four high-value tariffs have at least one verified full-mark exemplar, and all four are transcribed in full with examiner commentary in `02_Verified_Exemplars.md`.**
+**All four high-value tariffs have at least one verified full-mark exemplar, and all four are transcribed in full with examiner commentary in `02_Verified_Exemplars.md`.** **The 3-mark tier grew from three exemplars to seven on 14 Oct 2026 — the four June 2026 ones are in `External_Exemplars/2026-06_P1R_SpudBros.md`, each with its 0/3 partner on the facing page.**
 
 ### ⚠️ Partially covered — real scripts, but below full marks
 

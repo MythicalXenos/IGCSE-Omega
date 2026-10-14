@@ -292,10 +292,12 @@
 |---|---|
 | Report text layer (all 48pp) | ✅ **read in full** — every `Total: N marks` verdict captured |
 | **Q1(b) · Q1(c) · Q1(d)** | ✅ 0/1 vs 1/1 pairs (secondary sector · e-commerce · State with/without context) |
-| **Q1(e) · Q1(f)** | ✅ verdicts held (1/2 vs 2/2 · 0/3 vs 3/3) |
+| **Q1(e)** | ✅ verdicts held (1/2 vs 2/2) |
+| **Q1(f) 3-mark Explain** | ✅ **verified 3/3 — full transcript** (flat structure, script PDF 9; comment PDF 10) |
 | **Q1(g) 6-mark Analyse** | ✅ **verified 6/6 — full transcript** (sponsorship disadvantages, PDF 11; comment PDF 12) |
-| **Q2(c) · Q2(d)** | ✅ verdicts held (0/3 vs 3/3 each) |
-| **Q2(e)** | ✅ 3/3 — the productivity Explain |
+| **Q2(c) 3-mark Explain** | ✅ **verified 3/3 — full transcript** (break-even, script PDF 15; comment PDF 16) |
+| **Q2(d) 3-mark Explain** | ✅ **verified 3/3 — full transcript** (segment by income, script PDF 17; comment PDF 18) |
+| **Q2(e) 3-mark Explain** | ✅ **verified 3/3 — full transcript** (productivity, script PDF 20; comment PDF 20) |
 | **Q2(f) 9-mark Justify** | ✅ **verified 8/9, full transcript** (conclusion repeats) |
 | **Q3(d) 6-mark Analyse** | ✅ **both scripts now transcribed** — 2/6 (PDF 29) vs **6/6** (PDF 30) + the scenario-and-stem tip |
 | **Q3(e) 9-mark Justify** | ✅ **verified 3/9 and 8/9, full transcripts** + the **two AO4 routes** |
@@ -303,7 +305,7 @@
 | **Q4(b) 6-mark Analyse** | ✅ 3/6 vs 5/6 |
 | **Q4(c) 12-mark Evaluate** | ✅ **verified 11/12 and 6/12, full transcripts** |
 
-**Every question from Q1(g) onward now has its script read, and the four 6-mark/9-mark/12-mark questions have their full scripts transcribed verbatim.** The remaining unrendered pages are the short-answer questions (Q1(e)–(f), Q2(a)–(d), Q3(a)–(c), Q4(a)), whose verdicts are all in the text layer above.
+**Every question from Q1(f) onward now has its script read, and all FOUR 3-mark Explains, all four 6-mark Analyses, the 9-mark Justify and the 12-mark Evaluate have their scripts transcribed verbatim.** The remaining unrendered pages are the short-answer questions (Q1(e)–(f), Q2(a)–(d), Q3(a)–(c), Q4(a)), whose verdicts are all in the text layer above.
 
 **Page map, corrected to the PDF's physical pages** (footer = PDF page − 1):
 `Q1(b) p4 · Q1(c) p5 · Q1(d) p6 · Q1(e) p8 · Q1(f) p10 · Q1(g) script p11, verdict p12 · Q2(a) p13 · Q2(b) p14 · Q2(c) p15–16 · Q2(d) p17–18 · Q2(e) p19–20 · Q2(f) p23 · Q3(a) p24 · Q3(b) p25 · Q3(c) p26–28 · Q3(d) script p29, verdict+6/6 script p30 · Q3(e) p34–36 · Q4(a) p37–38 · Q4(b) p39–40 · Q4(c) p43–46`
@@ -349,3 +351,88 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 > 3. *"expand internationally into the US and Canada"* — a fact from the scenario that **answers the question's own growth premise**. **This is what carries the answer to 6.**
 >
 > **A 6-mark Analyse is written by finding the TWO most specific facts in the scenario and building one chain out of each.** The chain is: *fact → consequence → business effect*. Every 6/6 in this bank has that shape, and no 6/6 in this bank has anything else.
+
+---
+
+# ⭐⭐⭐ THE FOUR 3-MARK EXPLAIN SCRIPTS — and the one failure mode all four share (14 Oct 2026)
+
+**Why these matter.** The bank held exactly **three** Explain exemplars, all from June 2019, and the 3-mark tier is **152 parts of the qualification** — the joint most common written type after the one-mark items. June 2026 P1R prints **four 3/3 scripts**, one for each of the paper's four Explain questions, each with its 0/3 counterpart on the facing page. Together they are the clearest statement of what three marks are, and it is the newest session in the bank.
+
+**The examiner's formula, stated verbatim four times in this one report:**
+> *"In order to gain access to all marks, candidates were required to **identify a valid reason and then further develop the response with two logical links, for 3 marks**."* — Q2(d)
+> *"…candidates were required to identify a benefit and then further develop the response with **two logical links**, for 3 marks."* — Q2(e)
+> *"candidates were required to **identify an advantage and then develop their response logically**."* — Q1(f)
+> *"Those candidates who understood the concept… were able to identify one advantage to a business of this and then went on to explain this advantage, **therefore gaining the full available marks**."* — Q2(c)
+
+**So: 3 marks = the point + TWO development links.** A 0/3 is not a short answer or a badly written one — **all four 0/3s below are the same length as their 3/3 partner.**
+
+## 3/3 — Q1(f) · *"Explain one advantage for a business of having a flat organisational structure"* **(3)**
+
+> *"One advantage is it can make the communication more efficient. Because the flat organisational structure have less layers ^that the managers should talk with. This means the information that the manager want to talk will not be changed meaning. So the time cost will be less, and the mistakes in the work will decrease."*
+
+**Examiner comment (verbatim):** *"This is a good response… They are able to identify the advantage as 'can make communication more efficient' and then are able to explain this advantage by using a good knowledge of the topic area followed with a logical development of its impact. Total: 3 marks"* — comment PDF 10 [footer 9]
+
+**Its 0/3 partner, same page, same question — the whole of it:**
+> *"Everyone can suggest ideas and discusset different ideas and improvements that would lead to a variety of ideas."*
+> **Comment:** *"This response is **generic and the benefit is not specific to a flat organisational structure**. Total: 0 marks"*
+
+🔬 **"Generic" is the diagnosis, and it is exact.** *Everyone can suggest ideas* is true of every business with employees — it says nothing about a **flat** structure. **The 3/3 names the mechanism (`less layers`) and then walks it: fewer layers → information unchanged → less time → fewer mistakes.** Note the 3/3's grammar (*"the structure have less layers"*, *"the manager want to talk"*) — imperfect, and worth 3.
+
+## 3/3 — Q2(c) · *"Explain one reason why a business calculates the break-even level of output"* **(3)**
+
+> *"A business would calculate the break-even level of output to find how many of that certain product they need to sell to be able to not have a loss and profit. From this, a business can also identify how much they are spending as the cost of making or producing the product. This helps them to be able to reduce costs ~~of a~~ of the production process, allowing the busines to not have to sell an incredibly high amount of that product."*
+
+**Examiner comment (verbatim):** *"This candidate demonstrates good knowledge in stating directly that a calculation of the break-even level of output allows the business to identify **'how many sales they need to make' in order to 'not run at a loss.'** The answer is developed successfully and logically beyond the point and **two development strands**, and therefore meets the demands of the question. Total: 3 marks"* — comment PDF 16 [footer 15]
+
+**Its 0/3 partner, same page:**
+> *"A business may calculate their ~~break-even~~ level of output to know if ~~and are making~~ they have sufficient funds in the business. By doing this, businesses will have a clear idea of what decisions to make in the future."*
+> **Comment:** *"This response **did not demonstrate any understanding of calculating the break-even level of output**. Total: 0 marks"*
+
+🔬 **Read the 0/3 again: it never says what break-even IS.** *"Sufficient funds"* is about cash; *"clear idea of what decisions to make"* would be true of any calculation ever. **The 3/3's first clause defines the mechanism in the words the examiner then quotes back — "how many… they need to sell… to not have a loss".** That is the whole difference between 0 and 3 on an Explain question: **name what the tool actually measures, then follow it.**
+
+## 3/3 — Q2(d) · *"Explain one reason why a business would segment the market by income"* **(3)**
+
+> *"A business may segment a market by income to target higher-income customers. This enables business to sell premium products to richer customers, allowing them to charge higher prices. As a result, business can increase profit margins."*
+
+**Examiner comment (verbatim):** *"This candidate identifies a valid reason correctly… The candidate uses a technique that demonstrates the process of segmenting the market. They follow this with the business' ability then to **'charge higher prices'** by targeting **'higher income customers'** and then **'selling premium products to richer customers.'** Total: 3 marks"* — comment PDF 18 [footer 17]
+
+**Its 0/3 partner, same page — an unanswered answer:**
+> *"It is because it can calculate their income even though if they wanted to spread their business widely or not."*
+> **Comment:** *"This candidate demonstrates **no valid reason linked to segmenting the market by income**. Total: 0 marks"*
+
+🔬 **This 3/3 is three sentences and 35 words — the shortest full-mark script in the bank.** `identify (segment by income to target higher-income customers) → link 1 (sell premium products to richer customers) → link 2 (charge higher prices) → margin`. **Four steps, no context, no conclusion, no names.** The report adds the sentence that makes it general: *"There was a number of responses that discussed segmentation generally and **was not linked to income**. Such responses received no marks."* → **the mark is lost by explaining the wrong half of the question.** On *"segment by income"*, the answer must be about **income**.
+
+## 3/3 — Q2(e) · *"Explain one benefit to a business from productivity improvements"* **(3)**
+
+> *"~~Productivity means the~~ Improved productivity means more goods ^of services produced in a specific time period. ~~than~~ ^So, the effecient of the business would increase. Therefore, the business could produce more goods and services than before in a specific period, leading to ~~higher sales of~~ decreased cost of production. If sales revenue stays the same, the business may be able to earn more profit."*
+
+**Examiner comment (verbatim):** *"This response shows good knowledge of productivity improvements and links this directly to **'efficiency'**. The candidate then goes on to develop this successfully by stating they **'could produce more goods and services than before in a specific time period'** and then leads to a **'decreased cost of production.'** Total: 3 marks"* — comment PDF 20 [footer 19]
+
+**Its 0/3 partner, same facing page:**
+> *"The customer might come back to buy a product from this business again. This can lead to a sales of product to be higher and they can get more profit."*
+> **Comment:** *"This candidate **does not illustrate any knowledge of productivity improvements**. Total: 0 marks"*
+
+🔬 **This pair is the purest demonstration of the rule in the bank.** The 0/3 argues *repeat custom → higher sales → more profit*. **Every step is valid business reasoning and every step is irrelevant**, because none of it involves productivity. The 3/3 defines productivity in the examiner's own words (*more goods… in a specific time period*), then converts it: **efficiency → lower unit cost → more profit.** *"If sales revenue stays the same"* is the sentence that ties the chain shut.
+
+---
+
+## ⭐ THE 3-MARK EXPLAIN RULE, FROM ALL EIGHT SCRIPTS
+
+| | The 3/3 does this | The 0/3 does this | Verdict, verbatim |
+|---|---|---|---|
+| Q1(f) | names **less layers** → information unchanged → less time → fewer mistakes | *"Everyone can suggest ideas"* | *"generic and the benefit is not specific to a flat organisational structure"* |
+| Q2(c) | defines break-even as **how many to sell to not make a loss** | *"sufficient funds"*, *"decisions in the future"* | *"did not demonstrate any understanding of calculating the break-even level of output"* |
+| Q2(d) | segment by income → premium products → **higher prices** → margins | *"calculate their income"* | *"no valid reason **linked to segmenting the market by income**"* |
+| Q2(e) | defines productivity → efficiency → **decreased cost of production** | *"the customer might come back"* | *"does not illustrate any knowledge of productivity improvements"* |
+
+**One failure mode, four names.** In each 0/3 the *consequence* is named and **the mechanism is missing** — and the examiners' four comments are four ways of saying so: *generic · no understanding · not linked to [the question's own qualifier] · not illustrated*.
+
+> ### ⚠️ AND NONE OF THEM IS A LENGTH PROBLEM
+> | | words |
+> |---|---|
+> | Q1(f) 3/3 | ~50 · Q1(f) 0/3 ~18 |
+> | Q2(c) 3/3 | ~70 · Q2(c) 0/3 ~30 |
+> | Q2(d) 3/3 | **~35** · Q2(d) 0/3 ~20 |
+> | Q2(e) 3/3 | ~60 · Q2(e) 0/3 ~30 |
+>
+> **The shortest 3/3 in the bank is 35 words**, and the examiners' prescription — *identify + two logical links* — is fully satisfied inside it. **Writing three more sentences about the benefits of the choice cannot rescue a missing mechanism; naming the mechanism and linking it twice cannot fail.**
