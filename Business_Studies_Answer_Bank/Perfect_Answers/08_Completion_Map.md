@@ -362,7 +362,7 @@ REMAINING                :    0 topics  ·    0 blocks
 
 ## 🔍 HOW TO VERIFY THIS BANK — every check, in one place
 
-**Twenty-four checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+**Twenty-five checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
 
 > **A check that prints OK while parsing nothing is the failure mode this bank has hit three times** (`verify_stem_quotes.py` v1 compared 0 citations, a tier was never loaded so no 3-mark citation could resolve, and a near-empty parse sat inside a green run). **Every check that reads text therefore prints how many items it SAW, and the ones that can count their own input fail when that count is implausibly low.** Read the count, not just the RESULT line.
 
@@ -392,9 +392,11 @@ python3 verify_boundaries.py            # both boundary tables agree with Pearso
 python3 verify_rule_index.py            # rules 1-126 defined once; every citation resolves
 python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's shape
 python3 verify_paper_coverage.py        # every governed part of every PAPER resolves to its entry
+python3 layer_c_1_2mark_coverage.py     #  24. the 1-/2-mark tier: printed vs transcribed, session-aware keys
 python3 audit_er_fullmarks.py           #  23. every full-mark script the archived reports PRINT is in the register
                                         #      + every score phrasing in use is matched, + the whole printed inventory
-python3 layer_c_1_2mark_coverage.py     #  24. the 1-/2-mark tier: printed vs transcribed, session-aware keys
+python3 audit_below_fullmarks.py        #  25. and every BELOW-full-mark script too - the 32 near-misses
+                                        #      the third and last class of printed script
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -422,6 +424,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
 | `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, every absolute "no full mark" claim, **every stated `N × T/T` total anywhere in the bank, and every figure the bank has RETIRED** | **the register holds 44 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12 = 86 rows, and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two. **The total rule was added when `06_` was found still saying "19 × 6/6" against a register of 23** — a quoted total is a record of a past claim and passes; a live one must match. **The withdrawn-figures rule was added on 14 October 2026, when the reader-facing guide was found still opening with the extraction's 696 / 328 / 106 / 111 / 86 / 48 / 17** — the same contamination the bank had already withdrawn from `00_`, `04_` and both READMEs. It is keyed on the PHRASES the bank used, never on bare numbers (111 is also a grade-9 boundary, 86 a currency answer, 48 and 17 boundary marks), and a retired figure is allowed to stay **only while it is standing next to the words that retire it** — `04_` records the whole withdrawal in a box directly above its `% of 696` column, which is why that column survives. Sabotage-tested: a bare `977 items` claim appended 100 lines from any correction fails the run |
+| `audit_below_fullmarks.py` | **the third and last class of printed script** — every below-full-mark script the archive prints against the bank's transcripts | **32 of 32 resolve.** ⚠️ **This check was written after the same blind spot was found a third time in a different category, and its first version COULD NOT FAIL:** searching the whole bank, a narrative line in `09_` that happens to contain `2/3`, `P2R` and `2023` in one window kept rescuing a deleted transcript. **Fixed by counting only transcripts in session-named files** — the rule that, re-run, surfaced **four genuine gaps** (`2023-05_Series_P2_and_P2R_Two_Mark_Explain.md` now holds them). **Sabotage-tested three ways: de-citing one script fails, deleting the file fails (4 gaps named), de-citing a 2026 script fails.** ⚠️ **And it is the first guard whose scope is provably exhaustive: every statement in the five reports is a full mark, a 1-/2-mark part, or a below-full mark — checks 23, 24 and 25 between them cover the whole printed population, so a fourth category cannot appear.** |
 
 ### 🚨 THE FIRST 3-MARK SHAPE CHECK PASSED ON A MODEL REPLACED WITH A 0/3 (14 Oct 2026)
 

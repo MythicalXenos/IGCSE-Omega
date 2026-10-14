@@ -234,6 +234,28 @@ Reading all the examiner comments together, the same four failures recur, and no
 
 **Note what is absent from that list: subject content.** Every single one of these candidates demonstrated the relevant business knowledge. They lost marks on **how they deployed it**.
 
+---
+
+## ⭐ MAY 2023 — FOUR EXPLAIN ANSWERS, AND THE SAME QUESTION SCORED TWICE
+
+**All four are transcribed in full in `External_Exemplars/2023-05_Series_P2_and_P2R_Two_Mark_Explain.md`** — banked 14 Oct 2026, when `audit_below_fullmarks.py` (**check 25**) asked the reports for every *below-full-mark* script they print and found these four were the only ones the bank had never transcribed.
+
+**The lesson of the four in one line: on a 3-mark `Explain one…`, the marks stop at two for three different reasons — and none of them is "not enough writing".**
+
+| Q | Score | The defect, in the examiner's own terms |
+|---|---|---|
+| **branding — importance** | **2/3** | *"The comment about high profits is **another reason** and therefore not awarded any marks."* |
+| **equal opportunities — one way** | **2/3** | *"The comment about offering promotion is **another way** and the question asks for **one way only**."* |
+| the same question | **0/3** | *"This response **does not answer the question**."* |
+| **using resources effectively** | **2/3** | *"there was **limited development** of the response… therefore only gained two marks."* |
+
+⚠️ **Note what is not in that table: length.** Both 2/3s are between 27 and 42 words. **The two *"another reason / another way"* answers were written by candidates who had more to say and said it — and were docked for saying it.** On an `Explain one` question the second idea is not spare marks, it is a **cap**.
+
+⭐ **And the 0/3 is the sharpest thing in the set**, because it *names* three correct syllabus terms — *promotion*, *job opportunities*, *job enrichment* — in a sentence that answers a different question. **Vocabulary is not an answer.** The examiner credits nothing and says so in seven words.
+
+**The pairing is deliberate:** the same question, the same session, two papers apart, **2/3 and 0/3**. Reading them side by side is the fastest way to calibrate what a Level-2 answer looks like against what scores nothing.
+
+
 ## Two more examiner rules worth memorising
 
 **Do not use bullet points in 12-markers.** From the May 2023 P2 examiner report:
