@@ -88,8 +88,10 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:24` |
 | 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:832` |
 
-> ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R** AND NONE ARE PAPER 2
-> Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. **Paper 2 has none** — its best is a 7/9 (IKEA, June 2023).
+> ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R**. AND **NO VERIFIED 9/9 EXISTS FOR PAPER 2, IN ANY SERIES**
+> Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. The full split is **P1 ×7 · P1R ×6 · P2R ×2 · P2 ×0** — and **Paper 2's ceiling in the bank is a 7/9**, held at `2023-05_Series_Irsi_AudeRose_IKEA_MM.md:168` and dissected at `:300`.
+>
+> ✅ **Two independent counts agree, and the second cannot be affected by what the bank chooses to keep.** The register holds **fifteen** 9/9s and not one of them is Paper 2; and the five archived reports print exactly **five** 9/9 mark statements — **2023 P1 ×4** (report pp. 16, 22, 26, 30) and **2023 P2R ×1** (p. 39) — with **none on Paper 2**. Paper 2 prints only **three** 9-mark statements at all: **5/9 · 7/9 · 5/9**. ⚠️ **So the 7/9 (report p. 33) is the highest Paper 2 Justify script the qualifications entire held reporting prints** — which is why `:300` dissects it in full. For Paper 2 it is the *ceiling of official evidence*, not merely a near-miss.
 >
 > ### ⭐ AND FIVE COME FROM ONE SERIES
 > May/June 2023 alone printed **five** 9/9 Justify answers — entries 6–10. The bank previously recorded this as **four**, because the fifth (a Paper 2R script) was filed in a different section of the report.

@@ -256,8 +256,12 @@ def main() -> int:
                 # Paper 2 or Paper 2R" is TRUE even though Paper 1 holds two. Only
                 # an unscoped "anywhere" is a claim about the whole bank. `\b` after
                 # the number is what keeps "Paper 2" out of "Paper 2R".
+                # re.I IS LOAD-BEARING: a claim written in capitals ("NO VERIFIED
+                # 9/9 EXISTS FOR PAPER 2") names its paper just as clearly as one
+                # in mixed case, and without the flag the scope came back empty
+                # and a TRUE claim was reported as a failure.
                 named = [pp for pp in ("P1R", "P2R", "P1", "P2")
-                         if re.search(rf"Paper\s*{pp[1:]}\b", sentence)]
+                         if re.search(rf"Paper\s*{pp[1:]}\b", sentence, re.I)]
                 scope = named or PAPERS
                 bad = [pp for pp in scope if counts[(tier, pp)]]
                 flag = "OK  " if not bad else "FAIL"
