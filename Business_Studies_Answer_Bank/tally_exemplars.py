@@ -53,14 +53,20 @@ def parse_register():
     """Return [(tariff, label_text, file, line)] from the register's tables."""
     rows, tariff = [], None
     for line in REGISTER.read_text(encoding="utf-8").splitlines():
-        m = re.match(r"^##\s*(3|6|9|12)\s*MARKS", line)
+        m = re.match(r"^##\s*(12|9|6|3|2|1)\s*MARKS?\b", line)
         if m:
             # 3 joined the register on 14 Oct 2026 (four June 2026 Explain
             # scripts). It was left out of this regex at first, which made this
             # script print TOTAL: 40 while verify_coverage_claims.py printed 44
             # from the same file - two checks disagreeing about the same data is
             # exactly the failure this script exists to prevent.
-            tariff = {"3": "3/3", "6": "6/6", "9": "9/9", "12": "12/12"}[m.group(1)]
+            # 1 and 2 joined on 14 Oct 2026, when the archive was found to print
+            # 80 marked scripts for the tier the register had dismissed as
+            # "Pearson publishes no scripts". They are held, not modelled - but a
+            # row that nothing verifies is not evidence, so they are parsed and
+            # resolved by the same code as every other row.
+            tariff = {"1": "1/1", "2": "2/2", "3": "3/3", "6": "6/6",
+                      "9": "9/9", "12": "12/12"}[m.group(1)]
             continue
         if line.startswith("## "):
             tariff = None
@@ -92,9 +98,14 @@ def resolve(rows):
         window = lines[max(0, ln - 8): ln + 4]
         # a row may be sourced to a heading that states the mark in words
         # ("Level 3 – 6 marks — FULL MARKS") rather than as "6/6".
+        # The figure pattern is derived from the row's OWN tariff rather than
+        # from the global TOKEN. TOKEN is deliberately fixed at 3/6/9/12 because
+        # it drives the bank-wide heading scan; deriving it here is what lets the
+        # 1- and 2-mark rows resolve without widening that scan.
         n = int(tariff.split("/")[0])
+        figure = re.compile(rf"(?<![\d/]){re.escape(tariff)}(?![\d/])")
         words = re.compile(rf"(?<![\d/]){n}(?![\d/])\s*marks?\b", re.I)
-        if not any(TOKEN.search(w) or words.search(w) for w in window):
+        if not any(figure.search(w) or words.search(w) for w in window):
             bad.append((tariff, label, f, ln, "no mark token near that line"))
     return bad
 
@@ -257,7 +268,7 @@ def main():
         print("  !! could not find the HEADLINE COUNT table")
     else:
         stated_bad = []
-        for cell, tariff in re.findall(r"\|\s*\*\*(3|6|9|12)-mark \w+\*\*\s*\|\s*\*\*(\d+)\*\*", m.group(1)):
+        for cell, tariff in re.findall(r"\|\s*\*\*(12|9|6|3|2|1)-mark \w+\*\*\s*\|\s*\*\*(\d+)\*\*", m.group(1)):
             key = f"{int(cell)}/{int(cell)}"
             stated[f"{cell}-mark"] = (int(tariff), counts[key])
         for tier, (paper, truth) in stated.items():
@@ -265,13 +276,14 @@ def main():
             print(f"  {flag} headline {tier:<9} says {paper:>3}   rows in the register: {truth:>3}")
             if paper != truth:
                 stated_bad.append(f"the headline table's {tier} count is {paper}; the register has {truth}")
-        missing = [t for t in ("3-mark", "6-mark", "9-mark", "12-mark") if t not in stated]
+        missing = [t for t in ("1-mark", "2-mark", "3-mark", "6-mark", "9-mark", "12-mark")
+                   if t not in stated]
         if missing:
             print(f"  FAIL headline table has no row for: {missing}")
             stated_bad.append(f"the headline table omits {missing} — a tier can be added to the body without following the summary")
 
     # section headings: "## 6 MARKS — **23 scripts**"
-    for cell, paper in re.findall(r"^## (3|6|9|12) MARKS — \*\*(\d+) scripts?\*\*", text, re.M):
+    for cell, paper in re.findall(r"^## (12|9|6|3|2|1) MARKS? — \*\*(\d+) scripts?\*\*", text, re.M):
         key = f"{int(cell)}/{int(cell)}"
         ok_s = int(paper) == counts[key]
         print(f"  {'ok ' if ok_s else 'FAIL'} section heading {cell} MARKS says {paper:>3}   "

@@ -33,13 +33,13 @@ Three labels, because there are three kinds of source. Constructed answers are n
 
 | Marks | Parts | Where it sits | Verified full-mark exemplars held |
 |---|---|---|---|
-| **1** | **456** | MCQ · define · state · identify | — *the mark scheme answer IS the perfect answer* |
-| **2** | **152** | calculate one figure · outline one | — *same* |
+| **1** | **456** | MCQ · define · state · identify | ✅ **3 × 1/1**, archived and transcribed — ⚠️ *but no model is needed: the MS is the perfect answer* |
+| **2** | **152** | calculate one figure · outline one | ✅ **2 × 2/2**, archived and transcribed — ⚠️ *same* |
 | **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **44 × 3/3**, Jun 2019 → Jun 2026 |
 | **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **25 × 6/6** |
 | **9** | **76** | 2(f) · 3(e) | ✅ **15 × 9/9** |
 | **12** | **38** | 4(c) | ✅ **2 × 12/12** |
-| **TOTAL** | **988** | 26 parts / 80 marks per paper | **86 verified full-mark scripts** |
+| **TOTAL** | **988** | 26 parts / 80 marks per paper | **86 governed full-mark scripts**, plus **5 for the 1- and 2-mark tier** — ⚠️ **and that tier has 80 printed scripts in all, 70 of them not yet transcribed** (`08_`, open item **6**) |
 
 **The 380 governed parts (3 marks and above) are all modelled** — 252 entries in `10_Chain_Bank.md`, one per topic rather than one per question, because the framings repeat and only the topic changes. **For the 608 one- and two-mark parts the mark scheme answer *is* the perfect answer** and is already in `By_Paper/`.
 

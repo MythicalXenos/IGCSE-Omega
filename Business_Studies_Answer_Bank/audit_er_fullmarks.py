@@ -257,7 +257,15 @@ def main() -> int:
             note = f"{tier}/{tier}" if tier else "—"
             flag = "" if (tier and tier in marks) else (" " if tier else "")
             print(f"      {part:<3} {note:<6} {str(marks):<22}{flag}")
+    small = sum(1 for items in inventory.values() for p_, _mk in items if p_ not in TARIFF)
+    governed = sum(1 for items in inventory.values() for p_, _mk in items if p_ in TARIFF)
     print()
+    print(f"  totals: {governed} statements attributed to a governed part,"
+          f" {small} to a 1- or 2-mark part")
+    print("  ⚠️ A statement is attributed to the most recent `Question N (x)` heading in")
+    print("     reading order. Reports print a score line at the FOOT of the page before")
+    print("     the script, so a handful of foot-of-page statements attach to the wrong")
+    print("     heading - **the per-paper page list, not this count, is the safe index.**")
     print("  ⚠️ This inventory is the fact base for claims about what the archive")
     print("     PRINTS. Cite it instead of counting by hand.")
     print()

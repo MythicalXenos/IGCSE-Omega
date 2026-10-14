@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 86 rows resolve.**
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 91 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 35 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
@@ -32,7 +32,8 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **25** |
 | **3-mark Explain** | **44** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
-| **1- and 2-mark items** | **not registered here — but ⚠️ NOT because no scripts exist.** *The mark scheme IS the perfect answer for these*, so no model is needed; **but Pearson DOES print marked 1- and 2-mark scripts** — **80 of them across the five archived reports, each with an examiner comment** *(derived by `audit_er_fullmarks.py`, 14 Oct 2026)*, including a **0-versus-1 pair for every 1- and 2-mark part of June 2026 P1R**. **This row said *"Pearson publishes no scripts"* until 14 Oct 2026 and that was false.** |
+| **1-mark items** | **3** *(May/Jun 2023 ×3 — all three are P2R)* |
+| **2-mark items** | **2** *(May/Jun 2023 ×2 — both P2)* |
 | **TOTAL** | **86** |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
@@ -248,3 +249,26 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | **A mark quoted verbatim from a Pearson report** | ✅ Yes — but confirm it is a *mark*, not a *level* |
 | **A hand-written running total** | ❌ **Assume wrong until re-derived** |
 | **A coverage table's "×N" column** | ⚠️ Compare it against its own list before believing it — this is where all five errors were |
+
+---
+
+## 1 MARK SCRIPTS — printed in full, and the only place a 0 is explained
+
+**The archive prints 80 marked scripts for the 1- and 2-mark tier, each with an examiner comment** *(derived by `audit_er_fullmarks.py`, check 23 — its printed inventory names every paper, part, page and score)*. **No model is needed for this tier** — the mark scheme is already the perfect answer — **but a scheme cannot show you what a 0 looks like.** **These three are the top of that harvest and they are PAIRS: the same question, the full-mark script and the zero-mark script on ONE report page, with a comment on each.** ⚠️ **Two of the three zero-mark scripts are the better English and the better business thinking — and worth nothing.** **Every one is transcribed in `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md`.** ⚠️ **The rest of the tier is open**: 70 further statements sit in the five reports, June 2026 P1R's ten 0-and-1 pairs first.
+
+| # | Session | Paper · Question | Topic | Source |
+|---|---|---|---|---|
+| 1 | **Jun 2023** | P2R Q1(c) | define qualitative market research — *M&M* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:33` |
+| 2 | **Jun 2023** | P2R Q2(b) | one reason M&M could dismiss an employee — *M&M* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:66` |
+| 3 | **Jun 2023** | P2R Q3(a) | define autonomy — *M&M* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:98` |
+
+---
+
+## 2 MARK SCRIPTS — the only marked calculation scripts the bank owns
+
+**Two calculation questions on May 2023 Paper 2, each printed twice: 2/2 and 1/2.** **Between them they isolate the answer-line rule exactly — a correct value written incompletely, and a complete calculation stopped one step short, both losing the second mark.** **Full marks were awarded to a script whose written answer differs from the mark scheme's own figure** *(see the Q4(a) entry — the report prints and credits it)*. **Transcribed in full, with the mark schemes, in the same file.**
+
+| # | Session | Paper · Question | Topic | Source |
+|---|---|---|---|---|
+| 1 | **Jun 2023** | P2 Q3(c) | calculate a bonus, 2 d.p. — *IKEA* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:141` |
+| 2 | **Jun 2023** | P2 Q4(a) | calculate a percentage decrease, 2 d.p. — *IKEA* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:191` |

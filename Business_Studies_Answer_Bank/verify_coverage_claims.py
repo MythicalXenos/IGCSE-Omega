@@ -79,6 +79,17 @@ def register_counts():
         if m:
             tier = int(m.group(1))
             continue
+        # ⚠️ THE TIER MUST BE CLEARED AT ANY OTHER SECTION HEADING. This loop used
+        # to leave `tier` set until the next tier heading, so every row in every
+        # section AFTER "## 3 MARKS" was counted as a 3-mark row. It was invisible
+        # for as long as the register's last section was a tier - and on 14 Oct
+        # 2026 the 1- and 2-mark sections were added below it, and this check
+        # immediately reported the register as holding 49 three-mark scripts when
+        # it holds 44. The eight "stale total" FAILs it printed were its own bug,
+        # not the bank's. `tally_exemplars.py` had this reset all along; this
+        # function did not.
+        if line.startswith("## "):
+            tier = None
         if tier and re.match(r"^\|\s*\d+\s*\|", line):
             cells = [c.strip() for c in line.strip().strip("|").split("|")]
             r = re.search(r"\b(P\dR?)\b", cells[2])
@@ -313,7 +324,19 @@ def main() -> int:
                     pass
                 total_claims += 1
                 if total[tier] and n != total[tier]:
-                    total_bad.append((str(f.relative_to(BANK)), i, m.group(0).strip(), tier, n))
+                    # ⚠️ THIS LINE CRASHED FOR ANY FILE OUTSIDE Perfect_Answers/.
+                    # When this section was widened to scan the whole answer bank
+                    # (14 Oct 2026, to catch a stale total in the top-level
+                    # README), `f.relative_to(BANK)` raised for those files - and
+                    # it raised INSIDE the failure branch, so the effect was that
+                    # this check could not report a mismatch in any file it had
+                    # just been widened to cover. A check must fail with a
+                    # message, never with a traceback.
+                    try:
+                        where = str(f.relative_to(BANK))
+                    except ValueError:
+                        where = str(f.relative_to(BANK.parent))
+                    total_bad.append((where, i, m.group(0).strip(), tier, n))
     print(f"  total claims found: {total_claims}   mismatching: {len(total_bad)}")
     if not total_claims:
         print("  NONE PARSED - check the parser, not the bank.")
