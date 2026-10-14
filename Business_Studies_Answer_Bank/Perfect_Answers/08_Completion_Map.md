@@ -115,10 +115,10 @@ Currently held (verbatim, with award):
 
 | Type | Tariff | Best verified |
 |---|---|---|
-| **Analyse** | 6 | **19 × 6/6** — per-script register, `09_Verified_Tally.md` |
+| **Analyse** | 6 | **23 × 6/6** — per-script register, `09_Verified_Tally.md` (19 at the start of 14 Oct 2026) |
 | **Justify** | 9 | **15 × 9/9** — per-script register, `09_Verified_Tally.md` |
 | **Evaluate** | 12 | **2 × 12/12** (Jun 2024 P1 PPS · May 2023 P1 Irsi) · 11/12 (Spud Bros) |
-| **Explain** | 3 | multiple 3/3 |
+| **Explain** | 3 | **4 × 3/3**, all June 2026 P1R, each with its 0/3 counterpart |
 | **Calculate** | 2 | 2/2 with the d.p. rule |
 | **State / Define** | 1 | 1/1 vs 0/1 pairs |
 | **Outline** | 2 | 2/2 |
@@ -168,9 +168,9 @@ Priority order:
 | E1–E12 folding into `06_` | ✅ **FOLDED as `06_` rule 125 — a concordance, not new numbers.** All twelve were already carried by numbered rules (see Phase 4 item 5). **Match before you fold: an un-numbered rule set that duplicates the sequence must be folded by reference.** |
 | `May-June_2019_P2R` 79-marks puzzle | ✅ **RESOLVED — the paper is 80 marks, and the missing mark was ours.** `1(a)(iii)` carries **(1)** with no AO label printed against it, so the parser dropped it. It is entered as an explicit override in `build_layer_c_tariffs.py`, and **`papers NOT summing to 80: 0`** — all 38 papers now validate, which is the check the whole governed population rests on. |
 | **Word-collision cluster** | ✅ **20 terms, derived — rule 74 is the canonical table and `verify_collision_cluster.py` counts it.** **It said 19**; the 19 was reached by omitting `job share`, and a later row double-counted `trade bloc` and `job production`. The suggestion to sweep every QP was never carried out and **is not needed** — every row is a collision an examiner named, and a hand sweep would only add rows the reports do not support. |
-| **Do the coverage maps point at the RIGHT entry?** | ✅ **NOW CHECKED — a check that did not exist.** `verify_chain_bank_anchors.py` scores all **228 block → entry mappings** against **each block's own mark-scheme content** instead of against its label. First run: **146 proven outright** (the entry quotes the question verbatim) and **six May/June 2024 mappings at 17–29% overlap** — a second-order error from the mark-scheme rename, where the coverage map had been "corrected" against the inventory's stale paper labels. **Fixed: the map is now re-keyed to a regenerated inventory, and the verifier passes with 0 contradictions.** **Full write-up: `Source_Notes/ARCHIVE_LABEL_AUDIT_2026-10-14.md` § 6.** |
+| **Do the coverage maps point at the RIGHT entry?** | ✅ **NOW CHECKED — a check that did not exist.** `verify_chain_bank_anchors.py` scores all **228 block → entry mappings** against **each block's own mark-scheme content** instead of against its label. First run: **146 proven outright** (the entry quotes the question verbatim) — **now 152 of 228** and **six May/June 2024 mappings at 17–29% overlap** — a second-order error from the mark-scheme rename, where the coverage map had been "corrected" against the inventory's stale paper labels. **Fixed: the map is now re-keyed to a regenerated inventory, and the verifier passes with 0 contradictions.** **Full write-up: `Source_Notes/ARCHIVE_LABEL_AUDIT_2026-10-14.md` § 6.** |
 | **The 6-mark inventory had no builder** | ✅ **FIXED.** `build_layer_c_6mark_inventory.py` was a copy of the *9-mark* builder (it read the 9-mark dump and wrote the 9-mark CSV). **Rewritten as a real 6-mark builder**, and the inventory regenerated — 6 rows re-numbered onto the correct paper and 1 stem trimmed. **Both other inventories were regenerated and diffed: 9-mark and 12-mark reproduce exactly, 0 rows changed.** |
-| **253 MiB redundant tracked duplicate bundle parts** | **Still awaiting your decision.** *(You delegated this to my discretion; I have not acted, because deleting the parts from the working tree does not shrink the repository — it only removes the checkout copy — so the gain is small and the loss is the delivered bundle. Say the word and it goes.)* |
+| **253 MiB redundant tracked duplicate bundle parts** | ✅ **RESOLVED — and this row was itself stale.** At `45a1ef7` the byte-identical second copy was **deleted after hash-verifying it against the master first** (`bundle_part_aa.txt` + `bundle_part_ab.txt`, seven parts, 126.5 MiB against a `bundle_part_aa`/`bundle_part_ab` pair that hashes to the same master). **Tracked total 436.8 → 327 MiB.** The two surviving parts are the delivered master bundle itself (`a66d301…`, 132,690,284 B), not a duplicate of it. |
 | June 2026 grade boundaries | ✅ **verified against the Pearson PDFs, 14 Oct 2026 — in `00_`** (standard 133/160 · regional 137/160 · paper-level 68 / 68 / 65 / 69). |
 
 ---
@@ -402,7 +402,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 |---|---|---|
 | `verify_by_paper.py` | item count, marks, tariff histogram and governed-part labels for all 38 `By_Paper/` files | **988 items · 3040 marks · 12/4/4/3/2/1 per paper** — against the mark schemes, not against the files' own headers |
 | `build_layer_c_tariffs.py` | the tariff population from all 38 mark schemes | **152 / 114 / 76 / 38 governed, 456 / 152 below them, 38 of 38 papers at 80 marks, and every paper split 20 · 20 · 20 · 20** |
-| `tally_exemplars.py` | the verified-exemplar register | **19 × 6/6 · 15 × 9/9 · 2 × 12/12**, every row resolving to a real `file:line`, and no script-bearing heading unaccounted for |
+| `tally_exemplars.py` | the verified-exemplar register — **and the file's own totals** — and every heading that states a full mark | **4 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12 = 44 rows**, every row resolving to a real `file:line`; every headline total, section heading and prose count equal to the rows that back it; and **14 full-mark headings, every one backed by a register row**. Written after the register's own summary drifted: the headline said 19 six-marks against 23 rows, and had no 3-mark row at all |
 | `verify_chain_bank_anchors.py` | all **228** block → entry mappings (114 six-mark + 76 nine-mark + 38 twelve-mark), plus **every question an entry cites** | each block scored against **its own mark-scheme content**; **155 proven outright** because the entry quotes the question — **112 of 114**, **5 of 76** (most nine-mark schemes print no stem to compare), **38 of 38**. **The 30%–45% band is now EMPTY** (it held 4 six-mark mappings), and 0 remain below the contradiction floor. Also fails on an unlabelled model answer, and on a citation of a question the entry does not own with no `see entry N` pointer |
 | `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
 | `verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
@@ -413,6 +413,24 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
 | `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
+
+### ⚠️ THE REGISTER'S OWN HEADLINE HAD DRIFTED — AND A HEADING CLAIMED A MARK THE PAPER DID NOT AWARD (14 Oct 2026)
+
+`09_Verified_Tally.md` was written **because** hand-incremented totals had drifted five times. **Its own summary had become the sixth place.**
+
+| Stated | Backed by |
+|---|---|
+| Headline table: 6-mark **19** | the 6-mark section: **23 rows** |
+| Headline table: no 3-mark row at all | a `## 3 MARKS — 4 scripts` section below it |
+| Prose: *"All **36** rows resolve"* | **44** rows |
+
+The 3-mark tier was added to the body of the file on 14 Oct 2026 and **the summary above it was not updated** — which is the same failure as a hand-incremented total, one level down. **`tally_exemplars.py` now reads the file's headline table, every section heading, and that prose sentence, and fails if any stated total disagrees with the rows that back it.** Three sabotage tests, all caught.
+
+**The second defect is the more dangerous one, because it is read and not computed.** Every transcript heading that states a full mark with a paper and a question — **14 of them — resolves to a register row, except one:**
+
+> `## 6/6 — **wait**, 5/6 — P2 Q4(b) · "Analyse why IKEA uses statements of comprehensive income…" **(6)** — Level 3, **5 marks**`
+
+**The paper awards 5. The heading leads with 6.** It is honest in the body — the section flags it — but a heading is what a reader skims and what a pattern matches, and this one had been read as a full-mark claim every time. **Rewritten to state 5/6 first**, with the correction kept as a note. **The check now fails on any heading that states a full mark no register row backs**, and it is paper-aware: the register's own label matcher is deliberately paper-blind, so a P1R heading can never be satisfied by a P1 row.
 
 ### ✅ THE DUPLICATE SWEEP — run across the whole bank, 14 Oct 2026
 

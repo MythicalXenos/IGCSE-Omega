@@ -12,8 +12,8 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 36 rows resolve.**
-> 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **34 matched, 0 unaccounted.**
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 44 rows resolve.**
+> 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **53 matched, 35 narrative, 0 unaccounted.**
 > 3. **Everything else is filtered out as narrative.** That is the restatement filter: a rule section called *"THE 9/9 JUSTIFY — six required features"* **is not a script**, and a cross-reference to a transcript held in another file **is not a second script**.
 >
 > ⚠️ **The previous version of this script counted headings, and printed 17 / 14 / 4 against this register's 19 / 15 / 2** — it counted rule sections, cross-references and repeats. **A total that is wrong in a new way each time it is run is not evidence either.** The rewrite is why the rule above exists: **if this script and this table ever disagree, the script says so in the exit code and prints the offending heading.**
@@ -28,8 +28,15 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 |---|---|
 | **12-mark Evaluate** | **2** |
 | **9-mark Justify** | **15** |
-| **6-mark Analyse** | **19** |
+| **6-mark Analyse** | **23** |
+| **3-mark Explain** | **4** *(all June 2026 P1R)* |
 | **1- and 2-mark items** | n/a — *the mark scheme IS the perfect answer; Pearson publishes no scripts* |
+| **TOTAL** | **44** |
+
+> ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
+> On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
+>
+> **`tally_exemplars.py` now reads this table, every section heading, and that prose sentence, and fails if any stated total disagrees with the rows that back it.** The register was created *because* hand-incremented totals had drifted five times; **its own headline had become the sixth place, which is why the check reads the file's summaries and not only its rows.**
 
 > ### ⚠️ WHAT THIS TABLE COUNTS — AND WHAT IT DOES NOT
 > **It counts scripts Pearson printed with FULL marks against them.** A script the report itself scores at **11/12** is not a row here, and neither is a **6/12** or a **10/12** — **they are held instead in `03_Calibration_Below_Full_Marks.md` and in the 12-mark section of `02_Verified_Exemplars.md`, which is where their examiner comments teach the most.** The best of them — **Spud Bros, June 2026 P1R Q4(c), 11/12** — is called *"the best 12-mark model in the bank"* in `02_` for the reason that matters: **it is the closest thing to a full-mark 12-mark answer the bank owns, and it is the one Pearson printed with a conclusion.**

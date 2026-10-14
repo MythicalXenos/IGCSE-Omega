@@ -165,10 +165,115 @@ def main():
     print(f"  UNACCOUNTED               : {len(unaccounted)}")
     for tariff, f, ln, txt in unaccounted:
         print(f"    !! {tariff}  {f}:{ln}  {txt[:90]}")
+
+    # ---- the file's own totals, against its own rows -----------------------
+    # `09_` was written BECAUSE hand-incremented totals had drifted five times.
+    # On 14 Oct 2026 its headline table had drifted too: it said 6-mark = 19
+    # while the table below it held 23, and it had no 3-mark row at all, because
+    # a tier can be added to the body of a file without the summary following it.
+    # This is the check that makes that impossible: every total the file states
+    # must equal the number of rows the file has.
     print()
     print("=" * 78)
-    ok = not bad and not unaccounted
-    print("RESULT:", "OK — the register is complete against the bank's own prose."
+    print("THE FILE'S OWN TOTALS — every stated total against the rows that back it")
+    print("=" * 78)
+    text = REGISTER.read_text(encoding="utf-8")
+    stated = {}
+    m = re.search(r"## HEADLINE COUNT\n(.*?)\n\n", text, re.S)
+    if not m:
+        stated_bad = ["09_ has no HEADLINE COUNT table — parser or file has changed"]
+        print("  !! could not find the HEADLINE COUNT table")
+    else:
+        stated_bad = []
+        for cell, tariff in re.findall(r"\|\s*\*\*(3|6|9|12)-mark \w+\*\*\s*\|\s*\*\*(\d+)\*\*", m.group(1)):
+            key = f"{int(cell)}/{int(cell)}"
+            stated[f"{cell}-mark"] = (int(tariff), counts[key])
+        for tier, (paper, truth) in stated.items():
+            flag = "ok " if paper == truth else "FAIL"
+            print(f"  {flag} headline {tier:<9} says {paper:>3}   rows in the register: {truth:>3}")
+            if paper != truth:
+                stated_bad.append(f"the headline table's {tier} count is {paper}; the register has {truth}")
+        missing = [t for t in ("3-mark", "6-mark", "9-mark", "12-mark") if t not in stated]
+        if missing:
+            print(f"  FAIL headline table has no row for: {missing}")
+            stated_bad.append(f"the headline table omits {missing} — a tier can be added to the body without following the summary")
+
+    # section headings: "## 6 MARKS — **23 scripts**"
+    for cell, paper in re.findall(r"^## (3|6|9|12) MARKS — \*\*(\d+) scripts?\*\*", text, re.M):
+        key = f"{int(cell)}/{int(cell)}"
+        ok_s = int(paper) == counts[key]
+        print(f"  {'ok ' if ok_s else 'FAIL'} section heading {cell} MARKS says {paper:>3}   "
+              f"rows under it: {counts[key]:>3}")
+        if not ok_s:
+            stated_bad.append(f"the {cell}-mark section heading says {paper}; it holds {counts[key]} rows")
+
+    # the prose count of rows that resolve: "All N rows resolve"
+    for paper in re.findall(r"\*\*All (\d+) rows resolve", text):
+        ok_r = int(paper) == sum(counts.values())
+        print(f"  {'ok ' if ok_r else 'FAIL'} prose says {paper} rows resolve   "
+              f"rows: {sum(counts.values())}")
+        if not ok_r:
+            stated_bad.append(f"the prose says {paper} rows resolve; there are {sum(counts.values())}")
+
+    # ---- headings that STATE a full mark must resolve to a register row ----
+    # A heading is what a reader skims and what a pattern matches, so a heading
+    # that states "6/6" has made a claim. On 14 Oct 2026 one read
+    # "## 6/6 - wait, 5/6 - P2 Q4(b) ... Level 3, 5 marks": the paper awarded 5,
+    # and the heading led with 6. Every other full-mark heading in the bank
+    # resolved to a register row; that one resolved to nothing, which is the
+    # signal.
+    print()
+    print("=" * 78)
+    print("FULL-MARK HEADINGS — every heading stating a full mark against the register")
+    print("=" * 78)
+    HEAD = re.compile(r"^(#{2,5})\s*.*?\b(\d{1,2})/(\d{1,2})\b.*$")
+    # PAPER-AWARE keys, built from the register rows themselves. `register_labels()`
+    # builds two-tuples of (tier, question) with no paper, which is right for its
+    # own job but wrong here: it would let a P1R heading be satisfied by a P1 row.
+    reg_keys = set()
+    for _t, _label, _f, _ln in rows:
+        _q = re.search(r"Q(\d)\((\w)\)", _label)
+        _p = re.search(r"\bP(\d)(R?)\b", _label)
+        if _q and _p:
+            reg_keys.add((f"{_t}", f"P{_p.group(1)}{_p.group(2)}", f"q{_q.group(1)}{_q.group(2)}"))
+    heading_rows, heading_bad = 0, []
+    for f in sorted(ROOT.rglob("*.md")):
+        for i, line in enumerate(f.read_text(encoding="utf-8", errors="replace").split("\n"), 1):
+            if not line.lstrip().startswith("#"):
+                continue
+            h = HEAD.match(line)
+            if not h:
+                continue
+            a, b = int(h.group(2)), int(h.group(3))
+            if a != b or b not in (3, 6, 9, 12):
+                continue
+            q = QLABEL.search(line)
+            pp = re.search(r"\bP(\d)(R?)\b", line)
+            if not (q and pp):
+                continue
+            heading_rows += 1
+            key = (f"{b}/{b}", f"P{pp.group(1)}{pp.group(2)}", f"q{q.group(1)}{q.group(2)}")
+            if key not in reg_keys:
+                heading_bad.append((str(f.relative_to(ROOT)), i, line.strip()[:96]))
+    print(f"  headings stating a full mark with a paper and a question: {heading_rows}")
+    if not heading_rows:
+        print("  NONE PARSED - check the parser, not the bank.")
+        stated_bad.append("the full-mark heading scan parsed nothing")
+    for f, i, txt in heading_bad:
+        print(f"  !! {f}:{i}")
+        print(f"       {txt}")
+        stated_bad.append(f"{f}:{i} states a full mark that no register row backs: {txt[:70]}")
+    if heading_rows and not heading_bad:
+        print("  every one resolves to a register row.")
+
+    print()
+    print("=" * 78)
+    ok = not bad and not unaccounted and not stated_bad
+    if stated_bad:
+        for pr in stated_bad:
+            print(f"  !! {pr}")
+    print("RESULT:", "OK — the register is complete against the bank's own prose, and every "
+                     "total it states equals the rows that back it."
           if ok else "FAIL — see the rows above. Fix the register, not this script.")
     return 0 if ok else 1
 

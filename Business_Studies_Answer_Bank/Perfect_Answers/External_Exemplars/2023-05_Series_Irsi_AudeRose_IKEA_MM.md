@@ -332,7 +332,9 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 
 **Commentary:** *"To gain the marks available candidates needed to apply the information and then analyse… **Remember examiners will look at the response 'holistically'** — has the candidate applied their knowledge to the scenario and have they analysed the information? They will then make a decision as to where the response **'best fits'** into the Levels."*
 
-## 6/6 — wait, 5/6 — P2 Q4(b) · *"Analyse why IKEA uses statements of comprehensive income to assess its business performance"* **(6)** — Level 3, 5 marks
+## 5/6 — P2 Q4(b) · *"Analyse why IKEA uses statements of comprehensive income to assess its business performance"* **(6)** — Level 3, 5 marks
+
+> ⚠️ **Filed as 5/6, and the heading used to read *"6/6 — wait, 5/6"*. A heading whose first token is a mark the report does not award is read as a full-mark claim by every skimmer and every pattern — the mark the piece actually scored is the one that belongs first.**
 
 > **Statement of comprehensive income is used to assess performance as ratios such as profit margins can be compared to competitor values to analyse how low their costs are in comparison to competitive firms.** Statements of comprehensive income can also be used to **see if IKEA need to convert more or change suppliers if cost of sales is a large percentage of revenue**. These values can then be used to **inform decision making on whether normal profit needed to maintain stakeholder satisfaction is being met**. **If revenue is low, it could reflect how customers are not happy with quality of furniture from IKEA, thus customer satisfaction is lower causing IKEA to see if they are performing well or not.**
 
