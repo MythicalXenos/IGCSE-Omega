@@ -389,7 +389,7 @@ python3 verify_ms_point_coverage.py     # every awarded MS point is at least nam
 python3 verify_coverage_claims.py       # the coverage grids agree with the register
 python3 verify_boundaries.py            # both boundary tables agree with Pearson
 python3 verify_rule_index.py            # rules 1-125 defined once; every citation resolves
-python3 verify_3mark_shape.py           # every 3-mark model is a chain, not an outcome
+python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's shape
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -411,7 +411,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 310 print a stem · 273 citations = 150 by question number + 18 the scheme does not print + 5 duplicates folded + 100 by paper** (70 of those proven, 30 on the nine papers printing no 3-mark wording) · **0 unresolved · 0 misattributed** · **29 near-miss quotes, every one read by hand and explained**. The 151→150 and 4→5 moves are one event: two citations of the same question that differed by one word became identical when the word was corrected Prints the citation count first, because a version of it that parsed nothing reported OK |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
-| `verify_3mark_shape.py` | every 3-mark model against the tariff *identify → mechanism → consequence* — the shape four June 2026 0/3 answers failed | **97 of 97 mapped 3-mark entries carry an explicit mechanism step; none reproduces the 0/3 shape.** Reads only the blockquote, so the entry's own commentary can never satisfy it. Its first version **passed on a model replaced with the report's own 0/3 wording** — see below |
+| `verify_model_shape.py` | every governed model against the shape its tariff requires | **3-mark: 97 entries, 98 models — all carry an explicit mechanism step.** **6-mark: 74 entries — all carry two or more chain links.** **9-mark: 49 entries — all carry a NAMED CONDITION (rule 91).** **12-mark: 24 entries, 25 models — all carry a woven judgement (≥3 evaluation markers, ≥120 words). 246 models across four tiers.** Reads only the blockquote, so an entry's commentary can never satisfy it. Its first version, for the 3-mark tier alone, **passed on a model replaced with the report's own 0/3 wording** — see below. Every tier sabotage-tested |
 | `verify_rule_index.py` | the rule index — every number 1–125 defined exactly once across `01_` and `06_`, and every `rule N` cited anywhere in the bank | **125 rules, 125 definitions, 0 duplicates, 0 gaps; 41 distinct rule numbers cited across 75 files, every one resolving.** Written because `10_Chain_Bank.md` numbers its 252 entries in the **same `## N. Title` format** as the rules — the two domains are indistinguishable to a grep, which is how a duplicate would hide |
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
@@ -425,7 +425,18 @@ Four June 2026 P1R **0/3** answers fail identically — each names a correct **c
 
 **Fixed by reading only the contiguous blockquote lines** — the model is quoted and the commentary never is. **Then it flagged entry 93**, whose advantage model is Pearson's own `(1)(1)(1)` chain whose link is a participle — *"**Giving it a greater chance of success** (1)"* — so participles and light verbs joined the marker list, for the same reason conditionals did. **Then the sabotage failed correctly** (96 of 97, naming entry 1).
 
-**Result: 97 of 97. Every three-mark model in the bank carries an explicit mechanism step, and none reproduces the shape that scored zero four times in the newest series.**
+**The same test was then applied to the other three tiers, each against the rule its own examiner evidence states — and the single script now covers all four:**
+
+| Tier | The shape the mark schemes require | Result |
+|---|---|---|
+| **3-mark Explain** | identify → **mechanism** → consequence | **97 entries · 98 models · all pass** |
+| **6-mark Analyse** | one point with **developed strands** (rule 110) | **74 entries · all pass** |
+| **9-mark Justify** | a choice, both sides, and a **named condition** (rule 91) | **49 entries · all pass** |
+| **12-mark Evaluate** | **woven judgement** — ≥3 evaluation markers, ≥120 words (rules 82–83) | **24 entries · 25 models · all pass** |
+
+**246 models, four tiers, every one carrying the shape its tariff requires.** Five 6-mark entries were flagged on the first pass and **all five were false positives of a narrow marker list** — read by hand, each is a full chain (*"otherwise it is only a feeling"*, *"and that cannot be written down"*). That is the same lesson as entries 72, 100 and 93: **the screen must accept what the examiner accepts, or it teaches the wrong thing.**
+
+**Every tier was sabotage-tested and every tier failed correctly** — a 0/3 in place of a 3-mark chain, the condition vocabulary stripped from a 9-mark model, and a bare verdict in place of a 12-mark evaluation.
 
 ### ⭐ THE 9-MARK TIER NEEDED A DIFFERENT INSTRUMENT, AND NOW HAS ONE (14 Oct 2026)
 
