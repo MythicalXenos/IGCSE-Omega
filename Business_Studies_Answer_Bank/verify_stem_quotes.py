@@ -52,6 +52,24 @@ HERE = pathlib.Path(__file__).resolve().parent
 PA = HERE / "Perfect_Answers"
 FLOOR = 0.60            # below this, a quoted stem is not the printed one
 PAPER_FLOOR = 0.50      # below this, NO question on the named paper resembles the quote
+NEAR = 0.90             # this high, the citation IS the question's wording - so it must match
+# Every near-miss was read by hand on 14 Oct 2026 and none was a slip. They fall
+# into four kinds, all legitimate:
+#   * the bank's own "·" between Option 1 and Option 2, where the scheme runs them
+#     together, or a stem quoted from the lead-in sentence onwards;
+#   * the scheme's PDF artefacts - "e- commerce", "off-the job", "complete AND
+#     application form" - where the bank has silently repaired an extraction fault,
+#     which rule 124 requires;
+#   * the scheme paraphrasing the question paper ("the proximity to materials" for
+#     the paper's "proximity of material"); the bank quotes the paper;
+#   * a clarifying bracket the bank adds openly - "(Premier Inn)".
+# So the list is an ADVISORY that must stay the size it was reviewed at. A NEW one
+# fails the run: that is exactly the shape of the "Analyse WHY Kraft Heinz" slip,
+# which sat unnoticed because 0.97 similarity read as "resolved".
+NEAR_REVIEWED = 29
+# A quote carrying an ellipsis or a square bracket is an EDITED quote, and the bank
+# marks its edits openly. Those are excluded: the rule is about unmarked slips.
+EDITING = re.compile(r"\u2026|\.\.\.|\[|\]")
 SHOW = 25               # how many of the weakest to print
 
 SESSION = {
@@ -113,6 +131,16 @@ def norm(t: str) -> str:
     return t.rstrip(" .")
 
 
+def plain(t: str) -> str:
+    """`norm` with markdown emphasis and code ticks removed.
+
+    The bank bolds the topic inside a quoted stem ("Explain one advantage of being
+    a **sole trader**"). That is emphasis, not wording, and it made 39 correct
+    quotes look like near-misses. This is for the SUBSTRING test only.
+    """
+    return norm(re.sub(r"[*_`]", "", t or ""))
+
+
 def load_blocks():
     """(session, paper, question) -> stem, from the three derived inventories."""
     out = {}
@@ -163,6 +191,7 @@ def main() -> int:
 
     seen, unresolved, nostem, weak, checked = set(), [], [], [], 0
     misattributed = []
+    near_miss = []
     paper_only = []
     found = 0
     dupes = 0
@@ -207,6 +236,15 @@ def main() -> int:
             checked += 1
             score = similarity(quote, stem)
             if score >= FLOOR:
+                # A VERY HIGH score means the citation is not a paraphrase - it is
+                # quoting the question's own words. If the wording then differs by a
+                # word, the quote is wrong even though it "resolved": **"Analyse WHY
+                # Kraft Heinz could benefit from reducing its waste" scored 0.97
+                # against the scheme's "Analyse HOW ..." and passed every run of this
+                # check for weeks.** The floor of 0.30 is for recognising the
+                # question; this rule is for checking the quote.
+                if score >= NEAR and plain(quote) not in plain(stem) and not EDITING.search(quote):
+                    near_miss.append((score, f.relative_to(PA), key, quote, stem))
                 continue
             # DIAGNOSIS: does the quote match a DIFFERENT question on the same paper?
             # Four errors of this kind have been found - the second Justify on a paper
@@ -250,7 +288,7 @@ def main() -> int:
     THREE = {"1(f)", "2(c)", "2(d)", "2(e)"}
     no_match, paper_proven, paper_blind = [], 0, 0
     for f, (sess, paper), quote in paper_only:
-        best = (0.0, None)
+        best = (0.0, None, "")
         printable3 = False
         for (s2, p2, q2), stem in blocks.items():
             if (s2, p2) != (sess, paper):
@@ -261,8 +299,10 @@ def main() -> int:
                 continue
             sc = similarity(quote, stem)
             if sc > best[0]:
-                best = (sc, q2)
+                best = (sc, q2, stem)
         if best[0] >= PAPER_FLOOR:
+            if best[0] >= NEAR and plain(quote) not in plain(best[2]) and not EDITING.search(quote):
+                near_miss.append((best[0], f, (sess, paper, best[1]), quote, best[2]))
             paper_proven += 1
         elif printable3:
             no_match.append((best[0], f, f"{sess} {paper}", quote, best[1]))
@@ -275,6 +315,31 @@ def main() -> int:
     # when it first opens a new restaurant" for "penetration pricing"); the citation
     # states the question and the scheme's own answer content carries it, so this is
     # advisory. A check that cries wolf on the legitimate ones stops being read.
+    print()
+    print("=" * 74)
+    print(f"NEAR-MISS QUOTES — {len(near_miss)}: the citation is that question, but the wording differs")
+    print("=" * 74)
+    if not near_miss:
+        print("  none — every high-similarity quote is the scheme's own wording.")
+    for score, f, key, quote, stem in sorted(near_miss, reverse=True):
+        diff = [w for w in plain(quote).split()
+                if w not in set(plain(stem).split())]
+        print(f"  {score:.3f}  {f}  {key[0]} {key[1]} {key[2] if len(key) > 2 else ''}")
+        print(f"       bank : {quote[:110]}")
+        print(f"       MS   : {stem[:110]}")
+        print(f"       words the scheme does not have: {diff[:8]}")
+    if len(near_miss) > NEAR_REVIEWED:
+        print(f"  !! {len(near_miss)} near-misses against {NEAR_REVIEWED} reviewed on 14 Oct 2026 "
+              f"— {len(near_miss) - NEAR_REVIEWED} NEW one(s). Read the diffs above: a new "
+              f"near-miss is how a wording slip looks.")
+    elif len(near_miss) < NEAR_REVIEWED:
+        print(f"  note: {NEAR_REVIEWED - len(near_miss)} fewer than the reviewed set — "
+              f"a quote was fixed or removed. Lower NEAR_REVIEWED to match.")
+    else:
+        print(f"  all {NEAR_REVIEWED} are the reviewed set (separators, PDF repairs, the "
+              f"scheme paraphrasing the paper, an open bracket) — none is a new slip.")
+    print()
+
     print("=" * 74)
     print(f"MISATTRIBUTED QUOTES — {len(misattributed)}")
     print("=" * 74)
@@ -326,11 +391,14 @@ def main() -> int:
             print(f"  {f}  {key}  {re.sub(chr(10),' ',quote)[:80]}")
 
     print()
-    problems = len(misattributed) + len(no_match)
-    print("RESULT:", "OK — no quoted stem names the wrong question."
+    problems = (len(misattributed) + len(no_match)
+                + max(0, len(near_miss) - NEAR_REVIEWED))
+    print("RESULT:", "OK — no quoted stem names the wrong question, and every "
+                     "high-similarity quote is verbatim."
           if not problems
           else f"FAIL — {len(misattributed)} quote(s) belong to a different question, "
-               f"and {len(no_match)} name a paper with no question like them. The bank is wrong.")
+               f"{len(no_match)} name a paper with no question like them, and "
+               f"{len(near_miss)} quote a question with the wrong wording. The bank is wrong.")
     return 0 if not problems else 1
 
 

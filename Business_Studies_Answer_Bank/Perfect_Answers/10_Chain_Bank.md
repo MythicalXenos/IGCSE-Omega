@@ -2465,7 +2465,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 115. INTERNAL SOURCES OF FINANCE — the benefits
 
 **Asked:** *"Analyse the benefits to Lavender of using internal sources of finance for its expansion plans."* — **May–June 2019 P1R, 4(b)**
-**Also asked:** *"Analyse the benefits to NOF of using personal savings to expand its product range."* — June 2021 P1 4(b) · *"Analyse the impact on Aude Rose of using its retained profits for this proposed development."* — May 2023 P1R 3(d)
+**Also asked:** *"Analyse the benefits to NOF of using personal savings to expand its product range."* — June 2021 P1 4(b) · *"Analyse the impact on Aude Rose of using its retained profits for this proposed development."* — May 2023 P1R 3(d) *(retained profits specifically — see **entry 157**)*
 
 **The AO2 anchors:** Lavender will **know the amount of internal finance it has available**; and **the money does not have to be borrowed or negotiated**.
 
@@ -2504,6 +2504,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** high standards → **positive word of mouth in the mall** → customers arrive already intending to buy → **less spent on promotion**.
 
 > ⭐ **Compare this with entry 113.** Both are "customer satisfaction" questions, but **Lavender's answer turns on multiple outlets and Backyard Shoez's turns on being surrounded by competitors.** *The chain is the same shape; the AO2 is completely different.* That is the whole skill at this tariff.
+
+**The scheme's own chains for the negative framing (May–June 2024 P2R, 1(g) — *"Analyse two problems for Jimmy Choo if customer needs are not satisfied."*):** *"Customers may be disappointed with their shoes and will go elsewhere to buy their next pair • Revenue may fall if a new perfume does not meet the standard that customer need and want"* → *"*"This could have a large impact on Jimmy Choo’s sales and profits"* **"This could incur a loss of revenue and may impact further upon Jimmy Choo’s expansion plans"**. **Read the end of that chain: lost revenue does not stop at profit — it starves the plans to grow.** Note the second AO2 bullet: the scheme's own example is a **product line** (perfume) failing the standard customers need and want, **not only the shoes** — so an answer that says "customers buy elsewhere" and stops has used one of the two bullets it was given.
 
 ---
 
@@ -2556,12 +2558,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 > ⚠️ **Know which ratio you have been given.** **Gross profit margin** = gross profit ÷ revenue × 100 — what is left after the *cost of the goods*. **Acid test** = (current assets − inventory) ÷ current liabilities — can the business pay its debts **without selling stock**. Quoting the wrong formula is a calculation mark lost, and **the final answer line is what is marked**.
 
+**The scheme's own Artify chains (Nov 2021 P1, 3(d) — *"Analyse how Artify Studio could use the information in Figure 1 to assess the performance of the business."*):** *"Ar*"Artify Studio can see how it is performing and can calculate the gross profit margin of 31.49%."*"Arti*"Artify Studio could can use this information to assess the direction that the art studio will take in the future."*his c*"This calculation helps them to see the sales they are making are currently sufficiently covering costs of running their services and selling their products."*is helps Artify Studio to judge how much profit they are making against the cost of running their business and if any changes need to be made to make the business more profitable"**. **The end of that chain is a DECISION TO CHANGE something — the scheme's last clause is not "knows more" but "makes changes". A performance answer that stops at "it can see how it is doing" has not finished** — and the figure is given, so the answer names **31.49%**.
+
 ---
 
 ## 119. KAIZEN — why a business encourages its suppliers to use it
 
 **Asked:** *"Analyse why Yellow might encourage its clothing manufacturers to use Kaizen."* — **May–June 2019 P2R, 1(g)**
-**Also asked:** *"Analyse how Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d) · *"Analyse how [Kaizen] could affect **its** business."* — **Nov 2023 P1, 4(b)**, **AWG**, where the business runs Kaizen **in its own clothing workshop** rather than asking a supplier to — the same chains apply, and the AO anchors are the workshop staff's.
+**Also asked:** *"Analyse how Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d) *(different chains — waste, cost and environmental reputation rather than continuous improvement: see **entry 154**)* · *"Analyse how [Kaizen] could affect **its** business."* — **Nov 2023 P1, 4(b)**, **AWG**, where the business runs Kaizen **in its own clothing workshop** rather than asking a supplier to — the same chains apply, and the AO anchors are the workshop staff's.
 
 **The AO2 anchors:** the **quality of the T-shirts will be better**; and there will be a **reduction in the costs of making the T-shirts**.
 
@@ -2669,6 +2673,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain (Huawei):** factories **near the labour sources** → workers arrive without relocating → **the business gets the skills it needs without paying relocation costs** → lower unit cost.
 
 > ⚠️ **Location questions always have two directions — pull towards customers, push away from rivals or towards materials.** An answer that only says "close to customers" answers half the question. **The mark scheme's second AO2 bullet is always the one candidates miss.**
+
+**The scheme's own Huawei chains (Nov 2021 P2, 1(g)), point by point:** *"By locat*"By locating a factory in an area where there is a skilled labour force it could reduce training costs"*i may*"Huawei may need certain skills to operate manufacturing machinery for its products e.g. smartphones"*ey sa*"The money saved could then be used for other purposes within Huawei"* skills are available the factory may become more productive and efficient in manufacturing smartphones"**. **A labour-side chain from end to end — training costs avoided, the saving redeployed, productivity rising — and none of it is about customers.** An answer built only on customers and footfall has answered the wrong half of a *"near its labour sources"* question.
 
 ---
 
@@ -2876,7 +2882,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 131. USING FINANCIAL INFORMATION — how the figures inform decisions
 
 **Asked:** *"Analyse how Tata Motor Company could use the financial information in Figure 2."* — **May–June 2019 P2, 3(d)**
-**Also asked:** *"Analyse how useful the information in Figure 2 is to Loaf."* — May–June 2020 P1R 3(d) · *"Analyse the likely benefits to Emirates of using financial information when making business decisions."* — May–June 2020 P2 1(g) · *"Analyse how Artify Studio could use the information in Figure 1 to assess the performance of the business."* — Nov 2021 P1 3(d)
+**Also asked:** *"Analyse how useful the information in Figure 2 is to Loaf."* — May–June 2020 P1R 3(d) · *"Analyse the likely benefits to Emirates of using financial information when making business decisions."* — May–June 2020 P2 1(g) · *"Analyse how Artify Studio could use the information in Figure 1 to assess the performance of the business."* — Nov 2021 P1 3(d) *(profitability ratios — see **entry 118**)*
 
 > **These four questions all say "the information in Figure N". That is a signal:** the figures **must be quoted**, and the mark scheme's AO2 bullets are built on them.
 
@@ -3449,7 +3455,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 154. USING RESOURCES EFFECTIVELY — the importance of it
 
 **Asked:** *"Analyse the importance for Rabanne of using its resources effectively."* — **June 2025 P2R, 3(d)**
-**Also asked:** *"Analyse why Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d)
+**Also asked:** *"Analyse how Kraft Heinz could benefit from reducing its waste."* — Nov 2023 P2 3(d)
 
 **The AO2 anchors:** Rabanne uses resources effectively by **not wasting packaging material** for its handbags and accessories; and by **developing higher quality packaging** for its fragrances.
 
@@ -3466,6 +3472,8 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Second acceptable chain:** using resources effectively includes **labour and machine time** — shorter changeovers and less rework **release capacity without buying another machine** → **output rises with no rise in fixed cost**.
 
 > ⭐ **"Resources" is wider than "materials":** people, machines, time, money and materials. **The case decides which one to reach for** — and Rabanne's case points at packaging, which is why the scheme's bullets are about packaging and not about staff.
+
+**The scheme's own Kraft Heinz chains (Nov 2023 P2, 3(d)):** *"The environmen*"The environmental reputation of Kraft Heinz could be improved by its reduction in waste to landfill from 2019 to 2021"*ess w*"By having less waste Kraft Heinz can reduce its production costs for the tins of baked beans"*as a *"Kraft Heinz has a good reputation for reducing its energy, to save the environment, which may prove attractive to people and thus they will purchase more of Kraft Heinz’s products"*e cost of production of baked beans can reduce the price to customers thereby selling more and increasing revenue"**. **Two ends, and the second is the one candidates miss: the saving can come back as a LOWER PRICE that sells more, not only as retained profit.** The reputation route names **landfill** and **energy**, so say what the waste was.
 
 ---
 
@@ -3556,7 +3564,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 158. PLACE — the importance of it in the marketing mix
 
 **Asked:** *"Analyse the importance of place to Irsi Chocolatier."* — **May 2023 P1, 4(b)**
-**Also asked:** *"Analyse the importance of location for TADS."* — May–June 2020 P1 1(g) · *"Analyse the factors that could influence Cadbury when locating a new factory."* — June 2022 P2R 1(g)
+**Also asked:** *"Analyse the importance of location for TADS."* — May–June 2020 P1 1(g) · *"Analyse the factors that could influence Cadbury when locating a new factory."* — June 2022 P2R 1(g) — **both are *location* questions, answered about cost and not about the customer: full answers in entry 122**
 
 > **Place in the marketing mix is not the same as location for a factory.** For a retailer, *place* is **how the customer gets the product** — the shop, the website, the delivery van. **A factory location question is about cost; a place question is about the customer.** Read which one you have.
 
@@ -3581,7 +3589,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 159. COMPARING WITH COMPETITORS — why a business benchmarks
 
 **Asked:** *"Analyse why M&M would want to compare its business with other vehicle manufacturers."* — **May 2023 P2R, 3(d)**
-**Also asked:** *"Analyse why M&M wants to continue planting trees."* — May 2023 P2R 4(b)
+**Also asked:** *"Analyse why M&M wants to continue planting trees."* — May 2023 P2R 4(b) *(environmental action — see **entry 160**)*
 
 **The AO2 anchors:** M&M can **compare its sales of cars with other businesses such as the Ford Motor Company**; and **if Fiat introduces different models of tractors, M&M may consider changing the design of its own**.
 
@@ -3651,7 +3659,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 162. SHORTLISTING — why a business does it before interview
 
 **Asked:** *"Analyse why IKEA shortlists candidates for positions in its factories."* — **May 2023 P2, 3(d)**
-**Also asked:** *"Analyse why Jimmy Choo asks all candidates to complete an application form."* — June 2024 P2R 3(d) · *"Analyse how recruitment documents may help Samsung."* — Nov 2025 P2 1(g)
+**Also asked:** *"Analyse why Jimmy Choo asks all candidates to complete an application form."* — June 2024 P2R 3(d) · *"Analyse how recruitment documents may help Samsung."* — Nov 2025 P2 1(g) — **both are about the documents themselves, not the shortlisting step: full answer in entry 146**
 
 **The AO2 anchors:** shortlisting **saves IKEA time by only calling applicants for interview if they have the experience or qualifications**; and IKEA **will shortlist candidates that match the job description** of a carpenter in its factories.
 
@@ -3741,7 +3749,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 165. QUALITY CONTROL — why a manufacturer protects quality
 
 **Asked:** *"Analyse why Huawei would want good quality control when producing its smartphones."* — **Nov 2021 P2, 4(b)**
-**Also asked:** *"Analyse the importance of making sure guests have a quality service (Premier Inn)."* — Nov 2024 P2, 4(b)
+**Also asked:** *"Analyse the importance of making sure guests have a quality service (Premier Inn)."* — Nov 2024 P2, 4(b) *(service quality, not quality control — see **entry 171**)*
 **Related:** entry **119 (Kaizen)** and the **quality** entries in `10_`'s 3-mark tier — *quality control is checking faults out; Kaizen and TQM are about stopping them arising.*
 
 **The AO2 anchors:** if Huawei **gains a reputation for good quality products, more customers are likely to purchase its smartphones**; and **to repair faulty smartphones would be expensive**.
@@ -3949,7 +3957,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 ## 174. MARKET RESEARCH — its purpose
 
 **Asked:** *"Analyse the purpose of market research for Samsung."* — **Nov 2025 P2, 4(b)**
-**Also asked:** *"Analyse the importance of reliable market research (PPS)."* — June 2024 P1 3(d) · *"Analyse two methods of primary research (Saha)."* — Nov 2024 P1 1(g)
+**Also asked:** *"Analyse the importance of reliable market research (PPS)."* — June 2024 P1 3(d) *(reliability — see **entry 143**)* · *"Analyse two methods of primary research (Saha)."* — Nov 2024 P1 1(g) *(choosing the method — see **entry 169**)*
 
 > **Three research questions across three papers, each testing something different:** **entry 143** = whether the data can be trusted · **entry 169** = which method to use · **this entry** = what the research is *for*.
 

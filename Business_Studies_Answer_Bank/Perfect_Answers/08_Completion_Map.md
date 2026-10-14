@@ -403,10 +403,10 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_by_paper.py` | item count, marks, tariff histogram and governed-part labels for all 38 `By_Paper/` files | **988 items · 3040 marks · 12/4/4/3/2/1 per paper** — against the mark schemes, not against the files' own headers |
 | `build_layer_c_tariffs.py` | the tariff population from all 38 mark schemes | **152 / 114 / 76 / 38 governed, 456 / 152 below them, 38 of 38 papers at 80 marks, and every paper split 20 · 20 · 20 · 20** |
 | `tally_exemplars.py` | the verified-exemplar register | **19 × 6/6 · 15 × 9/9 · 2 × 12/12**, every row resolving to a real `file:line`, and no script-bearing heading unaccounted for |
-| `verify_chain_bank_anchors.py` | all **228** block → entry mappings (114 six-mark + 76 nine-mark + 38 twelve-mark) | each block scored against **its own mark-scheme content**; **152 proven outright** because the entry quotes the question — **109 of 114**, **5 of 76** (most nine-mark schemes print no stem to compare), **38 of 38**. 0 below the 30% contradiction floor |
+| `verify_chain_bank_anchors.py` | all **228** block → entry mappings (114 six-mark + 76 nine-mark + 38 twelve-mark), plus **every question an entry cites** | each block scored against **its own mark-scheme content**; **155 proven outright** because the entry quotes the question — **112 of 114**, **5 of 76** (most nine-mark schemes print no stem to compare), **38 of 38**. **The 30%–45% band is now EMPTY** (it held 4 six-mark mappings), and 0 remain below the contradiction floor. Also fails on an unlabelled model answer, and on a citation of a question the entry does not own with no `see entry N` pointer |
 | `layer_c_coverage.py` *(and the tier builders above)* | topic coverage per tier | **152/152 · 114/114 · 76/76 · 38/38 — 0 remaining** |
 | `verify_collision_cluster.py` | the word-collision table | the stated total equals the row count. **It is 20.** |
-| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 310 print a stem · 273 citations = 151 by question number + 18 the scheme does not print + 4 duplicates folded + 100 by paper** (70 of those proven, 30 on the nine papers printing no 3-mark wording) · **0 unresolved · 0 misattributed.** Prints the citation count first, because a version of it that parsed nothing reported OK |
+| `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 310 print a stem · 273 citations = 150 by question number + 18 the scheme does not print + 5 duplicates folded + 100 by paper** (70 of those proven, 30 on the nine papers printing no 3-mark wording) · **0 unresolved · 0 misattributed** · **29 near-miss quotes, every one read by hand and explained**. The 151→150 and 4→5 moves are one event: two citations of the same question that differed by one word became identical when the word was corrected Prints the citation count first, because a version of it that parsed nothing reported OK |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
 | `verify_rule_index.py` | the rule index — every number 1–125 defined exactly once across `01_` and `06_`, and every `rule N` cited anywhere in the bank | **125 rules, 125 definitions, 0 duplicates, 0 gaps; 41 distinct rule numbers cited across 75 files, every one resolving.** Written because `10_Chain_Bank.md` numbers its 252 entries in the **same `## N. Title` format** as the rules — the two domains are indistinguishable to a grep, which is how a duplicate would hide |
@@ -425,6 +425,35 @@ Layer D requires **no duplicates**, so the whole bank was scanned: every line ov
 | Scenario quotes repeated across two or three report transcripts | **19** | Pearson prints the same guidance verbatim in more than one paper's report — which is itself rule 40's finding |
 
 **No model answer, no topic entry and no verified script is duplicated.** The scan's value is in what it rules out: the register's 36 rows resolve to 36 distinct `file:line` references, and no Chain Bank entry repeats another's model answer.
+
+### ⚠️ "ANALYSE **WHY** KRAFT HEINZ" — A MISQUOTE THAT SCORED 0.97 AND PASSED EVERY RUN (14 Oct 2026)
+
+Entry 154 cited *"Analyse **why** Kraft Heinz could benefit from reducing its waste."* **Pearson's scheme, `By_Paper/` and the June 2026 report all print "Analyse **how** …".** One word, and the quote was wrong for as long as it existed.
+
+**Every check passed it.** Its similarity to the real stem is **0.97** — far above the 0.30 floor — and the floor is what the check tested against. **The check was answering "is this the right question?" when the question that mattered was "is this the question's wording?"** It now asks both: a quote at **90%+ similarity is that question's own words**, so it must be **verbatim**, and a diff is printed showing the words the scheme does not have. `['why']` was the whole diagnosis.
+
+**Twenty-nine quotes sit in that band and none of the others is a slip** — they were read one by one, and they are four legitimate things: the bank's own `·` between Option 1 and Option 2 where the scheme runs them together; **the scheme's PDF artefacts** (*"e- commerce"*, *"off-the job"*, *"complete **and** application form"*) which rule 124 requires the bank to repair; **the scheme paraphrasing the question paper** (*"the proximity to materials"* for the paper's *"proximity of material"*), where the bank quotes the paper; and a clarifying bracket the bank adds openly (*"(Premier Inn)"*). **So the list is an advisory pinned at 29: a NEW near-miss fails the run**, which is what makes the rule worth having.
+
+### ⚠️ FOUR SIX-MARK MAPPINGS WERE RIGHT, AND INCOMPLETE (14 Oct 2026)
+
+The anchoring check flagged four six-mark mappings in its 30%–45% band — **block 61 → entry 116, block 101 → entry 154, block 94 → entry 122, block 92 → entry 118**. Reading each by hand: **every mapping was the correct topic, and every one was missing at least one of its block's official chains.**
+
+| Block | The chain that was missing |
+|---|---|
+| **61** (Jimmy Choo, needs not satisfied) | the AO3 end — *"…may impact further upon Jimmy Choo's **expansion plans**"* — and the scheme's second bullet, which is a **product line** failing the standard, not only the shoes |
+| **101** (Kraft Heinz, waste) | *"By reducing the cost of production of baked beans can **reduce the price to customers thereby selling more and increasing revenue**"* — the saving returning as a lower price, not only as retained profit |
+| **94** (Huawei, factories near labour sources) | the whole labour-side chain — *training costs* saved, *"the money saved could then be used for other purposes"*, *"more productive and efficient in manufacturing"* |
+| **92** (Artify, using Figure 1) | the end — *"if any **changes need to be made** to make the business more profitable"* — i.e. the answer finishes on a decision, not on knowing more |
+
+**All four now carry their block's chains, quoted verbatim from the schemes, and the result is visible in the check itself: six-mark mappings proven by the entry quoting the question went from 109 of 114 to 112, block 94's overlap went from 37.5% to 90.6%, and the 30%–45% band is now empty.**
+
+**This is the shape of a coverage claim that is technically true and practically thin.** The mapping existed; the mark-scheme content behind it did not. `verify_ms_point_coverage.py` found no absent points because it asks whether a point is **named** somewhere in the entry, not whether the entry's **model answer** uses it.
+
+### ⚠️ TWELVE CITATIONS SENT THE READER TO THE WRONG CHAINS (14 Oct 2026)
+
+An entry's `**Also asked:**` line means *"this question is this topic; write it this way."* **Twelve citations named a **sibling** question owned by a different entry** — the Kaizen entry citing the Kraft Heinz **waste** question, the quality-**control** entry citing the quality-**service** one, the shortlisting entry citing the recruitment-**documents** ones. A student following that line would write the wrong chains.
+
+**All twelve now name the entry that owns the question** (*"see **entry 154**"*), which is the convention entry 163 already used for off-the-job training. **`verify_chain_bank_anchors.py` now fails on any citation of a governed question the citing entry does not own unless a pointer follows it** — sabotage-tested by deleting one pointer.
 
 ### ⚠️ A CHECK I WROTE CAUGHT TWO NUMBERS I HAD JUST TYPED INTO THIS BANK (14 Oct 2026)
 

@@ -147,8 +147,18 @@ def report(entries, tier: str, pairs, floor=FLOOR):
     if not flagged:
         print("  every mapping scores above the worry line.")
     hard = [f for f in flagged if f[0] < floor]
+    # THE BAND MUST BE THE BAND. This printed `len(flagged) - len(hard)` - everything
+    # above the floor - under a label that said "30%-45%", so an 81.2% mapping was
+    # counted as "worth reading by hand". A count that does not match its own label
+    # is the failure this bank keeps finding in its prose; it had one in its code.
+    band = [f for f in flagged if floor <= f[0] < WORRY]
     print(f"\n  below the contradiction floor ({floor:.0%}) : {len(hard)}")
-    print(f"  worth reading by hand ({FLOOR:.0%}–{WORRY:.0%}) : {len(flagged) - len(hard)}\n")
+    print(f"  worth reading by hand ({FLOOR:.0%}–{WORRY:.0%}) : {len(band)}")
+    for score, n, entry_no, head in band[:12]:
+        print(f"    block [{n:>3}] -> entry {entry_no:<3} {head}  {score:.1%}")
+    if len(band) > 12:
+        print(f"    … and {len(band) - 12} more in the band")
+    print()
     return hard
 
 
@@ -182,6 +192,76 @@ def main() -> int:
                        + [b12.get(n, "")]),
               str(r12[n]["Stem"])) for n in sorted(m12) if n in r12]
     hard_all += report(entries, "12-MARK EVALUATE", pairs)
+
+    # ---- every cited question is either OWNED by its entry or pointed at ----
+    # An entry's "Also asked" line tells the reader "this question is this topic; write
+    # it this way". When the cited question is a SIBLING topic owned by a different
+    # entry, the reader is being sent to the wrong chains - the Kaizen entry citing the
+    # Kraft Heinz waste question, whose chains live in the entry on using resources
+    # effectively. 12 citations did this. All 12 now name the entry that owns the
+    # question ("see entry 154"), which is what entry 163 already did. A citation with
+    # no pointer and no ownership is the failure this catches.
+    print("=" * 74)
+    print("CITED QUESTIONS — every one is owned by its entry, or names the entry that owns it")
+    print("=" * 74)
+    owner = {}
+    for tier, script in (("6", "layer_c_6mark_coverage.py"),
+                         ("9", "layer_c_9mark_coverage.py"),
+                         ("12", "layer_c_12mark_coverage.py")):
+        for blk, ent in load_map(script).items():
+            owner[(tier, blk)] = ent
+    covered = {}
+    for (tier, blk), ent in owner.items():
+        covered.setdefault(ent, set()).add((tier, blk))
+    inv = {}
+    for tier, fname in (("6", "layer_c_6mark_inventory.csv"),
+                        ("9", "layer_c_9mark_inventory.csv")):
+        with open(HERE / fname, encoding="utf-8-sig") as fh:
+            for i, r in enumerate(csv.DictReader(fh), 1):
+                inv[(r["session"], r["paper"], r["question"].replace(" ", ""))] = (tier, i)
+    sessions = {"june 2026": "June 2026", "may-june 2019": "May-June 2019",
+                "may-june 2020": "May-June 2020", "may-june 2021": "May-June 2021",
+                "may-june 2022": "May-June 2022", "may 2023": "May 2023",
+                "may-june 2024": "May-June 2024", "may-june 2025": "May-June 2025",
+                "nov 2020": "November 2020", "nov 2021": "November 2021",
+                "june 2021": "May-June 2021", "nov 2023": "November 2023",
+                "nov 2024": "November 2024", "nov 2025": "November 2025",
+                "june 2022": "May-June 2022", "june 2024": "May-June 2024",
+                "june 2025": "May-June 2025", "june 2019": "May-June 2019"}
+    cite = re.compile(r'\*"([^"]{15,200}?)"\*\s*[\u2014\u2013-]{1,2}\s*\*{0,2}'
+                      r'([A-Za-z0-9\u2013\u2014\- ]{4,26}?)\*{0,2}\s+(P\dR?)[,. ]*(\d\s*\(\w\))?')
+    cited, pointed, unexplained = 0, 0, []
+    for ent, txt in sorted(bank_entries().items()):
+        for m in cite.finditer(txt):
+            quote, sess_raw, paper, qn = m.groups()
+            if not qn:
+                continue
+            sess = next((v for k, v in sessions.items() if k in sess_raw.lower()), None)
+            if not sess:
+                continue
+            cited += 1
+            blk = inv.get((sess, paper, qn.replace(" ", "")))
+            if not blk or blk in covered.get(ent, set()):
+                continue
+            # A pointer is a pointer whether or not the number is bolded: entry 163
+            # writes "see entry 164", entry 183 "*(see entry 179)*", and the ten added
+            # on 14 Oct 2026 "see **entry 157**". Strip the markdown, then look.
+            after = txt[m.end():m.end() + 260].replace("*", "")
+            if "see entry" in after or "full answer" in after:
+                pointed += 1
+                continue
+            unexplained.append((ent, sess, paper, qn, quote[:56]))
+    print(f"  citations naming a session, paper and question: {cited}")
+    print(f"  sibling citations carrying a pointer to the owning entry: {pointed}")
+    if not cited:
+        print("  NONE PARSED — check the parser, not the bank.")
+        hard_all.append(("CITE", 0, 0, "no entry citation parsed"))
+    for ent, sess, paper, qn, quote in unexplained:
+        print(f"  !! entry {ent} cites {sess} {paper} {qn} — owned by entry "
+              f"{owner.get(inv[(sess, paper, qn.replace(' ', ''))], '?')} — with no pointer")
+        hard_all.append(("CITE", 0, ent, "citation of " + quote + " needs a see-entry-N pointer"))
+    if cited and not unexplained:
+        print("  every one either belongs to its entry or names the entry that owns it.")
 
     # ---- the labelling contract: every model answer carries its own label ----
     # The file declares its batches ("Batches 1 and 2 were CONSTRUCTED throughout")
