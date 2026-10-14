@@ -307,6 +307,66 @@ def main() -> int:
         print("  every stated total equals the register's count.")
         print(f"    (3/3 = {total[3]}, 6/6 = {total[6]}, 9/9 = {total[9]}, 12/12 = {total[12]})")
 
+    # ------------------------------------------------------------------
+    # WITHDRAWN FIGURES — a retracted number must never look current.
+    #
+    # Five times now a superseded total has been found alive in a file that no
+    # check read (06_:1925, 08_:417, both READMEs, the reader-facing guide) -
+    # every one of them found by eye. The bank is allowed to RECORD a number it
+    # has withdrawn; what it must never do is STATE one. So: if a retired figure
+    # appears, its neighbourhood must say so.
+    #
+    # Keyed on the PHRASES the bank actually used, never on bare numbers: 111 is
+    # also a grade-9 boundary, 86 is also a currency answer, 48 and 17 are also
+    # boundary marks. A check that flags the boundary tables would be ignored
+    # within a week - and a check that is ignored is worse than none.
+    # ------------------------------------------------------------------
+    print()
+    print("=" * 74)
+    print("WITHDRAWN FIGURES - every retired number must be standing next to its correction")
+    print("=" * 74)
+    RETIRED = [
+        (re.compile(r"\b977\s+items"), "the pre-repair item total (true: 988)"),
+        (re.compile(r"\b595\s+one- and two-mark"), "the pre-repair 1+2-mark count (true: 608)"),
+        (re.compile(r"\b443\s*\+\s*152"), "the pre-repair 1-mark breakdown (true: 456 + 152)"),
+        (re.compile(r"\b382\s+level-based"), "the pre-repair governed count (true: 380)"),
+        (re.compile(r"\b696\s+standalone question-mark lines"), "the extraction's item count"),
+        (re.compile(r"\b696-row\b"), "the extraction's item count"),
+        (re.compile(r"%\s+of\s+696\b"), "a percentage against the withdrawn population"),
+        (re.compile(r"\b328\s+one-mark"), "the extraction's one-mark count (true: 456)"),
+        (re.compile(r"\b106\s+two-mark"), "the extraction's two-mark count (true: 152)"),
+        (re.compile(r"\b111\s+three-mark"), "the extraction's 3-mark count (true: 152)"),
+        (re.compile(r"\b86\s+six-mark"), "the extraction's 6-mark count (true: 114)"),
+        (re.compile(r"\b48\s+nine-mark"), "the extraction's 9-mark count (true: 76)"),
+        (re.compile(r"\b17\s+twelve-mark"), "the extraction's 12-mark count (true: 38)"),
+    ]
+    # A retired figure is safe when the reader is told it is retired. The window is
+    # generous because a markdown table cannot carry a paragraph: 04_ announces the
+    # withdrawal in a boxed block and then prints the % of 696 column beneath it.
+    TELLS = ("withdrawn", "superseded", "corrected", "used to say", "no longer",
+             "previously", "retracted", "under-detect", "not the csv", "recorded",
+             "old figure", "old count", "old total", "\u26a0\ufe0f")
+    WINDOW = 12
+    retired_hits, retired_bad = 0, []
+    for f in sorted(BANK.parent.rglob("*.md")):
+        lines = f.read_text(encoding="utf-8", errors="replace").splitlines()
+        for i, line in enumerate(lines, 1):
+            for pat, what in RETIRED:
+                if not pat.search(line):
+                    continue
+                retired_hits += 1
+                lo, hi = max(0, i - 1 - WINDOW), min(len(lines), i + WINDOW)
+                if not any(t in " ".join(lines[lo:hi]).lower() for t in TELLS):
+                    retired_bad.append((str(f.relative_to(BANK.parent)), i, pat.search(line).group(0), what))
+    print(f"  retired figures found: {retired_hits}   unmarked: {len(retired_bad)}")
+    if not retired_hits:
+        print("  NONE PARSED - check the registry, not the bank.")
+    for where, i, found, what in retired_bad:
+        print(f"  FAIL {where}:{i} states {found!r} with no correction nearby - {what}")
+        problems.append(f"{where}:{i} states the withdrawn {found!r} as if current")
+    if retired_hits and not retired_bad:
+        print("  every retired figure in the bank is standing next to its correction.")
+
     print()
     if problems:
         print("=" * 74)

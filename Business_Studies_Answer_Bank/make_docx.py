@@ -8,7 +8,7 @@ from docx.enum.table import WD_TABLE_ALIGNMENT, WD_CELL_VERTICAL_ALIGNMENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
-BASE=Path('/home/user/Business_Studies_Answer_Bank')
+BASE=Path(__file__).resolve().parent
 MD=BASE/'4BS1_Exemplar_and_Model_Answer_Guide.md'
 OUT=BASE/'4BS1_Exemplar_and_Model_Answer_Guide.docx'
 
