@@ -41,20 +41,19 @@ So complete means **four things, all achievable**:
 | **Jun 2024** | ✅ | ✅ | ✅ | ⛔ | **COMPLETE** — P2R report confirmed non-existent |
 | **Nov 2024** | ✅ | — | ✅ **new** | — | **COMPLETE** |
 | **Jun 2025** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
-| **Nov 2025** | ❓ | — | ❓ | — | **OUTSTANDING** — not found at any date tried |
-| **Jun 2026** | ❓ | ✅ | ❓ | ❓ | **P1R COMPLETE** · others behind Edexcel Online |
+| **Nov 2025** | ⛔ | — | ⛔ | — | **NOT RETRIEVABLE** — five publication dates tried, no third-party copy; see below |
+| **Jun 2026** | ⛔ | ✅ | ⛔ | ⛔ | **P1R COMPLETE** · the other three verified absent, not merely unfound — see below |
 
-**Ten of eleven report-bearing series are complete.** The whole **Summer 2019 → Summer 2025** run is now closed.
+**Ten of eleven report-bearing series are complete.** The whole **Summer 2019 → Summer 2025** run is now closed. **Each row marked ⛔ has been searched for and found absent by an independent check, not merely "not found" — the difference matters, and every ⛔ row below says how it was established.**
 
 ### Outstanding, precisely
 
 | Item | State | Why |
 |---|---|---|
-| **Nov 2025 P1 · P2** | ❓ | Publication ~Jan 2026. **Every date tried returned 404** (`20260121`, `20260122`, `20260123`). Not on any mirror either. **May not be publicly posted yet, or the filename differs.** |
+| **Nov 2025 P1 · P2** | ⛔ **re-checked 14 Oct 2026 — still not retrievable** | Publication window is late January (Nov 2023's report is `…-pef-20240125`, Nov 2024's `…-pef-20250123`, both Thursdays). **Five dates tried across two sessions, all 404:** `20260121`, `20260122`, `20260123`, `20260129`, plus the sibling-name sweep. **Not on any third-party host either** — and `pdfcoffee` and `scribd` both carry the *November 2020* equivalents, so their absence is evidence, not silence. Pearson's own rule is that reports stay locked for **nine months** after a series, which for November 2025 expires around **October 2026** — i.e. about now. **State: not yet public, or named outside every pattern this qualification uses. Worth one re-check after January 2027; nothing in the bank depends on it.** |
 | **Jun 2026 P1 · P2 · P2R** | ⛔ **and now evidenced, not assumed** | Pearson states Summer 2026 examiner reports released **"From 25 August 2026"** — a date now **passed** — so on 14 Oct 2026 the search was re-run rather than repeated from memory. **Three independent checks, all negative:** the sibling filenames at the series' own publication code (`4bs1-01/02/02r-pef-20260825.pdf`) return Pearson's 404 page; **the third-party archive that DOES hold the June 2026 P1R report holds no P1/P2/P2R report either** (its manifest lists MS + QP for those three and an ER for P1R only); and its storage bucket refuses directory listings. **The P1R report circulating while its three siblings do not is the signal — this is a release-scope fact, not a search failure.** **Consequence unchanged: the Paper 2 / 2R 12-mark limitation stands.** |
 | **Nov 2022 Paper 01R** | ❓ | **The paper EXISTS and is not held.** Found 14 Oct 2026 on Pearson's assessment-support page: a notional **Paper 1R** boundary row for Nov 2022 (**grade 9 = 49/80**), and no Nov 2022 row for the qualification or Papers 1/2/2R — so that series was a **1R sitting only**. **The mark scheme is not in the archive and two searches did not retrieve it.** If it is ever obtained, the derived population becomes **39 papers · 1014 parts · 3120 marks · 390 governed**, and Layer C gains four 3-mark, three 6-mark, two 9-mark and one 12-mark block. |
-| **Jun 2020** | ❓ | **Verify whether a report was produced** — that series was cancelled. The archive holds QP/MS but no ER. |
-| **Nov 2022** | ❓ | **Verify whether a series ran** — no QP, MS or ER in the archive, and none held. |
+| **Jun 2020** | ✅ **RESOLVED — no report exists to find** | **Pearson publishes no examiner report and no grade boundaries for May/June 2020.** The bank's trend table — **verified row by row against Pearson's own PDFs by `verify_boundaries.py`** — carries **11 series and May 2020 is not among them**, and none of the four notional component tables has a May 2020 row either. **A series with no boundaries and no report is one that was not assessed**, which is what happened to that sitting: the papers in the archive (QP + MS ×4) were printed and released, the grades were not awarded by examination. **The archive holding the papers while Pearson holds back the reports is the whole explanation — nothing about this one is missing.** |
 
 ### Held locally, needing no fetch
 
@@ -84,11 +83,11 @@ So complete means **four things, all achievable**:
 
 `09_Verified_Tally.md` is no longer a table of totals. It is a **per-script register** — one row per distinct script, each citing a file and line. Counts are now a *property* of the register, not an assertion beside a list.
 
-| Claimed | Truth |
-|---|---|
-| 9/9 = 6, then 7 | **15** |
-| 6/6 = 9 (then 10) | **19** *(possibly 20 — one June 2019 claim unresolved)* |
-| 12/12 = 2 | **2** ✅ *the only count that was ever right* |
+| Claimed | Truth at the correction | Truth now (register, 14 Oct 2026) |
+|---|---|---|
+| 9/9 = 6, then 7 | **15** | **15** |
+| 6/6 = 9 (then 10) | **19** *(possibly 20 — one June 2019 claim unresolved)* | **23** — **the parenthetical closed itself:** the register holds three June 2019 six-mark rows and every one resolves to a `file:line`, so the doubtful claim is a row or it is not, and `tally_exemplars.py` decides by reading the file rather than by counting recollections |
+| 12/12 = 2 | **2** ✅ *the only count that was ever right* | **2** |
 | *"May 2023 printed four full-mark Justify answers"* | **five** — the fifth was a Paper 2R script filed elsewhere in the report |
 
 **Cause:** totals were hand-incremented while the lists beside them grew by transcription. **They drifted in five separate places.**
@@ -380,7 +379,7 @@ python3 layer_c_coverage.py             # 152/152 three-mark coverage
 python3 layer_c_6mark_coverage.py       # 114/114 coverage   (tier coverage checks)
 python3 layer_c_9mark_coverage.py       #  76/76 coverage
 python3 layer_c_12mark_coverage.py      #  38/38 coverage
-python3 tally_exemplars.py              # 19 x 6/6 - 15 x 9/9 - 2 x 12/12
+python3 tally_exemplars.py              # 4 x 3/3 - 23 x 6/6 - 15 x 9/9 - 2 x 12/12
 python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
 python3 verify_collision_cluster.py     # the collision table's total is its row count (20)
 python3 verify_stem_quotes.py           # every quoted question is the paper's own question
@@ -415,7 +414,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_rule_index.py` | the rule index — every number 1–125 defined exactly once across `01_` and `06_`, and every `rule N` cited anywhere in the bank | **125 rules, 125 definitions, 0 duplicates, 0 gaps; 41 distinct rule numbers cited across 75 files, every one resolving.** Written because `10_Chain_Bank.md` numbers its 252 entries in the **same `## N. Title` format** as the rules — the two domains are indistinguishable to a grep, which is how a duplicate would hide |
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
-| `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
+| `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, every absolute "no full mark" claim, **and every stated `N × T/T` total anywhere in the bank** | **the register holds 4 × 3/3 · 23 × 6/6 · 15 × 9/9 · 2 × 12/12 = 44 rows, and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two. **The total rule was added when `06_` was found still saying "19 × 6/6" against a register of 23** — a quoted total is a record of a past claim and passes; a live one must match |
 
 ### 🚨 THE FIRST 3-MARK SHAPE CHECK PASSED ON A MODEL REPLACED WITH A 0/3 (14 Oct 2026)
 
@@ -706,10 +705,16 @@ Both are now corrected, and the corrected position is stronger than either versi
 
 ---
 
-## WHAT WILL REMAIN OPEN AT THE END
+## WHAT REMAINS OPEN — the definitive list, 14 Oct 2026
 
-Stated plainly so the final report is honest:
+**Everything above this line is closed. This is what is not, and every one of the five is a fact about what Pearson publishes rather than work still to do.**
 
-1. **No verified 12/12 on Paper 2 or 2R** — unless June 2026 supplies one.
-2. **A handful of report-papers that were never published or are not retrievable** (e.g. Jun 2024 P2R — confirmed non-existent).
-3. **The single marked script per question in each report** — Pearson publishes one or two examples per question, so many valid routes to full marks are simply never shown.
+| # | Open item | Why it cannot be closed |
+|---|---|---|
+| 1 | **No verified 12/12 on Paper 2 or on Paper 2R.** | **Permanent.** Pearson's own support page names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **Every Paper 2 / 2R Evaluate model in the bank must therefore stay `[CONSTRUCTED GRADE 9 TARGET]`.** Best held on those papers: **10/12 on each** (IKEA and M&M, May 2023), both docked for *"limited judgements"*. |
+| 2 | **One marked script per question.** | **Permanent.** Pearson prints one or two examples per question and some questions none. **So the bank can show that a full-mark answer exists and what it does — it can never show every route to one.** This is the gap the Chain Bank exists to fill: it generalises from the scripts that exist to the questions that have none. |
+| 3 | **Jun 2026 P1 / P2 / P2R examiner reports.** | **Release scope, verified three ways** — the sibling filenames 404, the third-party archive that holds the June 2026 **P1R** report holds no P1/P2/P2R report, and its bucket refuses listings. **The P1R report circulating alone is the signal.** |
+| 4 | **Nov 2025 P1 / P2 examiner reports.** | **Not retrievable yet** — five publication dates tried across two sessions, all 404, and absent from the third-party hosts that carry the November 2020 equivalents. **Worth one re-check after January 2027.** |
+| 5 | **The November 2022 Paper 01R mark scheme.** | **The one paper of this qualification's history the bank does not model.** Pearson prints a notional Paper 1R boundary for that sitting (grade 9 = 49/80) and nothing else, so the series ran and the paper exists. **With it, the derived population becomes 39 papers · 1014 parts · 3120 marks · 390 governed** — see the scope note in `00_`. |
+
+**And one resolved-as-non-existent, kept visible so it is not re-investigated:** **June 2020** — Pearson publishes no report and no boundaries for that sitting; the papers were printed and released, the series was not assessed. **Nothing is missing.**

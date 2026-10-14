@@ -267,6 +267,46 @@ def main() -> int:
     if cites and not bad_labels:
         print("  every label belongs to the tariff of its claim.")
 
+    # ---- total claims: "19 x 6/6" anywhere must be the register's own count ---
+    # The grid check above reads cells; a TOTAL in a sentence is a different claim
+    # and nothing was reading it. 06_ said "(19 x 6/6 ...)" while the register held
+    # 23 - the same class of stale summary this bank has now caught in six places.
+    print()
+    print("=" * 74)
+    print("STATED TOTALS - every 'N x T/T' anywhere in the bank against the register")
+    print("=" * 74)
+    total = collections.Counter()
+    for (tier, _paper), n in counts.items():
+        total[tier] += n
+    total_claims, total_bad = 0, []
+    for f in sorted(BANK.rglob("*.md")):
+        text = f.read_text(encoding="utf-8", errors="replace")
+        for i, line in enumerate(text.splitlines(), 1):
+            for m in re.finditer(r"(?<![\d/])(\d+)\s*[x\u00d7]\s*(3|6|9|12)/(?:3|6|9|12)\b", line):
+                # A QUOTED total is a recorded past claim, not a live one - the same
+                # rule the absolute-claims section uses. `09_` quotes its own old
+                # totals precisely so the drift stays visible ("the bank now holds
+                # six 9/9s" above a list of fourteen), and those must not be read as
+                # current statements.
+                before = line[:m.start()]
+                if before.count('"') % 2 or before.rfind("\u201c") > before.rfind("\u201d"):
+                    continue
+                n, tier = int(m.group(1)), int(m.group(2))
+                if n == tier and n in (3, 6, 9, 12) and "3/3" not in m.group(0):
+                    pass
+                total_claims += 1
+                if total[tier] and n != total[tier]:
+                    total_bad.append((str(f.relative_to(BANK)), i, m.group(0).strip(), tier, n))
+    print(f"  total claims found: {total_claims}   mismatching: {len(total_bad)}")
+    if not total_claims:
+        print("  NONE PARSED - check the parser, not the bank.")
+    for where, i, claim, tier, n in total_bad:
+        print(f"  FAIL {where}:{i} says {claim!r}; the register holds {total[tier]} at {tier} marks")
+        problems.append(f"{where}:{i} states {n} at {tier} marks; register holds {total[tier]}")
+    if total_claims and not total_bad:
+        print("  every stated total equals the register's count.")
+        print(f"    (3/3 = {total[3]}, 6/6 = {total[6]}, 9/9 = {total[9]}, 12/12 = {total[12]})")
+
     print()
     if problems:
         print("=" * 74)

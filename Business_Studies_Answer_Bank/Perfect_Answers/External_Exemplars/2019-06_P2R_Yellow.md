@@ -126,14 +126,18 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 | **2(b)** | **State** | one way to carry out market research | **~20%** |
 | **2(c)** | Explain (3) | benefit of **retaining employees** | **> 25%** |
 | **2(d)** | Explain (3) | advantage of **targeted online advertising** | gave more than one |
-| **2(e)** | ? | a **finance document** | ~25% scored zero |
+| **2(e)** | **Explain (3)** | **cash flow forecasts** — *verified from the question paper and the mark scheme* | ~25% scored zero |
 | **2(f)** | **Justify (9)** | **full-time vs part-time** sales assistants | descriptions → **0** |
 
 ### ⭐ 2(e) — a quarter scored zero by *confusing two documents*
 
 > *"candidates do tend to find finance questions more difficult and this was no exception, with **approximately a quarter of the candidates not gaining any marks**. From responses seen **candidates tended to confuse this document with a statement of financial position**."*
 
-⚠️ **Unresolved:** the report does not name the document in this passage. Given the confusion is *with* the statement of financial position, the question is about the **income statement (statement of profit or loss)** or the **cash flow statement/forecast**. **Flagged — do not guess in the bank.**
+✅ **RESOLVED from the primary sources, 14 Oct 2026 — it is the CASH FLOW FORECAST.** The report's passage does not name the document, so the bank flagged it rather than guessing — and the archive settles it without any guesswork:
+> **Question paper, 2(e):** *"Explain one reason why **cash flow forecasts** are important for a business."* (3)
+> **Mark scheme, 2(e):** *"Award 1 mark for identification of a reason why **cash flow forecasts** are important, plus 2 further marks for explaining the importance for a maximum of 3 marks."*
+>
+> **So the confusion the examiner reports is between a cash flow forecast and a statement of financial position** — a forecast of money in and out against a snapshot of what a business owns and owes. **That is a sharper trap than the usual one, because both are papers a finance function produces and both are taught in the same section of the specification.** It also explains why a quarter scored zero: the description was accurate for the *other* document.
 
 **Keep the three apart:**
 
