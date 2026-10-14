@@ -598,4 +598,154 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 ---
 
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **1/1** · Q3(a) *Define the term fringe benefits* — report p. 24
+
+**Question (verbatim, as printed on the script):** *"3 · **(a)** Define the term **fringe benefits**."* **(1)**
+
+**Official mark scheme (verbatim, P1 MS p. 15):** *"3 (a) · A01 - 1 mark. Award 1 mark for a correct definition of fringe benefits.*
+
+> • *Additional benefits over and above the normal wage or salary (1)*
+
+*(1)"*
+
+**The script (verbatim):**
+
+> *"Perks over or above the normal wage or salary."*
+
+**Examiner comment (verbatim):** *"This is a good example of how we would expect candidates to respond to this question."*
+
+**Cohort commentary (verbatim):** *"A question where candidates were asked to define the term fringe benefits. Around half of candidates showed clear knowledge of the term, those who did not gain the mark either lacked knowledge of fringe benefits or provided examples of fringe benefits as opposed to a clear definition."*
+
+🔬 **THE SCRIPT IS THE MARK SCHEME WITH TWO SUBSTITUTIONS — *"Perks"* for *"Additional benefits"* and *"over or above"* for *"over and above"* — AND THE EXAMINER CALLS IT EXACTLY WHAT HE EXPECTS.**
+
+⭐ **This is the fourth Define question in this harvest where a non-technical synonym is paid in full** (*"Reduction in average costs"*, *"reduction in average costs … large quantities"*, *"Cost that change when level of output change"*, and now *"Perks"*). **The scheme's wording is the standard, not the script.**
+
+⚠️ **And *"over or above"* is a slip for the idiom *"over and above"* — a preposition swapped inside a fixed phrase. 1/1.** Rule 55, in a one-mark answer where every word matters more than usual.
+
+⚠️ **The failure mode is named for the FOURTH time in this file: *"provided examples of fringe benefits as opposed to a clear definition."*** **Company car · free gym · staff discount** — a list of examples, worth nothing. **The definition needs the RELATIONSHIP: these benefits sit ABOVE normal pay.** ⭐ **Look at what the successful answer actually contains: no examples at all, and a comparison (*"over or above the normal wage or salary"*) — that comparison IS the definition.** The test that separates the two: **can a list of three examples tell a reader where fringe benefits STOP? The definition can.**
+
+---
+
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **2/2** · Q3(b) *Outline one way Irsi Chocolatier could keep customer loyalty* — report p. 25
+
+**Question (verbatim, as printed on the script):** *"**(b)** Outline **one** way **Irsi Chocolatier** could keep customer loyalty."* **(2)**
+
+**Official mark scheme (verbatim, P1 MS p. 15):** *"3 (b) · A02 - 2 marks. Award 1 mark for identifying a way Irsi Chocolatier could keep customer loyalty, plus 1 further mark for linking it to the context of the business.*
+
+> • *Irsi Chocolatier could promote their chocolates (1) by introducing a new range of flavours (1)*
+
+***NB Do not accept a way that is not in the context of Irsi Chocolatier.** Accept any other appropriate response. (2)"*
+
+**The script (verbatim — with a correction mid-sentence):**
+
+> *"One way is to Sustain the quality of the chocolates. This could be done by using better quality to ~~ingredients~~. This will ensure the customers will know ~~it is a~~ Irsi Chocolatier will sustain their same taste and give them the confidence to know what they will expect time and time again."*
+
+**Examiner comment (verbatim):** *"This is the only outline question in the paper and requires candidates to outline a way that Irsi Chocolatier could keep customer loyalty. 'Outline' questions require candidates to use context within their responses and this shows how we would expect candidates to respond to this type of question as this has achieved the full available marks."*
+
+**Examiner Tip (verbatim):** *"Centres are encouraged to remind candidates how to respond to the command words in order to access all of the available marks."*
+
+**Cohort commentary (verbatim):** *"The response for an 'Outline' question requires candidates to answer in the context of Irsi Chocolatier to gain the full available marks. Some candidates did well to identify a way that Irsi Chocolatier could keep customer loyalty. Those who achieved full marks were able to identify a way and explained this in the context of the given scenario."*
+
+🔬 **THE LONGEST ANSWER IN THE ENTIRE 1-AND-2-MARK HARVEST — FIFTY-SIX WORDS FOR TWO MARKS — AND IT IS PAID IN FULL.**
+
+| step | text | worth |
+|---|---|---|
+| **way** | *"Sustain the quality of the chocolates"* | **1 mark** |
+| **how** | *"using better quality … ingredients"* | development |
+| **why it keeps loyalty** | *"the customers will know … Irsi Chocolatier will sustain their same taste and give them the confidence to know what they will expect time and time again"* | **the context link** |
+
+⭐ **The word that carries the context is *"chocolates"* — the product — for the fifth time in this harvest.** And the candidate rewrites *"it is a"* into *"Irsi Chocolatier"* to make the sentence name the business as well.
+
+⚠️ **The mechanism the candidate supplies is *consistency*: a repeat customer buys the same taste.** That is **not** the scheme's bullet (*promoting a new range of flavours* — **the opposite strategy: novelty rather than reliability**) and the answer is paid in full. **The requirement is "a way", not "the way".**
+
+⚠️ **Note the slips: *"Sustain"* capitalised mid-sentence, *"better quality to ingredients"* (a preposition left over from the abandoned phrasing), and *"~~it is a~~"* struck out.** **Fifty-six words, three defects, five marks' worth of development on a two-mark question, 2/2.**
+
+⭐ **A candidate reading this should notice the ratio: the Answer is four times longer than it needs to be, because the second mark is for the LINK and the link is a sentence, not a word.** ⚠️ **Contrast the one-mark `State` questions on the same paper, where a single noun decides it.** **Same paper, adjacent question numbers: 1 mark wants a word, 2 marks want a sentence.**
+
+---
+
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **2/2** · Q3(c) *Calculate, to two decimal places, the current ratio* — report p. 26
+
+**Question (verbatim, as printed on the script):**
+
+> *"Irsi Chocolatier has current assets of €26 000 and current liabilities of €14 852."*
+> *"**(c)** Calculate, to two decimal places, the current ratio. You are advised to show your working."* **(2)**
+
+**Official mark scheme (verbatim, P1 MS p. 15):** *"3 (c) · A02 - 2 marks*
+
+> *26 000/14 852 (1)*
+> *= 1.75 (1)*
+
+*Award 1 mark for correctly substituting numbers into formula. Award full marks for correct numerical answer without working. (2)"*
+
+**The script (verbatim — annotated in the candidate's own hand):**
+
+> *"Current ratio = Current assets (CA) / Current liabilities (CL)"* *(the candidate marks each term **↗CA** and **↘CL** and ties them to the numerator and denominator)*
+> *"Current ratio = €26,000 (CA) / €14,852 (CL) = 1.75 (2.dp)"*
+>
+> ***(answer line:)*** *"1.75 … :1"*
+
+**Examiner comment (verbatim):** *"This response shows how the candidate has made full use of the formula from the front of the paper and correctly calculated the current ratio for Irsi Chocolatier."*
+
+**Cohort commentary (verbatim):** *"A well answered calculation question. It is pleasing to see candidates are making more use of the formulas given at the start of the paper."*
+
+🔬 **⭐⭐ THE MOST INSTRUCTIVE TECHNICAL DETAIL IN THE WHOLE HARVEST IS IN THE ANSWER LINE.**
+
+**The question asks for *"the current ratio"*. The dotted line on the paper has *":1"* printed after it — so the candidate writes `1.75` and the paper supplies the `:1`.** ⚠️ **A ratio written as a decimal (`1.75 : 1`) is TWO marks; a ratio written as a pair (`26 000 : 14 852`, unsimplified) is NOT the answer the scheme prints.** The scheme's own line is *"26 000/14 852 = 1.75"* — **division, then the decimal.**
+
+⭐ **And note this is the one place the six specification formulae are asked for a NUMBER rather than a percentage.** All three other calculations in this harvest end in `%`; **this one ends in `:1`.** ⚠️ **The unit printed on the answer line is the examiner telling you the form of the answer — read it.**
+
+🔬 **The candidate's own annotation — *"(CA)"* and *"(CL)"* written against the numerator and denominator, then tied back to the formula with the arrows — is exactly the technique a candidate should copy: write the formula, LABEL the two numbers, then divide.** **Nothing is left to memory and nothing can be transposed.** ⚠️ **It is also the only script in this harvest where the candidate does something deliberate to prevent a substitution error** — and this is the question type where four other scripts in this file lost marks precisely by mis-substituting or mis-reading.
+
+⚠️ **And note the answer is written to *"2.dp"* in the candidate's own annotation, mirroring the question's instruction back to themselves — before writing the answer.** **72.15, 22.5, 20.44, 1.75:** four calculations in three papers, and **the candidates who wrote the precision requirement down are the ones who met it.**
+
+---
+
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **2/2** · Q4(a) *Calculate, to two decimal places, the operating profit margin* — report p. 32
+
+**Question (verbatim, as printed on the script):**
+
+> *"4 · **Figure 1** is an extract from Irsi Chocolatier's Statement of Comprehensive Income."* *(table: Revenue €330 606 · Gross profit €80 282 · Other operating expenses €12 692)*
+> *"**(a)** Calculate, to two decimal places, the operating profit margin. You are advised to show your working."* **(2)**
+
+**Official mark scheme (verbatim, P1 MS p. 19):** *"4 (a) · A02 - 2 marks*
+
+> *80 282 – 12 692 = 67 590 (1)*
+> *67 590/330 606 x 100 = 20.44 (1)*
+
+*Award 1 mark for correctly substituting numbers into formula. Award full marks for correct numerical answer without working. (2)"*
+
+**The script (verbatim):**
+
+> *"80 282 – 12 692 = 67 590 / 330 606 × 100*
+> *= 20.44427506*
+> *= 20.44"*
+>
+> ***(answer line:)*** *"20.44 … %"*
+
+**Examiner comment (verbatim):** *"A good response which meets the requirements of the mark scheme giving the correct response to two decimal places."*
+
+**Cohort commentary (verbatim):** *"A calculation question which has been generally well answered by candidates. **Some candidates only gained one mark as they have worked out the operating profit but to gain the full marks available candidates needed to calculate the operating profit margin.** It is clear to see centres have encouraged candidates to include their working out as often candidates have gained a mark for their calculation despite their final answer being incorrect. Candidates should be encouraged to double check the requirements of the question as some candidates worked out parts of the question and missed the top marks because they did not complete all of the calculations required from the question. It is also pleasing to see candidates making more use of the formula page at the front of the exam paper to respond to the calculate question where applicable."*
+
+🔬 **⭐ THE CANDIDATE WRITES THE FULL UNROUNDED VALUE *"20.44427506"* AND THEN ROUNDS IT ON THE NEXT LINE — AND THE EXAMINER CREDITS *"the correct response to two decimal places."***
+
+⭐⭐ **THIS IS THE MOST USEFUL PIECE OF TECHNIQUE IN THE ENTIRE HARVEST, AND IT IS THE MIRROR IMAGE OF WHAT WENT WRONG ON P1R Q3(c).** Set the two side by side:
+
+| | **P1 Q4(a) — 2/2** | **P1R Q3(c) — 1/2** |
+|---|---|---|
+| raw figure | *"20.44427506"* — written out in full | *22.55* never written |
+| final line | *"= 20.44"* — **rounded on its own line** | **`22.5`** — rounded at the first attempt, on the answer line |
+| answer line | *"20.44"* — **a copy of the rounded value** | **`22.5`** — the same wrong number |
+| result | **2 marks** | **1 mark** |
+
+> ⭐ **THE METHOD THAT WORKS: compute to full precision, write the raw value down, round it on a SEPARATE LINE, and only then copy the rounded figure to the answer line.** The candidate here does all four steps in a five-line box. **The candidate on Paper 1R skipped step two and lost the mark by doing the rounding in their head at the point of writing.**
+>
+> ⚠️ **The rounding is not the hard part — the discipline is.** `20.44427506 → 20.44` and `22.55 → 22.5` look equally easy; **the candidate with the intermediate written down cannot get it wrong, and the candidate without it can.**
+
+⚠️ **And the cohort commentary names the other half of the failure on this question: *"Some candidates only gained one mark as they have worked out the operating profit but to gain the full marks available candidates needed to calculate the operating profit margin."*** **32 590 is not the answer — *20.44%* is.** ⭐ **The scheme's own line makes the split explicit: the first reward line is the subtraction (the operating profit — *"= 67 590 (1)"*) and the second is the division by revenue.** **A candidate who computes the profit and stops has done the first line of two** — **and, exactly as on P1 Q1(e), that first line is a mark.**
+
+⚠️ **This is the fifth calculation in the harvest and the pattern now cannot be missed:** the scheme prints its **intermediate values as reward lines**, and every one of these five scripts was paid for at least the line its arithmetic reached.
+
+---
+
 **Sources.** `Paperlords_Archive/IGCSE/4BS1_Business_Studies/May_2023/4BS1_Business_Studies_May_2023_P1R_{ER,MS}.pdf`. Report page numbers are the report's own printed footers; mark-scheme page numbers are the MS PDF's. Every script was read from a **200 dpi render of the report page**; the Q1(e) formula line and the Q1(d) sentence were re-read at higher resolution to confirm the exact wording transcribed above.
