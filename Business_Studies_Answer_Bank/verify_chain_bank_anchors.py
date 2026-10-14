@@ -183,6 +183,30 @@ def main() -> int:
               str(r12[n]["Stem"])) for n in sorted(m12) if n in r12]
     hard_all += report(entries, "12-MARK EVALUATE", pairs)
 
+    # ---- the labelling contract: every model answer carries its own label ----
+    # The file declares its batches ("Batches 1 and 2 were CONSTRUCTED throughout")
+    # and that is how entries 1-49 came to sit under a batch heading with no label
+    # on the entry itself. That is not enough in a file that mixes all three kinds:
+    # a reader looking at one entry cannot see which batch range it falls in. 49
+    # model answers were unlabelled until 14 Oct 2026; every one is labelled now.
+    print("=" * 74)
+    print("LABELLING — every model answer carries its own label")
+    print("=" * 74)
+    cb = (HERE / "Perfect_Answers" / "10_Chain_Bank.md").read_text(encoding="utf-8")
+    ok_label = ("`[CONSTRUCTED GRADE 9 TARGET]`", "`[OFFICIAL MARK-SCHEME WORKED ANSWER]`")
+    model_lines = [l for l in cb.split("\n") if re.match(r"^> \*\*Model answer", l)]
+    unlabelled = [l for l in model_lines if not any(t in l for t in ok_label)]
+    print(f"  model-answer lines: {len(model_lines)}   carrying their own label: "
+          f"{len(model_lines) - len(unlabelled)}")
+    if not model_lines:
+        print("  NONE PARSED — check the parser, not the bank.")
+        hard_all.append(("LABEL", 0, 0, "no model-answer line parsed"))
+    for l in unlabelled:
+        print(f"  !! {l[:88]}")
+        hard_all.append(("LABEL", 0, 0, l[:60]))
+    if model_lines and not unlabelled:
+        print("  none unlabelled.")
+
     print("=" * 74)
     for _s, n, e, head in hard_all:
         print(f"  !! block [{n}] -> entry {e}  {head}")

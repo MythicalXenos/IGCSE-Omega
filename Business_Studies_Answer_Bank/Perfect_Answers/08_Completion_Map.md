@@ -405,7 +405,18 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 151 citations compared by question number · 100 more by paper · 0 unresolved · 0 misattributed.** Names the question a quote belongs to when the citation is wrong |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
+| `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
 | `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
+
+### ⚠️ THE LABELLING CONTRACT HELD AT BATCH LEVEL, NOT AT ENTRY LEVEL (14 Oct 2026)
+
+The Chain Bank's header says **"Every answer here is labelled, and the label matters"**, and the file defines all three labels there. **Entry by entry, 49 of them carried none.**
+
+The cause is written in the file itself: *"Batches 1 and 2 were `[CONSTRUCTED GRADE 9 TARGET]` throughout."* That is a **true statement about a span of lines**, and it was the only thing labelling entries 1–49. **It is not enough in a file that mixes all three kinds** — a reader looking at one entry cannot tell which batch range it falls in, and the one rule that mattered most here was that a constructed model is **never** confused with an examiner-marked script.
+
+**Every one of the 49 now carries the label on the entry itself; all 225 model-answer lines in the file do.** `verify_chain_bank_anchors.py` gained a labelling section that fails on any unlabelled model answer, and the sabotage test confirms it.
+
+**The general lesson is the one this bank keeps re-learning, in a new place:** *an assertion about a range is not a label on the thing inside it.* The same shape as a hand-incremented total, a coverage cell, and a stem claim — **true at the level it is written, invisible at the level it is used.**
 
 ### ⚠️ THE COVERAGE GRID SAID ONE THING AND THE LINE BELOW IT SAID ANOTHER (14 Oct 2026)
 
