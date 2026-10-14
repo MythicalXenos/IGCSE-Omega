@@ -83,7 +83,13 @@ def resolve(rows):
                 continue
             path = hits[0]
         lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
-        window = lines[max(0, ln - 4): ln + 4]
+        # LOOK MOSTLY BACKWARD, AND EIGHT LINES OF IT. A mark statement introduces
+        # the response beneath it: `2023-06_P2_IKEA.md` announces "3/3 x2" in one
+        # heading and quotes the two scripts under it, and the second-pass table
+        # states "3/3" in its column header with six responses below. A ±4 window
+        # read those two rows as unresolved - a false alarm that would train the
+        # reader to ignore the section it protects.
+        window = lines[max(0, ln - 8): ln + 4]
         # a row may be sourced to a heading that states the mark in words
         # ("Level 3 – 6 marks — FULL MARKS") rather than as "6/6".
         n = int(tariff.split("/")[0])
@@ -265,6 +271,95 @@ def main():
         stated_bad.append(f"{f}:{i} states a full mark that no register row backs: {txt[:70]}")
     if heading_rows and not heading_bad:
         print("  every one resolves to a register row.")
+
+    # ---- every full-mark HEADING must be CITED BY ITS OWN ROW -------------
+    # THE CHECK THAT WOULD HAVE CAUGHT THE 3-MARK UNDER-COUNT OF 14 OCT 2026.
+    #
+    # The register held FOUR 3-mark rows while the bank held THIRTY-TWO, and
+    # every check passed. The reason: a heading was "matched" to a row on
+    # (tariff, question) alone, so `2022-06_P1_TBTS.md` Q2(c) - a June 2022
+    # Paper 1 answer - was quietly satisfied by the June 2026 P1R row for Q2(c).
+    # A PAPER-BLIND KEY AGAIN; the same mistake verify_coverage_claims.py had
+    # already had to fix once.
+    #
+    # A citation cannot be paper-blind. So: if a heading announces a full mark,
+    # a register row must point at it, within eight lines. Anything else is
+    # either a narrative heading or a cross-reference to a script registered
+    # elsewhere, and both are listed in EXEMPT below, with the reason, so a
+    # reader can see that the exception was considered rather than missed.
+    print()
+    print("=" * 78)
+    print("CITATION OF FULL-MARK HEADINGS — a heading must be pointed at by its own row")
+    print("=" * 78)
+    EXEMPT = {
+        # narrative headings - they state a mark to TALK about it, not to claim it
+        ("02_Verified_Exemplars.md", 188): "narrative - 'Why this is a perfect 3/3'",
+        ("02_Verified_Exemplars.md", 326): "narrative - the 'throughout' test",
+        ("02_Verified_Exemplars.md", 489): "narrative - what separates 9/9 from 7/9",
+        ("02_Verified_Exemplars.md", 595): "narrative - both routes score 9/9",
+        ("External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md", 140): "narrative - 5/6 vs 6/6",
+        ("External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md", 446): "narrative - how to turn 2/6 into 4-6/6",
+        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", 177): "narrative - the 9/9 comment, four times",
+        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", 362): "narrative - 6/6 vs 5/6 on a question type",
+        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", 511): "umbrella over the level-phrasing rows registered below it",
+        # cross-references - the same script is transcribed in two files, and a
+        # row has ONE canonical source. The citation lives at the other file.
+        ("02_Verified_Exemplars.md", 379): "same script as Cadbury:170 - second transcription",
+        ("02_Verified_Exemplars.md", 558): "same script as 2024-06_P1R_Cafe_Pinch.md:9",
+        ("02_Verified_Exemplars.md", 602): "same script as 2024-06_P1R_Cafe_Pinch.md:24",
+        ("02_Verified_Exemplars.md", 738): "same script as 2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17",
+        ("02_Verified_Exemplars.md", 767): "umbrella over the four May 2023 9/9s, registered in the series file",
+        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", 7): "the tenth 6/6, registered at 02_Verified_Exemplars.md:871",
+        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", 9): "the tenth 6/6, registered at 02_Verified_Exemplars.md:871",
+        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", 48): "the seventh 9/9, registered at 02_Verified_Exemplars.md:832",
+        ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", 280): "registered at 02_Verified_Exemplars.md:423",
+        ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", 299): "registered at 02_Verified_Exemplars.md:423",
+    }
+    # Files whose headings discuss marks rather than claim them.
+    NARRATIVE_FILES = {
+        "00_Pearson_Official_Rulebook.md", "01_Mark_Tariff_Playbook.md", "04_Type_Coverage_and_Gaps.md",
+        "05_Constructed_12mark_Models.md", "06_External_Source_Library.md", "07_Official_Exam_Scope.md",
+        "08_Completion_Map.md", "09_Verified_Tally.md", "10_Chain_Bank.md", "README.md",
+    }
+    cited = collections.defaultdict(list)
+    for _t, _label, _f, _ln in rows:
+        cited[pathlib.Path(_f).name].append(_ln)
+    seen_head, cited_head, exempt_head, uncited = 0, 0, 0, []
+    for f in sorted(ROOT.rglob("*.md")):
+        if f.name in NARRATIVE_FILES:
+            continue
+        for i, line in enumerate(f.read_text(encoding="utf-8", errors="replace").split("\n"), 1):
+            if not line.lstrip().startswith("#") or "not counted" in line:
+                continue
+            if not TOKEN.search(line):
+                continue
+            seen_head += 1
+            rel = str(f.relative_to(ROOT))
+            near = [c for c in cited[f.name] if abs(i - c) <= 8]
+            # A HEADING THAT ANNOUNCES MORE THAN ONE SCRIPT NEEDS MORE THAN ONE ROW.
+            # `2023-06_P2_IKEA.md:132` reads "3/3 x2" and covers two scripts; with
+            # a single citation in range, deleting the other row changed nothing -
+            # the sabotage passed. The multiplier is the count the heading states.
+            mult = re.search(r"[x\u00d7]\s*(\d)\b", line)
+            need = int(mult.group(1)) if mult else 1
+            if len(near) >= need:
+                cited_head += 1
+            elif (rel, i) in EXEMPT:
+                exempt_head += 1
+            else:
+                uncited.append((rel, i, line.strip()[:88],
+                                f"{len(near)} citation(s) in range, heading implies {need}"))
+    print(f"  headings stating a full mark: {seen_head}")
+    if not seen_head:
+        print("  NONE PARSED - check the parser, not the bank.")
+        stated_bad.append("the full-mark citation scan parsed nothing")
+    print(f"  cited within 8 lines by a register row : {cited_head}")
+    print(f"  exempted, with the reason recorded     : {exempt_head}")
+    print(f"  UNCITED                                : {len(uncited)}")
+    for rel, i, txt, why in uncited:
+        print(f"    !! {rel}:{i}  {txt}")
+        print(f"       {why}")
+        stated_bad.append(f"{rel}:{i} states a full mark that no register row cites: {txt[:60]}")
 
     print()
     print("=" * 78)

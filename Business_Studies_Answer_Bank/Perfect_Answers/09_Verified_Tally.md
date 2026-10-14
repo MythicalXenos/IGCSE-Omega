@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 44 rows resolve.**
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 72 rows resolve.**
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **53 matched, 35 narrative, 0 unaccounted.**
 > 3. **Everything else is filtered out as narrative.** That is the restatement filter: a rule section called *"THE 9/9 JUSTIFY — six required features"* **is not a script**, and a cross-reference to a transcript held in another file **is not a second script**.
 >
@@ -29,16 +29,21 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | **12-mark Evaluate** | **2** |
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **23** |
-| **3-mark Explain** | **4** *(all June 2026 P1R)* |
+| **3-mark Explain** | **32** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×4 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
 | **1- and 2-mark items** | n/a — *the mark scheme IS the perfect answer; Pearson publishes no scripts* |
-| **TOTAL** | **44** |
+| **TOTAL** | **72** |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
 >
 > **`tally_exemplars.py` now reads this table, every section heading, and that prose sentence, and fails if any stated total disagrees with the rows that back it.** The register was created *because* hand-incremented totals had drifted five times; **its own headline had become the sixth place, which is why the check reads the file's summaries and not only its rows.**
+>
+> ### 🚨 AND ON THE SAME DAY IT DRIFTED AGAIN, IN THE OPPOSITE DIRECTION — the 3-mark row said **4** when the bank held **32**
+> **Six sessions of verified 3/3s sat in the harvest files, fully transcribed, uncounted.** The section had been written for the June 2026 batch, and nothing compared it with what the older files said they held. **Worse: the check reported *0 unaccounted*, because it matched headings to rows on (tariff, question) — and `2022-06_P1_TBTS.md` Q2(c) matched the June 2026 P1R row for Q2(c).** A paper-blind key again. **Both failures are now impossible: the row count is 32, and a heading must be cited by its OWN row, within eight lines, or the run fails.** The full account is in the 3-mark section below.
 
 > ### ⚠️ WHAT THIS TABLE COUNTS — AND WHAT IT DOES NOT
+> **It counts scripts Pearson printed with FULL marks against them** — 72 of them, across four tiers and every session from June 2019 to June 2026. **Four of the 32 three-mark rows are held as the report's own single-sentence quotation rather than as a full exemplar section** (marked `*` in that section), which is a note about how they are held, not about what they are worth: for a 3-mark Explain the whole answer is one sentence.
+>
 > **It counts scripts Pearson printed with FULL marks against them.** A script the report itself scores at **11/12** is not a row here, and neither is a **6/12** or a **10/12** — **they are held instead in `03_Calibration_Below_Full_Marks.md` and in the 12-mark section of `02_Verified_Exemplars.md`, which is where their examiner comments teach the most.** The best of them — **Spud Bros, June 2026 P1R Q4(c), 11/12** — is called *"the best 12-mark model in the bank"* in `02_` for the reason that matters: **it is the closest thing to a full-mark 12-mark answer the bank owns, and it is the one Pearson printed with a conclusion.**
 
 ---
@@ -120,20 +125,62 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 3 MARKS — **4 scripts** *(all June 2026, P1R)*
+## 3 MARKS — **32 scripts** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×4 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)*
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2026** | P1R Q1(f) | flat organisational structure | `External_Exemplars/2026-06_P1R_SpudBros.md:369` |
-| 2 | **Jun 2026** | P1R Q2(c) | why break-even output is calculated | `External_Exemplars/2026-06_P1R_SpudBros.md:381` |
-| 3 | **Jun 2026** | P1R Q2(d) | segmenting the market by income | `External_Exemplars/2026-06_P1R_SpudBros.md:393` |
-| 4 | **Jun 2026** | P1R Q2(e) | benefit of productivity improvements | `External_Exemplars/2026-06_P1R_SpudBros.md:405` |
+| 1 | **Jun 2019** | P1 Q1(f) | increase gross profit margin — *Backyard Shoez* | `02_Verified_Exemplars.md:178` |
+| 2 | **Jun 2019** | P1 Q2(d) | above-the-line promotion (television) | `02_Verified_Exemplars.md:204` |
+| 3 | **Jun 2019** | P2 Q1(f) | impact of technology on production | `External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md:70` |
+| 4 | **Jun 2022** | P1 Q2(c) | benefit of a flat structure — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:78` |
+| 5 | **Jun 2022** | P1 Q2(d) | a method to increase profit — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:98` |
+| 6 | **Jun 2022** | P1R Q2(c) | a method to encourage repeat purchase — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:151` |
+| 7 | **Jun 2022** | P1R Q2(e) | a benefit of motivating employees — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:160` |
+| 8 | **Jun 2022** | P2R Q1(f) | a fall in banks' interest rates | `02_Verified_Exemplars.md:227` |
+| 9 | **Jun 2022** | P2R Q2(c) | non-financial methods of motivation | `02_Verified_Exemplars.md:244` |
+| 10 | **Jun 2022** | P2R Q2(d) | fully trained employees — mistakes and quality | `02_Verified_Exemplars.md:251` |
+| 11 | **Jun 2022** | P2R Q2(d) | fully trained employees — safety risks | `02_Verified_Exemplars.md:253` |
+| 12 | **Jun 2022** | P2R Q2(e) | Kaizen — employee loyalty | `02_Verified_Exemplars.md:259` |
+| 13 | **Jun 2022** | P2R Q2(e) | Kaizen — improve the product | `02_Verified_Exemplars.md:261` |
+| 14 | **Jun 2023** | P2 Q1(f) | using resources effectively — *IKEA* | `External_Exemplars/2023-06_P2_IKEA.md:110` |
+| 15 | **Jun 2023** | P2 Q2(c) | cash flow forecasting — *IKEA* (first) | `External_Exemplars/2023-06_P2_IKEA.md:134` |
+| 16 | **Jun 2023** | P2 Q2(c) | cash flow forecasting — *IKEA* (second) | `External_Exemplars/2023-06_P2_IKEA.md:137` |
+| 17 | **Jun 2023** | P2 Q2(d) | diseconomies of scale — *IKEA* | `External_Exemplars/2023-06_P2_IKEA.md:157` |
+| 18 | **Jun 2024** | P1 Q2(c) | ineffective communication — *PPS* | `External_Exemplars/2024-06_P1_PPS.md:9` |
+| 19 | **Jun 2024** | P1 Q2(d) | adapting to local tastes — *PPS* | `External_Exemplars/2024-06_P1_PPS.md:23` |
+| 20 | **Jun 2024** | P2 Q2(d) | short layers in the hierarchy — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:9` |
+| 21 | **Jun 2024** | P2 Q2(e) | hours required, in a job advert — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:33` |
+| 22 | **Jun 2024** | P2 Q2(e) | salary information, in a job advert — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:39` |
+| 23 | **Jun 2025** | P1R Q1(f) | limited liability — *CCT* | `External_Exemplars/2025-06_Second_Pass_Addendum.md:128` |
+| 24 | **Jun 2025** | P1R Q2(d) | a reason for tariffs on imports * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:144` |
+| 25 | **Jun 2025** | P1R Q2(e) | why quality control is important * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:145` |
+| 26 | **Jun 2025** | P2 Q1(f) | a disadvantage of training employees | `02_Verified_Exemplars.md:280` |
+| 27 | **Jun 2025** | P2 Q2(d) | a problem of poor communication * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:147` |
+| 28 | **Jun 2025** | P2R Q2(e) | how the statement of comprehensive income helps * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:148` |
+| 29 | **Jun 2026** | P1R Q1(f) | flat organisational structure — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:369` |
+| 30 | **Jun 2026** | P1R Q2(c) | why break-even output is calculated — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:381` |
+| 31 | **Jun 2026** | P1R Q2(d) | segmenting the market by income — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:393` |
+| 32 | **Jun 2026** | P1R Q2(e) | benefit of productivity improvements — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:405` |
 
-> ### ⭐ ALL FOUR ARE THE NEWEST SESSION, AND EACH HAS ITS 0/3 PARTNER ON THE FACING PAGE
-> Before 14 Oct 2026 the bank held **three** Explain exemplars, all June 2019. **This is the tier that is 152 parts of the qualification** — joint most common written type after the one-mark items. The four are transcribed with their **0/3 counterparts**, the examiner comments for both, and the rule the report states four times: **identify + two logical links.** See `08_Completion_Map.md` for the finding.
+**`*` = held as the report's own one-sentence quotation inside a summary table**, rather than transcribed in a dedicated exemplar section. The mark is stated by the report and the response is complete as printed — **for a 3-mark Explain, the whole answer is one sentence** — but the register marks the difference so a reader can audit the hold. **28 of the 32 are full exemplar sections; 4 are single-sentence holds.**
 
-> ### ⚠️ REGISTER READS 44 ROWS ACROSS FOUR TIERS NOW — AND TWO CHECKS ONLY MODEL THREE
-> `tally_exemplars.py` and `verify_coverage_claims.py` both parse the `## N MARKS` sections generically, so the four rows above are counted and resolved like the rest **but do not appear in the three-tier coverage grid** (`06_`'s grid is per-paper for 6/9/12 only, because those are the tiers where a Paper-level cell is meaningful). **The 3-mark tier has no paper-level grid cell on purpose** — an Explain exemplar is a technique example, and the six-mark ladder it feeds is already gridded.
+> ### 🚨 28 OF THESE 32 ROWS DID NOT EXIST UNTIL 14 OCT 2026 — the register held FOUR
+> **The section was created for the June 2026 batch and the earlier harvests' 3/3s were never carried over.** They were in the bank all along, fully transcribed, with examiner comments:
+>
+> * **`2022-06_P1_TBTS.md` states in its own summary table: *"Verified 3/3 exemplars — 2 (Q2(c), Q2(d))"*; `2022-06_P1R_Can_Culleretes.md` the same for its two; `2023-06_P2_IKEA.md` says *"4 (Q1(f), Q2(c) ×2, Q2(d))"*.** Three files said how many they held and nothing compared it with the register.
+> * **`02_Verified_Exemplars.md` holds six more from June 2022 P2R under its "2/3 vs 3/3 pairs" heading**, and two June 2019 P1 3/3s.
+>
+> **Why every check passed anyway — the failure was paper-BLIND.** `tally_exemplars.py` matched a heading to a register row on **(tariff, question label)**: `3/3` + `Q2(c)`. The register's June 2026 rows supplied exactly those keys, so **`2022-06_P1_TBTS.md:78` — a June 2022 Paper 1 answer — was "matched" by the June 2026 P1R row for Q2(c), a different paper two years later.** Thirteen uncounted scripts resolved to four registered rows and the check reported *0 unaccounted*.
+>
+> **This is the paper-blind key failure the bank had already recorded once** (`verify_coverage_claims.py`'s `TIER_LABELS`, where a P1R heading was satisfied by a P1 row) — **and it took the same correction twice, in two different checks.**
+>
+> **The rule that now prevents it:** a heading that states a full mark must be **CITED BY ITS OWN ROW** — the register row's `file:line` must fall within eight lines of that heading. A (tariff, question) coincidence is no longer enough, because a citation is a location and a label is not. `tally_exemplars.py` fails the run and names every uncited heading.
+
+> ### ⭐ THE JUNE 2026 FOUR, AND THE ONE THING THAT MAKES THEM DIFFERENT
+> The four Spud Bros scripts each have **their 0/3 counterpart printed on the facing page**, with the examiner's comment for both — **the only place in the bank where a full-mark 3-marker and a zero on the same question sit side by side.** That is what made them the source of **rule 126** (a 0/3 is a missing mechanism, not a short answer) and of `verify_model_shape.py`'s 3-mark check. **Six other sessions hold 3/3s; none of them prints the zero beside them.**
+
+> ### ⚠️ THE 3-MARK TIER HAS NO PAPER-LEVEL GRID CELL, ON PURPOSE
+> `06_`'s coverage grid is per-paper for the 6-, 9- and 12-mark tiers, where a paper-level cell is meaningful. An Explain exemplar is a *technique* example: every one of the 32 is a three-link chain, and the tier is covered as a technique rather than paper by paper. **They are counted here, and cited by every stated 3-mark total in the bank.**
 
 ---
 
