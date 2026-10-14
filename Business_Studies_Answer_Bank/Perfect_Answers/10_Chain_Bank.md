@@ -147,7 +147,7 @@ Every entry gives you:
 
 > ✅ **THE 3-MARK TIER IS CLOSED.** All **97 canonical topics** and all **152 blocks across the 38 papers** are covered by entries 1–100.
 >
-> 🔄 **THE 6-MARK TIER IS NOW OPEN — entries 101 onward.** It is a bigger job than the 3-mark tier was, and for a reason worth understanding: **the 3-mark tier repeats its topics constantly** (152 blocks collapsed into 97 topics), but **the 6-mark tier mostly does not** — June 2026's twelve 6-mark questions are twelve different topics. The tier holds **114 blocks**; where a topic does repeat it is called out and one entry answers every instance of it — entry **108 (multinational)** already covers four papers, and entry **111 (induction)** covers three.
+> ✅ **THE 6-MARK TIER IS CLOSED TOO (14 Oct 2026) — entries 101–174, all 114 blocks.** It is a bigger job than the 3-mark tier was, and for a reason worth understanding: **the 3-mark tier repeats its topics constantly** (152 blocks collapsed into 97 topics), but **the 6-mark tier mostly does not** — June 2026's twelve 6-mark questions are twelve different topics. The tier holds **114 blocks**; where a topic does repeat it is called out and one entry answers every instance of it — entry **108 (multinational)** already covers four papers, and entry **111 (induction)** covers three.
 
 ### 🚨 SCOPE CORRECTION — **152** three-mark blocks, not 111
 
@@ -176,11 +176,21 @@ REMAINING                :    0 topics  ·    0 blocks
 > **How this is counted.** `build_layer_c_3mark.py` reads all 38 mark schemes, harvests every 3-mark block, and normalises each to a canonical topic — *"identification of a benefit to a business of using e-newsletters"*, *"a way a business could use e-newsletters"* and *"a benefit to a business of using e-newsletters"* all resolve to **E-NEWSLETTERS**. **0 blocks are unmapped.** The figure above is **97 distinct canonical topics, all of which are now carried by an entry in this file.**
 > ⚠️ **Rule 118 is now enforced by machine.** Every hand-written total in this file has drifted at least once. **This one cannot**: re-run the tool and it prints the number.
 
-### ⚠️ THE 6-, 9- AND 12-MARK TOTALS ARE STILL UNSAFE — DO NOT QUOTE THEM
+### ✅ THE 6-, 9- AND 12-MARK TOTALS ARE **DERIVED** NOW — the CSV's figures are WITHDRAWN
 
-The `86 · 48 · 17` figures come from the **same unreliable CSV**, and the mark schemes already contradict one of them: **the P1-family papers carry TWO 9-mark Justify questions, not one.** Verified by hand on **Nov 2024 P1**, which has a Justify at **2(f)** (*crowdfunding vs loan capital*) **and a second at 3(e)** (*price skimming vs cost plus pricing*). **So 48 is an undercount.**
+**This block used to say the three larger tariffs were unsafe to quote. They are not any more** — the block parser that was owed here has since been written, and it reads all 38 mark schemes:
 
-Re-deriving the three larger tariffs needs a proper **block** parser, not a header regex — AO allocations are printed more than once per question, so a regex double-counts. **That re-derivation is the integrity task that follows Batch 4. Until it is done, no 6-, 9- or 12-mark total is asserted anywhere.**
+```
+6-mark Analyse : 114   (1(g) · 3(d) · 4(b) - 3 per paper)
+9-mark Justify :  76   (2(f) · 3(e)   - 2 per paper)
+12-mark Evaluate: 38   (4(c)         - 1 per paper)
+```
+
+⚠️ **WITHDRAWN: the CSV's `86 · 48 · 17`.** It came from question-paper text extraction, the same unreliable instrument that under-counted the 3-mark tier by 40, and **it is wrong in the same direction and for the same reason.** Any sentence in this bank still quoting it is quoting a figure with no instrument behind it.
+
+**And one sentence in this block was too narrow.** It said the P1-family papers carry two Justify questions; **the derived census says every paper carries two — `2(f)` and `3(e)`** — which is why the tier is 76 blocks and not 38.
+
+**Enforced by machine, not by hand:** `verify_block_tiers.py` re-reads the block dumps and prints `152 / 114 / 76 / 38`, and `verify_coverage_claims.py` checks every tariff-by-paper grid against the register. **Rule 118 applies — quote the tool, never a remembered number.**
 
 ---
 
