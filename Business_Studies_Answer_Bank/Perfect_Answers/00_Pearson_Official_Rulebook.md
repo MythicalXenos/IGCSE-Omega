@@ -408,7 +408,40 @@ Since 2019 these have been **linear**, set on the total of both papers out of **
 | Paper 02 | 80 | 65 | 60 | 56 |
 | Paper 02R | 80 | 65 | 61 | 57 |
 
-> ✅ **A check you can run yourself, on any series, and which passed on every one tested:** the two component boundaries **add to the qualification boundary.** June 2026 regional: 68 + 69 = **137** ✅. June 2025: 65 + 65 = **130** ✅. On the standard route they add to within ±1 (the scaling rounds), e.g. 68 + 65 = 133 ✅ at grade 9, but 63 + 60 = 123 against a published 124 at grade 8. **If a number you have found does not add up like this, it is the wrong number.**
+**Every series, grade 9, per paper** — transcribed from Pearson's assessment-support page (retrieved 14 Oct 2026), which publishes a **notional component table for every series**; the two series held as PDFs (June 2026, June 2025) are marked ✅ and **agree with these figures exactly**.
+
+| Series (Pearson's label) | Paper 1 | Paper 1R | Paper 2 | Paper 2R |
+|---|---|---|---|---|
+| **May 2026** ✅ | **68** | **68** | **65** | **69** |
+| Nov 2025 | 66 | — | 67 | — |
+| **May 2025** ✅ | **65** | **65** | **65** | **65** |
+| Nov 2024 | 65 | — | 67 | — |
+| May 2024 | 65 | 71 | 68 | 68 |
+| Nov 2023 | 68 | — | 64 | — |
+| May 2023 | 68 | 68 | 64 | 69 |
+| **Nov 2022** | — | **49** | — | — |
+| May 2022 | 54 | 58 | 54 | 59 |
+| Nov 2021 | 41 | — | 43 | — |
+| Nov 2020 | 46 | — | 44 | 48 |
+| May 2019 | 57 | 57 | 54 | 56 |
+
+*"—" means Pearson publishes no row, not that the paper did not exist.* **November 2022 is the one row with a single paper** — a Paper 1R sitting, no qualification-level boundary published for it (see the note at the head of this file). **The `P2R` row for Nov 2020 exists while the `P1R` row does not** — the page omits it, so **do not infer a Nov 2020 Paper 1R figure by subtraction**; the qualification figure (97) is published and the component is not.
+
+> ### ✅ THE ADDITIVITY CHECK — exact for 2023–2026, and WRONG for 2019 and 2022
+> **Checked across every series where both components and the qualification boundary are published — 17 pairs:**
+>
+> | Series | Route | Components | Sum | Published | |
+> |---|---|---|---|---|---|
+> | Nov 2021 | standard | 41 + 43 | 84 | **84** | ✅ |
+> | Nov 2020 | standard | 46 + 44 | 90 | **90** | ✅ |
+> | May 2022 | standard | 54 + 54 | 108 | **111** | ❌ **3 out** |
+> | May 2022 | regional | 58 + 59 | 117 | **114** | ❌ **3 out, the other way** |
+> | May 2019 | standard | 57 + 54 | 111 | **113** | ❌ **2 out** |
+> | May 2019 | regional | 57 + 56 | 113 | **111** | ❌ **2 out, the other way** |
+>
+> **Every series from 2023 onwards adds exactly, at grade 9 — 11 of 11.** **4 of the 17 checkable pairs do not: May 2019 and May 2022, in either direction, by 2 to 3 marks.** *(Nov 2021 and Nov 2020 also add exactly; the four failures are the two oldest sittings that published both routes.)* So: **the sum check is a good check on recent papers and must not be trusted on old ones** — a notional component boundary is a *derived* number, and in those two sittings Pearson's qualification boundary is simply not the sum of its parts. *(An earlier version of this file said "if a number you have found does not add up like this, it is the wrong number" — that rule would have told you correct 2019 and 2022 numbers were wrong. The rule is now the table above.)* At **other grades** the standard route can be **1 out** from rounding — June 2026 grade 8: 63 + 60 = 123 against a published 124.
+>
+> **The cross-check that did pass, and is worth more than the sum check: Pearson's support page and the PDFs agree on all 18 published qualification-level grade-9 boundaries of this qualification's history, and on all four June 2026 and all four June 2025 component figures.** Two independently published sources, written years apart, agreeing to the mark — that is the strongest corroboration this file's boundary data has had.
 
 ## Trend — the whole series history, so the drift is visible
 
@@ -444,6 +477,7 @@ Since 2019 these have been **linear**, set on the total of both papers out of **
 
 | Document | Path |
 |---|---|
+| Assessment support page — qualification **and notional component** boundaries for every series, and the exemplar booklets | `/en/news-policy/subject-updates/business/international-gcse-business-assessment-support-page.html` |
 | Grade boundaries, June 2026 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2026-international-gcse.pdf` |
 | Notional component, June 2026 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2026-notional-component-international-gcse.pdf` |
 | Grade boundaries, June 2025 | `/content/dam/pdf/Support/Grade-boundaries/International-GCSE/grade-boundaries-june-2025-int-gcse.pdf` |

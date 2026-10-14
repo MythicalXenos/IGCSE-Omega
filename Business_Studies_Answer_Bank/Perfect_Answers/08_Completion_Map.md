@@ -385,6 +385,7 @@ python3 verify_stem_quotes.py           # every quoted question is the paper's o
 python3 verify_block_tiers.py           # every block dump carries its own tier's mark
 python3 verify_ms_point_coverage.py     # every awarded MS point is at least named in its entry
 python3 verify_coverage_claims.py       # the coverage grids agree with the register
+python3 verify_boundaries.py            # both boundary tables agree with Pearson
 ```
 
 **⚠️ FOUR of these scripts could not fail, in two different ways, until 14 Oct 2026.**
@@ -405,8 +406,32 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 151 citations compared by question number · 100 more by paper · 0 unresolved · 0 misattributed.** Names the question a quote belongs to when the citation is wrong |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
+| `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
 | `verify_chain_bank_anchors.py` *(labelling rule)* | every `Model answer` line in the Chain Bank against the labelling contract | **225 of 225 now carry their own label.** 49 (entries 1–49) relied on a batch heading alone until 14 Oct 2026 — see below |
 | `verify_coverage_claims.py` | the tariff x paper grids in `00_` and `06_` against the register, plus every absolute "no full mark" claim | **the register holds 19 × 6/6 · 15 × 9/9 · 2 × 12/12 and every cell agrees.** Written after a claim was found saying "no verified 9/9 **in any series**" beside a table saying Paper 2R held two |
+
+### ⚠️ A CHECK I WROTE CAUGHT TWO NUMBERS I HAD JUST TYPED INTO THIS BANK (14 Oct 2026)
+
+The boundary section gained the notional component table for **every** series (Pearson's assessment-support page publishes all of them; the bank held two) and a corrected additivity rule. Writing the check for it caught **two figures I had typed into `00_` minutes earlier without deriving: *"18 pairs"* and *"14 of 14"*.**
+
+**Both were wrong. The truth, derived: 17 pairs are checkable, and 13 of them are exact.** The seven pairs NOT exact-checkable are those where Pearson publishes no component or no qualification boundary, which is a different thing from a pair that fails.
+
+**It is also the first time in this project that a check caught a wrong number while it was still being written, rather than in an audit a day later** — the reason being that the check holds the source data and the file must agree with it, so a number typed into the file has something to disagree with.
+
+**And the finding the check produced is worth more than the numbers it corrected:**
+
+| Series | Route | Components | Sum | Published | |
+|---|---|---|---|---|---|
+| **Nov 2021** | standard | 41 + 43 | **84** | **84** | ✅ |
+| **Nov 2020** | standard | 46 + 44 | **90** | **90** | ✅ |
+| **May 2022** | standard | 54 + 54 | **108** | **111** | ❌ 3 out |
+| **May 2022** | regional | 58 + 59 | **117** | **114** | ❌ 3 out, other way |
+| **May 2019** | standard | 57 + 54 | **111** | **113** | ❌ 2 out |
+| **May 2019** | regional | 57 + 56 | **113** | **111** | ❌ 2 out, other way |
+
+**Every series from 2023 onwards adds exactly (11 of 11); May 2019 and May 2022 do not, in either direction, by 2 to 3 marks.** The file previously told the reader that *"if a number you have found does not add up like this, it is the wrong number"* — **a rule that would have declared correct 2019 and 2022 figures wrong.** That is now the table above.
+
+**Corroboration worth recording:** Pearson's support page and the grade-boundary PDFs were published years apart and agree on **every one of the 18 published qualification-level grade-9 boundaries** and on **all eight June 2026 / June 2025 component figures** — two independent sources agreeing to the mark, which is the strongest corroboration this section's data has had.
 
 ### ⚠️ THE LABELLING CONTRACT HELD AT BATCH LEVEL, NOT AT ENTRY LEVEL (14 Oct 2026)
 
