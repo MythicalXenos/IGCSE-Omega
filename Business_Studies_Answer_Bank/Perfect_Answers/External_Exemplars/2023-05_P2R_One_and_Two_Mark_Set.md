@@ -1,6 +1,6 @@
-# MAY 2023 PAPER 2R — the whole 1- and 2-mark set, eleven scripts
+# MAY 2023 PAPER 2R — the whole 1- and 2-mark set, thirteen scripts
 
-**The single richest 1-/2-mark batch in the archive: seven questions, eleven marked scripts, and every one of them printed with the examiner's comment.** Three of the four one-mark questions are **0-and-1 pairs on facing pages**; the four two-mark questions are **calculation questions** and they carry the tier's hardest lesson.
+**The single richest 1-/2-mark batch in the archive: eight questions, thirteen marked scripts, and every one of them printed with the examiner's comment.** Three of the four one-mark questions are **0-and-1 pairs on facing pages**; four of the five two-mark questions are **calculation questions** and they carry the tier's hardest lesson — the fifth is the Q3(b) pair below, where the failure is not arithmetic but aim.
 
 > **⚠️ THE HEADLINE FINDING IS A CORRECTION TO A RULE THIS BANK HAS BEEN TEACHING FROM ONE EXAMPLE.**
 >
@@ -264,7 +264,48 @@ The rule was written from May 2023 **Paper 2** — two scripts, both of which di
 
 ---
 
-# WHAT THE ELEVEN ESTABLISH
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **2/2 and 0/2** · Q3(b) *Outline one reason why M&M might locate a new factory near to a labour force* — report pp. 30–31
+
+**Question (verbatim, as printed on both scripts):** *"**(b)** Outline **one** reason why **M&M** might locate a new factory near to a labour force."* **(2)**
+
+**Official mark scheme (verbatim, P2R MS p. 17):** *"3 (b) · A02 - 2 marks. Award 1 mark for identifying one reason why M&M might locate its factories near to a labour force, plus 1 further mark for linking it to the context.*
+
+> • *To have access to a wide pool of labour when the car plant opens (1) that pool to include production line workers and skilled technicians (1)*
+
+***NB Do not accept a reason that is not in the context of M&M.** Accept any other appropriate response. (2)"*
+
+**The 0-mark script (verbatim, report p. 30):**
+
+> *"One reason is to lower costs. Closer to a labour force means cheaper means of transport to the factory which means cheaper labour."* *(a correction is visible before "Closer" — a struck mark — but the sentence reads on cleanly)*
+
+**Examiner comment (verbatim):** *"This response is not in context because the comment transport to the factory could apply to any business."*
+
+**The 2-mark script (verbatim, report p. 31):**
+
+> *"Because there would be a high number of highly skilled workers e.g. mechanics or car engineers which means M&M can hire labour at a low cost due to the competition of wanting a job."*
+
+**Examiner comment (verbatim):** *"The response refers to access to more skilled workers of mechanics and engineers and the development is that they would want a job."*
+
+**Cohort commentary (verbatim, p. 30, printed above the 0-mark script):** *"An 'Outline' question which is similar to a 'State' question where candidates have to put their response in the context of the business. To gain the two marks available there must be a development in the response as well as the response being applied to the scenario. Nearly two thirds of the cohort did not gain a mark on this question. From some of the clips seen, candidates may have misread the question or did not finish reading the question with regard to locating a new factory near to a labour force. A number of comments made reference to easier to transport vehicles and tractors, which does not have a benefit for the labour force."*
+
+🔬 **⭐ THIS IS THE TIER'S CLEANEST DEMONSTRATION OF WHAT THE SECOND MARK IS FOR, BECAUSE BOTH SCRIPTS HAVE A STRUCTURE — ONE IS POINTED AT THE WRONG THING.**
+
+| | 0/2 — p. 30 | 2/2 — p. 31 |
+|---|---|---|
+| reason | *"to lower costs"* | *"a high number of highly skilled workers"* |
+| mechanism | *"cheaper means of transport to the factory"* | *"e.g. mechanics or car engineers"* |
+| further step | *"which means cheaper labour"* | *"can hire labour at a low cost due to the competition of wanting a job"* |
+| why it fails / pays | **the benefit is to the BUSINESS's transport bill, not to the labour force** | **the benefit flows from the labour force itself — and the employer takes advantage of it** |
+
+⚠️ **The 0-mark answer is not short, not badly expressed, and has a chain of the right LENGTH — three links.** It reads as a reasonable business answer. **It fails because it answers *why locate near anything* rather than *why locate near a labour force*** — and the examiner names the test in one clause: *"could apply to any business."* **Swap M&M's name in and it would still be just as generic**, which is why *NB Do not accept a reason that is not in the context of M&M* is printed on the scheme.
+
+⭐ **The examiner credits the 2/2 in two steps and says which is which:** *"The response refers to access to more skilled workers"* — **the identification** — *"and the development is that they would want a job"* — **the link**. **The development is a COMPETITION argument: many skilled workers nearby means the employer can pay less because they are competing with one another.** The mark scheme's own indicative content (*"that pool to include production line workers and skilled technicians"*) is a different second step; *"Accept any other appropriate response"* is what admits the candidate's.
+
+⚠️ **Note the order of the 2/2's chain: identification → example → consequence → the employer's gain.** The example (*"e.g. mechanics or car engineers"*) sits **inside** the chain, exactly as the 3-mark tier's rule requires — it is not the development.
+
+**Cohort data to carry:** *"Nearly two thirds of the cohort did not gain a mark on this question."* And the commentary records the commonest failure by name — *"easier to transport vehicles and tractors, which does not have a benefit for the labour force"* — **candidates who read the question as *locate near to* rather than *near to a LABOUR FORCE*.** On a two-mark Outline, half the question is the noun at the end of it.
+
+# WHAT THE THIRTEEN ESTABLISH
 
 1. **⭐ THE ANSWER-LINE RULE IS NOW CORRECTLY STATED — and this file corrects the bank's own version of it.** *"The answer on the dotted line is the mark"* is **wrong as an absolute**; Q3(c)'s 2/2 leaves the line blank and is paid in full. **The mark is a correct answer at the required precision, wherever it is written — and the line is where examiners are told to look.** Encouraged to use it, not required: write on it anyway.
 2. **⚠️ What actually costs the mark on this paper is the format the question demanded.** All four two-mark questions ask for *2 decimal places*; **three of the four 1/2 scripts lose their mark to precision or rounding** — *3* instead of *3.78* · *135,922* instead of *135.922,33* · and one whose precision is perfect but whose divisor is not.
