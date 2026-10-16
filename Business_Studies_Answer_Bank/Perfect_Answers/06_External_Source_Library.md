@@ -814,7 +814,7 @@ Summer 2019 P1 Q1(f), a 3-mark Explain on **one way to increase gross profit mar
 
 **Confirmed or indicated as full ERs with marked scripts:**
 - `4bs1-02r-pef-20220825.pdf` — **June 2022 P2R — HARVESTED (this file's sources).**
-- `4bs1-02r-pef-20240822.pdf` — June 2024 P2R — **51 pages, indicated. QUEUED.**
+- ~~`4bs1-02r-pef-20240822.pdf` — June 2024 P2R — 51 pages, indicated. QUEUED.~~ ✅ **HARVESTED 16 Oct 2026 — but the QUEUE ITSELF was the defect: it sat unread while all three of the paper's sibling reports were harvested. See the retrieval note below.**
 - An *"Examiners' Report: Int GCSE Business 2025"* — **71 pages, indicated. QUEUED.**
 - The rest of the June 2022 series (`4bs1-01-pef-20220825.pdf`, `4bs1-01r-pef-20220825.pdf`, `4bs1-02-pef-20220825.pdf`) — **check each.**
 
@@ -1449,6 +1449,28 @@ Discovered while completing the evidence sweep. **These bound what "complete" ca
 
 ---
 
+## ⚠️ RETRIEVAL LAW — a 51-page report is TWO fetches, not one (learned 16 Oct 2026)
+
+**The June 2024 P2R report printed 51 pages and the web fetcher parses a maximum of 30.** The first harvest returned the report's **head through `Q3(c)`** — and stopped, mid-page, with no error and no warning. **A bank that did not know the limit would have recorded that as "the report", and the paper's 6-, 9- and 12-mark evidence would have been silently missing.**
+
+**What actually works, and why both halves are needed:**
+
+| Route | Pages reached | Scripts (the scans) | Examiner comments |
+|---|---|---|---|
+| **Direct PDF fetch** | **~30 of 51** | ✅ present, verbatim | ✅ present |
+| **Text proxy** — `r.jina.ai/<the same URL>` | **all 51** (it reports the page count) | ⛔ absent — the proxy does not carry the scans' text layer | ✅ present, verbatim |
+
+⭐ **The proxy reports the page count, which is the tell.** *"Number of Pages: 51"* against a fetch that ends mid-document is proof the harvest is partial.
+
+**Two laws, both cheap:**
+
+1. **Any Pearson report over ~30 pages must be fetched twice, by both routes, and the two merged.** Never accept a harvest that ends mid-sentence, and never accept a proxy's comment text as a substitute for a script that the direct fetch could have given.
+2. **When the two routes disagree about what a document contains, the DOCUMENT is 51 pages and the harvest is whatever both routes returned between them.** ⛔ **What is unobtainable after both routes is recorded as unobtainable — never paraphrased.**
+
+**Scale check for the bank's own holdings:** the four May 2023 reports (187pp total) and June 2026 P1R (48pp) are **on disk** and were read with PyMuPDF, which has no page cap — **this law applies only to web-harvested reports.**
+
+---
+
 ## 101. 🚨 THE DISCOUNT ERROR — the most-failed calculation in 4BS1
 
 **Four separate reports, four separate mentions.**
@@ -1909,6 +1931,7 @@ June 2026 P1R prints **four 3/3 Explain scripts, one for each of the paper's fou
 | Jun 2023 P1R (Aude Rose) | `International-GCSE/Business/2017/Exam-materials/4bs1-01r-pef-20230824.pdf` |
 | Jun 2023 P2 (IKEA) | `International-GCSE/Business/2017/Exam-materials/4bs1-02-pef-20230824.pdf` |
 | Nov 2024 P1 (Saha) | `International-GCSE/Business/2017/Exam-materials/4bs1-01-pef-20250123.pdf` |
+| **Jun 2024 P2R (Jimmy Choo)** | `International-GCSE/Business/2017/Exam-materials/4bs1-02r-pef-20240822.pdf` — **51pp, harvested 16 Oct 2026 by both routes; tail scripts unobtainable, stated in the harvest file** |
 
 ## 📋 Confirmed to exist, NOT yet harvested
 
@@ -1957,7 +1980,7 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 > ### ✅ SUPERSEDED — 14 OCTOBER 2026. EVERY LINE BELOW WAS TRUE WHEN WRITTEN AND IS NOT TRUE NOW.
 > **This section was written before the 2025 and 2026 reports were harvested, and it listed as "unharvested" four targets that have all since been found** — the June 2025 P1R Analyse, the June 2025 P2 Analyse, the June 2025 P2R Justify and the May 2023 P2R Justify. **Read the table below instead; the register that proves it is `09_Verified_Tally.md`, and `tally_exemplars.py` re-derives it.**
 
-**What is actually still missing, by tariff and paper — derived from the register (44 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12 = 86 rows):**
+**What is actually still missing, by tariff and paper — derived from the register (47 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12 = 86 rows):**
 
 | Tariff | Paper 1 | Paper 1R | Paper 2 | Paper 2R |
 |---|---|---|---|---|
@@ -1991,7 +2014,7 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 2. **Then** June 2026 P1R (pp. 7, 9, 11, 13, 14, 15, 17, 24, 25, 26, **29**, **32**, 37, 39). **Q3(e) (pp. 32–36) is the second 9-mark Justify and Q3(d) (p29) is an Analyse — those two first.**
 2. **Chunks 2–3 of all four June 2025 reports** — chunk 1 is now read for P1, P1R, P2 and P2R. The remaining 12-mark Evaluate exemplars sit in the final pages.
 3. **Fold the recovered response text into** `2024-06_P2_TUI.md`, `2023-06_P2_IKEA.md` and `2022-06_P1R_Can_Culleretes.md` — all three were harvested before it was known these reports print scripts, so their files hold examiner comments but not the scripts. **The text is recovered; do not re-fetch.**
-4. **June 2024 P2R** (`4bs1-02r-pef-20240822.pdf`) and the remaining June 2022 series reports — each to be opened and checked for marked scripts (rule 48).
+4. ~~**June 2024 P2R** (`4bs1-02r-pef-20240822.pdf`) and the remaining June 2022 series reports — each to be opened and checked for marked scripts (rule 48).
 5. The **assessment support page's per-command-verb extracts**, which also lists **which reports hold full-mark exemplars**.
 6. Unread chunks: `4bs1-01-pef-20240822.pdf` chunk 0 · `4bs1-01r-pef-20230824.pdf` chunk 3 · `4bs1-01r-pef-20220825.pdf` chunks 0 and 2–3.
 7. **June 2026 reports published 25 August 2026 but restricted until ~August 2027.** **Nov 2025** reports: try `4bs1-0*-pef-2026012*.pdf`.

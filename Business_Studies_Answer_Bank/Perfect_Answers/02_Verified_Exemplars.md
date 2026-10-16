@@ -10,7 +10,7 @@ Transcriptions are faithful to the candidate's handwriting, including their spel
 >
 > **(2) The full Examiner Reports.** Some series publish reports that **print the scripts as text, with the awarded mark and the examiner's reasoning alongside each one**. These need no rendering and are transcribed exactly. **The June 2022 series is one of these** — it supplies the 1-mark, 2-mark and 6-mark sections below, the decimal-place pair, and the Justify evidence.
 >
-> **Harvested in this form so far:** the **June 2022** series (Cadbury, LEGO) · **June 2023 P2** (IKEA) · **June 2024 P1R and P2** (Café Pinch, TUI) · **June 2025 P1, P1R, P2 and P2R** (Four Fitness, CCT, Starbucks, Rabanne). **June 2024 P2R is queued.**
+> **Harvested in this form so far:** the **June 2022** series (Cadbury, LEGO) · **June 2023 P2** (IKEA) · **June 2024 P1R and P2** (Café Pinch, TUI) · **June 2025 P1, P1R, P2 and P2R** (Four Fitness, CCT, Starbucks, Rabanne). **June 2024 P2R** (Jimmy Choo) — ✅ **harvested 16 Oct 2026**, three new verified 3/3s and six 1-mark pairs; ⚠️ **its five tail script bodies are unobtainable and are stated as such, not paraphrased.**
 
 ---
 

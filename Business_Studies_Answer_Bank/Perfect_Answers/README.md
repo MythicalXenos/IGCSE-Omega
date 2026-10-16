@@ -35,7 +35,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 |---|---|---|---|
 | **1** | **456** | MCQ · define · state · identify | ✅ **8 × 1/1**, archived and transcribed — ⚠️ *but no model is needed: the MS is the perfect answer* |
 | **2** | **152** | calculate one figure · outline one | ✅ **2 × 2/2**, archived and transcribed — ⚠️ *same* |
-| **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **44 × 3/3**, Jun 2019 → Jun 2026 |
+| **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **47 × 3/3**, Jun 2019 → Jun 2026 |
 | **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **25 × 6/6** |
 | **9** | **76** | 2(f) · 3(e) | ✅ **15 × 9/9** |
 | **12** | **38** | 4(c) | ✅ **2 × 12/12** |

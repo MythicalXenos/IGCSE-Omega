@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 136 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 148 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 36 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
@@ -31,10 +31,10 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | **12-mark Evaluate** | **2** |
 | **9-mark Justify** | **15** |
 | **6-mark Analyse** | **25** |
-| **3-mark Explain** | **44** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)* |
-| **1-mark items** | **30** *(May/Jun 2023 ×24 — **P2 ×6** · **P1R ×6 · P1 ×6** · Jun 2026 ×6)* |
-| **2-mark items** | **20** *(May/Jun 2023 ×16 — **P2 ×4** · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4)* |
-| **TOTAL** | **136** *(the four governed tiers = **86**; the rest are the 1- and 2-mark script pairs the reports print)* |
+| **3-mark Explain** | **47** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×8 · Jun 2025 ×6 · Jun 2026 ×4)* |
+| **1-mark items** | **36** *(May/Jun 2023 ×24 — **P2 ×6** · **P1R ×6 · P1 ×6** · Jun 2026 ×6 · Jun 2024 ×6)* |
+| **2-mark items** | **23** *(May/Jun 2023 ×16 — **P2 ×4** · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4 · Jun 2024 ×3)* |
+| **TOTAL** | **148** *(the four governed tiers = **89**; the rest are the 1- and 2-mark script pairs the reports print)* |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -137,7 +137,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 3 MARKS — **44 scripts** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×5 · Jun 2025 ×6 · Jun 2026 ×4)*
+## 3 MARKS — **47 scripts** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×8 · Jun 2025 ×6 · Jun 2026 ×4)*
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
@@ -185,6 +185,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 42 | **Jun 2023** | P2R Q1(f) | an advantage of becoming a multinational *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:262` |
 | 43 | **Jun 2023** | P2R Q2(c) | why branding is important *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:296` |
 | 44 | **Jun 2023** | P2R Q2(e) | why businesses maintain product quality *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:325` |
+| 45 | **Jun 2024** | P2R Q2(c) | one advantage to a country of being in a trading bloc — *Jimmy Choo* **(1/3 and 3/3)** *(banked 16 Oct 2026 — the report found by reading the bank's own harvest queue)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:148` |
+| 46 | **Jun 2024** | P2R Q2(d) | one way businesses support employees with disabilities — *Jimmy Choo* **(2/3 and 3/3)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:161` |
+| 47 | **Jun 2024** | P2R Q2(e) | one impact of an increase in interest rates — *Jimmy Choo* **(2/3 and 3/3)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:177` |
 
 **`*` = held as the report's own one-sentence quotation inside a summary table**, rather than transcribed in a dedicated exemplar section. The mark is stated by the report and the response is complete as printed — **for a 3-mark Explain, the whole answer is one sentence** — but the register marks the difference so a reader can audit the hold. **28 of the 32 are full exemplar sections; 4 are single-sentence holds.**
 
@@ -256,6 +259,9 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 
 ## 1 MARK SCRIPTS — printed in full, and the only place a 0 is explained
 
+> ### ⭐ THE TABLES NOW CARRY TWO KINDS OF SOURCE — read the row's own note if it matters
+> **The June 2023 and June 2026 rows come from reports held on disk in the archive.** **The nine June 2024 P2R rows (§1 ×6 · §2 ×3) were added 16 Oct 2026 from a web-harvested report** — `External_Exemplars/2024-06_P2R_Jimmy_Choo.md`, which transcribes the scripts from the fetcher's own reading of the published PDF. **Both are printings by Pearson; the distinction is only whether the PDF also sits in the archive folder.** The sentence below about *"the archive prints 80"* refers to the on-disk reports alone and is unaffected.
+
 **⚠️ THIS TABLE AND THE 2 MARK TABLE BELOW count SCRIPT PAIRS, not full-mark scripts**: each row is a question the reports printed **twice** — the credited answer beside the rejected one — so a row here is not comparable with a row in the four governed tiers above. **They are rows in this file because they are verified exemplars, not because they are full-mark scripts.**
 
 **The archive prints 80 marked scripts for the 1- and 2-mark tier, and every one of them is now transcribed** *(derived, not typed — `layer_c_1_2mark_coverage.py` reads the five reports and these rows: **BANKED 80 / REMAIN 0**, 14 Oct 2026).* **No model is needed for this tier** — the mark scheme is already the perfect answer — **but a scheme cannot show you what a 0 looks like, and the rejected script is where the marks are actually lost.**
@@ -303,6 +309,12 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 28 | **Jun 2023** | P2 Q2(a) | why IKEA would employ temporary staff — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:210` |
 | 29 | **Jun 2023** | P2 Q2(b) | a financial objective — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:250` |
 | 30 | **Jun 2023** | P2 Q3(a) | define overdraft — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:279` |
+| 31 | **Jun 2024** | P2R Q1(b) | define e-newsletter — *Jimmy Choo* **(0/1 and 1/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:33` |
+| 32 | **Jun 2024** | P2R Q1(c) | define minimum wage — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:45` |
+| 33 | **Jun 2024** | P2R Q1(d) | State — loyal customers — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:58` |
+| 34 | **Jun 2024** | P2R Q2(a) | a non-financial objective — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:121` |
+| 35 | **Jun 2024** | P2R Q2(b) | why Jimmy Choo complies with health and safety laws — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:134` |
+| 36 | **Jun 2024** | P2R Q3(a) | define person specification — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:224` |
 
 
 ---
@@ -333,3 +345,6 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 18 | **Jun 2023** | P1 Q4(a) | operating profit margin, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:704` |
 | 19 | **Jun 2023** | P2 Q1(e) | gross profit margin, 2 d.p. — *IKEA* **(1/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:145` |
 | 20 | **Jun 2023** | P2 Q3(b) | why IKEA reads government reports — *IKEA* **(0/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:311` |
+| 21 | **Jun 2024** | P2R Q1(e) | predicted value of recycled plastic, 2 d.p. — *Jimmy Choo* **(0/2 ×3 — no full mark printed)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:71` |
+| 22 | **Jun 2024** | P2R Q3(b) | why branding is important — *Jimmy Choo* **(0/2 and 2/2)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:232` |
+| 23 | **Jun 2024** | P2R Q3(c) | percentage increase on a handbag, 2 d.p. — *Jimmy Choo* **(1/2; the second script's comment is banked, its body is not — see the note at the foot of the harvest file)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:248` |

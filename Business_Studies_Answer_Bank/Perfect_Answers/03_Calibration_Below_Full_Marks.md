@@ -256,6 +256,22 @@ Reading all the examiner comments together, the same four failures recur, and no
 **The pairing is deliberate:** the same question, the same session, two papers apart, **2/3 and 0/3**. Reading them side by side is the fastest way to calibrate what a Level-2 answer looks like against what scores nothing.
 
 
+## ⭐ JUNE 2024 P2R — THE REPORT THE BANK HAD NEVER OPENED (16 Oct 2026)
+
+**Found by reading the bank's own harvest queue.** `06_` had listed *"`4bs1-02r-pef-20240822.pdf` — June 2024 P2R — 51 pages, indicated. **QUEUED**"* — and it sat there while the paper's three sibling reports were harvested. **It is now transcribed in `External_Exemplars/2024-06_P2R_Jimmy_Choo.md`.** Five things in it are worth carrying forward:
+
+| The evidence | Why it matters |
+|---|---|
+| **A 12-marker scored 9/12 — and the examiner says exactly why not 12:** *"valid points and these are developed, such as skilled labour… and that the factory should be located near to where they live. The response does demonstrate accurate knowledge and understanding but **there are limited business concepts and issues and no thorough evaluation**."* | ⭐ **The clearest single sentence in the bank on the 12-mark gap: development is not enough; the missing ingredient is evaluation.** The 6/12 beside it had *"valid comments… cost of renting and distance. However these points were not developed."* |
+| **A Justify scored 8/9** with *"chains of reasoning"* — and the report's tip names the missing mark: *"Candidates should be encouraged to give **effective conclusions**… It could allow them to gain the **AO4** marks available."* | ⚠️ **Same paper, same reason, three times: 8, 6 and 4 on the two Justify questions all stop short of the top for a missing evaluative sentence.** |
+| **An Analyse scored 2/6 for giving content, not consequence:** *"very basic and gives details of what is included in a person specification. **There is no development of the information given.**"* | The AO1-instead-of-AO3 failure — a correct catalogue of a document's contents, worth 2. |
+| **An Explain 1/1 pair where BOTH scripts score 1:** one *"indicates why… but does not develop"*, the other *"mentions that the government may fine a business, but then does not develop… **The mention about brand image is another reason.**"* | ⭐ **The third independent confirmation that on `Explain one`, a second reason is a CAP — and here the long, ambitious answer scores the same as the short one.** |
+| **⭐ The name rule, quoted in full for the first time:** *"Response is not in context. **Mentioning Jimmy Choo does not count as it is in the question.**"* — printed beside a 1/1 whose paid words are *"clothing, perfumes, trainers, and wedding outfits"*. | The bank has quoted this sentence in fragments since the first harvest. **This is the source, complete, with its controlled pair.** \(Another 0 names Jimmy Choo, factories AND shops and still fails for want of a product noun.\) |
+
+⚠️ **And one correction to a rule's phrasing: the report's own Paper Summary recommends linking words — *"thus, therefore, because"* — while bank rules 63 and 97 record that connectives ALONE are not analysis.** There is no conflict, and the distinction is worth teaching: **the linking word expands a comment that already carries a mechanism; it does not supply one.**
+
+---
+
 ## Two more examiner rules worth memorising
 
 **Do not use bullet points in 12-markers.** From the May 2023 P2 examiner report:
