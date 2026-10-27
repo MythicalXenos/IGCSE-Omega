@@ -52,7 +52,8 @@ These short quotations are anchors for locating the source, not substitute answe
 
 ## Additional official report references consulted
 
-- [June 2022 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf) — includes full-mark candidate analysis examples, including a 10/10 Q6 response.
+- [June 2022 P1 examiner report, 4EB1_01_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf) — eleven locator-only examples across Q3/Q6/Q7/Q8/Q9/Q10/Q11. Exact prompts and matching local QP/MS checks are recorded below; Jina’s text route was used to locate scores and printed judgements only.
+- [June 2022 P1R examiner report, 4EB1_01R_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01r-pef-20220825.pdf) — eleven locator-only examples across Q3/Q6/Q7/Q8/Q9/Q10/Q11. Exact prompts and matching local QP/MS checks are recorded below; candidate wording is not transcribed from OCR.
 - [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven candidate-script score/AO locators, with exact Q8–Q11 prompts checked against the local QP.
 - [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — R-variant Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven score/AO locators, no script wording transcribed.
 - [Official 4EB1 sample assessment materials](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Specification%20and%20sample%20assessments/00125_International_GCSE_English_Language_%20B_2016-Sep_issue_2.pdf) — specimen QP/MS, not a live-past-paper candidate script.
@@ -61,9 +62,49 @@ These short quotations are anchors for locating the source, not substitute answe
 - [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators, including full, near-full and lower-scoring samples. No exact candidate wording is transcribed; OCR is not used as a transcript. See locator tables below.
 - [Pearson specification update (4 August 2025)](https://qualifications.pearson.com/en/news-policy/qualifications/international-gcses/english/specification-update-international-gcse-english-language-b-4eb1-for-first-teaching-september-2025.html) and [official writing-form guidance](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Teaching%20and%20learning%20materials/pearson-int-gcse-english-writing-guidance4eb1pf2.pdf) — Q8 text types are narrowed to four from November 2025 onward.
 
-### June 2024–2025 Section A: official candidate-script locators (not transcriptions)
+### June 2022–2025 Section A: official candidate-script locators (not transcriptions)
 
-These records establish that Pearson reproduced a candidate response and published its score/level. The page cited is the **printed report page carrying the examiner judgement**, not a PDF file-page index. The Jina text route was used to expose printed-page markers and locate the judgement; it is not treated as an authority for candidate wording. Candidate response page ranges are omitted here unless explicitly pinned elsewhere. **No 2024–2025 candidate wording has been transcribed or visually verified in this batch.** Consult the linked official Pearson PDF before using a script; do not reconstruct it from OCR. Short task-focus labels below summarize the examiner report and are not verbatim QP quotations.
+These records establish that Pearson reproduced a candidate response and published its score/level. The page cited is the **printed report page carrying the examiner judgement**, not a PDF file-page index. Jina’s report text route is used only to locate page markers and judgement text, never as candidate-response wording. Candidate response page ranges are omitted unless independently pinned. **No 2022 or 2024–2025 candidate wording has been transcribed or visually verified in these locator batches.** Consult the linked official Pearson PDF before using a script; do not reconstruct it from OCR. Task descriptions in the 2024–2025 tables remain examiner-report summaries, not verbatim QP quotations.
+
+#### June 2022 P1 — [official examiner report, publication code 4EB1_01_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf)
+
+Local sources: [P1 QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1_QP.pdf) and [matching P1 MS](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1_MS.pdf). Exact Q3/Q6/Q7 wording below was checked against the local QP (printed pp. 3, 7 and 10); the Q3 page was rendered and visually checked because its question text is absent from the searchable layer.
+
+**QP prompts (verbatim):**
+- **Q3 (QP p. 3):** “How does the writer present her ideas about the importance of good grammar? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q6 (QP p. 7):** “How does the writer, Richard Godwin, present ideas about the effect of technology on the English language? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q7 (QP p. 10):** “Compare how the writers of Text One and Text Two present ideas and perspectives about good grammar and the effect of technology on the English language. Support your answer with examples from both texts.”
+
+**Matching MS check (local printed pages):** Q3 is AO2, indicative content pp. 6–7 and level grid p. 8; Q6 is AO2, indicative content p. 10 and level grid p. 11; Q7 is AO3, indicative content pp. 12–13. The analysis questions reward supported explanation of language/structure and effects; Q7 rewards comparison of both writers’ ideas/perspectives with balanced references. These are marking requirements, not candidate answers or a claim that the indicative lists are exhaustive.
+
+| Q | Pearson-described task | Published score / level | Printed judgement page | Evidence note |
+|---|---|---:|---:|---|
+| 3 | Importance of good grammar | 8/10, Level 4 | 8 | Thorough exploration and appropriate references; not full marks. |
+| 3 | Importance of good grammar (lower-scoring sample) | 3/10, Level 2 | 11 | Features and quotations are identified, but effects are not consistently developed. |
+| 6 | Technology’s effect on the English language | 10/10, Level 5 | 16 | Full marks; Pearson describes perceptive analysis of language and structure. |
+| 6 | Technology’s effect on the English language (lower-scoring sample) | 5/10, Level 3 | 18 | Clear understanding/explanation, but development of effects is needed for a higher level. |
+| 7 | Compare ideas/perspectives about good grammar and technology | 11/15, Level 4 | 23 | Wide-ranging, balanced comparisons with relevant support; not full marks. |
+| 7 | Same comparison (lower-scoring sample) | 8/15, Level 3 | 25 | Some comparisons/explanation; a wider range and further development were needed. |
+
+#### June 2022 P1R — [official examiner report, publication code 4EB1_01R_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01r-pef-20220825.pdf)
+
+Local sources: [P1R QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1R_QP.pdf) and [matching P1R MS](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1R_MS.pdf). Exact Q3/Q6/Q7 wording below was checked against the local QP (printed pp. 3, 7 and 10); Q3 was visually checked from the rendered paper page.
+
+**QP prompts (verbatim):**
+- **Q3 (QP p. 3):** “How does the writer present his advice for treasure hunters? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q6 (QP p. 7):** “Explain how the writer presents his opinions about treasure hunting. You should support your answer with close reference to the passage, including brief quotations.”
+- **Q7 (QP p. 10):** “Compare how the writers of Text One and Text Two present their ideas and perspectives about treasure hunting. Support your answer with examples from both texts.”
+
+**Matching MS check (local printed pages):** Q3 is AO2, indicative content p. 6 and level grid p. 7; Q6 is AO2, indicative content p. 9 and level grid p. 11; Q7 is AO3, indicative content pp. 12–13 and level grid pp. 13–14. Q3/Q6 assess supported analysis of language/structure and effects. Q7 requires comparison; a response considering only one text is capped at the top of Level 2, and the indicative list says “Reward all valid points.”
+
+| Q | Pearson-described task | Published score / level | Printed judgement page | Evidence note |
+|---|---|---:|---:|---|
+| 3 | Writer’s advice for treasure hunters | 8/10, Level 4 | 8 | Thorough exploration and suitable references; not full marks. |
+| 3 | Writer’s advice for treasure hunters (lower-scoring sample) | 3/10, Level 2 | 11 | Lower-score calibration; no candidate wording transcribed. |
+| 6 | Writer’s opinions about treasure hunting | 9/10, Level 5 | 16 | Near-full, **not** full marks; exact 9/10 score retained. |
+| 6 | Writer’s opinions about treasure hunting (lower-scoring sample) | 6/10, Level 3 | 18 | Lower-scoring response; exact score and level retained. |
+| 7 | Compare writers’ ideas/perspectives about treasure hunting | 10/15, Level 4 | 24 | Developed comparison with supporting references; not full marks. |
+| 7 | Same comparison (lower-scoring sample) | 5/15, Level 2 | 25 | Obvious comparisons with limited development. |
 
 #### June 2024 P1 — [official examiner report, publication code 4EB1_01_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf)
 
@@ -111,7 +152,29 @@ These records establish that Pearson reproduced a candidate response and publish
 
 ## Section B Q8: candidate-script score/AO locators (not transcripts)
 
-The exact Q8 prompt and bullet points below were checked against the local QP PDF on printed p. 15 for each paper; the report’s sample scripts are not quoted or paraphrased as candidate wording. The page pins are Pearson’s printed examiner-judgement pages, not PDF file-page indices. Response-page ranges are not separately pinned in this batch. AO marks and levels are Pearson’s published assessment, not independent re-marking. No 2024–2025 candidate wording has been transcribed or visually checked; OCR is locator evidence only.
+The exact Q8 prompts and bullet points below were checked against the matching local QPs on printed p. 15; the 2022 matching MSs were also checked for its AO1/AO4/AO5 requirements and non-exhaustive indicative content. The report-script locators preserve Pearson’s printed examiner-judgement pages, not PDF file-page indices. Response-page ranges are not separately pinned in these batches. AO marks and levels are Pearson’s published assessments, not independent re-marking. **No 2022 or 2024–2025 candidate wording has been transcribed or visually checked; OCR is locator evidence only.**
+
+#### June 2022 P1 — [official examiner report, publication code 4EB1_01_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf)
+
+**Exact QP task (QP p. 15):** “A website is asking for contributions about the importance of clear written communication. Write your contribution.” Include: (1) the problems caused by unclear written communication; (2) the positive effects of technology on written communication; and (3) why good grammar matters. The QP also says to consider the contribution’s purpose and intended audience. [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1_QP.pdf)
+
+**Matching MS check (local P1 MS pp. 14–17):** p. 14 gives indicative points under all three required areas, says other possibilities/examples may be used, and explicitly says “Reward all valid points”; pp. 15–17 set the separate AO1, AO4 and AO5 criteria. Indicative points are MS guidance, not an answer transcript.
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 8 | AO1 10/10 Level 5 + AO4 12/12 Level 5 + AO5 8/8 Level 4 = 30/30 | 33 | Full-mark script locator; no candidate wording transcribed. |
+| 8 | AO1 5/10 Level 3 + AO4 5/12 Level 3 + AO5 5/8 Level 3 = 15/30 | 35 | Lower-scoring locator; published marks/levels retained exactly. |
+
+#### June 2022 P1R — [official examiner report, publication code 4EB1_01R_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01r-pef-20220825.pdf)
+
+**Exact QP task (QP p. 15):** “You have been asked to give a talk to your peers about treasure hunting. Write the text of your talk.” Include: (1) advice for treasure hunters; (2) what might be found; and (3) problems that might be experienced. The QP also says to consider the talk’s purpose and intended audience. [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1R_QP.pdf)
+
+**Matching MS check (local P1R MS pp. 14–18):** pp. 14–15 give non-exhaustive examples for the three areas, permit wider interpretations/examples, and state “Reward all valid points”; pp. 16–18 set the separate AO1, AO4 and AO5 criteria. Indicative points are MS guidance, not an answer transcript.
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 8 | AO1 8/10 Level 4 + AO4 10/12 Level 4 + AO5 6/8 Level 3 = 24/30 | 32 | Published score/AO locator; lower than full marks; no wording transcribed. |
+| 8 | AO1 5/10 Level 3 + AO4 6/12 Level 3 + AO5 5/8 Level 3 = 16/30 | 35 | Lower-scoring locator; published AO marks/levels retained exactly. |
 
 #### June 2024 P1 — [official examiner report, publication code 4EB1_01_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf)
 
@@ -157,7 +220,27 @@ The full report text route contains examiner commentary but no reproduced Q8 can
 
 ## Section C Q9: official candidate-script score locators (not transcripts)
 
-The exact Q9 prompts below were checked against the corresponding local QP on printed p. 21. Pearson’s printed judgement pages and AO marks are retained; response-page ranges are not established here. These are locator records only: no 2024–2025 candidate wording has been transcribed or visually checked, and OCR is not treated as a transcript.
+The exact Q9 prompts below were checked against the corresponding local QPs on printed p. 21. The matching June 2022 MSs were checked for the task-specific indicative content and their shared AO4/AO5 criteria; these are not candidate answers. Pearson’s printed judgement pages and AO marks are retained; response-page ranges are not established here. **No 2022 or 2024–2025 candidate wording has been transcribed or visually checked; OCR is not treated as a transcript.**
+
+#### June 2022 P1 — [official examiner report, publication code 4EB1_01_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf)
+
+**Exact QP task (QP p. 21):** “‘English has changed greatly as a result of the internet and modern technology.’ Discuss.” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1_QP.pdf)
+
+**Matching MS check:** P1 MS p. 18 permits candidates to agree or disagree and present a range of arguments; its indicative examples are not exhaustive and examiners should allow a wide range of interpretation. The shared AO4/AO5 criteria are on pp. 19–20.
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 9 | AO4 19/20 Level 5 + AO5 10/10 Level 5 = 29/30 | 41 | Near-full, **not** full marks; published score and AO levels retained. Candidate wording is not transcribed. |
+
+#### June 2022 P1R — [official examiner report, publication code 4EB1_01R_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01r-pef-20220825.pdf)
+
+**Exact QP task (QP p. 21):** “‘People who look for excitement and danger are foolish.’ To what extent do you agree with this statement?” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2022/4EB1_English_Language_B_May-June_2022_P1R_QP.pdf)
+
+**Matching MS check:** P1R MS p. 19 allows candidates to agree/disagree, gives indicative arguments and tells examiners to remain open to a wide range of interpretation; AO4/AO5 criteria are on pp. 21–22.
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 9 | AO4 18/20 Level 5 + AO5 10/10 Level 5 = 28/30 | 42 | Near-full, **not** full marks; published score and AO levels retained. Candidate wording is not transcribed. |
 
 #### June 2024 P1 — [official examiner report, publication code 4EB1_01_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf)
 
@@ -199,10 +282,14 @@ The report text route contains Q9 examiner commentary but no reproduced Q9 candi
 
 ## Section C Q10–Q11: official candidate-script score/AO locators (not transcripts)
 
-The exact Q10 and Q11 prompts below were checked against each local QP on printed p. 21. Pearson’s printed judgement pages and published AO4/AO5 marks are retained; response-page ranges are not established here. These are locator records only: no 2024–2025 candidate wording has been transcribed or visually checked.
+The exact Q10 and Q11 prompts below were checked against each local QP on printed p. 21. For June 2022, the matching MS was checked separately: the P1 MS p. 18 gives Q10 story/Q11 gift guidance, and the P1R MS p. 19 gives Q10 story/Q11 unexpected-event guidance; shared AO4/AO5 grids are P1 pp. 19–20 and P1R pp. 21–22. The MS allows broad interpretations; those indicative points are not candidate answers. Pearson’s printed judgement pages and published AO4/AO5 marks are retained; response-page ranges are not established here. **No 2022 or 2024–2025 candidate wording has been transcribed or visually checked.**
 
 | Session/paper | Q | Exact QP task (printed p. 21) | Published Pearson score and AO levels | Printed judgement page | Evidence note |
 |---|---:|---|---:|---:|---|
+| June 2022 P1 | 10 | Write a story (true or imaginary) entitled ‘The Message’. | AO4 12/20 Level 3 + AO5 7/10 Level 4 = 19/30 | 47 | Published score retained; candidate wording is not transcribed. |
+| June 2022 P1 | 11 | Describe the gift that has meant the most to you. | AO4 10/20 Level 3 + AO5 6/10 Level 3 = 16/30 | 51 | Published score retained; candidate wording is not transcribed. |
+| June 2022 P1R | 10 | Write a story (true or imaginary) entitled ‘The Discovery’. | AO4 11/20 Level 3 + AO5 6/10 Level 3 = 17/30 | 47 | Published score retained; candidate wording is not transcribed. |
+| June 2022 P1R | 11 | Describe a time when something totally unexpected happened. | AO4 16/20 Level 4 + AO5 7/10 Level 4 = 23/30 | 53 | Published score/AO levels retained; candidate wording is not transcribed. |
 | June 2024 P1 | 10 | Write a story (true or imaginary) entitled ‘The Future’. | AO4 18/20 Level 5 + AO5 9/10 Level 5 = 27/30 | 56 | Near-full, **not** full marks; report describes a crafted, controlled narrative. |
 | June 2024 P1 | 11 | Describe the untidiest place you know. | AO4 12/20 Level 3 + AO5 5/10 Level 3 = 17/30 | 62 | Lower-scoring sample; exact wording not transcribed. |
 | June 2024 P1R | 10 | Write a story (true or imaginary) entitled ‘Freedom’. | AO4 18/20 Level 5 + AO5 9/10 Level 5 = 27/30 | 53 | Near-full, **not** full marks; exact wording not transcribed. |
@@ -214,8 +301,8 @@ The exact Q10 and Q11 prompts below were checked against each local QP on printe
 
 The November 2024 P1 QP tasks are Q10, “Write a story (true or imaginary) entitled ‘The Reunion’,” and Q11, “Describe somewhere that you have been that was very busy.” The full report text route contains examiner commentary but no reproduced Q10/Q11 candidate script or score page; neither contributes a locator.
 
-**Transcript integrity and count:** the 2024/2025 locator records now total **44 locator-only entries** (24 Section A Q3/Q6/Q7, eight Section B Q8, four Section C Q9 and eight Section C Q10/Q11 locators). They are not transcripts; published marks/AO levels and judgement pages are preserved, while OCR is not used as candidate wording. Together with fourteen separately facsimile-checked June 2023 transcriptions/excerpts, the workbook now indexes **58 official candidate-response records: 14 verified transcriptions/excerpts + 44 locator-only records**. This does not change the **21/253** constructed answer-set coverage.
+**Transcript integrity and count:** the June 2022 and June 2024/2025 reports now contribute **66 locator-only entries**: 36 Section A Q3/Q6/Q7 records, twelve Section B Q8 records, six Section C Q9 records and twelve Section C Q10/Q11 records. The June 2022 batch adds eleven locators per paper (six Section A, two Q8 and three Section C); exact prompts and matching local QP/MS page checks are recorded above. These are not transcripts: published scores/AO levels and printed judgement pages are preserved, while OCR is not used as candidate wording. Together with fourteen separately facsimile-checked June 2023 transcriptions/excerpts, the workbook indexes **80 official candidate-response records: 14 verified transcriptions/excerpts + 66 locator-only records**. This does not change the **21/253** constructed answer-set coverage. A targeted recheck of June 2024 P1R report chunk 4 confirmed the existing Q10 locator (27/30, p. 53) and Q11 locator (22/30, p. 60); it did not change either record.
 
 ## Full-mark and construction boundaries
 
-The June 2023 reports include verified full-mark examples for Q6, Q7, Q8 and Q10; the published Q3, Q9 and Q11 scores are **not** full marks. The 2024–2025 locator tables contain both full-mark and lower/near-full samples, with every published score retained exactly. A locator is not an exact transcript and no OCR-damaged wording is repaired. Every model answer written for this bank is labelled either as an official score/page reference or a constructed response. Constructed models use exact 4EB1 questions and source text with the matching mark scheme and available examiner guidance; they have not been independently marked and no score is claimed.
+The June 2023 reports include verified full-mark examples for Q6, Q7, Q8 and Q10; the published Q3, Q9 and Q11 scores are **not** full marks. The June 2022–2025 locator tables contain full-mark, near-full and lower-scoring samples, with every published score retained exactly (including June 2022 P1 Q6/Q8 full marks and near-full June 2022 Section C responses). A locator is not an exact transcript and no OCR-damaged wording is repaired. Every model answer written for this bank is labelled either as an official score/page reference or a constructed response. Constructed models use exact 4EB1 questions and source text with the matching mark scheme and available examiner guidance; they have not been independently marked and no score is claimed.

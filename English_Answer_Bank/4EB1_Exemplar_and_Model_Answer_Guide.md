@@ -1,8 +1,8 @@
 # English Language B 4EB1: question patterns, scored scripts and model answers
 
-**Built 12 October 2026 from the Paperlords archive, Pearson mark schemes and Pearson examiner reports; locator index updated 28 October 2026.**
+**Built 12 October 2026 from the Paperlords archive, Pearson mark schemes and Pearson examiner reports; locator index updated 28 October 2026 with the June 2022 P1/P1R report batch.**
 
-This is the English answer bank, using the same compact approach as the Economics bank: one filterable workbook plus one guide; no duplicate past-paper PDFs. The priority is Section A, particularly the two 10-mark language-analysis questions and the 15-mark comparison question.
+This is the English answer bank, using the same compact approach as the Economics bank: one filterable workbook plus one guide; no duplicate past-paper PDFs. The bank’s scope is the full paper—Sections A, B and C—with question-specific work progressing section by section. Section A remains the immediate learner-practice priority, especially the two 10-mark language-analysis questions and the 15-mark comparison question.
 
 ## Scope and how to use the workbook
 
@@ -149,7 +149,7 @@ Nothing dramatic happens on this walk. That is why I like it: for a little while
 
 ## Official candidate-response evidence
 
-This table separates exact-script evidence from locator-only evidence. **[VERIFIED CANDIDATE EXEMPLAR]** is reserved for the June 2023 responses/excerpts checked against Pearson facsimiles and transcribed in `Verified_Candidate_Responses/June_2023_Section_A.md`; that file preserves uncertainty and incomplete report reproductions. **[OFFICIAL CANDIDATE SCRIPT LOCATOR]** means Pearson reproduces an authentic response and publishes the score/level, but its wording has not been transcribed or visually checked in this batch. For locator-only entries, the cited page is the printed examiner-judgement page; do not infer exact candidate wording from OCR or page adjacency. “Full marks” is used only when every mark available was awarded. The constructed models above are separate and are **not** candidates’ scripts.
+This table separates exact-script evidence from locator-only evidence. **[VERIFIED CANDIDATE EXEMPLAR]** is reserved for the June 2023 responses/excerpts checked against Pearson facsimiles and transcribed in `Verified_Candidate_Responses/June_2023_Section_A.md`; that file preserves uncertainty and incomplete report reproductions. **[OFFICIAL CANDIDATE SCRIPT LOCATOR]** means Pearson reproduces an authentic response and publishes the score/level, but its wording has not been transcribed or visually checked in this batch. For locator-only entries, the cited page is the printed examiner-judgement page; do not infer exact candidate wording from OCR or page adjacency. “Full marks” is used only when every mark available was awarded. As of 28 October 2026, this index contains **80 official-response records: 14 facsimile-checked June 2023 transcriptions/excerpts + 66 locator-only records from June 2022/2024/2025**. These counts are separate from the **21/253** complete constructed-answer sets. The constructed models above are separate and are **not** candidates’ scripts.
 
 ### Facsimile-checked June 2023 responses/excerpts
 
@@ -170,10 +170,24 @@ This table separates exact-script evidence from locator-only evidence. **[VERIFI
 | June 2023 P1R Q10, “The Day Everything Changed” | 30/30 (AO4 20/20; AO5 10/10) | Printed p.50; script pp.47–49 (p.46 is commentary) | Full-mark narrative; controlled point of view, structure and time shifts. | [VERIFIED CANDIDATE EXEMPLAR] — line-by-line facsimile-checked transcription; revisions/uncertainty flagged. |
 | June 2023 P1R Q11, role-model description | 26/30 (AO4 17/20, Level 5; AO5 9/10, Level 5) | Printed p.56; script pp.53–55 | Strong descriptive control and detail, not full marks. | [VERIFIED CANDIDATE EXEMPLAR] — facsimile-checked transcription; revisions/uncertain readings flagged. |
 
-### Official score/page locators from June 2024–June 2025 (not transcripts)
+### Official score/page locators from June 2022–June 2025 (not transcripts)
+
+The June 2022 exact Q3/Q6/Q7 prompts were checked against local QP pages 3, 7 and 10 and their matching MS criteria; the full prompt text and MS page map are in `Source_Notes/Official_Pearson_Exemplar_Index.md`. These 2022 report examples remain locator-only: candidate wording is not taken from OCR.
 
 | Session and question | Published score | Examiner report reference | What the evidence is useful for | Evidence label / transcript status |
 |---|---:|---|---|---|
+| June 2022 P1 Q3, importance of good grammar | 8/10, Level 4 | Printed p.8 (judgement; response pages not separately pinned) | Thorough exploration and appropriate references; not full marks. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1 Q3, lower-scoring sample | 3/10, Level 2 | Printed p.11 (judgement; response pages not separately pinned) | Features/quotations identified, but effects are not consistently developed. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1 Q6, technology’s effect on English | 10/10, Level 5 | Printed p.16 (judgement; response pages not separately pinned) | Full marks; perceptive analysis of language and structure. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1 Q6, lower-scoring sample | 5/10, Level 3 | Printed p.18 (judgement; response pages not separately pinned) | Clear understanding/explanation, but further development of effects was needed. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1 Q7, grammar and technology comparison | 11/15, Level 4 | Printed p.23 (judgement; response pages not separately pinned) | Wide range of balanced comparisons with relevant support; not full marks. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1 Q7, lower-scoring comparison | 8/15, Level 3 | Printed p.25 (judgement; response pages not separately pinned) | A range of comparisons, but wider range/development was needed. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1R Q3, advice for treasure hunters | 8/10, Level 4 | Printed p.8 (judgement; response pages not separately pinned) | Thorough exploration and suitable references; not full marks. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1R Q3, lower-scoring sample | 3/10, Level 2 | Printed p.11 (judgement; response pages not separately pinned) | Lower-score calibration; wording is not reconstructed from OCR. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1R Q6, opinions about treasure hunting | 9/10, Level 5 | Printed p.16 (judgement; response pages not separately pinned) | Near-full, **not** full marks; exact score retained. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1R Q6, lower-scoring sample | 6/10, Level 3 | Printed p.18 (judgement; response pages not separately pinned) | Lower-scoring calibration; exact score and level retained. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1R Q7, treasure-hunting comparison | 10/15, Level 4 | Printed p.24 (judgement; response pages not separately pinned) | Developed comparison with supporting references; not full marks. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
+| June 2022 P1R Q7, lower-scoring comparison | 5/15, Level 2 | Printed p.25 (judgement; response pages not separately pinned) | Obvious comparisons with limited development. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
 | June 2024 P1 Q3, young people protecting the environment | 8/10, Level 4 | Printed p.9 (judgement; response pages not separately pinned) | Strong exploration with relevant references; not full marks. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
 | June 2024 P1 Q3, lower-scoring sample | 4/10, Level 2 | Printed p.11 (judgement; response pages not separately pinned) | Limited development of effects; lower-score calibration. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
 | June 2024 P1 Q6, climate change | 10/10, Level 5 | Printed p.18 (judgement; response pages not separately pinned) | Full-mark analytical response with embedded references. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
@@ -201,10 +215,14 @@ This table separates exact-script evidence from locator-only evidence. **[VERIFI
 
 ### Section B Q8: official score/AO locators (not transcripts)
 
-Exact QP prompts and bullet points are recorded with page references in `Source_Notes/Official_Pearson_Exemplar_Index.md`; candidate wording is not reproduced here.
+Exact QP prompts and bullet points are recorded with page references in `Source_Notes/Official_Pearson_Exemplar_Index.md`. For June 2022, the matching MS pages record non-exhaustive indicative points and accepted valid alternatives separately from candidate writing; candidate wording is not reproduced here.
 
 | Session and Q8 task | Published Pearson score and AO levels | Printed judgement page | Evidence label / transcript status |
 |---|---:|---|---|
+| June 2022 P1, website contribution about clear written communication | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.33 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
+| June 2022 P1, lower-scoring website contribution | AO1 5/10 L3 + AO4 5/12 L3 + AO5 5/8 L3 = 15/30 | p.35 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
+| June 2022 P1R, talk about treasure hunting | AO1 8/10 L4 + AO4 10/12 L4 + AO5 6/8 L3 = 24/30 | p.32 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower than full marks; not transcribed. |
+| June 2022 P1R, lower-scoring treasure-hunting talk | AO1 5/10 L3 + AO4 6/12 L3 + AO5 5/8 L3 = 16/30 | p.35 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
 | June 2024 P1, letter on protecting the planet and preventing climate change | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.38 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
 | June 2024 P1, lower-scoring climate letter | AO1 4/10 L2 + AO4 6/12 L3 + AO5 4/8 L2 = 14/30 | p.41 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
 | June 2024 P1R, talk about looking after orphaned young animals and birds | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.38 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
@@ -216,10 +234,12 @@ Exact QP prompts and bullet points are recorded with page references in `Source_
 
 ### Section C Q9: official score/AO locators (not transcripts)
 
-Exact Q9 prompts are recorded from each local QP (printed p. 21) in `Source_Notes/Official_Pearson_Exemplar_Index.md`. No 2024–2025 candidate wording is transcribed; OCR is locator evidence only.
+Exact Q9 prompts are recorded from each local QP (printed p. 21) in `Source_Notes/Official_Pearson_Exemplar_Index.md`. The June 2022 matching MS allows a range of positions/interpretations and assesses AO4/AO5; this guidance is separate from the scored-script locators. No 2022 or 2024–2025 candidate wording is transcribed; OCR is locator evidence only.
 
 | Session and Q9 task | Published Pearson score and AO levels | Printed judgement page | Evidence label / transcript status |
 |---|---|---|---|
+| June 2022 P1, internet/technology and English change | AO4 19/20 L5 + AO5 10/10 L5 = 29/30 | p.41 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; transcript not checked. |
+| June 2022 P1R, excitement and danger | AO4 18/20 L5 + AO5 10/10 L5 = 28/30 | p.42 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; transcript not checked. |
 | June 2024 P1, prefer working in a group rather than alone | AO4 16/20 L4 + AO5 8/10 L4 = 24/30 | p.49 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; transcript not checked. |
 | June 2024 P1R, time and money spent caring for animals | AO4 10/20 L3 + AO5 5/10 L3 = 15/30 | p.48 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; transcript not checked. |
 | June 2025 P1, new opportunities and new challenges | AO4 17/20 L5 + AO5 9/10 L5 = 26/30 | p.45 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; transcript not checked. |
@@ -229,10 +249,14 @@ The November 2024 P1 report contains Q9 commentary but no reproduced candidate s
 
 ### Section C Q10–Q11: official score/AO locators (not transcripts)
 
-Exact Q10/Q11 tasks were checked against the matching local QPs (printed p. 21); no recent candidate wording is transcribed.
+Exact Q10/Q11 tasks were checked against the matching local QPs (printed p. 21) and are reproduced in the source index. The June 2022 MSs specify the AO4/AO5 criteria and permit broad interpretations; Q10 has no fixed indicative content, while Q11’s accepted focus is described separately in the MS. No 2022 or 2024–2025 candidate wording is transcribed.
 
 | Session, question and task | Published Pearson score and AO levels | Printed judgement page | Evidence label / transcript status |
 |---|---|---:|---|
+| June 2022 P1 Q10, story entitled “The Message” | AO4 12/20 L3 + AO5 7/10 L4 = 19/30 | p.47 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — published score retained; not transcribed. |
+| June 2022 P1 Q11, describe the gift that has meant the most | AO4 10/20 L3 + AO5 6/10 L3 = 16/30 | p.51 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — published score retained; not transcribed. |
+| June 2022 P1R Q10, story entitled “The Discovery” | AO4 11/20 L3 + AO5 6/10 L3 = 17/30 | p.47 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — published score retained; not transcribed. |
+| June 2022 P1R Q11, unexpected experience | AO4 16/20 L4 + AO5 7/10 L4 = 23/30 | p.53 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — published score retained; not transcribed. |
 | June 2024 P1 Q10, story entitled “The Future” | AO4 18/20 L5 + AO5 9/10 L5 = 27/30 | p.56 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks. |
 | June 2024 P1 Q11, describe the untidiest place you know | AO4 12/20 L3 + AO5 5/10 L3 = 17/30 | p.62 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained. |
 | June 2024 P1R Q10, story entitled “Freedom” | AO4 18/20 L5 + AO5 9/10 L5 = 27/30 | p.53 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks. |
@@ -253,6 +277,6 @@ Official Pearson copies: [June 2023 P1 report](https://qualifications.pearson.co
 
 ## Source and storage policy
 
-The answer-bank folder stores the workbook, this guide and its DOCX copy, rebuild scripts, and a compact source index; it does **not** duplicate PDFs. The searchable text index and 48 individual 4EB1 PDFs (23 QPs, 23 MSs and two June 2023 ERs) are present in `Paperlords_Archive/`; the full-collection ZIP is not. The workbook retains archive-relative QP/MS paths. Use local QPs/MSs and the June 2023 ER scans for page-image verification; June 2024–2025 examiner reports are linked official Pearson sources, not local files.
+The answer-bank folder stores the workbook, this guide and its DOCX copy, rebuild scripts, and a compact source index; it does **not** duplicate PDFs. The searchable text index and 48 individual 4EB1 PDFs (23 QPs, 23 MSs and two June 2023 ERs) are present in `Paperlords_Archive/`; the full-collection ZIP is not. The workbook retains archive-relative QP/MS paths. Use local QPs/MSs and the June 2023 ER scans for page-image verification; June 2022 and June 2024–2025 examiner reports are linked official Pearson sources, not local files.
 
 The official candidate examples are valuable calibration, not a promise that the same wording is required. Mark schemes permit valid alternatives. The constructed models use the exact June 2023 past-paper tasks and real source-text references where relevant, but have not been independently marked and are not labelled “perfect”.
