@@ -8,7 +8,7 @@ Built 2026-10-12 from the Paperlords 4EB1 archive, the searchable text index, ma
 - `4EB1_Exemplar_and_Model_Answer_Guide.docx` — main reading/coaching guide with reusable methods and clearly labelled constructed models.
 - `4EB1_Exemplar_and_Model_Answer_Guide.md` — searchable source version.
 - `Source_Notes/Official_Pearson_Exemplar_Index.md` — exact report score/page references and source URLs.
-- `Verified_Candidate_Responses/June_2023_Section_A.md` — facsimile-checked transcriptions/excerpts of ten authentic June 2023 P1/P1R candidate responses, with Pearson’s exact scores/levels, report/script page locators, and uncertainty/incomplete-excerpt flags. This real-script coverage is separate from constructed answer-set coverage.
+- `Verified_Candidate_Responses/June_2023_Section_A.md` — facsimile-checked transcriptions/excerpts of fourteen authentic June 2023 P1/P1R candidate responses, with Pearson’s exact scores/levels, report/script page locators, and uncertainty/incomplete-excerpt flags. Both full-mark Q10 scripts and both lower-scoring Q11 scripts are transcribed; P1 Q11 scored 23/30 and P1R Q11 26/30. The P1R Q10 script begins on printed p. 47, not p. 46. This real-script coverage is separate from constructed answer-set coverage.
 - `Section_A_Examiner_Research_2024-2025.md` — first cross-session Pearson Section A synthesis, score locators, retrieval limits, and current Q8 text-type change.
 - `Project_Status.md` — learner baseline, current priorities, evidence contract, answer-set coverage and next work sequence.
 - `Answer_Sets/README.md` — completion standard, progress log and queue. Three complete batches cover June 2023 P1 and P1R plus November 2023 P1 Section A Q1–Q7 (21 of 253 indexed question-option entries).

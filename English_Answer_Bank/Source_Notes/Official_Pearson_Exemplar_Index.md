@@ -1,6 +1,6 @@
 # Official Pearson 4EB1 candidate-response and source index
 
-Compiled 2026-10-27. Candidate marks below are published by Pearson; they are not estimates. All report page numbers are the printed page numbers. The June 2023 P1 and P1R ER PDFs are present individually under the archive-relative paths below. The single full-collection ZIP is absent, but the source PDFs and searchable index are in the current checkout.
+Compiled 2026-10-28. Candidate marks below are published by Pearson; they are not estimates. All report page numbers are the printed page numbers. The June 2023 P1 and P1R ER PDFs are present individually under the archive-relative paths below. The single full-collection ZIP is absent, but the source PDFs and searchable index are in the current checkout.
 
 ## June 2023: verified candidate-response page locators and scores
 
@@ -33,7 +33,7 @@ Local archive path: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2
 | 7 | Compare both writers’ ideas/perspectives | 8/15, Level 3 for one reproduced response | 24 | 22–23 | References are relevant; a wider/deeper comparison was needed. |
 | 8 | Talk to peers about success/inspiration | AO1 9/10 + AO4 10/12 + AO5 7/8 = 26/30 | 34 | 30–33 | The reproduced response stops after “The” at the start of its final sentence; do not infer how the original answer ended. |
 | 9 | Discuss whether you need to earn a lot to be successful | AO4 11/20 + AO5 6/10 = 17/30 | 44 | 40–43 | More development and proofreading would help. |
-| 10 | Story entitled “The Day Everything Changed” | AO4 20/20 + AO5 10/10 = 30/30 | 50 | 46–49 | Full marks; controlled viewpoint/time shifts and a coherent ending. |
+| 10 | Story entitled “The Day Everything Changed” | AO4 20/20 + AO5 10/10 = 30/30 | 50 | 47–49 | Full marks; controlled viewpoint/time shifts and a coherent ending. Printed p. 46 is examiner commentary, not the script. |
 | 11 | Describe your role model | AO4 17/20 + AO5 9/10 = 26/30 | 56 | 53–55 | Strong, individual description; not full marks. |
 
 ## Facsimile-checked candidate excerpts (2026-10-27)
@@ -46,9 +46,9 @@ The following are brief excerpts, not full-script transcriptions. Each was rende
 
 These short quotations are anchors for locating the source, not substitute answers. Read the complete candidate response and Pearson’s commentary in the PDF before drawing wider conclusions.
 
-## Expanded facsimile-checked transcript batch (27 October 2026)
+## Expanded facsimile-checked transcript batch (28 October 2026)
 
-`../Verified_Candidate_Responses/June_2023_Section_A.md` records visually checked transcriptions/excerpts of ten authentic Pearson-reproduced June 2023 responses: P1 Q3 (9/10 L5), Q6 (10/10 L5), Q7 (15/15 L5), Q8 (30/30), Q9 (17/30; AO4/AO5 L3); and P1R Q3 (8/10 L4), Q6 (10/10 L5), Q7 (8/15 L3), Q8 (26/30), Q9 (17/30; AO4/AO5 L3). The wording is transcribed from the local report facsimiles, not from OCR. Uncertain/crossed-out text and three visibly incomplete report reproductions (P1R Q6, Q7 and Q8) are explicitly flagged. Four responses received full marks, one is near-full, and the lower-scoring scripts retain their published marks. Separate June 2023 Source Booklet PDFs are absent, but the source texts are appended to the local QPs (P1 PDF pp. 30–34; P1R PDF pp. 30–33). Candidate references are not presented as independently verified quotations unless a specific source-text cross-check is recorded. This transcript batch is separate from constructed answer-set coverage and does not increase the 21/253 complete-answer count.
+`../Verified_Candidate_Responses/June_2023_Section_A.md` records visually checked transcriptions/excerpts of fourteen authentic Pearson-reproduced June 2023 responses: P1 Q3 (9/10 L5), Q6 (10/10 L5), Q7 (15/15 L5), Q8 (30/30), Q9 (17/30; AO4/AO5 L3), Q10 (30/30), Q11 (23/30; AO4 16/20 L4, AO5 7/10 L4); and P1R Q3 (8/10 L4), Q6 (10/10 L5), Q7 (8/15 L3), Q8 (26/30), Q9 (17/30; AO4/AO5 L3), Q10 (30/30), Q11 (26/30; AO4 17/20 L5, AO5 9/10 L5). The wording is transcribed from the local report facsimiles, not from OCR. Uncertain/crossed-out text and three visibly incomplete report reproductions (P1R Q6, Q7 and Q8) are explicitly flagged. Six responses received full marks, one is near-full, and seven lower-scoring scripts retain their published marks. Both Q11 scripts are now transcribed; both Q10 transcripts have also been checked line by line against the facsimiles, with unresolved revisions marked. The P1R Q3 p. 8 and Q6 p. 18 crops have been visually checked. The P1R Q10 script starts on printed p. 47; p. 46 is examiner commentary. Separate June 2023 Source Booklet PDFs are absent, but the source texts are appended to the local QPs (P1 PDF pp. 30–34; P1R PDF pp. 30–33). Candidate references are not presented as independently verified quotations unless a specific source-text cross-check is recorded. This transcript batch is separate from constructed answer-set coverage and does not increase the 21/253 complete-answer count.
 
 ## Additional official report references consulted
 

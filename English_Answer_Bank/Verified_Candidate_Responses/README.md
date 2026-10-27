@@ -4,7 +4,7 @@ This directory stores only real candidate work reproduced in official Pearson ex
 
 ## Current coverage
 
-[`June_2023_Section_A.md`](June_2023_Section_A.md) contains visually checked transcriptions/excerpts of **ten** Pearson-reproduced June 2023 scripts:
+[`June_2023_Section_A.md`](June_2023_Section_A.md) contains visually checked transcriptions/excerpts of **fourteen** Pearson-reproduced June 2023 scripts:
 
 | Paper/question | Pearson mark | Status in report |
 |---|---:|---|
@@ -13,13 +13,17 @@ This directory stores only real candidate work reproduced in official Pearson ex
 | P1 Q7 | 15/15, Level 5 | Full marks; pp. 25–29, judgement p. 30 |
 | P1 Q8 | 30/30 | Full marks; pp. 36–39, judgement p. 40; reproduction appears complete |
 | P1 Q9 | 17/30 (AO4 Level 3; AO5 Level 3) | Lower-scoring; pp. 45–47, judgement p. 48; reproduction appears complete |
+| P1 Q10 | 30/30 (AO4 20/20 L5; AO5 10/10 L5) | Full marks; pp. 51–54, judgement p. 55; complete, cross-outs flagged |
+| P1 Q11 | 23/30 (AO4 16/20 L4; AO5 7/10 L4) | Lower-scoring; pp. 58–61, judgement p. 62; complete, uncertain/crossed-out wording flagged |
 | P1R Q3 | 8/10, Level 4 | Lower than full marks; pp. 7–9, judgement p. 10 |
 | P1R Q6 | 10/10, Level 5 | Full marks; pp. 17–18, judgement p. 19; reproduced wording cuts off at an incomplete phrase |
 | P1R Q7 | 8/15, Level 3 | Lower-scoring; pp. 22–23, judgement p. 24; reproduced wording ends mid-sentence |
 | P1R Q8 | 26/30 (AO1 9/10 L5; AO4 10/12 L4; AO5 7/8 L4) | Lower than full marks; pp. 30–33, judgement p. 34; reproduction ends mid-sentence at “The” |
 | P1R Q9 | 17/30 (AO4 11/20 L3; AO5 6/10 L3) | Lower-scoring; pp. 40–43, judgement p. 44; complete ending, with uncertain handwriting flagged |
+| P1R Q10 | 30/30 (AO4 20/20 L5; AO5 10/10 L5) | Full marks; pp. 47–49, judgement p. 50; complete reproduction with crossed-out/uncertain wording flagged; p. 46 is examiner commentary |
+| P1R Q11 | 26/30 (AO4 17/20 L5; AO5 9/10 L5) | Lower than full marks; pp. 53–55, judgement p. 56; complete, revisions/uncertainty flagged |
 
-Four responses received full marks, one is near-full, and five are lower-scoring. The P1R Q6, Q7 and Q8 reproductions are explicitly labelled as incomplete excerpts; no claim is made about where those candidates’ original exam answers ended. The P1R Q9 transcript flags uncertain readings rather than silently resolving them.
+Six responses received full marks, one is near-full, and seven are lower-scoring. The P1R Q6, Q7 and Q8 reproductions are explicitly labelled as incomplete excerpts; no claim is made about where those candidates’ original exam answers ended. Uncertain/crossed-out wording in P1R Q9, both Q10 transcripts and both Q11 transcripts is flagged rather than silently resolved. Both Q10 transcripts have also been audited line by line against their facsimiles; the P1 Q10 51–52 page break reads “in 10 years,” and unresolved revisions in the P1R Q10 opening/ending remain explicitly marked. The P1R Q10 script begins on printed p. 47, not p. 46.
 
 ## Evidence standard
 
@@ -29,4 +33,4 @@ These records do not increase constructed answer-set coverage (**21/253**). A ca
 
 ## Next work
 
-Continue the real-script-first phase: transcribe and verify the remaining June 2023 P1/P1R Q10 and Q11 responses in the local reports, then inspect facsimiles from the official 2024–2025 reports already indexed. Only after that authoritative search has been worked through should the bank resume filling remaining entries with original MS-based models. Two earlier visual checks also remain pending: the lower crop of P1R Q3 p. 8 and the P1R Q6 p. 18 crop. See [`../Project_Status.md`](../Project_Status.md) and [`../Source_Notes/Official_Pearson_Exemplar_Index.md`](../Source_Notes/Official_Pearson_Exemplar_Index.md) for the durable priority and source locators.
+Continue the real-script-first phase: both June 2023 Q11 responses are transcribed from the facsimiles, with crossed-out and uncertain readings marked. The two Q10 transcripts have now been audited line by line, and the pending P1R Q3 p. 8 and Q6 p. 18 visual checks are complete. Next inspect the indexed official 2024–2025 reports and transcribe every additional legible authentic script before constructing more answers. Only after the authoritative search has been worked through should the bank resume filling remaining entries with original MS-based models. See [`../Project_Status.md`](../Project_Status.md) and [`../Source_Notes/Official_Pearson_Exemplar_Index.md`](../Source_Notes/Official_Pearson_Exemplar_Index.md) for the durable priority and source locators.

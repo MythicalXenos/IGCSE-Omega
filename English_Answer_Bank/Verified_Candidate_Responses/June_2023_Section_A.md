@@ -1,6 +1,6 @@
 # Pearson-reproduced candidate responses — June 2023 Section A
 
-These are **authentic candidate scripts reproduced in Pearson’s official examiner reports**, not constructed models. **Evidence label for all ten entries: `[VERIFIED CANDIDATE EXEMPLAR]`.** The mark and level below are Pearson’s published judgements on the report page cited; they are not guesses based on the wording transcribed here.
+These are **authentic candidate scripts reproduced in Pearson’s official examiner reports**, not constructed models. **Evidence label for all fourteen entries: `[VERIFIED CANDIDATE EXEMPLAR]`.** The mark and level below are Pearson’s published judgements on the report page cited; they are not guesses based on the wording transcribed here.
 
 ## Provenance and transcription rules
 
@@ -109,7 +109,7 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 >
 > The writer also presents Ben Francis as a good individual. This is done with the use of dialogue: “Seeing the sacrifices my grandfather made … a young age”. This dialogue shows how from a young age Ben was a competent person and the dialogue “I didn’t want to be … the rest of my life” shows how Ben was a determined person. Dialogue is further used to portray Ben as a kind and self reflective person: “very average” — the tone description “very average” shows how despite being young and wealthy, he is still the same person and hasn’t gotten cocky or overbearing.
 >
-> The writer’s descriptions/imagery of the Gymshark are once again used to depict its success: “Office space for 400 staff” (the 400 staff is in contrast to how it used to be only Ben himself; this shows how much of a success Gymshark has been), “three buildings”, “vast gym” — these lines are once again in contrast to the past where they were previously based in “mum and dad’s living room”. The contrast once again shows how successful he is and the humble background he had, and once again shows Ben’s determination, humbleness.
+> The writer’s descriptions/imagery of the Gymshark once again used to depict its success: “Office space for 400 staff” (the 400 staff is in contrast to how it used to be only Ben himself; this shows how much of a success Gymshark has been), “three buildings”, “vast gym” — these lines are once again in contrast to the past where they were previously based in “mum and dad’s living room”. The contrast once again shows how successful he is and the humble background he had, and once again shows Ben’s determination, humbleness.
 >
 > The writer uses [crossed-out wording] lines like “Be a pioneer!” (exclamation mark emphasises the fact that Ben is a pioneer). The title of the article, “… Built a Sportswear Empire”, once again shows the great success of Ben Francis but may also perhaps mean that the industry is monopolised (“Empire”). Ben Francis competence is depicted by the descriptions: “aptitude for IT”, “made four apps”. In conclusion the writer presents Ben Francis as a model to show that through hard work and dedication success can be achieved; it also shows how [unclear/crossed-out wording] shows Ben’s humble nature. It is an informational text that can act as inspiration.
 
@@ -130,7 +130,7 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 >
 > The use of listing throughout the text demonstrates how many [crossed-out word] issues and advantages of working in IT. For example, Saner lists how the main reason why many females aren’t in the IT sector is because of “stereotypes, education, confidence and lack of role models”. This serves to show the large number of problems that have to be solved and taken into consideration by society in order to get women to find an interest or get employed in the IT industry.
 >
-> Saner’s [crossed-out wording] use of long sentences conveys how much she believes the issue is a problem. In her long sentences she [unclear] and semi-colons to give additional [the Pearson reproduction ends at this incomplete phrase].
+> Saner’s [crossed-out wording] use of long sentences conveys how much she believes the issue is a problem. In her long sentences, she uses dashes and semi-colons to give additional [the Pearson reproduction ends at this incomplete phrase].
 
 ---
 
@@ -253,6 +253,144 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 
 ---
 
+## June 2023 P1 Q10 — 30/30 (full marks)
+
+**Exact prompt (P1 QP, printed p. 21):** “Write a story (true or imaginary) entitled ‘A Difficult Decision’.”
+
+**Authentic response locator:** examiner-report printed pp. 51–54. **Published judgement:** p. 55.
+**Pearson’s calibration:** 30/30 — AO4 20/20, Level 5; AO5 10/10, Level 5. The examiner calls it engaging, perceptive and well-crafted, and highlights controlled structure and tone, the effective ending, precise vocabulary and varied sentence structures.
+
+### Candidate-script transcription
+
+> *A Difficult Decision*
+>
+> My stomach fluttered. My hands, slick with sweat, grasped at one another in my lap. Squeezed between my two older siblings in the backseat of our car. I leaned forward to see out of the side windows. I was trying to drink in every sight, commit every little detail to memory. After all, I thought, This might be the last time I see it in 10 years.
+>
+> We were on our way to Los Angeles International Airport, known only as LAX to locals. Our suitcases, chock-full with clothes and mementos, shifted in the boot as we merged onto the 405 Freeway. As we drove, a series of one last times cycled through my head. [Crossed-out draft wording omitted.] Going over the hills to LA proper one last time. Watching the trams wind their way up to the Getty Museum one last time. Driving on the right side of the road one last time. Seeing the palm trees sway with the breeze one last time.
+>
+> We remained silent as familiar sights flashed by. The inevitable crept closer and closer, and [overwritten/unclear subject] was overcome by a mix of dread and excitement. With every mile we got closer to LAX, the [crossed-out wording] whirlwind in my mind spun faster. All the while, my eyes [crossed-out wording] flicked from landmark to landmark, taking mental snapshots.
+>
+> We arrived at the airport. My entire body seemed to be buzzing, charged with anxiety. We unloaded our luggage from the [crossed-out word] boot. Each family member took a piece. On the other end of our journey, there would only be two of us to carry the luggage. A lump rose in my throat and [crossed-out start] I forced it down. I am not going to cry.
+>
+> We walked into the terminal and made our way to the Virgin Airlines stall to have our luggage weighed. I breathed a sigh of relief when I saw the length of the queue. Every moment, every last second, with my mom and siblings counted. [Crossed-out wording] The patrons around us grinned and chatted happily, soon to be on their way home after a Southern Californian holiday. Their accents stood out starkly, and it occurred to me that soon enough they would sound familiar to me.
+>
+> We grew closer and closer to the front of the queue. The family talked amongst ourselves just as we always had, ignoring the fact that these would be our last moments together. My sister complimented my hair, and I complimented her outfit. Behind every conversation was an underlying sadness, a sense of finality.
+>
+> At last we were at the front of the line.
+>
+> The employees weighed our suitcases. They were exactly fifty pounds each, the maximum weight limit. Of course, we didn’t have to remove [crossed-out wording] anything, and I winced at the loss of any extra time with the rest of my family.
+>
+> We left the area and found somewhere quiet to exchange our goodbyes. My heart raced, my throat constricted, and I wondered if we had made the right decision. We hugged and kissed, then did it again, and at last my dad and I turned and headed towards security and the transatlantic journey [crossed-out wording] beyond.
+>
+> And although we didn’t know it then, [crossed-out wording] our difficult decision would be worthwhile indeed.
+
+**Transcription note:** The full reproduced script was checked line by line against printed pp. 51–54 and reaches a complete conclusion on p. 54. The p. 51–52 page break completes “in 10 years.” Struck-through wording is not silently restored; the overwritten subject on p. 53 and crossed-out wording, including the p. 54 edit before “I forced it down,” are marked above.
+
+---
+
+## June 2023 P1R Q10 — 30/30 (full marks; edited script)
+
+**Exact prompt (P1R QP, printed p. 21):** “Write a story (true or imaginary) entitled ‘The Day Everything Changed’.”
+
+**Authentic response locator:** examiner-report printed pp. 47–49. **Published judgement:** p. 50. **Locator correction:** printed p. 46 is examiner commentary, not the candidate script; the script begins on p. 47.
+**Pearson’s calibration:** 30/30 — AO4 20/20, Level 5; AO5 10/10, Level 5. Pearson praises the controlled structure, credible young-child viewpoint, clear reference to the title and time frames, and varied sentences.
+
+### Candidate-script transcription (Pearson reproduction reaches a complete ending)
+
+> [The opening on p. 47 is heavily revised. Legible fragments include “30th December, 2007,” “someone won the lottery that day,” “some obscure town,” “someone got married,” and “But … for Kris, that was the day … world … shifted.” In the last fragment, “came crashing down” appears struck through and “shifted” appears as a replacement. The first-line wording and the final status of several words are uncertain, so no continuous opening sentence is reconstructed.]
+>
+> The afternoon had started off fairly normal. [Crossed-out wording] Barney was on TV, talking about news, as Kris laid on her Mum. Well, the weird bump on Mum’s midsection. She had [crossed-out/revised wording] suspected Mum had eaten all her chocolate eggs, but Dad told her that there was a human in Mum. Hence why all of Kris’s [age unclear; appears to include “2”] year-old classmates [the sentence continues across the page break] thought Mum would eat them, and had been running away screaming at pickup for 5 months, up till 2 months ago, when Mum started to barely leave the house.
+>
+> [“Thinking” is struck through before “thought”; the subject of “had been running away” is ambiguous in the handwriting, so no subject is supplied.]
+>
+> Kris’s curious toddler eyes were trained on the purple dinosaur on screen, a smaller plush version being strangled by [“Kris’s” appears revised to “her”] chubby hands. In the other hand, the subject of asphyxiation was green — Dad had bought Baby Bop for the human inside Mum to coax her out, he had said. Kris was too busy playing dress-up as toddlers do, to try and make sense of it.
+>
+> But suddenly, the peace (and Barney’s educational speech) was interrupted by Mum’s [unclear] shouts. Kris was swept up in a flurry of panic and running adults as she was ushered to the car. Hadn’t they already attended church this morning? Whatever, she would prepare for this adventure with a nap.
+>
+> She [“opened” is struck through] awoke to the sterile [“smell of” is struck through] white walls of the hospital. She recognised them from her visit to Dr. Jen, from when she dislocated her arm. There were so many scary noises and people bustling down the corridor. She looked down to see herself being held by Gran’s [unclear; appears to read “wrinkly”] soft arms. Gran was asleep. Kris decided she would follow. “It’s ok,” she whispered to the purple and green dinosaurs burrowing into Gran’s chest.
+>
+> The next time she woke it was with a cry. It was already nighttime, and though she couldn’t read the clock, her little body knew it. But when Gran said, “You wanna see the baby?” She leaped down, dinosaur toys in tow. She knew what a baby was! Auntie Pat had one, and he was really cute. Of course she wanted to see the baby!
+>
+> “Oh, Kris, Kris, you’re here!” Mum’s voice filled the room as Kris stepped in.
+>
+> “This is the baby, sweetheart.” [Crossed-out wording after “sweetheart” omitted.] Kris waddled forward, prodding at the weird bundle on Mum’s chest. “Mum, whose baby?” she whispered.
+>
+> “Mine, darling,” the woman answered. “This is your sister, Kate.”
+>
+> “Kris!” A shout pulled Kris out from her daze. “Come look at this dog video!” It was Kate shouting from their bedroom.
+>
+> Smiling, Kris laid down the photograph — Kate in her arms, supported by Dad, as Kris sat on the couch of that ward. At the bottom in faded marker: 30th December, 2007. [The closing line is heavily revised; legible final wording includes “The day” and “everything had changed”, with intervening wording uncertain/crossed out.]
+
+**Transcription note:** This is a complete Pearson reproduction, not an incomplete report excerpt. The transcription was checked line by line against printed pp. 47–49. Because p. 47 contains substantial revisions and the closing line on p. 49 is also heavily revised, legible fragments are preserved and unresolved wording is flagged rather than silently turned into polished prose.
+
+---
+
+## June 2023 P1 Q11 — 23/30 (AO4 Level 4; AO5 Level 4)
+
+**Exact prompt (P1 QP, printed p. 21):** “Describe your favourite walk.”
+
+**Authentic response locator:** examiner-report printed pp. 58–61. **Published judgement:** p. 62.
+**Pearson’s calibration:** 23/30 — AO4 16/20, Level 4; AO5 7/10, Level 4. Pearson says the response communicates successfully, stays focused on describing a walk through experience, sights and sounds, and uses some ambitious vocabulary; spelling errors limit AO5.
+
+### Candidate-script transcription
+
+> Ravens caw in the pine wood ahead. The bitter wind bites my face. The patchwork country spreads out before me. [“This” is struck through.] Like a perfect painting in an art gallery.
+>
+> I walk, my clothes billowing around me in the “seemingly furious wind”, my hands numb but still clutching my binoculars as I closely observe a [first “beautiful” struck through] beautiful Pied Flycatcher.
+>
+> I jog down a steep slope to the sound of a gurgling, [crossed-out/unclear wording] clear stream, I cross through the clear water, careful of the rocky bottom, [crossed-out wording] my trusty walking boots don’t let in a drop of water.
+>
+> I hike up yet another gravel path to see a regal, dapple grey stallion grazing peacefully on a patch of rich green grass next to his wooden stable.
+>
+> A busy farmer herds sheep in his sky blue tractor as the sheep run from the growling vehicle.
+>
+> I [crossed-out start] scarcely believe I have seen so many sheep in one place. Their content grazing was to be seen in almost every field — I smile as I watch the excited lambs bounce and play by the gaze of their protective mothers.
+>
+> The only noise to be heard was the whistling wind, the caw of ravens and the [crossed-out wording] busy grazing sheep; this was true peace and [crossed-out wording] quiet — although not entirely peaceful — I sigh at the beauty of the moors and countryside and continue to walk.
+>
+> I come to a formidable (although small in size) forest, [overwritten wording; the reading around “it’s was like” is uncertain] like walking from day into night. The [“conopy” corrected to “canopy”] canopy was so thick. My footsteps are almost silent as I walk along a pine needle blanket that was the path. I gasp in shock as I see nestled around [article unclear] great [“pine” struck through] fir-tree trunk, a dusty white-grey sheep skull staring at me with unseeing eye sockets. Later seeing a second sheep skull [crossed-out wording] felt a little like a bad omen, by this was nature after all.
+>
+> I make a slightly hasty exit out of the forest and head up a rocky hill — up and up I hike. Past more fields. Past [unclear; appears to read “yet”] more sheep. What I saw then nearly surprised out of me [page break] my last remaining breath.
+>
+> A [“few” is struck through] view so breath-takingly beautiful stood before me. I stood on the edge of a cliff-like hill looking out over a seemingly endless view of the patchwork countryside. Little white dots [“spots” and “that” appear; a following word, possibly “field”, is struck through] were sheep spotted the scene, “Bigger” black dots that were cows dotted fewer fields. [Crossed-out wording] mighty buzzards and Red kites soared about, on the hunt for mice and voles below, the now blue sky watched over it all which was also patchy with crisp white clouds. [“Tiny” appears struck through] Windy country roads snaked around the scene; on them were [the word appears to read “tracture”] and only a few cars.
+>
+> I stand there in true [crossed-out wording] amazement. It seems like the whole world is spread before me and I’m stood above it.
+>
+> I take many pictures but none will show — maybe some — but never all the true beauty of the view. Only in the now can I experience the sense of calmness and peace it gives me.
+
+**Transcription note:** The response reaches a complete ending on p. 61. Unclear corrections and crossed-out wording are marked; candidate errors such as “by this was nature after all” and “by the gaze of their protective mothers” are retained rather than silently repaired.
+
+---
+
+## June 2023 P1R Q11 — 26/30 (AO4 Level 5; AO5 Level 5)
+
+**Exact prompt (P1R QP, printed p. 21):** “Describe your role model.”
+
+**Authentic response locator:** examiner-report printed pp. 53–55. **Published judgement:** p. 56.
+**Pearson’s calibration:** 26/30 — AO4 17/20, Level 5; AO5 9/10, Level 5. Pearson describes an individual, successful response about Walt Disney, with a secure purpose, sometimes perceptive/subtle effects, effective form/tone/register and extensive accurate vocabulary. It is not a full-mark answer.
+
+### Candidate-script transcription
+
+> Blazing, confident and inspired, a lone artist crafted his masterpiece in the confines of his studio. His animation was to be shown on screens, everywhere in [crossed-out wording] the USA, giving [crossed-out wording] solace to the people in the middle of the second world war.
+>
+> Walt Disney was charismatic and comedic; his cartoons had a unique flavour of “slap-stick” and charming that appealed to both children and adults.
+>
+> Physically, he wasn’t a very notable man. [Heavily crossed-out/overwritten passage; legible fragments include “described” and “unlike his iconic characters, such as”] “Mickey Mouse” [overwritten wording] and he had black hair, and he was neither too skinny nor fat. He had a funny moustache, and I remember laughing when I saw a photo of him because of it.
+>
+> Rather, Walt Disney was known of his life’s work; creating iconic cartoons that modern day animators still look back to and admire. Although in black and white, Walt took advantage of the medium and designed characters and settings of varying shades, allowing them to be easily readable and distinct from each other. For his time, his [crossed-out wording] animations were incredibly fluid and bursting with vitality. “It was as if they were alive,” [crossed-out/revised wording] my mother said, as we used to watch [crossed-out wording] them in the precious days of my childhood, where nothing else mattered except demanding the next episode, [crossed-out wording] giggling with mischief, and falling asleep when I simply lost all my energy.
+>
+> I have Walt to thank for these wonderful memories, and other fans of him [crossed-out wording] seems to share the same feelings for him.
+>
+> A far-cry from [crossed-out wording] the cuteness of “Mickey”, Walt Disney had a dark sense of humour. Early on, his cartoons were filled with references to substances and other topics of taboo, although they eventually were phased out as children started to show interest in his stories. [Crossed-out wording] In the reality of his studio, however, he was terribly genius in [crossed-out/unclear wording] terrible humour. “It was like the king was also the court’s jester,” one of his former colleagues said, as they recount the time he [crossed-out wording] performed a series of crude jokes, causing them to roll their eyes.
+>
+> Despite this, Walt Disney was still a man of virtue. He was kind and caring, and he stood up for [crossed-out wording] complete strangers, and he made sure to give his audience the best possible experience rather than prioritising profits.
+>
+> I respect Walt Disney for his unparalleled creativity and willingness to take risk. Animation before his intervention was an incredibly niche medium for story-telling. Now it is one of the most [crossed-out wording] beloved forms of media. Certain jokes and [crossed-out wording] conflicts created by him are still widely referenced and [crossed-out wording] reimagined till this day, inspiring junior writers in ways that cannot be expressed in a reasonable amount of words, without [crossed-out wording] creating [crossed-out wording] something that will rival the Bible in terms of content, at least.
+
+**Candidate-claim note:** This records the candidate’s biographical claims and attributed quotations about Disney; it does not independently verify them. Cross-outs and uncertain wording are editorially marked.
+
+---
+
 ## Coverage boundary
 
-This batch now records **ten authentic Pearson-reproduced responses**: four full-mark scripts (P1 Q6, P1 Q7, P1R Q6, and P1 Q8); one near-full script (P1 Q3, 9/10); and five lower-scoring scripts (P1R Q3, 8/10; P1R Q7, 8/15; P1R Q8, 26/30; P1 Q9, 17/30; P1R Q9, 17/30). The P1R Q6 reproduction stops at an incomplete phrase, P1R Q7 ends mid-sentence, and P1R Q8 ends mid-sentence at “The”; all three are labelled as excerpts rather than complete scripts. P1 Q8, P1 Q9 and P1R Q9 appear complete in the official reproductions. Handwriting uncertainty in P1R Q9 is marked. This transcription batch does not imply that every 4EB1 question has an official reproduced script, and none of these authentic answers is a constructed model.
+This batch now records **fourteen authentic Pearson-reproduced responses**: six full-mark scripts (P1 Q6, Q7, Q8 and Q10; P1R Q6 and Q10); one near-full script (P1 Q3, 9/10); and seven lower-scoring scripts (P1 Q9, 17/30; P1 Q11, 23/30; P1R Q3, 8/10; Q7, 8/15; Q8, 26/30; Q9, 17/30; Q11, 26/30). The P1R Q6 reproduction stops at an incomplete phrase, P1R Q7 ends mid-sentence, and P1R Q8 ends mid-sentence at “The”; all three are labelled as excerpts rather than complete scripts. P1 Q8/Q9/Q10/Q11 and P1R Q9/Q10/Q11 appear complete in the official reproductions. The P1R Q10 script starts on printed p. 47; p. 46 contains examiner commentary. Handwriting uncertainty in P1R Q9/Q10 and both Q11 scripts is marked. This transcription batch does not imply that every 4EB1 question has an official reproduced script, and none of these authentic answers is a constructed model.
