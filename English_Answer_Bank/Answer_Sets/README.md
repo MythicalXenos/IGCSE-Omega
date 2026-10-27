@@ -26,7 +26,11 @@ All three batches were checked against the local QP/Source Booklet and matching 
 
 `../4EB1_Exemplar_and_Model_Answer_Guide.md` contains selected constructed models, including June 2023 P1 Q3/Q6/Q7/Q8 and Section C Q9/Q10/Q11. Those examples remain useful but do not substitute for a checked answer set for every question variation. In particular, the Section C “mini-models” and official script score/page locators are not automatically complete responses to every archived prompt.
 
-## Remaining queue
+## Authentic-response phase — active priority
+
+`../Verified_Candidate_Responses/June_2023_Section_A.md` now contains facsimile-checked transcriptions/excerpts of six genuine Pearson-reproduced responses: June 2023 P1 Q3 (9/10 L5), Q6 (10/10 L5), Q7 (15/15 L5), and P1R Q3 (8/10 L4), Q6 (10/10 L5), Q7 (8/15 L3). It flags crossed-out/uncertain wording and the two Pearson reproductions that visibly end incomplete. These authentic responses are **not** constructed models and are tracked separately from the 21/253 answer-set coverage. Continue searching and verifying official candidate scripts before creating further constructed answer sets; retain lower-scoring real scripts with their true marks.
+
+## Constructed answer-set queue — resume after the real-script-first phase
 
 1. May/June 2024 P1 Section A Q1–Q7.
 2. Section A Q1–Q7 for each remaining QP/MS pair, one paper at a time, prioritizing analysis/comparison while including the retrieval keys.

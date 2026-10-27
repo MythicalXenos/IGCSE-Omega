@@ -28,6 +28,7 @@ Local archive path: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2
 
 | Q | Exact task (short description) | Published score | Printed report page | Candidate response pages | Calibration point |
 |---|---|---:|---:|---:|---|
+| 3 | Analyse ideas about Ben Francis and Gymshark | 8/10, Level 4 | 10 | 7–9 | Thorough, detailed exploration; not full marks. |
 | 6 | Analyse ideas about job/women in technology | 10/10, Level 5 | 19 | 17–18 | The report explicitly calls this a full-mark response. |
 | 7 | Compare both writers’ ideas/perspectives | 8/15, Level 3 for one reproduced response | 24 | 22–23 | References are relevant; a wider/deeper comparison was needed. |
 | 8 | Talk to peers about success/inspiration | AO1 9/10 + AO4 10/12 + AO5 7/8 = 26/30 | 34 | 30–33 | Strong, but third bullet point is thin. |
@@ -44,6 +45,10 @@ The following are brief excerpts, not full-script transcriptions. Each was rende
 - **[VERIFIED CANDIDATE EXEMPLAR] June 2023 P1R Q6 — 10/10, Level 5.** Candidate response pp. 17–18; examiner judgement p. 19. Exact excerpt from p. 17: “Nicky Saner has used simple language and vocabulary throughout the text which allows readers to understand her views …” The ellipsis indicates omitted script wording. Local source: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1R_ER.pdf`.
 
 These short quotations are anchors for locating the source, not substitute answers. Read the complete candidate response and Pearson’s commentary in the PDF before drawing wider conclusions.
+
+## Expanded facsimile-checked transcript batch (27 October 2026)
+
+`../Verified_Candidate_Responses/June_2023_Section_A.md` records visually checked transcriptions of six authentic Pearson-reproduced June 2023 responses: P1 Q3 (9/10 L5), Q6 (10/10 L5), Q7 (15/15 L5), and P1R Q3 (8/10 L4), Q6 (10/10 L5), Q7 (8/15 L3). The response wording is transcribed from the local report facsimiles, not from OCR. Uncertain/crossed-out text and two visibly incomplete report reproductions are explicitly flagged. Three responses received full marks; the lower-scoring scripts remain labelled with their published scores. This transcript batch is separate from constructed answer-set coverage and does not increase the 21/253 complete-answer count.
 
 ## Additional official report references consulted
 

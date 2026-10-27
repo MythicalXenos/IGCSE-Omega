@@ -8,6 +8,7 @@ Built 2026-10-12 from the Paperlords 4EB1 archive, the searchable text index, ma
 - `4EB1_Exemplar_and_Model_Answer_Guide.docx` — main reading/coaching guide with reusable methods and clearly labelled constructed models.
 - `4EB1_Exemplar_and_Model_Answer_Guide.md` — searchable source version.
 - `Source_Notes/Official_Pearson_Exemplar_Index.md` — exact report score/page references and source URLs.
+- `Verified_Candidate_Responses/June_2023_Section_A.md` — facsimile-checked transcriptions/excerpts of six authentic June 2023 P1/P1R candidate responses, with Pearson’s exact scores/levels, report/script page locators, and uncertainty/incomplete-excerpt flags. This real-script coverage is separate from constructed answer-set coverage.
 - `Section_A_Examiner_Research_2024-2025.md` — first cross-session Pearson Section A synthesis, score locators, retrieval limits, and current Q8 text-type change.
 - `Project_Status.md` — learner baseline, current priorities, evidence contract, answer-set coverage and next work sequence.
 - `Answer_Sets/README.md` — completion standard, progress log and queue. Three complete batches cover June 2023 P1 and P1R plus November 2023 P1 Section A Q1–Q7 (21 of 253 indexed question-option entries).
@@ -23,6 +24,6 @@ No QP, Source Booklet, mark-scheme or examiner-report PDFs are duplicated inside
 - `[VERIFIED CANDIDATE EXEMPLAR]` is used only when Pearson confirms the exact response, score, session, paper, question and printed report page. The published score is stated; “full marks” is reserved for a response awarded every mark available. A score locator without an exact transcript is labelled as a locator, not presented as transcribed wording.
 - `[OFFICIAL MARK-SCHEME WORKED ANSWER]` means an answer developed from Pearson’s indicative content/mark scheme; it is not a scored candidate script.
 - `[CONSTRUCTED GRADE 9 TARGET]` means an original answer to an exact past-paper task. It is not official, authentic or examiner-marked and carries no claimed score; “target” is aspirational, not a guaranteed grade.
-- Reports may contain scanned candidate scripts that web text extraction corrupts. Scores and examiner comments can be logged when verified, but exact candidate wording is not reconstructed from bad OCR; the source PDF/page locator is retained until the facsimile is checked.
+- Reports may contain scanned candidate scripts that web text extraction corrupts. Scores and examiner comments can be logged when verified, but exact candidate wording is not reconstructed from bad OCR. A transcript is added only after visual checking against the facsimile; uncertain, crossed-out or excerpted wording is flagged, and the source PDF/page locator is retained.
 - The archive has two 4EB1 examiner reports (June 2023 P1 and P1R). Additional report links are official Pearson online sources and are not duplicated locally.
 - Pearson’s 4 August 2025 update limits Section B Q8 text types from November 2025 onward to article for a school/college magazine or website, speech/talk to peers, contribution to a website, and letter. Older papers remain useful for reading practice, but their Q8 forms are not automatically current.
