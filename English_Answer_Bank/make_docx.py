@@ -8,7 +8,7 @@ from docx.enum.table import WD_TABLE_ALIGNMENT, WD_CELL_VERTICAL_ALIGNMENT
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 
-BASE=Path('/home/user/English_Answer_Bank')
+BASE=Path(__file__).resolve().parent
 MD=BASE/'4EB1_Exemplar_and_Model_Answer_Guide.md'
 OUT=BASE/'4EB1_Exemplar_and_Model_Answer_Guide.docx'
 
@@ -118,7 +118,7 @@ def main():
         p=doc.add_paragraph()
         p.add_run(txt)
         # Make source labels easy to spot.
-        if txt.startswith('OFFICIAL') or txt.startswith('CONSTRUCTED') or txt.startswith('Question type:'):
+        if txt.startswith('[VERIFIED CANDIDATE EXEMPLAR]') or txt.startswith('[OFFICIAL MARK-SCHEME WORKED ANSWER]') or txt.startswith('[CONSTRUCTED GRADE 9 TARGET]') or txt.startswith('OFFICIAL') or txt.startswith('CONSTRUCTED') or txt.startswith('Question type:'):
             p.paragraph_format.keep_with_next=True
     doc.core_properties.title='4EB1 Official Exemplar and Model Answer Guide'
     doc.core_properties.subject='Pearson Edexcel International GCSE English Language B question types and answer exemplars'

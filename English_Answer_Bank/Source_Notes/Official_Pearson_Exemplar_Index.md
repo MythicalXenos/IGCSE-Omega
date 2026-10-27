@@ -1,14 +1,14 @@
 # Official Pearson 4EB1 candidate-response and source index
 
-Compiled 2026-10-12. Candidate marks below are published by Pearson; they are not estimates. All report page numbers are the printed page numbers. The June 2023 examiner reports are also present in the local Paperlords archive.
+Compiled 2026-10-27. Candidate marks below are published by Pearson; they are not estimates. All report page numbers are the printed page numbers. The June 2023 P1 and P1R ER PDFs are present individually under the archive-relative paths below. The single full-collection ZIP is absent, but the source PDFs and searchable index are in the current checkout.
 
-## June 2023: exact past-paper scripts and scores
+## June 2023: verified candidate-response page locators and scores
 
 ### Regular paper, 4EB1/01
 
 Official examiner report: [June 2023 P1 ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20230824.pdf)
 
-Local archive path: `IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1_ER.pdf`
+Local archive path: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1_ER.pdf`
 
 | Q | Exact task (short description) | Published score | Printed report page | Candidate response pages | Calibration point |
 |---|---|---:|---:|---:|---|
@@ -24,7 +24,7 @@ Local archive path: `IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_La
 
 Official examiner report: [June 2023 P1R ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20230824.pdf)
 
-Local archive path: `IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1R_ER.pdf`
+Local archive path: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1R_ER.pdf`
 
 | Q | Exact task (short description) | Published score | Printed report page | Candidate response pages | Calibration point |
 |---|---|---:|---:|---:|---|
@@ -41,7 +41,22 @@ Local archive path: `IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_La
 - [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — recent examiner advice and candidate responses; repeatedly warns against feature spotting, retelling, and leaving Q7 blank.
 - [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — recent report for the R variant.
 - [Official 4EB1 sample assessment materials](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Specification%20and%20sample%20assessments/00125_International_GCSE_English_Language_%20B_2016-Sep_issue_2.pdf) — specimen QP/MS, not a live-past-paper candidate script.
+- [November 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) — Section A report feedback consulted; detail and source notes in `../Section_A_Examiner_Research_2024-2025.md`.
+- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — official feedback; Section A report extraction cross-checked via the full-report text route.
+- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — official report reproduces verified Q3 and Q6 full-mark scripts and a Q7 near-full script; exact response text is not transcribed here because the web PDF text extraction corrupts the scanned handwriting. See score locators below.
+- [Pearson specification update (4 August 2025)](https://qualifications.pearson.com/en/news-policy/qualifications/international-gcses/english/specification-update-international-gcse-english-language-b-4eb1-for-first-teaching-september-2025.html) and [official writing-form guidance](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Teaching%20and%20learning%20materials/pearson-int-gcse-english-writing-guidance4eb1pf2.pdf) — Q8 text types are narrowed to four from November 2025 onward.
+
+### June 2025 P1R: verified Section A score locators (not transcriptions)
+
+| Q | Published score | Printed examiner-feedback page | Status |
+|---|---:|---:|---|
+| 3 | 10/10, Level 5 | 9 | [VERIFIED CANDIDATE EXEMPLAR] Pearson reproduces the response and confirms the score; script wording not transcribed in this index. |
+| 6 | 10/10, Level 5 | 19 | [VERIFIED CANDIDATE EXEMPLAR] Pearson reproduces the response and confirms the score; script wording not transcribed in this index. |
+| 7 | 14/15, Level 5 | 30 | [VERIFIED CANDIDATE EXEMPLAR] Near-full, **not** full marks; Pearson reproduces the response and confirms the score. |
+| 7 | 5/15, Level 2 | 34 | Official low-score calibration only; Pearson notes absent/very limited textual references and undeveloped comparisons. |
+
+**Transcript integrity note:** the score and level are verifiable from Pearson’s report, but the sample responses are scanned pages. OCR output from the available text route is materially corrupt. Do not “correct” that OCR by guessing, and do not quote it as exact candidate wording. The official PDF and printed page pins are the preserved source until the facsimile can be visually transcribed.
 
 ## Full-mark and construction boundaries
 
-The official reports include verified full-mark examples for Q6, Q7, Q8 and Q10. The scores for Q3, Q9 and Q11 above are **not** full marks. Every answer written for this bank is labelled either as an official scored script reference or a constructed response. Constructed models use real 4EB1 questions and, for Q3/Q6/Q7/Q8, references from the exact June 2023 QP/source text and mark scheme; they have not been independently marked.
+The June 2023 reports include verified full-mark examples for Q6, Q7, Q8 and Q10. The scores for Q3, Q9 and Q11 in the June 2023 tables are **not** full marks. The June 2025 P1R report additionally reproduces verified 10/10 responses for Q3 and Q6, plus a 14/15 Q7 response (near-full, not full); see the locator table above. Those scanned scripts are not transcribed here because the available OCR is materially corrupt. Every model answer written for this bank is labelled either as an official scored script reference or a constructed response. Constructed models use exact 4EB1 questions and source text with the matching mark scheme and available examiner guidance; they have not been independently marked and no score is claimed.
