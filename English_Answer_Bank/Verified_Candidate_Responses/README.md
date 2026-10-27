@@ -29,7 +29,7 @@ Six responses received full marks, one is near-full, and seven are lower-scoring
 
 A response enters this folder only after the handwriting has been visually checked against the official report facsimile. Each record separates the exact QP prompt from the answer text and includes the session/component/question, published score and level, printed report page(s), candidate-script page(s), and official source. Cross-outs and uncertain wording are flagged rather than silently repaired. OCR is not used as the source of exact transcription.
 
-These records do not increase constructed answer-set coverage (**35/253**). A candidate score belongs only to the real script Pearson reproduced; no score is claimed for any constructed model. Separate June 2023 Source Booklet PDFs are absent, but the source texts are appended to the QP PDFs (P1 PDF pp. 30–34; P1R PDF pp. 30–33). The Q8 prompts are verified against the QPs; candidate references to source material are not represented as independently checked quotations unless a specific cross-check is documented.
+These records do not increase constructed answer-set coverage (**42/253**). A candidate score belongs only to the real script Pearson reproduced; no score is claimed for any constructed model. Separate June 2023 Source Booklet PDFs are absent, but the source texts are appended to the QP PDFs (P1 PDF pp. 30–34; P1R PDF pp. 30–33). The Q8 prompts are verified against the QPs; candidate references to source material are not represented as independently checked quotations unless a specific cross-check is documented.
 
 ## Next work
 
