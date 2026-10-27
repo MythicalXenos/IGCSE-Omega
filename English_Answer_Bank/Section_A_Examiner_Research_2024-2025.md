@@ -63,7 +63,7 @@ Pearson repeatedly warns candidates to use the question’s stated line referenc
 
 Notable score anchors include four full-mark locator-only examples: June 2024 P1 Q6 (10/10, Level 5); June 2024 P1R Q3 (10/10, Level 5); June 2025 P1R Q3 and Q6 (each 10/10, Level 5). Near-full scores remain explicitly non-full: June 2024 P1 Q7 (13/15), June 2024 P1R Q6 (9/10), June 2025 P1 Q3/Q6 (each 9/10), June 2025 P1 Q7 (13/15), and June 2025 P1R Q7 (14/15). Lower-scoring scripts are retained with their exact published marks and levels. The November 2024 P1 report contains Section A examiner commentary but no reproduced Q3/Q6/Q7 candidate script was located.
 
-These locator records are separate from the fourteen June 2023 responses/excerpts that were visually transcribed against Pearson facsimiles. The workbook therefore indexes 38 official candidate-response records (14 transcribed/excerpted + 24 locator-only); none of these counts changes the constructed answer-set coverage of **21/253**. Do not treat any locator as a transcript or infer candidate wording from OCR.
+The Section A research pass contributes **24 locator-only records** (Q3/Q6/Q7, two examples per question in each of June 2024 P1/P1R and June 2025 P1/P1R). Separate Section B Q8 locators (eight score/AO records) are now in `Source_Notes/Official_Pearson_Exemplar_Index.md`; these are outside this file’s Section A focus. Across all sections currently indexed, the workbook has **46 official candidate-response records**: 14 facsimile-checked June 2023 transcriptions/excerpts + 32 locator-only records. This does not change the constructed answer-set coverage of **21/253**. Do not treat any locator as a transcript or infer candidate wording from OCR.
 
 ## Working rule for the learner
 
@@ -81,9 +81,9 @@ Pearson’s [Summer 2026 release notice](https://qualifications.pearson.com/en/n
 
 ## Open work in the next batch
 
-1. Visually verify the 2024–2025 scan pages before transcribing any exact candidate wording. The current tools exposed report text/page markers, not facsimiles; keep all 24 recent records locator-only.
-2. The Section A locator pass is now complete for June 2024 P1/P1R, November 2024 P1 and June 2025 P1/P1R. Do not replace these real-response gaps with constructed models until the official script pages have been exhausted and, where possible, visually checked.
-3. Continue full-report Sections B/C research if those answer-bank areas are next in scope. June 2025 P1 chunks 3–7 and P1R chunks 3–6 remain unread in the text route; this is outside the completed Section A pass.
+1. Visually verify the 2024–2025 scan pages before transcribing any exact candidate wording. The current tools exposed report text/page markers, not facsimiles; keep all 32 recent score/AO records locator-only.
+2. The Section A locator pass is complete for June 2024 P1/P1R, November 2024 P1 and June 2025 P1/P1R (24 records). The separate Q8 pass has added eight Section B locators from the four June 2024/2025 papers; the November 2024 report’s Q8 commentary yielded no reproduced candidate script. See `Source_Notes/Official_Pearson_Exemplar_Index.md`.
+3. Continue the all-section real-script sweep with Q9–Q11 across these reports, then check earlier indexed official reports where available. June 2025 P1 text-route chunks 5–7 and P1R chunks 5–6 remain unread; June 2024 P1/P1R later chunks also need review for Section C examples. Do not replace these real-response gaps with constructed models until the relevant official scripts have been exhausted.
 4. If an official June 2026 report can be obtained through the user’s school/centre, inspect it directly; otherwise preserve the access barrier and continue with verified public series.
-5. Cross-index each candidate example used for analysis or quotation to its exact QP prompt, source text, matching mark scheme and examiner-feedback page; do not infer the question wording from a report summary.
+5. Cross-index each candidate example used for analysis or quotation to its exact QP prompt, source text, matching mark scheme and examiner-feedback page; do not infer question wording from a report summary.
 6. Build constructed targets only after authentic script access has been exhausted for the relevant gaps, and keep them clearly separate from locator records and official mark-scheme worked answers.

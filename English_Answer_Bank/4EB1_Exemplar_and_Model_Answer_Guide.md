@@ -199,6 +199,20 @@ This table separates exact-script evidence from locator-only evidence. **[VERIFI
 | June 2025 P1R Q7, friendship comparison | 14/15, Level 5 | Printed p.30 (judgement; response pages not separately pinned) | Near-full, **not** full marks; balanced references and comparisons throughout. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
 | June 2025 P1R Q7, lower-scoring comparison | 5/15, Level 2 | Printed p.34 (judgement; response pages not separately pinned) | Lower-score calibration; Pearson notes very limited references and undeveloped comparisons. | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — script reproduced by Pearson; exact wording not transcribed. |
 
+### Section B Q8: official score/AO locators (not transcripts)
+
+Exact QP prompts and bullet points are recorded with page references in `Source_Notes/Official_Pearson_Exemplar_Index.md`; candidate wording is not reproduced here.
+
+| Session and Q8 task | Published Pearson score and AO levels | Printed judgement page | Evidence label / transcript status |
+|---|---:|---|---|
+| June 2024 P1, letter on protecting the planet and preventing climate change | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.38 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
+| June 2024 P1, lower-scoring climate letter | AO1 4/10 L2 + AO4 6/12 L3 + AO5 4/8 L2 = 14/30 | p.41 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
+| June 2024 P1R, talk about looking after orphaned young animals and birds | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.38 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
+| June 2024 P1R, lower-scoring animal-care talk | AO1 3/10 L2 + AO4 3/12 L2 + AO5 3/8 L2 = 9/30 | p.41 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
+| June 2025 P1, talk encouraging peers to visit new places | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.35 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
+| June 2025 P1, lower-scoring visit-new-places talk | AO1 6/10 L3 + AO4 6/12 L3 + AO5 4/8 L2 = 16/30 | p.39 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
+| June 2025 P1R, talk about the different friendships people have | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.42 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
+| June 2025 P1R, lower-scoring friendships talk | AO1 6/10 L3 + AO4 6/12 L3 + AO5 4/8 L2 = 16/30 | p.45 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
 
 The 2023 reports are in the archive at:
 
