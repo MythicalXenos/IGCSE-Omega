@@ -35,6 +35,16 @@ Local archive path: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2
 | 10 | Story entitled “The Day Everything Changed” | AO4 20/20 + AO5 10/10 = 30/30 | 50 | 46–49 | Full marks; controlled viewpoint/time shifts and a coherent ending. |
 | 11 | Describe your role model | AO4 17/20 + AO5 9/10 = 26/30 | 56 | 53–55 | Strong, individual description; not full marks. |
 
+## Facsimile-checked candidate excerpts (2026-10-27)
+
+The following are brief excerpts, not full-script transcriptions. Each was rendered from the local Pearson PDF and checked against the handwritten facsimile. Scores and levels are Pearson’s published judgements on the cited report page; the excerpt alone is not presented as the reason for the score.
+
+- **[VERIFIED CANDIDATE EXEMPLAR] June 2023 P1 Q6 — 10/10, Level 5.** Candidate response pp. 17–19; examiner judgement p. 20. Exact short excerpt from p. 17: “The writer presents his experience as overwhelming.” Local source: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1_ER.pdf`.
+- **[VERIFIED CANDIDATE EXEMPLAR] June 2023 P1 Q7 — 15/15, Level 5.** Candidate response pp. 25–29; examiner judgement p. 30. Exact excerpt from p. 25 (candidate capitalization preserved): “While text 1 constantly uses positive language to illustrate the benefits of being outdoors”. Local source: same P1 ER PDF above.
+- **[VERIFIED CANDIDATE EXEMPLAR] June 2023 P1R Q6 — 10/10, Level 5.** Candidate response pp. 17–18; examiner judgement p. 19. Exact excerpt from p. 17: “Nicky Saner has used simple language and vocabulary throughout the text which allows readers to understand her views …” The ellipsis indicates omitted script wording. Local source: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1R_ER.pdf`.
+
+These short quotations are anchors for locating the source, not substitute answers. Read the complete candidate response and Pearson’s commentary in the PDF before drawing wider conclusions.
+
 ## Additional official report references consulted
 
 - [June 2022 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf) — includes full-mark candidate analysis examples, including a 10/10 Q6 response.

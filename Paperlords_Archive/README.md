@@ -2,6 +2,10 @@
 
 Downloaded and indexed on 2026-10-04.
 
+## Current checkout verification (2026-10-27)
+
+The single `Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip` is not present as a standalone file, but all **216 active Paperlords PDFs are present individually** under `IGCSE/` (including 48 English Language B PDFs: 23 QPs, 23 MSs and the two June 2023 ERs). The searchable text index, catalog and pairing metadata are present as well. Use the individual local PDFs for page/visual verification; June 2024–2025 examiner reports used in the English research are linked official Pearson sources and are not among the local 4EB1 ER PDFs. Do not mistake the root-level split workspace bundle for a standalone archive ZIP.
+
 ## Subjects
 - Economics — 4EC1
 - Business Studies — 4BS1
@@ -17,13 +21,13 @@ Downloaded and indexed on 2026-10-04.
 - `Workspace_Cleanup_Log.csv` — file cleanup crosswalk.
 
 ## Storage and selected test
-- The full archive ZIP has been losslessly repacked using ZIP-LZMA compression to fit the workspace budget. All 220 archive entries, sizes, and CRC checks were verified unchanged. Some built-in unzip tools may not support ZIP-LZMA; if extraction fails, use 7-Zip, WinRAR, or another LZMA-capable ZIP utility.
-- `Selected_Test/4BS1_May2023_P1_QP.pdf` is a convenience copy of the Business Paper 1 used for the recent timed baseline; the original is still in the full archive.
+- The source PDFs are stored individually under `IGCSE/` in this repository. The historical full archive ZIP was part of the split full-workspace bundle at the repository root; it is not a standalone file in this folder. The individual PDFs and searchable index are sufficient for the answer banks, so do not reconstruct another duplicate archive unless needed.
+- `Selected_Test/4BS1_May2023_P1_QP.pdf` is a convenience copy of the Business Paper 1 used for the recent timed baseline; its original is stored at `IGCSE/4BS1_Business_Studies/May_2023/4BS1_Business_Studies_May_2023_P1_QP.pdf`.
 
 ## Business answer bank
 `../Business_Studies_Answer_Bank/` contains a searchable 4BS1 question-type inventory built from all 38 Business QPs in this archive, a model-answer guide, and selected official Pearson candidate-response sources. `../Economics_Answer_Bank/` contains a compact 4EC1 inventory and model-answer guide built from 42 QPs, including the recovered May/June 2022 P2R paper. `../English_Answer_Bank/` contains a 4EB1 inventory built from 23 QP/MS pairs and official June 2023 candidate-script examples. All banks distinguish official scored scripts from constructed models; see each folder’s README.
 
 ## Known document issue
-The Paperlords-stored Economics MayJune 2022 P2R QP has zero readable pages in PDF parsers. The original file remains in the PDF archive; a verified 20-page copy of the same 4EC1/02R paper is included under `RECOVERED_ALTERNATIVES/`. The recovery source URL and validation are in `recovery_notes.csv`.
+The Paperlords-stored Economics May-June 2022 P2R QP at `IGCSE/4EC1_Economics/May-June_2022/4EC1_Economics_May-June_2022_P2R_QP.pdf` has zero readable pages in PDF parsers. A verified 20-page copy of the same 4EC1/02R paper is included under `RECOVERED_ALTERNATIVES/`; use it with the matching original MS. The recovery source URL and validation are in `recovery_notes.csv`.
 
 Text extraction is a searchable aid, not a visual replacement for PDFs; inspect the original for diagrams, charts, layout or handwriting. Paperlords may not host every Pearson exam session ever issued.
