@@ -101,6 +101,7 @@ These full extracted-text routes were reviewed as source checks, not treated as 
 - [November 2021 P1 examiner report, 4EB1_01_2111_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4EB1_01_pef_20220224.pdf) — all five text chunks reviewed; no score-bearing candidate-script example located.
 - [January 2022 P1 examiner report, 4EB1_01_2201_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4EB1_01_pef_20220303.pdf) — all five text chunks reviewed; no score-bearing candidate-script example located.
 - [January 2022 P1R examiner report, 4EB1_01R_2201_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4EB1_01R_pef_20220303.pdf) — all three text chunks reviewed; no score-bearing candidate-script example located.
+- [November 2023 P1 examiner report, 4EB1_01_ER_2311](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240125.pdf) — all five text chunks reviewed; no score-bearing candidate-script example located. The official report is linked online and is not in the local archive.
 
 A search did not verify an official June 2021 P1 examiner-report source. This is an explicit source gap, not evidence that the report is unavailable or that no examples exist; do not substitute an unverified third-party copy.
 

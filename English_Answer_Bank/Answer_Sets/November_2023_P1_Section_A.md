@@ -10,7 +10,7 @@
 
 - The prompts and source locations were checked against the exact local QP PDF. The Source Booklet is appended to the QP; no separate source PDF is needed.
 - Q1, Q2, Q4 and Q5 list Pearson mark-scheme-accepted points. Q3, Q6 and Q7 are original MS-based constructed responses; they are not Pearson-scored.
-- The local archive contains the matching QP and MS but no November 2023 P1 examiner-report PDF. No examiner-reported candidate score or script is claimed here.
+- The local archive contains the matching QP and MS but no examiner-report PDF. Pearson’s [official November 2023 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240125.pdf), publication code `4EB1_01_ER_2311`, was reviewed in all five text chunks; no score-bearing candidate-script locator was located. No examiner-reported candidate score or script is claimed here.
 
 **Local sources**
 
