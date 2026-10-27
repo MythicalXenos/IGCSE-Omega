@@ -1,6 +1,6 @@
 # Pearson-reproduced candidate responses — June 2023 Section A
 
-These are **authentic candidate scripts reproduced in Pearson’s official examiner reports**, not constructed models. **Evidence label for all six entries: `[VERIFIED CANDIDATE EXEMPLAR]`.** The mark and level below are Pearson’s published judgements on the report page cited; they are not guesses based on the wording transcribed here.
+These are **authentic candidate scripts reproduced in Pearson’s official examiner reports**, not constructed models. **Evidence label for all ten entries: `[VERIFIED CANDIDATE EXEMPLAR]`.** The mark and level below are Pearson’s published judgements on the report page cited; they are not guesses based on the wording transcribed here.
 
 ## Provenance and transcription rules
 
@@ -9,6 +9,7 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 - Clearly struck-through wording is omitted and noted where omission affects meaning. Uncertain readings are labelled `[unclear]` or `[illegible]`; bracketed editorial notes are not candidate text. No unreadable wording is filled from the mark scheme or inferred from context.
 - A Pearson reproduction can itself be an excerpt. Where the reproduced script visibly stops mid-sentence or at an incomplete phrase, that limitation is stated; the candidate’s original exam answer is not assumed to have ended there.
 - For exact study, the official report PDF is the primary source. The page locators below are **printed report pages**, not PDF viewer page indices.
+- Separate June 2023 Source Booklet PDFs are absent, but the source texts are appended to the local QPs (P1 PDF pp. 30–34; P1R PDF pp. 30–33). The Q8 prompts are checked against the QPs. Candidate references remain candidate wording unless a specific source-text cross-check is documented; they are not generally presented as independently verified quotations.
 
 **Official sources and local archive copies**
 
@@ -152,6 +153,106 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 
 ---
 
+## June 2023 P1 Q8 — 30/30
+
+**Exact prompt (P1 QP, printed p. 15):** “Use ideas from BOTH Text One and Text Two in the Source Booklet to answer this question. You have been asked to give a talk to your peers about the importance of walking and getting outside. You should include: advice about different types of walks; the benefits of walking outside; and the problems you might experience. Write the text of your talk. Think carefully about the purpose of your talk and the audience for whom it is intended.”
+
+**Authentic response locator:** examiner-report printed pp. 36–39. **Published judgement:** p. 40.
+**Pearson’s calibration:** 30/30 — AO1 10/10, Level 5; AO4 12/12, Level 5; AO5 8/8, Level 5. The reproduced response has a complete ending.
+
+### Candidate-script transcription
+
+> Greetings my fellow peers. I am Abigail Pennington and I will be talking to you about the importance of walking and going into the great outdoors. I will be giving you advice about the different types of walks you can do. The amazing benefits of walking outside. Also some of the problems you might experience [crossed-out wording] along the way.
+>
+> There are many different types of walks you can embark on. You could go on a 10 mile hike up a snowy mountain. Alternatively, you could stroll around a sunny park with your dog. The advice I would give you about what type of walk to go on is what you want to see on your walk and your fitness level. I would advise you if you wanted to go on the 10 mile hike, having never done a hike or 10 mile in one go, not to do it. Also think about the people you might want to go with and what they could achieve. I wouldn’t [crossed-out wording] do a 1 mile stroll with an athletic friend for example. Remember to always walk on paths designated for walks and to not walk through private property (like a farmer’s field).
+>
+> The benefits of just walking outside are [crossed-out wording] huge. One, it will improve your mental health and distract you from the stresses of life. Two, it will improve your physical health — even a mile a day will make you fitter. Finally three, you will get to see the wonderful natural world. Whether it be a city pigeon or a majestic stag in the woods, I [crossed-out wording] hope you will see something that makes you go wow.
+>
+> It’s not as easy as it sounds though, there are some problems you might experience. Always check the weather forecast before going on a walk. [Crossed-out wording] You don’t want to die for a thunderstorm [crossed-out wording] when it’s in fact thirty degrees and sunny. Make sure you have the proper equipment for the walk you will take. For example, a water bottle if you are taking a walk in the sun, or a headtorch if you are taking a walk in the dark.
+>
+> There is a chance that you will get injured on a walk so always make sure you have your phone on hand in case of emergencies. If you fell and twisted your ankle for example and there was no one about, you could still phone a friend or family member to [crossed-out wording] pick you up. If it was something more serious, like a broken leg from falling down the side of a mountain from that 10 mile hike, then you could call 999 in a flash. [Crossed-out beginning] Be mindful of wild [inserted: “and domestic”] animals on walks, especially in rural areas. Boar, adder and even cows are some of the animals that you must be mindful of on walks.
+>
+> Staying on the path and not going into restricted areas will mean not disturbing animals in most cases. Be aware of insects and use insect repellent especially in the summer. I know insects don’t sound like a threat, but they carry lots of harmful infection and [crossed-out wording] disease with them.
+>
+> To conclude, taking a walk outdoors is a must to a happy and healthy lifestyle. You will see many wonderful and interesting things along the way. Do remember to stay safe and not forget the things you will need on your walk. Only do the walk you are capable of achieving with your skill set. [Crossed-out beginning] Always be respectful and mindful of your surroundings as well. [Abandoned start: “The”] Thank you for being an attentive audience and listening to my talk.
+
+**Source-text note:** The separate Source Booklet PDF is absent, but its texts are appended to the local P1 QP (PDF pp. 30–34). This is a transcription of the candidate’s response; source borrowing in this script has not been individually checked.
+
+---
+
+## June 2023 P1R Q8 — 26/30 (reproduced excerpt)
+
+**Exact prompt (P1R QP, printed p. 15):** “Use ideas from BOTH Text One and Text Two in the Source Booklet to answer this question. Give a talk to your peers about how successful people can be an inspiration. You should include: the challenges they faced; what influenced them; and advice on how to be successful. Write the text of your talk. Think carefully about the purpose of your talk and the audience for whom it is intended.”
+
+**Authentic response locator:** examiner-report printed pp. 30–33. **Published judgement:** p. 34.
+**Pearson’s calibration:** 26/30 — AO1 9/10, Level 5; AO4 10/12, Level 4; AO5 7/8, Level 4. The official reproduction stops mid-sentence at “The” on p. 33; this is an excerpt, not the complete original answer.
+
+### Candidate-script transcription (report excerpt ends mid-sentence)
+
+> Good morning everyone! [Crossed-out wording] You may think this is going to be another one of those boring speeches about success and life, but I think this topic is a little more interesting and relatable than we think. An success. Don’t we all want it? I know I’ve stayed up all night pondering how I could be the next Elon Musk and not have to work another day in my life. We all look up to certain successful people, but [crossed-out wording] how can they really inspire us? Part of the reason I look up to Elon Musk is just the fact that he is deemed one of the world’s most successful men; all while being a college dropout. I don’t say that because I think being a college dropout is inspiring, but [crossed-out wording] because what’s inspiring is how he beat all odds against him. Now, enough about my inspiration, let’s talk about some other factors.
+>
+> Firstly, all successful people have faced multiple challenges. No one has ever become a millionaire in a single try. Did you know, it took Tata 30 years to sell its first car? Gymshark took a total of 10 tries to be first established! So listen to your elders when they say good things take time. All their challenges aren’t seen as things holding them back, but rather their stepping stones. What’s even more inspiring is that they can not only overcome their challenges but also learn from them. No matter how [unclear; appears to read “cliché”] it may sound, mistakes are what help us learn. That is why most successful people have lists and lists of their failures. The challenges they faced should be our inspiration because they helped them learn, and how they’ll help us learn. Looking at other people’s challenges helps us learn so we won’t make the same mistakes as them. Instead, we make our own mistakes that will be on the Forbes list. [Crossed out: “But hey, don’t come to me when you go bankrupt on …”]
+>
+> Secondly, what influenced them and what drives them to do better. All people have their motivation, but what separates the successful ones and unsuccessful ones? Most successful people just truly follow their passion and what they love rather than listening to others. What separates them is their drive and their ability to follow themselves. This is why oftentimes, we see most successful people don’t go to college. This is not to discredit education, but just to follow their dreams if they think college may not be their best option. What influenced them is most likely themself. They wish to build a better future for themselves and follow their passion as well as truly enjoy their job at the same time. Or, it could be other successful people, it’s what influences me!
+>
+> Lastly, [crossed-out wording] how can you be successful? Who’s better than someone who’s already accomplished that? Most successful people do share their advice on how they get to where they are, but most of this is general stuff like working hard. Of course, the only way to get advice best suited to you is to just have a go at it. Failure can only lead to eventual success, which is evident through many examples. The best advice would be: keep trying. Yes, even if you already have everything you want. The [report reproduction ends here].
+
+**Source-text check:** The separate booklet PDF is absent, but the texts are appended to the local P1R QP (printed pp. 2–5; PDF pp. 30–33). Neither text contains the candidate’s Tata/“30 years” statistic or the claim that Gymshark took “10 tries” to be established; these remain candidate assertions, not source quotations, and have not been independently fact-checked. This note does not infer that these claims caused any score deduction.
+
+---
+
+## June 2023 P1 Q9 — 17/30 (AO4 Level 3; AO5 Level 3)
+
+**Exact prompt (P1 QP, printed p. 21):** “‘Fresh air and exercise are the keys to happiness.’ Discuss.”
+
+**Authentic response locator:** examiner-report printed pp. 45–47. **Published judgement:** p. 48.
+**Pearson’s calibration:** 17/30 — AO4 11/20, Level 3; AO5 6/10, Level 3. The visible response reaches a complete conclusion on p. 47.
+
+### Candidate-script transcription
+
+> Some people would agree that fresh air and exercise are the keys to happiness, but I understand why some wouldn’t. Some people might assume that by exercise people mean that you have to be skinny/fit to be happy, which is of course very untrue. Although many researches do show that physical exercise can improve mental health.
+>
+> Fresh air and just being outside in the sun will give you a good dose of vitamin D. A vitamin D deficiency has many symptoms including fatigue and depression therefore fresh air/increasing vitamin D will in fact make you happier. However, some could say that getting fresh air/going outside would decrease your mood depending on the weather. For example if it was raining you would obviously feel sad and maybe a bit irritated.
+>
+> Being cooped up indoors can increase stress levels and make it harder to sleep at night which obviously will increase fatigue. There are so many things to do with staying indoors and not being active that [crossed-out: “obviously”] cause sadness and depression.
+>
+> Yet I still do not believe that fresh air and exercise are the keys to happiness. My reasoning for this is there are many different things that make everyone happy. Not everybody has the same brain, body, likes or dislikes. For example, a person with social anxiety will not always get happiness from going outside. Some people get the most amount of happiness from just sitting down and watching their favourite movie tucked in their bed.
+>
+> Some people may say to that, never mind a singular person’s likes, it’s human nature to spend all your time outdoors and moving.
+>
+> In conclusion, my opinions on “Fresh air and exercise are the keys to happiness” are that it is false, those are not the only things you need to be happy.
+
+**Source-text check:** P1 Text One, item 5 (appended to the QP; printed p. 3 / PDF p. 31), includes vitamin D deficiency and fatigue/depression symptoms. The candidate’s further conclusion that fresh air/increasing vitamin D will make someone happier is their inference, not a direct source statement or an independently verified medical conclusion. The remaining response wording is transcribed as the candidate’s.
+
+---
+
+## June 2023 P1R Q9 — 17/30 (AO4 Level 3; AO5 Level 3)
+
+**Exact prompt (P1R QP, printed p. 21):** “‘You do not need to earn a lot of money to be successful.’ Discuss.”
+
+**Authentic response locator:** examiner-report printed pp. 40–43. **Published judgement:** p. 44.
+**Pearson’s calibration:** 17/30 — AO4 11/20, Level 3; AO5 6/10, Level 3. The reproduced response reaches a complete final sentence on p. 43.
+
+### Candidate-script transcription
+
+> I partly do agree with this statement, [unclear; appears to read “as once”] Mansa Musa [unclear: “explained/exclaimed”] on his death bed, “Starting from scratch makes it more worthy”.
+>
+> “The lower the investment the worthier the result”
+>
+> A lot of money why??? We don’t need alot of money to be successful because with less money we’ll be more careful and more focused on [unclear] planning out the idea. [Crossed-out wording] Due to the reason that we don’t have alot to work with so we make [crossed-out wording] make use of it as efficiently as possible. Working with less makes the person desperate to work harder in order to become successful. A study conducted by University of Ohio in 2014 shows that 76% of successful people had started with less money. Even if we have less money but a good mindset and plan we will be able to pull it off. [Crossed-out start] Although money is a major factor leading to success there are many other factors which could potentially lead to success, such as [unclear word].
+>
+> And lastly a survey conducted by Forbes in 2012 showed that on average successful [unclear/possibly “people”] who started from low are on average 6.9% more [crossed-out wording] proud of what they have achieved by seeing what they came from.
+>
+> In contrast alot of money can lead to success. As having more money can open much more doors to success. And it depends on what you trying to achieve. If you want to become a doctor going to a better medical school with better education will automatically put you ahead. If you already have money you will need to put less effort in order to become successful. As money is a major factor while dealing with this topic due to the fact that [unclear] without it you are nothing.
+>
+> A recent evaluation of successful people by national data scientists [unclear; appears to read “denotes”] the [crossed-out wording] results which show that a rich person takes about 4.2 years less than [crossed-out wording] an average person in becoming successful. With money [crossed-out wording] you would not need to be stressed or punished as we could try different methods/plans which will tend to increase our probability of being successful.
+>
+> Although I do agree money isn’t important it surely gives you a boost towards your goal. But remember hard work beats anything. And everyone should have this mindset in order to be successful.
+
+**Verification note:** The handwriting contains several uncertain and crossed-out passages, marked above rather than silently resolved. The candidate’s cited Mansa Musa quotation and specific study/survey claims are transcribed as candidate wording only; they have not been independently fact-checked or endorsed by Pearson in this transcript.
+
+---
+
 ## Coverage boundary
 
-This batch records **six authentic Pearson-reproduced responses**: three full-mark scripts (P1 Q6, P1 Q7 and P1R Q6), one near-full script (P1 Q3, 9/10), and two lower-scoring scripts (P1R Q3, 8/10; P1R Q7, 8/15). The P1R Q6 reproduction appears to stop at an incomplete phrase, and the P1R Q7 reproduction visibly ends mid-sentence. These are included with those limitations, not labelled perfect or complete. This transcription batch does not imply that every 4EB1 question has an official reproduced script, and none of these authentic answers is a constructed model.
+This batch now records **ten authentic Pearson-reproduced responses**: four full-mark scripts (P1 Q6, P1 Q7, P1R Q6, and P1 Q8); one near-full script (P1 Q3, 9/10); and five lower-scoring scripts (P1R Q3, 8/10; P1R Q7, 8/15; P1R Q8, 26/30; P1 Q9, 17/30; P1R Q9, 17/30). The P1R Q6 reproduction stops at an incomplete phrase, P1R Q7 ends mid-sentence, and P1R Q8 ends mid-sentence at “The”; all three are labelled as excerpts rather than complete scripts. P1 Q8, P1 Q9 and P1R Q9 appear complete in the official reproductions. Handwriting uncertainty in P1R Q9 is marked. This transcription batch does not imply that every 4EB1 question has an official reproduced script, and none of these authentic answers is a constructed model.

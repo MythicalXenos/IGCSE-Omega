@@ -8,7 +8,7 @@ Built 2026-10-12 from the Paperlords 4EB1 archive, the searchable text index, ma
 - `4EB1_Exemplar_and_Model_Answer_Guide.docx` — main reading/coaching guide with reusable methods and clearly labelled constructed models.
 - `4EB1_Exemplar_and_Model_Answer_Guide.md` — searchable source version.
 - `Source_Notes/Official_Pearson_Exemplar_Index.md` — exact report score/page references and source URLs.
-- `Verified_Candidate_Responses/June_2023_Section_A.md` — facsimile-checked transcriptions/excerpts of six authentic June 2023 P1/P1R candidate responses, with Pearson’s exact scores/levels, report/script page locators, and uncertainty/incomplete-excerpt flags. This real-script coverage is separate from constructed answer-set coverage.
+- `Verified_Candidate_Responses/June_2023_Section_A.md` — facsimile-checked transcriptions/excerpts of ten authentic June 2023 P1/P1R candidate responses, with Pearson’s exact scores/levels, report/script page locators, and uncertainty/incomplete-excerpt flags. This real-script coverage is separate from constructed answer-set coverage.
 - `Section_A_Examiner_Research_2024-2025.md` — first cross-session Pearson Section A synthesis, score locators, retrieval limits, and current Q8 text-type change.
 - `Project_Status.md` — learner baseline, current priorities, evidence contract, answer-set coverage and next work sequence.
 - `Answer_Sets/README.md` — completion standard, progress log and queue. Three complete batches cover June 2023 P1 and P1R plus November 2023 P1 Section A Q1–Q7 (21 of 253 indexed question-option entries).
@@ -17,7 +17,7 @@ Built 2026-10-12 from the Paperlords 4EB1 archive, the searchable text index, ma
 
 ## Storage policy
 
-No QP, Source Booklet, mark-scheme or examiner-report PDFs are duplicated inside this answer-bank folder. The current checkout has **48 individual 4EB1 PDFs** in `Paperlords_Archive/IGCSE/4EB1_English_Language_B/` (23 QPs, 23 matching MSs and the June 2023 P1/P1R examiner reports). The searchable index and pairing metadata are also present. The single full-collection ZIP is absent, but the 4EB1 PDFs are available at their archive-relative paths. June 2024–2025 examiner-report PDFs cited in the notes are official online Pearson sources, not local files. Use the local PDFs for visual/page-image checks where present; do not infer that a linked 2024–2025 ER is locally stored.
+No QP, Source Booklet, mark-scheme or examiner-report PDFs are duplicated inside this answer-bank folder. The current checkout has **48 individual 4EB1 PDFs** in `Paperlords_Archive/IGCSE/4EB1_English_Language_B/` (23 QPs, 23 matching MSs and the June 2023 P1/P1R examiner reports). The searchable index and pairing metadata are also present. The single full-collection ZIP is absent, but the 4EB1 PDFs are available at their archive-relative paths. Separate June 2023 Source Booklet PDFs are not present, but the Source Booklet texts are appended to the local QP PDFs (P1 PDF pp. 30–34 / printed pp. 2–6; P1R PDF pp. 30–33 / printed pp. 2–5). Candidate script references are transcribed as written and are not presented as source-verified quotations unless a specific cross-check is recorded. June 2024–2025 examiner-report PDFs cited in the notes are official online Pearson sources, not local files. Use the local PDFs for visual/page-image checks where present; do not infer that a linked 2024–2025 ER is locally stored.
 
 ## Evidence policy
 

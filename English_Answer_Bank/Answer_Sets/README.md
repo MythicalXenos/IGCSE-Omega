@@ -20,7 +20,7 @@ A complete answer-set entry does **not** mean a candidate received full marks. A
 | June 2023 P1R (4EB1/01R) | Section A Q1–Q7 | **Complete: 7 question entries** | [`June_2023_P1R_Section_A.md`](June_2023_P1R_Section_A.md) |
 | November 2023 P1 (4EB1/01) | Section A Q1–Q7 | **Complete: 7 question entries** | [`November_2023_P1_Section_A.md`](November_2023_P1_Section_A.md) |
 
-All three batches were checked against the local QP/Source Booklet and matching MS. Retrieval keys include accepted alternatives; the longer answers are original MS-based responses and are not Pearson-scored. The June 2023 sets cite separate candidate-script scores as calibration only. The local November 2023 archive has no matching ER PDF, so no candidate score is reported for that paper. **Total complete: 21/253 question-option entries.**
+All three batches were checked against the local QP and matching MS, and against source text where available. Separate June 2023 Source Booklet PDFs are absent, but the source texts are appended to the local QP PDFs. Candidate-script wording is not treated as independently verified quotation evidence unless a specific check is recorded. Retrieval keys include accepted alternatives; the longer answers are original MS-based responses and are not Pearson-scored. The June 2023 sets cite separate candidate-script scores as calibration only. The local November 2023 archive has no matching ER PDF, so no candidate score is reported for that paper. **Total complete: 21/253 question-option entries.**
 
 ## Work already elsewhere, not counted as complete answer sets
 
@@ -28,7 +28,7 @@ All three batches were checked against the local QP/Source Booklet and matching 
 
 ## Authentic-response phase — active priority
 
-`../Verified_Candidate_Responses/June_2023_Section_A.md` now contains facsimile-checked transcriptions/excerpts of six genuine Pearson-reproduced responses: June 2023 P1 Q3 (9/10 L5), Q6 (10/10 L5), Q7 (15/15 L5), and P1R Q3 (8/10 L4), Q6 (10/10 L5), Q7 (8/15 L3). It flags crossed-out/uncertain wording and the two Pearson reproductions that visibly end incomplete. These authentic responses are **not** constructed models and are tracked separately from the 21/253 answer-set coverage. Continue searching and verifying official candidate scripts before creating further constructed answer sets; retain lower-scoring real scripts with their true marks.
+`../Verified_Candidate_Responses/June_2023_Section_A.md` now contains facsimile-checked transcriptions/excerpts of ten genuine Pearson-reproduced responses: June 2023 P1 Q3 (9/10 L5), Q6 (10/10 L5), Q7 (15/15 L5), Q8 (30/30), Q9 (17/30; AO4/AO5 L3); and P1R Q3 (8/10 L4), Q6 (10/10 L5), Q7 (8/15 L3), Q8 (26/30), Q9 (17/30; AO4/AO5 L3). It flags uncertain/crossed-out wording and the three Pearson reproductions that visibly end incomplete. These authentic responses are **not** constructed models and are tracked separately from the 21/253 answer-set coverage. Continue searching and verifying official candidate scripts before creating further constructed answer sets; retain lower-scoring real scripts with their true marks.
 
 ## Constructed answer-set queue — resume after the real-script-first phase
 
