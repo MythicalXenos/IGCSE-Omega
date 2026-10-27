@@ -10,7 +10,7 @@ Built 2026-10-12 from the Paperlords 4EB1 archive, the searchable text index, ma
 - `Source_Notes/Official_Pearson_Exemplar_Index.md` — exact report score/page references and source URLs.
 - `Section_A_Examiner_Research_2024-2025.md` — first cross-session Pearson Section A synthesis, score locators, retrieval limits, and current Q8 text-type change.
 - `Project_Status.md` — learner baseline, current priorities, evidence contract, answer-set coverage and next work sequence.
-- `Answer_Sets/README.md` — completion standard, progress log and queue. The first two complete batches cover June 2023 P1 and P1R Section A Q1–Q7 (14 of 253 indexed question-option entries).
+- `Answer_Sets/README.md` — completion standard, progress log and queue. Three complete batches cover June 2023 P1 and P1R plus November 2023 P1 Section A Q1–Q7 (21 of 253 indexed question-option entries).
 - `build_english_inventory.py` — rebuilds the workbook from the searchable index, QP/MS pairing CSV and `Answer_Sets/coverage.csv`.
 - `make_docx.py` — rebuilds the DOCX from the Markdown guide.
 

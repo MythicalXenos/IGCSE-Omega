@@ -100,4 +100,4 @@ Pearson’s June 2023 P1R report gives a separate candidate response **10/10 for
 
 ## Batch boundary
 
-This file completes answers for the seven Section A questions on June 2023 P1R only. It does **not** cover this paper’s Q8/Q9–Q11 answers, the other 21 QP/MS pairs, or all current-form Q8 variations. The inventory and project status must continue to distinguish “question indexed” from “answer completed.”
+This file completes answers for the seven Section A questions on June 2023 P1R only. It does **not** cover this paper’s Q8/Q9–Q11 answers or any of the 20 other QP/MS pairs without a complete Section A set. Q8 and Section C coverage remains incomplete across the archive, including current-form Q8 variations. The inventory and project status must continue to distinguish “question indexed” from “answer completed.”

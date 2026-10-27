@@ -18,8 +18,9 @@ A complete answer-set entry does **not** mean a candidate received full marks. A
 |---|---|---|---|
 | June 2023 P1 (4EB1/01) | Section A Q1–Q7 | **Complete: 7 question entries** | [`June_2023_P1_Section_A.md`](June_2023_P1_Section_A.md) |
 | June 2023 P1R (4EB1/01R) | Section A Q1–Q7 | **Complete: 7 question entries** | [`June_2023_P1R_Section_A.md`](June_2023_P1R_Section_A.md) |
+| November 2023 P1 (4EB1/01) | Section A Q1–Q7 | **Complete: 7 question entries** | [`November_2023_P1_Section_A.md`](November_2023_P1_Section_A.md) |
 
-Both batches were checked against the local QP/Source Booklet and matching MS. Retrieval answer keys include the MS’s accepted alternatives; Q3/Q6/Q7 have original worked responses built from the MS. Their separate candidate-script scores are cited only as calibration. **Total complete: 14/253 question-option entries.**
+All three batches were checked against the local QP/Source Booklet and matching MS. Retrieval keys include accepted alternatives; the longer answers are original MS-based responses and are not Pearson-scored. The June 2023 sets cite separate candidate-script scores as calibration only. The local November 2023 archive has no matching ER PDF, so no candidate score is reported for that paper. **Total complete: 21/253 question-option entries.**
 
 ## Work already elsewhere, not counted as complete answer sets
 
@@ -27,7 +28,7 @@ Both batches were checked against the local QP/Source Booklet and matching MS. R
 
 ## Remaining queue
 
-1. November 2023 P1 Section A Q1–Q7.
+1. May/June 2024 P1 Section A Q1–Q7.
 2. Section A Q1–Q7 for each remaining QP/MS pair, one paper at a time, prioritizing analysis/comparison while including the retrieval keys.
 3. Q8 QP/MS-specific sets, with the four Issue 4 forms from November 2025 onward tracked separately; older forms retained as historical practice only.
 4. Section C Q9, Q10 and Q11 alternatives for every paired paper, each separately identified and answered.

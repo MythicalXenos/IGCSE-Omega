@@ -35,7 +35,7 @@ For Q3/Q6/Q7, use the exact paper question, source text and matching mark scheme
 ## Current bank coverage and gap
 
 - The existing English bank contains **23 QP/MS pairs and 253 question-option entries**. Q9–Q11 are alternative choices; a candidate answers one.
-- The answer-set tracker is `Answer_Sets/README.md`. Two complete paper-specific batches now cover **June 2023 P1 and P1R Section A Q1–Q7 (14/253 entries)**. This is not full answer-bank coverage; the 253-row inventory is not itself a solved-answer bank.
+- The answer-set tracker is `Answer_Sets/README.md`. Three complete paper-specific batches now cover **June 2023 P1 and P1R, plus November 2023 P1 Section A Q1–Q7 (21/253 entries)**. This is not full answer-bank coverage; the 253-row inventory is not itself a solved-answer bank.
 - Current-checkout source status: the searchable text-index ZIP and pairings are present, as are 48 individual 4EB1 PDFs (23 QPs, 23 MSs and two June 2023 ERs) under `Paperlords_Archive/IGCSE/4EB1_English_Language_B/`. The single full-collection ZIP is absent. The June 2024–2025 ER PDFs are linked official sources but are not among the local 4EB1 PDFs; the June 2025 scanned scripts remain OCR-limited in the web extraction.
 - The bank does not establish a verified full-mark candidate script for every question variation. Existing June 2023 examples include: P1 Q3 9/10, Q6 10/10, Q7 15/15, Q8 30/30, Q9 17/30, Q10 30/30, Q11 23/30; P1R Q6 10/10, Q7 8/15, Q8 26/30, Q9 17/30, Q10 30/30, Q11 26/30. See `Source_Notes/Official_Pearson_Exemplar_Index.md` for exact report pages and provenance.
 - The 2024–2025 Section A examiner research batch is in `Section_A_Examiner_Research_2024-2025.md`.
@@ -56,7 +56,7 @@ Older Q8 forms can still be useful reading practice, but do not assume those for
 
 ## Work sequence
 
-1. Continue the answer-set queue in `Answer_Sets/README.md`, one fully sourced batch at a time. **Next: November 2023 P1 Section A Q1–Q7.** Then work through every remaining QP/MS pair; keep question text separate from answers and update the coverage count only when the batch meets the completion standard.
+1. Continue the answer-set queue in `Answer_Sets/README.md`, one fully sourced batch at a time. **Next: May/June 2024 P1 Section A Q1–Q7.** Then work through every remaining QP/MS pair; keep question text separate from answers and update the coverage count only when the batch meets the completion standard.
 2. For full June 2025 report coverage beyond Section A, read the outstanding Jina chunks: P1 chunks 3–7 and P1R chunks 3–6. The Section A tranche (chunks 0–2) is already recorded.
 3. Continue official Section A report research in small, fully sourced batches. June 2026 P1/P1R reports were not directly located; Pearson’s recent-material access restriction may require a registered centre. Do not infer filenames or use third-party copies as official.
 4. Initial facsimile check completed for June 2023 P1 Q6 (10/10), P1 Q7 (15/15) and P1R Q6 (10/10); brief exact excerpts and PDF/page locators are in `Source_Notes/Official_Pearson_Exemplar_Index.md`. Continue with Q3 and other high-value Section A scripts. The June 2025 P1R report PDF is not in the local 4EB1 archive; if its page image cannot be obtained from Pearson, preserve the score/page locator and do not reconstruct wording from corrupt OCR.
