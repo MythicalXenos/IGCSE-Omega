@@ -16,6 +16,7 @@ INDEX_ZIP = ARCHIVE / 'Paperlords_Searchable_Text_Index.zip'
 PAIRINGS = ARCHIVE / 'Paperlords_QP_MS_ER_Pairings.csv'
 BANK = ROOT / 'English_Answer_Bank'
 OUT = BANK / '4EB1_Question_Type_Inventory.xlsx'
+ANSWER_COVERAGE = BANK / 'Answer_Sets' / 'coverage.csv'
 
 PATTERNS = [
     ['1','Short retrieval','Use the stated line range; state/identify one relevant fact.','Read the line reference first. Give one direct, specific answer and stop. Do not analyse language or add several alternatives.','Q1, Q2 or Q4 across the archive; Q1/Q2/Q4 are usually 1 mark each.'],
@@ -177,9 +178,42 @@ def build_rows():
     return items, len(records)
 
 
+def load_answer_coverage():
+    coverage = {}
+    with ANSWER_COVERAGE.open(encoding='utf-8-sig', newline='') as f:
+        for row in csv.DictReader(f):
+            key = (row['Session'].strip(), row['Archive paper label'].strip(),
+                   row['Cover component code'].strip(), int(row['Question']))
+            if key in coverage:
+                raise ValueError(f'Duplicate answer coverage key: {key}')
+            if row['Status'].strip() not in {'COMPLETE', 'PARTIAL'}:
+                raise ValueError(f"Unsupported answer-set status for {key}: {row['Status']}")
+            coverage[key] = row
+    return coverage
+
+
 def main():
     BANK.mkdir(parents=True, exist_ok=True)
     items, paper_count = build_rows()
+    coverage = load_answer_coverage()
+    inventory_keys = set()
+    for item in items:
+        key = (item['Session'], item['Archive paper label'],
+               item['Cover component code'], item['Question'])
+        inventory_keys.add(key)
+        row = coverage.get(key)
+        if row:
+            item['Answer-set status'] = row['Status'].strip()
+            item['Answer-set reference'] = row['Answer set file'].strip()
+            item['Answer-set notes'] = row['Notes'].strip()
+        else:
+            item['Answer-set status'] = 'NO COMPLETE ANSWER SET RECORDED'
+            item['Answer-set reference'] = ''
+            item['Answer-set notes'] = ('Selected models or candidate score locators may exist elsewhere; '
+                                        'complete QP/MS-specific answer-set coverage is not recorded.')
+    stale_coverage = sorted(set(coverage) - inventory_keys)
+    if stale_coverage:
+        raise ValueError(f'Coverage entries do not match the current question inventory: {stale_coverage}')
     wb = Workbook()
     ws = wb.active
     ws.title = 'Question patterns'
@@ -201,7 +235,7 @@ def main():
     wi.append(list(items[0].keys()))
     for item in items:
         wi.append(list(item.values()))
-    style_sheet(wi, {'A':20,'B':18,'C':20,'D':12,'E':10,'F':36,'G':30,'H':100,'I':12,'J':88,'K':88})
+    style_sheet(wi, {'A':20,'B':18,'C':20,'D':12,'E':10,'F':36,'G':30,'H':100,'I':12,'J':88,'K':88,'L':34,'M':54,'N':100})
 
     we = wb.create_sheet('Official student scripts')
     we.append(['Marks available','Question type / task','Series / paper / question','Published score','Official report page(s)','Examiner commentary / lesson','Local archive path','Pearson source URL','Evidence label / transcript status'])
@@ -218,6 +252,8 @@ def main():
     wsrc.append(['Evidence standard','[VERIFIED CANDIDATE EXEMPLAR] requires Pearson-confirmed exact response, score, session, paper, question and report page. [OFFICIAL MARK-SCHEME WORKED ANSWER] uses indicative content, not a scored script. [CONSTRUCTED GRADE 9 TARGET] is original, not official/scored, and claims no mark. Full marks means every mark available; distinguish near-full. Do not reconstruct scanned wording from corrupt OCR.','See README.md and Project_Status.md.',''])
     wsrc.append(['Current PDF availability','23 QPs, 23 matching MSs and two June 2023 ER PDFs are present individually under Paperlords_Archive/IGCSE/4EB1_English_Language_B/; the full-collection ZIP is absent.','June 2024–2025 ER PDFs remain official online Pearson sources, not local files.',''])
     wsrc.append(['Coverage count',f'{paper_count} QPs; {len(items)} question-option entries. Q9–Q11 are mutually exclusive options; the workbook indexes all three.','All question prompts are matched to their archive QP and MS paths.',''])
+    complete_answer_sets = sum(1 for item in items if item['Answer-set status'] == 'COMPLETE')
+    wsrc.append(['Answer-set coverage',f'{complete_answer_sets} of {len(items)} indexed question-option entries currently have a complete answer-set record. Inventory rows without COMPLETE are not claims that no model or exemplar exists; they are not yet in a complete QP/MS-specific answer set.','See Answer_Sets/README.md and Answer_Sets/coverage.csv; per-question fields are on the All QP questions sheet.',''])
     style_sheet(wsrc, {'A':34,'B':92,'C':100,'D':110})
 
     wb.save(OUT)
