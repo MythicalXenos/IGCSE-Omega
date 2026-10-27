@@ -53,25 +53,66 @@ These short quotations are anchors for locating the source, not substitute answe
 ## Additional official report references consulted
 
 - [June 2022 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf) — includes full-mark candidate analysis examples, including a 10/10 Q6 response.
-- [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — recent examiner advice and candidate responses; repeatedly warns against feature spotting, retelling, and leaving Q7 blank.
-- [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — recent report for the R variant.
+- [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — Section A Q3/Q6/Q7 examiner feedback and six candidate-script score locators; see page-pinned records below.
+- [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — R-variant Section A feedback and six candidate-script score locators; no script wording transcribed here.
 - [Official 4EB1 sample assessment materials](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Specification%20and%20sample%20assessments/00125_International_GCSE_English_Language_%20B_2016-Sep_issue_2.pdf) — specimen QP/MS, not a live-past-paper candidate script.
-- [November 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) — Section A report feedback consulted; detail and source notes in `../Section_A_Examiner_Research_2024-2025.md`.
-- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — official feedback; Section A report extraction cross-checked via the full-report text route.
-- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — official report reproduces verified Q3 and Q6 full-mark scripts and a Q7 near-full script; exact response text is not transcribed here because the web PDF text extraction corrupts the scanned handwriting. See score locators below.
+- [November 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) — Section A feedback for Q1–Q7; no reproduced Q3/Q6/Q7 candidate script was located.
+- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — six Q3/Q6/Q7 score/page locators; text route used only to locate printed pages and judgments.
+- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — six Q3/Q6/Q7 score/page locators, including full, near-full and lower-scoring samples. No exact candidate wording is transcribed; OCR is not used as a transcript. See locator table below.
 - [Pearson specification update (4 August 2025)](https://qualifications.pearson.com/en/news-policy/qualifications/international-gcses/english/specification-update-international-gcse-english-language-b-4eb1-for-first-teaching-september-2025.html) and [official writing-form guidance](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Teaching%20and%20learning%20materials/pearson-int-gcse-english-writing-guidance4eb1pf2.pdf) — Q8 text types are narrowed to four from November 2025 onward.
 
-### June 2025 P1R: verified Section A score locators (not transcriptions)
+### June 2024–2025 Section A: official candidate-script locators (not transcriptions)
 
-| Q | Published score | Printed examiner-feedback page | Status |
-|---|---:|---:|---|
-| 3 | 10/10, Level 5 | 9 | [VERIFIED CANDIDATE EXEMPLAR] Pearson reproduces the response and confirms the score; script wording not transcribed in this index. |
-| 6 | 10/10, Level 5 | 19 | [VERIFIED CANDIDATE EXEMPLAR] Pearson reproduces the response and confirms the score; script wording not transcribed in this index. |
-| 7 | 14/15, Level 5 | 30 | [VERIFIED CANDIDATE EXEMPLAR] Near-full, **not** full marks; Pearson reproduces the response and confirms the score. |
-| 7 | 5/15, Level 2 | 34 | Official low-score calibration only; Pearson notes absent/very limited textual references and undeveloped comparisons. |
+These records establish that Pearson reproduced a candidate response and published its score/level. The page cited is the **printed report page carrying the examiner judgement**, not a PDF file-page index. The Jina text route was used to expose printed-page markers and locate the judgement; it is not treated as an authority for candidate wording. Candidate response page ranges are omitted here unless explicitly pinned elsewhere. **No 2024–2025 candidate wording has been transcribed or visually verified in this batch.** Consult the linked official Pearson PDF before using a script; do not reconstruct it from OCR. Short task-focus labels below summarize the examiner report and are not verbatim QP quotations.
 
-**Transcript integrity note:** the score and level are verifiable from Pearson’s report, but the sample responses are scanned pages. OCR output from the available text route is materially corrupt. Do not “correct” that OCR by guessing, and do not quote it as exact candidate wording. The official PDF and printed page pins are the preserved source until the facsimile can be visually transcribed.
+#### June 2024 P1 — [official examiner report, publication code 4EB1_01_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf)
+
+| Q | Pearson-described task focus | Published score / level | Printed judgement page | Evidence note |
+|---|---|---:|---:|---|
+| 3 | Young people protecting the environment | 8/10, Level 4 | 9 | Strong exploration and relevant references; not full marks. |
+| 3 | Young people protecting the environment (lower-scoring sample) | 4/10, Level 2 | 11 | Limited explanation of effects; lower-score calibration. |
+| 6 | Climate change | 10/10, Level 5 | 18 | Full marks; analytical and perceptive, with embedded references. |
+| 6 | Climate change (lower-scoring sample) | 6/10, Level 3 | 21 | Clear understanding/explanation, but not enough exploration for Level 4. |
+| 7 | Compare perspectives about climate change | 13/15, Level 5 | 27 | Near-full, **not** full marks; broad, balanced comparison. |
+| 7 | Compare perspectives about climate change (lower-scoring sample) | 7/15, Level 3 | 30 | Some comparisons/explanation; further range and development needed. |
+
+#### June 2024 P1R — [official examiner report, publication code 4EB1_01R_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf)
+
+| Q | Pearson-described task focus | Published score / level | Printed judgement page | Evidence note |
+|---|---|---:|---:|---|
+| 3 | Writer’s experiences of looking after Willy the goose | 10/10, Level 5 | 8 | Full marks; perceptive analysis and discriminating references. |
+| 3 | Writer’s experiences of looking after Willy the goose (lower-scoring sample) | 5/10, Level 3 | 10 | Relevant understanding/references; development is limited. |
+| 6 | Writer’s experiences of looking after orphaned elephants | 9/10, Level 5 | 17 | Near-full, **not** full marks; the report says some analysis tips into Level 5. |
+| 6 | Writer’s experiences of looking after orphaned elephants (lower-scoring sample) | 4/10, Level 2 | 20 | Some relevant features/references; comments focus too much on content. |
+| 7 | Compare experiences of caring for orphaned geese and elephants | 11/15, Level 4 | 27 | Developed comparison with supporting references. |
+| 7 | Compare experiences of caring for orphaned geese and elephants (lower-scoring sample) | 5/15, Level 2 | 29 | Obvious comparisons with limited development. |
+
+#### June 2025 P1 — [official examiner report, publication code 4EB1_01_2506_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf)
+
+| Q | Pearson-described task focus | Published score / level | Printed judgement page | Evidence note |
+|---|---|---:|---:|---|
+| 3 | Writer’s experiences travelling in Yemen (lower-scoring sample) | 5/10, Level 3 | 9 | Some explanation; more development of effects is needed. |
+| 3 | Writer’s experiences travelling in Yemen | 9/10, Level 5 | 12 | Near-full, **not** full marks; perceptive in parts, but uneven. |
+| 6 | Writer’s journey along the south coast (lower-scoring sample) | 2/10, Level 1 | 17 | Basic feature identification with little explanation. |
+| 6 | Writer’s journey along the south coast | 9/10, Level 5 | 20 | Near-full, **not** full marks; detailed analysis with perceptive elements. |
+| 7 | Compare ideas and perspectives about visiting new places | 13/15, Level 5 | 25 | Near-full, **not** full marks; comprehensive comparisons, with some points needing support. |
+| 7 | Compare ideas and perspectives about visiting new places (lower-scoring sample) | 5/15, Level 2 | 28 | Several valid but undeveloped comparisons. |
+
+#### June 2025 P1R — [official examiner report, publication code 4EB1_01R_2506_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf)
+
+| Q | Pearson-described task focus | Published score / level | Printed judgement page | Evidence note |
+|---|---|---:|---:|---|
+| 3 | Writer’s relationship with Hassan | 10/10, Level 5 | 9 | Full marks; report praises methodical, perceptive analysis and judicious references. |
+| 3 | Writer’s relationship with Hassan (lower-scoring sample) | 3/10, Level 2 | 12 | Lower-score calibration; wording not transcribed. |
+| 6 | Writer’s friendship with Claudia | 10/10, Level 5 | 19 | Full marks; detailed analysis of language/structure and tone. |
+| 6 | Writer’s friendship with Claudia (lower-scoring sample) | 5/10, Level 3 | 23 | Lower-score calibration; wording not transcribed. |
+| 7 | Compare the writers’ ideas and perspectives about friendship | 14/15, Level 5 | 30 | Near-full, **not** full marks; balanced comparisons throughout. |
+| 7 | Compare the writers’ ideas and perspectives about friendship (lower-scoring sample) | 5/15, Level 2 | 34 | Lower-score calibration; Pearson notes very limited references and undeveloped comparisons. |
+
+**Transcript integrity and count:** these 24 records are **[OFFICIAL CANDIDATE SCRIPT LOCATOR]** entries, not transcripts. The report reproductions and published judgements are authentic Pearson evidence, but script wording remains unverified until visually checked against each scan. OCR is locator evidence only. Together with the fourteen separately facsimile-checked June 2023 transcriptions/excerpts, the workbook now indexes 38 official candidate-response records: **14 verified transcriptions/excerpts + 24 locator-only records**. This does not change the **21/253** constructed answer-set coverage.
+
+The November 2024 P1 report (publication code 4EB1_01_2411_ER) was also checked for Section A. It contains narrative examiner feedback for Q1–Q7, but no reproduced Q3/Q6/Q7 candidate-script pages were located; therefore it contributes no candidate-script record. Its feedback remains summarized in `../Section_A_Examiner_Research_2024-2025.md`.
 
 ## Full-mark and construction boundaries
 
-The June 2023 reports include verified full-mark examples for Q6, Q7, Q8 and Q10. The scores for Q3, Q9 and Q11 in the June 2023 tables are **not** full marks. The June 2025 P1R report additionally reproduces verified 10/10 responses for Q3 and Q6, plus a 14/15 Q7 response (near-full, not full); see the locator table above. Those scanned scripts are not transcribed here because the available OCR is materially corrupt. Every model answer written for this bank is labelled either as an official scored script reference or a constructed response. Constructed models use exact 4EB1 questions and source text with the matching mark scheme and available examiner guidance; they have not been independently marked and no score is claimed.
+The June 2023 reports include verified full-mark examples for Q6, Q7, Q8 and Q10; the published Q3, Q9 and Q11 scores are **not** full marks. The 2024–2025 locator tables contain both full-mark and lower/near-full samples, with every published score retained exactly. A locator is not an exact transcript and no OCR-damaged wording is repaired. Every model answer written for this bank is labelled either as an official score/page reference or a constructed response. Constructed models use exact 4EB1 questions and source text with the matching mark scheme and available examiner guidance; they have not been independently marked and no score is claimed.

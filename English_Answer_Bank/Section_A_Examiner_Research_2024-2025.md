@@ -1,6 +1,6 @@
 # Section A: Pearson examiner-research batch (2024–2025)
 
-**Status:** First evidence batch; scoped to Section A. Research access date: 2026-10-27. This is a synthesis of the official Pearson examiner reports listed below, not a substitute for their full wording or for the mark schemes of the individual papers.
+**Status:** Section A locator pass completed across the indexed 2024–2025 official reports; updated 2026-10-28. This is a synthesis of Pearson’s reports, not a substitute for their full wording or for the mark schemes of the individual papers. Candidate-script score/page locators are recorded separately from exact, facsimile-checked transcripts.
 
 **Purpose:** The learner reports 13–19/40 in Section A, compared with 15–20/30 in each writing section. Section A is the immediate improvement priority.
 
@@ -8,12 +8,13 @@
 
 | Session / paper | Official Pearson report | Report publication code | Scope consulted in this batch |
 |---|---|---|---|
-| June 2024, 4EB1/01 | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) | 4EB1_01_2406_ER | Section A, Q1–Q7 |
-| November 2024, 4EB1/01 | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) | 4EB1_01_2411_ER | Section A, Q1–Q7 |
+| June 2024, 4EB1/01 | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) · [full-report text route](https://r.jina.ai/https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) | 4EB1_01_2406_ER | Section A, Q1–Q7; Jina reports 66 pages. |
+| June 2024, 4EB1/01R | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) · [full-report text route](https://r.jina.ai/https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) | 4EB1_01R_2406_ER | Section A, Q1–Q7; Jina reports 64 pages. |
+| November 2024, 4EB1/01 | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) · [full-report text route](https://r.jina.ai/https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) | 4EB1_01_2411_ER | Section A, Q1–Q7; Jina reports 16 pages. No reproduced Section A candidate scripts located. |
 | June 2025, 4EB1/01 | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) · [full-report text route](https://r.jina.ai/https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) | 4EB1_01_2506_ER | Section A; Jina reports 63 pages. Direct Pearson extraction and Jina Section A chunks consulted. |
 | June 2025, 4EB1/01R | [Official PDF](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) · [full-report text route](https://r.jina.ai/https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) | 4EB1_01R_2506_ER | Section A; Jina reports 67 pages. Direct Pearson extraction and Jina Section A chunks consulted. |
 
-The June 2025 reports exceed the 30-page web-PDF extraction limit. The full-report route was used to establish actual page counts and cross-check the Section A extraction. **This batch does not claim to have harvested every Section B/C page from those reports.** The June 2024 and November 2024 findings here are likewise Section A-scoped, not full-report transcriptions.
+The June 2025 reports exceed the 30-page web-PDF extraction limit. The full-report text route was used to expose printed-page markers; candidate handwriting was not transcribed. The Section A locator pass is complete for all five reports listed here, but this does **not** claim full-report harvesting of Sections B/C. The June 2024 and November 2024 findings are also Section A-scoped, not full-report transcriptions.
 
 ## Cross-report findings for Q3 and Q6 (10-mark analysis)
 
@@ -29,8 +30,9 @@ The June 2025 reports exceed the 30-page web-PDF extraction limit. The full-repo
 
 ### Session-specific calibration
 
-- **June 2024 P1, Q3:** Pearson reports that candidates often identified subheadings, lists, direct address, questions and informal tone, but did not always explore the effects. Stronger responses developed effects and related choices to the intended young audience. The report also warns against mechanically naming rhetorical questions/alliteration without evidence.
-- **November 2024 P1, Q3 and Q6:** Pearson reports that a significant number of responses described or retold the texts instead of analysing techniques and intended effects. Candidates often named features but gave only generic claims about engagement or relatability.
+- **June 2024 P1, Q3:** Pearson reports that candidates often identified subheadings, lists, direct address, questions and informal tone, but did not always explore the effects. Stronger responses developed effects and related choices to the intended young audience. The report also warns against mechanically naming rhetorical questions/alliteration without evidence. Its reproduced Q3 examples score 8/10 Level 4 and 4/10 Level 2 (printed judgement pages 9 and 11).
+- **June 2024 P1R, Q3 and Q6:** Pearson reproduces a full-mark Q3 (10/10 Level 5) and a near-full Q6 (9/10 Level 5), alongside lower-scoring examples at 5/10 Level 3 and 4/10 Level 2. These are locator-only records; script wording has not been transcribed.
+- **November 2024 P1, Q3 and Q6:** Pearson reports that a significant number of responses described or retold the texts instead of analysing techniques and intended effects. Candidates often named features but gave only generic claims about engagement or relatability. No reproduced Section A candidate-script examples were located in this report.
 - **June 2025 P1, Q3 and Q6:** Pearson again distinguishes explanation of what a quotation means from analysis of how the writer uses it. Stronger responses explored selected choices and the movement of the experience through the passage; weaker ones retold, copied, over-quoted, or claimed generic reader effects.
 - **June 2025 P1R, Q3 and Q6:** For the relationship questions, the report specifically rewards connecting language and structure to the relationship being presented. For example, it discusses symbolism, narrative perspective and inner conflict for Q3, and tone, imagery, anecdote and cyclical structure for Q6. Merely recounting events in the friendship is insufficient.
 
@@ -45,26 +47,23 @@ The June 2025 reports exceed the 30-page web-PDF extraction limit. The full-repo
 
 ### Session-specific calibration
 
-- **November 2024 P1:** Pearson notes that many candidates struggled to make specific, relevant comparisons and that higher-level responses were relatively scarce. Some discussed each text separately and appended a brief, unsupported comparison.
-- **June 2025 P1:** Stronger responses compared throughout, balanced their references and explained what similarities/differences showed about the writers’ viewpoints. The report rejects lists of comparisons without development, punctuation/image comparisons, and candidate preference.
+- **June 2024 P1:** Pearson’s reproduced Q7 samples score 13/15 Level 5 and 7/15 Level 3 (printed judgement pages 27 and 30). The report notes integrated comparisons and balanced references in stronger answers, while weaker answers may list or summarize rather than explore perspectives.
+- **June 2024 P1R:** Pearson’s Q7 samples score 11/15 Level 4 and 5/15 Level 2 (printed judgement pages 27 and 29). The report values a balanced comparison of the writers’ experiences and ideas, supported with apt references.
+- **November 2024 P1:** Pearson notes that many candidates struggled to make specific, relevant comparisons and that higher-level responses were relatively scarce. Some discussed each text separately and appended a brief, unsupported comparison; no Q7 sample script was located.
+- **June 2025 P1:** Reproduced Q7 samples score 13/15 Level 5 and 5/15 Level 2 (printed judgement pages 25 and 28). Stronger responses compared throughout, balanced their references and explained what similarities/differences showed about the writers’ viewpoints. The report rejects lists of comparisons without development, punctuation/image comparisons, and candidate preference.
 - **June 2025 P1R:** The report distinguishes between obvious similarities (e.g. both texts describe friendship) and developed comparison of the perspectives, contexts, tones and relationship dynamics. The stronger response made balanced comparisons throughout; the lower-scoring example wrote about each text separately and added unsupported comparisons at the end.
 
 ## Retrieval questions: Q1, Q2, Q4 and Q5
 
 Pearson repeatedly warns candidates to use the question’s stated line references and the correct text. Give the exact kind of information requested, with enough detail to make the point identifiable, but do not write several alternatives for a one-mark item or copy a large passage. In two-mark retrieval, give two distinct, relevant points.
 
-## Verified Section A score references: June 2025 P1R
+## Official Section A candidate-script score locators: June 2024–June 2025
 
-The following scores and examiner judgements are reported by Pearson. **The exact candidate-response wording is not transcribed here:** the response pages are image/scanned script pages, and text extraction introduces substantial OCR errors. The score, level and report-page locator are preserved; do not “repair” OCR into a purported exact script. Consult the linked original report for the facsimile response.
+**Twenty-four locator-only records** are now indexed: six each from June 2024 P1, June 2024 P1R, June 2025 P1 and June 2025 P1R, covering Q3, Q6 and Q7 with a higher- and lower-scoring example for each question. They are authentic Pearson-reproduced responses with published scores/levels and printed judgement-page pins, but **none is an exact candidate transcript** in this repository. The Jina/official PDF text routes were used to locate page markers and examiner judgements; scanned handwriting was not reconstructed. The canonical per-script table, exact report links and evidence notes are in `Source_Notes/Official_Pearson_Exemplar_Index.md`; the workbook’s “Official script records” sheet contains the same locators.
 
-| Question | Published score | Printed report page with examiner judgement | Evidence status |
-|---|---:|---:|---|
-| Q3, writer’s relationship with Hassan | 10/10, Level 5 | 9 | Verified full-mark candidate response is reproduced immediately before the judgement; exact script transcription not yet visually verified. |
-| Q6, writer’s friendship with Claudia | 10/10, Level 5 | 19 | Verified full-mark candidate response is reproduced in the report; exact script transcription not yet visually verified. |
-| Q7, comparison of the friendships | 14/15, Level 5 | 30 | Verified near-full candidate response; **not** full marks. |
-| Q7, comparison of the friendships | 5/15, Level 2 | 34 | Official lower-scoring comparator; Pearson says references were virtually absent and comparisons were obvious/undeveloped. |
+Notable score anchors include four full-mark locator-only examples: June 2024 P1 Q6 (10/10, Level 5); June 2024 P1R Q3 (10/10, Level 5); June 2025 P1R Q3 and Q6 (each 10/10, Level 5). Near-full scores remain explicitly non-full: June 2024 P1 Q7 (13/15), June 2024 P1R Q6 (9/10), June 2025 P1 Q3/Q6 (each 9/10), June 2025 P1 Q7 (13/15), and June 2025 P1R Q7 (14/15). Lower-scoring scripts are retained with their exact published marks and levels. The November 2024 P1 report contains Section A examiner commentary but no reproduced Q3/Q6/Q7 candidate script was located.
 
-The Q3/Q6 and Q7 score references are **not equivalent to holding an exact transcript**. They are locator records only until the scan pages can be checked visually and transcribed with fidelity. Do not label a paraphrase or OCR-corrected reconstruction as a verified script.
+These locator records are separate from the fourteen June 2023 responses/excerpts that were visually transcribed against Pearson facsimiles. The workbook therefore indexes 38 official candidate-response records (14 transcribed/excerpted + 24 locator-only); none of these counts changes the constructed answer-set coverage of **21/253**. Do not treat any locator as a transcript or infer candidate wording from OCR.
 
 ## Working rule for the learner
 
@@ -82,9 +81,9 @@ Pearson’s [Summer 2026 release notice](https://qualifications.pearson.com/en/n
 
 ## Open work in the next batch
 
-1. Visually verify the June 2025 P1R scanned script pages before transcribing any exact candidate wording.
-2. Continue the full-report text-route pass for the June 2025 reports if Section B/C coverage is needed: P1 chunks 3–7 remain unread; P1R chunks 3–6 remain unread. The Section A tranche in chunks 0–2 has been consulted.
-3. Extract further Section A candidate scripts and score-page pins from June 2024, November 2024 and June 2025 P1; record unavailable/uncertain items rather than substituting models.
-4. If an official June 2026 report can be obtained through the user’s school/centre, inspect it directly; otherwise log the access barrier and continue with verified public series.
-5. Cross-index each exact exemplar to the matching QP, source text, mark scheme and examiner feedback.
-6. Build constructed targets only for gaps, clearly separated from verified candidate scripts and official mark-scheme worked answers.
+1. Visually verify the 2024–2025 scan pages before transcribing any exact candidate wording. The current tools exposed report text/page markers, not facsimiles; keep all 24 recent records locator-only.
+2. The Section A locator pass is now complete for June 2024 P1/P1R, November 2024 P1 and June 2025 P1/P1R. Do not replace these real-response gaps with constructed models until the official script pages have been exhausted and, where possible, visually checked.
+3. Continue full-report Sections B/C research if those answer-bank areas are next in scope. June 2025 P1 chunks 3–7 and P1R chunks 3–6 remain unread in the text route; this is outside the completed Section A pass.
+4. If an official June 2026 report can be obtained through the user’s school/centre, inspect it directly; otherwise preserve the access barrier and continue with verified public series.
+5. Cross-index each candidate example used for analysis or quotation to its exact QP prompt, source text, matching mark scheme and examiner-feedback page; do not infer the question wording from a report summary.
+6. Build constructed targets only after authentic script access has been exhausted for the relevant gaps, and keep them clearly separate from locator records and official mark-scheme worked answers.

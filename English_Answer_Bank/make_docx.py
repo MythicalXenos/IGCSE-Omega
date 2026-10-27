@@ -118,7 +118,7 @@ def main():
         p=doc.add_paragraph()
         p.add_run(txt)
         # Make source labels easy to spot.
-        if txt.startswith('[VERIFIED CANDIDATE EXEMPLAR]') or txt.startswith('[OFFICIAL MARK-SCHEME WORKED ANSWER]') or txt.startswith('[CONSTRUCTED GRADE 9 TARGET]') or txt.startswith('OFFICIAL') or txt.startswith('CONSTRUCTED') or txt.startswith('Question type:'):
+        if txt.startswith('[VERIFIED CANDIDATE EXEMPLAR]') or txt.startswith('[OFFICIAL CANDIDATE SCRIPT LOCATOR]') or txt.startswith('[OFFICIAL MARK-SCHEME WORKED ANSWER]') or txt.startswith('[CONSTRUCTED GRADE 9 TARGET]') or txt.startswith('OFFICIAL') or txt.startswith('CONSTRUCTED') or txt.startswith('Question type:'):
             p.paragraph_format.keep_with_next=True
     doc.core_properties.title='4EB1 Official Exemplar and Model Answer Guide'
     doc.core_properties.subject='Pearson Edexcel International GCSE English Language B question types and answer exemplars'
