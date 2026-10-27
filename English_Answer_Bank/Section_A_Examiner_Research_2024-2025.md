@@ -16,6 +16,8 @@
 
 The June 2025 reports exceed the 30-page web-PDF extraction limit. The full-report text route was used to expose printed-page markers; candidate handwriting was not transcribed. The Section A locator pass is complete for all five reports listed here, but this does **not** claim full-report harvesting of Sections B/C. The June 2024 and November 2024 findings are also Section A-scoped, not full-report transcriptions.
 
+Exact Q3/Q6/Q7 prompts from the June 2024 and June 2025 P1/P1R papers have now been checked against rendered local QP facsimiles, with their matching AO2/AO3 MS pages recorded in `Source_Notes/Official_Pearson_Exemplar_Index.md`. The prompt/source checks do not upgrade locator-only candidate responses to transcripts; no response wording was transcribed.
+
 ## Cross-report findings for Q3 and Q6 (10-mark analysis)
 
 ### What earns the analysis marks

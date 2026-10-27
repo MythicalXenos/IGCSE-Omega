@@ -110,17 +110,17 @@ A follow-up check on 2026-10-28 examined Pearson’s [official 4EB1 course-mater
 - [June 2019 P1 examiner report, 4EB1_01_1906_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4EB1_01_pef_20190822.pdf) — eleven locator-only examples across Q3/Q6/Q7/Q8/Q9/Q10/Q11; exact prompts and matching local QP/MS checks are recorded above. The extracted report text was used only for score/judgement-page pins, not candidate transcription.
 - [June 2022 P1 examiner report, 4EB1_01_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf) — eleven locator-only examples across Q3/Q6/Q7/Q8/Q9/Q10/Q11. Exact prompts and matching local QP/MS checks are recorded below; Jina’s text route was used to locate scores and printed judgements only.
 - [June 2022 P1R examiner report, 4EB1_01R_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01r-pef-20220825.pdf) — eleven locator-only examples across Q3/Q6/Q7/Q8/Q9/Q10/Q11. Exact prompts and matching local QP/MS checks are recorded below; candidate wording is not transcribed from OCR.
-- [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven candidate-script score/AO locators, with exact Q8–Q11 prompts checked against the local QP.
-- [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — R-variant Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven score/AO locators, no script wording transcribed.
+- [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven candidate-script score/AO locators. Exact Q3/Q6/Q7 and Q8–Q11 prompts are checked against the local QP below.
+- [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — R-variant Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven score/AO locators. Exact Q3/Q6/Q7 and Q8–Q11 prompts are checked against the local QP below; no script wording transcribed.
 - [Official 4EB1 sample assessment materials](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Specification%20and%20sample%20assessments/00125_International_GCSE_English_Language_%20B_2016-Sep_issue_2.pdf) — specimen QP/MS, not a live-past-paper candidate script.
 - [November 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) — narrative feedback across Q1–Q11; no reproduced candidate script/score page located in the reviewed full report text route.
-- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators; text route used only to locate printed pages and judgments.
-- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators, including full, near-full and lower-scoring samples. No exact candidate wording is transcribed; OCR is not used as a transcript. See locator tables below.
+- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators; exact Q3/Q6/Q7 and Q8–Q11 prompts checked against the local QP. The report text route is used only to locate printed pages and judgments.
+- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators, including full, near-full and lower-scoring samples. Exact Q3/Q6/Q7 and Q8–Q11 prompts are checked against the local QP below. No exact candidate wording is transcribed; OCR is not used as a transcript.
 - [Pearson specification update (4 August 2025)](https://qualifications.pearson.com/en/news-policy/qualifications/international-gcses/english/specification-update-international-gcse-english-language-b-4eb1-for-first-teaching-september-2025.html) and [official writing-form guidance](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Teaching%20and%20learning%20materials/pearson-int-gcse-english-writing-guidance4eb1pf2.pdf) — Q8 text types are narrowed to four from November 2025 onward.
 
 ### June 2022–2025 Section A: official candidate-script locators (not transcriptions)
 
-These records establish that Pearson reproduced a candidate response and published its score/level. The page cited is the **printed report page carrying the examiner judgement**, not a PDF file-page index. Jina’s report text route is used only to locate page markers and judgement text, never as candidate-response wording. Candidate response page ranges are omitted unless independently pinned. **No 2022 or 2024–2025 candidate wording has been transcribed or visually verified in these locator batches.** Consult the linked official Pearson PDF before using a script; do not reconstruct it from OCR. Task descriptions in the 2024–2025 tables remain examiner-report summaries, not verbatim QP quotations.
+These records establish that Pearson reproduced a candidate response and published its score/level. The page cited is the **printed report page carrying the examiner judgement**, not a PDF file-page index. Jina’s report text route is used only to locate page markers and judgement text, never as candidate-response wording. Candidate response page ranges are omitted unless independently pinned. **No 2022 or 2024–2025 candidate wording has been transcribed or visually verified in these locator batches.** Consult the linked official Pearson PDF before using a script; do not reconstruct it from OCR. The concise task labels in the 2024–2025 locator tables remain examiner-report summaries; separate verbatim Q3/Q6/Q7 QP prompts and matching MS page references are recorded above.
 
 #### June 2022 P1 — [official examiner report, publication code 4EB1_01_2206_ER](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf)
 
@@ -205,6 +205,50 @@ Local sources: [P1R QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/M
 | 6 | Writer’s friendship with Claudia (lower-scoring sample) | 5/10, Level 3 | 23 | Lower-score calibration; wording not transcribed. |
 | 7 | Compare the writers’ ideas and perspectives about friendship | 14/15, Level 5 | 30 | Near-full, **not** full marks; balanced comparisons throughout. |
 | 7 | Compare the writers’ ideas and perspectives about friendship (lower-scoring sample) | 5/15, Level 2 | 34 | Lower-score calibration; Pearson notes very limited references and undeveloped comparisons. |
+
+### Section A Q3/Q6/Q7: exact QP prompts and matching MS checks (June 2024–June 2025)
+
+The twelve prompts below were checked against the rendered facsimiles of the matching local QPs (printed pp. 3, 7 and 10); the source-booklet descriptions on QP pp. 2 and 6 were also checked. Each local QP includes its Source Booklet; no passage wording is quoted or analysed in this prompt-verification batch. Q3 and Q6 are AO2 analysis questions (10 marks each); Q7 is AO3 comparison (15 marks). The indicative-content pages below are MS guidance, not candidate answers; Q7 MSs state “Reward all valid points.”
+
+#### June 2024 P1 — [local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2024/4EB1_English_Language_B_May-June_2024_P1_QP.pdf) · [matching MS](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2024/4EB1_English_Language_B_May-June_2024_P1_MS.pdf)
+
+QP source descriptions: Text One is adapted from the article *7 Ways In Which Youth Can Protect The Environment*; Text Two is adapted from a section of *The Climate Book*.
+
+- **Q3 (QP p. 3; Text One):** “Explain how the writer presents her ideas about how young people can protect the environment. You should support your answer with close reference to the passage, including brief quotations.”
+- **Q6 (QP p. 7; Text Two):** “How does the writer present her ideas about climate change? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q7 (QP p. 10; both texts):** QP instruction: “Refer to BOTH Text One and Text Two to answer the following question.” The numbered task then reads: “Compare how the writers of Text One and Text Two present their ideas and perspectives about climate change. Support your answer with examples from both texts.”
+
+**Matching MS:** Q3 AO2, indicative pp. 5–6 / level grid p. 6; Q6 AO2, indicative pp. 8–9 / grid p. 9; Q7 AO3, indicative pp. 10–11 / grid p. 12.
+
+#### June 2024 P1R — [local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2024/4EB1_English_Language_B_May-June_2024_P1R_QP.pdf) · [matching MS](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2024/4EB1_English_Language_B_May-June_2024_P1R_MS.pdf)
+
+QP source descriptions: Text One is adapted from the article *My Goose, Willy*; Text Two is adapted from the article *Rescue To Recovery: Raising an Orphan Elephant*.
+
+- **Q3 (QP p. 3; Text One):** “How does the writer present his experiences of looking after Willy, the goose? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q6 (QP p. 7; Text Two):** “How does the writer present the experiences of looking after orphaned elephants? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q7 (QP p. 10; both texts):** QP instruction: “Refer to BOTH Text One and Text Two to answer the following question.” The numbered task then reads: “Compare how the writers present their ideas and experiences of looking after orphaned geese and elephants. Support your answer with examples from both texts.”
+
+**Matching MS:** Q3 AO2, indicative pp. 5–6 / level grid p. 7; Q6 AO2, indicative pp. 9–10 / grid p. 10; Q7 AO3, indicative pp. 11–12 / grid p. 12.
+
+#### June 2025 P1 — [local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1_QP.pdf) · [matching MS](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1_MS.pdf)
+
+QP source descriptions: Text One is adapted from the novel *Salmon Fishing in the Yemen*; Text Two is adapted from the travel book *Notes from a Small Island*.
+
+- **Q3 (QP p. 3; Text One):** “Explain how the narrator presents his experiences of travelling in the Yemen. You should support your answer with close reference to the passage, including brief quotations.”
+- **Q6 (QP p. 7; Text Two):** “Explain how the writer describes his journey along the south coast. You should support your answer with close reference to the passage, including brief quotations.”
+- **Q7 (QP p. 10; both texts):** QP instruction: “Refer to BOTH Text One and Text Two to answer the following question.” The numbered task then reads: “Compare how the writers of Text One and Text Two present their ideas and perspectives about visiting new places. Support your answer with examples from both texts.”
+
+**Matching MS:** Q3 AO2, indicative pp. 6–8 / level grid p. 9; Q6 AO2, indicative pp. 11–12 / grid p. 13; Q7 AO3, indicative pp. 14–15 / grid p. 16.
+
+#### June 2025 P1R — [local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1R_QP.pdf) · [matching MS](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1R_MS.pdf)
+
+QP source descriptions: Text One is adapted from the novel *The Kite Runner*; Text Two is adapted from the article *Lonely in Los Angeles, I made a remarkable friendship with my older neighbour*.
+
+- **Q3 (QP p. 3; Text One):** “How does the narrator present his relationship with Hassan? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q6 (QP p. 7; Text Two):** “How does the writer present her friendship with Claudia? You should support your answer with close reference to the passage, including brief quotations.”
+- **Q7 (QP p. 10; both texts):** QP instruction: “Refer to BOTH Text One and Text Two to answer the following question.” The numbered task then reads: “Compare how the writers of Text One and Text Two present their ideas and perspectives on friendship. Support your answer with examples from both texts.”
+
+**Matching MS:** Q3 AO2, indicative pp. 6–7 / level grid p. 8; Q6 AO2, indicative pp. 10–11 / grid p. 12; Q7 AO3, indicative pp. 13–14 / grid p. 15.
 
 ## Section B Q8: candidate-script score/AO locators (not transcripts)
 
