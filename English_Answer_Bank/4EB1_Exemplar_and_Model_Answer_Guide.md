@@ -1,6 +1,6 @@
 # English Language B 4EB1: question patterns, scored scripts and model answers
 
-**Built 12 October 2026 from the Paperlords archive, Pearson mark schemes and Pearson examiner reports; locator index updated 28 October 2026 with the June 2022 P1/P1R report batch.**
+**Built 12 October 2026 from the Paperlords archive, Pearson mark schemes and Pearson examiner reports; locator index updated 27 October 2026 with the June 2022 P1/P1R report batch.**
 
 This is the English answer bank, using the same compact approach as the Economics bank: one filterable workbook plus one guide; no duplicate past-paper PDFs. The bank’s scope is the full paper—Sections A, B and C—with question-specific work progressing section by section. Section A remains the immediate learner-practice priority, especially the two 10-mark language-analysis questions and the 15-mark comparison question.
 
