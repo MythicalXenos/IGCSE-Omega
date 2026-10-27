@@ -25,8 +25,8 @@ A score/page locator, a selected model in the guide, or a question inventory row
 | Complete constructed answer-set entries | **21/253** | June 2023 P1 Q1–Q7, June 2023 P1R Q1–Q7 and November 2023 P1 Q1–Q7. |
 | Entries still needing a complete answer set | **232/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty and incomplete reproductions are flagged. |
-| Authentic-response score/page locators, not transcripts | **66** | 36 Section A Q3/Q6/Q7 locators, twelve Section B Q8 locators and eighteen Section C Q9–Q11 locators from June 2022/2024/2025 P1/P1R. |
-| Indexed authentic-response records | **80** | 14 checked transcripts/excerpts + 66 locator-only records; separate from the 21/253 answer-set count. |
+| Authentic-response score/page locators, not transcripts | **77** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 21 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
+| Indexed authentic-response records | **91** | 14 checked transcripts/excerpts + 77 locator-only records; separate from the 21/253 answer-set count. |
 
 **Coverage calculation:** 21 complete ÷ 253 total = **8.3%**; **232 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
@@ -68,6 +68,9 @@ The governing priority is **real, scored Pearson responses first; complete const
 ### Completed and verified
 
 - Fourteen June 2023 P1/P1R authentic responses/excerpts are visually checked against Pearson reproductions; the file preserves exact published scores, printed report/script pages, uncertainty, edits and truncation.
+- June 2019 P1 now contributes **11 locator-only records** (six Section A Q3/Q6/Q7, two Q8, and three Section C Q9–Q11). All exact QP prompts and matching local MS criteria/page references were checked; the official report text route supports the published marks and judgement-page pins only. Candidate-script page ranges are not pinned and no wording is transcribed.
+- The June 2019 P1R report was reviewed in all four text chunks and yielded no score-bearing script locator. The extraction’s publication-code line omits “R” despite the P1R URL/title; this discrepancy remains unresolved pending facsimile verification.
+- January 2020 P1/P1R, the combined November 2020 report, November 2021 P1 and January 2022 P1/P1R full text routes were reviewed; none yielded a score-bearing candidate-script locator. The official June 2021 P1 report was not verified; see the source index for this gap.
 - June 2022 P1 and P1R now contribute **22 locator-only records**: six Section A Q3/Q6/Q7 examples, two Q8 examples and three Section C Q9–Q11 examples per paper. Exact QP prompts and matching local MS criteria/pages were checked; the Pearson report text route supplies judgement-page pins only, not candidate wording.
 - The 2024–2025 Section A locator pass records 24 Q3/Q6/Q7 examples from June 2024 P1/P1R and June 2025 P1/P1R.
 - Eight additional Q8 score/AO locators are recorded for those four June papers. Exact Q8 prompts were checked against the matching local QPs (printed p. 15). The score and AO breakdowns are in `Source_Notes/Official_Pearson_Exemplar_Index.md` and the guide.
@@ -79,9 +82,9 @@ The governing priority is **real, scored Pearson responses first; complete const
 
 ### Still to do
 
-1. Continue Pearson report research across the remaining earlier official reports, beginning with January 2022 and other unreviewed 2019–2021 reports where available. Search all sections for Q1–Q11 exemplars and record the exact paper/task, published score/level, printed judgement page and candidate-script pages only where established.
-2. Visually inspect report pages before transcribing any 2022 or 2024–2025 candidate wording. The 66 June 2022–2025 records remain locators only; OCR is not a transcript and must not be silently repaired.
-3. Review the remaining report chunks noted in `Section_A_Examiner_Research_2024-2025.md`; the June 2024 P1R chunk 4 targeted check is complete, while the outstanding later report chunks remain listed there. That file is a Section A research record; the answer-bank research scope covers the whole paper.
+1. Pursue facsimile access and candidate-page verification for the **eleven June 2019 P1 locators** first where possible; candidate-script pages remain unpinned. Continue searching remaining official report sources across 2019–2021, with the June 2021 report an explicit unresolved source gap. Do not repeat completed full-text checks unless a new route/facsimile can add evidence.
+2. Visually inspect report pages before transcribing any locator-only candidate wording. The **77 locator-only records** (June 2019 P1 and June 2022/2024/2025 P1/P1R) preserve scores and printed judgement-page pins but are not transcripts; OCR is not a transcript and must not be silently repaired.
+3. Review the remaining report chunks noted in `Section_A_Examiner_Research_2024-2025.md`; the June 2024 P1R chunk 4 targeted check is complete, while outstanding later report chunks remain listed there. That file is a Section A research record; the answer-bank research scope covers the whole paper.
 4. Recheck June 2026 official report availability through Pearson/registered-centre access if possible. No direct official 4EB1 June 2026 report has yet been verified in this checkout; do not infer filenames or use third-party copies as official.
 5. Preserve negative findings narrowly: a general examiner comment is not a candidate script; an inaccessible facsimile is not a checked transcript; and absence from a reviewed text route should not be inflated into a claim about material outside that route.
 

@@ -149,7 +149,7 @@ Nothing dramatic happens on this walk. That is why I like it: for a little while
 
 ## Official candidate-response evidence
 
-This table separates exact-script evidence from locator-only evidence. **[VERIFIED CANDIDATE EXEMPLAR]** is reserved for the June 2023 responses/excerpts checked against Pearson facsimiles and transcribed in `Verified_Candidate_Responses/June_2023_Section_A.md`; that file preserves uncertainty and incomplete report reproductions. **[OFFICIAL CANDIDATE SCRIPT LOCATOR]** means Pearson reproduces an authentic response and publishes the score/level, but its wording has not been transcribed or visually checked in this batch. For locator-only entries, the cited page is the printed examiner-judgement page; do not infer exact candidate wording from OCR or page adjacency. “Full marks” is used only when every mark available was awarded. As of 28 October 2026, this index contains **80 official-response records: 14 facsimile-checked June 2023 transcriptions/excerpts + 66 locator-only records from June 2022/2024/2025**. These counts are separate from the **21/253** complete constructed-answer sets. The constructed models above are separate and are **not** candidates’ scripts.
+This table separates exact-script evidence from locator-only evidence. **[VERIFIED CANDIDATE EXEMPLAR]** is reserved for the June 2023 responses/excerpts checked against Pearson facsimiles and transcribed in `Verified_Candidate_Responses/June_2023_Section_A.md`; that file preserves uncertainty and incomplete report reproductions. **[OFFICIAL CANDIDATE SCRIPT LOCATOR]** means Pearson reproduces an authentic response and publishes the score/level, but its wording has not been transcribed or visually checked in this batch. For locator-only entries, the cited page is the printed examiner-judgement page; do not infer exact candidate wording from OCR or page adjacency. “Full marks” is used only when every mark available was awarded. As of 28 October 2026, this index contains **91 official-response records: 14 facsimile-checked June 2023 transcriptions/excerpts + 77 locator-only records** (eleven June 2019 P1 plus 66 from June 2022/2024/2025). June 2019 candidate-script page ranges are not pinned; no locator-only wording is transcribed. These counts are separate from the **21/253** complete constructed-answer sets. The constructed models above are separate and are **not** candidates’ scripts.
 
 ### Facsimile-checked June 2023 responses/excerpts
 
@@ -169,6 +169,24 @@ This table separates exact-script evidence from locator-only evidence. **[VERIFI
 | June 2023 P1R Q9, success and money discussion | 17/30 (AO4 11/20; AO5 6/10) | Printed p.44; script pp.40–43 | A scored writing example for calibration, not a full-mark target. | [VERIFIED CANDIDATE EXEMPLAR] — facsimile-checked transcription/excerpt; lower score retained. |
 | June 2023 P1R Q10, “The Day Everything Changed” | 30/30 (AO4 20/20; AO5 10/10) | Printed p.50; script pp.47–49 (p.46 is commentary) | Full-mark narrative; controlled point of view, structure and time shifts. | [VERIFIED CANDIDATE EXEMPLAR] — line-by-line facsimile-checked transcription; revisions/uncertainty flagged. |
 | June 2023 P1R Q11, role-model description | 26/30 (AO4 17/20, Level 5; AO5 9/10, Level 5) | Printed p.56; script pp.53–55 | Strong descriptive control and detail, not full marks. | [VERIFIED CANDIDATE EXEMPLAR] — facsimile-checked transcription; revisions/uncertain readings flagged. |
+
+### June 2019 P1: official score/page locators (not transcripts)
+
+The exact Q3/Q6/Q7/Q8/Q9/Q10/Q11 prompts were checked against the local June 2019 P1 QP, and the matching MS criteria/page map were checked separately. The official Pearson report’s printed judgement pages are pinned below; **candidate-script page ranges have not been separately established**. No candidate wording is transcribed. For verbatim prompts, source-text page locations, and the question-by-question MS requirements, see the dedicated June 2019 section of `Source_Notes/Official_Pearson_Exemplar_Index.md`.
+
+| June 2019 P1 question and task | Published score / level | Printed judgement page | Evidence label / transcript status |
+|---|---:|---:|---|
+| Q3, Greig City Academy sailing students’ achievements | 9/10, Level 5 | p.7 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; script page range and wording not verified. |
+| Q3, lower-scoring sample | 5/10, Level 3 | p.9 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; script page range and wording not verified. |
+| Q6, persuading readers to try after-study activities | 6/10, Level 3 | p.15 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — score retained; script page range and wording not verified. |
+| Q6, lower-scoring sample | 3/10, Level 2 | p.17 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; script page range and wording not verified. |
+| Q7, compare perspectives about after-study activities | 15/15, Level 5 | p.21 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full marks; script page range and wording not verified. |
+| Q7, lower-scoring comparison | 4/15, Level 2 | p.23 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; script page range and wording not verified. |
+| Q8, letter to local newspaper about more after-study activities | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.29 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full marks; AO5 is Level 4 at 8/8; script page range and wording not verified. |
+| Q8, lower-scoring letter sample | AO1 5/10 L3 + AO4 6/12 L3 + AO5 4/8 L2 = 15/30 | p.32 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — score/AO levels retained; script page range and wording not verified. |
+| Q9, “You have to work hard to get what you want” | AO4 12/20 L3 + AO5 5/10 L3 = 17/30 | p.36 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — published AO marks/levels retained; not full marks. |
+| Q10, story entitled “The Prize” | AO4 20/20 L5 + AO5 10/10 L5 = 30/30 | p.43 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full marks; script page range and wording not verified. |
+| Q11, describe a time when you learnt something new | AO4 15/20 L4 + AO5 8/10 L4 = 23/30 | p.48 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — published AO marks/levels retained; not full marks. |
 
 ### Official score/page locators from June 2022–June 2025 (not transcripts)
 
@@ -277,6 +295,8 @@ Official Pearson copies: [June 2023 P1 report](https://qualifications.pearson.co
 
 ## Source and storage policy
 
-The answer-bank folder stores the workbook, this guide and its DOCX copy, rebuild scripts, and a compact source index; it does **not** duplicate PDFs. The searchable text index and 48 individual 4EB1 PDFs (23 QPs, 23 MSs and two June 2023 ERs) are present in `Paperlords_Archive/`; the full-collection ZIP is not. The workbook retains archive-relative QP/MS paths. Use local QPs/MSs and the June 2023 ER scans for page-image verification; June 2022 and June 2024–2025 examiner reports are linked official Pearson sources, not local files.
+The answer-bank folder stores the workbook, this guide and its DOCX copy, rebuild scripts, and a compact source index; it does **not** duplicate PDFs. The searchable text index and 48 individual 4EB1 PDFs (23 QPs, 23 MSs and two June 2023 ERs) are present in `Paperlords_Archive/`; the full-collection ZIP is not. The workbook retains archive-relative QP/MS paths. Use local QPs/MSs and June 2023 ER scans for page-image verification; the linked June 2019, January 2020, November 2020, November 2021, January 2022, June 2022 and June 2024–2025 examiner reports are official Pearson sources, not local files.
+
+The reviewed text routes for June 2019 P1R, January 2020 P1/P1R, November 2020 combined P1/P1R, November 2021 P1 and January 2022 P1/P1R yielded no score-bearing script locators. The June 2019 P1R extracted publication-code line omits “R” despite the P1R PDF URL/title; do not normalize it without facsimile verification. No official June 2021 P1 report was verified. Full retrieval/source details and page counts are in `Source_Notes/Official_Pearson_Exemplar_Index.md`.
 
 The official candidate examples are valuable calibration, not a promise that the same wording is required. Mark schemes permit valid alternatives. The constructed models use the exact June 2023 past-paper tasks and real source-text references where relevant, but have not been independently marked and are not labelled “perfect”.
