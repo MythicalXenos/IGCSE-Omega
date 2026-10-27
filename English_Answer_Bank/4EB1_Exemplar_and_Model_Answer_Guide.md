@@ -214,6 +214,36 @@ Exact QP prompts and bullet points are recorded with page references in `Source_
 | June 2025 P1R, talk about the different friendships people have | AO1 10/10 L5 + AO4 12/12 L5 + AO5 8/8 L4 = 30/30 | p.42 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
 | June 2025 P1R, lower-scoring friendships talk | AO1 6/10 L3 + AO4 6/12 L3 + AO5 4/8 L2 = 16/30 | p.45 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; not transcribed. |
 
+### Section C Q9: official score/AO locators (not transcripts)
+
+Exact Q9 prompts are recorded from each local QP (printed p. 21) in `Source_Notes/Official_Pearson_Exemplar_Index.md`. No 2024–2025 candidate wording is transcribed; OCR is locator evidence only.
+
+| Session and Q9 task | Published Pearson score and AO levels | Printed judgement page | Evidence label / transcript status |
+|---|---|---|---|
+| June 2024 P1, prefer working in a group rather than alone | AO4 16/20 L4 + AO5 8/10 L4 = 24/30 | p.49 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; transcript not checked. |
+| June 2024 P1R, time and money spent caring for animals | AO4 10/20 L3 + AO5 5/10 L3 = 15/30 | p.48 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; transcript not checked. |
+| June 2025 P1, new opportunities and new challenges | AO4 17/20 L5 + AO5 9/10 L5 = 26/30 | p.45 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks; transcript not checked. |
+| June 2025 P1R, celebrity/influencer interest versus friends and family | AO4 12/20 L3 + AO5 6/10 L3 = 18/30 | p.50 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained; transcript not checked. |
+
+The November 2024 P1 report contains Q9 commentary but no reproduced candidate script/score page was located in the reviewed text route; it contributes no Q9 locator.
+
+### Section C Q10–Q11: official score/AO locators (not transcripts)
+
+Exact Q10/Q11 tasks were checked against the matching local QPs (printed p. 21); no recent candidate wording is transcribed.
+
+| Session, question and task | Published Pearson score and AO levels | Printed judgement page | Evidence label / transcript status |
+|---|---|---:|---|
+| June 2024 P1 Q10, story entitled “The Future” | AO4 18/20 L5 + AO5 9/10 L5 = 27/30 | p.56 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks. |
+| June 2024 P1 Q11, describe the untidiest place you know | AO4 12/20 L3 + AO5 5/10 L3 = 17/30 | p.62 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained. |
+| June 2024 P1R Q10, story entitled “Freedom” | AO4 18/20 L5 + AO5 9/10 L5 = 27/30 | p.53 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks. |
+| June 2024 P1R Q11, describe a person who is kind to others | AO4 14/20 L4 + AO5 8/10 L4 = 22/30 | p.60 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower than full marks. |
+| June 2025 P1 Q10, story entitled “The First Impression” | AO4 20/20 L5 + AO5 10/10 L5 = 30/30 | p.52 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — full-mark script, not transcribed. |
+| June 2025 P1 Q11, describe a beautiful place | AO4 12/20 L3 + AO5 6/10 L3 = 18/30 | p.58 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained. |
+| June 2025 P1R Q10, story entitled “An unexpected find” | AO4 18/20 L5 + AO5 10/10 L5 = 28/30 | p.57 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks. |
+| June 2025 P1R Q11, describe your best friend | AO4 13/20 L4 + AO5 7/10 L4 = 20/30 | p.62 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower than full marks. |
+
+The November 2024 P1 QP asks for a story entitled “The Reunion” (Q10) or a description of somewhere very busy (Q11). Its report text route contains general commentary but no reproduced Q10/Q11 script or score page; no locator is recorded.
+
 The 2023 reports are in the archive at:
 
 - `IGCSE/4EB1_English_Language_B/May-June_2023/4EB1_English_Language_B_May-June_2023_P1_ER.pdf`

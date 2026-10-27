@@ -53,12 +53,12 @@ These short quotations are anchors for locating the source, not substitute answe
 ## Additional official report references consulted
 
 - [June 2022 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/exam-materials/4eb1-01-pef-20220825.pdf) — includes full-mark candidate analysis examples, including a 10/10 Q6 response.
-- [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — Section A Q3/Q6/Q7 and Section B Q8 feedback; eight candidate-script score/AO locators, with exact Q8 prompt checked against the local QP.
-- [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — R-variant Section A Q3/Q6/Q7 and Section B Q8 feedback; eight score/AO locators, no script wording transcribed.
+- [June 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf) — Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven candidate-script score/AO locators, with exact Q8–Q11 prompts checked against the local QP.
+- [June 2024 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf) — R-variant Section A Q3/Q6/Q7 and Sections B/C Q8–Q11; eleven score/AO locators, no script wording transcribed.
 - [Official 4EB1 sample assessment materials](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Specification%20and%20sample%20assessments/00125_International_GCSE_English_Language_%20B_2016-Sep_issue_2.pdf) — specimen QP/MS, not a live-past-paper candidate script.
-- [November 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) — Section A and Q8 feedback; no reproduced Section A or Q8 script located in the report text route.
-- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — eight Q3/Q6/Q7/Q8 score/AO locators; text route used only to locate printed pages and judgments.
-- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — eight Q3/Q6/Q7/Q8 score/AO locators, including full, near-full and lower-scoring samples. No exact candidate wording is transcribed; OCR is not used as a transcript. See locator tables below.
+- [November 2024 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf) — narrative feedback across Q1–Q11; no reproduced candidate script/score page located in the reviewed full report text route.
+- [June 2025 P1 examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators; text route used only to locate printed pages and judgments.
+- [June 2025 P1R examiner report](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) — eleven Q3/Q6/Q7/Q8/Q9/Q10/Q11 score/AO locators, including full, near-full and lower-scoring samples. No exact candidate wording is transcribed; OCR is not used as a transcript. See locator tables below.
 - [Pearson specification update (4 August 2025)](https://qualifications.pearson.com/en/news-policy/qualifications/international-gcses/english/specification-update-international-gcse-english-language-b-4eb1-for-first-teaching-september-2025.html) and [official writing-form guidance](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20B/2016/Teaching%20and%20learning%20materials/pearson-int-gcse-english-writing-guidance4eb1pf2.pdf) — Q8 text types are narrowed to four from November 2025 onward.
 
 ### June 2024–2025 Section A: official candidate-script locators (not transcriptions)
@@ -155,7 +155,66 @@ The full report text route contains examiner commentary but no reproduced Q8 can
 | 8 | AO1 10/10 Level 5 + AO4 12/12 Level 5 + AO5 8/8 Level 4 = 30/30 | 42 | Full-mark script locator; no candidate wording transcribed. |
 | 8 | AO1 6/10 Level 3 + AO4 6/12 Level 3 + AO5 4/8 Level 2 = 16/30 | 45 | Lower-scoring script locator; lower marks and levels retained exactly. |
 
-**Transcript integrity and count:** the June 2024/2025 Section A plus Q8 records now total **32 locator-only entries** (24 for Q3/Q6/Q7 and eight Q8 locators, two each from June 2024/2025 P1/P1R). They are not transcripts; published scores and judgement pages are preserved, while OCR is not used as candidate wording. Together with fourteen separately facsimile-checked June 2023 transcriptions/excerpts, the workbook now indexes **46 official candidate-response records: 14 verified transcriptions/excerpts + 32 locator-only records**. This does not change the **21/253** constructed answer-set coverage.
+## Section C Q9: official candidate-script score locators (not transcripts)
+
+The exact Q9 prompts below were checked against the corresponding local QP on printed p. 21. Pearson’s printed judgement pages and AO marks are retained; response-page ranges are not established here. These are locator records only: no 2024–2025 candidate wording has been transcribed or visually checked, and OCR is not treated as a transcript.
+
+#### June 2024 P1 — [official examiner report, publication code 4EB1_01_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20240822.pdf)
+
+**Exact QP task (QP p. 21):** “‘I much prefer working in a group than on my own.’ To what extent do you agree with this statement?” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2024/4EB1_English_Language_B_May-June_2024_P1_QP.pdf)
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 9 | AO4 16/20 Level 4 + AO5 8/10 Level 4 = 24/30 | 49 | Strong, balanced discussion; near-full, **not** full marks. Candidate wording not transcribed. |
+
+#### June 2024 P1R — [official examiner report, publication code 4EB1_01R_2406_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20240822.pdf)
+
+**Exact QP task (QP p. 21):** “‘People spend too much time and money looking after animals.’ To what extent do you agree with this statement?” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May-June_2024/4EB1_English_Language_B_May-June_2024_P1R_QP.pdf)
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 9 | AO4 10/20 Level 3 + AO5 5/10 Level 3 = 15/30 | 48 | Lower-scoring response; Pearson notes limited control/development. Candidate wording not transcribed. |
+
+#### November 2024 P1 — [official examiner report, publication code 4EB1_01_2411_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250123.pdf)
+
+**Exact QP task (QP p. 21):** “‘The best things in life are free.’ Discuss.” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/November_2024/4EB1_English_Language_B_November_2024_P1_QP.pdf)
+
+The report text route contains Q9 examiner commentary but no reproduced Q9 candidate script or score/judgement page was located; no candidate-script record is created from general feedback.
+
+#### June 2025 P1 — [official examiner report, publication code 4EB1_01_2506_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01-pef-20250821.pdf)
+
+**Exact QP task (QP p. 21):** “‘New opportunities present new challenges.’ Discuss.” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1_QP.pdf)
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 9 | AO4 17/20 Level 5 + AO5 9/10 Level 5 = 26/30 | 45 | Strong, sustained argument; near-full, **not** full marks. Candidate wording not transcribed. |
+
+#### June 2025 P1R — [official examiner report, publication code 4EB1_01R_2506_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf)
+
+**Exact QP task (QP p. 21):** “‘People are more interested in celebrities and influencers than in their friends and family.’ To what extent do you agree with this statement?” [Local QP](../../Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1R_QP.pdf)
+
+| Q | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---:|---|
+| 9 | AO4 12/20 Level 3 + AO5 6/10 Level 3 = 18/30 | 50 | Lower-scoring response; development and persuasive control are less secure. Candidate wording not transcribed. |
+
+## Section C Q10–Q11: official candidate-script score/AO locators (not transcripts)
+
+The exact Q10 and Q11 prompts below were checked against each local QP on printed p. 21. Pearson’s printed judgement pages and published AO4/AO5 marks are retained; response-page ranges are not established here. These are locator records only: no 2024–2025 candidate wording has been transcribed or visually checked.
+
+| Session/paper | Q | Exact QP task (printed p. 21) | Published Pearson score and AO levels | Printed judgement page | Evidence note |
+|---|---:|---|---:|---:|---|
+| June 2024 P1 | 10 | Write a story (true or imaginary) entitled ‘The Future’. | AO4 18/20 Level 5 + AO5 9/10 Level 5 = 27/30 | 56 | Near-full, **not** full marks; report describes a crafted, controlled narrative. |
+| June 2024 P1 | 11 | Describe the untidiest place you know. | AO4 12/20 Level 3 + AO5 5/10 Level 3 = 17/30 | 62 | Lower-scoring sample; exact wording not transcribed. |
+| June 2024 P1R | 10 | Write a story (true or imaginary) entitled ‘Freedom’. | AO4 18/20 Level 5 + AO5 9/10 Level 5 = 27/30 | 53 | Near-full, **not** full marks; exact wording not transcribed. |
+| June 2024 P1R | 11 | Describe a person who is kind to others. | AO4 14/20 Level 4 + AO5 8/10 Level 4 = 22/30 | 60 | Lower than full marks; the report praises a convincing portrait. |
+| June 2025 P1 | 10 | Write a story (true or imaginary) entitled ‘The First Impression’. | AO4 20/20 Level 5 + AO5 10/10 Level 5 = 30/30 | 52 | Full-mark script locator; wording not transcribed. |
+| June 2025 P1 | 11 | Describe a beautiful place. | AO4 12/20 Level 3 + AO5 6/10 Level 3 = 18/30 | 58 | Lower-scoring sample; exact wording not transcribed. |
+| June 2025 P1R | 10 | Write a story (true or imaginary) entitled ‘An unexpected find’. | AO4 18/20 Level 5 + AO5 10/10 Level 5 = 28/30 | 57 | Near-full, **not** full marks; exact wording not transcribed. |
+| June 2025 P1R | 11 | Describe your best friend. | AO4 13/20 Level 4 + AO5 7/10 Level 4 = 20/30 | 62 | Lower than full marks; exact wording not transcribed. |
+
+The November 2024 P1 QP tasks are Q10, “Write a story (true or imaginary) entitled ‘The Reunion’,” and Q11, “Describe somewhere that you have been that was very busy.” The full report text route contains examiner commentary but no reproduced Q10/Q11 candidate script or score page; neither contributes a locator.
+
+**Transcript integrity and count:** the 2024/2025 locator records now total **44 locator-only entries** (24 Section A Q3/Q6/Q7, eight Section B Q8, four Section C Q9 and eight Section C Q10/Q11 locators). They are not transcripts; published marks/AO levels and judgement pages are preserved, while OCR is not used as candidate wording. Together with fourteen separately facsimile-checked June 2023 transcriptions/excerpts, the workbook now indexes **58 official candidate-response records: 14 verified transcriptions/excerpts + 44 locator-only records**. This does not change the **21/253** constructed answer-set coverage.
 
 ## Full-mark and construction boundaries
 
