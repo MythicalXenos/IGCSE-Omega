@@ -22,23 +22,23 @@ A score/page locator, a selected model in the guide, or a question inventory row
 |---|---:|---|
 | QP/MS pairs | **23/23** | Local paired papers in the archive; 4EB1 PDF storage is summarized in `README.md`. |
 | Question-option inventory | **253/253** | The bank’s complete inventory, not 253 completed answers. |
-| Complete constructed answer-set entries | **105/253** | Fifteen completed paper-specific Section A Q1–Q7 batches, including May/June 2019 P1 and P1R and the listed 2022–2026 batches. |
-| Entries still needing a complete answer set | **148/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
+| Complete constructed answer-set entries | **112/253** | Sixteen completed paper-specific Section A Q1–Q7 batches, including January 2020 P1 and the listed 2019/2022–2026 batches. |
+| Entries still needing a complete answer set | **141/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty and incomplete reproductions are flagged. |
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
-| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 105/253 answer-set count. |
+| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 112/253 answer-set count. |
 
-**Coverage calculation:** 105 complete ÷ 253 total = **41.5%**; **148 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 112 complete ÷ 253 total = **44.3%**; **141 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
-Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the fifteen finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
+Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the sixteen finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
 
 | Archived session | Paper | Entries complete | Complete questions | Still outstanding |
 |---|---|---:|---|---:|
 | May/June 2019 | P1 | **7/11** | Q1–Q7 | 4 |
 | May/June 2019 | P1R | **7/11** | Q1–Q7 | 4 |
-| January 2020 | P1 | 0/11 | — | 11 |
+| January 2020 | P1 | **7/11** | Q1–Q7 | 4 |
 | January 2020 | P1R | 0/11 | — | 11 |
 | May/June/November 2020 | P1 | 0/11 | — | 11 |
 | May/June/November 2020 | P1R | 0/11 | — | 11 |
@@ -59,7 +59,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q
 | November 2025 | P1 | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P1 (4EB1/01R) | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P2 (4EB1/01) | **7/11** | Q1–Q7 | 4 |
-| **Total** | **23 pairs** | **105/253** | **105 complete; 148 outstanding** | **148** |
+| **Total** | **23 pairs** | **112/253** | **112 complete; 141 outstanding** | **141** |
 
 ## Authentic-response research: current stage
 
@@ -67,6 +67,8 @@ The governing priority is **real, scored Pearson responses first; complete const
 
 ### Completed and verified
 
+- The June 2019 P1R Section A file completed a question-by-question content audit on 28 October 2026. The Q5/Q6/Q7 quotations and Q7 biography-versus-speech distinction were corrected against the exact QP/source; the Q3 accountability point is identified as a valid source-based extension rather than an MS-listed point. No candidate response was added. See `Answer_Sets/June_2019_P1R_Section_A.md`.
+- January 2020 P1 (cover 4EB1/01, barcode P59776A) Section A Q1–Q7 is complete (40 marks) in `Answer_Sets/January_2020_P1_Section_A.md`. The exact QP prompts/pages, both appended art texts and matching regular-P1 MS pages were visually checked. The official P1 report was re-reviewed in all four chunks returned by the 28 October fetch route; the official exemplar booklet and an unverified exact-question Scribd Q&A were screened. No verified score-bearing script or usable script-page locator was found. The unscored third-party answers are excluded as authentic evidence; all seven answer keys/models remain unscored. The 92 authentic-response records are unchanged.
 - Fourteen June 2023 P1/P1R authentic responses/excerpts are visually checked against Pearson reproductions; the file preserves exact published scores, printed report/script pages, uncertainty, edits and truncation.
 - May/June 2024 P1 and P1R Section A Q1–Q7 are complete constructed answer sets. The exact QP prompts, appended source-text quotations and matching MS pages were visually checked for both papers; retrieval alternatives and original AO2/AO3 worked answers are kept separate. Pearson’s Q3/Q6/Q7 score locators from the respective reports are calibration only, with no candidate wording or constructed-answer score claimed.
 - November 2024 P1 Section A Q1–Q7 is complete. The exact question pages, appended source texts and matching MS pages were rendered and visually checked; accepted retrieval alternatives and original AO2/AO3 worked answers are distinct. Pearson’s official report text route was reviewed in all five chunks but yielded no reproduced candidate wording or score-bearing exemplar, so no script locator or score is claimed for this batch.
@@ -109,7 +111,7 @@ Continue one fully sourced batch at a time, with section-by-section progress all
 - **Q8:** exact task, all required bullets, audience/form/register, matching MS guidance and a separately labelled constructed response. For November 2025 onward, track Pearson’s four current Issue 4 forms (article, peer speech/talk, website contribution, letter); older forms remain historical practice.
 - **Q9, Q10, Q11:** each option gets its own complete, QP/MS-specific answer set; never merge alternative prompts into a generic model.
 
-The fifteen batches cover Q1–Q7 for May/June 2019 P1 (cover 4EB1/01) and P1R (cover 4EB1/01R); May/June 2022 P1 and P1R (cover codes 4EB1/01 and 4EB1/01R); June 2023 P1 and P1R; November 2023 P1; May/June 2024 P1 and P1R; November 2024 P1; May 2025 P1 and P1R; November 2025 P1; and June 2026 P1 (cover 4EB1/01R) and P2 (cover 4EB1/01). The remaining 148 entries are not to be backfilled by generic answers or by counts of selected models. The May/June 2019 P1R (4EB1/01R) Section A batch is complete after the official report/facsimile search, exact QP/source check and matching Paper 01R MS verification. The next selected Section A batch is January 2020 P1 (4EB1/01); its official report text route has already been reviewed without a score-bearing script locator, but newly accessible facsimiles should be checked before constructing answers.
+The sixteen batches cover Q1–Q7 for May/June 2019 P1 (cover 4EB1/01) and P1R (cover 4EB1/01R), and January 2020 P1 (cover 4EB1/01); May/June 2022 P1 and P1R (cover codes 4EB1/01 and 4EB1/01R); June 2023 P1 and P1R; November 2023 P1; May/June 2024 P1 and P1R; November 2024 P1; May 2025 P1 and P1R; November 2025 P1; and June 2026 P1 (cover 4EB1/01R) and P2 (cover 4EB1/01). The remaining 141 entries are not to be backfilled by generic answers or by counts of selected models. The May/June 2019 P1R (4EB1/01R) Section A batch is complete after the official report/facsimile search, exact QP/source check and matching Paper 01R MS verification. The next selected Section A batch is January 2020 P1R (4EB1/01R); its official report text route has already been reviewed without a score-bearing script locator, so recheck for newly accessible facsimiles before drafting.
 
 ## Validation and update rule
 
