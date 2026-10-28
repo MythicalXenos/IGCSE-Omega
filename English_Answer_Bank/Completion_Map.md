@@ -22,13 +22,13 @@ A score/page locator, a selected model in the guide, or a question inventory row
 |---|---:|---|
 | QP/MS pairs | **23/23** | Local paired papers in the archive; 4EB1 PDF storage is summarized in `README.md`. |
 | Question-option inventory | **253/253** | The bank’s complete inventory, not 253 completed answers. |
-| Complete question-specific answer-set entries | **190/253** | All 161 Section A Q1–Q7 entries across the 23 indexed papers, plus June 2023 P1 Q8, P1R Q8, P1 Q9–Q11, P1R Q9, P1R Q10 and P1R Q11, each completed using an existing facsimile-checked authentic response, May/June 2019 P1 Q8, May/June 2019 P1R Q8, January 2020 P1 Q8, January 2020 P1R Q8 (the first article-form Q8) May/June/November 2020 P1 Q8 (the first spoken-form Q8) and May/June/November 2020 P1R Q8 (a website contribution) May/June 2021 P1 Q8 (a second talk, for which no examiner report exists) May/June 2022 P1 Q8 (a contribution about clear written communication) May/June 2022 P1R Q8 (a treasure-hunting talk) November 2021 P1 Q8 (a talk on changing your outlook) November 2023 P1 Q8 (a magazine article) May/June 2024 P1 Q8 (a letter to a friend about climate action) May/June 2024 P1R Q8 (a talk on orphaned animals), November 2024 P1 Q8 (a school-website article) and May/June 2025 P1 and P1R Q8 (a talk encouraging peers to visit new places, and a talk about different friendships), November 2025 P1 Q8 (a letter about communication and manners) the June 2026 P1 and P2 Q8 sets (a handwriting article and a smartphone talk), the June 2026 P1 Q9 Section C discursive response and the June 2026 P1 Q10 Section C story, completed as labelled constructed MS/ER-guided answers because no scored script is obtainable for any of them. June 2023 P1 and P1R are both complete at 11 of 11. |
-| Entries still needing a complete answer set | **63/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
+| Complete question-specific answer-set entries | **191/253** | All 161 Section A Q1–Q7 entries across the 23 indexed papers, plus June 2023 P1 Q8, P1R Q8, P1 Q9–Q11, P1R Q9, P1R Q10 and P1R Q11, each completed using an existing facsimile-checked authentic response, May/June 2019 P1 Q8, May/June 2019 P1R Q8, January 2020 P1 Q8, January 2020 P1R Q8 (the first article-form Q8) May/June/November 2020 P1 Q8 (the first spoken-form Q8) and May/June/November 2020 P1R Q8 (a website contribution) May/June 2021 P1 Q8 (a second talk, for which no examiner report exists) May/June 2022 P1 Q8 (a contribution about clear written communication) May/June 2022 P1R Q8 (a treasure-hunting talk) November 2021 P1 Q8 (a talk on changing your outlook) November 2023 P1 Q8 (a magazine article) May/June 2024 P1 Q8 (a letter to a friend about climate action) May/June 2024 P1R Q8 (a talk on orphaned animals), November 2024 P1 Q8 (a school-website article) and May/June 2025 P1 and P1R Q8 (a talk encouraging peers to visit new places, and a talk about different friendships), November 2025 P1 Q8 (a letter about communication and manners) the June 2026 P1 and P2 Q8 sets (a handwriting article and a smartphone talk), the June 2026 P1 Q9 Section C discursive response, Q10 story and Q11 description (completing that paper at 11 of 11), completed as labelled constructed MS/ER-guided answers because no scored script is obtainable for any of them. June 2023 P1 and P1R are both complete at 11 of 11. |
+| Entries still needing a complete answer set | **62/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty is flagged, and only the P1R Q6/Q7 reproductions remain incomplete excerpts. |
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
-| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 190/253 answer-set count. |
+| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 191/253 answer-set count. |
 
-**Coverage calculation:** 190 complete ÷ 253 total = **75.1%**; **63 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 191 complete ÷ 253 total = **75.5%**; **62 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
@@ -57,9 +57,9 @@ Each row below represents one QP/MS pair and 11 question-option entries. Section
 | May 2025 | P1 | **8/11** | Q1–Q8 | 3 |
 | May 2025 | P1R | **8/11** | Q1–Q8 | 3 |
 | November 2025 | P1 | **8/11** | Q1–Q8 | 3 |
-| June 2026 | P1 (4EB1/01R) | **10/11** | Q1–Q10 | 1 |
+| June 2026 | P1 (4EB1/01R) | **11/11** | Q1–Q11 — paper complete | 0 |
 | June 2026 | P2 (4EB1/01) | **8/11** | Q1–Q8 | 3 |
-| **Total** | **23 pairs** | **190/253** | **190 complete; 63 outstanding** | **63** |
+| **Total** | **23 pairs** | **191/253** | **191 complete; 62 outstanding** | **62** |
 
 ## Authentic-response research: current stage
 
