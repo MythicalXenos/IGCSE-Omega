@@ -305,36 +305,36 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 
 **Exact prompt (P1R QP, printed p. 21):** “Write a story (true or imaginary) entitled ‘The Day Everything Changed’.”
 
-**Authentic response locator:** examiner-report printed pp. 47–49. **Published judgement:** p. 50. **Locator correction:** printed p. 46 is examiner commentary, not the candidate script; the script begins on p. 47.
-**Pearson’s calibration:** 30/30 — AO4 20/20, Level 5; AO5 10/10, Level 5. Pearson praises the controlled structure, credible young-child viewpoint, clear reference to the title and time frames, and varied sentences.
+**Authentic response locator:** examiner-report printed pp. 47–49. **Published judgement:** p. 50. **Locator correction:** printed pp. 45–46 are examiner commentary (Q10 AO4 on p. 45, shared AO5 on pp. 45–46), not the candidate script; the script begins on p. 47.
+**Pearson’s calibration:** 30/30 — AO4 20/20, Level 5; AO5 10/10, Level 5. The published comment calls it “engaging, perceptive and well-crafted”, praises control of structure and tone, the credible young-child viewpoint, the framing through the title and time frames, and the varied sentence structures.
 
 ### Candidate-script transcription (Pearson reproduction reaches a complete ending)
 
-> [The opening on p. 47 is heavily revised. Legible fragments include “30th December, 2007,” “someone won the lottery that day,” “some obscure town,” “someone got married,” and “But … for Kris, that was the day … world … shifted.” In the last fragment, “came crashing down” appears struck through and “shifted” appears as a replacement. The first-line wording and the final status of several words are uncertain, so no continuous opening sentence is reconstructed.]
+> [The opening on p. 47 is heavily rewritten and no continuous first sentence can be read. Legible elements: an inserted “30th” and “December, 2007.”; “it would just [struck] a date, to many”; “Perhaps, in”; “someone won the lottery that day, in some obscure town, someone got married,”; and “But [struck] for Kris, that was the day [struck “they”] their world would [struck “come crashing down”] shifted.” The struck words cannot all be read, so no opening sentence is reconstructed.]
 >
-> The afternoon had started off fairly normal. [Crossed-out wording] Barney was on TV, talking about news, as Kris laid on her Mum. Well, the weird bump on Mum’s midsection. She had [crossed-out/revised wording] suspected Mum had eaten all her chocolate eggs, but Dad told her that there was a human in Mum. Hence why all of Kris’s [age unclear; appears to include “2”] year-old classmates [the sentence continues across the page break] thought Mum would eat them, and had been running away screaming at pickup for 5 months, up till 2 months ago, when Mum started to barely leave the house.
+> The [struck “day”] afternoon had started off fairly normal. [Struck: “She was”] Barney was on TV, talking about news, as Kris laid on [struck “her”] Mum. Well, the weird bump on her Mum’s midsection. She had [struck wording] suspected Mum had eaten all her chocolate eggs, but [overwritten] Dad told her that there was a human in [struck “Mum”] Mum. Hence why all of Kris’s 2[illegible mark] year old classmates [struck “thinking”] thought Mum would eat them, and [“had been running” inserted above struck “ran”] away screaming at pickup for 5 months, up till 2 months ago, when Mum started to barely leave the house.
 >
-> [“Thinking” is struck through before “thought”; the subject of “had been running away” is ambiguous in the handwriting, so no subject is supplied.]
+> Kris’s curious toddler eyes were trained on the purple dinosaur on screen, a smaller plush version being strangled by [“her” inserted above the line] chubby hands. In the other hand, the subject of asphyxiation was green — Dad had bought Baby Bop for the human inside Mum to coax her out, he had said. Kris was too busy playing dress-up as toddlers do, to try and make sense of it.
 >
-> Kris’s curious toddler eyes were trained on the purple dinosaur on screen, a smaller plush version being strangled by [“Kris’s” appears revised to “her”] chubby hands. In the other hand, the subject of asphyxiation was green — Dad had bought Baby Bop for the human inside Mum to coax her out, he had said. Kris was too busy playing dress-up as toddlers do, to try and make sense of it.
+> But suddenly, the peace (and Barney’s educational speech) was interrupted by Mum’s [struck word] shouts. Kris was swept up in a [“flurry” inserted above struck “whirlwind”] of panic and running adults as she was ushered to the car. Hadn’t they already attended church this morning? Whatever, she would prepare for this adventure with a nap.
 >
-> But suddenly, the peace (and Barney’s educational speech) was interrupted by Mum’s [unclear] shouts. Kris was swept up in a flurry of panic and running adults as she was ushered to the car. Hadn’t they already attended church this morning? Whatever, she would prepare for this adventure with a nap.
->
-> She [“opened” is struck through] awoke to the sterile [“smell of” is struck through] white walls of the hospital. She recognised them from her visit to Dr. Jen, from when she dislocated her arm. There were so many scary noises and people bustling down the corridor. She looked down to see herself being held by Gran’s [unclear; appears to read “wrinkly”] soft arms. Gran was asleep. Kris decided she would follow. “It’s ok,” she whispered to the purple and green dinosaurs burrowing into Gran’s chest.
+> She [struck “opened”] awakened to the sterile [struck “smell of”] white walls of the hospital. She recognised them from her visit to Dr. Jen, from when she dislocated her arm. There were so many scary noises and people bustling down the corridor. She looked down to see herself being held by Gran’s wrinkly, soft arms. Gran was asleep. Kris decided she would follow. “It’s ok,” she whispered to the purple and green dinosaurs burrowing into Gran’s chest.
 >
 > The next time she woke it was with a cry. It was already nighttime, and though she couldn’t read the clock, her little body knew it. But when Gran said, “You wanna see the baby?” She leaped down, dinosaur toys in tow. She knew what a baby was! Auntie Pat had one, and he was really cute. Of course she wanted to see the baby!
 >
 > “Oh, Kris, Kris, you’re here!” Mum’s voice filled the room as Kris stepped in.
 >
-> “This is the baby, sweetheart.” [Crossed-out wording after “sweetheart” omitted.] Kris waddled forward, prodding at the weird bundle on Mum’s chest. “Mum, whose baby?” she whispered.
+> “This is the baby, sweetheart.” [Struck: “Your sister, she’s Kate…”] Kris waddled forward, prodding at the weird bundle on Mum’s chest. “Mum, whose baby?” she [struck letters] whispered.
 >
-> “Mine, darling,” the woman answered. “This is your sister, Kate.”
+> “Mine, darling,” the woman answered. “This is your sister, Kate[last letter overwritten].”
 >
-> “Kris!” A shout pulled Kris out from her daze. “Come look at this dog video!” It was Kate shouting from their bedroom.
+> “Kris!” A shout pulled Kris out from her daze. “Come look at this dog video!”
 >
-> Smiling, Kris laid down the photograph — Kate in her arms, supported by Dad, as Kris sat on the couch of that ward. At the bottom in faded marker: 30th December, 2007. [The closing line is heavily revised; legible final wording includes “The day” and “everything had changed”, with intervening wording uncertain/crossed out.]
+> It was Kate, shouting from their bedroom.
+>
+> Smiling, Kris laid down the photograph — Kate in her arms, supported by Dad, as Kris sat on the couch of that ward. At the bottom, in faded marker: 30th December, 2007. [Heavily struck words] The day [struck “her world”] everything had changed.
 
-**Transcription note:** This is a complete Pearson reproduction, not an incomplete report excerpt. The transcription was checked line by line against printed pp. 47–49. Because p. 47 contains substantial revisions and the closing line on p. 49 is also heavily revised, legible fragments are preserved and unresolved wording is flagged rather than silently turned into polished prose.
+**Transcription note:** This is a complete Pearson reproduction, not an incomplete report excerpt: the script runs to the closing “everything had changed.” on p. 49 and the judgement follows on p. 50. It was re-checked line by line against rendered crops of printed pp. 47–49. Because the first paragraph and the final line are both heavily revised, legible fragments and struck words are marked rather than turned into polished prose. Points now resolved from the facsimile that an earlier pass had left open: “wrinkly, soft arms” is legible; “flurry” is inserted above the struck “whirlwind”; “awakened” (not “awoke”) follows the struck “opened”; the closing line is “The day [struck “her world”] everything had changed.” Still unresolved: the struck words in the opening paragraph, the mark after “2” in “2[?] year old classmates”, the struck word before “shouts”, and the overwritten final letter of “Kate”.
 
 ---
 
