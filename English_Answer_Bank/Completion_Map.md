@@ -22,17 +22,17 @@ A score/page locator, a selected model in the guide, or a question inventory row
 |---|---:|---|
 | QP/MS pairs | **23/23** | Local paired papers in the archive; 4EB1 PDF storage is summarized in `README.md`. |
 | Question-option inventory | **253/253** | The bank’s complete inventory, not 253 completed answers. |
-| Complete constructed answer-set entries | **56/253** | June 2023 P1 Q1–Q7, June 2023 P1R Q1–Q7, November 2023 P1 Q1–Q7, May/June 2024 P1 Q1–Q7, May/June 2024 P1R Q1–Q7, November 2024 P1 Q1–Q7, May 2025 P1 Q1–Q7 and May 2025 P1R Q1–Q7. |
-| Entries still needing a complete answer set | **197/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
+| Complete constructed answer-set entries | **63/253** | June 2023 P1 Q1–Q7, June 2023 P1R Q1–Q7, November 2023 P1 Q1–Q7, May/June 2024 P1 Q1–Q7, May/June 2024 P1R Q1–Q7, November 2024 P1 Q1–Q7, May 2025 P1 Q1–Q7, May 2025 P1R Q1–Q7 and November 2025 P1 Q1–Q7. |
+| Entries still needing a complete answer set | **190/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty and incomplete reproductions are flagged. |
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
-| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 56/253 answer-set count. |
+| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 63/253 answer-set count. |
 
-**Coverage calculation:** 56 complete ÷ 253 total = **22.1%**; **197 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 63 complete ÷ 253 total = **24.9%**; **190 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
-Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the eight finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
+Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the nine finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
 
 | Archived session | Paper | Entries complete | Complete questions | Still outstanding |
 |---|---|---:|---|---:|
@@ -56,10 +56,10 @@ Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q
 | November 2024 | P1 | **7/11** | Q1–Q7 | 4 |
 | May 2025 | P1 | **7/11** | Q1–Q7 | 4 |
 | May 2025 | P1R | **7/11** | Q1–Q7 | 4 |
-| November 2025 | P1 | 0/11 | — | 11 |
+| November 2025 | P1 | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P1 | 0/11 | — | 11 |
 | June 2026 | P2 | 0/11 | — | 11 |
-| **Total** | **23 pairs** | **56/253** | **56 complete; 197 outstanding** | **197** |
+| **Total** | **23 pairs** | **63/253** | **63 complete; 190 outstanding** | **190** |
 
 ## Authentic-response research: current stage
 
@@ -72,6 +72,7 @@ The governing priority is **real, scored Pearson responses first; complete const
 - November 2024 P1 Section A Q1–Q7 is complete. The exact question pages, appended source texts and matching MS pages were rendered and visually checked; accepted retrieval alternatives and original AO2/AO3 worked answers are distinct. Pearson’s official report text route was reviewed in all five chunks but yielded no reproduced candidate wording or score-bearing exemplar, so no script locator or score is claimed for this batch.
 - May 2025 P1 Section A Q1–Q7 is complete. Exact question prompts, the appended Text One/Two pages and MS printed pp. 5–16 were visually checked. Accepted Q1/Q2/Q4/Q5 retrieval points are recorded separately from original MS-based Q3/Q6/Q7 answers. The June 2025 P1 report’s Q3/Q6/Q7 score judgements (including the lower-scoring samples) remain locator-only; wording and candidate-script pages are not verified, and no score is claimed for the constructed answers.
 - May 2025 P1R Section A Q1–Q7 is complete. Exact question prompts, the appended Text One/Two pages and matching MS printed pp. 5–15 were visually checked. Accepted Q1/Q2/Q4/Q5 retrieval points are separate from the original MS-based Q3/Q6/Q7 answers. The June 2025 P1R report’s Q3/Q6/Q7 score judgements (including the lower-scoring samples) remain locator-only; candidate wording and script-page spans are not verified, and no score is claimed for the constructed answers.
+- November 2025 P1 Section A Q1–Q7 is complete. The exact QP prompts, Text One/Two source pages and matching MS printed pp. 2–12 were visually checked. Q1/Q2/Q4/Q5 accepted alternatives are separate from constructed AO2/AO3 responses. The official report/facsimile search on 28 October 2026 did not surface a public Pearson report or candidate script; the local pairing table lists no Paperlords ER. This is an access gap, not proof that no report exists; no score or authentic wording is claimed. See `Answer_Sets/November_2025_P1_Section_A.md` and the source index.
 - June 2019 P1 now contributes **11 locator-only records** (six Section A Q3/Q6/Q7, two Q8, and three Section C Q9–Q11). All exact QP prompts and matching local MS criteria/page references were checked; the official report text route supports the published marks and judgement-page pins only. Candidate-script page ranges are not pinned and no wording is transcribed.
 - The June 2019 P1R report was reviewed in all four text chunks and yielded no score-bearing script locator. The extraction’s publication-code line omits “R” despite the P1R URL/title; this discrepancy remains unresolved pending facsimile verification.
 - January 2020 P1/P1R, the combined November 2020 report, November 2021 P1 and January 2022 P1/P1R full text routes were reviewed; none yielded a score-bearing candidate-script locator. The official November 2023 P1 report was also reviewed online in all five text chunks; no score-bearing script locator was found, and its PDF is not in the local archive. The official June 2021 P1 report was not verified; see the source index for this gap.
@@ -82,7 +83,7 @@ The governing priority is **real, scored Pearson responses first; complete const
 - Nine Section C Q10/Q11 locators are recorded across the four June 2024/2025 P1/P1R reports: one for each Q10, one for each Q11, plus a second June 2025 P1 Q11 judgement. Exact prompts were checked against the local QPs (printed p. 21); the additional Q11 result is 17/30 (AO4 12/20 Level 3 + AO5 5/10 Level 3), judgement p. 62. This is an official-report-text-route locator only; neither the judgement-page facsimile nor candidate pages/wording are verified.
 - A targeted recheck of June 2024 P1R report text chunk 4 confirmed the already-indexed Q10 27/30 judgement on printed p. 53 and Q11 22/30 judgement on p. 60; it did not alter either record. These remain locator-only, not transcriptions.
 - The June 2025 P1R Q11 full judgement passage reads AO4 13/20 Level 4 + AO5 7/10 Level 4 = 20/30 on printed p. 62, but a final text-route fragment gives AO5 Level 4, 8 marks. The fragment has no clear second-response boundary or matching AO4 mark; it is not counted as another record, and the 7/8 discrepancy remains unresolved pending facsimile review. A focused official-domain search returned no contextual result, and the direct PDF text route stopped before Section C.
-- The official November 2024 P1 examiner report was reviewed in all five returned text chunks. The full report text route contains narrative feedback across Q1–Q11 but no reproduced candidate wording or score-bearing exemplar was located; it contributes no authentic-response locator. This negative finding is limited to the reviewed text route.
+- The official November 2024 P1 examiner report was reviewed in all five returned text chunks. The full report text route contains narrative feedback across Q1–Q11 but no reproduced candidate wording or score-bearing exemplar was located; it contributes no authentic-response locator. This negative finding is limited to the reviewed text route. The November 2025 P1 official-route search found no publicly accessible examiner report or facsimile as of 28 October 2026; this is an access gap, not a claim of non-existence.
 - The June 2025 P1R Q8 lower-scoring sample on printed p. 45 is **16/30**: AO1 6/10 Level 3 + AO4 6/12 Level 3 + AO5 4/8 Level 2. This is verified from the official report’s judgement text. A conflicting working note of 9/30 was erroneous for this example; **9/30 is the June 2024 P1R Q8 lower-scoring sample on p. 41**, not the June 2025 P1R sample.
 
 ### Still to do
@@ -104,7 +105,7 @@ Continue one fully sourced batch at a time, with section-by-section progress all
 - **Q8:** exact task, all required bullets, audience/form/register, matching MS guidance and a separately labelled constructed response. For November 2025 onward, track Pearson’s four current Issue 4 forms (article, peer speech/talk, website contribution, letter); older forms remain historical practice.
 - **Q9, Q10, Q11:** each option gets its own complete, QP/MS-specific answer set; never merge alternative prompts into a generic model.
 
-The first eight batches cover Q1–Q7 for June 2023 P1, June 2023 P1R, November 2023 P1, May/June 2024 P1, May/June 2024 P1R, November 2024 P1, May 2025 P1 and May 2025 P1R. The remaining 197 entries are not to be backfilled by generic answers or by counts of selected models.
+The first nine batches cover Q1–Q7 for June 2023 P1, June 2023 P1R, November 2023 P1, May/June 2024 P1, May/June 2024 P1R, November 2024 P1, May 2025 P1, May 2025 P1R and November 2025 P1. The remaining 190 entries are not to be backfilled by generic answers or by counts of selected models.
 
 ## Validation and update rule
 
