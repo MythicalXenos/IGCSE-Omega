@@ -270,9 +270,9 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 >
 > My stomach fluttered. My hands, slick with sweat, grasped at one another in my lap. Squeezed between my two older siblings in the backseat of our car. I leaned forward to see out of the side windows. I was trying to drink in every sight, commit every little detail to memory. After all, I thought, This might be the last time I see it in 10 years.
 >
-> We were on our way to Los Angeles International Airport, known only as LAX to locals. Our suitcases, chock-full with clothes and mementos, shifted in the boot as we merged onto the 405 Freeway. As we drove, a series of one last times cycled through my head. [Crossed-out draft wording omitted.] Going over the hills to LA proper one last time. Watching the trams wind their way up to the Getty Museum one last time. Driving on the right side of the road one last time. Seeing the palm trees sway with the breeze one last time.
+> We were on our way to Los Angeles International Airport, known only as LAX to locals. Our [crossed-out word; “suitcases” written above it] suitcases, chock-full with clothes and mementos [“mementos” written above a crossed-out spelling], shifted in the boot as we merged onto the 405 Freeway. As we drove, a series of one last times cycled through my head. [Crossed-out draft wording omitted.] Going over the hills to LA proper one last time. Watching the trams wind their way up to the Getty Museum one last time. Driving on the right side of the road one last time. Seeing the palm trees sway with the breeze one last time.
 >
-> We remained silent as familiar sights flashed by. The inevitable crept closer and closer, and [overwritten/unclear subject] was overcome by a mix of dread and excitement. With every mile we got closer to LAX, the [crossed-out wording] whirlwind in my mind spun faster. All the while, my eyes [crossed-out wording] flicked from landmark to landmark, taking mental snapshots.
+> We remained silent as familiar sights flashed by. The inevitable crept closer and closer, and [crossed-out word, with “I” written above it] was overcome by a mix of dread and excitement. With every mile we got closer to LAX, the [crossed-out wording] whirlwind in my mind spun faster. All the while, my eyes [crossed-out wording] flicked from landmark to landmark, taking mental snapshots.
 >
 > We arrived at the airport. My entire body seemed to be buzzing, charged with anxiety. We unloaded our luggage from the [crossed-out word] boot. Each family member took a piece. On the other end of our journey, there would only be two of us to carry the luggage. A lump rose in my throat and [crossed-out start] I forced it down. I am not going to cry.
 >
@@ -288,7 +288,9 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 >
 > And although we didn’t know it then, [crossed-out wording] our difficult decision would be worthwhile indeed.
 
-**Transcription note:** The full reproduced script was checked line by line against printed pp. 51–54 and reaches a complete conclusion on p. 54. The p. 51–52 page break completes “in 10 years.” Struck-through wording is not silently restored; the overwritten subject on p. 53 and crossed-out wording, including the p. 54 edit before “I forced it down,” are marked above.
+**Transcription note:** The full reproduced script was checked against printed pp. 51–54 at high magnification and reaches a complete conclusion on p. 54. Struck-through wording is not silently restored: the p. 53 subject is a crossed-out word with “I” written above it, and further crossed-out wording (including the p. 54 edit before “I forced it down”) is marked above.
+
+**Unresolved page-break reading:** p. 51 ends “I see it” and p. 52 opens “in years.” Between “in” and “years” the reproduction shows a gap roughly five times a normal word space, but no legible ink for a numeral above the ruled line at 40× magnification. The transcript therefore retains “in 10 years” as the most plausible reading while flagging that the “10” cannot be confirmed from this facsimile; the gap, not an assumed digit, is what the scan actually shows.
 
 ---
 
