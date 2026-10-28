@@ -28,7 +28,7 @@ A score/page locator, a selected model in the guide, or a question inventory row
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
 | Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 188/253 answer-set count. |
 
-**Coverage calculation:** 188 complete ÷ 253 total = **74.3%**; **66 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 188 complete ÷ 253 total = **74.3%**; **65 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
@@ -59,7 +59,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. Section
 | November 2025 | P1 | **8/11** | Q1–Q8 | 3 |
 | June 2026 | P1 (4EB1/01R) | **8/11** | Q1–Q8 | 3 |
 | June 2026 | P2 (4EB1/01) | **8/11** | Q1–Q8 | 3 |
-| **Total** | **23 pairs** | **188/253** | **188 complete; 66 outstanding** | **66** |
+| **Total** | **23 pairs** | **188/253** | **188 complete; 65 outstanding** | **65** |
 
 ## Authentic-response research: current stage
 
