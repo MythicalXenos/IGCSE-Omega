@@ -22,17 +22,17 @@ A score/page locator, a selected model in the guide, or a question inventory row
 |---|---:|---|
 | QP/MS pairs | **23/23** | Local paired papers in the archive; 4EB1 PDF storage is summarized in `README.md`. |
 | Question-option inventory | **253/253** | The bank’s complete inventory, not 253 completed answers. |
-| Complete constructed answer-set entries | **126/253** | Eighteen completed paper-specific Section A Q1–Q7 batches, including January 2020 P1/P1R, May/June/November 2020 P1 and the listed 2019/2022–2026 batches. |
-| Entries still needing a complete answer set | **127/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
+| Complete constructed answer-set entries | **133/253** | Nineteen completed paper-specific Section A Q1–Q7 batches, including January 2020 P1/P1R and May/June/November 2020 P1/P1R, plus the listed 2019/2022–2026 batches. |
+| Entries still needing a complete answer set | **120/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty and incomplete reproductions are flagged. |
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
-| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 126/253 answer-set count. |
+| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 133/253 answer-set count. |
 
-**Coverage calculation:** 126 complete ÷ 253 total = **49.8%**; **127 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 133 complete ÷ 253 total = **52.6%**; **120 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
-Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the eighteen finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
+Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the nineteen finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
 
 | Archived session | Paper | Entries complete | Complete questions | Still outstanding |
 |---|---|---:|---|---:|
@@ -41,7 +41,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q
 | January 2020 | P1 | **7/11** | Q1–Q7 | 4 |
 | January 2020 | P1R | **7/11** | Q1–Q7 | 4 |
 | May/June/November 2020 | P1 | **7/11** | Q1–Q7 | 4 |
-| May/June/November 2020 | P1R | 0/11 | — | 11 |
+| May/June/November 2020 | P1R | **7/11** | Q1–Q7 | 4 |
 | May/June 2021 | P1 | 0/11 | — | 11 |
 | November 2021 | P1 | 0/11 | — | 11 |
 | January 2022 | P1 | 0/11 | — | 11 |
@@ -59,7 +59,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q
 | November 2025 | P1 | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P1 (4EB1/01R) | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P2 (4EB1/01) | **7/11** | Q1–Q7 | 4 |
-| **Total** | **23 pairs** | **126/253** | **126 complete; 127 outstanding** | **127** |
+| **Total** | **23 pairs** | **133/253** | **133 complete; 120 outstanding** | **120** |
 
 ## Authentic-response research: current stage
 
@@ -71,6 +71,7 @@ The governing priority is **real, scored Pearson responses first; complete const
 - January 2020 P1 (cover 4EB1/01, barcode P59776A) Section A Q1–Q7 is complete (40 marks) in `Answer_Sets/January_2020_P1_Section_A.md`. The exact QP prompts/pages, both appended art texts and matching regular-P1 MS pages were visually checked. The official P1 report was re-reviewed in all four chunks returned by the 28 October fetch route; the official exemplar booklet and an unverified exact-question Scribd Q&A were screened. No verified score-bearing script or usable script-page locator was found. The unscored third-party answers are excluded as authentic evidence; all seven answer keys/models remain unscored. The 92 authentic-response records are unchanged.
 - January 2020 P1R (cover 4EB1/01R, barcode P60320A) Section A Q1–Q7 is complete (40 marks) in `Answer_Sets/January_2020_P1R_Section_A.md`. The exact QP prompts/pages, both appended friendship texts and matching P1R MS (publication code 4EB1_01R_2001_MS) were visually checked. The official P1R report (4EB1_01R_2001_PEF) was rechecked in all three returned text chunks; it provides general commentary but no score-bearing candidate script or usable Q1–Q7 locator. The official exemplar booklet’s New York/Dover examples do not match the friendship texts. No candidate wording, score, level or script-page span is claimed. Q3 was refined against the exact wording of the wall-climbing/fruit example and the later list showing the range of people who can become friends. All seven retrieval keys and constructed AO2/AO3 answers remain unscored; the 92 authentic-response records are unchanged.
 - May/June/November 2020 P1 (cover 4EB1/01, barcode P63884A) Section A Q1–Q7 is complete (40 marks) in `Answer_Sets/MayJuneNov_2020_P1_Section_A.md`. The QP, appended Extracts Booklet and matching November 2020 MS (4EB1_01_2011_MS) were visually checked. A re-render confirmed Text Two on printed pp. 4–6 / QP PDF pp. 32–34; printed p. 7 / PDF p. 35 explicitly says “BLANK PAGE”. The Q6 MS matches the source spelling Anna Nowakowska; only the Q7 MS has the Nowakowski variant. The combined official report (4EB1_01_2011_ER) was reviewed in all five text chunks and provides general feedback but no score-bearing P1 Q1–Q7 script or usable locator. No authentic record was added; all seven answer keys/models remain unscored and the aggregate stays at 92.
+- May/June/November 2020 P1R (cover 4EB1/01R; barcode P62600A) Section A Q1–Q7 is complete (40 marks) in `Answer_Sets/MayJuneNov_2020_P1R_Section_A.md`. The P1R QP, appended weather and monsoon texts, and matching November 2020 MS (4EB1_01R_2011_MS) were visually checked. Source Text One/Two are printed pp. 2–5 / QP PDF pp. 30–33; printed pp. 6–7 / PDF pp. 34–35 are blank and credits are on printed p. 8 / PDF p. 36. The P1R-specific official report (4EB1_01R_2011_ER) was reviewed in all five text chunks and gives general Q1–Q7 commentary but no score-bearing response or usable locator. The public exemplar examples do not match these texts. No authentic response was added; the aggregate remains 92.
 - Fourteen June 2023 P1/P1R authentic responses/excerpts are visually checked against Pearson reproductions; the file preserves exact published scores, printed report/script pages, uncertainty, edits and truncation.
 - May/June 2024 P1 and P1R Section A Q1–Q7 are complete constructed answer sets. The exact QP prompts, appended source-text quotations and matching MS pages were visually checked for both papers; retrieval alternatives and original AO2/AO3 worked answers are kept separate. Pearson’s Q3/Q6/Q7 score locators from the respective reports are calibration only, with no candidate wording or constructed-answer score claimed.
 - November 2024 P1 Section A Q1–Q7 is complete. The exact question pages, appended source texts and matching MS pages were rendered and visually checked; accepted retrieval alternatives and original AO2/AO3 worked answers are distinct. Pearson’s official report text route was reviewed in all five chunks but yielded no reproduced candidate wording or score-bearing exemplar, so no script locator or score is claimed for this batch.
@@ -113,7 +114,7 @@ Continue one fully sourced batch at a time, with section-by-section progress all
 - **Q8:** exact task, all required bullets, audience/form/register, matching MS guidance and a separately labelled constructed response. For November 2025 onward, track Pearson’s four current Issue 4 forms (article, peer speech/talk, website contribution, letter); older forms remain historical practice.
 - **Q9, Q10, Q11:** each option gets its own complete, QP/MS-specific answer set; never merge alternative prompts into a generic model.
 
-The eighteen batches cover Q1–Q7 for May/June 2019 P1 and P1R; January 2020 P1 and P1R; May/June/November 2020 P1 (cover 4EB1/01); May/June 2022 P1 and P1R; June 2023 P1 and P1R; November 2023 P1; May/June 2024 P1 and P1R; November 2024 P1; May 2025 P1 and P1R; November 2025 P1; and June 2026 P1 (cover 4EB1/01R) and P2 (cover 4EB1/01). The remaining 127 entries are not to be backfilled by generic answers or by counts of selected models. The May/June/November 2020 P1 set is now complete after its report review and visual QP/source/MS audit; the exact page mapping and Q7 MS spelling variant are recorded in `Answer_Sets/MayJuneNov_2020_P1_Section_A.md`. The next selected Section A batch is May/June/November 2020 P1R (4EB1/01R). The combined November 2020 report was reviewed in all five text chunks while completing regular P1 and provided general commentary but no score-bearing P1 Q1–Q7 script or usable locator; recheck it specifically for any P1R response/locator and newly accessible facsimile before constructing the P1R answers. The local pairing row lists no Paperlords ER.
+The nineteen batches cover Q1–Q7 for May/June 2019 P1 and P1R; January 2020 P1 and P1R; May/June/November 2020 P1 and P1R (covers 4EB1/01 and 4EB1/01R); May/June 2022 P1 and P1R; June 2023 P1 and P1R; November 2023 P1; May/June 2024 P1 and P1R; November 2024 P1; May 2025 P1 and P1R; November 2025 P1; and June 2026 P1 (cover 4EB1/01R) and P2 (cover 4EB1/01). The remaining 120 entries are not to be backfilled by generic answers or by counts of selected models. The May/June/November 2020 P1 set is complete after its report review and visual QP/source/MS audit; its exact page mapping and Q7 MS spelling variant are recorded in `Answer_Sets/MayJuneNov_2020_P1_Section_A.md`. The corresponding P1R set is now complete in `Answer_Sets/MayJuneNov_2020_P1R_Section_A.md`: its QP/source and matching MS were visually checked; the P1R-specific official report (4EB1_01R_2011_ER) was reviewed in all five chunks and supplied general commentary but no score-bearing response or usable Q1–Q7 locator. The official exemplar booklet examples do not match; no candidate response was added and authentic-response totals remain 92. The next selected Section A batch is May/June 2021 P1 (4EB1/01); review any official examiner-report/script routes for authentic evidence before verifying the exact QP/source and matching MS.
 
 ## Validation and update rule
 
