@@ -148,4 +148,4 @@ These six entries remain `[OFFICIAL CANDIDATE SCRIPT LOCATOR]` records in `../So
 
 ## Batch boundary
 
-This file completes May/June 2019 P1 (cover code 4EB1/01) Section A Q1–Q7 only. It does **not** cover P1 Q8 or the three separate Section C options Q9–Q11, and it does not cover the neighbouring May/June 2019 P1R paper. Those remain separate answer-set entries.
+This file completes May/June 2019 P1 (cover code 4EB1/01) Section A Q1–Q7 only. It does **not** cover P1 Q8 or the three separate Section C options Q9–Q11. The neighbouring May/June 2019 P1R paper is documented separately in [`June_2019_P1R_Section_A.md`](June_2019_P1R_Section_A.md); that file covers its Section A Q1–Q7 only.
