@@ -342,7 +342,7 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 
 > Ravens caw in the pine wood ahead. The bitter wind bites my face. The patchwork country spreads out before me. [“This” is struck through.] Like a perfect painting in an art gallery.
 >
-> I walk, my clothes billowing around me in the “seemingly furious wind”, my hands numb but still clutching my binoculars as I closely observe a [first “beautiful” struck through] beautiful Pied Flycatcher.
+> I walk, my clothes billowing around me in the “seemingly furious wind”, my hands numb but still clutching my binoculars as I closely observe a [“beautiful” struck through] beautiful Pied Flycatcher.
 >
 > I jog down a steep slope to the sound of a gurgling, [crossed-out/unclear wording] clear stream, I cross through the clear water, careful of the rocky bottom, [crossed-out wording] my trusty walking boots don’t let in a drop of water.
 >
@@ -352,19 +352,19 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 >
 > I [crossed-out start] scarcely believe I have seen so many sheep in one place. Their content grazing was to be seen in almost every field — I smile as I watch the excited lambs bounce and play by the gaze of their protective mothers.
 >
-> The only noise to be heard was the whistling wind, the caw of ravens and the [crossed-out wording] busy grazing sheep; this was true peace and [crossed-out wording] quiet — although not entirely peaceful — I sigh at the beauty of the moors and countryside and continue to walk.
+> The only noise to be heard was the whistling wind, the caw of ravens and the [crossed-out start, appears to be “busy f—”] busily grazing sheep; this was true peace and [crossed-out word] quiet — although not entirely peaceful — I sigh at the beauty of the moors and countryside and continue to walk.
 >
-> I come to a formidable (although small in size) forest, [overwritten wording; the reading around “it’s was like” is uncertain] like walking from day into night. The [“conopy” corrected to “canopy”] canopy was so thick. My footsteps are almost silent as I walk along a pine needle blanket that was the path. I gasp in shock as I see nestled around [article unclear] great [“pine” struck through] fir-tree trunk, a dusty white-grey sheep skull staring at me with unseeing eye sockets. Later seeing a second sheep skull [crossed-out wording] felt a little like a bad omen, by this was nature after all.
+> I come to a formidable (although small in size) forest, [wording reads “it’s was” or “its was”; unresolved] like walking from day into night. The [“conopy” struck through and “canopy” written after] canopy was so thick. My footsteps are almost silent as I walk along a pine needle blanket that was the path. I gasp in shock as I see nestled around [article unclear] great [“pine” struck through] furr-tree [candidate spelling; intended “fir”] trunk, a dusty white-grey sheep skull staring at me with unseeing eye sockets. Later seeing a second sheep skull [crossed-out wording] felt a little like a bad omen, by this was nature after all.
 >
-> I make a slightly hasty exit out of the forest and head up a rocky hill — up and up I hike. Past more fields. Past [unclear; appears to read “yet”] more sheep. What I saw then nearly surprised out of me [page break] my last remaining breath.
+> I make a slightly hasty exit out of the forest and head up a rocky hill — up and up I hike. Past more fields. Past [crossed-out word, appears to be “yet”] more sheep. What I saw then nearly surprised out of me [sentence continues across the p. 60–61 page break] my last remaining breath. [“surprised out of me” is as written; no “me” is supplied.]
 >
-> A [“few” is struck through] view so breath-takingly beautiful stood before me. I stood on the edge of a cliff-like hill looking out over a seemingly endless view of the patchwork countryside. Little white dots [“spots” and “that” appear; a following word, possibly “field”, is struck through] were sheep spotted the scene, “Bigger” black dots that were cows dotted fewer fields. [Crossed-out wording] mighty buzzards and Red kites soared about, on the hunt for mice and voles below, the now blue sky watched over it all which was also patchy with crisp white clouds. [“Tiny” appears struck through] Windy country roads snaked around the scene; on them were [the word appears to read “tracture”] and only a few cars.
+> A [struck-through word, appears to be “fair”] view so breath-takingly beautiful stood before me. I stood on the edge of a cliff-like hill looking out over a seemingly endless view of the patchwork countryside. Little white dots [“spots”, “that” and a further word, apparently “field”, are all struck through] were sheep spotted the scene, “Bigger” black dots that were cows dotted fewer fields. [Crossed-out wording] mighty buzzards and Red kites soared ahead, on the hunt for mice and voles below, the now blue sky watched over it all which was also patchy with crisp white clouds. [“Tiny” struck through] Windy country roads snaked around the scene; on them were [word reads “tracture”; probably an intended “tractors”] and only a few cars.
 >
-> I stand there in true [crossed-out wording] amazement. It seems like the whole world is spread before me and I’m stood above it.
+> I stand there in true [crossed-out word, apparently “disbelie-”] amazement. It seems like the whole world is spread before me and I’m stood above it.
 >
 > I take many pictures but none will show — maybe some — but never all the true beauty of the view. Only in the now can I experience the sense of calmness and peace it gives me.
 
-**Transcription note:** The response reaches a complete ending on p. 61. Unclear corrections and crossed-out wording are marked; candidate errors such as “by this was nature after all” and “by the gaze of their protective mothers” are retained rather than silently repaired.
+**Transcription note:** The full reproduction on printed pp. 58–61 was re-checked at high magnification and reaches a complete ending on p. 61. Unclear corrections and crossed-out wording are marked; candidate errors such as “by this was nature after all”, “by the gaze of their protective mothers”, “surprised out of me” and “furr-tree” are retained rather than silently repaired. The sentence “What I saw then nearly surprised out of me / my last remaining breath.” runs across the p. 60–61 page break, so it is one continuous sentence, not two.
 
 ---
 
