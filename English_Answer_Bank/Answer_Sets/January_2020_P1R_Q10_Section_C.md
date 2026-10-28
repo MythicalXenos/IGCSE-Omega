@@ -33,10 +33,12 @@
 - “**Question 10 was the most popular question.**”
 - **Interpretations:** “A number of candidates focused on a promise they had made family members or friends **before going off overseas to study**. A number focused on a promise they had made **to someone who had died**. There were **many reunions**.”
 - **More able:** “planned their ideas well, focused on **developing characters as well as plot**, selecting details to create **pace** and sometimes tension.”
-- **Warnings, including one not seen elsewhere in this series:** “Some narratives were rather **long-winded and convoluted** where candidates had developed over-ambitious plots. Sometimes narratives had **too much direct speech and this impeded the development of the plot**.”
+- **Warnings** (see the correction below — the second of these is not unique to this paper): “Some narratives were rather **long-winded and convoluted** where candidates had developed over-ambitious plots. Sometimes narratives had **too much direct speech and this impeded the development of the plot**.”
 - **Less able:** “lacked development of ideas or the ability to maintain a narrative… muddled storylines and weak endings. Some candidates wrote responses that showed evidence of prepared essays or used plots from films, computer games or novels.”
 
-**Consequences:** keep direct speech to a handful of lines (this is the only report in the series that names excessive dialogue as a plotting problem), keep the promise out of the crowded overseas-study and dead-relative routes, and let a **cost** test the promise rather than a reunion celebrate it.
+**Consequences:** keep direct speech to a handful of lines, keep the promise out of the crowded overseas-study and dead-relative routes, and let a **cost** test the promise rather than a reunion celebrate it.
+
+**Correction (29 October 2026).** This set previously called the direct-speech warning unique to this paper. It is not: the sentence “Sometimes narratives had **too much direct speech** and this impeded the development of the plot” appears **verbatim in the June 2019 P1R report**, five months earlier. It is therefore recurring report wording — plausibly boilerplate carried between sessions — and not a paper-specific finding. The advice still stands for the model, but it is now labelled as repeated guidance rather than a discovery.
 
 ## Craft decisions taken from the evidence
 

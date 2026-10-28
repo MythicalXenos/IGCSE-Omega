@@ -35,7 +35,7 @@
 - **More able:** “able to write **well-crafted stories, focused on their ideas**. Many were thought provoking and had twists or cliff hangers for effect.”
 - **Less able:** “gave often a **lengthy narration, with repetitive and unfocussed plot ideas**. Some grasp of the purpose was evident, but there were **too many unrelated details**.”
 
-**Consequences:** dialogue is useful here — the opposite of the January 2020 P1R warning about *too much* direct speech — so the model uses a small number of exchanges to turn the plot; the change is behavioural and its benefit is shown; and no unrelated detail is allowed in.
+**Consequences:** dialogue is useful here — the opposite of the January 2020 P1R warning about *too much* direct speech — so the model uses a small number of exchanges to turn the plot; the change is behavioural and its benefit is shown; and no unrelated detail is allowed in. **Correction, 29 October 2026:** that January 2020 sentence repeats the **June 2019 P1R** report verbatim, so the two pieces of advice are recurring report wording across sessions rather than evidence that Pearson changed its mind about dialogue; the contrast is preserved because it is what each report tells that paper's candidates, not because it is a policy shift.
 
 ## Craft decisions taken from the evidence
 
