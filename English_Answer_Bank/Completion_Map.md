@@ -22,21 +22,21 @@ A score/page locator, a selected model in the guide, or a question inventory row
 |---|---:|---|
 | QP/MS pairs | **23/23** | Local paired papers in the archive; 4EB1 PDF storage is summarized in `README.md`. |
 | Question-option inventory | **253/253** | The bank’s complete inventory, not 253 completed answers. |
-| Complete constructed answer-set entries | **91/253** | The eleven earlier Section A Q1–Q7 batches, including May/June 2022 P1 and P1R, plus June 2026 P1 (4EB1/01R) and P2 (4EB1/01) Q1–Q7. |
-| Entries still needing a complete answer set | **162/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
+| Complete constructed answer-set entries | **98/253** | Fourteen completed paper-specific Section A Q1–Q7 batches, including the newly completed May/June 2019 P1 and the listed 2022–2026 batches. |
+| Entries still needing a complete answer set | **155/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty and incomplete reproductions are flagged. |
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
-| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 91/253 answer-set count. |
+| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 98/253 answer-set count. |
 
-**Coverage calculation:** 91 complete ÷ 253 total = **36.0%**; **162 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 98 complete ÷ 253 total = **38.7%**; **155 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
-Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the thirteen finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
+Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q7` indicates the only entries currently complete in the fourteen finished Section A batches; Q8 and Q9–Q11 remain separate outstanding entries for those papers.
 
 | Archived session | Paper | Entries complete | Complete questions | Still outstanding |
 |---|---|---:|---|---:|
-| May/June 2019 | P1 | 0/11 | — | 11 |
+| May/June 2019 | P1 | **7/11** | Q1–Q7 | 4 |
 | May/June 2019 | P1R | 0/11 | — | 11 |
 | January 2020 | P1 | 0/11 | — | 11 |
 | January 2020 | P1R | 0/11 | — | 11 |
@@ -59,7 +59,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. `Q1–Q
 | November 2025 | P1 | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P1 (4EB1/01R) | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P2 (4EB1/01) | **7/11** | Q1–Q7 | 4 |
-| **Total** | **23 pairs** | **91/253** | **91 complete; 162 outstanding** | **162** |
+| **Total** | **23 pairs** | **98/253** | **98 complete; 155 outstanding** | **155** |
 
 ## Authentic-response research: current stage
 
@@ -109,7 +109,7 @@ Continue one fully sourced batch at a time, with section-by-section progress all
 - **Q8:** exact task, all required bullets, audience/form/register, matching MS guidance and a separately labelled constructed response. For November 2025 onward, track Pearson’s four current Issue 4 forms (article, peer speech/talk, website contribution, letter); older forms remain historical practice.
 - **Q9, Q10, Q11:** each option gets its own complete, QP/MS-specific answer set; never merge alternative prompts into a generic model.
 
-The thirteen batches cover Q1–Q7 for May/June 2022 P1 and P1R (cover codes 4EB1/01 and 4EB1/01R), June 2023 P1, June 2023 P1R, November 2023 P1, May/June 2024 P1, May/June 2024 P1R, November 2024 P1, May 2025 P1, May 2025 P1R, November 2025 P1, June 2026 P1 (cover 4EB1/01R) and June 2026 P2 (cover 4EB1/01). The remaining 162 entries are not to be backfilled by generic answers or by counts of selected models. The next selected Section A batch is May/June 2019 P1 (4EB1/01), beginning with its official-report/facsimile and exact QP/MS review.
+The fourteen batches cover Q1–Q7 for May/June 2019 P1 (cover 4EB1/01); May/June 2022 P1 and P1R (cover codes 4EB1/01 and 4EB1/01R); June 2023 P1 and P1R; November 2023 P1; May/June 2024 P1 and P1R; November 2024 P1; May 2025 P1 and P1R; November 2025 P1; and June 2026 P1 (cover 4EB1/01R) and P2 (cover 4EB1/01). The remaining 155 entries are not to be backfilled by generic answers or by counts of selected models. The next selected Section A batch is May/June 2019 P1R (4EB1/01R), beginning with its official-report/facsimile and exact QP/MS review.
 
 ## Validation and update rule
 
