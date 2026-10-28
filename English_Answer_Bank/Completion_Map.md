@@ -22,17 +22,17 @@ A score/page locator, a selected model in the guide, or a question inventory row
 |---|---:|---|
 | QP/MS pairs | **23/23** | Local paired papers in the archive; 4EB1 PDF storage is summarized in `README.md`. |
 | Question-option inventory | **253/253** | The bank’s complete inventory, not 253 completed answers. |
-| Complete question-specific answer-set entries | **168/253** | All 161 Section A Q1–Q7 entries across the 23 indexed papers, plus June 2023 P1 Q8, P1R Q8, P1 Q9–Q11, P1R Q9 and P1R Q10, each completed using an existing facsimile-checked authentic response. June 2023 P1 is complete; June 2023 P1R stands at 10 of 11. |
+| Complete question-specific answer-set entries | **169/253** | All 161 Section A Q1–Q7 entries across the 23 indexed papers, plus June 2023 P1 Q8, P1R Q8, P1 Q9–Q11, P1R Q9, P1R Q10 and P1R Q11, each completed using an existing facsimile-checked authentic response. June 2023 P1 and P1R are both complete at 11 of 11. |
 | Entries still needing a complete answer set | **85/253** | All entries not listed as complete in `Answer_Sets/coverage.csv`. |
 | Facsimile-checked authentic-response transcripts/excerpts | **14** | June 2023 P1/P1R scripts in `Verified_Candidate_Responses/June_2023_Section_A.md`; uncertainty is flagged, and only the P1R Q6/Q7 reproductions remain incomplete excerpts. |
 | Authentic-response score/page locators, not transcripts | **78** | 42 Section A Q3/Q6/Q7 locators, fourteen Section B Q8 locators and 22 Section C Q9–Q11 locators, including eleven June 2019 P1 records plus the June 2022/2024/2025 P1/P1R batches. |
-| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 168/253 answer-set count. |
+| Indexed authentic-response records | **92** | 14 checked transcripts/excerpts + 78 locator-only records; separate from the 169/253 answer-set count. |
 
-**Coverage calculation:** 168 complete ÷ 253 total = **66.4%**; **85 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
+**Coverage calculation:** 169 complete ÷ 253 total = **66.8%**; **84 remain**. These figures are based on `Answer_Sets/coverage.csv` and the 253-row workbook inventory. The CSV records completed entries; an absent row is not complete.
 
 ## Paper-by-paper answer-set coverage
 
-Each row below represents one QP/MS pair and 11 question-option entries. Section A Q1–Q7 is complete across all 23 pairs; June 2023 P1 is now **complete at 11/11**, and P1R has Q8, Q9 and Q10 complete (10 of 11). Other Q8 and the remaining Q9–Q11 entries are outstanding unless listed.
+Each row below represents one QP/MS pair and 11 question-option entries. Section A Q1–Q7 is complete across all 23 pairs; June 2023 P1 is now **complete at 11/11**, and P1R is complete at 11/11. Other Q8 and the remaining Q9–Q11 entries are outstanding unless listed.
 
 | Archived session | Paper | Entries complete | Complete questions | Still outstanding |
 |---|---|---:|---|---:|
@@ -49,7 +49,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. Section
 | May/June 2022 | P1 | **7/11** | Q1–Q7 | 4 |
 | May/June 2022 | P1R | **7/11** | Q1–Q7 | 4 |
 | May/June 2023 | P1 | **11/11** | Q1–Q11 — paper complete | 0 |
-| May/June 2023 | P1R | **10/11** | Q1–Q10 | 1 |
+| May/June 2023 | P1R | **11/11** | Q1–Q11 — paper complete | 0 |
 | November 2023 | P1 | **7/11** | Q1–Q7 | 4 |
 | May/June 2024 | P1 | **7/11** | Q1–Q7 | 4 |
 | May/June 2024 | P1R | **7/11** | Q1–Q7 | 4 |
@@ -59,7 +59,7 @@ Each row below represents one QP/MS pair and 11 question-option entries. Section
 | November 2025 | P1 | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P1 (4EB1/01R) | **7/11** | Q1–Q7 | 4 |
 | June 2026 | P2 (4EB1/01) | **7/11** | Q1–Q7 | 4 |
-| **Total** | **23 pairs** | **168/253** | **168 complete; 85 outstanding** | **85** |
+| **Total** | **23 pairs** | **169/253** | **169 complete; 84 outstanding** | **84** |
 
 ## Authentic-response research: current stage
 
