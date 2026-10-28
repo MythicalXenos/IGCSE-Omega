@@ -160,6 +160,8 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 **Authentic response locator:** examiner-report printed pp. 36–39. **Published judgement:** p. 40.
 **Pearson’s calibration:** 30/30 — AO1 10/10, Level 5; AO4 12/12, Level 5; AO5 8/8, Level 5. The reproduced response has a complete ending.
 
+**Report/mark-scheme level-label discrepancy (checked against the local PDFs):** the examiner judgement on printed p. 40 explicitly labels AO5 8/8 as Level 5. The matching P1 Q8 mark-scheme AO5 grid on p. 16 has Levels 1–4 only, with 7–8 as Level 4. Preserve both sources as printed; this discrepancy is unresolved. The awarded 8/8 remains full marks and is not altered.
+
 ### Candidate-script transcription
 
 > Greetings my fellow peers. I am Abigail Pennington and I will be talking to you about the importance of walking and going into the great outdoors. I will be giving you advice about the different types of walks you can do. The amazing benefits of walking outside. Also some of the problems you might experience [crossed-out wording] along the way.
