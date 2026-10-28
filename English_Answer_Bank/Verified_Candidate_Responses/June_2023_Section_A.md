@@ -235,27 +235,34 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 **Exact prompt (P1R QP, printed p. 21):** “‘You do not need to earn a lot of money to be successful.’ Discuss.”
 
 **Authentic response locator:** examiner-report printed pp. 40–43. **Published judgement:** p. 44.
-**Pearson’s calibration:** 17/30 — AO4 11/20, Level 3; AO5 6/10, Level 3. The reproduced response reaches a complete final sentence on p. 43.
+**Pearson’s calibration:** 17/30 — AO4 11/20, Level 3; AO5 6/10, Level 3. The reproduced response reaches a complete final sentence on p. 43. Paragraph 1 is on p. 40; the second paragraph runs from p. 41 to p. 42; the third paragraph runs from p. 42 to p. 43; the closing paragraph is on p. 43.
 
 ### Candidate-script transcription
 
-> I partly do agree with this statement, [unclear; appears to read “as once”] Mansa Musa [unclear: “explained/exclaimed”] on his death bed, “Starting from scratch makes it more worthy”.
+> I partly do agree with this statement, As I once Mansa Musa exclaimed on his death bed, “Starting from scratch makes it more [struck letters] worthy.”
 >
 > “The lower the investment the worthier the result”
 >
-> A lot of money why??? We don’t need alot of money to be successful because with less money we’ll be more careful and more focused on [unclear] planning out the idea. [Crossed-out wording] Due to the reason that we don’t have alot to work with so we make [crossed-out wording] make use of it as efficiently as possible. Working with less makes the person desperate to work harder in order to become successful. A study conducted by University of Ohio in 2014 shows that 76% of successful people had started with less money. Even if we have less money but a good mindset and plan we will be able to pull it off. [Crossed-out start] Although money is a major factor leading to success there are many other factors which could potentially lead to success, such as [unclear word].
+> Alot of money why??? We don’t need alot of money to be successful because with less money we will be [struck word] more careful and [struck word] more [struck word] focused on [struck word] planning out the idea, [struck: “As we don’t”] Due [struck letter] to the reason that we don’t have alot to work with so we make [struck “to”] make use of it as efficiently as possible. Working with less makes the person desperate to work harder inorder to become successful. A study conducted by university of Ohio in 2014 shows that 76% of successful people had started with less [struck letter] money. Even if we have less [struck word] money but a good mindset and plan we [struck “will”] will be able to poull it off. [Struck: “Money is”] Although money is a major factor leading to success there are many other factors which could potentially lead to success, such as planet[unclear extra stroke].
 >
-> And lastly a survey conducted by Forbes in 2012 showed that on average successful [unclear/possibly “people”] who started from low are on average 6.9% more [crossed-out wording] proud of what they have achieved by seeing what they came from.
+> And lastly a survey conducted by Forbes in 2012 showed that on average successful who started from low are on average 6.9% more [struck letters] proud of what they have achieved by seeing what they came from.
 >
-> In contrast alot of money can lead to success. As having more money can open much more doors to success. And it depends on what you trying to achieve. If you want to become a doctor going to a better medical school with better education will automatically put you ahead. If you already have money you will need to put less effort in order to become successful. As money is a major factor while dealing with this topic due to the fact that [unclear] without it you are nothing.
+> In contrast alot of money can lead to success. As having more money can open much more doors to success. And it depends on what you trying to achieve. If you want to become a doctor going to a better medical school with better education will automatically put you ahead. If you already have money you will need to put less effort inorder to become successful. As money is a major factor while dealing with this topic due to the fact that [struck word] without it you are nothing.
 >
-> A recent evaluation of successful people by national data scientists [unclear; appears to read “denotes”] the [crossed-out wording] results which show that a rich person takes about 4.2 years less than [crossed-out wording] an average person in becoming successful. With money [crossed-out wording] you would not need to be stressed or punished as we could try different methods/plans which will tend to increase our probability of being successful.
+> A recent evaluation of successful people by national data scientists [struck stroke] denotes the [crossed-out, unreadable word] results which show that a rich person takes about 4.2 years less than [struck word] an ave person inbecoming successful. With money you [struck word] would n’t need [struck “to”] be stressed or paniced as we could try different methods/plans which will tend to increase our probability of being successful.
 >
-> Although I do agree money isn’t important it surely gives you a boost towards your goal. But remember hard work beats anything. And everyone should have this mindset in order to be successful.
+> Although I do agree money isnt important it surely gives you a boost towards your goal. But remember hard work beats anything. And everyone should have this mindset inorder to be successful.
 
-**Verification note:** The handwriting contains several uncertain and crossed-out passages, marked above rather than silently resolved. The candidate’s cited Mansa Musa quotation and specific study/survey claims are transcribed as candidate wording only; they have not been independently fact-checked or endorsed by Pearson in this transcript.
+**Verification note:** The transcript was re-checked line by line against high-magnification crops of examiner-report pp. 40–43 and corrected where the earlier reading did not match the facsimile. Points that remain genuinely uncertain, or that differ from what a tidy version of this answer would look like, are marked rather than resolved:
 
----
+- **“As I once Mansa Musa exclaimed”** — the word “As” is heavily overwritten in the middle (the second letter is a blob of ink) and may have been started, struck and rewritten; “exclaimed” also contains an overwritten letter. It is read as “As I once Mansa Musa exclaimed on his death bed”; the sentence remains ungrammatical as written and has not been repaired.
+- **“such as planet”** — the word after “such as” reads “planet” with an extra or unfinished stroke after the final letter; it is not possible to say whether the candidate intended another word, so the trailing stroke is bracketed rather than guessed.
+- **“paniced”** is the candidate’s spelling (the earlier transcript read “punished,” which the facsimile does not support).
+- **“an ave person”** — p. 43 breaks the line after “an ave,” and the next line continues “person inbecoming successful.” The word “average” is not completed anywhere in the script, so the transcript does not silently supply it.
+- **Spellings and joins preserved as written:** “alot” (repeatedly), “inorder” (twice, on pp. 41 and 43), “inbecoming,” “poull,” “isnt,” “denotes” written with an unclear o/e. Punctuation is reproduced as marked, including the comma after “statement,” and “would n’t” split by the line ending.
+- **Crossings-out:** most struck words are now unreadable under the ink and are recorded as “[struck word]”/“[struck letters]”; where a struck word is still legible (“As we don’t,” “to,” “will,” “Money is”) it is given in brackets.
+- The “A” of “As having more money” is written small but has the pointed, crossbarred capital-A form the candidate uses elsewhere at the start of sentences, so it is transcribed as a capital. A small mark after “trying to achieve” reads like “/fix”; its purpose is unclear and it is not transcribed into the running text.
+- The candidate’s cited Mansa Musa quotation and the specific study/survey claims are transcribed as candidate wording only; they have not been independently fact-checked, and Pearson does not endorse them. Pearson’s own AO4 comment says the script “supports points made with references to research and the use of statistics,” which is a judgement about technique at Level 3, not a verification of the figures.
 
 ## June 2023 P1 Q10 — 30/30 (full marks)
 
