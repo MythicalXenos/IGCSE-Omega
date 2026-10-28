@@ -2,7 +2,7 @@
 
 Downloaded and indexed on 2026-10-04.
 
-## Current checkout verification (2026-10-27)
+## Current checkout verification (2026-10-28)
 
 The single `Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip` is not present as a standalone file, but all **216 active Paperlords PDFs are present individually** under `IGCSE/` (including 48 English Language B PDFs: 23 QPs, 23 MSs and the two June 2023 ERs). The searchable text index, catalog and pairing metadata are present as well. Use the individual local PDFs for page/visual verification; June 2024–2025 examiner reports used in the English research are linked official Pearson sources and are not among the local 4EB1 ER PDFs. Do not mistake the root-level split workspace bundle for a standalone archive ZIP.
 
@@ -26,6 +26,10 @@ The single `Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip` is not present as a
 
 ## Business answer bank
 `../Business_Studies_Answer_Bank/` contains a searchable 4BS1 question-type inventory built from all 38 Business QPs in this archive, a model-answer guide, and selected official Pearson candidate-response sources. `../Economics_Answer_Bank/` contains a compact 4EC1 inventory and model-answer guide built from 42 QPs, including the recovered May/June 2022 P2R paper. `../English_Answer_Bank/` contains a 4EB1 inventory built from 23 QP/MS pairs and official June 2023 candidate-script examples. All banks distinguish official scored scripts from constructed models; see each folder’s README.
+
+## June 2026 4EB1 mark-scheme filename audit
+
+The two June 2026 English Language B mark-scheme PDFs are named by Paperlords archive label, but their internal Pearson component covers are reversed relative to the same-named QPs: `4EB1_English_Language_B_June_2026_P1_MS.pdf` is Paper 01 (smartphones; matches the P2 QP, cover 4EB1/01), while `..._P2_MS.pdf` is Paper 01R (handwriting; matches the P1 QP, cover 4EB1/01R). The QP/MS/ER pairing CSV now maps each QP to the MS whose internal component and content match. Original PDF names and bytes were left unchanged; verify the cover code before using either file.
 
 ## Known document issue
 The Paperlords-stored Economics May-June 2022 P2R QP at `IGCSE/4EC1_Economics/May-June_2022/4EC1_Economics_May-June_2022_P2R_QP.pdf` has zero readable pages in PDF parsers. A verified 20-page copy of the same 4EC1/02R paper is included under `RECOVERED_ALTERNATIVES/`; use it with the matching original MS. The recovery source URL and validation are in `recovery_notes.csv`.
