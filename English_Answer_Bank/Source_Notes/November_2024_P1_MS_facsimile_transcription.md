@@ -151,11 +151,134 @@
 
 ---
 
-## Section A pages, pp. 4–13 — rendered and spot-checked, not yet transcribed
+## Section A, printed pp. 5–13 — transcribed 29 October 2026
 
-Printed pp. 4–13 carry the Section A answers and the AO2/AO3 grids. They are **legible when rendered**, exactly like the pages above, and they are **not yet transcribed here** because no answer set currently quotes them apart from the two checks below. Two spot-checks were made on 29 October 2026 to confirm the Section A citations in `Answer_Sets/November_2024_P1_Section_A.md`, which cites "MS p. 8" for Q4 and Q5:
+Read from the rendered pages at 170 dpi. Printed p. 4 is general guidance ("Placing a mark within a level", the AO1–AO5 list) and carries no answer content.
 
-- **Printed p. 8** (rendered at 140 dpi): Q4 (Text Two) reads "One mark for **any one** of the following: a new hobby; reading (more); taking (more) photos; crafting; cooking; any solo activity that allows you to gain new skills; exploring your creative side; social activities/joining a club or organisation; doing something outside your comfort zone." Q5 reads "One mark each for **any two** of the following: unhealthy attachments; bad habits; smoking; drinking; going to the gym; social media; anything holding you back; emotional baggage."
-- Both match the answer set's claims exactly — "Try a new hobby" is the **first** accepted bullet for Q4, and "smoking" and "social media" are both accepted for Q5.
+### Printed p. 5 — Q1 and Q2 (Text One)
 
-**What remains unverified:** the exact wording of pp. 4–7 and 9–13 (Q1–Q3, Q6, Q7 and the AO2 grids). The answer set's Q1 and Q2 keys were confirmed earlier from printed p. 5, and Q4/Q5 from p. 8; Q3, Q6 and Q7 are original AO2 analyses built on the question wording, not quotations of a specific MS bullet, so the risk of a mis-citation there is low but not zero. Transcribe those pages before quoting them.
+> **Q1 — AO1.** One mark for **any one** of the following:
+> - the first reference to a birthday is in the Bible / around 3000 BCE
+> - a pharaoh is described as holding a feast in celebration
+> - the first recorded invitation to a birthday party was written in Latin / around 100 CE / written on a wooden tablet
+> - the invitation was to a commander's wife
+> - a 50th birthday was celebrated with a special cake
+> - women's birthdays were not celebrated until around 12th century
+>
+> **(1)**
+>
+> **Q2 — AO1.** One mark for **any one** of the following:
+> - we are social creatures
+> - we still need other people for survival
+> - reinforces the community network
+> - (allows us time) to get to know people better
+> - bonds people
+> - reinforces social ties
+> - reinforces empathy
+>
+> **(1)**
+
+### Printed p. 6 — Q3 indicative content
+
+> **Q3.** Reward responses that demonstrate how the writer presents her ideas about the importance of celebrations. Responses may include:
+> - the opening paragraph directly addresses the readers, 'Think of', to engage them
+> - the writer uses the pronoun 'you', which directly addresses the audience and engages them with the topic
+> - the writer uses a tricolon of positive words, 'to congratulate, celebrate and show affection', which highlights the activities associated with celebrations
+> - the use of 'A Thing', which is capitalised and uses an informal phrase to relate to a (wider) younger audience
+> - the writer uses historical references such as 'pharaohs', 'written in Latin', to present how long we have been celebrating
+> - this is reinforced by the use of dates: '3000 BCE', '100 CE' and '12th century'
+> - the writer gives examples of other celebrations to appeal to a wider audience: 'Eid or a career milestone'. This suggests that celebrating has many different contexts
+> - the use of occasional questions, 'where does our urge to collectively rejoice actually come from?', which makes the readers think and engages them with the topic
+> - experts are used, 'Dr Sheri Jacobson', 'Patrick Fagan', to add authenticity to the article
+> - specific examples, 'adrenaline', 'serotonin', 'oxytocin', are used to show that there is scientific/medical evidence which might impress and persuade the readers
+> - the repetition of 'gratitude' by Pamela Jacobsen emphasises the appreciation that celebrating can show
+> - the use of 'deviation' in the final paragraph is contrasted with 'life-affirming' to suggest that the behaviour is a good thing
+> - the use of contrast: 'bringing structure to a world which is chaotic and frightening', which emphasises the importance and value of celebrating
+> - the use of inclusive pronouns throughout, 'we', 'us', which engages the reader
+> - the upbeat ending: 'is about as uplifting as it gets', which leaves the reader feeling positive about the importance of celebrations
+>
+> **(10)**
+
+### Printed p. 7 — Q3 AO2 grid
+
+Five levels, no Level 0 marks band beyond "0 No rewardable material": Level 1 1–2, Level 2 3–4, Level 3 5–6, Level 4 7–8, Level 5 9–10. Level 5 descriptors: "Perceptive understanding and analysis of language and structure and how these are used by writers to achieve effects, including use of vocabulary, sentence structure and other language features"; "The selection of references is discriminating and clarifies the points being made."
+
+### Printed p. 8 — Q4 and Q5 (Text Two)
+
+> **Q4 — AO1.** One mark for **any one** of the following: a new hobby; reading (more); taking (more) photos; crafting; cooking; any solo activity that allows you to gain new skills; exploring your creative side; social activities/joining a club or organisation; doing something outside your comfort zone. **(1)**
+>
+> **Q5 — AO1.** One mark each for **any two** of the following: unhealthy attachments; bad habits; smoking; drinking; going to the gym; social media; anything holding you back; emotional baggage. **(2)**
+
+### Printed pp. 9–10 — Q6 indicative content
+
+> **Q6.** Reward responses that explain how the writer presents her ideas about New Year's celebrations. Responses may include:
+> - the opening paragraph presents an historical context: 'since 2000 BC', '4,000-year-old holiday', reinforced by the superlative 'oldest-celebrated', to present how long we have been celebrating the New Year
+> - the use of the question 'But why is New Year's Eve really worth celebrating?' encourages the reader to think about the significance
+> - the verb 'embracing', which has associations of positivity and encouragement, emphasises that the changes made will be beneficial
+> - the use of inclusive language, 'we', and direct address, 'you', engages the reader
+> - the repetition of 'new' reminds the reader that this is a time of positive change
+> - the use of the comparatives 'happier' and 'healthier' suggests that things will/can improve
+> - the listing of activities which could make you happy, 'reading more, taking more photos', presents ideas which are attainable and reassures readers that they can do these things
+> - a personal anecdote, 'Last year, I made a resolution…', is used to show how changes can have positive effects and gives the reader a connection to the writer
+> - the short, imperative sentence, 'Stop doing things that make you unhappy.', has an impact and makes the reader reflect on their lifestyle
+> - the use of alliteration in 'respectable resolutions' emphasises the importance of giving up bad habits
+> - the writer makes suggestions of activities that might be unpleasant, 'if you don't like going to the gym', 'if being on social media', and offers positive ways to change: 'try a new way', 'take a break'
+> - the metaphor 'Unpacking a little emotional baggage is a great way to travel forward' presents a positive outcome if changes are made
+> - the advice offered is reassuring, 'Make goals that are measurable and attainable', 'Just remember', to encourage the reader to change
+> - the nouns 'dedication and preparation' help to focus the reader on what is required to succeed in the chosen resolution
+> - the writer shows that there is a range of changes that can be made including well-being: 'take time out of your schedule to take care of you'
+> - the tricolon 'set an hour a day, a day of the week, or a few days a month' offers realistic and achievable alternatives
+> - the verb 'escape' suggests imprisonment and the description of everyday life as 'day-to-day routine of wake-up, work, eat, sleep, repeat' suggests how tedious life can become and reinforces the importance of looking after yourself
+> - the use of balanced structure, 'place to start', 'time to finish', gives reassurance that some resolutions may take longer to achieve
+> - the tricolon 'A plan, a support system and a desire' gives encouragement and ends the text positively
+> - the use of sub-headings eg 'New Beginnings Mean You Can Try Something That Makes You Happy' helps the reader to navigate the text and quickly find relevant information
+>
+> **(10)**
+
+### Printed p. 11 — Q6 AO2 grid
+
+Same five-level AO2 scale as p. 7: Level 1 1–2, Level 2 3–4, Level 3 5–6, Level 4 7–8, Level 5 9–10, with identical descriptors.
+
+### Printed pp. 12–13 — Q7 indicative content
+
+> **Q7.** Responses may include the following points:
+>
+> **Text One**
+> - gives examples of several different types of celebrations: 'birthdays, weddings, anniversaries and national holidays'
+> - uses historical examples: 'Ancient Egypt', 'in the Bible', 'a Roman woman'
+> - uses experts and institutions to support her ideas: 'Dr Sheri Jacobson of Harley Therapy', 'Pamela Jacobsen of the Bath Centre for Mindfulness and Compassion'
+> - uses science to support her ideas: 'feel-good chemicals', 'gives us a chemical boost'
+> - offers advice: 'Tuning in to that sense of gratitude'
+> - suggests that celebrations are helpful in dealing with an unpredictable future: 'At a time when a lot feels uncertain, enjoying how far you've come is about as uplifting as it gets.'
+> - supports the idea that celebrating is beneficial: 'it's life-affirming'.
+>
+> **General points candidates may make on the whole of Text One**: uses direct address: 'Think of the birthdays'; uses inclusive pronouns: 'we', 'us'; shows that celebrating is important.
+>
+> **Text Two**
+> - presents the New Year as having historical importance: 'world's oldest-celebrated holiday'
+> - discusses why people celebrate the New Year: 'a symbol for starting over', 'chance to reflect on the previous year'
+> - focuses on the idea of starting afresh: 'new beginnings'
+> - gives examples of changes that can be made: 'something that will make you happy', 'a new hobby', 'more social activities'
+> - offers reassurance that resolutions can be achieved: 'measurable and attainable', 'you have 365 days'
+> - presents the idea that the New Year offers opportunities: 'New beginnings', 'the perfect place to start'.
+>
+> **General points candidates may make on the whole of Text Two**: discusses one celebration; uses inclusive language, 'we', and direct address, 'you'; presents the celebration as being a time for change.
+>
+> **Points of comparison**
+> - Text One is about celebrating milestones in general / Text Two is about one specific celebration
+> - Text One uses experts to support ideas / Text Two uses examples of changes that can be made
+> - Text One talks about the effects on the body and the mind / Text Two talks about well-being
+> - Text One uses current and historical examples of celebrations / Text Two uses examples of new beginnings and changes
+> - Text One discusses the importance of sharing and being with other people / Text Two discusses the ways an individual can change
+> - both texts are about the importance of celebrating
+> - both texts suggest celebrating is a way of dealing with the future
+> - both texts offer reassurance to the reader
+> - both texts directly address the reader
+> - both texts are informative/persuasive
+> - both texts clearly convey the writers' ideas and perspectives.
+>
+> **Reward all valid points.**
+>
+> **Q7 AO3 grid** (printed p. 13): Level 1 1–3, Level 2 4–6, Level 3 7–9, Level 4 10–12, Level 5 13–15. Level 2 carries the printed note "**NB: candidates who have considered only ONE text may only achieve a mark up to the top of Level 2**". Level 5: "The response considers a varied and comprehensive range of comparisons between the texts"; "Analysis of writers' ideas and perspectives, including how theme, language and/or structure are used across the texts"; "References are balanced across both texts; they are discriminating and fully support the points being made."
+
+**Verification against `Answer_Sets/November_2024_P1_Section_A.md`.** Every page reference in that file is correct for this Mark Scheme (Q1–Q2 p. 5, Q3 content p. 6 / grid p. 7, Q4–Q5 p. 8, Q6 content pp. 9–10 / grid p. 11, Q7 content pp. 12–13 / grid p. 13). Two wording refinements were made to the answer set from this transcription: Q1's last bullet is "women's birthdays were not celebrated until around 12th century" (no "generally"), and Q2's fourth bullet is "(allows us time) to get to know people better". Both are now quoted as printed, with the answer set's full-sentence forms labelled as paraphrase.

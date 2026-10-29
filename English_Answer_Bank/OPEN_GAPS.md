@@ -51,6 +51,8 @@ Outbound network access from the sandbox is restricted to npm, PyPI and GitHub. 
 
 **Do not** attempt to reconstruct these scripts from commentary. No wording has been invented for any locator and none should be.
 
+**New route found 29 October 2026 (partial).** Pearson's own text layer over the reproduced scripts is OCR of the handwriting, and it survives on some pages only. In the June 2025 reports it exists for the Section A scripts on printed pp. 18–30 and is absent for the Q8 and Section C script pages, and the workspace cannot download the PDFs, so most locators remain out of reach. What is reachable is collected in [`Source_Notes/June_2025_OCR_route_extracts.md`](Source_Notes/June_2025_OCR_route_extracts.md) — four June 2025 Section A scripts, labelled as OCR-route raw material and **deliberately not counted** in the authentic index. Promote them only if a facsimile arrives. The route itself, with its page limits, is documented in [`Source_Notes/Report_Access_Routes.md`](Source_Notes/Report_Access_Routes.md).
+
 ---
 
 ## 2. Gap (b) — the four papers without a usable examiner report
@@ -58,13 +60,13 @@ Outbound network access from the sandbox is restricted to npm, PyPI and GitHub. 
 | Paper | Position | Evidence |
 |---|---|---|
 | **May/June 2021 P1** | **No report exists** — this was the optional/unseen assessment series | Report index for the series has no file for it; treated as structural, not an access gap |
-| **November 2025 P1** | Not located | Filename patterns tried (`4eb1-01-pef-2026…` variants), Pearson course-materials listing unavailable, GitHub and peer indexes carry nothing beyond 2023 |
-| **June 2026 P1 (4EB1/01R)** | Not located | Same; series too recent for the report to be in any third-party index |
-| **June 2026 P2 (4EB1/01)** | Not located | Same; no report, no scripts, no exemplars found for P2 in any series |
+| **November 2025 P1** | Not located | 29 Oct 2026 sweep: web searches for the session, the publication code and the `4eb1-01-pef-2026…` pattern returned nothing beyond June 2025; direct probes of `4eb1-01-pef-20260122.pdf` and `…-20260820.pdf` return "Page not found"; Pearson's sitemap lists all PDFs but cannot be filtered remotely; GitHub and peer indexes stop at 2023. Full method in `Source_Notes/Report_Access_Routes.md` |
+| **June 2026 P1 (4EB1/01R)** | Not located | Same sweep as November 2025: no search hit, no filename probe hit, not in any third-party index. See `Source_Notes/Report_Access_Routes.md` §6 |
+| **June 2026 P2 (4EB1/01)** | Not located | Same; no report, no scripts, no exemplars found for P2 in any series. See `Source_Notes/Report_Access_Routes.md` §6 |
 
 **What this costs and what it does not.** Each of these papers still has a complete mark scheme in the local archive, so every answer set is mark-scheme-anchored. What is missing is the examiner commentary layer (what candidates actually did, what examiners warned about) and any possibility of an authentic script. Those sets say so in their provenance blocks rather than borrowing commentary from another paper.
 
-**What would change the position.** A report appearing at any of the Pearson exam-materials URLs; the release of the June 2026 reports (historically published in the January following the series, i.e. from January 2027 for a June 2026 series); or a facsimile route that also carries the report PDFs. Until then, re-running the same searches is wasted work — this section exists so it is not repeated.
+**What would change the position.** A report appearing at any of the Pearson exam-materials URLs. Publication timings are not uniform: the November 2024 report is dated 23 January 2025 and the June 2025 reports 21 August 2025, so a November 2025 report would have been expected from about January 2026 and a June 2026 report from about August 2026 — neither has surfaced, which is consistent with delayed or centre-only release rather than with a wrong filename. GitHub Actions would solve the download problem outright, but this repository has Actions disabled (`actions=false`); see `Source_Notes/Report_Access_Routes.md` §6. Until then, re-running the same searches is wasted work — this section exists so it is not repeated.
 
 ---
 
@@ -93,6 +95,6 @@ The awarded **8/8** is full marks and is untouched. Full reasoning: `Answer_Sets
 ## 5. What is *not* a gap, so nobody reopens it
 
 - **Coverage.** 253/253 question-option entries across 23 papers; Section B Q8 and Section C complete for every paper.
-- **Counts.** Authentic index 92 (14 transcripts + 78 locators); 239 constructed entries; 84 word-counted constructed models totalling 42,753 words (re-measured 29 October 2026); the 115 answer-set files outside the README hold 256,165 words in 13,703 lines. None of the constructed entries claims a score.
+- **Counts.** Authentic index 92 (14 transcripts + 78 locators); 239 constructed entries; 84 word-counted constructed models totalling 42,753 words (re-measured 29 October 2026); the 115 answer-set files outside the README hold 256,213 words in 13,704 lines. None of the constructed entries claims a score.
 - **Form differentiation** across Section C is deliberate and paper-specific, and now measured against all 23 question papers: **Q9 a discursive task** — a quoted statement on 22 papers, with January 2022 P1 the exception ("Discuss whether travel broadens the mind"); **Q10 a supplied-title story** on 23 of 23 ("Write a story (true or imaginary) entitled ‘…’"), with a late title reveal only where the report or mark scheme permits it; **Q11 a description** on 23 of 23 (every one opens "Describe …").
 - **Duplicate archive bundle.** Removed in `45a1ef7` after hash verification; do not re-raise.

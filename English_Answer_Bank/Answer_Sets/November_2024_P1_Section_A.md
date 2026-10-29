@@ -10,6 +10,7 @@
 
 - The question wording below was checked against the local QP facsimile. Question pages are printed pp. 2, 3, 6, 7 and 10. The appended Source Booklet has Text One on printed pp. 2–3 (QP PDF pp. 30–31) and Text Two on printed pp. 4–5 (QP PDF pp. 32–33); the source passages and quotations used below were checked against those page images.
 - The matching local MS was visually checked on printed pp. 5–13 (PDF pp. 5–13): Q1–Q2 on p. 5; Q3 indicative content on p. 6 and AO2 levels on p. 7; Q4–Q5 on p. 8; Q6 indicative content on pp. 9–10 and AO2 levels on p. 11; Q7 indicative content on pp. 12–13 and AO3 levels on p. 13.
+- Printed pp. 5–13 of that MS are now transcribed verbatim (29 October 2026) in [`../Source_Notes/November_2024_P1_MS_facsimile_transcription.md`](../Source_Notes/November_2024_P1_MS_facsimile_transcription.md) §“Section A, printed pp. 5–13”. Every page reference in this file was re-checked against those transcriptions, and the two bullets that had drifted from the printed wording were corrected (Q1's last bullet and Q2's fourth).
 - Q1, Q2, Q4 and Q5 keys preserve the MS’s accepted alternatives. Q3, Q6 and Q7 are original worked answers developed from the MS indicative content and level descriptors.
 - **`[OFFICIAL MARK-SCHEME WORKED ANSWER]` does not mean an official candidate script or a scored answer.** No answer in this file has been marked by Pearson; no score or grade is claimed.
 - Pearson’s November 2024 P1 examiner report was reviewed in all five returned text chunks. The reviewed report route contains narrative feedback, but no reproduced candidate wording or score-bearing script exemplar was located. No candidate wording, score, level or candidate-script page is claimed here. This is a finding about the reviewed text route, not a claim that a facsimile was inspected.
@@ -66,7 +67,7 @@ Support your answer with examples from both texts.
 - the first recorded invitation to a birthday party was written in Latin / around 100 CE / on a wooden tablet;
 - the invitation was to a commander’s wife;
 - a 50th birthday was celebrated with a special cake; or
-- women’s birthdays were not generally celebrated until around the 12th century.
+- women’s birthdays were not celebrated until around 12th century.
 
 Give one distinct valid point (MS p. 5).
 
@@ -77,7 +78,7 @@ Give one distinct valid point (MS p. 5).
 - we are social creatures;
 - we still need other people for survival;
 - celebrations reinforce the community network;
-- they allow people to get to know each other better;
+- (allows us time) to get to know people better;
 - they bond people;
 - they reinforce social ties; or
 - they reinforce empathy.

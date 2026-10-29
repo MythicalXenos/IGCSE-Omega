@@ -287,7 +287,7 @@ Exact Q10/Q11 tasks were checked against the matching local QPs (printed p. 21) 
 | June 2025 P1 Q11, describe a beautiful place | AO4 12/20 L3 + AO5 6/10 L3 = 18/30 | p.58 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — lower score retained. |
 | June 2025 P1 Q11, describe a beautiful place (second sample) | AO4 12/20 L3 + AO5 5/10 L3 = 17/30 | p.62 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — distinct second Q11 judgement from report text route; judgement-page facsimile, script pages and wording not verified. |
 | June 2025 P1R Q10, story entitled “An unexpected find” | AO4 18/20 L5 + AO5 10/10 L5 = 28/30 | p.57 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — near-full, not full marks. |
-| June 2025 P1R Q11, describe your best friend | Full judgement passage: AO4 13/20 L4 + AO5 7/10 L4 = 20/30 | p.62 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — final text-route fragment reads AO5 8; discrepancy unresolved pending facsimile, not counted as another response. |
+| June 2025 P1R Q11, describe your best friend | Full judgement passage: AO4 13/20 L4 + AO5 **7**/10 L4 = 20/30 | p.62 | [OFFICIAL CANDIDATE SCRIPT LOCATOR] — **discrepancy closed 29 October 2026 in favour of AO5 7/10.** Re-read against the hosted report, the Q11 sequence (commentary pp. 58–59, script pp. 60–62, judgement p. 62) reproduces **one** response whose judgement prints “Level 4 - 13 marks” then “Level 4 - 7 marks”, and 13 + 7 = the published 20/30. No Q11 judgement reading 8 was found anywhere in that sequence, so the earlier stray “AO5 8” is withdrawn as unsourced. |
 
 The November 2024 P1 QP asks for a story entitled “The Reunion” (Q10) or a description of somewhere very busy (Q11). Its report text route contains general commentary but no reproduced Q10/Q11 script or score page; no locator is recorded.
 

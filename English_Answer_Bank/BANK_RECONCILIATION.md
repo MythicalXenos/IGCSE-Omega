@@ -28,7 +28,7 @@ Breakdown by section: **161 Section A** (23 papers × Q1–Q7), **23 Section B**
 | Section C files | 69 |
 | Missing files referenced by `coverage.csv` | **0** |
 | Answer-set files not referenced by `coverage.csv` | **0** |
-| Total words in answer-set markdown | **256,165** across 13,703 lines, across 115 files excluding this README (re-measured 29 October 2026, after the audit corrections) |
+| Total words in answer-set markdown | **256,213** across 13,704 lines, across 115 files excluding this README (re-measured 29 October 2026, after the audit corrections) |
 | Explicitly word-counted constructed models | **84 files, 42,753 words** of body text (unchanged by the audit; 63 Section C + 21 Section B) |
 
 The model count excludes the eight June 2023 Section B/C files, which carry authentic transcripts rather than constructed prose and therefore no word-count stamp. The earlier "59 files, 26,670 words" figure predated ten papers and is retired; see `Source_Notes/Cross_Source_Audit_2026-10-29.md` §6.
