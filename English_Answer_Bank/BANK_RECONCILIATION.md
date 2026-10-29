@@ -18,6 +18,8 @@ Breakdown by section: **161 Section A** (23 papers × Q1–Q7), **23 Section B**
 
 ## 2. Answer-set files on disk
 
+**Mechanically re-verified 29 October 2026.** Every question quoted in every answer set was string-matched against the question paper it claims to come from: 161 of 161 Section A questions, 23 of 23 Q8 prompts and 69 of 69 Section C tasks matched exactly. Mark-scheme page claims were checked against measured page numbers and all hold; the per-file printed-page offsets that make them look inconsistent are tabulated in [`Source_Notes/Cross_Source_Audit_2026-10-29.md`](Source_Notes/Cross_Source_Audit_2026-10-29.md).
+
 | Measure | Value |
 |---|---|
 | Markdown answer-set files | **115** (+ `README.md`) |
@@ -26,10 +28,10 @@ Breakdown by section: **161 Section A** (23 papers × Q1–Q7), **23 Section B**
 | Section C files | 69 |
 | Missing files referenced by `coverage.csv` | **0** |
 | Answer-set files not referenced by `coverage.csv` | **0** |
-| Total words in answer-set markdown | **254,759** across 13,797 lines |
-| Explicitly word-counted constructed models | **59 files, 26,670 words** of body text |
+| Total words in answer-set markdown | **256,165** across 13,703 lines, across 115 files excluding this README (re-measured 29 October 2026, after the audit corrections) |
+| Explicitly word-counted constructed models | **84 files, 42,753 words** of body text (unchanged by the audit; 63 Section C + 21 Section B) |
 
-The 59 count excludes the eight June 2023 Section B/C files, which carry authentic transcripts rather than constructed prose and therefore no word-count stamp.
+The model count excludes the eight June 2023 Section B/C files, which carry authentic transcripts rather than constructed prose and therefore no word-count stamp. The earlier "59 files, 26,670 words" figure predated ten papers and is retired; see `Source_Notes/Cross_Source_Audit_2026-10-29.md` §6.
 
 ## 3. The authentic record — 92, kept separate from coverage
 

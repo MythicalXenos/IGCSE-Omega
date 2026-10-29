@@ -1,0 +1,50 @@
+import pymupdf, re, glob, pathlib
+
+def norm(s):
+    return s.replace("\u2013", "-").replace("\u2014", "-")
+
+folder_map = {'January_2020': 'Jan 2020', 'January_2022': 'Jan 2022', 'June_2026': 'June 2026',
+              'May-June-November_2020': 'MayJuneNov 2020', 'May-June_2019': 'MayJune 2019',
+              'May-June_2021': 'MayJune 2021', 'May-June_2022': 'MayJune 2022', 'May-June_2023': 'MayJune 2023',
+              'May-June_2024': 'MayJune 2024', 'May_2025': 'May 2025', 'November_2021': 'Nov 2021',
+              'November_2023': 'Nov 2023', 'November_2024': 'Nov 2024', 'November_2025': 'Nov 2025'}
+key_map = {'June_2019': 'MayJune 2019', 'January_2020': 'Jan 2020', 'January_2022': 'Jan 2022',
+           'June_2022': 'MayJune 2022', 'June_2023': 'MayJune 2023', 'June_2024': 'MayJune 2024',
+           'MayJuneNov_2020': 'MayJuneNov 2020', 'May_2025': 'May 2025', 'November_2021': 'Nov 2021',
+           'November_2023': 'Nov 2023', 'November_2024': 'Nov 2024', 'November_2025': 'Nov 2025',
+           'MayJune_2021': 'MayJune 2021', 'June_2026': 'June 2026', 'MayJune_2022': 'MayJune 2022',
+           'MayJune_2024': 'MayJune 2024', 'MayJune_2023': 'MayJune 2023', 'MayJune_2019': 'MayJune 2019'}
+
+truth = {}
+for ms in sorted(glob.glob('Paperlords_Archive/IGCSE/4EB1_English_Language_B/*/*_MS.pdf')):
+    folder = pathlib.Path(ms).parent.name
+    label = pathlib.Path(ms).stem.split('_')[-2]
+    d = pymupdf.open(ms)
+    pages = [norm(p.get_text()) for p in d]
+    start = next((i for i, t in enumerate(pages) if 'Question 8' in t), None)
+    if start is None:
+        continue
+    ao = {}
+    for key in ('AO1', 'AO4', 'AO5'):
+        for i in range(start, len(pages)):
+            if key in pages[i]:
+                ao[key] = i + 1
+                break
+    truth[(folder_map[folder], label)] = (start + 1, ao.get('AO1'), ao.get('AO4'), ao.get('AO5'))
+
+print('SECTION B truth (pdf pages):')
+for k, v in truth.items():
+    print('  ', k, v)
+
+print()
+for f in sorted(pathlib.Path('English_Answer_Bank/Answer_Sets').glob('*Q*8_Section_B.md')):
+    m = re.match(r'(.+?)_(P\dR?)_Q0?8_Section_B', f.stem)
+    if not m:
+        print(f.name, 'PARSE FAIL')
+        continue
+    key = (key_map.get(m.group(1), m.group(1)), m.group(2))
+    t = f.read_text()
+    line = next((l for l in t.splitlines() if re.search(r'(?i)mark scheme|MS:', l)), '')
+    nums = sorted({int(x) for x in re.findall(r'\b(\d{1,2})\b', line) if 3 <= int(x) <= 40})
+    print(f'{f.name:45s} truth={truth.get(key)} claims={nums}')
+    print('     ', line[:150])

@@ -148,3 +148,14 @@
 | Redundancy check | — | The four note-areas ("DO NOT WRITE IN THIS AREA") and the mark-scheme general guidance pages (pp. 2–3) extract normally, which is why only the content pages looked empty |
 
 **Still true, and worth keeping:** no candidate script is reproduced in this paper's examiner report for any question, so the answer sets remain constructed and claim no score. The authentic-response index is unchanged at 92.
+
+---
+
+## Section A pages, pp. 4–13 — rendered and spot-checked, not yet transcribed
+
+Printed pp. 4–13 carry the Section A answers and the AO2/AO3 grids. They are **legible when rendered**, exactly like the pages above, and they are **not yet transcribed here** because no answer set currently quotes them apart from the two checks below. Two spot-checks were made on 29 October 2026 to confirm the Section A citations in `Answer_Sets/November_2024_P1_Section_A.md`, which cites "MS p. 8" for Q4 and Q5:
+
+- **Printed p. 8** (rendered at 140 dpi): Q4 (Text Two) reads "One mark for **any one** of the following: a new hobby; reading (more); taking (more) photos; crafting; cooking; any solo activity that allows you to gain new skills; exploring your creative side; social activities/joining a club or organisation; doing something outside your comfort zone." Q5 reads "One mark each for **any two** of the following: unhealthy attachments; bad habits; smoking; drinking; going to the gym; social media; anything holding you back; emotional baggage."
+- Both match the answer set's claims exactly — "Try a new hobby" is the **first** accepted bullet for Q4, and "smoking" and "social media" are both accepted for Q5.
+
+**What remains unverified:** the exact wording of pp. 4–7 and 9–13 (Q1–Q3, Q6, Q7 and the AO2 grids). The answer set's Q1 and Q2 keys were confirmed earlier from printed p. 5, and Q4/Q5 from p. 8; Q3, Q6 and Q7 are original AO2 analyses built on the question wording, not quotations of a specific MS bullet, so the risk of a mis-citation there is low but not zero. Transcribe those pages before quoting them.

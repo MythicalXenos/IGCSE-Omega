@@ -93,6 +93,6 @@ The awarded **8/8** is full marks and is untouched. Full reasoning: `Answer_Sets
 ## 5. What is *not* a gap, so nobody reopens it
 
 - **Coverage.** 253/253 question-option entries across 23 papers; Section B Q8 and Section C complete for every paper.
-- **Counts.** Authentic index 92 (14 transcripts + 78 locators); 239 constructed entries; 59 constructed models. None of the constructed entries claims a score.
-- **Form differentiation** across Section C is deliberate and paper-specific: Q9 the discursive statement, Q10 a supplied-entitlement story (late title reveal only where the report or mark scheme permits it), Q11 a description.
+- **Counts.** Authentic index 92 (14 transcripts + 78 locators); 239 constructed entries; 84 word-counted constructed models totalling 42,753 words (re-measured 29 October 2026); the 115 answer-set files outside the README hold 256,165 words in 13,703 lines. None of the constructed entries claims a score.
+- **Form differentiation** across Section C is deliberate and paper-specific, and now measured against all 23 question papers: **Q9 a discursive task** — a quoted statement on 22 papers, with January 2022 P1 the exception ("Discuss whether travel broadens the mind"); **Q10 a supplied-title story** on 23 of 23 ("Write a story (true or imaginary) entitled ‘…’"), with a late title reveal only where the report or mark scheme permits it; **Q11 a description** on 23 of 23 (every one opens "Describe …").
 - **Duplicate archive bundle.** Removed in `45a1ef7` after hash verification; do not re-raise.

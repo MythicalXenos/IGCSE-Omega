@@ -9,7 +9,7 @@
 ## Provenance and evidence boundary
 
 - **Question paper:** `Paperlords_Archive/IGCSE/4EB1_English_Language_B/June_2026/4EB1_English_Language_B_June_2026_P1_QP.pdf`, cover **4EB1/01R**, Source Booklet dated **Thursday 21 May 2026**. Section C printed p. 21 = PDF index 20. Read in full this turn.
-- **Mark scheme:** `4EB1_English_Language_B_June_2026_P2_MS.pdf` (headed **Paper 01R**; 22 pages). **Q9 indicative content PDF p. 19 = printed p. 20**; shared Section C **AO4 grid p. 20** and **AO5 grid p. 21**. Read in full this turn.
+- **Mark scheme:** `4EB1_English_Language_B_June_2026_P2_MS.pdf` (headed **Paper 01R**; 22 pages). **Q9 indicative content PDF p. 20 = printed p. 20**; shared Section C **AO4 grid PDF p. 21 (printed p. 21)** and **AO5 grid PDF p. 22 (printed p. 22)**. Read in full this turn.
 - **One structural point worth recording:** Section C **AO5 has five levels here (top band Level 5, 9–10)**, unlike Section B's AO5, which stops at Level 4 (7–8). Anyone marking this paper must not carry the Section B cap across. AO4 is 20 marks across five levels (1–4, 5–8, 9–12, 13–16, 17–20), as in every 4EB1 Section C.
 - **Examiner report: not located** for this session — the `4eb1-01-pef-<date>.pdf` pattern returned 404 for the plausible late-summer 2026 dates and public search surfaced none. Recorded as an **access gap**, not an absence claim.
 - **Cross-paper guidance used instead (labelled):** the June 2025 report's Q9 commentary — the most recent verified discursive-writing commentary in the bank — is quoted in its own section below and attributed every time. It describes a *different* Q9 prompt, so it is used for **method**, never for indicative content.

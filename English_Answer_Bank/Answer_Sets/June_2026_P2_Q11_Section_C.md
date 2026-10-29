@@ -9,7 +9,7 @@
 ## Provenance and evidence boundary
 
 - **Question paper:** `…June_2026_P2_QP.pdf`, cover **4EB1/01**. Section C printed p. 21 = PDF index 20, read in full this turn.
-- **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q11 indicative content PDF p. 19 = printed p. 8**; shared **AO4 grid p. 20**, **AO5 grid p. 21**, read in full this turn.
+- **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q11 indicative content PDF p. 20 = printed p. 8** (pagination restarts: printed p. 8 = PDF 20); shared **AO4 grid PDF p. 21 (printed p. 9)**, **AO5 grid PDF p. 22 (printed p. 10)**, read in full this turn.
 - **Examiner report: not located** for June 2026 — recorded as an access gap.
 - **Cross-paper guidance (labelled):** the June 2025 report's Q11 commentary on “Describe a beautiful place” is quoted in detail in the June 2026 P1 Q11 set; its central point — that description must dominate and that candidates write “narrative responses… with pockets of description” — applies directly here.
 - **Authentic-response index: unchanged at 92.**
@@ -35,9 +35,9 @@ Full Section C rubric as printed: answer ONE question; spend 1 hour; do not re-t
 >
 > Examiners should be open to a wide range of interpretation.
 
-**AO4 — 20 marks (MS printed p. 20):** L3 (9–12) clear communication and purpose; **L4 (13–16)** successful communication, secure realisation of purpose, effective form/tone/register; **L5 (17–20)** perceptive and subtle, sharply focused, sophisticated.
+**AO4 — 20 marks (MS printed p. 9; PDF p. 21):** L3 (9–12) clear communication and purpose; **L4 (13–16)** successful communication, secure realisation of purpose, effective form/tone/register; **L5 (17–20)** perceptive and subtle, sharply focused, sophisticated.
 
-**AO5 — 10 marks, five levels (MS printed p. 21):** **L5 (9–10)** complex ideas with cohesive structural and grammatical features; extensive, strategic vocabulary; punctuation accurate for emphasis; sentence structures selected for effect.
+**AO5 — 10 marks, five levels (MS printed p. 10; PDF p. 22):** **L5 (9–10)** complex ideas with cohesive structural and grammatical features; extensive, strategic vocabulary; punctuation accurate for emphasis; sentence structures selected for effect.
 
 **Two halves to satisfy:** what can be seen, **and** “the effects it had on them”. A pure list of what is visible meets half the MS; a piece that only reports feelings meets the other half.
 
@@ -49,7 +49,7 @@ Praised: “a focused and sustained attempt at crafting a piece of description�
 
 ## [CONSTRUCTED, GRADE 9 TARGET] Constructed description
 
-**Label:** original writing for this exact task, built from this paper's MS (printed p. 8) and AO4/AO5 descriptors (pp. 20–21), with method informed by the June 2025 report. **No report or script exists for this paper.** Not a Pearson script, not examiner-marked, **no score claimed**.
+**Label:** original writing for this exact task, built from this paper's MS (printed p. 8) and AO4/AO5 descriptors (printed pp. 9–10; PDF pp. 21–22), with method informed by the June 2025 report. **No report or script exists for this paper.** Not a Pearson script, not examiner-marked, **no score claimed**.
 
 > **The view from my window**
 >

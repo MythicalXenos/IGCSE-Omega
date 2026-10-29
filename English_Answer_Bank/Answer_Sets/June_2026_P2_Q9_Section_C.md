@@ -9,7 +9,7 @@
 ## Provenance and evidence boundary
 
 - **Question paper:** `…June_2026_P2_QP.pdf`, cover **4EB1/01**, Source Booklet dated Thursday 21 May 2026. Section C printed p. 21 = PDF index 20, read in full this turn.
-- **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q9 indicative content PDF p. 19 = printed p. 8** (the pagination restarts in this file); shared Section C **AO4 grid p. 20** and **AO5 grid p. 21**, read in full this turn.
+- **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q9 indicative content PDF p. 20 = printed p. 8** (pagination restarts in this file: printed p. 8 = PDF 20); shared Section C **AO4 grid PDF p. 21 (printed p. 9)** and **AO5 grid PDF p. 22 (printed p. 10)**, read in full this turn.
 - **A provenance point specific to this question:** the Q9 statement is lifted **verbatim from Text One** of this paper — Devi Sridhar's article, printed p. 3, where the writer says people are entitled to a certain level of freedom and choice “as long as it doesn't harm others”. The QP's Section C rubric says **“Do not re-tell events from Text One or Text Two”**, which does not forbid using the argument, but does forbid narrating the article. The model therefore argues the proposition on its own terms and names none of the article's examples.
 - **Examiner report: not located** for June 2026 — recorded as an access gap.
 - **Authentic-response index: unchanged at 92.**
@@ -50,9 +50,9 @@
 >
 > Examiners should be open to a wide range of interpretation.
 
-**AO4 — 20 marks (MS printed p. 20):** L3 (9–12) communicates clearly; **L4 (13–16)** communicates successfully, secure realisation of purpose, effective form, tone and register; **L5 (17–20)** perceptive and subtle, sharply focused on task, sophisticated form, tone and register.
+**AO4 — 20 marks (MS printed p. 9; PDF p. 21):** L3 (9–12) communicates clearly; **L4 (13–16)** communicates successfully, secure realisation of purpose, effective form, tone and register; **L5 (17–20)** perceptive and subtle, sharply focused on task, sophisticated form, tone and register.
 
-**AO5 — 10 marks, five levels (MS printed p. 21):** **L5 (9–10)** manipulates complex ideas with cohesive structural and grammatical features; extensive vocabulary used strategically; accurate punctuation for emphasis; sentence structures selected for effect.
+**AO5 — 10 marks, five levels (MS printed p. 10; PDF p. 22):** **L5 (9–10)** manipulates complex ideas with cohesive structural and grammatical features; extensive vocabulary used strategically; accurate punctuation for emphasis; sentence structures selected for effect.
 
 ## Cross-paper examiner guidance — June 2025 report, Q9 (quoted; different prompt, method only)
 
@@ -60,7 +60,7 @@ Quoted in the June 2026 P1 Q9 set in full; the operative points for a discursive
 
 ## [CONSTRUCTED, GRADE 9 TARGET] Constructed discursive response
 
-**Label:** original writing for this exact task, built from this paper's MS indicative content (printed p. 8) and its verified AO4/AO5 grids (pp. 20–21), with method informed by the June 2025 report commentary. **No report or script exists for this paper.** Not a Pearson script, not examiner-marked, **no score claimed**.
+**Label:** original writing for this exact task, built from this paper's MS indicative content (printed p. 8) and its verified AO4/AO5 grids (printed pp. 9–10; PDF pp. 21–22), with method informed by the June 2025 report commentary. **No report or script exists for this paper.** Not a Pearson script, not examiner-marked, **no score claimed**.
 
 > **‘People are entitled to freedom and choice about how they spend their time and what they do, as long as it doesn’t harm others.’ To what extent do you agree?**
 >

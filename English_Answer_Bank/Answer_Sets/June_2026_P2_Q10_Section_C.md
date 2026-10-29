@@ -9,7 +9,7 @@
 ## Provenance and evidence boundary
 
 - **Question paper:** `…June_2026_P2_QP.pdf`, cover **4EB1/01**. Section C printed p. 21 = PDF index 20, read in full this turn.
-- **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q10 indicative content PDF p. 19 = printed p. 8**; shared **AO4 grid p. 20**, **AO5 grid p. 21**, read in full this turn.
+- **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q10 indicative content PDF p. 20 = printed p. 8** (pagination restarts: printed p. 8 = PDF 20); shared **AO4 grid PDF p. 21 (printed p. 9)**, **AO5 grid PDF p. 22 (printed p. 10)**, read in full this turn.
 - **Examiner report: not located** for June 2026 — recorded as an access gap.
 - **Cross-paper guidance (labelled):** the June 2025 report's Q10 narrative commentary (written about ‘The First Impression’) is quoted in the June 2026 P1 Q10 set in detail and summarised here; it supplies **craft advice only**.
 - **Authentic-response index: unchanged at 92.**
@@ -35,9 +35,9 @@ Full Section C rubric as printed: answer ONE question; spend 1 hour; **Do not re
 >
 > Examiners should be open to a wide range of interpretation.
 
-**AO4 — 20 marks (MS printed p. 20):** L3 (9–12) clear communication and purpose; **L4 (13–16)** communicates successfully, secure realisation of purpose, effective form/tone/register; **L5 (17–20)** perceptive and subtle, sharply focused, sophisticated form, tone and register.
+**AO4 — 20 marks (MS printed p. 9; PDF p. 21):** L3 (9–12) clear communication and purpose; **L4 (13–16)** communicates successfully, secure realisation of purpose, effective form/tone/register; **L5 (17–20)** perceptive and subtle, sharply focused, sophisticated form, tone and register.
 
-**AO5 — 10 marks, five levels (MS printed p. 21):** **L5 (9–10)** complex ideas handled with cohesive structural and grammatical features; extensive vocabulary used strategically; punctuation accurate for emphasis; sentence structures selected for effect.
+**AO5 — 10 marks, five levels (MS printed p. 10; PDF p. 22):** **L5 (9–10)** complex ideas handled with cohesive structural and grammatical features; extensive vocabulary used strategically; punctuation accurate for emphasis; sentence structures selected for effect.
 
 ## Cross-paper craft guidance applied — June 2025 report, Q10 (summarised; quoted fully in the June 2026 P1 Q10 set)
 
@@ -47,7 +47,7 @@ Praised: “fewer characters which were well-developed and a well-thought-out pl
 
 ## [CONSTRUCTED, GRADE 9 TARGET] Constructed story
 
-**Label:** original writing for this exact task, built from this paper's MS (printed p. 8) and AO4/AO5 descriptors (pp. 20–21), with craft method informed by the June 2025 report. **No report or script exists for this paper.** Not a Pearson script, not examiner-marked, **no score claimed**.
+**Label:** original writing for this exact task, built from this paper's MS (printed p. 8) and AO4/AO5 descriptors (printed pp. 9–10; PDF pp. 21–22), with craft method informed by the June 2025 report. **No report or script exists for this paper.** Not a Pearson script, not examiner-marked, **no score claimed**.
 
 > **Lost and found**
 >

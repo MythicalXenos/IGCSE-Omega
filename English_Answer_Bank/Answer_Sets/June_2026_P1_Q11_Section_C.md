@@ -9,7 +9,7 @@
 ## Provenance and evidence boundary
 
 - **Question paper:** `…June_2026_P1_QP.pdf`, cover **4EB1/01R**. Section C printed p. 21 = PDF index 20, read in full this turn.
-- **Mark scheme:** `…June_2026_P2_MS.pdf` (headed Paper 01R). **Q11 indicative content PDF p. 19 = printed p. 20**; shared Section C **AO4 grid p. 20** and **AO5 grid p. 21**, read in full this turn.
+- **Mark scheme:** `…June_2026_P2_MS.pdf` (headed Paper 01R). **Q11 indicative content PDF p. 20 = printed p. 20**; shared Section C **AO4 grid PDF p. 21 (printed p. 21)** and **AO5 grid PDF p. 22 (printed p. 22)**, read in full this turn.
 - **Examiner report: not located** for June 2026 — recorded as an access gap, not an absence claim.
 - **Cross-paper guidance (labelled):** the June 2025 report's Q11 commentary, written about “Describe a beautiful place”, is quoted below and used for **descriptive-writing method only**.
 - **Authentic-response index: unchanged at 92.**

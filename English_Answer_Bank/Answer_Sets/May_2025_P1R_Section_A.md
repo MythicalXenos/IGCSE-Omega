@@ -18,6 +18,7 @@
 
 - Question paper and appended Source Booklet: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1R_QP.pdf`
 - Matching mark scheme: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/May_2025/4EB1_English_Language_B_May_2025_P1R_MS.pdf`
+- **Wording of the accepted points:** the lists below are **paraphrases** of the mark scheme's bullets, not quotations. For example the MS's “could hear the jingling of bells on the camels” appears as “bells could be heard jingling around the camels’ necks”, and “The bells around the camels’ necks jingled” is the model's full-sentence form of the same point. The meaning of each accepted point is preserved; read the cited MS page if the exact phrasing matters.
 - Official examiner report: [Pearson June 2025 P1R examiner report, publication code 4EB1_01R_2506_ER](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-Language-B/2016/Exam-materials/4eb1-01r-pef-20250821.pdf) (linked source; not stored in the current checkout)
 
 ## Questions — exact QP prompts only

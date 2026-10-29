@@ -20,6 +20,7 @@
 
 - Question paper and appended Source Booklet: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/June_2026/4EB1_English_Language_B_June_2026_P2_QP.pdf` (cover 4EB1/01; barcode P79649A).
 - Matching mark scheme by internal cover code: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/June_2026/4EB1_English_Language_B_June_2026_P1_MS.pdf` (internal cover: Paper 01; printed pp. 5–15 used here).
+- **Wording of the accepted points:** the lists below are **paraphrases** of the mark scheme's bullets, not quotations. The MS writes them line-broken and abbreviated, and the model restates each accepted point in full-sentence form (for example “Adults can help by putting limits on screen time” renders an MS bullet about parental limits). The meaning of each accepted point is preserved; read the cited MS page if the exact phrasing matters.
 - Pairing metadata: `Paperlords_Archive/Paperlords_QP_MS_ER_Pairings.csv` (June 2026 P2 row corrected to the P1-named Paper 01 MS; no Paperlords ER listed).
 
 **Access references consulted**

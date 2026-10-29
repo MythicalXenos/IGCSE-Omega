@@ -20,6 +20,7 @@
 
 - Question paper and appended Source Booklet: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/June_2026/4EB1_English_Language_B_June_2026_P1_QP.pdf` (cover 4EB1/01R; barcode P79650A).
 - Matching mark scheme by internal cover code: `Paperlords_Archive/IGCSE/4EB1_English_Language_B/June_2026/4EB1_English_Language_B_June_2026_P2_MS.pdf` (internal cover: Paper 01R; printed pp. 5–15 used here).
+- **Wording of the accepted points:** the lists below are **paraphrases** of the mark scheme's bullets, not quotations. The MS writes them line-broken and abbreviated — e.g. “the sound of the nib scratching/sliding across paper was music to his ears” — and the model states the same point as “He loved the sound of a nib scratching or sliding across paper.” The meaning of each accepted point is preserved; read the cited MS page if the exact phrasing matters.
 - Pairing metadata: `Paperlords_Archive/Paperlords_QP_MS_ER_Pairings.csv` (June 2026 P1 row corrected to the P2-named 01R MS; no Paperlords ER listed).
 
 **Access references consulted**
