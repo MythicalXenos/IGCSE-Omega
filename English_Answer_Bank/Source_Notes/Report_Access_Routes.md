@@ -50,8 +50,8 @@ https://qualifications.pearson.com/content/dam/pdf/International-GCSE/English-La
 | June 2024 | `4eb1-01-pef-20240822.pdf`, `4eb1-01r-pef-20240822.pdf` | exists |
 | November 2024 | `4eb1-01-pef-20250123.pdf` | exists |
 | June 2025 | `4eb1-01-pef-20250821.pdf`, `4eb1-01r-pef-20250821.pdf` | exists |
-| November 2025 | **exists, centre-gated** — released to centres 27 January 2026 | not public until about January 2027; see §6 |
-| June 2026 | **exists, centre-gated** — released in the August 2026 results window | not public until about August 2027; see §6 |
+| November 2025 | **exists, centre-gated** — released to centres **27 January 2026** | not public until about January 2027; see §6 |
+| June 2026 | **exists, centre-gated** — released to centres **from 25 August 2026** | not public until about mid-2027 to August 2027; see §6 |
 
 All of these are public *now* because they are more than twelve months old. Older reports also sit under the legacy path `…/English%20Language%20B/2016/exam-materials/…` (percent-encoded, case-sensitive).
 
@@ -61,25 +61,35 @@ All of these are public *now* because they are more than twelve months old. Olde
 
 **The rule, in Pearson's own words.** Pearson's past-papers page states: "Question papers, mark schemes and examiner reports for the most recent exam sessions (within the last 12 months) can be accessed only by registered centres." Examiner reports for a series are therefore released to centres first, on a published date, and become public after that window.
 
-**The release dates, from four independent Pearson subject updates (December 2025).**
+**The release dates, from Pearson's own subject updates.**
 
-| Source | Statement |
-|---|---|
-| Economics update | "27 January — IAL (October series) and International GCSE (November series) examiners' reports uploaded" |
-| Business update | identical line, same date |
-| Geography subject update | "27 January - International GCSE (November series) examiners' reports on website" |
-| Computer Science (2026) update | "Exam materials from the November 2025 exam series will be made available on our website (**secure download**)"; table row "GCSE Examiner Reports — 27 January 2026 (**available on ResultsPlus from Results Day**)" |
+| Series | Statement | Source |
+|---|---|---|
+| November 2025 | "27 January — IAL (October series) and International GCSE (November series) examiners' reports uploaded" | December 2025 Economics and Business updates; Geography subject update: "27 January - International GCSE (November series) examiners' reports on website"; Computer Science update: "GCSE Examiner Reports — 27 January 2026 (available on ResultsPlus from Results Day)" |
+| June 2026 | "Exam materials release dates … Question papers 23 June 2026 · Mark schemes 21 July 2026 · **Examiner reports from 25 August 2026**" | "Getting Ready for Results 2026" (Pearson languages subject update); June 2026 History subject update repeats: "GCSE / International GCSE examiners reports will be made available on our website from **25 August 2026**" |
 
-So the November 2025 4EB1 report was released on **27 January 2026** — six days after the 22 January 2026 results day — into Pearson's secure download area, and was on ResultsPlus from results day itself. It is not a missing file; it is a file behind a login.
+So neither series is missing a report. The November 2025 report went out on **27 January 2026** and the June 2026 reports from **25 August 2026**, both into Pearson's secure download area, and both on ResultsPlus from results day (the "Getting Ready for Results 2026" page gives the click path: ResultsPlus → ResultsPlus Analysis → Whole cohort results → Cohort paper analysis → the series and subject → **Exam docs** → Examiner Report). What is gated is the *public* copy.
 
-**The observed boundary fits the 12-month rule exactly.** The newest publicly downloadable 4EB1 reports are the June 2025 pair (`4eb1-01-pef-20250821.pdf`, `4eb1-01r-pef-20250821.pdf`). Everything from June 2025 backwards is public; everything from November 2025 forwards is not. June 2025 sits just outside twelve months as of today (29 October 2026); November 2025 does not. That is the whole explanation, and it also explains why my filename probes failed: `4eb1-01-pef-20260122.pdf`, `…-20260127.pdf` and `…-20260820.pdf` all return Pearson's "Page not found", because the public path is the wrong place to look.
+**What the community says — and it matches exactly.** Students and teachers asking this same question reach the same two conclusions: the reports exist and are released on a published date, and the recent ones are locked.
 
-**What this predicts (approximate, to be re-tested, not assumed).**
+- r/Edexcel, asked for the IGCSE English Language B June 2025 report (24 August 2025): "**26th August is when they get officially released on the Pearson site.** I haven't seen any links that have them, so fair chance saying that you aren't finding them before that date." The June 2025 report is dated 21 August 2025, so the community date is within days of the real one.
+- The Student Room, "GCSE Edexcel Mathematics Examiners Report": the reports are all on the Pearson course-materials page "**but the recent ones are locked and can only legitimately be accessed via your teacher**."
+- The Student Room, "Edexcel IGCSE summer 2024": the mark schemes "**won't be available to the public until the summer of 2025**", quoting Pearson's rule verbatim: "Question papers, mark schemes and examiner reports for the most recent exam sessions (within the last 12 months) can be accessed only by registered centres."
+- The Student Room, "Where can I find the 2014 GCSE Edexcel Examiner Reports?": "They've been released today on the Edexcel website! **... only to teachers though.**"
+- r/Edexcel, on finding locked material elsewhere: "some things like **Examiner Reports** for the most recent papers **are not available on places other than the Edexcel website**"; r/alevel, same question: "theyre all locked".
+
+That last point explains this archive's own shape. The local QP/MS collection comes from paperlords, which the community recommends precisely for *locked papers and mark schemes* — and which, per the same threads, does not carry examiner reports. Hence 23 QPs and 23 MSs locally but only two ERs (the 2023 pair).
+
+**Why the twelve-month boundary lands where it does.** Newest publicly downloadable 4EB1 reports: the June 2025 pair (`4eb1-01-pef-20250821.pdf`, `4eb1-01r-pef-20250821.pdf`). Everything from June 2025 backwards is public; everything from November 2025 forwards is not. That is the gating rule doing its work, not missing files — and it is why filename probes on the 2026 dates return "Page not found": the files are in the centre area, not under `Exam-materials/`.
+
+**What this predicts (approximate; re-test, don't assume).**
 
 | Session | Released to centres | Expected public window |
 |---|---|---|
 | November 2025 P1 | 27 January 2026 | from about **January 2027** |
-| June 2026 P1 / P2 | results-day window, August 2026 | from about **August 2027** |
+| June 2026 P1 / P2 | from 25 August 2026 | somewhere between **mid-2027 and August 2027** |
+
+The uncertainty in the June 2026 row is real: Pearson's rule speaks of "the most recent exam sessions (within the last 12 months)", which could be counted from the session or from the release date, and the user-facing pages only say the materials "will be made available on our website". The one hard observation is that the June 2025 pair is public now and the June 2026 pair is not.
 
 **What this means for the bank, and for the user.** Nothing about coverage changes: both papers already have complete mark schemes, so their answer sets stand. But the two reports are *obtainable now* by anyone with Edexcel Online or ResultsPlus access — the user's school almost certainly has it, since the reports are on ResultsPlus from results day. If the user can download `4EB1_01_2511_ER` (November 2025) and the two June 2026 equivalents, this bank gains its last missing commentary layer and, where scripts are reproduced, its last missing locators. That is a school-side action, not something this workspace can do.
 

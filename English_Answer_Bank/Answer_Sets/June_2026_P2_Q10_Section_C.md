@@ -10,7 +10,7 @@
 
 - **Question paper:** `…June_2026_P2_QP.pdf`, cover **4EB1/01**. Section C printed p. 21 = PDF index 20, read in full this turn.
 - **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q10 indicative content PDF p. 20 = printed p. 8** (pagination restarts: printed p. 8 = PDF 20); shared **AO4 grid PDF p. 21 (printed p. 9)**, **AO5 grid PDF p. 22 (printed p. 10)**, read in full this turn.
-- **Examiner report: exists but is centre-gated.** Pearson released the June 2026 examiner reports to centres in the August 2026 results window, and they are available on ResultsPlus and via Secure Download; examiner reports for the most recent 12 months are centre-only, so no public copy is fetchable yet (expected from about August 2027). Earlier notes here said “not located”, which understated the position — the file is not missing, it is behind a login. Evidence in `../Source_Notes/Report_Access_Routes.md` §6.
+- **Examiner report: exists but is centre-gated.** Pearson's own schedule puts the June 2026 examiner reports on the website **from 25 August 2026** (mark schemes 21 July, question papers 23 June), and they are on ResultsPlus from results day; examiner reports for the most recent 12 months are centre-only, so no public copy is fetchable yet (expected from about August 2027). Earlier notes here said “not located”, which understated the position — the file is not missing, it is behind a login. Evidence in `../Source_Notes/Report_Access_Routes.md` §6.
 - **Cross-paper guidance (labelled):** the June 2025 report's Q10 narrative commentary (written about ‘The First Impression’) is quoted in the June 2026 P1 Q10 set in detail and summarised here; it supplies **craft advice only**.
 - **Authentic-response index: unchanged at 92.**
 
