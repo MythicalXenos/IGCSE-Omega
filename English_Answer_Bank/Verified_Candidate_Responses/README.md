@@ -11,7 +11,7 @@ This directory stores only real candidate work reproduced in official Pearson ex
 | P1 Q3 | 9/10, Level 5 | Near-full; response pp. 7–9, judgement p. 10 |
 | P1 Q6 | 10/10, Level 5 | Full marks; pp. 17–19, judgement p. 20 |
 | P1 Q7 | 15/15, Level 5 | Full marks; pp. 25–29, judgement p. 30 |
-| P1 Q8 | 30/30 (AO1 10/10 L5; AO4 12/12 L5; AO5 8/8 L5 per ER) | Full marks; pp. 36–39, judgement p. 40; reproduction appears complete; AO5 level label conflicts with MS p. 16 |
+| P1 Q8 | 30/30 (AO1 10/10 L5; AO4 12/12 L5; AO5 8/8 — ER prints “Level 5”, MS grid p. 16 puts 7–8 at Level 4) | Full marks; pp. 36–39, judgement p. 40; reproduction appears complete; the ER's AO5 level label is a printing slip, explained in the transcript (§ calibration note) |
 | P1 Q9 | 17/30 (AO4 Level 3; AO5 Level 3) | Lower-scoring; pp. 45–47, judgement p. 48; reproduction appears complete |
 | P1 Q10 | 30/30 (AO4 20/20 L5; AO5 10/10 L5) | Full marks; pp. 51–54, judgement p. 55; complete, cross-outs flagged |
 | P1 Q11 | 23/30 (AO4 16/20 L4; AO5 7/10 L4) | Lower-scoring; pp. 58–61, judgement p. 62; complete, uncertain/crossed-out wording flagged |
@@ -77,7 +77,7 @@ This paper gives a **within-paper spread on three forms** — 15, 22 and 27 — 
 
 Reviewed again this turn while writing that paper's Section C trio. The report (`4eb1-01-pef-20250123.pdf`) carries **substantial Q9, Q10 and Q11 commentary** but reproduces **no Section C script, score or judgement page** at all, so this paper contributes **nothing** to the authentic-response index: no transcript, no locator. That is a **structural absence** in the publication, not an access gap, and it is distinct from the papers whose scripts exist as image-only pages.
 
-Two other limits on this paper are recorded in its three answer sets: the published MS `4EB1_01_2411_MS` has **every Section C page emptied** (question numbers and grid level labels survive; indicative content, descriptors and mark ranges do not), and there is therefore no Q9/Q10/Q11 indicative content to quote. The answer sets use the paper's own report commentary and cite AO4/AO5 band wording **borrowed from the May/June 2024 P1 grids**, labelled as borrowed each time.
+One limit formerly recorded here is corrected. The claim that `4EB1_01_2411_MS` has **every Section C page emptied** is false: the pages are complete and only the *text layer* is broken (body glyphs are 2×2-pixel images on printed pp. 4–20). Rendered as images, printed p. 18 gives the full Q9/Q10/Q11 indicative content and printed pp. 19–20 give the AO4 and AO5 grids with all descriptors and mark ranges. All three Section C answer sets now quote this paper's own content and band wording, transcribed in `Source_Notes/November_2024_P1_MS_facsimile_transcription.md`. The genuine absence on this paper remains the report's — no Section C script, score or judgement page is reproduced — so the paper still adds nothing to the authentic-response index.
 
 ## May/June 2022 P1 (4EB1/01) — Section C locators confirmed against the report itself (29 October 2026)
 

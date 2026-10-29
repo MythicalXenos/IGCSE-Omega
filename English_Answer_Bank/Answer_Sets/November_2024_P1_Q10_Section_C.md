@@ -1,17 +1,15 @@
 # Answer Set — November 2024 P1 (4EB1/01), Section C Q10
 
-**Status:** Complete, as a **constructed, examiner-report-guided answer**. This paper's mark scheme is **published defective** (Section C content and both band grids empty) and its report reproduces **no** Section C script or score, so **no score is claimed**. Band wording is **borrowed** from verified grids on another paper and labelled.
-
-**Paper:** Pearson Edexcel International GCSE English Language B, **November 2024, 4EB1/01**. QP barcode **P73421RA**.
+**Status:** Complete, as a **constructed, mark-scheme- and examiner-report-guided answer**. The mark scheme's **printed content is complete** and cited below from this paper's own pages; only its **text layer** is damaged (transcribed in `../Source_Notes/November_2024_P1_MS_facsimile_transcription.md`). Its report reproduces **no** Section C script or score, so **no score is claimed**. Band wording is **this paper's own**; the earlier borrowed descriptors are retired. **Paper:** Pearson Edexcel International GCSE English Language B, **November 2024, 4EB1/01**. QP barcode **P73421RA**.
 
 **Coverage:** Section C Q10 only (30 marks; one question-option entry).
 
 ## Provenance and evidence boundary
 
 - **QP:** Section C printed p. 21, read in full this turn.
-- **MS:** `…November_2024_P1_MS.pdf` — **defect re-confirmed this turn**: printed p. 18 lists the question numbers 9–11 with no indicative content; printed pp. 19–20 carry AO4 and AO5 grids with **no descriptors and no mark ranges**.
+- **MS:** `…November_2024_P1_MS.pdf` — **defect re-diagnosed 29 October 2026:** the *text layer* is broken on printed pp. 4–20 (every body character is a 2×2-pixel image object), but the printed pages are complete. Read as images: Q10 content printed **p. 18** (“No indicative content can be specified… a sense of drama, vivid description, excitement or suspense… Explicit reference to the title may not be mentioned until the end of the story”), AO4 grid printed **p. 19**, AO5 grid printed **p. 20**.
 - **Report:** `4eb1-01-pef-20250123.pdf`, Q10 commentary recovered in the text route this turn (it begins “Question 10 was the most popular question… **Some examiners commented positively on the quality of some of the responses to the title ‘The Reunion’**”). The report **reproduces no script, score or judgement page** — a structural absence recorded in this bank since the paper was first reviewed.
-- **Borrowed band wording (labelled):** AO4 L4 13–16 / **L5 17–20** and AO5 **L5 9–10**, as printed in the May/June 2024 P1 MS grids (pp. 18–19). Not this paper's printing.
+- **Band wording (this paper's own, printed pp. 19–20, transcribed from facsimile):** AO4 L4 13–16 / **L5 17–20**; AO5 **L5 9–10**. Identical to the May/June 2024 grids previously borrowed, which is an independent check on the transcription.
 - **Authentic-response index: unchanged at 92.**
 
 ## Exact QP context — Q10 (printed p. 21)
@@ -20,6 +18,21 @@
 > (Total for Question 10 = 30 marks)
 
 Same rubric: one question; 1 hour; no re-telling of the source texts; approximately 400 words.
+
+## Matching MS criteria — recovered from the facsimile (printed p. 18)
+
+**Indicative content, quoted in full:**
+
+> No indicative content can be specified, since candidates may choose to interpret the title as they wish.
+>
+> Candidates should be rewarded for such qualities as a sense of drama, vivid description, excitement or suspense.
+>
+> NB: Explicit reference to the title may not be mentioned until the end of the story.
+>
+> Examiners should be open to a wide range of interpretation.
+
+**AO4 (printed p. 19):** L4 13–16; **L5 17–20**.
+**AO5 (printed p. 20):** **L5 9–10**.
 
 ## What this paper's own report says about Q10 (recovered this turn)
 
@@ -47,7 +60,7 @@ This is the most warning-heavy Q10 commentary in the series, and three of its wa
 
 ## [CONSTRUCTED, GRADE 9 TARGET] Constructed story
 
-**Label:** original writing for this exact task, built from this paper's **own examiner report** with band descriptors **borrowed and labelled**. **Not a Pearson script; not examiner-marked; no score claimed.**
+**Label:** original writing for this exact task, built from this paper's **own mark scheme** (printed p. 18 content, pp. 19–20 grids) and **own examiner report**. **Not a Pearson script; not examiner-marked; no score claimed.**
 
 > **Platform nine**
 >
@@ -81,8 +94,8 @@ This is the most warning-heavy Q10 commentary in the series, and three of its wa
 
 ## Why this model targets the top bands — and what it does not claim
 
-- **AO4 (borrowed descriptors):** character and place built through small physical detail; emotional content that is “heartfelt” without being declared; a clear focus on the reunion itself, which the report says weak answers lost.
-- **AO5 (borrowed descriptors):** punctuation used to pace (semicolons, dashes, a one-line paragraph), varied sentence length, and a restrained register that never inflates.
+- **AO4:** character and place built through small physical detail; emotional content that is “heartfelt” without being declared; a clear focus on the reunion itself, which the report says weak answers lost.
+- **AO5:** punctuation used to pace (semicolons, dashes, a one-line paragraph), varied sentence length, and a restrained register that never inflates.
 - **Not claimed:** no score, no level, no script comparison — this paper publishes no usable Section C MS and no reproduced script.
 
 ## Scope boundary

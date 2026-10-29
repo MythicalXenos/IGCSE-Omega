@@ -160,7 +160,7 @@ These are **authentic candidate scripts reproduced in Pearson’s official exami
 **Authentic response locator:** examiner-report printed pp. 36–39. **Published judgement:** p. 40.
 **Pearson’s calibration:** 30/30 — AO1 10/10, Level 5; AO4 12/12, Level 5; AO5 8/8, Level 5. The reproduced response has a complete ending.
 
-**Report/mark-scheme level-label discrepancy (checked against the local PDFs):** the examiner judgement on printed p. 40 explicitly labels AO5 8/8 as Level 5. The matching P1 Q8 mark-scheme AO5 grid on p. 16 has Levels 1–4 only, with 7–8 as Level 4. Preserve both sources as printed; this discrepancy is unresolved. The awarded 8/8 remains full marks and is not altered.
+**Report/mark-scheme level-label discrepancy (checked against the local PDFs, and now explained — 29 October 2026):** the examiner judgement on printed p. 40 labels AO5 8/8 as “Level 5”. The matching P1 Q8 mark-scheme AO5 grid on printed p. 16 has Levels 1–4 only, with 7–8 as Level 4. Both are preserved as printed. The label is a slip in the report, on three grounds: (i) this AO maxes at 8 marks in four levels, so a Level 5 cannot exist for it; (ii) p. 40's AO5 sentence — “does manipulate complex ideas with a range of features and an extensive vocabulary” — paraphrases the grid's Level 4 bullet (“Manipulates complex ideas… Uses extensive vocabulary strategically”); (iii) the same report applies the four-level scale correctly to other Section B AO5 marks, printing “Mark = 6, Level 3” on p. 48 and “Mark = 4, Level 2” on p. 42. The awarded **8/8** is full marks and is not altered, and the report's wording is still quoted verbatim wherever this response appears.
 
 ### Candidate-script transcription
 

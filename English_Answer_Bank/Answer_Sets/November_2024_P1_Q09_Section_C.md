@@ -1,6 +1,6 @@
 # Answer Set — November 2024 P1 (4EB1/01), Section C Q9
 
-**Status:** Complete, as a **constructed, examiner-report-guided answer**. This paper's mark scheme is **published defective** (Section C indicative content and both band grids are empty), and its report reproduces **no** Section C script or score. So there is no authentic response for this question and **no score is claimed**. Band wording is cited from verified grids on other papers and **labelled as borrowed**.
+**Status:** Complete, as a **constructed, mark-scheme- and examiner-report-guided answer**. The mark scheme's **printed content is complete** and is cited below from this paper's own pages; only its **text layer** is damaged, so it must be read as page images (transcribed verbatim in [`../Source_Notes/November_2024_P1_MS_facsimile_transcription.md`](../Source_Notes/November_2024_P1_MS_facsimile_transcription.md)). The report reproduces **no** Section C script or score, so there is no authentic response for this question and **no score is claimed**. Band wording is **this paper's own** — the descriptors previously borrowed from May/June 2024 have been retired.
 
 **Paper:** Pearson Edexcel International GCSE English Language B, **November 2024, 4EB1/01** (folder `November_2024`). QP barcode **P73421RA**; cover Tuesday 5 November 2024, morning, 3 hours, total 100 marks.
 
@@ -9,9 +9,9 @@
 ## Provenance and evidence boundary
 
 - **Question paper:** `4EB1_English_Language_B_November_2024_P1_QP.pdf`, Section C printed p. 21 = PDF index 20, read in full this turn.
-- **Mark scheme:** `4EB1_English_Language_B_November_2024_P1_MS.pdf` (20 pages). **Defect confirmed this turn:** PDF index 17 = printed p. 18 carries the SECTION C header, the “Question Number / Indicative content” columns and the numerals 9, 10, 11 with **no content**; PDF index 18 = printed p. 19 has the AO4 grid with Level 1–5 rows and **no descriptors, no mark ranges**; PDF index 19 = printed p. 20 does the same for AO5. So **no indicative content and no band wording can be quoted from this paper's own MS.**
+- **Mark scheme:** `4EB1_English_Language_B_November_2024_P1_MS.pdf` (20 pages). **Defect re-diagnosed and resolved 29 October 2026:** the file's **text layer** is broken on printed pp. 4–20 — every body character is drawn as a 2×2-pixel image object, so a text-extraction route returns only headers and bullet glyphs. **The printed pages themselves are complete and legible**, and rendering them recovers every word. This paper's own content is therefore quoted directly: Q9/Q10/Q11 indicative content printed **p. 18**, AO4 grid printed **p. 19** (five levels, L5 17–20), AO5 grid printed **p. 20** (five levels, L5 9–10). Full facsimile transcription in `../Source_Notes/November_2024_P1_MS_facsimile_transcription.md`.
 - **Examiner report:** `4eb1-01-pef-20250123.pdf` — this paper's own report. Q9 commentary is recovered in the text route (mid-commentary begins in chunk 3), and it **reproduces no script, no score and no judgement page** for Q9 (or for Q10/Q11). Recorded as a **structural absence**, not an access gap.
-- **Borrowed band wording (labelled):** AO4 (20 marks; five levels, L4 13–16, **L5 17–20** “Communication is perceptive and subtle… sharply focused… sophisticated”) and AO5 (10 marks; L5 9–10) as printed in the **May/June 2024 P1 MS** grids (printed pp. 18–19), which this bank has verified. They are not claimed as this paper's printing.
+- **This paper's own band wording (printed pp. 19–20, transcribed from facsimile):** AO4 twenty marks, five levels — L4 13–16, **L5 17–20** “Communication is perceptive and subtle… sharply focused on purpose and the expectations/requirements of the intended reader… sophisticated use of form, tone and register”; AO5 ten marks, five levels — **L5 9–10** “Manipulates complex ideas… extensive vocabulary strategically… punctuates writing with accuracy to aid emphasis and precision”. The descriptors previously borrowed from May/June 2024 are retired; for the record they were identical, which is an independent check on this transcription.
 - **Authentic-response index: unchanged at 92.** This paper contributes no Section C record.
 
 ## Exact QP context — Q9 (printed p. 21)
@@ -22,6 +22,25 @@
 Same rubric: one question; 1 hour; no re-telling of the source texts; approximately 400 words.
 
 *Form note:* the command is **“Discuss”** — no “to what extent”, no audience, no article. And the statement is an **aphorism**, which means the examinable move is to ask what the key word means: *free of charge*, or *free of cost*? Those are different claims, and only one of them is true.
+
+## Matching MS criteria — recovered from the facsimile (printed p. 18)
+
+**Indicative content, quoted in full:**
+
+> As no audience is specified, the examiner is assumed to be the audience.
+>
+> Candidates are free to agree or disagree with the statement and may present a variety of arguments.
+>
+> Content may include references to: you do not, necessarily, need money to be happy; enjoyment of the natural environment is free, e.g. walking, swimming, appreciating wildlife; company of friends and family is free; valuing the simple things of life; money is required for basic essentials, e.g. food and drink, and transport (not just luxury items); some things require money, e.g. entertainment venues, theme parks, sporting events or holidays and travel; technology costs a lot of money and is often considered essential.
+>
+> Examiners should be open to a wide range of interpretation.
+
+**Balance count:** seven content points — **three** support the statement (no money needed for happiness; the natural environment is free; friends and family are free), **four** qualify it (basic essentials cost; entertainment and travel cost; technology costs; and the umbrella point about valuing simple things). A scheme built for a qualified verdict, which is what “Discuss” invites.
+
+**How this model uses the scheme:** the “natural environment is free” point is adopted and then challenged on access grounds (the sea is free; getting to it is not); “friends and family are free” is adopted and re-priced in time and attention; the “money is required for basic essentials… not just luxury items” distinction underwrites the teenage counter-argument paragraph; and “technology costs a lot… often considered essential” supplies the phone in that same paragraph. The model deliberately does **not** use the scheme as a checklist — it uses four of the seven points as load-bearing parts of one argument.
+
+**AO4 (printed p. 19):** L4 13–16; **L5 17–20**.
+**AO5 (printed p. 20):** **L5 9–10** (five levels; top band 9–10).
 
 ## What this paper's own report says about Q9 (printed pp. 42–44 territory; recovered this turn)
 
@@ -46,7 +65,7 @@ Same rubric: one question; 1 hour; no re-telling of the source texts; approximat
 
 ## [CONSTRUCTED, GRADE 9 TARGET] Constructed discursive answer
 
-**Label:** original writing for this exact task, built from this paper's **own examiner report** and from band descriptors **borrowed from the May/June 2024 P1 MS and labelled**. **Not a Pearson script; not examiner-marked; no score claimed.**
+**Label:** original writing for this exact task, built from this paper's **own mark scheme** (printed p. 18 content and pp. 19–20 grids) and its **own examiner report**. **Not a Pearson script; not examiner-marked; no score claimed.**
 
 > **The best things in life are free — and that is the problem**
 >
@@ -74,9 +93,9 @@ Same rubric: one question; 1 hour; no re-telling of the source texts; approximat
 
 ## Why this model targets the top bands — and what it does not claim
 
-- **AO4 (borrowed descriptors):** a thesis about definition rather than a vote; two developed examples; a counter-argument that is genuinely engaged; a close that replaces the statement's word rather than merely opposing it.
-- **AO5 (borrowed descriptors):** semicolons and dashes used for structure, a deliberate three-word sentence, and vocabulary chosen for precision (“unpriced”).
-- **Not claimed:** no score, no level, no comparison with any script — this paper publishes neither a usable MS nor a reproduced Section C response.
+- **AO4:** a thesis about definition rather than a vote (L5 asks for communication that is “perceptive and subtle” with a task “sharply focused on purpose”); two developed examples; a counter-argument that is genuinely engaged; a close that replaces the statement's word rather than merely opposing it.
+- **AO5:** semicolons and dashes used for structure, a deliberate three-word sentence, and vocabulary chosen for precision (“unpriced”) — the L5 wording asks for vocabulary “strategically” used and punctuation that “aids emphasis and precision”.
+- **Not claimed:** no score, no level, no comparison with any script — this paper publishes no reproduced Section C response of any kind.
 
 ## Scope boundary
 

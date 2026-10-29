@@ -6,18 +6,17 @@
 
 **Coverage:** Section B Q8 only (30 marks).
 
-## ⚠ Provenance defect — read before using any mark scheme reference for this paper
+## ⚠ Provenance note — the mark scheme's text layer is broken, but its content is not missing
 
-**The published mark scheme for this paper has no content.** `4EB1_01_2411_MS` prints the cover, the Edexcel/BTEC page, the General Marking Guidance and the “Placing a mark within a level” page in full — and then, from page 5 to page 20, **every grid is empty**: the question numbers, AO labels and bullet glyphs survive, but **every indicative point, every level descriptor and every mark range has been removed**. This was verified twice:
+**Corrected 29 October 2026.** This file previously stated that `4EB1_01_2411_MS` had "no content" and that indicative content for Q8 was "unavailable". **That was wrong**, and the error came from reading the file through a text-extraction route instead of looking at the pages.
 
-1. In the local file `Paperlords_Archive/…/4EB1_English_Language_B_November_2024_P1_MS.pdf` (20 pages): the full text layer of each grid page is only the page number, “Question 8”, “Level”, “Mark”, “AO1”/“AO4”/“AO5”, repeated “Level N” labels and repeated “•” glyphs. Page 14 (Q8 indicative content) is exactly: `Why we should celebrate • • • • • • • • • • • What to celebrate • • • • • • • What to celebrate` — no words.
-2. In **Pearson’s own hosted copy**, retrieved through a text-extraction route on 29 October 2026: identical output, page for page, including the same empty “Why we should celebrate / What to celebrate / Ways to celebrate” headings and the same Level 1–5 (AO1, AO4) and Level 1–4 (AO5) structures with blank marks.
+**What the defect actually is.** On printed pp. 4–20 of the mark scheme, the body text is drawn as **2×2-pixel image objects** rather than as glyphs: pp. 5–20 each carry between 68 and 260 of these on top of a handful of real text spans. A text extractor therefore returns only the page number, the words "Question 8", "Level", "Mark", the AO labels, repeated "Level N" labels and repeated "•" glyphs. **The printed pages themselves are complete and legible**, and rendering them as images recovers every word. The same is true of Pearson's hosted copy — which is exactly why a text route failed on both: the route, not the document, was the problem.
 
-**So this is a defect in the published file, not a corrupted download.** Consequences, stated plainly:
+**Consequences, corrected:**
 
-- **Indicative content for Q8 is unavailable** and is not reproduced, guessed, or reconstructed from memory anywhere in this file.
-- **The Q8 band descriptors and mark ranges cannot be quoted from this paper's MS.** The band wording used below is taken from the **verified complete grids in other 4EB1/01 mark schemes** — the November 2023 MS (PDF pp. 15–17) and the May/June 2024 P1 MS (printed pp. 14–16), both read in full in this bank — and flagged as such each time. The November 2024 file corroborates only the **level structure**: AO1 has five levels, AO4 has five, AO5 has four, with Q8 split AO1/AO4/AO5, which matches every other paper in the series.
-- Anyone marking from this paper should obtain a complete mark scheme from Pearson; this file cannot substitute for one.
+- **Q8 indicative content is available** and is transcribed in full in [`../Source_Notes/November_2024_P1_MS_facsimile_transcription.md`](../Source_Notes/November_2024_P1_MS_facsimile_transcription.md), printed **p. 14** — the three bullet areas ("Why we should celebrate", "What to celebrate", "Ways to celebrate") with 11, 7 and 7 points respectively.
+- **Q8 band grids are this paper's own**, printed **pp. 15 (AO1), 16 (AO4) and 17 (AO5)**, transcribed there. The descriptors previously borrowed from the November 2023 and May/June 2024 mark schemes are retired; they turned out to be identical, which is a useful independent check on the transcription.
+- **Something worth flagging to anyone using a text-only reader:** the same damaged layer affects Section A's mark scheme pages, so this paper's Section A set should be read alongside the facsimile transcription too.
 
 ## Provenance and evidence boundary
 
@@ -42,13 +41,17 @@ Section B rubric as printed: “Answer the question in this section.” / “You
 
 *Note:* the title is **supplied and must be used**; the audience is **the school or college community**, not a general readership. Both facts narrow AO4 considerably, and the report shows exactly what happens when candidates forget the second one (they wrote “speeches, letters or promotional leaflets”).
 
-## Mark-scheme position for this question
+## Mark-scheme position for this question — this paper's own content, recovered from facsimile
 
-- **Indicative content: unavailable** (defect above). Not reconstructed.
-- **Section B total:** 30 marks, split AO1 10 + AO4 12 + AO5 8 — the split used in every 4EB1/01 paper in this archive and corroborated here by the three separate Q8 grids (AO1, AO4, AO5) plus a four-level AO5 grid.
-- **AO1 (10; five levels), verified wording from the November 2023 MS PDF p. 15:** L5 9–10 = selection “apt and is persuasive in clarifying the points being made”; “a wide range of relevant points”; “well-focused comments with perceptive references to information and ideas”.
-- **AO4 (12; five levels), verified wording from the same MS PDF p. 16:** L5 11–12 = “Communication is perceptive and subtle”; “Task is sharply focused on purpose and the expectations/requirements of the intended reader”; “Sophisticated use of form, tone and register”.
-- **AO5 (8; four levels only), verified from the same MS PDF p. 17:** L4 7–8 is the **highest band printed**.
+- **Indicative content (printed p. 14), quoted in full:** register — "A suitable register for an article for a school or college website should be adopted. Candidates should address all areas… Reward all valid points."
+  - **Why we should celebrate:** marking special moments in our lives; to praise someone for an achievement; to join with others in our community; to feel better; to be grateful; to cheer us up; it is life-affirming; it brings order to chaotic times; to look back over the past year; to think about possible beneficial changes; to become happier.
+  - **What to celebrate:** birthdays; weddings; anniversaries; national holidays; religious festivals; community celebrations; personal or group successes.
+  - **Ways to celebrate:** by buying presents; by having feasts; by having parties; by going out; with other people; by making positive changes; by making resolutions.
+- **Section B total:** 30 marks, split AO1 10 + AO4 12 + AO5 8, confirmed by this paper's own three Q8 grids at printed pp. 15–17.
+- **AO1 (10; five levels), printed p. 15:** L5 9–10 = selection "apt and is persuasive in clarifying the points being made"; "a wide range of relevant points"; "Presents well-focused comments with perceptive references to information and ideas".
+- **AO4 (12; five levels), printed p. 16:** L5 11–12 = "Communication is perceptive and subtle"; "Task is sharply focused on purpose and the expectations/requirements of the intended reader"; "Sophisticated use of form, tone and register".
+- **AO5 (8; four levels only), printed p. 17:** L4 7–8 is the **highest band printed** — the Section B ceiling in every 4EB1 paper.
+- **Independence check:** these descriptors match the November 2023 and May/June 2024 grids that were previously borrowed word for word, which is why the earlier borrowing produced correct wording even though the provenance claim was wrong.
 
 ## What the November 2024 report adds — quoted
 
@@ -149,7 +152,7 @@ Page/line references are to the Source Booklet as printed in the QP PDF. **No so
 - **AO1:** all three bullets are separately developed, with the first bullet — the one the report says is sometimes neglected — given two full paragraphs of reasoning rather than a sentence; both texts are reworked into the argument and nothing is quoted.
 - **AO4:** form is unambiguous (supplied title, standfirst, subheadings, first-person anecdote, direct address, rhetorical questions, deliberate hyperbole and repetition, warm encouraging tone, closing challenge), and the audience is visibly a school community through the corridor, assembly, canteen and library details.
 - **AO5:** wide punctuation range including semicolons, dashes, a colon, parentheses and a correctly punctuated short quotation-free list; varied sentence lengths for rhythm; no comma splices; articles all present.
-- **Not claimed:** no examiner mark, level or score. This paper's mark scheme cannot be read (defect above), no Q8 script is published, and the band wording quoted is from other papers' verified grids rather than from this one.
+- **Not claimed:** no examiner mark, level or score. No Q8 script is published for this paper. The band wording quoted above is **this paper's own**, read from the rendered mark-scheme pages (pp. 15–17) and transcribed in `../Source_Notes/November_2024_P1_MS_facsimile_transcription.md`.
 
 ## Scope boundary
 

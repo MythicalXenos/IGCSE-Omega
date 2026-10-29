@@ -48,7 +48,13 @@
 
 **[VERIFIED CANDIDATE EXEMPLAR]** The full 30/30 candidate response is the canonical transcript linked above—not a constructed model. Pearson’s printed p. 40 judgement awards **AO1 10/10, Level 5; AO4 12/12, Level 5; AO5 8/8, Level 5** (30/30 total). The examiner specifically notes that the candidate covers all bullet points in detail and maintains a sharp focus on purpose and audience throughout. The script’s wording, crossed-out material and transcription uncertainties are preserved in the transcript file.
 
-**Unresolved report/mark-scheme level-label discrepancy:** Pearson’s examiner judgement on p. 40 explicitly calls AO5 8/8 **Level 5**. The matching Q8 MS AO5 grid on p. 16 has only Levels 1–4, with 7–8 as **Level 4**, and no Level 5. Preserve the report’s published label when recording the candidate’s result and preserve the MS grid as printed; do not silently harmonise the two sources. The awarded AO5 score, 8/8, is the maximum either way. This note is a source discrepancy, not a claim that the candidate lost marks.
+**Report/mark-scheme AO5 level-label discrepancy — now explained, both printings preserved:** Pearson's examiner judgement on printed p. 40 reads “AO5: Whilst there are a small number of errors, this does manipulate complex ideas with a range of features and an extensive vocabulary. **Mark 8, Level 5**.” The matching Q8 AO5 grid on printed p. 16 has **four** levels only, with 7–8 as **Level 4** and no Level 5 anywhere. Both readings are quoted as printed and neither is altered. Three checks settle the interpretation:
+
+1. **The grid makes a Level 5 impossible for this AO.** Section B AO5 is capped at 8 marks across four levels, so there is no fifth level to be at; a Level 5 label cannot describe a mark of 8/8.
+2. **The report's own sentence is the Level 4 descriptor.** The grid's Level 4 bullet reads “Manipulates complex ideas, utilising a range of structural and grammatical features…” and “Uses extensive vocabulary strategically”; p. 40 paraphrases exactly that and then labels it Level 5.
+3. **The same report gets the four-level scale right elsewhere.** Its other Section B AO5 judgements are printed as “Mark = 6, Level 3” (p. 48) and “Mark = 4, Level 2” (p. 42), both correct against a 1–2 / 3–4 / 5–6 / 7–8 grid. p. 40 is therefore an isolated slip, most plausibly carried down from the AO4 line directly above it, where 11–12 *is* Level 5.
+
+**What follows for use:** the awarded mark, **8/8**, is the maximum and is unaffected; when recording this candidate, quote the report's printed label **and** the grid level, with this explanation. The discrepancy in the published documents is not hidden — it is a printing error in the report, not a marking judgement in doubt.
 
 ## Scope boundary
 
