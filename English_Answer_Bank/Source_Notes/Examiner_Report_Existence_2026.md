@@ -223,3 +223,12 @@ these documents is the reproduced scripts and their scores.
 **Nothing improper is being asked.** The report contains examiner commentary and anonymised
 candidate responses — no candidate names, no marks-by-candidate — and is circulated to centres as
 standard practice. Whether an individual teacher passes it to his own student is his judgement.
+
+**Attempt log.** 29 October 2026 — asked a 4EB1 English teacher at BSISC directly, quoting both
+publication codes and the Edexcel Online / ResultsPlus paths. Reply came one minute later: "Sorry, I
+don't have." Read as *"I do not hold secure-materials access"* rather than *"the school cannot get
+these"*: the turnaround means no search was run, and subject teachers are not normally given
+exam-materials permissions. The next door is the **exams officer / Head of Centre**, who holds the
+centre's Edexcel Online account. If that also fails, the entry relationship is with the British
+Council (centre number 93356), so the request moves to British Council Examinations Services rather
+than stopping at the school.
