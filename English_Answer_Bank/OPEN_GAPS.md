@@ -5,7 +5,7 @@
 | # | Gap | Status on 29 Oct 2026 |
 |---|---|---|
 | a | 78 authentic responses exist only as page images inside Pearson reports | **Blocked** — the PDFs cannot be obtained here; worklist below |
-| b | November 2025 P1, June 2026 P1, June 2026 P2, May/June 2021 P1 have no usable examiner report | **Blocked for 3 of 4; May/June 2021 has no report at all** |
+| b | November 2025 P1, June 2026 P1, June 2026 P2, May/June 2021 P1 have no usable examiner report | **3 of 4 now explained: the reports exist but are centre-gated for 12 months** (public from ≈Jan 2027 and ≈Aug 2027, or obtainable today via school ResultsPlus access); May/June 2021 has no report at all |
 | c | November 2024 P1 mark scheme "published defective" | **Closed — the verdict was wrong**; see §3 |
 | d | June 2023 P1 Q8 AO5 level label conflicts with the grid | **Explained — a printing slip, both readings preserved**; see §4 |
 
@@ -55,46 +55,20 @@ Outbound network access from the sandbox is restricted to npm, PyPI and GitHub. 
 
 ---
 
-## 2. Gap (b) — the four papers without a usable examiner report
+## 2. Gap (b) — the four papers without a usable *public* examiner report
 
 | Paper | Position | Evidence |
 |---|---|---|
 | **May/June 2021 P1** | **No report exists** — this was the optional/unseen assessment series | Report index for the series has no file for it; treated as structural, not an access gap |
-| **November 2025 P1** | Not located | 29 Oct 2026 sweep: web searches for the session, the publication code and the `4eb1-01-pef-2026…` pattern returned nothing beyond June 2025; direct probes of `4eb1-01-pef-20260122.pdf` and `…-20260820.pdf` return "Page not found"; Pearson's sitemap lists all PDFs but cannot be filtered remotely; GitHub and peer indexes stop at 2023. Full method in `Source_Notes/Report_Access_Routes.md` |
-| **June 2026 P1 (4EB1/01R)** | Not located | Same sweep as November 2025: no search hit, no filename probe hit, not in any third-party index. See `Source_Notes/Report_Access_Routes.md` §6 |
-| **June 2026 P2 (4EB1/01)** | Not located | Same; no report, no scripts, no exemplars found for P2 in any series. See `Source_Notes/Report_Access_Routes.md` §6 |
+| **November 2025 P1** | **Exists — centre-gated until about January 2027** | Pearson released International GCSE November-series examiner reports on **27 January 2026** into its secure download area, and on ResultsPlus from results day (22 January 2026): four December-2025 subject updates (Economics, Business, Geography, Computer Science) carry that date, and the Computer Science update labels the route "secure download". Not publicly downloadable yet because examiner reports for the most recent 12 months are centre-only. Full evidence in `Source_Notes/Report_Access_Routes.md` §6 |
+| **June 2026 P1 (4EB1/01R)** | **Exists — centre-gated until about August 2027** | Same rule: released to centres in the August 2026 results window, public roughly twelve months later. The newest publicly downloadable 4EB1 reports are the June 2025 pair, which is exactly the 12-month boundary |
+| **June 2026 P2 (4EB1/01)** | **Exists — centre-gated until about August 2027** | Same; note that Pearson has historically published a single report per paper, so the June 2026 pair should yield two files (`4EB1_01_…_ER` and `4EB1_01R_…_ER`) |
 
-**What this costs and what it does not.** Each of these papers still has a complete mark scheme in the local archive, so every answer set is mark-scheme-anchored. What is missing is the examiner commentary layer (what candidates actually did, what examiners warned about) and any possibility of an authentic script. Those sets say so in their provenance blocks rather than borrowing commentary from another paper.
+**Correction of record (29 October 2026).** These three rows previously read "Not located", with filename probing and search absence offered as the evidence. That framing was wrong: the reports are not missing, they are behind a login, and the 12-month rule explains the boundary exactly (newest public file = June 2025; everything newer is gated). The earlier "publication may be delayed" note is withdrawn.
 
-**What would change the position.** A report appearing at any of the Pearson exam-materials URLs. Publication timings are not uniform: the November 2024 report is dated 23 January 2025 and the June 2025 reports 21 August 2025, so a November 2025 report would have been expected from about January 2026 and a June 2026 report from about August 2026 — neither has surfaced, which is consistent with delayed or centre-only release rather than with a wrong filename. GitHub Actions would solve the download problem outright, but this repository has Actions disabled (`actions=false`); see `Source_Notes/Report_Access_Routes.md` §6. Until then, re-running the same searches is wasted work — this section exists so it is not repeated.
+**How to close these three gaps without waiting.** Anyone with Edexcel Online or ResultsPlus access — the user's school will have it — can download the November 2025 and June 2026 reports today, since they were on ResultsPlus from results day. Dropping those PDFs into `Paperlords_Archive/IGCSE/4EB1_English_Language_B/November_2025/` and `…/June_2026/` would let this bank transcribe any reproduced scripts and complete its commentary layer.
 
----
+**What this costs and what it does not.** Each of these papers still has a complete mark scheme in the local archive, so every answer set is mark-scheme-anchored. What is missing is the examiner commentary layer (what candidates actually did, what examiners warned about) and any possibility of an authentic script from those series. Coverage is unaffected: all 253 entries are complete and no answer claims a score it has not got.
 
-## 3. Gap (c) — November 2024 P1 mark scheme: closed
+**What would change the position.** Nothing in the bank has to wait: if a copy of the November 2025 or June 2026 report is supplied (school access), the commentary and any reproduced scripts can be worked immediately. Otherwise the public copies should appear from about January 2027 and August 2027 respectively — worth a re-check then rather than now. May/June 2021 P1 stays structural: that series did not run normally, so no report exists to find.
 
-The mark scheme `4EB1_01_2411_MS` is **not defective**. Its text layer is: body glyphs on printed pp. 4–20 are stored as 2×2-pixel image objects, so extraction returns question numbers, AO labels, level labels and bullet glyphs while the printed page is perfect. Rendering the pages recovers everything. The earlier "every grid emptied / band wording borrowed" claim is retracted in every file that carried it.
-
-The evidence, the transcription and the correction-of-record are in [`Source_Notes/November_2024_P1_MS_facsimile_transcription.md`](Source_Notes/November_2024_P1_MS_facsimile_transcription.md). Printed pp. 14–20 — Q8 indicative content and its three grids, and Section C Q9/Q10/Q11 content with the AO4 and AO5 grids — are transcribed verbatim there, and all five November 2024 answer sets now cite this paper's own wording.
-
-**Residue:** printed pp. 1–3 (general guidance) and pp. 4–13 (Section A answers and the AO2/AO3 grids) have not been transcribed. No answer set currently cites Section A wording from this paper, so nothing is blocked; transcribe them if that changes.
-
----
-
-## 4. Gap (d) — June 2023 P1 Q8 AO5 label: explained
-
-The report prints "**Mark 8, Level 5**" for AO5; the matching grid (printed p. 16) puts 7–8 at **Level 4** and has no Level 5. Both readings are preserved as printed wherever the response is recorded. The label is a slip in the report:
-
-1. Section B AO5 tops out at 8 marks across **four** levels — there is no fifth level for this AO to be at.
-2. The report's AO5 sentence ("does manipulate complex ideas with a range of features and an extensive vocabulary") is a paraphrase of the grid's **Level 4** bullet ("Manipulates complex ideas… Uses extensive vocabulary strategically").
-3. The same report applies the four-level scale correctly to other Section B AO5 marks: printed p. 42 "Mark = 4, Level 2", printed p. 48 "Mark = 6, Level 3". p. 40 is the only outlier, and the AO4 line directly above it awards 11–12 = Level 5.
-
-The awarded **8/8** is full marks and is untouched. Full reasoning: `Answer_Sets/June_2023_P1_Q8_Section_B.md` and `Verified_Candidate_Responses/June_2023_Section_A.md`.
-
----
-
-## 5. What is *not* a gap, so nobody reopens it
-
-- **Coverage.** 253/253 question-option entries across 23 papers; Section B Q8 and Section C complete for every paper.
-- **Counts.** Authentic index 92 (14 transcripts + 78 locators); 239 constructed entries; 84 word-counted constructed models totalling 42,753 words (re-measured 29 October 2026); the 115 answer-set files outside the README hold 256,213 words in 13,704 lines. None of the constructed entries claims a score.
-- **Form differentiation** across Section C is deliberate and paper-specific, and now measured against all 23 question papers: **Q9 a discursive task** — a quoted statement on 22 papers, with January 2022 P1 the exception ("Discuss whether travel broadens the mind"); **Q10 a supplied-title story** on 23 of 23 ("Write a story (true or imaginary) entitled ‘…’"), with a late title reveal only where the report or mark scheme permits it; **Q11 a description** on 23 of 23 (every one opens "Describe …").
-- **Duplicate archive bundle.** Removed in `45a1ef7` after hash verification; do not re-raise.

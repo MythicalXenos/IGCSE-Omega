@@ -11,7 +11,7 @@
 - **Question paper:** `…June_2026_P2_QP.pdf`, cover **4EB1/01**, Source Booklet dated Thursday 21 May 2026. Section C printed p. 21 = PDF index 20, read in full this turn.
 - **Mark scheme:** `…June_2026_P1_MS.pdf` (headed Paper 01). **Q9 indicative content PDF p. 20 = printed p. 8** (pagination restarts in this file: printed p. 8 = PDF 20); shared Section C **AO4 grid PDF p. 21 (printed p. 9)** and **AO5 grid PDF p. 22 (printed p. 10)**, read in full this turn.
 - **A provenance point specific to this question:** the Q9 statement is lifted **verbatim from Text One** of this paper — Devi Sridhar's article, printed p. 3, where the writer says people are entitled to a certain level of freedom and choice “as long as it doesn't harm others”. The QP's Section C rubric says **“Do not re-tell events from Text One or Text Two”**, which does not forbid using the argument, but does forbid narrating the article. The model therefore argues the proposition on its own terms and names none of the article's examples.
-- **Examiner report: not located** for June 2026 — recorded as an access gap.
+- **Examiner report: exists but is centre-gated.** Pearson released the June 2026 examiner reports to centres in the August 2026 results window, and they are available on ResultsPlus and via Secure Download; examiner reports for the most recent 12 months are centre-only, so no public copy is fetchable yet (expected from about August 2027). Earlier notes here said “not located”, which understated the position — the file is not missing, it is behind a login. Evidence in `../Source_Notes/Report_Access_Routes.md` §6.
 - **Authentic-response index: unchanged at 92.**
 
 ## Exact QP context — Q9 (printed p. 21)

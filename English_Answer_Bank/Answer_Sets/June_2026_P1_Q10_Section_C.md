@@ -10,7 +10,7 @@
 
 - **Question paper:** `…June_2026_P1_QP.pdf`, cover **4EB1/01R**. Section C printed p. 21 = PDF index 20, read in full this turn.
 - **Mark scheme:** `…June_2026_P2_MS.pdf` (headed Paper 01R). **Q10 indicative content PDF p. 20 = printed p. 20**; shared Section C **AO4 grid PDF p. 21 (printed p. 21)** and **AO5 grid PDF p. 22 (printed p. 22)**, read in full this turn.
-- **Examiner report: not located** for June 2026 — recorded as an access gap, not an absence claim.
+- **Examiner report: exists but is centre-gated.** Pearson released the June 2026 examiner reports to centres in the August 2026 results window, and they are available on ResultsPlus and via Secure Download; examiner reports for the most recent 12 months are centre-only, so no public copy is fetchable yet (expected from about August 2027). Earlier notes here said “not located”, which understated the position — the file is not missing, it is behind a login. Evidence in `../Source_Notes/Report_Access_Routes.md` §6.
 - **Cross-paper guidance (labelled):** the June 2025 report's Q10 commentary is the most recent verified narrative commentary in the bank, written about the title ‘The First Impression’. It is used for **craft advice only**, never as indicative content, and is quoted in full enough below that a reader can check the use being made of it.
 - **Authentic-response index: unchanged at 92.**
 

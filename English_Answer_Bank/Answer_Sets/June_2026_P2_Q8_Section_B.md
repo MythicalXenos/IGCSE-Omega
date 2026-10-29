@@ -11,7 +11,7 @@
 - **Question paper:** `Paperlords_Archive/IGCSE/4EB1_English_Language_B/June_2026/4EB1_English_Language_B_June_2026_P2_QP.pdf`, cover **4EB1/01**. Q8 printed p. 15 = PDF index 14; Section C printed p. 21 = index 20.
 - **Source Booklet:** bound in at indices 28–35 (printed pp. 1–8), cover **4EB1/01**, dated Thursday 21 May 2026. **Text One**, “Yes, research shows teenagers' screen time is shocking – but smartphone bans aren't the answer”, adapted from an article by Devi Sridhar, printed pp. 2–3 = indices 29–30. **Text Two**, “I Spent 72 (Uncomfortable) Hours Without A Phone. This Is What It Taught Me”, adapted from an article by Daisy Jones, printed pp. 4–5 = indices 31–32 (glossary on printed p. 5). **Both read in full from the PDF text layer.**
 - **Mark scheme:** `4EB1_English_Language_B_June_2026_P1_MS.pdf` (22 pages, headed **“Paper 01”**). Q8 indicative content **PDF p. 15 (printed p. 16)**; AO1 grid **p. 16**; AO4 grid **p. 17**; AO5 grid **p. 18**. Complete and readable.
-- **Examiner report: not located** — recorded as an access gap, consistent with the June 2026 checks already logged in `Source_Notes/Official_Pearson_Exemplar_Index.md`.
+- **Examiner report: exists but is centre-gated.** Pearson released the June 2026 examiner reports to centres in the August 2026 results window, and they are available on ResultsPlus and via Secure Download; examiner reports for the most recent 12 months are centre-only, so no public copy is fetchable yet (expected from about August 2027). Earlier notes here said “not located”, which understated the position — the file is not missing, it is behind a login. Evidence in `../Source_Notes/Report_Access_Routes.md` §6.
 - **Authentic-response index: unchanged at 92.**
 
 ## Exact QP prompt — Q8 (printed p. 15)
