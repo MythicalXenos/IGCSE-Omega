@@ -88,4 +88,4 @@
 
 ## Scope boundary
 
-Q11 for May/June 2019 P1 only. With this entry **the May/June 2019 P1 paper (4EB1/01) reaches 11 of 11**, the nineteenth paper complete. May/June 2019 P1R is the last paper with Section C outstanding (8/11) outside the excluded January 2022 pair.
+Q11 for May/June 2019 P1 only. With this entry **the May/June 2019 P1 paper (4EB1/01) reaches 11 of 11**, the nineteenth paper complete. May/June 2019 P1R is the last paper with Section C outstanding (8/11) outside the deferred January 2022 pair.

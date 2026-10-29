@@ -96,4 +96,4 @@ The MS asks for **two** things: what the experience involves, and **the effect i
 
 ## Scope boundary
 
-Q11 for May/June 2019 P1R only. With this entry **the May/June 2019 P1R paper (4EB1/01R) reaches 11 of 11** — the twentieth paper complete — and **every buildable paper in the bank is now at 11 of 11**. The only entries outstanding are the six in the two January 2022 papers, excluded by standing instruction.
+Q11 for May/June 2019 P1R only. With this entry **the May/June 2019 P1R paper (4EB1/01R) reaches 11 of 11** — the twentieth paper complete — and **every buildable paper in the bank is now at 11 of 11**. The only entries outstanding are the six in the two January 2022 papers, deferred by an internal scope decision (no user instruction for it is recorded — see the scope correction in `Completion_Map.md`).

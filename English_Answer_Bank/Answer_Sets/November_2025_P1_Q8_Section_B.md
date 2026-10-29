@@ -164,4 +164,4 @@ No source wording is quoted or closely reworded. Line numbers are as printed in 
 
 Q8 for November 2025 P1 only. Section C on the same paper (printed p. 21) offers **Q9** “‘People are not always kind to each other.’ To what extent do you agree with this statement?”, **Q10** “Write a story (true or imaginary) entitled ‘The Missed Message’.” and **Q11** “Describe your favourite possession.” — each 30 marks on AO4 20 + AO5 10.
 
-**Next in the series:** June 2026 P1 and June 2026 P2 Q8, after which the only Q8 sets missing from the bank are those for January 2022 P1 and P1R, excluded by standing instruction.
+**Next in the series:** June 2026 P1 and June 2026 P2 Q8, after which the only Q8 sets missing from the bank are those for January 2022 P1 and P1R, deferred by an internal scope decision (no user instruction for it is recorded — see the scope correction in `Completion_Map.md`).
