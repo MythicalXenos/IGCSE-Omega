@@ -35,14 +35,14 @@ Same rubric: one question; 1 hour; no re-telling of the source texts; approximat
 >
 > Examiners should be open to a wide range of interpretation.
 
-**Balance count:** seven content points — **three** support the statement (no money needed for happiness; the natural environment is free; friends and family are free), **four** qualify it (basic essentials cost; entertainment and travel cost; technology costs; and the umbrella point about valuing simple things). A scheme built for a qualified verdict, which is what “Discuss” invites.
+**Balance count:** seven content points — **four** lean towards supporting the statement (“you do not, necessarily, need money to be happy”; the natural environment is free; friends and family are free; valuing the simple things of life) and **three** qualify it (money is required for basic essentials; some things require money — entertainment, theme parks, sporting events, holidays and travel; technology costs a lot and is often considered essential). The last supporting item, “valuing the simple things of life”, is the loosest of the seven and could equally be filed as a qualification; the count is 4/3 on the plain reading. A scheme that supplies real counter-material, which is what “Discuss” invites.
 
 **How this model uses the scheme:** the “natural environment is free” point is adopted and then challenged on access grounds (the sea is free; getting to it is not); “friends and family are free” is adopted and re-priced in time and attention; the “money is required for basic essentials… not just luxury items” distinction underwrites the teenage counter-argument paragraph; and “technology costs a lot… often considered essential” supplies the phone in that same paragraph. The model deliberately does **not** use the scheme as a checklist — it uses four of the seven points as load-bearing parts of one argument.
 
 **AO4 (printed p. 19):** L4 13–16; **L5 17–20**.
 **AO5 (printed p. 20):** **L5 9–10** (five levels; top band 9–10).
 
-## What this paper's own report says about Q9 (printed pp. 42–44 territory; recovered this turn)
+## What this paper's own report says about Q9 (report section “Question 9”, read through a text route; printed page numbers not verified)
 
 - Content praised: “some interesting content focused on relationships and family being free and more valuable rather than wealth or position. There was also positive comment on the value of the natural world being free.” Disagreement: “you need money for most things that you enjoy – particularly as a teenager… material possessions were necessary to enjoy life.”
 - **More successful:** “used persuasive techniques for great effect and tended to employ a range of rhetorical devices… lively and well-thought-out responses. **Some more thoughtful responses considered that even things that are ostensibly free, such as family, friendship or education, require some degree of sacrifice and effort and so cannot be considered free.** In a few successful responses candidates made a strong case, often considering counter arguments and making a balanced conclusion.”
