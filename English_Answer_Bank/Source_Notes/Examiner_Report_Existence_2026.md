@@ -188,3 +188,38 @@ Recorded so they are not retried, with the exact behaviour observed.
 The 404s are consistent with gating, not with absence — see §3. The only public examiner-report
 *summary* document found is `4eb1-er-summary-22-06.pdf` (June 2022), a one-off; no later series
 summary exists at that pattern.
+
+---
+
+## 7. Asking a centre in Bangladesh — the route and the escalation ladder
+
+**Is BSISC a Pearson centre?** Yes, in the sense that matters. Baridhara Scholars' International
+School & College runs the Edexcel international curriculum and appears in the British Council
+Dhaka *Pearson Edexcel venue schedule* under its own centre number, **93356** (June 2025 guide;
+venue Jamuna Future Park). Entries for Bangladeshi schools are made through the British Council,
+which is Pearson's in-country partner. So the school has an institutional relationship with Pearson
+and therefore has — or can ask for — Edexcel Online access.
+
+**What that does *not* mean.** Nobody is emailed these reports. They are not on a mailing list and
+they do not sit in a shared drive by default; a teacher "has" them only in the sense of having a
+login that can download them. Expect one of three replies, and only the first is a yes:
+
+| Reply | What it means | Next step |
+|---|---|---|
+| "Yes, I'll download it" | He holds the right permission | Done — ask for the **PDF**, not text and not a photo |
+| "I can see ResultsPlus but not the materials" | Secure exam materials are usually restricted to the exams officer or Head of Centre | Ask him to forward the request to the exams officer |
+| "We don't have Pearson materials access, entries go through the British Council" | The master account sits with the British Council | Ask the school to request it from British Council Examinations Services (5 Fuller Road, Dhaka; `info.bd@britishcouncil.org`) |
+
+**Give him the click path so he does not have to hunt.** Either
+*Edexcel Online → the qualification's Exam materials / Secure Download*, or
+*ResultsPlus → ResultsPlus Analysis → Whole cohort results → Cohort paper analysis → series and
+subject → **Exam docs** → Examiner Report*. The file he lands on is titled
+*Examiners' Report — Principal Examiner Feedback*; that **is** the examiner report, not a summary.
+
+**Ask for the PDF specifically.** The pages that reproduce candidate responses are images inside the
+PDF. A screenshot is readable at a pinch; extracted text loses them entirely, and the whole point of
+these documents is the reproduced scripts and their scores.
+
+**Nothing improper is being asked.** The report contains examiner commentary and anonymised
+candidate responses — no candidate names, no marks-by-candidate — and is circulated to centres as
+standard practice. Whether an individual teacher passes it to his own student is his judgement.
