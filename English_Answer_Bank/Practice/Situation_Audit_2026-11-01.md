@@ -126,3 +126,76 @@ consolidation and retrieval by up to 40% (Stickgold 2005). For a single next-day
 **one hour of retrieval practice > one hour of rereading > one extra hour at the cost of sleep.**
 
 Six to eight hours tonight is worth more than any further study block.
+
+---
+
+# REVISION 1 — corrected baseline (1 November 2026, later the same day)
+
+The learner disclosed that the earlier figures were deliberately understated. Corrected data below
+supersedes §1–§4. The five-series boundary table in §1 stands unchanged; the *position* within it
+does not.
+
+## R1. Corrected baseline
+
+- **Mock scores: 52, 55, 56** — that is **grade 5 to grade 6**, not grade 3.
+- **Best Section A components:** Q3 6/10, Q6 6/10, Q7 6/15 — described by the learner as "a one-off
+  fluke", but they are the only direct evidence of ceiling.
+- **Best Section B:** 22/30 on a speech, marked by an AI model rather than an examiner.
+- **Sample size: four mocks.** Wide confidence interval; a 52 and a 56 are not distinguishable.
+
+Against the boundary table: **52 = grade 5, 55 = grade 6, 56 = grade 6.** Grade 9 (69) is therefore
+**13–17 marks away**, not 24.
+
+## R2. The diagnosis changes: this is a variance problem, not a ceiling problem
+
+Best-ever composite, using the peak figures above (retrieval 5 + 6 + 6 + 6 = 23, B 22, C assumed 20):
+
+| | Section A | B | C | Total | Grade |
+|---|---|---|---|---|---|
+| Best-ever components | 23 | 22 | 20 | **65** | **8** |
+| Typical | 18–19 | 19–20 | 17–18 | 55–57 | 5–6 |
+
+**The gap between this learner's best and their typical is 8–10 marks — most of the distance to a
+grade 9.** The task is therefore not to raise the ceiling; it is to make the ceiling the norm. That is
+the cheaper problem, and it responds to templates, timing and checklists rather than to insight.
+
+## R3. Revised route to 69
+
+From a best-ever 65, grade 9 needs **+4**:
+
+| Move | Gain | Why it is the cheapest |
+|---|---|---|
+| **Q7: 6 → 9** | **+3** | 6/15 is the top of Level 2 ("obvious comparisons"). 9/15 is Level 3 ("a range of comparisons"). That is 2–3 comparisons becoming 5–6 — paragraph count, not talent. |
+| **AO5 proofread, B and C** | +1 to +2 | Pure checklist; 18 marks available across the paper. |
+| Retrieval discipline | +0 to +1 | 5 free marks already mostly secured. |
+
+**Grade 9 becomes arithmetically available without acquiring any new capability** — one more paragraph
+in Q7 and a proofread.
+
+## R4. Revised probabilities
+
+| Outcome | Marks | Probability |
+|---|---|---|
+| Grade 5 | 51–53 | 10% |
+| Grade 6 | 54–56 | 30% |
+| Grade 7 | 58–59 | 25% |
+| Grade 8 | 63–64 | 20% |
+| **Grade 9** | 68+ | **~15%** |
+
+Grade 9 is no longer a 1-in-50 outlier. It is a real, if minority, outcome — and it depends on
+reproducing peak performance under time pressure across three sections at once.
+
+## R5. Two caveats on the evidence
+
+1. **The 22/30 speech is unverified.** AI marking tends to grade generously against level descriptors,
+   particularly on AO4 where "effective use of form, tone and register" is a judgement call. Treat 22 as
+   an upper bound until it is marked against the printed grids. If it holds, Section B needs almost no
+   further work and the whole remaining effort belongs to Q7 and Section C.
+2. **Four mocks is a small sample.** Do not over-fit to 52 or to 56. The upward direction (52 → 55 → 56)
+   is mildly encouraging but could be noise.
+
+## R6. What the corrected data says about the earlier behavioural note
+
+§5 item 1 — "resource collection substituting for production" — stands and is now more pointed: a
+learner whose best-ever Section A is 23/40 does not need more technique. They need to write, timed, and
+find out which of their three components collapses under pressure.
