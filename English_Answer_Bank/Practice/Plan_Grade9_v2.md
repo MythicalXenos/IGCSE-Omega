@@ -245,3 +245,60 @@ analysis deficit.
 
 **The three-minute speed test.** Everything above branches on it, and it costs less time than reading
 this paragraph.
+
+
+---
+
+# STEP 0 RESULT - speed test complete (1 November 2026)
+
+**Written output: 80 words in 3 minutes = 26.7 words per minute.** The learner notes this may be a
+slight underestimate.
+
+## The volume hypothesis is falsified
+
+Section 2.3 proposed that handwriting speed might be the binding constraint. It is not. The paper
+requires ~2,400-2,700 words in 180 minutes, i.e. **13-15 wpm sustained**. This learner writes at
+**26.7 wpm** - roughly **double** the requirement, a full-paper capacity of about **4,800 words**.
+
+Consequences:
+
+1. **Volume is removed from the list of causes.** Spare capacity is about 2,400 words.
+2. **Overall time pressure is removed too** - 2,400 words consumes ~90 of the 180 minutes, leaving ~90
+   for reading, planning and checking. A Q7 scoring 2-4/15 is therefore *not* a question that ran out
+   of time to be written.
+3. **The remaining explanations are paragraph count and the Level 4 ceiling.** At this speed six
+   paragraphs are easy. A low Q7 is most likely one **started late or written in two paragraphs**.
+4. **The worst use of the spare capacity is longer paragraphs.** Extra words in one paragraph earn
+   nothing. Extra *paragraphs* do.
+
+## Recalibrated budgets, derived from this learner's own speed
+
+At 26.7 wpm one 70-word paragraph takes **~2.6 minutes**.
+
+| Question | Slot | Plan | Write | Words available | Paragraph target (~70 words) |
+|---|---|---|---|---|---|
+| Q3 | 14 min | 2 | 11 | ~290 | **4** |
+| Q6 | 14 min | 2 | 11 | ~290 | **4** |
+| Q7 | 20 min | 3 | 16 | ~430 | **6** (72 words each) |
+| Q8 | 50 min | 5 | 40 | ~1,070 | 3 bullets, **6 paragraphs** |
+| Section C | 50 min | 4 | 44 | ~1,180 | **10** (44 words each) |
+
+The asymmetry matters: Section C has surplus capacity, Section A does not. **Section A is the only
+part of the paper where words are genuinely tight** - and it is where the marks are being lost.
+
+## Revised diagnosis
+
+| Candidate cause | Status |
+|---|---|
+| Handwriting speed | **Eliminated** - 26.7 wpm against 13-15 needed |
+| Time pressure overall | **Eliminated** - ~90 minutes spare |
+| Not knowing what to write about | Partially live - addressed by the five slots |
+| Paragraph-count discipline | **Primary suspect** - 4 paragraphs is a decision, not a capacity |
+| Level 4 ceiling (6/10 max) | **Live** - one sentence type short |
+| Section B/C AO5 | **Live** - 18 marks, cheap |
+
+## Revised probability
+
+With volume eliminated and ~90 spare minutes, the earlier 15-20% for grade 9 becomes **25-30%**,
+contingent on paragraph count being applied and one Level 4 sentence type being added. The ceiling is
+no longer physical. It is procedural.
