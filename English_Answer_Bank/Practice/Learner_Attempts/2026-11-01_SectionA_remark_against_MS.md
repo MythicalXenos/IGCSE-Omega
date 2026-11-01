@@ -1,5 +1,7 @@
 # June 2025 Section A — re-mark against the official mark scheme and authentic scored scripts
 
+> **PARTLY SUPERSEDED 1 Nov 2026 — read with care.** The MS citations here are correct and are reused. The **marks are not final**: this pass put Q3 and Q7 at the top of their bands with no reason for preferring top over middle. Verified transcript and final marks are in `2026-11-01_June2025_SectionA_VERIFIED_transcript_and_remark.md` — **Q3 5, Q6 7, Q7 8, total 25/30 (range 23–27)**, not 27.
+
 **Supersedes** `2026-11-01_June2025_SectionA_script_assessed.md` (1 Nov 2026). That first pass was marked from the published level descriptors plus my own reading, not from the Mark Scheme's indicative content. Three of its judgements were wrong and are retracted in §1.
 
 ## Sources — all local, all checkable
