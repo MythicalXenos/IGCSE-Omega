@@ -302,3 +302,34 @@ part of the paper where words are genuinely tight** - and it is where the marks 
 With volume eliminated and ~90 spare minutes, the earlier 15-20% for grade 9 becomes **25-30%**,
 contingent on paragraph count being applied and one Level 4 sentence type being added. The ceiling is
 no longer physical. It is procedural.
+
+---
+
+## STEP 1 RESULT — full Section A script assessed (1 Nov 2026)
+
+Script: June 2025 Section A, all seven questions, 7 handwritten pages. Full assessment at
+`English_Answer_Bank/Practice/Learner_Attempts/2026-11-01_June2025_SectionA_script_assessed.md`.
+
+Counts: Q3 **160 w / 5 ¶**; Q6 **257 w / 6 ¶**; Q7 **383 w / 7 ¶**. Total A ≈ 820 w.
+Constructed marks: Q1 1, Q2 1, Q3 **5**, Q4 1, Q5 2, Q6 **6**, Q7 **7** = **≈23/30**.
+
+**Two hypotheses falsified at once.**
+
+- *Volume* (already falsified by Step 0) confirmed dead: Q7 at 383 w against a 430 w budget.
+- *Paragraph-count discipline* now also **falsified**: 5 / 6 / 7 ¶ against budgets of 4 / 4 / 6. He is already over, not under.
+
+**Revised diagnosis — content type, not content quantity.** The script contains three repeating paragraph types:
+
+- **Type S (swap):** "the writer used X *instead of* Y, because…". Occurs 4x, carries nearly all marks. The two best sentences in the paper are both Type S: *magical, not nice* (Q3 ¶3); *magnificent, not beautiful* (Q6 ¶4).
+- **Type V (vague):** "this helps the reader visualize / feels more personal / is descriptive and vivid". Occurs 12x including whole paragraphs (Q3 ¶4-5, Q6 ¶1, Q7 ¶1-2, Q7 ¶6). **Zero marks.**
+- **Type P (provenance):** "adapted from a novel / a travel book" — 6 occurrences, one of them (Q7 ¶7) occupying the slot where the perspective conclusion belonged.
+
+**Q7 why-7:** correct T1→T2→contrast shape present in ¶3/¶4/¶5 with quotation from both texts, so above the 6/15 one-text cap. But **no paragraph reaches viewpoint** — "Text One wants you to be awed, Text Two wants you to laugh at the man writing it" is never said.
+
+**Lever change (adopting the learner's own move over the plan's).** §4's mandatory "one contradiction or macro sentence per paragraph" was executed **zero** times. Retire it from the mandatory slot. Replace with the single closed question **"what did the writer NOT say?"** — name the plain alternative, state the distance. It is subtractive: delete the six Type V / Type P phrases (Q3 ¶4-5, Q6 ¶1, Q7 ¶1-2, ¶6) and spend the space on the swap. **Net word count may fall while the mark rises.**
+
+**Ceiling revision.** A now scores ≈23/30 — his recorded best-ever A. Two readings: (a) A is at ceiling and gains must come from B/C → 23/22/22 = 67, unsafe; (b) A's ceiling is suppressed by Type V sentences and the swap lifts Q3 5→7, Q6 6→8, Q7 7→10 at **zero extra words** → A ≈ 27, total 71. Test reading (b); it is nearly free.
+
+**Also fix:** "Neither writers ever use direct address" is factually false (Text Two uses "you" at lines 23, 28, 34). "Neither writers" → "Neither writer". No written doubt in answers ("I guess", "I dk", "(Or if this counts)").
+
+**Open:** total Section A minutes and Q7 minutes. 820 w ≈ 31 min at 26.7 wpm; if materially longer, the surplus is going into deciding what to write, of which the six blacklisted phrases are the visible symptom.
