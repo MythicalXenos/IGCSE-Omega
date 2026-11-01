@@ -354,3 +354,21 @@ Marks from the MS indicative content, not from my reading: Q1 1, Q2 1, Q3 **6**,
 **New lever — write less on A, bank the hand for C.** Hand fatigue is the stated constraint. Cutting the no-hopers and tightening vague sentences removes ~120–150 words from a 820-word Section A. Section A and Section C are both worth 30 of 100, and C (500–600 continuous words, AO4 20 + AO5 10, MS p.22–23) is where a tired hand costs most. Same A mark, fresher hand for C. No speed increase needed.
 
 **Next: Section B and C.** Calibration material already in the bank and unused — Q8 **30/30** (AO1 10/AO4 12/AO5 8), Q8 **26/30** (AO1 9/AO4 10/AO5 7), Q9 **17/30** ×2, Q11 **23/30**, Q11 **26/30**. Q8 AO4 top band 11–12 requires "perceptive and subtle" and "sharply focused on purpose"; a talk that reads like an essay sits at 5–7 irrespective of content. No B or C script from this candidate exists yet.
+
+---
+
+## STEP 1 FINAL — verified transcript, marks corrected to 25/30
+
+Re-scanned the whole script at 230 dpi plus per-line 380–600 dpi crops, twice. Full file:
+`English_Answer_Bank/Practice/Learner_Attempts/2026-11-01_June2025_SectionA_VERIFIED_transcript_and_remark.md`.
+Supersedes the 27/30 figure in the entry below.
+
+**Marks: Q1 1, Q2 1, Q3 5, Q4 1, Q5 2, Q6 7, Q7 8 = 25/30 (range 23–27).**
+
+Why 27 was too high: both Q3 and Q7 were placed at the **top** of their bands without any reason for preferring top over middle. Best-fitted and then adjusted inside the band, Q3 is 5 (Level 3, bottom — 154 words, two of five paragraphs score nothing) and Q7 is 8 (Level 3, middle — Level 3 requires **explanation** of perspectives and he explains none; his one explanation, "this is because Text one is adapted from a novel", explains form, not viewpoint).
+
+Eight transcription corrections. Three matter: Q7 is **8 living paragraphs, not 7**; the false "direct address" claim is stated **twice** (struck inside ¶6, then re-asserted unstruck as its own sentence); and he **struck the same claim out in Q3**, so he half-knew it was wrong. Also: two answers are both numbered "2." where they should be 1 and 2.
+
+Section A at 25/30 (23–27) is **above his best-ever A of 23** and far above the 15–19 the earliest plan assumed. Section A is the strongest limb, not the weakest. Both the volume hypothesis and the paragraph-count hypothesis remain dead: 806 words and 8 paragraphs on Q7 against budgets of 430 and 6.
+
+Remaining gaps, precisely: Q3+Q6 = 12 of 20, and the shortfall is **device range** — there is no sentence-structure or structural point anywhere, though "sentence structure" is named in the Level 3, 4 and 5 descriptors. Q7 = 8 of 15, and the shortfall is the **perspective clause** — the material for it exists in ¶8 (seen vs experienced) but is never named as a viewpoint.
