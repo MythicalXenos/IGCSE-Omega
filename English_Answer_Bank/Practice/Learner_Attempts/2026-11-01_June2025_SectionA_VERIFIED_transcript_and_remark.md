@@ -1,5 +1,7 @@
 # June 2025 Section A — verified transcript and final re-mark
 
+> **TRANSCRIPT SUPERSEDED 1 Nov 2026.** Read `2026-11-01_June2025_SectionA_MASTER_transcript.md`: that is the line-by-line pass and it corrects 9 readings and the paragraph count. The marks here (25/30, range 23–27) still stand.
+
 Re-scanned from `CamScanner 11-01-2026 08.03.pdf` at 230 dpi full page and 380–600 dpi per-line crops, page by page, twice.
 Written readings are separated from struck-out readings. Uncertain words are flagged, not silently guessed.
 **This file supersedes both** `2026-11-01_June2025_SectionA_script_assessed.md` and `2026-11-01_SectionA_remark_against_MS.md` on transcription. The MS citations in the second file stand and are reused below.
