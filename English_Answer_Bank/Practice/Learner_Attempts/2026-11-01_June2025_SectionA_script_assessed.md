@@ -74,7 +74,7 @@ Why 7 and not 6: both texts are genuinely addressed throughout, with quotation f
 
 > "Neither writers ever use direct address."
 
-Text Two uses second person three times: "it really is extraordinary how often **you** encounter some little kindly gesture" (l.23), "**you** are stupid **you** do" (l.34), "**your** buttocks are deployed" (l.28). The sentence is false as well as empty. Also "Neither writers" → "Neither writer". A false claim costs more than a missing one, because it tells the examiner the candidate isn't checking.
+Text Two uses second person twice: "it really is extraordinary how often **you** encounter some little kindly gesture" (l.23), "if **you** are stupid **you** do" (l.34). The sentence is false as well as empty. Also "Neither writers" → "Neither writer". A false claim costs more than a missing one, because it tells the examiner the candidate isn't checking.
 
 Same category, smaller: `"on nerves" I guess`, `I dk`, `(Or if this counts)`. Written doubt inside an answer reads as a candidate who doesn't know. Say it or don't.
 

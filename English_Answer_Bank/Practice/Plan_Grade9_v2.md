@@ -330,6 +330,6 @@ Constructed marks: Q1 1, Q2 1, Q3 **5**, Q4 1, Q5 2, Q6 **6**, Q7 **7** = **≈2
 
 **Ceiling revision.** A now scores ≈23/30 — his recorded best-ever A. Two readings: (a) A is at ceiling and gains must come from B/C → 23/22/22 = 67, unsafe; (b) A's ceiling is suppressed by Type V sentences and the swap lifts Q3 5→7, Q6 6→8, Q7 7→10 at **zero extra words** → A ≈ 27, total 71. Test reading (b); it is nearly free.
 
-**Also fix:** "Neither writers ever use direct address" is factually false (Text Two uses "you" at lines 23, 28, 34). "Neither writers" → "Neither writer". No written doubt in answers ("I guess", "I dk", "(Or if this counts)").
+**Also fix:** "Neither writers ever use direct address" is factually false (Text Two uses second person "you" at lines 23 and 34). "Neither writers" → "Neither writer". No written doubt in answers ("I guess", "I dk", "(Or if this counts)").
 
 **Open:** total Section A minutes and Q7 minutes. 820 w ≈ 31 min at 26.7 wpm; if materially longer, the surplus is going into deciding what to write, of which the six blacklisted phrases are the visible symptom.
