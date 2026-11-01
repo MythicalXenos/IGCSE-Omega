@@ -333,3 +333,24 @@ Constructed marks: Q1 1, Q2 1, Q3 **5**, Q4 1, Q5 2, Q6 **6**, Q7 **7** = **≈2
 **Also fix:** "Neither writers ever use direct address" is factually false (Text Two uses second person "you" at lines 23 and 34). "Neither writers" → "Neither writer". No written doubt in answers ("I guess", "I dk", "(Or if this counts)").
 
 **Open:** total Section A minutes and Q7 minutes. 820 w ≈ 31 min at 26.7 wpm; if materially longer, the surplus is going into deciding what to write, of which the six blacklisted phrases are the visible symptom.
+
+---
+
+## STEP 1 REVISED — re-marked against the Summer 2025 MS and authentic scored scripts
+
+Full working: `English_Answer_Bank/Practice/Learner_Attempts/2026-11-01_SectionA_remark_against_MS.md`.
+The earlier STEP 1 entry below this one is **superseded on marks** (its paragraph-type counts stand).
+
+Marks from the MS indicative content, not from my reading: Q1 1, Q2 1, Q3 **6**, Q4 1, Q5 2, Q6 **7**, Q7 **9** = **27/30** (range 26–28), not 23.
+
+**Retracted — three calls in the first pass were wrong.** (1) "adapted from a novel/travel book" is a listed Q7 *Points of comparison* bullet, MS p.15 — it earns in Q7, only fails in Q3/Q6. (2) "first person" is a listed Q6 point, MS p.12 final bullet. (3) The "written doubt" criticism is withdrawn: it was speech to the agent, not written in the answer.
+
+**Consequence 1 — the "Section A is where the marks are lost" framing is not supported.** On the MS he is at 27/30 with the text he was taught. The 23 figure came from me penalising unconvincing effects as if the point were absent; an examiner rewards the point and discounts the effect.
+
+**Consequence 2 — the binding variable is points covered × device named, not text familiarity.** Anchors: June 2023 P1R Q7 **8/15** knows both texts perfectly and still scores 8, because it compares content not perspectives. June 2023 P1R Q3 **8/10** uses generic effects throughout and scores 8 because it has five developed paragraphs and a named device in every one.
+
+**Consequence 3 — the unseen-text fear is testable and mostly falsifiable.** Q3 indicative content compared across Jun 2023, Jun 2024, May 2025: no paper uses more than twelve categories, and **every paper's list is a subset of a fixed fourteen-item pool** (opening, closing, contrast, listing/tricolon, simile/metaphor, positive-vs-negative, direct address, tone, repetition/alliteration, numbers, structure, first person, imperative/question, reader-effect verb). A fixed fourteen-item sweep cannot miss a listed point; it can only waste one. Five categories are in all three papers: **contrast, listing/tricolon, positive-vs-negative, opening, reader-effect verb** — sweep those first under time pressure.
+
+**New lever — write less on A, bank the hand for C.** Hand fatigue is the stated constraint. Cutting the no-hopers and tightening vague sentences removes ~120–150 words from a 820-word Section A. Section A and Section C are both worth 30 of 100, and C (500–600 continuous words, AO4 20 + AO5 10, MS p.22–23) is where a tired hand costs most. Same A mark, fresher hand for C. No speed increase needed.
+
+**Next: Section B and C.** Calibration material already in the bank and unused — Q8 **30/30** (AO1 10/AO4 12/AO5 8), Q8 **26/30** (AO1 9/AO4 10/AO5 7), Q9 **17/30** ×2, Q11 **23/30**, Q11 **26/30**. Q8 AO4 top band 11–12 requires "perceptive and subtle" and "sharply focused on purpose"; a talk that reads like an essay sits at 5–7 irrespective of content. No B or C script from this candidate exists yet.

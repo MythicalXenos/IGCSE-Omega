@@ -1,3 +1,5 @@
+> **SUPERSEDED 1 Nov 2026.** This pass was marked from the published level descriptors and my own reading, not from the Summer 2025 Mark Scheme's indicative content. Three judgements were wrong: "adapted from a novel/travel book" **is** a listed Q7 comparison point (MS p.15); "first person" **is** a listed Q6 point (MS p.12); and the "written doubt" criticism is withdrawn. Re-marked against the MS and against authentic scored scripts in `2026-11-01_SectionA_remark_against_MS.md` — revised total **27/30**, not 23. Kept for the paragraph-type counts, which stand.
+
 # June 2025 4EB1 Paper 1 — Section A, full timed script — content assessment
 
 Source: CamScanner 11-01-2026 08.03.pdf, 7 pages, handwritten.
