@@ -199,3 +199,50 @@ reproducing peak performance under time pressure across three sections at once.
 §5 item 1 — "resource collection substituting for production" — stands and is now more pointed: a
 learner whose best-ever Section A is 23/40 does not need more technique. They need to write, timed, and
 find out which of their three components collapses under pressure.
+
+---
+
+# ADDENDUM — 3 November 2026, 01:30. Final evaluation before the paper.
+
+## A1. New evidence produced since the audit
+
+| Item | Result | What it proves |
+|---|---|---|
+| Q9 celebrities, draft 3 (handwritten, ~305 w) | ~18/30 | baseline Q9 is Level 3 |
+| Q9 celebrities, draft 4 (319 w, restructured) | ~21/30 | **+3 from structure alone, no new vocabulary** |
+| Friend's Q9 script, examiner-marked | 17/30 (12+5) | a competent peer, 490 words, scores below draft 4 |
+| Section B forms | 5 forms mapped, Pearson guidance obtained | AO4 is now teachable, not guessable |
+| Q7 one-text rule confirmed from MS | one text only = 6/15 max | the 15-mark question has a hard cap |
+
+The single most important number in the addendum: **draft 4 gained 3 marks over draft 3 at the same
+length.** The change was sequencing, not language. That is the variance problem described in R2,
+demonstrated in one hour on one script.
+
+## A2. The evaluation, stated plainly
+
+- Baseline: 52-56 raw. Best-ever components: 65. Boundaries are ~5 marks per grade.
+- The gap between this learner's best and their typical is 8-10 marks, and it is where grades 5-6
+  become 7-8.
+- The gap between their typical and grade 9 is a further 13-17 marks. Section A holds 40 of the 100
+  and the learner's best recorded Section A is 23/40. Q7 alone is 15 marks and has historically
+  returned ~6.
+- Therefore the ordering of value is: **Section A (40 marks, formulaic, under-drilled) > Section B
+  (30, now fully mapped) > Section C (30, improved tonight but capped by writing quality).**
+
+## A3. Honest probability for this sitting
+
+| Outcome | Marks | Probability | Driver |
+|---|---|---|---|
+| 5 | 51-53 | 10% | sleep debt, no Section A practice |
+| 6 | 54-57 | 30% | current habits only |
+| 7 | 58-62 | 30% | form + Q7 shape + proofread hold |
+| 8 | 63-67 | 20% | Section A reaches 25+, as the best-ever figures allow |
+| 9 | 68+ | 10% | requires peak reproduction in all three sections simultaneously |
+
+Sleep is the largest single variable that can move a 60 to a 48. The 3pm start, after a week of
+2am-8pm sleeping, is the main physical risk.
+
+## A4. The plan, fixed at 01:30
+09:30 wake. 10:00-11:15 Section A drill (Q3/Q6 formula, Q7 comparison). 11:15-11:45 Section B forms.
+11:45-12:15 Q9 machine. 12:45 light lunch. 13:15 nothing new. 14:00 report.
+No full essay. No new vocabulary. No rereading the corpus.
