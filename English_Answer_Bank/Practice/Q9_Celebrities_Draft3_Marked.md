@@ -76,3 +76,21 @@ No semicolon, colon or dash anywhere.
 ~300 handwritten words. Handwriting runs at roughly 12 words a minute. A 400-word answer is about
 30 minutes of pure writing by hand, leaving ~20 minutes for planning and checking in a 55-minute
 answer. Plan for 350-400 words.
+
+## The skeleton test (technique, reusable on any prompt)
+Read ONLY the first sentence of each paragraph, in order, as a list. That list is the essay's
+argument. If it contradicts itself, the essay contradicts itself, and no amount of good
+paragraph-level writing fixes it - the examiner reads the list as the position.
+
+Applied to draft 3:
+1. "People are often very interested in the celebrities and their lives."          -> YES
+2. "Many people are interested in celebrities' lives and what they do so much so..." -> YES
+3. "People also [do] not give as much time to their family and friends."           -> YES
+4. "However, this isn't the case for everyone."                                    -> NOT ALWAYS
+5. "Celebrities often live glamorous lives and show only the good parts to the public." -> WHY
+
+The list reads YES, YES, YES, NOT ALWAYS, WHY. Three paragraphs agree with the statement,
+the fourth reverses it, the fifth changes the subject. That is the 12/20 in one line.
+
+A Level 4/5 skeleton reads as one argument, e.g. NO, NO, BUT, SO, SO - or YES, YES, EXCEPT, BUT, SO.
+Whichever is chosen, the turn happens ONCE, in a planned place, and every later sentence obeys it.
