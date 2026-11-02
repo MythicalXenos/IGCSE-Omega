@@ -95,3 +95,39 @@ happens at all, which is why the chances we don't take are the ones we end up re
 
 Three changes only: specific moment instead of "we often"; punctuation fixed; claim moved
 to the end where it lands.
+
+---
+
+## The decisive distinction for "chances we do not take" (block 4)
+
+Candidate's own insight, sharpened: the prompt is not asking whether chances exist or whether
+failure hurts. It is asking which regret is heavier.
+
+The distinction that decides it:
+- A regret of ACTION has a known outcome. It is finite. You can name it, grieve it and close it.
+- A regret of INACTION keeps its imaginary outcome, and imagination is generous. It never closes.
+
+Boundary condition (this is what makes it "to what extent" rather than a slogan):
+the rule holds only for recoverable chances. For irreversible ones - money you cannot
+earn back, an injury, a person who will not wait - the calculation flips and the
+statement fails.
+
+Note on term use:
+- "opportunity cost" is an economics term meaning the value of the next-best option given up.
+  Both taking and not taking a chance carry one, so the term does not distinguish between
+  them. Using it as if it does is the "over-ambitious vocabulary" fault.
+- "regret" is not "cost". A layoff is a cost. Regret is a feeling about a choice, and it is
+  comparative: you regret one thing more than another. An essay about costs has not yet
+  answered a question about regret.
+- "regretful" describes a person. An outcome is "regrettable".
+
+The word doing the work in the prompt is "only". A sweeping word (only, always, never,
+everyone, best, too) makes the statement falsifiable with a single counter-example. The
+essay's job is to decide whether the counter-example is the exception or the rule.
+
+## Corrected paragraph (candidate's argument, kept; made about regret)
+"Failing costs you something real. Take a project you were handed and then dropped: the blame
+lands on you, the promotion goes to someone else, and in a bad month the job goes with it.
+That is a genuine loss. But it is a loss you can name. You know what happened, why, and what
+you would do differently. The chance you never took gives you none of that. It stays in your
+head at its best, unfinished, and you keep finishing it for years."
