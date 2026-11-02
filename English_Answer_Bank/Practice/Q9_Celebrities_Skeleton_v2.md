@@ -1,52 +1,33 @@
-# Skeleton v2 — celebrities prompt. 2 Nov 2026.
 
-## Candidate's five first sentences, in order
-1. People are often very interested in celebrities and their lives.
-2. Many people are so enthralled by celebrities that they end up neglecting their family and friends.
-3. Celebrities live glamorous lives and show only the positive things to the public.
-4. However, this isn't the case for everyone.
-5. Overall, I believe that people do end up being more interested in celebrities because of their
-   dazzling lifestyle and end up possibly neglecting their families.
-
-## Read as a list
-YES -> YES -> WHY -> EXCEPT (then returns to YES inside the paragraph) -> YES
-
-## What changed and why it matters
-The mechanism ("glamorous lives... show only the positive things") moved from paragraph 5 to
-paragraph 3. That is the structural fix: the explanation now sits in the middle of the essay
-where it can carry the argument, instead of arriving after the conclusion is already decided.
-The concession paragraph also correctly RETURNS to his own side ("Even then, most people still
-idolize celebrities"), which makes it one turn, out and back - the correct shape, not a muddle.
-
-## The one remaining break
-The final sentence: "However, not all people are like that."
-It is a second reversal, and it is the last thing the examiner reads. The essay has already made
-its concession in paragraph 4 and already returned from it. This sentence re-opens a question
-that was closed. Effect: the ending shrugs instead of landing.
-
-## Also to fix
-- "Overall, I believe that" opens a conclusion with a summary marker. The report language for the
-  top band is "strong conclusion"; this announces a summary instead.
-- "to see them in live" -> "to see them live".
-- Paragraph 1 still states the phenomenon rather than taking a position on its size. It is a YES
-  that could open any essay on the topic. It should carry the proportion.
-
-## Projection
-This skeleton written out at 380-400 words, with the last sentence landing instead of withdrawing:
-AO4 14-15, AO5 7-8, i.e. 21-23/30. Up from 18.
-
-## Conclusion attempt 1 (candidate)
+## Conclusion attempt 2 (candidate) and the drift
 "Most people are interested in celebrities' lives, and the front they put out rather than their
-family. They are attracted by the glamour. They end up neglecting their families and friends."
+friends and family. People need to understand the artificialness in the celebrities' lifestyles
+and their carefully crafted public image and the vanity behind idolizing them and ending up
+neglecting their own friends and family."
 
-Diagnosis:
-- Job 2 is present and correct: "Most people". That is the proportion, stated plainly. This is
-  the thing the previous conclusion never did.
-- "the front they put out" is the best phrase in the essay and is the candidate's own.
-- Everything after the first clause REPEATS paragraphs 2-3. Mechanism (glamour) was para 3;
-  neglect was para 2. So the conclusion summarises instead of landing. That is why it feels flat
-  to its own author.
-- Sentence 1 is not parallel: "interested in celebrities' lives, and the front they put out
-  rather than their family" compares lives/front with family. Also "their family" needs "own".
-- Length is NOT the problem. One to three sentences is correct. The 29/30 ends on one question;
-  the 24/30 on one sentence.
+The candidate diagnosed the drift himself, correctly. Mechanism: "People need to understand" is an
+INSTRUCTION. It answers "what should people do", not "is the statement true". Any conclusion that
+switches to advising has left the question.
+
+Fix principle: the so-what must still be about the COMPARISON, because the comparison is the
+question. The front can be used to say the comparison is mismeasured - not to say people are vain.
+"Vanity" is a moral judgement about the audience; the essay's evidence is about the product.
+
+Also: 45 words in one sentence, five "and"s. Over-ambition, named in six reports.
+"artificialness" -> "artificiality" (or "the fact that it is artificial").
+
+## On "my whole essay is short" (~300 words vs 350-400)
+The examiner reports pair these two faults in one sentence, three series running:
+"These candidates sometimes struggled to find enough ideas and their responses became repetitive
+or were brief." Repetitive OR brief = the same cause: not enough ideas.
+Therefore: words added to the same two ideas will read as padding. The essay needs one or two NEW
+ideas, each with a picture.
+
+Unused places from the four-place generator:
+- work: gossip about a colleague vs gossip about a celebrity
+- alone: what the phone is doing at 11pm
+- who benefits: the front is profitable - the celebrity, the platform, the advertiser
+
+Where the current words are wasted:
+- P2 has four consecutive sentences opening "They", saying neglect three times.
+- P3 lists "time, resources and effort" but shows no scene.
