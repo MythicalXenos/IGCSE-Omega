@@ -1,81 +1,110 @@
-# Q9 drill — 45 minutes, three blocks
+# Q9 drill — everything you need is on this page
 
-Built from the **26/30 June 2025 script** (`Section_C_Q9_26of30_VERIFIED.md`). Every slot below is a move that script actually makes, in the order it makes it. Nothing here is invented.
-
-Statement for the drill: **'New opportunities present new challenges.' Discuss.**
-
----
-
-## Block 1 — Steal the skeleton (10 min, no writing)
-
-Re-read the 26/30 transcript. Then fill this by copying **the sentences' shapes**, not their words.
-
-| # | The 26/30's move | Its own words | Your version (fill in) |
-|---|---|---|---|
-| 1 | Report the common view | "Some people may endorse the idea that…" | |
-| 2 | Place yourself | "I, as a matter of fact, am among those who agree." | |
-| 3 | State your aim | "My aim here will be to convince you that…" | |
-| 4 | Preview the ground | *(the script skips this — add it)* | |
-
-Check: do slots 1–3 contain the words **opportunity** and **challenge**? If not, rewrite until they do.
+**Question:** 'New opportunities present new challenges.' Discuss.
+**Time:** 35 minutes. **You write one paragraph, not an essay.**
 
 ---
 
-## Block 2 — Three examples, words only (10 min, no sentences)
+## Step 0 — read the real 26/30 answer once (3 min)
 
-The script's range comes from four **different domains**. Pick three. Two sentences of detail each, in note form.
+It scored 26 out of 30. This is the whole thing.
 
-| Domain | The 26/30 used | Your domain | Detail 1 (concrete) | Detail 2 (concrete) | Cost | Gain |
-|---|---|---|---|---|---|---|
-| work | job offers | | | | | |
-| education | scholarship to a "world renowned school" | | | | | |
-| family | parenting | | | | | |
-| **you** | the national math olympiad | | | | | |
+**Intro**
+> Some people may endorse the idea that new opportunities present new challenges. I, as a matter of fact, am among those who agree. My aim here will be to convince you that, indeed, new opportunities do present new challenges.
 
-**Rule:** each detail must be something you could photograph. "It is difficult" is not a detail. "Doing all of the chores at home yourself" is.
+**Paragraph 1 — job offers**
+> First and foremost, job offers are a worthy example of this. This is true because no matter how much you prepare, you'll never be fully equipped for a full-time job. It takes time to adjust, even when you've had a part-time job in the past. You'll have studied for the job, knowing what you'll need to do; you'll have practiced for it, with an aforementioned part-time job; but will you really be prepared for the stress that a job requires you to handle? It's a challenge you will have to face.
+
+**Paragraph 2 — scholarships**
+> Secondly, the fact of the matter and inescapable truth is that getting a scholarship to a world renowned school is just as bad. I've seen toppers go to universities like Rochester or Harvard and barely manage to keep up there. The pressure is unlike any other. You even have to keep up your social life whilst also doing all of the chores at home yourself. There's barely any time left to study. But, of course, being able to overcome this leaves you with an impeccable ability of discipline and time management.
+
+**Paragraph 3 — parenting**
+> Then we have parenting, an experience some dream of, and some dread. New parents, of course, face the challenge of raising their children. Some say it's utterly painful, and others say they enjoy every second of it. Both are right in their own regards. Having a child is like having a bundle of joy at all times. It learns to walk, talk and eventually starts having friends before you know it. Of course, it is a hassle to change their diapers when they spoil themselves every so often. It really does get annoying when they start wailing at the slightest inconvenience. But at the end of the day, it still is a bundle of joy.
+
+**Paragraph 4 — their own life**
+> Lastly, I'd like to present my own experience. A good while back, I had the opportunity to participate in the national math olympiad. The first time I participated, I really wasn't that good at it. But it gave me a glimpse of what these olympiads were like. Eventually I started to join the other olympiads, I had to study for them, challenge myself. Challenges that I wouldn't find elsewhere.
+
+**Ending**
+> In ending, it must be reiterated that, new opportunities do indeed present new challenges. There may still be some who oppose this view, but opposing arguments fall flat when up against points like the challenge of parenting.
 
 ---
 
-## Block 3 — Write ¶2 only (15 min, full length, 110 words)
+## Step 1 — your opening (7 min)
 
-Use the 26/30's paragraph as a **seven-slot mould**. Same order. Your content.
+The 26/30 opening does three jobs in three sentences. Copy the three jobs, not the words.
 
-| Slot | Mould (from the 26/30) | Your sentence |
+| Job | Their sentence | Write yours |
 |---|---|---|
-| 1 | "Secondly, the fact of the matter and inescapable truth is that **[example] is just as bad.**" | |
-| 2 | "**[General reason it is hard].**" | |
-| 3 | "**You** have **[concrete detail].**" *(second person throughout)* | |
-| 4 | "**[Second concrete detail].**" | |
-| 5 | "**There's barely any time left to [x].**" *(or another short flat sentence)* | |
-| 6 | "**But, of course, being able to overcome this leaves you with [the gain].**" | |
-| 7 | *(optional)* a real question: "**but will you really be prepared for [x]?**" | |
+| 1. Say what people generally think | "Some people may endorse the idea that new opportunities present new challenges." | |
+| 2. Say where you stand | "I, as a matter of fact, am among those who agree." | |
+| 3. Say what you're going to show | "My aim here will be to convince you that, indeed, new opportunities do present new challenges." | |
 
-Write it. Count words. Target 100–120. Do not edit while writing.
+**One check before you move on:** do your three sentences contain the words *opportunity* and *challenge*? If not, they're not about the question yet. Fix them.
+
+You may change the words freely. You must keep the three jobs in that order.
 
 ---
 
-## The self-check (2 min, after Block 3)
+## Step 2 — pick your examples (5 min, notes only)
 
-Run down this list against what you wrote. Tick or fix.
+The 26/30 used four different areas of life. That's where its "range" came from. Pick **three**. Notes only.
 
-- [ ] Does every sentence in the paragraph relate to **opportunity** or **challenge**?
-- [ ] Are there **two** details that could be photographed?
-- [ ] Does it end on the **gain**, not the cost?
-- [ ] Is there anything in it I have written before in a different essay? (if yes, cut)
-- [ ] Any comma splice? Any missing apostrophe? Any lowercase "i"?
+| Area | Their example | Your example | A real detail (something you could photograph) | The cost | The gain |
+|---|---|---|---|---|---|
+| Work | job offers | | | | |
+| School | scholarship to a top university | | | | |
+| Family | parenting | | | | |
+| Yourself | the national maths olympiad | | | | |
 
----
+**What counts as a real detail:** "you have to do all of the chores at home yourself" — yes. "It is very hard" — no.
 
-## What to send back
-
-**Only the paragraph from Block 3.** Not the whole essay. Not the plan. One paragraph, 110 words, photographed.
-
-I will mark it against the same grid (AO4 purpose/focus, AO5 control) and against the 26/30 paragraph it is copying, so you can see exactly which slots are doing the work.
+You need at least one **cost** and one **gain** for each. The gain is what makes it an argument rather than a complaint.
 
 ---
 
-## If you have 25 more minutes
+## Step 3 — write ONE paragraph (15 min)
 
-Do the same for ¶1 and ¶4, then write the intro and conclusion from Blocks 1 and 2. That is the whole essay — but only attempt it if Block 3 produced something you are not embarrassed by.
+Take the 26/30's second paragraph and keep its order of moves. Change the subject matter to your own.
 
-**Do not attempt the full essay first.** The failure mode is the blank page at minute five, and Block 3 exists to make that impossible.
+**Their paragraph, marked up:**
+
+> **[1]** Secondly, the fact of the matter and inescapable truth is that getting a scholarship to a world renowned school is just as bad. **[2]** I've seen toppers go to universities like Rochester or Harvard and barely manage to keep up there. **[3]** The pressure is unlike any other. **[4]** You even have to keep up your social life whilst also doing all of the chores at home yourself. **[5]** There's barely any time left to study. **[6]** But, of course, being able to overcome this leaves you with an impeccable ability of discipline and time management.
+
+| Move | What it's doing | Your sentence |
+|---|---|---|
+| 1 | Names the example and links it back to the question | |
+| 2 | One thing they have actually seen or know about | |
+| 3 | One short flat sentence | |
+| 4 | A real detail, written as "you" | |
+| 5 | A second short flat sentence about the cost | |
+| 6 | The turn — what you gain by getting through it | |
+
+Six sentences. About 90 to 110 words. Don't stop to edit. Don't reread until the end.
+
+**Keep "you".** The 26/30 uses "you" all the way through. It makes it sound like an argument with the reader instead of an essay about a topic.
+
+---
+
+## Step 4 — check it yourself (3 min)
+
+- [ ] Every sentence is about opportunity or challenge — nothing drifted
+- [ ] Two real details that could be photographed
+- [ ] It ends on the gain, not the cost
+- [ ] Nothing in it is a sentence you've used in another essay
+- [ ] No comma splice · no missing apostrophe · capital I · full stops at the ends of sentences
+
+---
+
+## What to send me
+
+**Only the paragraph from Step 3.** One photograph, 90 to 110 words.
+
+I'll score it the same way Pearson scored the 26/30 — 20 marks for the argument, 10 for accuracy — and tell you which of the six moves is doing the work and which one is flat.
+
+---
+
+## If Step 3 goes well and you have 20 more minutes
+
+Do the same for paragraphs 1 and 4, then write the ending. That's the full answer.
+
+**Do not try the full answer first.** The reason you got stuck at minute five before is that there was nothing to write the first sentence *from*. Step 3 exists so that can't happen.
