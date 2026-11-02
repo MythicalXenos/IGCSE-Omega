@@ -68,3 +68,30 @@ the table.
 Sentence punctuation; comma splices; apostrophes; homophones; capital I; capitals at
 sentence starts; subject-verb agreement; tenses; missing words; missing a/an/the;
 paragraphing.
+
+---
+
+## Candidate draft + correction (2 Nov 2026)
+
+Prompt: "We only regret the chances we do not take."
+
+Draft as written:
+"We often have the opportunity to take a risk, a chance - at something. A gamble, It
+either brings success or ends in failure. Choosing not to take the gamble can bring regret."
+
+Faults:
+- Sentences 1-2 define the topic instead of taking a position. Nothing is at stake.
+- "A gamble, It" = comma splice + capital after comma.
+- "a chance - at something" - dash dangles, "at something" is vague.
+- No sentence contains the prompt's terms inside a claim of the candidate's own.
+- All three sentences similar length; no short landing.
+
+Kept: the last sentence is a real claim and is the best line in the draft.
+
+Rewrite (same register):
+"You know the moment: someone offers you something - a place, a role, a move - and for
+a second you can see both endings. Take it and one of them happens. Refuse, and nothing
+happens at all, which is why the chances we don't take are the ones we end up regretting."
+
+Three changes only: specific moment instead of "we often"; punctuation fixed; claim moved
+to the end where it lands.
