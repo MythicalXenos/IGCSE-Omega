@@ -1,11 +1,17 @@
 # Draft 3 — "People are more interested in celebrities than in their friends and family."
-Handwritten, 2 pages, ~305 words. Marked 2 Nov 2026.
+Handwritten, 2 pages, ~300 words. Marked 2 Nov 2026. Re-extracted at 1300-1600 dpi, line by line.
 
-## Transcript (struck words shown as ~~...~~)
+## CORRECTION LOG (read this first)
+First pass reported "the celebrities" (P1 line 1) and "the everybody" (P1 line 6) as stray
+articles. Both are DELETIONS: the words are scribbled through and are not part of the essay.
+The first transcript marked the second one as struck but printed the first as live text, and the
+line-edit list then faulted the candidate for a word he had already removed. That was my error.
+No "the" fault exists in this script.
 
+## Transcript (~~struck~~; ^inserted)
 P1
-People are often very interested in the celebrities and their lives. They follow their every
-move, dress like them, act like them. Many people even take more interest in celebrities and
+People are often very interested in ~~the~~ celebrities and their lives. They follow their every
+move, dress like them, act like them. Many people ~~are~~ ^take more interest in celebrities and
 their lives than their own family and friends. However, it isn't ~~the~~ everybody.
 
 P2
@@ -18,9 +24,9 @@ like they know of celebrities.
 P3
 People also ~~do~~ not give as much time to their family and friends. They go on celebrities'
 tours, concerts, meet and greets, just to see their favourite celebrities live. They spend a lot
-of time, resources and effort that they ~~don't~~ on their friends and family. ~~They~~ You spend
-hours watching shows and movies with ~~their~~ the celebrities. In the process, ~~they~~ you end up
-neglecting spending time with ~~their~~ your friends and family.
+of time, resources and effort that they ~~don't~~ on their friends and family. ~~They~~ ^You spend
+hours watching shows and movies with ~~their~~ ^the celebrities. In the process, ~~they~~ ^you end up
+neglecting spending time with ~~their~~ ^your friends and family.
 
 P4
 However, this isn't the case for everyone. I used to be crazed about celebrities but I've always
@@ -34,34 +40,39 @@ Celebrities often live ~~a~~ glamorous ~~like~~ lives and show only the good par
 That's why many people are crazed about them. But whilst there certainly are people who pay more
 interest in celebrities and their lives, ~~never~~ it isn't the case for most people.
 
+## Readings still uncertain (flagged, not asserted)
+- P3 opening: the word before "not" is struck. If it was "do", the live text reads "People also not
+  give", which is ungrammatical; if he meant to keep "do not", the strike is a slip. Unresolved.
+- P3: "that they ~~don't~~ on their friends and family" - a verb appears to be missing in the live
+  text. Either the strike removed "spend" or "don't" is a slip for "don't spend".
+Both are the same underlying habit: revising mid-sentence and not re-reading the finished sentence.
+
 ## Mark
-AO4 12/20 (Level 3) · AO5 6/10 (Level 3) · total 18/30.
-Comparators: Jun 2023 17/30 (11+6) - same length, same band. Jun 2025 26/30 (17+9) - 442 words,
-six sentences of eight words or fewer in the essay.
+AO4 12/20 (Level 3) · AO5 6/10 (Level 3) · 18/30.
+Comparators: Jun 2023 17/30 (11+6) - 293 words, same band. Jun 2025 26/30 (17+9) - 442 words,
+six sentences of eight words or fewer.
 
 ## The fault that costs most
-P1 promises "it isn't everybody". P2 and P3 spend about 160 words proving that people DO neglect
-their family. P4 and P5 then return to "it isn't the case for most people". The essay argues against
-itself in the middle. Jan 2022 names this: "weaker candidates often presented muddled ideas".
-
-Fix: fix the proportion before writing. If the answer is "not most people", then P2 and P3 must be
-framed as what a minority do, or as the appearance rather than the reality.
+P1 commits to "it isn't everybody". P2 and P3 spend ~160 words proving people DO neglect family.
+P4 and P5 return to "it isn't the case for most people". The essay argues against itself in the
+middle. Jan 2022: "weaker candidates often presented muddled ideas."
+Fix: fix the proportion before writing - most / a minority mistaken for a rule / appearance vs
+reality. This essay wanted the second and was written as the first for two paragraphs.
 
 ## The buried insight, already in the script and unused
 P5: "Celebrities often live glamorous lives and show only the good parts to the public."
-That is the real answer. The interest is not deeper, it is easier - manufactured and packaged.
-Nobody curates your aunt. That distinction would carry the whole essay, and it is the candidate's own.
+The interest is not deeper, it is easier - manufactured and packaged. Nobody curates your aunt.
+That distinction would carry the whole essay and it is the candidate's own.
 
-## Sentence level
+## Sentence level (post-correction)
 Good: "However, it isn't everybody." Five words, correct landing, and the only sentence that short
-in 305 words.
-Faults: stray article "the celebrities"; "pay more interest in" -> "take more interest in" or "pay
-more attention to"; broken sentence "They spend a lot of time, resources and effort that they
-~~don't~~ on their friends and family"; "like they know of celebrities" -> "the way they know
-celebrities"; "crazed about" twice; four consecutive sentences in P2 beginning "They".
-No semicolon, colon or dash anywhere in the piece.
+in ~300 words.
+Live faults: "pay more interest in" -> "take more interest in" / "pay more attention to";
+"like they know of celebrities" -> "the way they know celebrities"; "crazed about" twice;
+four consecutive sentences in P2 opening "They"; missing verb in P3 (see above).
+No semicolon, colon or dash anywhere.
 
 ## Rate note
-305 handwritten words. Handwriting is far slower than typing. A 400-word answer is roughly 30
-minutes of pure writing by hand, leaving about 25 minutes for planning, thinking and checking.
-Plan for 350-400 words, not 450.
+~300 handwritten words. Handwriting runs at roughly 12 words a minute. A 400-word answer is about
+30 minutes of pure writing by hand, leaving ~20 minutes for planning and checking in a 55-minute
+answer. Plan for 350-400 words.
