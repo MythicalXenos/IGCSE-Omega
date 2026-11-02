@@ -372,3 +372,31 @@ Eight transcription corrections. Three matter: Q7 is **8 living paragraphs, not 
 Section A at 25/30 (23–27) is **above his best-ever A of 23** and far above the 15–19 the earliest plan assumed. Section A is the strongest limb, not the weakest. Both the volume hypothesis and the paragraph-count hypothesis remain dead: 806 words and 8 paragraphs on Q7 against budgets of 430 and 6.
 
 Remaining gaps, precisely: Q3+Q6 = 12 of 20, and the shortfall is **device range** — there is no sentence-structure or structural point anywhere, though "sentence structure" is named in the Level 3, 4 and 5 descriptors. Q7 = 8 of 15, and the shortfall is the **perspective clause** — the material for it exists in ¶8 (seen vs experienced) but is never named as a viewpoint.
+
+---
+
+## CORRECTION — the paper is 3 hours, one hour per section (verified, QP pp.1/2/15/21)
+
+Checked against `Paperlords_Archive/.../May_2025/..._P1_QP.pdf`:
+- Cover (QP p.1): **"Morning (Time: 3 hours)"**, Total Marks 100.
+- Section A (QP p.2): **"You should spend 1 hour on this section."**
+- Section B (QP p.15): **"You should spend 1 hour on this section."**
+- Section C (QP p.21): **"You should spend 1 hour on your chosen question."** / **"Write approximately 400 words."**
+
+All the timetables in this plan were built on a shorter paper and are **wrong**. Every minute budget in §4 and in the STEP 0/1 entries is superseded by: **60 / 60 / 60.**
+
+**Consequence — time pressure is dead for the whole paper, not just Section A.**
+- Section A: 795 words produced; needed rate ≈ 13 wpm over 60 min; measured rate **26.7 wpm**. About 30 minutes spare.
+- Section C: 400 words in 60 min ≈ **6.7 wpm** required. That is a quarter of his writing speed.
+- Section B: same again, 60 min for ~400–500 words.
+
+There is no section of this paper where the clock is the constraint. Any remaining advice about "writing faster", "cutting paragraphs to save time", or a compressed timetable should be disregarded. The 109-minute timetable and the 60-minute fallback in §4 are withdrawn.
+
+## June 2025 Section C questions (QP p.21, verbatim)
+
+> **9** 'New opportunities present new challenges.' Discuss.
+> **10** Write a story (true or imaginary) entitled 'The First Impression'.
+> **11** Describe a beautiful place.
+
+Marks: 30 each. AO4 20 + AO5 10 (MS p.22–23). One hour, approximately 400 words.
+Bank anchors by question: **Q9 17/30 ×2** (both reproductions at the bottom of the range), **Q11 23/30 and 26/30**, **Q10 30/30 ×2**. Only three Q9 reproductions exist and the two lowest marks in the whole Section C bank are both Q9 — a small sample, but it is the only evidence available and it points away from the discussion option.
