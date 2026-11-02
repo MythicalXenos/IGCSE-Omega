@@ -35,3 +35,28 @@ back, an injury, a person who will not wait - the calculation flips and the stat
 - "regretful" describes a person; outcomes are "regrettable".
 - "opportunity cost" applies equally to acting and not acting, so it distinguishes nothing.
 - comma splices, random capitals, "may have lose".
+
+## Getting unstuck on the opening
+
+Diagnosis: the opening stalls because it is being asked to set up the whole essay.
+It only has to make sentence two easy to write.
+
+Three methods that work at the desk:
+1. Say it out loud, then type what you said. The blank page is a formality problem -
+   you are writing "an essay" instead of talking. Answer a friend, transcribe, tidy.
+2. Write the bad opening on purpose, then delete sentence one and start from sentence two.
+   The real opening is usually hiding in the warm-up.
+3. Blunt answer first. "I mostly agree, and not for the reason people usually give."
+   Scored scripts open this plainly. Overthinking, not skill, is the blocker.
+
+## Five openings for this prompt, different registers
+A. Scene: "You know the moment: someone offers you something - a place, a role, a move -
+   and for a second you can see both endings."
+B. Blunt: "I agree, and I'd go further than the statement does. The chances we take hurt,
+   but they hurt once."
+C. Half-concession: "Most people say this after the fact, about a chance already gone.
+   It's easier to believe before you've taken one and lost."
+D. Interrogation: "The word to notice is 'only'. One word, and it either rules out every
+   other kind of regret or it doesn't."
+E. Concrete: "There's a form you didn't send. Everyone has one - an application, a message,
+   a place on a course - and it has been sitting at the back of your head ever since."
