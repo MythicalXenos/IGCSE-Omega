@@ -34,3 +34,19 @@ that was closed. Effect: the ending shrugs instead of landing.
 ## Projection
 This skeleton written out at 380-400 words, with the last sentence landing instead of withdrawing:
 AO4 14-15, AO5 7-8, i.e. 21-23/30. Up from 18.
+
+## Conclusion attempt 1 (candidate)
+"Most people are interested in celebrities' lives, and the front they put out rather than their
+family. They are attracted by the glamour. They end up neglecting their families and friends."
+
+Diagnosis:
+- Job 2 is present and correct: "Most people". That is the proportion, stated plainly. This is
+  the thing the previous conclusion never did.
+- "the front they put out" is the best phrase in the essay and is the candidate's own.
+- Everything after the first clause REPEATS paragraphs 2-3. Mechanism (glamour) was para 3;
+  neglect was para 2. So the conclusion summarises instead of landing. That is why it feels flat
+  to its own author.
+- Sentence 1 is not parallel: "interested in celebrities' lives, and the front they put out
+  rather than their family" compares lives/front with family. Also "their family" needs "own".
+- Length is NOT the problem. One to three sentences is correct. The 29/30 ends on one question;
+  the 24/30 on one sentence.
