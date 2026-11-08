@@ -120,7 +120,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:65` |
 | 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:871` |
 | 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:423` |
-| 19 | **Jun 2025** | P2 Q2(c) | batch production, 46 words — *Starbucks* | `02_Verified_Exemplars.md:423` |
+| 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:423` |
 | 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:528` |
 | 21 | **May/Jun 2023** | **P2R Q4(b)** | continuing to plant trees — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:541` |
 | 22 | **Jun 2026** | P1R Q1(g) | sponsorship disadvantages — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:319` |
@@ -295,7 +295,7 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 14 | **Jun 2023** | P1R Q1(c) | define stakeholder — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:39` |
 | 15 | **Jun 2023** | P1R Q1(d) | a benefit of JIT production — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:65` |
 | 16 | **Jun 2023** | P1R Q2(a) | a fringe benefit — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:142` |
-| 17 | **Jun 2023** | P1R Q2(b) | why branding is important — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:168` |
+| 17 | **Jun 2023** | P1R Q2(b) | why branding is important — *Aude Rose* **(0/1 — the report prints only the zero-credit script)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:168` |
 | 18 | **Jun 2023** | P1R Q3(a) | define variable costs — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:211` |
 | 19 | **Jun 2023** | P1 Q1(b) | define limited liability — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:372` |
 | 20 | **Jun 2023** | P1 Q1(c) | define social enterprise — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:400` |
@@ -333,11 +333,11 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 6 | **Jun 2026** | P1R Q4(a) | calculate total costs — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:201` |
 | 7 | **Jun 2023** | P2R Q1(e) | percentage increase in borrowing, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:129` |
 | 8 | **Jun 2023** | P2R Q3(c) | the current ratio, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:160` |
-| 9 | **Jun 2023** | P2R Q4(a) | price in GBP, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:214` |
+| 9 | **Jun 2023** | P2R Q4(a) | price in GBP, 2 d.p. — *M&M* **(1/2 and 1/2 — no full-mark script printed)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:214` |
 | 10 | **Jun 2023** | P2R Q3(b) | why locate a factory near a labour force — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:267` |
 | 11 | **Jun 2023** | P1R Q1(e) | break-even output, bunches of flowers — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:97` |
 | 12 | **Jun 2023** | P1R Q3(b) | extending the product life cycle — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:246` |
-| 13 | **Jun 2023** | P1R Q3(c) | percentage decrease in retained profits, 2 d.p. — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:281` |
+| 13 | **Jun 2023** | P1R Q3(c) | percentage decrease in retained profits, 2 d.p. — *Aude Rose* **(1/2 — answer given to 1 d.p.)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:281` |
 | 14 | **Jun 2023** | P1R Q4(a) | gross profit margin, 2 d.p. — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:322` |
 | 15 | **Jun 2023** | P1 Q1(e) | discount applied to a total, 2 d.p. — *Irsi* **(2/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:476` |
 | 16 | **Jun 2023** | P1 Q3(b) | keeping customer loyalty — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:629` |

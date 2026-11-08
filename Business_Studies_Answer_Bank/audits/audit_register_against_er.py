@@ -27,14 +27,40 @@ BOOKLETS = {"Jun 2019": [("P1", "4BS1_P1_Exemplar_Booklet_2019"),
 BOOKLET_MARK = re.compile(r"This response (?:was given|gained|scored)\s+(?:Level\s*\d+\s*[\u2013-]\s*)?(\d+)\s*marks?")
 BOOKLET_HEAD = re.compile(r"Question (\d)\(([a-g])\)(?: \(Paper (\dR)\))?")
 
-HELD = {("May/Jun 2023", "P1"): "4BS1_01_2306",
-        ("May/Jun 2023", "P1R"): "4BS1_01R_2306",
-        ("May/Jun 2023", "P2"): "4BS1_02_2306",
-        ("May/Jun 2023", "P2R"): "4BS1_02R_2306",
-        ("Jun 2026", "P1R"): "4BS1_01R_2606",
-        ("Jun 2022", "P1"): "4BS1_01_2206",
-        ("Jun 2024", "P2R"): "4BS1_02R_2406",
-        ("Jun 2025", "P1"): "4BS1_01_2506"}
+REPORT_SESSIONS = {
+    "4BS1_01_2206":  ("Jun 2022", "P1"),
+    "4BS1_02R_2206": ("Jun 2022", "P2R"),
+    "4BS1_01_2306":  ("May/Jun 2023", "P1"),
+    "4BS1_01R_2306": ("May/Jun 2023", "P1R"),
+    "4BS1_02_2306":  ("May/Jun 2023", "P2"),
+    "4BS1_02R_2306": ("May/Jun 2023", "P2R"),
+    "4BS1_01_2406":  ("Jun 2024", "P1"),
+    "4BS1_01R_2406": ("Jun 2024", "P1R"),
+    "4BS1_02_2406":  ("Jun 2024", "P2"),
+    "4BS1_01R_2506": ("Jun 2025", "P1R"),
+    "4BS1_02_2506": ("Jun 2025", "P2"),
+    "4BS1_02R_2506": ("Jun 2025", "P2R"),
+    "4BS1_01R_2606": ("Jun 2026", "P1R"),
+}
+_er = json.load(open(os.path.join(ROOT, "audits", "corpus", "inventory_er.json")))
+HELD = {}
+for _key, (_s, _p) in REPORT_SESSIONS.items():
+    if _key in _er:
+        HELD[(_s, _p)] = _key
+        # inventory_er.json is the fresh read of the stored PDFs and supersedes the older
+        # inventory.json, which was built before the singular-"1 mark" and word-number
+        # phrasings were handled and therefore under-reports some grades.
+        INV[_key] = _er[_key]
+
+# reports read from Pearson's live PDF but not stored as a file -- counted, and labelled
+READ_LIVE = {("Jun 2024", "P2R"): "4BS1_02R_2406",
+             ("Jun 2025", "P1"): "4BS1_01_2506"}
+LIVE = set()
+for (_s, _p), _key in READ_LIVE.items():
+    if _key in _extra:
+        HELD[(_s, _p)] = _key
+        INV.setdefault(_key, _extra[_key]["marks"])
+        LIVE.add((_s, _p))
 
 TIER = re.compile(r"^## (\d+) MARKS?\b")
 ROW = re.compile(r"^\|\s*(\d+)\s*\|")
@@ -77,6 +103,12 @@ def main():
             continue
         paper, qn, ql = m.group(1), m.group(2), m.group(3)
         q = f"{qn}({ql})"
+        # The register annotates a row whose printed script(s) did not earn full marks, e.g.
+        # "**(0/1 and 1/1)**" or "**(0/2 x3 -- no full mark printed)**". Those annotations ARE
+        # the claim; reading the section tier as the claim turned honest rows into mismatches.
+        cell = rec.get("Topic") or rec.get("P · Q") or ""
+        ann = re.findall(r"\((\d+)/(\d+)", cell)
+        claim = {int(a) for a, _ in ann} if ann else {t}
         key = HELD.get((series, paper))
         if key is None and series in BOOKLETS:
             bp = os.path.join(ROOT, "audits", "corpus", BOOKLETS[series][0][1] + ".txt")
@@ -91,18 +123,18 @@ def main():
                          for m in BOOKLET_HEAD.finditer(btext)]
                 vals = []
                 for m in BOOKLET_MARK.finditer(btext):
-                    q, pg = None, None
+                    bq, pg = None, None
                     for pos, h, pgp in heads:
                         if pos < m.start():
-                            q, pg = h, pgp
-                    vals.append((q, pg, int(m.group(1))))
+                            bq, pg = h, pgp
+                    vals.append((bq, pg, int(m.group(1))))
                 hit = [v for qq, pg, v in vals
                        if qq == q and (pg is None or pg == paper)]
                 marks = sorted(hit, reverse=True)
                 if not marks:
                     continue
-                if tier in marks:
-                    results["VERIFIED"] += 1
+                if claim <= set(marks):
+                    results["VERIFIED (Pearson exemplar booklet)"] += 1
                 else:
                     results["mark mismatch"] += 1
                     print(f"  L{i:<4} {tier:>2}mk  {series:<12} {paper} {q:<6}  ✗ booklet: printed {marks}")
@@ -120,11 +152,13 @@ def main():
             results["question not printed"] += 1
             print(f"  L{i:<4} {t:>2}mk  {series:<12} {paper} {q:<6}  ✗ {key}: no script printed for this question")
             continue
-        if t in marks:
-            results["VERIFIED"] += 1
+        if claim <= set(marks):
+            results["VERIFIED (report stored)" if (series, paper) not in LIVE
+                    else "VERIFIED (report read live, not stored)"] += 1
         else:
             results[f"mark mismatch"] += 1
-            print(f"  L{i:<4} {t:>2}mk  {series:<12} {paper} {q:<6}  ✗ {key}: printed marks {marks}, row claims {t}")
+            extra = f" (row annotates {sorted(claim)}/1)" if claim != {t} else ""
+            print(f"  L{i:<4} {t:>2}mk  {series:<12} {paper} {q:<6}  ✗ {key}: printed marks {marks}, row claims {sorted(claim)}{extra}")
     print("\n--- summary ---")
     for k, v in results.most_common():
         print(f"  {k:<26} {v}")

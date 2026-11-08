@@ -137,22 +137,43 @@ is right.
 
 ## 8. What is still not verified — read this before trusting the number 148
 
-The register lists 148 real candidate scripts.
+The register lists 148 real candidate scripts. **Updated 12 November 2026: 141 of the 148 are now
+traced to a printed score line in a document I have actually read.**
 
-**Updated 9 November 2026, second attempt: 98 of 148 are now traced to a printed score line, up
-from 82.** The reason the earlier pass failed was a wrong URL path, not an unavailable document:
-Pearson serves these under `International-GCSE/Business/…` (hyphens, no "Studies"), and every
-attempt had used `International GCSE/Business Studies/…`. With the corrected path, the June 2024
-Paper 2R report and the June 2025 Paper 1 report both read cleanly, and the June 2022 Paper 1
-report you uploaded settles all six of its rows.
+| Bucket | Count |
+|---|---|
+| Verified against a stored examiner report (13 PDFs, 40 MB, in `Sources/Official_Pearson/Full_Examiner_Reports/`) | **122** |
+| Verified against a report read from Pearson's live PDF but not stored (June 2024 Paper 2R, June 2025 Paper 1) | **13** |
+| Verified against Pearson's June 2019 exemplar booklets | **6** |
+| **Total verified** | **141** |
+| Cannot be checked — the June 2022 **Paper 1R** report is the one file still missing | **6** |
+| The booklet prints nothing for that question | **1** |
 
-**35 rows remain.** Twenty-two of them need six files that exist and are public — listed with exact
-filenames in `audits/ER_DOWNLOADS.md`. The other thirteen are June 2022 Paper 1R and Paper 2R,
-whose examiner-report files **404 at Pearson** and have to come from a mirror.
+**Getting there exposed four defects, and three of them were in my own checking, not in the bank.**
 
-Nov 2025 and June 2026 are centre-gated and cannot be got at all until the gate lifts.
+1. **The checker was reading a stale file.** `inventory.json` was built before the reader handled
+   *"This response scored 1 mark"* (singular) and word-numbers like *"the full three marks"*, so it
+   under-reported grades. The register now reads the fresh `inventory_er.json`. Seven rows moved
+   from "mismatch" to "verified" on that fix alone, and none of them had ever been wrong.
+2. **The checker was ignoring the register's own annotations.** Rows that already said **(0/1)** or
+   **(1/2 and 1/2)** were treated as claiming full marks, because the checker read the section
+   heading instead of the row. Eight more false alarms.
+3. **A loop variable was overwriting the question number** in the 2019 booklet branch, so three
+   booklet rows were compared against the wrong question.
+4. **Three real defects in the bank** were found and fixed:
+   - **June 2025 P2 Q"2(c)"** — the batch-production 6-marker is **1(g)**; 2(c) is the 3-mark JIT
+     question. Wrong question number in the register and in this file's exemplar chapter.
+   - **June 2023 P1R Q2(b)** — heading said **1/1**; the report prints **one** script for that
+     question and awards it **0** ("no context no marks can be gained"). The heading now says
+     **0/1**, with the correction dated in place.
+   - **June 2025 P2 Q1(g)** — the quoted 6/6 answer was only its **first paragraph**, presented
+     without an ellipsis and described as *"3 sentences, 46 words"*. The script is **two
+     paragraphs, about 100 words**, and the second paragraph exists **only as a scanned image** —
+     the text layer of the PDF does not carry it. Now quoted in full, with the method written up in
+     `audits/SCRIPT_RECONSTRUCTION.md`.
 
----
+**What is left: six June 2022 Paper 1R rows.** The other June 2022 papers are held; that one report
+has not been obtained. Nothing else in the register is unaccounted for.
 
 ## 9. Verdict
 
@@ -163,7 +184,7 @@ Nov 2025 and June 2026 are centre-gated and cannot be got at all until the gate 
 | Are the mark schemes behind them sound? | **Yes** — 798 of 798 add up |
 | Does the bank quote Pearson correctly? | **Mostly** — 264 of 342 exact; the 78 others are catalogued |
 | Is Pearson itself always right? | **No** — one arithmetic error found and corrected in place |
-| Are all 148 exemplar scripts proven? | **No** — 82 proven, 54 unprovable from here |
+| Are all 148 exemplar scripts proven? | **141 yes** — 6 await one missing PDF, 1 is not printed in the booklet |
 
 **The bank is accurate enough to revise from.** It is not flawless, and the three flaws it has are
 now written down where they occur rather than left for you to discover mid-answer.

@@ -134,7 +134,7 @@
  "4BS1_01_2506": {
   "url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Business/2017/Exam-materials/4bs1-01-pef-20250821.pdf",
   "held_pdf": null,
-  "source": "read by eye from Pearson's live PDF, 9 Nov 2026",
+  "source": "read from Pearson's live PDF on 9 and 12 Nov 2026; excerpt kept at audits/corpus/4BS1_01_2506_ER_excerpt.txt",
   "marks": {
    "1(b)": [
     1
@@ -151,6 +151,23 @@
     1
    ],
    "1(f)": [
+    3
+   ],
+   "1(g)": [
+    6
+   ],
+   "2(a)": [
+    1
+   ],
+   "2(b)": [
+    1,
+    0
+   ],
+   "2(c)": [
+    2,
+    0
+   ],
+   "2(d)": [
     3
    ]
   }

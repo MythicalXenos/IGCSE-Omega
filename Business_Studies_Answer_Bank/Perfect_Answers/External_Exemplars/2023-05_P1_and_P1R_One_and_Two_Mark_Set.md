@@ -165,7 +165,9 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 ---
 
-## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **1/1** · Q2(b) *State one reason why branding is important to Aude Rose* — report p. 12
+## ⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **0/1 on a 1 mark question** · Q2(b) *State one reason why branding is important to Aude Rose* — report p. 12
+
+> **Label corrected 12 Nov 2026.** This heading said **1/1**. The report prints **one** script for 2(b) and awards it **0** ("no context no marks can be gained"); the 1/1 comparison it draws is with **Q2(a)** on the same paper, not with a 2(b) script. The analysis below was always about the 0-mark script — only the label was wrong.
 
 **Question (verbatim, as printed on the script):** *"**(b)** State **one** reason why branding is important to **Aude Rose**."* **(1)**
 

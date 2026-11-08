@@ -424,9 +424,17 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 **June 2025** — the newest series, and two Analyse questions with published full-mark scripts.
 
-### A. Paper 2 (Starbucks) Q2(c) — *Analyse the advantages of batch production.* (6)
+### A. Paper 2 (Starbucks) Q1(g) — *Analyse the benefits for Starbucks of using batch production.* (6)
+
+> ⚠️ **Corrected 9 Nov 2026.** This was headed **Q2(c)** here and in the register. The June 2025 Paper 2 paper prints batch production at **1(g)**; **2(c)** is the 3-mark JIT question. The script and the examiner comment are right, the question number was not.
 
 > *"Starbucks using batch production is flexible and helps meet the demand accordingly. This is because an appropriate number of **cakes can be baked and sandwiches can be made at once**. This prevents over-producing quantities of food thus aiding to be flexible and prevent stock piles."*
+>
+> *"Further, batch production is convenient as it helps implement changes to ~~the~~ the food produced fast and easily. ~~This is b~~ For example, if Starbucks wants to change the flavour of the cake from strawberry to chocolate, they can easily implement this change by affecting only a selected number of batches. It saves time and resources spent on the cakes & so on."*
+
+> ⚠️ **Second paragraph added 12 Nov 2026, read from Pearson's scan of the script (report p. 11).** This file previously quoted only the first paragraph with no ellipsis and called the answer *"3 sentences, 46 words"*. The script is **two paragraphs, about 100 words** — and the scan itself is **cut off mid-sentence at the bottom of the page** (*"It saves time and resources spent on the cakes & so on."* is the last legible line), so more may have been written than Pearson reproduced. The first paragraph alone is what the text layer of the PDF carries; the second exists only as the scanned image, which is why it was missed.
+>
+> **This does not change the finding, it sharpens it.** The 6 marks are earned by **two developed advantages** — *flexibility / no stock piles* and *fast changeovers / only some batches affected* — not by one. The struck-out words in the image (*"~~the~~"*, *"~~This is b~~"*) are the candidate editing mid-sentence, and the examiner paid it anyway.
 
 **Examiner:** *"awarded the full 6 marks… The candidate **deconstructs the business information finding interconnective points with logical chains of reasoning**."*
 
@@ -442,7 +450,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > ### 🔬 What both have in common
 > | | Starbucks | CCT |
 > |---|---|---|
-> | **Length** | 3 sentences, 46 words | 2 paragraphs |
+> | **Length** | 2 paragraphs, ~100 words as scanned (cut at the page edge) | 2 paragraphs |
 > | **Definition of the term?** | **none** | **none** |
 > | **Context in every clause?** | ✅ *"cakes… sandwiches… stock piles"* | ✅ *"bicycle tour"*, *"CCT's rival"*, *"tickets"* |
 > | **Ends on a business outcome?** | ✅ *"prevent stock piles"* (waste/cost) | ✅ *"decreasing the sales"* |
