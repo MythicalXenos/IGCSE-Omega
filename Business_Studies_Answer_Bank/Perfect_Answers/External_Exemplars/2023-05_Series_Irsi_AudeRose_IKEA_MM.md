@@ -221,6 +221,7 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 ## ⭐ THE LOWER VERDICTS — every level explained in one line
 
 **P2 Q2(f) — 7/9 (Level 3):**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"The response has a **clear understanding of the two types of promotions** and how they could affect IKEA when trying to promote its furniture. **Relevant comments are made about each method which shows sound application** of knowledge and understanding. **However, there are limited interconnected points with logical chains of reasoning for the response to have a higher Level 3 mark.**"*
 > **7 = application is sound, chains are thin.** Then, the correction the examiner prints with it:
 > *"Candidates should **make a clear choice** out of the two options and be able to **balance** their response as to why the business should or should not choose that option. **Candidates should then be encouraged to write an effective conclusion.**"*
@@ -306,6 +307,7 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 > **Below the line promotion is good because IKEA can target a new demographic which is elderly people and since even elderly people may need furniture it would be a good way to get them engaged. This will lower their costs since it is a cheap way to promote IKEA's furniture. As a result increased profit. However below the line promotion can be very time consuming.**
 
 **Examiner comment — verbatim:**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"The response has a **clear understanding of the two types of promotions** and how they could affect IKEA when trying to promote its furniture. **Relevant comments are made about each method which shows sound application of knowledge and understanding. However, there are limited interconnected points with logical chains of reasoning** for the response to have a higher Level 3 mark."*
 > *"Candidates should **make a clear choice** out of the two options and be able to **balance** their response as to why the business should or should not choose that option. Candidates should then be encouraged to **write an effective conclusion**."*
 
@@ -318,6 +320,7 @@ May 2023 is the richest Justify evidence in the archive. Each paper has **two** 
 | **3** | **No choice, no conclusion** | The answer weighs **both** options and never picks one. Both routes are valid *provided you then decide* — but this answer stops at the second drawback. **The examiner's correction is printed immediately after: make a clear choice, balance it, and write a conclusion.** |
 
 > ### ⚠️ AND NOTE WHAT IT DID RIGHT
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"sound application of knowledge and understanding"* — **every point is anchored in IKEA**: *"everyone needs furniture"*, *"the furniture IKEA sell"*, *"elderly people may need furniture"*. **Application was not the problem.** This is the clean proof that on a Justify, sound AO2 with weak AO3 and no AO4 lands at **7**, not 9.
 
 ---
@@ -465,6 +468,7 @@ Put all the evaluation sentences side by side and the pattern is unmistakable.
 > ## 🎯 **THE RULE**
 > ### **The evaluation is only worth marks when the condition is NAMED and SPECIFIC to this business and this option.**
 >
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"It depends"* alone scores nothing. *"It depends on how much they spent"* scores 8. **"It depends on the size of the bonus and how the system to get a bonus works"** scores 9.
 >
 > ### THE TEST: could your condition clause be pasted onto a different question?
@@ -531,6 +535,7 @@ Put all the evaluation sentences side by side and the pattern is unmistakable.
 
 **Source:** `4BS1_Business_Studies_May_2023_P2R_ER.pdf` — verdict on p. 34 (*"This response is Level 3 – 6 marks."*), script on p. 35. Rendered at 300 dpi and transcribed.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"one reason may be to see how well they are doing alongside their Competitors. This leads to an increase in awareness of what they have to do to be able to remain the best vehicle manufacturers in the world. The effect on the business is they are able to Create a plan or idea of how they are doing against other vehicle manufacturers.*
 >
 > *Another reason is that they are able to see what they need to do to better to help improve customer satisfaction. This leads to an increase in awareness of what the business need to change or keep in order to better appeal to the needs of customers while also staying committed to certain initiatives that they reside with such as being environmentally friendly."*
@@ -544,6 +549,7 @@ Put all the evaluation sentences side by side and the pattern is unmistakable.
 
 **Source:** same report — verdict, commentary and script all on p. 43 (*"This response gained a Level 3 – 6 marks."*). Rendered at 300 dpi.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"M&M have committed to ensuring the protect their environment. They have already planted 1.32 million trees. Them continuing to plant trees firstly shows a commitment to protecting the environment understanding the negative effects that motor vehicles have on the environment and also as a positive image to the public that they are an ^accountable brand that is willing to try and make up for the harm they do. This will help show a commitment to the community which boosts public perception and the likelihood for people to trust their brand which in turn increases sales."*
 
 *(`^` = the candidate's own insertion caret, written between "an" and "accountable". Everything else is as written, including "the protect their" and "M&M have".)*

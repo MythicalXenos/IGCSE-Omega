@@ -22,6 +22,7 @@
 
 **The script (verbatim — `^…^` is an insertion above the line, `~~…~~` a deletion):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Using test marketing helps the business to reduce risks of a product having low sales and bad reviews which can potentially damage the reputation of the business. This is because the business gets to test their product ^to a certain^ ~~before its~~ group by giving them to a small group of people. This helps the business to find if there are any potential faults and repair it before it launches."*
 
 **Examiner comment (verbatim):** *"This response scored 3 marks. A good response which gained full marks. Test marketing is clearly understood and the benefit of **reduced risk** has been explained well."*
@@ -46,6 +47,7 @@
 
 **The script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A business might fail if they are unable to innovate. This means that a business will rely on their product as it is instead of figuring out how to improve it, this causes their competitors to get a competitive advantage so the business will lose ~~qq~~ customers as they will go to their competitors. As a result the business won't be able to earn enough revenue to cover their costs and generate profit."*
 
 **Examiner comment (verbatim):** *"This response scored 3 marks. A response which gained full marks. This candidate has been able to identify a clear reason why a business might fail and then been able to explain this reason."*
@@ -74,6 +76,7 @@
 
 **The script (verbatim — the candidate hyphenates across the line break exactly as shown):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"It can cause employees to be confus-ed on the task their told. The employee might not do the job properly which can lead to wastage of resources and time for the business. This can lead to unwanted loss for business which can continue if communication is not improved."*
 
 **Examiner comment (verbatim):** *"This response scored 3 marks. A good response which shows a clear impact and then this candidate has been able to expand upon this impact. **This particular candidate has explained this impact with more than two links of reasoning so has wasted some time when there are only 3 marks available.**"*

@@ -248,9 +248,9 @@ quotes. Its "0 unsupported" result was therefore vacuous.
 | Where the quote's words actually are | Quotes |
 |---|---|
 | in the held report's text layer (checked, ~100% of 6-word runs found) | the majority |
-| **not** in the text layer, report held → script image | **133, now labelled** |
+| **not** in the text layer, report held → script image | **157, now labelled** |
 | **not** in the text layer, report **not held** in text form at all | **241, now labelled** |
-| quote sits above any line naming a session and paper | 45, **not checked** |
+| quote sits above any line naming a session and paper | 17, **not checked** |
 | files that are not script banks (library, rulebook, tally) | excluded |
 
 Two labels are used, and they say different things:
@@ -272,3 +272,17 @@ what was missing. That distinction matters — the defect was provenance, not ac
 month pulled 23 quotes from `06_External_Source_Library.md` (news articles, not scripts) into a
 Pearson report and reported them as unsupported. Attribution now accepts only citation-shaped lines,
 and the non-script files are excluded.
+
+**Follow-up, same day.** Two more attribution bugs were found and fixed while sweeping the files the
+first pass could not read: a heading that names only the session (`# May/June 2023 · the four
+papers`) was discarded instead of carried, and `P1_ER.pdf`-style filenames were not recognised as a
+paper. Fixing them moved 24 quotes from "unchecked" into "checked", which is why the totals above
+read **157** and **17** rather than 133 and 45.
+
+**Register damage, and the fix.** Every inserted label shifted the citations below it: 96 rows
+first, then 119 once the second batch landed. Three repair heuristics were tried and each made it
+worse -- the last one moved rows onto a *different script with the same question number* in a
+neighbouring section, and the register started failing on paper as well as line. The working tool is
+`audits/resync_register.py`, and it does no searching: it takes the register as it stood before the
+labels (`git show 1f38eb2`) and adds the count of label lines above each cited line. Arithmetic on a
+known diff. `tally_exemplars.py` then verifies it independently against the files.

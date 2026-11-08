@@ -34,6 +34,7 @@ The examiner pays **two marks** for a complete two-step chain: *increases custom
 
 **The script (verbatim — the crossed-out mark before "employees" is the candidate's own correction):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One way a business can ensure all the employees have equal opportunities is by having team meeting's and fixing or helping any issues the employees have. This could be offering a promotion or a new position if the employee wants more responsibility."*
 
 **Examiner comment (verbatim):** *"This response shows an understanding of how a business could ensure that all employees have equal opportunities by having team meetings and this is then further developed by fixing any issues. The comment about offering promotion is another way and the question asks for one way only."*

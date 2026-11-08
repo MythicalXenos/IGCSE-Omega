@@ -24,6 +24,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Using e-newsletters to promote new or existing products is an option. This will be effective as e-newsletters are sent to customers who have already purchased or potential customers who have shown an interest in a business. By sending documents detailing new products the customer is less likely to ignore them as they may be more personalised and viewed as important. This will help promotion as the customer will be able to read through and be informed of the business's activities in real time. This is due to the frequency at which e-newsletters are sent."*
 
 **Examiner comment (verbatim):** *"This response scored 3 marks."* — the per-question commentary is the comment for this question: *"Candidates who gained the full marks for this question showed clear understanding of e-newsletters. Some candidates took the route of one way businesses could use e-newsletter with employees, others took the route of explaining one way of how a business could use e-newsletter with customers – **both of these are acceptable**. Those who did not gain the full marks failed to show a good understanding of e-newsletters or understand that businesses would need the details of customers to be able to send the e-newsletters to them so when responding with generic comments such as drawng in new customers this was not sufficient."*
@@ -46,6 +47,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"business's can use market research in order to find out customer needs in order to modify their own products to match these needs in order to improve customer satisfaction and therefore more repeat purchases and sales."*
 
 **Examiner comment (verbatim):** *"A good response which shows a clear way of '…to find out customer needs…' This candidate has then been able to expand upon this way and explain how this could be used '…to modify their own products to match these needs…' and '…in order to improve customer satisfaction.'"*
@@ -72,6 +74,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim — `~~…~~` is struck out, `^…^` an insertion):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A decentralised structure will provide a business with better ~~communication~~ ^control^. ~~This is because the fewer~~ This comes as a res… Having a decentralised structure will allow a business to adapt to market changes quicker. This comes as a result of ~~H~~ each manager possibly taking command and acting independently when changes occur. This will allow quicker reactions to events and thus a business will be able to stay ahead of its competitors. and Also communication will be quicker as there will be no delays between waiting for seniors to make decision."*
 
 **Examiner comment (verbatim):** *"This response scored 3 marks."* — the per-question commentary: *"This 'Explain' question was not as well answered as 2 (d) and 2 (c) as it shows some gaps in the knowledge of candidates of a decentralised organisational structure. Those candidates who understood the concept of a decentralised organisational structure were able to identify one benefit to a business and then go on to explain this benefit therefore gaining the full available marks. **Some candidates found it difficult to extend their answers beyond listing benefits and therefore were unable to gain full marks. Around one third of candidates showed no knowledge of this type of organisational structure and therefore gained no marks.**"*
@@ -105,6 +108,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim, pages 27–28 joined):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A disadvantage of break-even charts to decide whether it should sell a new products will be that in break even charts it is assumed that all the output produced it's always sold but sometimes it isn't. Considering that Irsi chocolate is considering new chocolate lollipops and chocolate loses it's quality in just a few days, it would probably lead to some being thrown away and the break even chart wouldn't be realistic and reliable.*
 >
 > *Another disadvantage of break-even charts to make the decision is that in break even charts the price remains constant all the time. This is a problem because prices don't always remain the same and they can sometimes change. For Irsi Chocolatier this would be a problem because as they have many competitors there they may be forced to raise or lower their prices depending in their sales so the break-even chart wouldn't be reliable."*
@@ -151,6 +155,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim, pages 9–10 joined):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Employee motivation is important to retain her employees. Since Aude sells high-quality flower arrangements, so talented and skillful workers are kept by her and she to retain them she must motivate them. If they leave then a new recruiting process will cost her more money. She needs to motivate her employees so that productivity is increased. If florists are motivated they will produce ~~higher~~ higher quality flowers in lower costs, this can increase profit and set off the high rental costs. If workers produce better arrangements then her business will appear in more magazines so more popularity, increasing its customers. Employee motivation is also needed to attract new workers since they see current satisfied workers. ~~I~~ When they take a look around the business, they will be attracted. So, talented and skillful workers can be attracted."*
 
 **Examiner comment (verbatim):** *"Candidates took a number of routes to answer this question and could bring in their own knowledge of the subject to respond to this question. This response shows a good example of the importance to Aude Anlgaret of motivating her employees ranging from retention through to attracting new employees."* *(the report's own spelling: "Aude Anlgaret")*
@@ -182,6 +187,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim, struck text shown):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Partners can work with their experience losses can be shared so the impact of the lose is reduced ~~at times~~ it resulting in better management of the business and firm control. This is also result to many variation of new ideas and planning for the business allowing them to grow with a lower risk as discussions can be made on opinions"*
 
 **Examiner comment (verbatim):** *"This demonstrates a good response which shows a clear advantage and then this candidate has been able to expand upon this advantage. **This particular candidate has chosen the advantage of expertise of partners** and then explained this advantage well to gain access to all of the available marks."*
@@ -212,6 +218,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One disadvantage of product orientation is that customers needs are not met, since the business will focus more on eg: product packaging, customers needs may not be met such as how useful the product is, hence they may choose to buy from rival firms, therefore less sales for the business."*
 
 **Examiner comment (verbatim):** *"This proved to be one of the more challenging questions and some candidates failed to show any understanding of product orientation. This response demonstrates a good example of where a candidate understands that product orientation does not meet customers needs and then they have gone on to explain this disadvantage to gain the full marks available."*
@@ -241,6 +248,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim, on report p. 32; the score line and commentary are on p. 31):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"This can keep customers attracted to the business and as they are always being offered something new to satisfy their needs and stimulate new wants. This would help create a loyal customer base and boost customer confidence thus leading to repeat purchases and a stable source of revenue. This can be used to increase scale of operations."*
 
 **Examiner comment (verbatim, p. 32):** *"This response clearly shows that they have an understanding why businesses continually design new products. Creating loyal customers, and repeat purchases."*
@@ -272,6 +280,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim — the business is M&M, the vehicle manufacturer):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Becoming a multinational business will help M&M to expand its market. This means M&M will have more customers and will be able to sell more. This will help to ~~also~~ increase the revenue of M&M."*
 
 **Examiner comment (verbatim):** *"A good response which gained full marks. **Expanding its market has been explained as the advantage and then developed.**"*
@@ -306,6 +315,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Branding is important to businesses as it ~~helps~~ helps customers easily identify them & it makes them unique. Without branding in a business, the business will not stand out, ~~it will be seen as therefore the~~ the business will be unlikely to gain customers & sales which ~~can~~ may lead to negative cashflow which is something a business does not want."*
 
 **Examiner comment (verbatim):** *"The response given clearly shows an understanding of branding gaining the full marks available."*
@@ -314,6 +324,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 🔬 **The most heavily corrected script of the eleven, and it is the one that shows how a candidate fixes a weak chain in the act of writing.** Look at what was struck:
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Without branding in a business, the business will not stand out, ~~it will be seen as therefore the~~ the business will be unlikely to gain customers & sales"*
 
 **The abandoned clause was a circular non-consequence.** What replaced it is a real chain: **no branding → does not stand out → unlikely to gain customers and sales → negative cashflow.** ⚠️ **The candidate did not keep writing; they deleted the dead link.** That is the same move as P1 Q2(e)'s restarted sentence, in a different candidate, in the same series.
@@ -335,6 +346,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **The script (verbatim, on report p. 23; the score line and the 1-mark example are on p. 22):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"one reason why Business maintain the quality of their products is to attract customers who are interested in the product. This means the business can gain customer loyalty ~~which~~ therefore customers would revisit the business and purchase only from that business."*
 
 **Examiner comment (verbatim, p. 23):** *"This response gained the full marks available, showing that **businesses want customers to be attracted to their products, will become loyal customers and continue purchasing from them**."*
@@ -343,6 +355,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 
 **⚠️ THE PAIR THE REPORT PRINTS ON THE FACING PAGE — and it is the sharpest matched pair in the file.** Page 22 prints the same question scoring **1 mark**:
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"If the business do not have good quality the customer will only buy their product ones, because the product is not safe, it can use it for a long time it will broken, so the business will maintain the quality of their product to have a good sale"*
 > **Comment:** *"This is an example of where a candidate has possibly misread the question or not developed their answer to justify what having good quality is important. **The mark was given for the comment that the customer would only buy once.**"*
 

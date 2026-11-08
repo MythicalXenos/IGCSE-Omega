@@ -68,7 +68,7 @@ def shingles(s, n=6):
 # so the tool now walks the file top to bottom carrying the last session and paper it saw.
 # ---------------------------------------------------------------------------------------------
 SESSION_RE = re.compile(r"\b(Jan|Jun|June|Nov|May/June|May/Jun|May)\s+(20\d\d)\b", re.I)
-PAPER_RE = re.compile(r"\b(?:Paper\s*|4BS1[ _]0?|P)([12])\s*(R)?\b", re.I)
+PAPER_RE = re.compile(r"\b(?:Paper\s*|4BS1[ _]0?|P)([12])\s*(R)?(?![0-9A-Za-z])", re.I)
 TABLE_RE = re.compile(r"\*\*(May/Jun|Jun|Nov|May)\s+(20\d{2})\*\*\s*\|\s*(P[12])(R)?", re.I)
 CODE_RE = re.compile(r"4BS1[ _](0[12]R?)[ _](\d{2})(\d{2})", re.I)
 
@@ -112,8 +112,9 @@ def attribute(line, session, paper):
     pap = PAPER_RE.search(line)
     if sess and pap:
         return _norm_session(sess.group(1), sess.group(2)), "P" + pap.group(1) + ("R" if pap.group(2) else "")
-    if sess and not pap and paper:
-        # "Examiners' Report June 2025" under a heading that already named the paper
+    if sess and not pap:
+        # "Examiners' Report June 2025" under a heading that already named the paper, or a
+        # file heading that names the session for every script below it
         return _norm_session(sess.group(1), sess.group(2)), paper
     if pap and not sess and session:
         return session, "P" + pap.group(1) + ("R" if pap.group(2) else "")
