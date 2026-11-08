@@ -13,6 +13,7 @@
 
 This report hands over the **exact page references** everyone else refers to vaguely:
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"the percentage breakdown of each AO can be seen on **page 7 of the Getting Started for Teacher's Guide** and **page 22 in the Specification**. Also on **page 32 of the Teacher's Guide** and **page 31 of the Specification**, are examples of the **command words** used that **indicate which of the AO's are being tested**."*
 
 ### 🎯 So the taxonomy is a table: *command word → which Assessment Objectives are tested.*
@@ -50,14 +51,19 @@ That is exactly what I needed to know — and **three rows of it are then stated
 
 # General Comments — the original text
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates appeared to have found this **new style of paper** accessible and were able to complete the paper in the given time. For the majority of the questions candidates were well prepared and were able to apply their knowledge, analyse and evaluate... However, **a number of candidates struggled with the 'State' questions**."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"However, there are a number of candidates who are **answering the questions detailing their knowledge of the topic without giving any application, analysis or evaluative comments**. This does restrict the candidates' access to the full range of marks."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The scenario of *Yellow* a **real life business**, perhaps interested the candidates which meant that they were able to relate their comments to the business."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is important that candidates take into account **the marks allocated for each question**, giving them guidance on the amount of detail they need to answer the question."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Questions can be taken from **any part of the specification**, therefore centres should ensure that all sections are covered so that they do not disadvantage any candidates. From the work seen it appeared that **some candidates had not covered the full specification**."*
 
 The ePEN paragraph and the *"X not ticks"* paragraph are here in their **original** form — this is the source later reports copied. Also present: *"Sufficient lines are given for candidates to answer questions... **Examiners are unable to guess if a candidate has continued the answer somewhere else.**"*
@@ -80,6 +86,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐ Q1(d) — only a TENTH. The worst State result in the bank.
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This is the first of the 'State' questions where **candidates must relate their response to the business. Only a tenth of the candidates gained the mark available.** Although from the responses seen, **candidates understood a diseconomy of scale** but did not put it in context and therefore did not gain the mark."*
 
 **The examiner is explicit: the knowledge was there.** Nine candidates in ten lost the mark for one reason.
@@ -90,6 +97,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### Q1(b) — crowdfunding: "a group of people" is correct but incomplete
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"less than a fifth of the cohort gained the mark available, showing that perhaps candidates were not familiar with the term **crowdfunding**, or they were unable to sufficiently define it clearly. **Most identified that it was a group of people which is correct, but then they were unable to develop the comment correctly to gain the mark available.**"*
 
 **Same structural verdict as the trade-bloc definition** (*"a group of countries, which is correct, but does not include why they join together"*).
@@ -100,6 +108,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### Q1(e) — two rules in one question
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Over half of the cohort gained the two marks available for the **correct formula** and **over a fifth gained one mark for the formula even though the actual price was incorrect**. Some candidates did **'round up' the figure which was incorrect as the question asked for the selling price**."*
 
 **Rule A — the formula mark is insurance.** *"over a fifth gained one mark for the formula even though the actual price was incorrect."* Show the workings even when unsure.
@@ -108,10 +117,12 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### Q1(f) — asked for ONE
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The question asked for **one** advantage **as opposed to two**, and the response **did not have to be in context**. Very few candidates did not gain a mark."*
 
 ### Q1(g) — Analyse: *"the question did not have any AO1 knowledge marks available"*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"To gain the marks available candidates needed to **apply the information and then analyse**. Unfortunately a large number of candidates **gave a very detailed description of what Kaizen is and the benefits of using this method, the question did not have any AO1 knowledge marks available**. Less than a third of the candidates did not gain a mark, with most candidates gaining **2-3 marks**."*
 
 > ⭐ Note where "most candidates" landed: **2–3 out of 6.** On a 6-mark Analyse the Level 2 band starts at 3. **The typical candidate sat at the bottom of Level 2** — exactly the pattern the later reports describe.
@@ -131,6 +142,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐ 2(e) — a quarter scored zero by *confusing two documents*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"candidates do tend to find finance questions more difficult and this was no exception, with **approximately a quarter of the candidates not gaining any marks**. From responses seen **candidates tended to confuse this document with a statement of financial position**."*
 
 ✅ **RESOLVED from the primary sources, 14 Oct 2026 — it is the CASH FLOW FORECAST.** The report's passage does not name the document, so the bank flagged it rather than guessing — and the archive settles it without any guesswork:
@@ -149,6 +161,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐ 2(f) — Justify: descriptions earn NOTHING, and the misread
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Most candidates understood that they had to justify why they had chosen which option. However **a large number of candidates gave very detailed descriptions of the two options, which was knowledge and therefore they did not gain any marks**..."*
 >
 > *"From the responses seen **some candidates misread the question and referred to manufacturing of clothes for Yellow as opposed to sales assistants**."*
@@ -157,10 +170,12 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### Q2(c) — the Explain rule, in its original form
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"candidates had knowledge of the benefits of a business retaining its employee and **as the question is 'explain' they did not need to put it in context, although a large number did**."*
 
 ### Q2(d) — asked for one, gave several
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"most candidates understood the advantage of using targeted advertising online. **However they tended to give more than one advantage for the business, where the question clearly asked for one.**"*
 
 ---
@@ -177,6 +192,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐ Q3(b) — half scored zero by describing the two businesses instead of the relationship
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This question seemed to challenge some candidates with **half of the cohort not gaining a mark**. Candidates had to **outline one benefit of BEXIMCO owning Yellow**. A number of candidates **gave statements about each of the businesses as opposed to the benefit of one owning the other**."*
 
 > **The principle: when the question is about a RELATIONSHIP, describe the relationship — not the parties.**
@@ -186,12 +202,14 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐ Q3(c) — decimal places, stated as *not answering the question*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates should be encouraged to **show their workings** as advised in the question, as **they could gain a mark for the formula, even if the actual answer is wrong**. Candidates seemed to be able to cope with this type of calculation with over two thirds gaining the marks on this question. **A number of candidates did not give the response to 2 decimal places, this is not answering the question and therefore they did not gain the full marks available.**"*
 
 **9th confirmation of the d.p. rule** — and the bluntest: *"this is not answering the question."*
 
 ### Q3(d) — a specification reference, and the demographics trap
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This question asked candidates to analyse why Yellow sell to **all demographics**. **This question was taken from 4.2.3 of the specification on Marketing.** Just under a fifth of the candidates gained no marks and **over half of the cohort gained either one or two marks. Again a majority tended to give a detailed description of what demographics means but did not apply or analyse the information.**"*
 
 ⭐ **Rare and valuable: the report names the specification section — 4.2.3 Marketing.** One of very few spec references in the entire bank.
@@ -206,6 +224,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐ Q3(e) — "There are no knowledge marks available for this question."
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"many candidates described both methods of non-financial rewards giving the advantages and disadvantages of each. **There are no knowledge marks available for this question.** Again from the responses seen **a number of candidates confused the two methods of rewards** which was a great pity."*
 
 ⭐ **The knowledge rule stated in terms:** *"no knowledge marks available."* (Also, again: confusion between paired terms.)
@@ -222,6 +241,7 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### Q4(b) — the taxonomy reference, named again, and misread #10
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"As previously mentioned and indicated in the **'Getting Started Booklet', page 32**, an **analyse question is looking for application and analysis as opposed to knowledge**. **Some candidates referred to the advantages of using social media for Yellow instead of the disadvantage.** Candidates should be encouraged to **read the question carefully at least two or three times before answering**."*
 
 ⭐ **"Getting Started Booklet, page 32"** — the command word reference, cited independently in the same report that gives the Specification page numbers. **The location of the taxonomy is now triple-confirmed.**
@@ -230,10 +250,13 @@ The ePEN paragraph and the *"X not ticks"* paragraph are here in their **origina
 
 ### ⭐⭐ Q4(c) — BULLET POINTS CANNOT REACH LEVEL 3
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is worth pointing out to candidates that **this question does carry the most marks and they should allow sufficient time to answer it, with all four of the Assessment Objectives being covered**. **A number of candidates only completed a few lines and therefore did not gain many of the marks available.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Some candidates are using bullet points or numbered format, this will not allow them to gain the higher level marks because they may not have analysed or evaluated the points made.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates were asked to evaluate how Yellow may have gained a competitive advantage in the clothing market. **A variety of valid comments were made by candidates, and the majority used the bullet points in the stem of question to develop their responses. However they then failed to develop these points further and justify their reasons to enable them to gain the higher level marks.**"*
 
 **Two new, hard constraints:**

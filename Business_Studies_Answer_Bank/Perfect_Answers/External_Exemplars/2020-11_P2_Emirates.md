@@ -17,6 +17,7 @@ A Principal Examiner Feedback report — question-by-question commentary with **
 
 Q2(b) asked candidates to **state one reason for Emirates having a loyalty programme for its passengers.** The examiner writes the answer out:
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates were able to give some valid reasons but again did not relate it to Emirates… On these type of questions candidates should be encouraged to ensure that it is related to the scenario of the paper… **For example, 'ensuring that passengers travel with Emirates rather than another airline'. By just mentioning Emirates would not gain them a mark as the business is mentioned in the question.**"*
 
 ### 🎯 Take that model apart — it is the template for every State question
@@ -50,10 +51,13 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 # General comments — the ePen rules, restated
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"the examination paper is marked using the online **'ePEN' system**… **Examiners are unable to guess if a candidate has continued the answer somewhere else.** Candidates must clearly indicate by using **'continued', 'contd page ….' or 'see separate sheet'**."*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"for the first six questions, are multiple choice and candidates are given the instruction to mark an **'X'** in the box. There are some candidates who are using **'ticks'**."*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Questions can be taken from any part of the specification… **From the work seen it appeared that some candidates had not covered the full specification.**"*
 
 **Note the standing advice this triggers:** *"It is important that candidates take into account the marks allocated for each question, giving them guidance on the amount of detail they need to answer the question."* — **marks signal how much to write.**
@@ -76,6 +80,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### Q1(b) — social enterprise (a named spec point)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"less than two thirds of the cohort gained the mark available, showing that perhaps candidates were not familiar with the term **social enterprise**, which comes under **specification 1.2.3 different forms of business organisations**, **some referred to the government owning the businesses**."*
 
 > **Social enterprise:** a business **trading to achieve a social or environmental purpose**, which **reinvests its profits into that purpose** rather than distributing them to owners.
@@ -86,6 +91,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### ⭐ Q1(c) — globalisation: four fifths failed
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Four fifths of the candidates did not gain the mark** for this question. **A number of candidates referred to the world changing. If they had developed this comment further they could have gained the mark available.**"*
 
 **"The world changing" is a gesture, not a definition.** The examiner's fix is not to know more — it is to **finish the sentence**.
@@ -96,6 +102,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### Q1(f) — Herzberg: blanks, and a confusion pair
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Nearly two thirds of the candidates did not gain any marks on this question. From the responses seen **there were a number of blank responses** for this question. A quarter of the cohort gained either one or two marks, having an understanding of **Herzberg's motivational theory**. **A number of candidates confused Herzberg with Maslow's hierarchy of needs, which did not answer the question.**"*
 
 ### ⚠️ The two motivation theories — do not mix them
@@ -110,6 +117,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### ⭐ Q1(g) — a fifth of the cohort scored ZERO on a 6-marker
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates were asked to **analyse why Emirates would want to use financial information when making business decisions**. To gain the marks available candidates needed to apply the information and then analyse. Unfortunately **a large number of candidates gave in depth detail of the documents they could use for financial information but did not apply to Emirates or how they would be used** and therefore did not gain the marks available. **Some candidates repeated the information from the stem which is not worthy of a mark. A number of candidates gave a list of the documents and what is included in them, without giving reasons as to why the bank would want to look at them.** **Two thirds of the candidates gained either marks in Level 1 or Level 2. With a fifth of the cohort gaining no marks.**"*
 
 ### ⚠️ Three failures, and they are the same three as everywhere else
@@ -124,6 +132,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 > **The reframe:** the question is not *"what financial information exists?"* It is *"why would **Emirates** want it?"* Every sentence should be answerable to the word **"so that…"**.
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"" — **the wrong answer.** → *"The **statement of financial position** shows Emirates' **debt from aircraft purchases**, so it can see whether it can afford to finance **another A380 order**."* — **the right answer.**
 
 ---
@@ -141,6 +150,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### ⭐ Q2(c) — context on an Explain is NOT penalised
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"for this question candidates were asked to give one benefit of having full-time employees, and **as the question is 'explain' they did not need to put it in context, although a large number did and are not penalised for doing this**."*
 
 **An important nuance.** The rule is *"there are no AO2 marks available"* — **not** *"context is forbidden."* Adding context to an Explain answer **cannot lose you marks**; it is simply not required. **The danger is only in the time it costs**, not in the marking.
@@ -149,6 +159,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### Q2(d) — the relevance rule again
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"nearly half of the cohort did not gain any marks… **some candidates appeared to be confused as to why seasonal staff are employed. A number of candidates mentioned that it allows other staff to go on holiday or have a break, which may be correct but is not a reason for a business using seasonal staff.** A number of candidates understood the reason for hiring this type of staff during busy times, such as Christmas, but **then did not develop their answers**."*
 
 **"Other staff can take holiday" is true and irrelevant.** The reason a business hires seasonal staff is **demand that varies** — it needs more people in peak periods without carrying that cost all year.
@@ -157,12 +168,14 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### Q2(e) — the pattern once more
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"nearly a third of the candidates did not understand why health and safety training is undertaken as part of an induction programme. From the responses seen **most candidates were able to identify that having this training would help reduce accidents/injuries for employees but then did not develop their comments**."*
 
 **Identify but do not develop** — the same single failure, on a third consecutive question.
 
 ### Q2(f) — Justify market research: the description trap and a content note
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"a large number of candidates gave **very detailed descriptions of the option chosen, which was knowledge and therefore not worthy of any marks**… **Focus groups, was less well answered than questionnaires.** For candidates to gain the higher levels they need to **draw conclusions or make evaluative comments as to why they have made their choice**."*
 
 **Content note: focus groups are the weaker-known method.** Learn it — a **small group discussion, led by a moderator**, giving **qualitative, in-depth** opinions on a product or idea. Advantages: rich detail, can probe. Disadvantages: **small sample, not representative, expensive per respondent, and subject to group influence.**
@@ -192,6 +205,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### ⭐⭐ Q3(b) — the exact repeat of a Nov 2023 finding
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"over three quarters of the cohort not gaining a mark. Candidates had to **outline one reason for Emirates having a short chain of command**. **A number of candidates described what a short chain of command was, but then did not relate it back to Emirates** and therefore did not gain the marks available."*
 
 **This is the same failure as Nov 2023 P2 Q3(b)** — where candidates *"described what robotics was… even though the description was accurate"* and scored nothing.
@@ -199,11 +213,13 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 > ### The rule, stated identically in two different papers: **describing the concept is not answering the question.**
 >
 > The question asks for a **reason** — so the answer must be a **reason**, in the case study's context:
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Emirates has a **short chain of command** so that decisions about **flight schedules and routes** can be made quickly, which matters in an industry where **weather and air traffic disruptions** need immediate responses."*
 > — reason **(1)**, applied **(1)**. **No definition anywhere.**
 
 ### Q3(d) — the misread, in a new costume
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"a number of candidates **misread the question and referred to Emirates being friendlier with its customers. Others mentioned that Emirates wanted to be more hygienic.** Less than a fifth of the candidates gained no marks for this question. With **half of the candidates gaining a Level 1 or bottom of Level 2** mark."*
 
 **"Environmentally friendly" ≠ "friendly to customers" ≠ "hygienic."** This is the **advantage-vs-disadvantage misread pattern** again — reading one word of the question and running with it.
@@ -214,6 +230,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### Q3(e) — the description trap at 9 marks
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"many candidates described both methods of promotion giving the advantages and disadvantages. As mentioned previously **there are no knowledge marks available for this type of question**… **A number of candidates identified how Emirates could use the options but then did not evaluate their comments to gain the higher level.**"*
 
 ---
@@ -228,6 +245,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### ⭐ Q4(b) — the best single illustration of the relevance rule
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"an analyse question is looking for application and analysis of **why a business would interview pilots**. **Some candidates referred checking qualifications and experience, which would be carried prior to the interview.** Half of the candidates gained a Level 1 mark. This could be because **candidates have not yet experienced an interview for a job.**"*
 
 **Checking qualifications happens *before* the interview.** Therefore it is not a reason *for* the interview. The examiner diagnoses the cause with real insight: **candidates describe things they have not personally experienced, so they reason by association rather than by sequence.**
@@ -238,6 +256,7 @@ Q2(b) asked candidates to **state one reason for Emirates having a loyalty progr
 
 ### Q4(c) — Evaluate: the same diagnosis, a third time
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is worth pointing out to candidates that **this question does carry the most marks and they should allow sufficient time to answer it**… **A number of candidates only completed a few lines**… Some candidates are using **bullet points or numbered format** — this will not allow them to gain the higher level marks because they may not have analysed or evaluated the points made.*
 >
 > *Candidates were asked to **evaluate the changes in consumer spending and competition on Emirates**. **A variety of valid comments were made by candidates**, such as mentioning the situation the world is in at the moment with the virus and how this has affected consumer spending, also more competition with cheaper airlines entering the market. **However they then failed to develop these points and justify their decisions** to enable them to gain the higher level marks. **The majority of the cohort gained either Level 1 or the middle of Level 2.** To gain the higher levels candidates **must draw conclusions and justify the comments made**."*

@@ -30,6 +30,7 @@
 
 **Question:** Choose between sponsoring a local event or distributing leaflets to increase sales.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"…[this] means that Aude Rose may have a larger customer base, and customers may be more attracted to Aude Rose rather than other flower shops. **However, this entirely depends on the success of the local event**, and whether it was held effectively or not, meaning that Aude Rose may not be able to increase its sales if the number of attendees of the local show is low.*
 >
 > *In conclusion, I believe that sponsoring at a local event is better for Aude Rose in order to increase its sales. This is because leaflets may be hard to modify and alter once printed, and may require Aude Rose to have experience in graphics and presentations, or it may have to hire specialists to create the leaflets in an attractive way, which is expensive. Moreover, despite sponsorships being expensive, if the local event was successful, then the costs may be covered easily."*
@@ -45,12 +46,14 @@
 
 **Question:** Choose between handing out questionnaires in the shop, or using the internet to research trends.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Using the internet to research on trends is a better way as they are provided with more information than questionnaires. The internet is also easily accessible as long as there is a suitable device connected to the network. The internet will also allow users to filter their searches which will make their search quick and accurate. Trending topics will be easiest to spread as the internet is accessible from almost all parts of the world which means countries that are ahead of them such as Australia, will provide the trends happening there which may also be starting in Paris. As a result, Aude Rose can already properly pla[n]…"*
 
 ---
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 6/6 · Q3(d) Analyse
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Aude Rose can use its retained profits from the previous year. This reduces cost as retained profits are the cheapest form of funding as Aude Rose won't [have] to borrow money from the market (e.g. bank) which will gather interest. This means Aude Rose can offer a much larger variety without the risk of having to pay debts."*
 
 **Examiner comment (verbatim):**
@@ -60,6 +63,7 @@
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 2/2 · Q3(b) Outline
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Aude Rose can change the packaging by adding extra ribbons to it or changing the colour of the wrapping paper so that people are still likely going to buy the flower bunches."*
 
 > *"'Outline' questions require candidates to use context within their responses and this shows how we would expect candidates to respond to this type of question as this has achieved the full available marks."*

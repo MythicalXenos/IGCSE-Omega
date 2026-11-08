@@ -26,6 +26,7 @@ A Principal Examiner Feedback report: question-by-question commentary with **coh
 
 # General comments (verbatim, abridged where marked)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates appeared to have found this paper accessible and were able to complete the paper in the given time… However, **a number of candidates are still struggling with the 'State' questions**.*
 >
 > *…there are still candidates who are answering the questions detailing their knowledge of the topic **without giving any application, analysis, or evaluative comments**. This does restrict the candidates' access to the full range of marks.*
@@ -40,10 +41,13 @@ A Principal Examiner Feedback report: question-by-question commentary with **coh
 
 This is the first report in the bank to explain the marking system, and it contains three ways to lose marks **that have nothing to do with business knowledge**.
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"the examination paper is marked using the online **'ePen' system**, therefore candidates must indicate if they have continued their answer somewhere else on the paper or have added additional sheets… **The examiner may not realise that a candidate has continued writing somewhere else on the paper unless it is made clear.** Also, candidate should **only use the lines given in the question** — continuing another line may also not be read by the examiner… **Examiners are unable to guess if a candidate has continued the answer somewhere else.** Candidates must clearly indicate by using **'continued', 'contd page ….' or 'see separate sheet'**."*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"There are also some candidates who do not follow the instructions of the examination paper — for the first six multiple choice questions candidates are given the instruction to mark an **'X'** in the box. There are some candidates who are using **'ticks'**."*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"they should take care to ensure that their figures are easily recognisable, in some cases **the writing of candidate's number 4 and number 9 could be confused by the examiner**."*
 
 > *"candidates should take care with their writing of certain numbers e.g. **the writing of the figure 4 sometimes looks like a 7**."*
@@ -88,6 +92,7 @@ This is the first report in the bank to explain the marking system, and it conta
 
 ### ⭐ Q1(d) — the State rule, with the examiner's clearest warning yet
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"this is the first of the 'State' questions where candidates must relate their response to the business. **Just over a tenth** of the candidates gained the mark available. Although from the responses seen candidates gave a valid reason for training its employees using on-the-job but **did not put it in context of Kraft Heinz** and therefore did not gain the mark. **Also, just using the scenario in the response will not gain a mark as Kraft Heinz is in the question.**"*
 
 ### ⚠️ "Just using the scenario will not gain a mark"
@@ -106,6 +111,7 @@ Read that sentence twice. A candidate who writes *"Kraft Heinz should train its 
 
 ### Q1(e) — the calculation rules, at their most complete
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Over four fifths of the cohort gained the two marks available… **Candidates should be aware that if the question asks for two decimal places and their response has three decimal places they will not gain all the marks available.***
 > *It is worth reiterating to candidates to **show their workings within the box**, as they may have the correct formula, which would gain them a mark but then make a calculation error. **Candidates should be reminded that there is a line at the bottom of the box for their response.** This makes it clearer and easier for the examiner when marking. From the responses seen **some candidates had their answer within their workings, which was not always easily identified**.*
 > *It is also worthy of note that if the question asks for a calculation to two decimal places, then **marks will not be given for a response that only gives one decimal place**."*
@@ -124,12 +130,14 @@ Read that sentence twice. A candidate who writes *"Kraft Heinz should train its 
 
 ### Q1(f) — the listing cap, and a no-context question
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"a question where candidates could have developed their answers more to gain the full 3 marks available. Nearly half of the candidates gained either two or three marks… **The question asked for one advantage as opposed to two, and the response did not have to be in context.** Some candidates did give more than one advantage…"*
 
 **Confirmed: a 3-mark Explain needs no context** (AO1 only) **and wants one advantage developed, not two listed.**
 
 ### ⭐⭐ Q1(g) — the most instructive question on the paper
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"this is the first question in the paper which is marked by levels. Candidates were asked to **analyse the benefits to Kraft Heinz of using social media to collect market research data**. To gain the marks available candidates needed to apply the information and then analyse. Unfortunately, **a large number of candidates gave very detailed response of the benefits of using social media but not in the context of collecting market research data** and therefore did not gain the marks available. **Some candidates repeated the information from the stem which is also not worthy of a mark. Just 15% of the cohort gained a Level 3 mark** and approximately half gained a Level 2 mark. **It is important that candidates read the question several times to ensure that they know what they are answering.**"*
 
 ### ⚠️ Three ways to fail this question, all visible in that paragraph
@@ -185,12 +193,14 @@ Worked on this paper:
 
 ### Q2(c) — Explain, no context needed, best-selling point missed
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"the question is 'explain' question and therefore **candidates do not need to put it in context**. The concept of why some businesses use crowdfunding as a source of finance was understood by most of the candidates with **just over a quarter of the cohort not gaining a mark**, and **just under a fifth of candidates gaining the full three marks**."*
 
 **Only one in five got 3/3** — the majority knew the concept and stopped at 1 or 2. This is the listing/development gap again.
 
 ### ⭐ Q2(d) — the relevance rule
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"some candidates confused why a business would use retained profits to purchase goods and services. Nearly a third of the cohort did not gain a mark… **A number of candidates referred to shareholders would not be happy which is not relevant to using retained profit.**"*
 
 **"Shareholders would not be happy" is about *share capital*, not retained profit.** It is a true business statement, attached to the wrong topic.
@@ -199,6 +209,7 @@ Worked on this paper:
 
 ### Q2(f) — Justify: the description trap, and a striking statistic
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"the first question where candidates had to choose between the two methods of promoting its sales. Most candidates understood that they had to justify why they had chosen one option as opposed to another. However, **a large number of candidates gave very detailed descriptions of the two options, which was knowledge and therefore they did not gain any marks.** Most candidates were able to justify one of the options. **Less than five percent of the candidates did not gain a mark on this question** with most candidates gaining a Level 2 mark."*
 
 ### ⚠️ Note the contrast with Q1(g)
@@ -223,6 +234,7 @@ Worked on this paper:
 
 ### Q3(a) — three quarters failed a one-mark definition
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"a definition question where candidates had to define the term **public limited company**. This question was not as well answered as expected, with **nearly three quarters of the cohort not gaining the mark**. Again, as mentioned candidates must be clear and give a full definition of the term… **Most mentioned that public bought shares.**"*
 
 **The partial definition again.** *"The public can buy shares"* describes one feature. A **full** definition needs more than one element:
@@ -233,6 +245,7 @@ Worked on this paper:
 
 ### ⭐⭐ Q3(b) — the most important rule in this report
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates had to **outline one impact that would come from Kraft Heinz of using robotic technology**. A number of candidates **described what robotics was, this is knowledge and therefore did not gain them any marks, even though the description was accurate.** The response needed to include the scenario as **the marks allocated are for Assessment Objective 2, application**. Over three quarters of the cohort gained one mark for this question."*
 
 ### ⚠️ "Even though the description was accurate"
@@ -256,6 +269,7 @@ The candidate writes a factually perfect account of what robotics is. The examin
 
 ### Q3(d) — the misread, again
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"this question asked candidates to analyse how Kraft Heinz could benefit from reducing its waste. Nearly half of the cohort gained a Level 2 mark. **Some candidates referred to how customers could reduce their waste.** Candidates should be encouraged to **read carefully the question** so that they fully understand what is being asked."*
 
 **Who benefits?** Kraft Heinz. Not customers, not the environment.
@@ -264,14 +278,17 @@ The candidate writes a factually perfect account of what robotics is. The examin
 
 **On Q3(e), the one-option rule is restated by a Principal Examiner in terms:**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates should be encouraged to analyse and evaluate the two options to enable them to gain the higher marks, **or they could just analyse and evaluate one of the options.**"*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Just over half of the candidates gained a Level 2 mark, with nearly a fifth of the cohort gaining a Level 3 mark. **It may help some candidates gain the higher level if they actually gave evaluative comments as to which option would be more suitable.**"*
 
 **And the diagnosis of the Level 2 ceiling is, once again, evaluation** — not analysis, not knowledge, not context.
 
 **On Q4(b), the misread is named outright:**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"nearly a third did not gain a mark on this question, this may be because again the **question was not read correctly**, and they gave **benefits to Kraft Heinz of being located in a particular country**. **The question asked for the benefits to the country not to Kraft Heinz.**"*
 
 > **The direction-of-benefit drill.** Before writing any "benefits of" answer, write the beneficiary at the top of your answer in the margin:
@@ -290,6 +307,7 @@ The candidate writes a factually perfect account of what robotics is. The examin
 
 ### ⚠️⚠️ Q4(c) — the 12-marker, and the statistic that matters most
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is worth pointing out to candidates that **this question does carry the most marks and they should allow sufficient time to answer it** with all four of the Assessment Objectives being covered. **A number of candidates only completed a few lines and therefore did not gain many of the marks available.** Some candidates are using **bullet points or numbered format** — this will not allow them to gain the higher level marks because they may not have analysed or evaluated the points made.*
 >
 > *Candidates were asked to evaluate the importance to Kraft Heinz of using a variety of different methods to advertise to its customers. **A variety of valid comments were made by candidates** — different methods attract different types of people. **However, they then failed to develop these points and justify their decisions to enable them to gain the higher level marks. Nearly four fifths of the cohort gained a Level 2 mark and just over a tenth of the cohort gaining a Level 3 mark.**"*

@@ -138,6 +138,7 @@
 
 **The 1-mark script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Spud Bros motivates its employees so that they would provide quality services to customers by putting the toppings for the potatoes in a pleasant way."*
 
 **Examiner comment (verbatim):** *"This is a correct reason why Spud Bros motivates its employees. It is also contextualised to Spud Bros. Total: 1 mark"*

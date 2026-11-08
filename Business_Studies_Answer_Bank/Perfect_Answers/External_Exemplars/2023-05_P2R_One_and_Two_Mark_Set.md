@@ -106,6 +106,7 @@
 
 **The 1-mark script (verbatim):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Customer satisfaction may be one of M&M's objectives as they want to maintain a good reputation and relationship with them (by designing quality cars)."*
 
 **Examiner comment (verbatim):** *"This candidate has identified a non-financial objective and ensured that it is in context to the scenario by the comment of designing quality cars."*
@@ -215,6 +216,7 @@ The rule was written from May 2023 **Paper 2** — two scripts, both of which di
 
 **Question (verbatim, as printed):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"**M&M** sells its tractors to the UK. Its tractors sell for **14 000 000 Indian Rupees.** The exchange rate is **103 Indian Rupees = £1 (GBP).***
 > ***(a)** Calculate, to 2 decimal places the cost of the tractor in pounds sterling (GBP). You are advised to show your working."* **(2)**
 
@@ -276,12 +278,14 @@ The rule was written from May 2023 **Paper 2** — two scripts, both of which di
 
 **The 0-mark script (verbatim, report p. 30):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One reason is to lower costs. Closer to a labour force means cheaper means of transport to the factory which means cheaper labour."* *(a correction is visible before "Closer" — a struck mark — but the sentence reads on cleanly)*
 
 **Examiner comment (verbatim):** *"This response is not in context because the comment transport to the factory could apply to any business."*
 
 **The 2-mark script (verbatim, report p. 31):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Because there would be a high number of highly skilled workers e.g. mechanics or car engineers which means M&M can hire labour at a low cost due to the competition of wanting a job."*
 
 **Examiner comment (verbatim):** *"The response refers to access to more skilled workers of mechanics and engineers and the development is that they would want a job."*

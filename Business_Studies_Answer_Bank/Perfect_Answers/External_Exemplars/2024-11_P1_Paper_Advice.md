@@ -2,10 +2,13 @@
 
 **Source:** `4bs1-01-pef-20250123.pdf` — the paper-summary advice section, **verbatim**:
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Any question which refers to a specific business should give answers that are in the context of that business. This should be remembered when answering the **one mark 'state' questions** where answers need to be specifically applied to the business referred to in the exam paper."*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**The biggest reason candidates underachieved on this paper was because candidates failed to answer the specific question asked.** It is imperative that candidates read the questions carefully and re-read them a second time. Students should identify the specific topic being examined and not provide generic responses that are not specifically addressing the question posed. This is specifically pertinent to question 4c where many students failed to show adequate knowledge of TQM."*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This advice is given each series but unfortunately not always adhered to; many students are still failing to provide developed counterbalance in their answers. **For justify and evaluate questions students must always provide a balanced assessment. Failing to provide developed counterbalance means it is extremely unlikely the candidate can reach the top level in the mark scheme.**"*
 
 **Three points worth carrying into every paper:**

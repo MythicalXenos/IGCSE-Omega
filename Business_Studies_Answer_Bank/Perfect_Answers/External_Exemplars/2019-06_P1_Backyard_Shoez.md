@@ -17,8 +17,10 @@
 
 # ⭐⭐ THE TAXONOMY — now fully located
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Centres are advised to look at the **command words outlined on page 31 of the specification** as **many learners are losing marks through their lack of understanding of these words, in particular the 'State' questions**."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"the mark scheme does include the Assessment Objectives (AO) for all questions. **The breakdown for each AO can be seen on page 7 of the Getting Started** to teach guide."*
 
 **Cross-referenced with the P2R report from the same series:**
@@ -30,6 +32,7 @@
 
 ### ⭐⭐⭐ And the Justify tariff, stated definitively
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Most gaps were found in questions 2 (f) and 3 (e) where learners showed little knowledge of how to answer a **'Justify' question**. Learners showed clear knowledge of the two options for *Backyard Shoez* but often **were unaware there are no AO1 marks available for these questions and they are being tested on application (AO2), analysis (AO3) and evaluation (AO4) skills** to be able to successfully **recommend one of the options** to *Backyard Shoez*."*
 
 **Justify (9 marks) = AO2 + AO3 + AO4. Zero knowledge. And the verb is *recommend*.**
@@ -73,24 +76,30 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 | **Change the product mix** | **push the high-margin lines** — handbags beside shoes |
 
 > ⭐**The 3-mark shape:** identify the method **(1)** → explain the mechanism **(1)** → land the effect on margin **(1)**.
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Backyard Shoez could **negotiate bulk discounts with the supplier (1)**, which **lowers the cost of each pair of shoes it buys (1)**, so **the gap between the selling price and cost of sales widens and the gross profit margin rises (1)**."*
 
 ---
 
 # General comments — the original text
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This was the first paper to be sat for the new specification for Paper 1; both paper 1 and 2 allow learners to apply theory to realistic contexts."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This paper is based on *Backyard Shoez*, in Kenya, which proved accessible to candidates. Many candidates showcased evidence of their understanding of Business from studying this course. However, **providing answers on the given scenario seemed to present some difficulty for some learners which restricted their entry to the higher levels**. Centres are encouraged to work closely with their learners to encourage them to **revisit the scenario set** and **practice answering questions in the context of the scenario**."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Centres are advised to look at the command words outlined on page 31 of the specification as many learners are losing marks through their lack of understanding of these words, in particular the 'State' questions.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Questions 2 (f) and 3 (e) in particular were poorly answered.** For analysis (AO3) and evaluation (AO4) responses candidates are asked to write an **extended answer using the information provided within the paper**."*
 >
 > *"The time provided for the paper was sufficient and **the paper differentiated well**."*
 
 ### ⭐ The length rule, in original form
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Learners should practice writing **more concise** answers to these questions as **the lines available are more than adequate** for such a question but often **learners are using additional papers without gaining additional marks**."*
 
 ⭐ **Read that carefully** — the advice is *concise*, and the justification is that **the printed lines are sufficient**. This is not "write more"; it is **"the space given is calibrated to the marks."**
@@ -113,6 +122,7 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 
 ### Q1(d) — the State question the whole report is about
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**not a well answered question; just over a tenth of candidates gained a mark** for this question. Candidates were able to identify a method of on-the-job training but **few understood the answer needed to be in the context of Backyard Shoez**."*
 
 **The question, quoted in the General Comments:** *"State one method Backyard Shoez could use for on-the-job training."* ... *"To achieve full marks **the answer must be in context to the given scenario** but a lot of learners provided a method of on-the-job training with no context to Backyard Shoez."*
@@ -123,12 +133,14 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 
 ### ⭐ Q1(e) — the d.p. rule and the formula-sheet warning, both in original form
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"a calculation question where **half of candidates gained full marks** for the correct calculation of the **gross profit margin and to 2 decimal places**. **Just under half of candidates gained a mark** for this question. Centres must remind candidates that **if the question states 'to 2 decimal places' then this is the expectation to gain full marks** for the question. It would also be helpful for centres to remind candidates to **some formulas are provided at the front of the paper, whilst most candidates did use these there are still some that are not**."*
 
 ⭐ **The formula sheet sentence in its original, garbled form** — *"some formulas are provided at the front of the paper… there are still some that are not."* The Nov 2020 P1R report later names break-even as one of the missing ones. **The warning has been there since the first sitting.**
 
 ### Q1(g) — Analyse: *"there are AO2 marks for this level-based question"*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates have shown good knowledge of how customer needs can be satisfied. Candidates must be reminded that **there are AO2 marks for this level-based question** as often candidates would provide an extended answer but **not apply this answer to the context of Backyard Shoez therefore not allowing themselves to move into the top of level 2**. **Most marks gained by candidates were within the bottom of the level 2 band** for this particular question."*
 
 ⭐ **Identical phrasing is repeated in Nov 2020 P1R Q1(g)** — verbatim, eighteen months apart. Another confirmation that general guidance is templated, while its application is not.
@@ -148,6 +160,7 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 
 ### ⭐ Q2(b) — the sentence that launched a thousand reports
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Only **one tenth of candidates** were able to correctly identify a benefit to *Backyard Shoez* of using off-the-job training. **Centres must remind candidates that 'State' questions need to be in the context of the given business, the majority of candidates are currently being disadvantaged by not being taught this skill.**"*
 
 **This exact wording reappears in Nov 2020 P1R Q2(b).** It is standing Pearson advice, issued in 2019 and still current.
@@ -156,6 +169,7 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 
 ### ⭐ Q2(d) — the above-the-line confusion, and a LANGUAGE trap
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"just under half of candidates gained 2 or more marks… **over one third of candidates gained no marks** on this question **due to a lack of knowledge of methods of above the line promotion, this was often confused with an employee being promoted within a business or below the line methods of promotion**."*
 
 ⭐ **A pure vocabulary collision:** *promotion* (marketing) vs *promotion* (a job). The examiner names it outright.
@@ -192,14 +206,17 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 >
 > *"Those candidates who **gained no marks** on this response **simply showed knowledge of one or both options with no application, analysis or evaluation**."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates working at **level 1** showed good knowledge of both options, making statements on one or both options **with some relation to Backyard Shoez** but this was **not always expanded upon**."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"More able candidates accessed **level 3** by considering their chosen option **in the context of Backyard Shoez** and **how this would impact the motivation of their employees**, **linking their points together** and **concluding their answer with balance and justification**."*
 
 ⭐ **Note the three requirements for Level 3, in order: context → business impact → linked paragraphs + balanced, justified conclusion.**
 
 ### Q2(c) — the HR gap, from the very first paper
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"this was not a well answered question, on the whole due to **a lack of knowledge of the human resource function**… **only a third of candidates gained more than one mark**. A reminder that **an 'explain' question does not need to be in context**."*
 
 ---
@@ -218,6 +235,7 @@ Gross profit margin = (gross profit ÷ revenue) × 100. To raise it you must eit
 
 The question asks for **an impact of an increase in interest rates on Backyard Shoez**. The report explains the failure:
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This question **does need to be in the context of Backyard Shoez to gain the full marks**. Some candidates went on to **explain what interest rates are**, the question is asking candidates for an **impact** as **there are no knowledge marks available**."*
 
 **And the mark scheme supplies a worked answer** (in `By_Paper/4BS1_May-June_2019_P1.md`):
@@ -238,18 +256,21 @@ The question asks for **an impact of an increase in interest rates on Backyard S
 
 ### ⭐ Q3(c) — half the cohort scored zero on break-even
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"a calculation question where **half of the candidates did not gain a mark**. Often candidates **used the wrong calculation indicating a lack of knowledge to calculate the break-even point**. Just under half of the candidates understood how to calculate the break-even point and accessed full marks."*
 
 **This is Summer 2019.** Eighteen months later, the Nov 2020 P1R report would say outright: *"**As the break-even formula is not given in the paper it is one that candidates need to know.**"* **Two separate reports, same gap, a year and a half apart.**
 
 ### Q3(d) — Level 3 named for this exact question
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"one third of candidates did not gain any marks due to a lack of knowledge of break-even analysis or they have shown knowledge of break-even but with no application to Backyard Shoez or any analytical points. Those candidates who accessed level 3 **carefully considered the benefits to Backyard Shoez of using break-even analysis in the planning of launching its new shoes**. Candidates were disadvantaged when they did not apply their answer to Backyard Shoez as **they cannot access the top of level 2 without any application**."*
 
 ⭐ **From the mark scheme:** *"Backyard Shoez will be able to see that it needs to sell **125 pairs** before it can break-even."* — **applications should use the business's own numbers when the paper gives them.**
 
 ### Q3(e) — Justify, second instance on the paper
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"candidates were asked to choose between **crowdfunding and an overdraft** for Backyard Shoez to gain additional finance. **One fifth of the candidates who gained no marks** on this response simply showed knowledge of one or both options with no application, analysis or evaluation."*
 
 **Level 3:** *"considering their chosen option in the context of Backyard Shoez and **how this would impact the business when deciding which method of finance to choose**."*
@@ -266,6 +287,7 @@ The question asks for **an impact of an increase in interest rates on Backyard S
 
 ### ⭐ Q4(a) — a NEW error type: working it out backwards
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Centres should encourage candidates to **include their working out as often candidates gained a mark for their calculation despite their final answer being incorrect**. Candidates should also be encouraged to **double check their working out** as **some candidates calculated their working the wrong way around on this question thus not gaining any marks**."*
 
 **Backyard Shoez bought children's shoes for 2,400 Ks and sold them for 3,200 Ks.**
@@ -279,6 +301,7 @@ The question asks for **an impact of an increase in interest rates on Backyard S
 
 ### ⭐⭐ Q4(b) — the "link it to other information" technique
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**a poorly answered question due to the lack of knowledge of profitability ratios**, this has led to **one third of candidates not gaining any marks**. Those candidates who analysed the usefulness of profitability ratios often **did not apply it to Backyard Shoez therefore could not access the top of level 2**. Those candidates who accessed level 3 did so by **detailed analysis of the usefulness of profitability ratios in relation to Backyard Shoez with some candidates linking it to other information given about the business throughout the paper**."*
 
 > ### 🎯 THE CROSS-PAPER LINKAGE TECHNIQUE
@@ -294,8 +317,10 @@ The question asks for **an impact of an increase in interest rates on Backyard S
 >
 > *"**Answers were varied and one third of candidates accessed level 2** on this question."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates at **level 1** made some attempt at the question and [were] able to make **basic statements about primary market research often without any reference to Backyard Shoez** or any development of their answer."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Those candidates who accessed **level 3** considered the importance of primary market research **in the context of Backyard Shoez** and **how the business can use primary market research**. Candidates have **successfully linked their points together in a logical order** and been able to **conclude their answer with a well balance and justified argument**."*
 >
 > *"Those who performed less well than expected on this question did so for **one of two reasons**.*

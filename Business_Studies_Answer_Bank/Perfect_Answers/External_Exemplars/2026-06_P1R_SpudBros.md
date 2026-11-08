@@ -322,6 +322,7 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 
 > ⚠️ **Two expanded forms in the script are the candidate's own insertions**, written above the line with carets. They are marked here with `^…`: *"one disadvantage of the ^Preston ^UK potatoes shop sponsoring"* reads *"one disadvantage of the Preston UK potatoes shop sponsoring"*; *"if they will have to ^from ^baked ^potatoes ^take ^out ^a ^bank ^loan"* reads *"if they will have to take out a bank loan from baked potatoes"*. The carets are transcribed exactly as written so the insertions are visible rather than silently resolved.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One disadvantage of the ^Preston ^UK potatoes shop sponsoring for the football clubs is it will increase cost. This is because Jacob and Harley Nelson will have to pay a lot of money to have their name shown or logos shown in the jersey or stadium itself. Therefore, if the profits isn't [generated] quickly enough ^from ^baked ^potatoes ^take ^out ^a ^bank ^loan[,] Therefore the business based in Preston will be in debt.*
 >
 > *Another disadvantage of the business founded in 1955 using sponsorship is the brand image can be ruined if something bad happen. This is because the Preston North End football club's ^players weaning jersey with the potatoes — selling potatoes on it. Therefore, if ^the ^football ^team did inappropriate things customers might not want to buy from these flavoured baked potatoes stand because they are supporting it. As a result, sales will decrease for Jacob and Harley."*
@@ -333,6 +334,7 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 
 ## 6/6 — Q3(d) · *"Analyse the advantages for Spud Bros of using viral advertising"* **(6)**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"By using viral advertising, it is relatively cheap and effective. This is because social media pages where Spud Bros operate on (TikTok and Instagram) is free to use. Therefore, people who follow Spud Bros may share their [posts of the hot baked potatoes] onto their accounts for a lot of more people to see. As a result, these people may be interested and go try out the potatoes, thus increasing market share and revenue.*
 >
 > *Moreover, viral advertising may efficiently increase Spud Bros' brand awareness. People outside of the UK where Spud Bros is based in may be interested in trying out the different toppings with the hot baked potatoes. As a result, these potential customers may raise cash for Spud Bros, enabling them to expand internationally into the US and Canada, thus increasing overall market share and possibly revenues."*
@@ -370,6 +372,7 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 
 ## 3/3 — Q1(f) · *"Explain one advantage for a business of having a flat organisational structure"* **(3)**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One advantage is it can make the communication more efficient. Because the flat organisational structure have less layers ^that the managers should talk with. This means the information that the manager want to talk will not be changed meaning. So the time cost will be less, and the mistakes in the work will decrease."*
 
 **Examiner comment (verbatim):** *"This is a good response… They are able to identify the advantage as 'can make communication more efficient' and then are able to explain this advantage by using a good knowledge of the topic area followed with a logical development of its impact. Total: 3 marks"* — comment PDF 10 [footer 9]
@@ -382,11 +385,13 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 
 ## 3/3 — Q2(c) · *"Explain one reason why a business calculates the break-even level of output"* **(3)**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A business would calculate the break-even level of output to find how many of that certain product they need to sell to be able to not have a loss and profit. From this, a business can also identify how much they are spending as the cost of making or producing the product. This helps them to be able to reduce costs ~~of a~~ of the production process, allowing the busines to not have to sell an incredibly high amount of that product."*
 
 **Examiner comment (verbatim):** *"This candidate demonstrates good knowledge in stating directly that a calculation of the break-even level of output allows the business to identify **'how many sales they need to make' in order to 'not run at a loss.'** The answer is developed successfully and logically beyond the point and **two development strands**, and therefore meets the demands of the question. Total: 3 marks"* — comment PDF 16 [footer 15]
 
 **Its 0/3 partner, same page:**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A business may calculate their ~~break-even~~ level of output to know if ~~and are making~~ they have sufficient funds in the business. By doing this, businesses will have a clear idea of what decisions to make in the future."*
 > **Comment:** *"This response **did not demonstrate any understanding of calculating the break-even level of output**. Total: 0 marks"*
 
@@ -394,6 +399,7 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 
 ## 3/3 — Q2(d) · *"Explain one reason why a business would segment the market by income"* **(3)**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A business may segment a market by income to target higher-income customers. This enables business to sell premium products to richer customers, allowing them to charge higher prices. As a result, business can increase profit margins."*
 
 **Examiner comment (verbatim):** *"This candidate identifies a valid reason correctly… The candidate uses a technique that demonstrates the process of segmenting the market. They follow this with the business' ability then to **'charge higher prices'** by targeting **'higher income customers'** and then **'selling premium products to richer customers.'** Total: 3 marks"* — comment PDF 18 [footer 17]
@@ -406,11 +412,13 @@ The June 2026 P1R report's **verdicts** were in this file from the first harvest
 
 ## 3/3 — Q2(e) · *"Explain one benefit to a business from productivity improvements"* **(3)**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"~~Productivity means the~~ Improved productivity means more goods ^of services produced in a specific time period. ~~than~~ ^So, the effecient of the business would increase. Therefore, the business could produce more goods and services than before in a specific period, leading to ~~higher sales of~~ decreased cost of production. If sales revenue stays the same, the business may be able to earn more profit."*
 
 **Examiner comment (verbatim):** *"This response shows good knowledge of productivity improvements and links this directly to **'efficiency'**. The candidate then goes on to develop this successfully by stating they **'could produce more goods and services than before in a specific time period'** and then leads to a **'decreased cost of production.'** Total: 3 marks"* — comment PDF 20 [footer 19]
 
 **Its 0/3 partner, same facing page:**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"The customer might come back to buy a product from this business again. This can lead to a sales of product to be higher and they can get more profit."*
 > **Comment:** *"This candidate **does not illustrate any knowledge of productivity improvements**. Total: 0 marks"*
 

@@ -29,6 +29,7 @@ Transcriptions are faithful to the candidate's handwriting, including their spel
 > *"This response is **in context** by commenting on Cadbury not wanting its employees to switch to **competitors like Lindt**."*
 
 ### ❌ Awarded **0 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"This is to improve brand image and reputation in the market, as it has lots of competition, it needs good image and reputation to attract workers to work for them and to attract customers to buy from them."*
 
 **Examiner comment (verbatim):**
@@ -183,6 +184,7 @@ Transcriptions are faithful to the candidate's handwriting, including their spel
 > "A business could reduce it's cost of sales to increase its gross profit margin. It could reduce it's cost by focusing on lean production which is reducing waste to save money by using less raw materials"
 
 **Examiner's comments (verbatim):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response shows an understanding of how a business could increase gross profit margin by reducing the cost of sales. It continues to explain how this way can help a business to increase its gross profit margin by focusing on lean production leading to the use of fewer raw materials, thus gaining the full available marks."*
 
 ### Why this is a perfect 3/3
@@ -209,6 +211,7 @@ Trace the chain — it maps exactly onto the mark scheme's `(1) … (1) … (1)`
 > "Above the line promotion is using the media. A television advert may be used in order to advertise products and influence people to buy them. As a result the business can experience a rise in sales and revenue."
 
 **Examiner's comments (verbatim):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response clearly states television as the method of above the line promotion. The first sentence is not needed in this response. The candidate has simply repeated the question, therefore wasting time and space. The candidate has then explained this method and how it can influence people to buy products and further developed this by explaining that this would results in the business experiencing a rise in sales and revenue, thus gaining the full marks available."*
 
 ### The lesson is in the criticism, not the praise
@@ -278,12 +281,14 @@ This answer **scored 3/3 and still wasted its opening sentence.** The examiner s
 > *"All 'explain' questions are worth 3 marks. **It is important the candidate gives _one_ point and then provides 2 points of development.**"*
 
 ### ✅ Awarded 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Training employees might be cost expenses. This is because, a business might have to employ specialised trainers, or would have to rent a training premises This would likely raise cost for the business. Hence, profit reduces if revenue remains constant."*
 
 **Examiner comment (verbatim):**
 > *"This was awarded the full 3 marks. A disadvantage is identified, ie it may be expensive, which is **developed to show _both a cause and a consequence_**. The **cause** relates to specialised trainers and training premises that are required. The **consequence** is that this may reduce profits if revenues remain constant."*
 
 ### ⚠️ Awarded 1 mark
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One disadvantage for the business may be that, when a business provides trainings for the new employees. After some time employees may leave and gain rival business, and this is why business gets frustrated, that is why this is a disadvantage for businesses training its employees."*
 
 **Examiner comment (verbatim):**
@@ -381,6 +386,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 **June 2022 P2R, Question 1(g)** — *Analyse **two** factors that could influence Cadbury when locating a new factory.* (6)
 
 ### ✅ Awarded **6 marks (full marks)**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Proximity to employees This is because the factory being close to employees would reduce Cadbury's costs that would be used for transport. This leads to them being able to save time that would be used in the journey, therefore, Cadbury would increase their efficiency."*
 
 **Examiner comment (verbatim):**
@@ -402,6 +408,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### ⚠️ Awarded **5 marks** — the better-informed answer that still lost a mark
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A factor in opening a new factory is to locate it near its natural resources of the product the firm is producing, this causes less time to Produce the product with the firm Cadbury being really successful money limitations isn't an issue to opening new factories, Since Cadbury is a chocolate producing firm they should locate their factories in countries where cocoa seeds are highly common these."*
 
 **Examiner comment (verbatim):**
@@ -413,6 +420,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > **The examiner's own fix: "linked the two factors together."**
 >
 > **On a two-part Analyse, do not write two disconnected mini-answers. Finish with one sentence that JOINS them.**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"…however, siting the factory near the cocoa supply may make it hard to recruit skilled workers, so Cadbury would need to weigh cheap transport against a shortage of labour."*
 
 **Also from the same question — the Analyse tariff in the examiner's words:**
@@ -428,8 +436,10 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 > ⚠️ **Corrected 9 Nov 2026.** This was headed **Q2(c)** here and in the register. The June 2025 Paper 2 paper prints batch production at **1(g)**; **2(c)** is the 3-mark JIT question. The script and the examiner comment are right, the question number was not.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Starbucks using batch production is flexible and helps meet the demand accordingly. This is because an appropriate number of **cakes can be baked and sandwiches can be made at once**. This prevents over-producing quantities of food thus aiding to be flexible and prevent stock piles."*
 >
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Further, batch production is convenient as it helps implement changes to ~~the~~ the food produced fast and easily. ~~This is b~~ For example, if Starbucks wants to change the flavour of the cake from strawberry to chocolate, they can easily implement this change by affecting only a selected number of batches. It saves time and resources spent on the cakes & so on."*
 
 > ⚠️ **Second paragraph added 12 Nov 2026, read from Pearson's scan of the script (report p. 11).** This file previously quoted only the first paragraph with no ellipsis and called the answer *"3 sentences, 46 words"*. The script is **two paragraphs, about 100 words** — and the scan itself is **cut off mid-sentence at the bottom of the page** (*"It saves time and resources spent on the cakes & so on."* is the last legible line), so more may have been written than Pearson reproduced. The first paragraph alone is what the text layer of the PDF carries; the second exists only as the scanned image, which is why it was missed.
@@ -440,6 +450,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### B. Paper 1R (CCT) Q1(g) — *Analyse the **concerns** CCT may have of introducing this app.* (6)
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"CCT may have concerns like what if the app encounters a technology error and have a break-down… **If the customers are not satisfied with the service of the app, they are likely to go book at CCT's rival bicycle tour service business, losing loyal customers.***
 >
 > *Moreover, CCT may be worried whether the app is feasible for its customers to download and use. If the app isn't user-friendly… They may write **bad reviews** of CCT's newly introduced app on the internet, leading to having the **bad reputation** of having bad services. This would make **CCT suffer from bad reputation and will need time to recover, decreasing the sales** of bicycle tour tickets."*
@@ -531,11 +542,13 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### And Justify is marked exactly like Analyse — plus AO4
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"The '**Justify**' questions are marked in the same way as the '**Analyse**' questions which is **Levels**, but candidates now have to include '**Evaluative**' (**Assessment Objective 4**) comments."*
 > *"Candidates should be careful to avoid giving **detailed knowledge of the two options** available as **there are no knowledge marks for this question**."*
 
 ### ✅ Awarded **Level 3 — 7 marks** (one option only: job share)
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"…to be shared, which may not be enough for their daily needs."* … *"As skilled employees in the long term would motivate them and would ensure that stay at Cadbury due to the reduced burden and move tembility, ensuring the also produce better chocolates and sweets, leading to higher revenues."*
 
 **Examiner comment (verbatim):**
@@ -543,6 +556,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### ⚠️ Awarded **Level 2 — 6 marks**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Working part-time will benefit employees and The business as employee has lesser working hours and business spends lesser on employee (due to working hours) so but Cadbury, in turn, can spend more on part-time workers Clarge work-force, small pay) But Cadbury can have an improved cash flow which allows them to return employees at a cheaper prize."*
 
 **Examiner comment (verbatim):**
@@ -572,6 +586,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### The full response
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Option 1 would allow Cafe Pinch to cater to the needs of a wider range of customers in the Café industry, meaning that Pinch would attract more customers to its café in Berlin allowing it to sell more meals and increase its revenue and market share in Café market in Berlin, however, it would be costly for Cafe Pinch to introduce this vegetarian as it would need to spend money on recruiting and training new chefs as well as adding more seats for the new customers, this increase in costs might offset the benefits.*
 >
 > *On the other hand, Option 2 would allow Pinch to attract more customers, since customers would be encouraged to visit its Café shop and try its high quality meals at a lower cost, leading to an increase in its revenue as Cafe Pinch would sell more meals due to customers choosing its cheaper meals compared to other Café shops in Berlin however, this discount might mean that Cafe Pinch isn't making the most markup on meals it sells, meaning that Cafe Pinch would make less revenue than other cafés in surrounding areas, leading to Cafe Pinch losing revenue and market share in the Café market in Berlin.*
@@ -579,6 +594,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > *I believe that option 1 (introducing a vegan range) is the most suitable option for Café Pinch. This is because as Café Pinch would cater to the needs of a wider customer base in Berlin, it would be able to expand and increase its revenue by selling more meals and selling the vegan products, leading to an increase in its market share in the café markets."*
 
 **Examiner comment (verbatim):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response shows **what is expected from candidates in order to gain the full marks** for this type of 'justify' question. This candidate has chosen to look at both options which is acceptable. They have shown **detailed understanding** of both options, they have included **context throughout their response** with **logical chains of reasoning** and have made a **good judgement** about their choice with a **thorough evaluation**."*
 
 ### 🔬 Anatomy — this is the template
@@ -609,6 +625,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### A second 9/9 on the same paper — Q3(e), choice of communication methods
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Kumaran should use weekly staff meetings because it gives employees the chance to give feedback… Meetings this is significant as CP is a small trader so Kumaran needs feedback from employee since there are no other people in charge of the business… Feedback listening to staff allows CP to improve their communication which increases employee motivation as they feel like they have a say in how the company is run, this decreases chance of employee quitting which decreases recruitment selection costs and increases profit. **However**, staff meetings may decrease productivity if employees feel wasteful time with a meeting instead of cooking more dishes. This could decrease profit decreasing potential revenue & profit."*
 
 **Note:** full of typos and grammatical slips (*"there are no other people in charge"*, *"feel wasteful time"*) — **9 marks regardless. Language is not marked.**
@@ -689,6 +706,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 **Spud Bros Q2(f)** — venture capital vs crowdfunding. A clean Level 3 answer: definition, two advantages, one disadvantage, all contextualised (*"renovating the van"*, *"gofundme"*, *"baked potato recipes"*, *"loss of potential new markets"*).
 
 **Examiner comment — verbatim:**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This candidate **chooses to look at one option, which is acceptable**… There is a **judgement made that repeats the financial implication that was argued previously in the answer**. Total: **8 marks**"*
 
 **And the tip printed with it:**
@@ -718,6 +736,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 **Spud Bros Q4(c)** — *"Evaluate the extent to which social objectives may contribute to the success of Spud Bros."* **(12)** Full transcript in `External_Exemplars/2026-06_P1R_SpudBros.md`.
 
 **Examiner comment — verbatim:**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response shows that the candidate understands how social objectives have contributed to the success of Spud Bros. **They offer balance in their argument with appropriate levels of context throughout the response.** Total: **11 marks**"*
 
 ### 🔬 The four moves, in order
@@ -737,6 +756,7 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 > **6/12 shares the chains with 11/12. What it lacks is the second half of the argument.**
 
 ### ⭐ THE LEVEL 3 TEST, verbatim from the report
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Those candidates who accessed Level 3 considered the importance of social objectives, **provided balance in the context of** Spud Bros and the impact they have on the business. Then they **linked their points together in a logical order** and were able to **conclude their answer with a well-balanced and justified argument**."*
 
 **Three requirements: balance · logical linking · a justified conclusion. Nothing about length. Nothing about the number of points.**
@@ -748,6 +768,7 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 **Irsi Chocolatier Q4(c)** — *"Evaluate the impact of Irsi Chocolatier using financial methods of motivation on its employees."* **(12)** Full transcript in `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`.
 
 **Examiner comment — verbatim:**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"This is a **strong response and indicative of a level 3 response**… been able to **bring in their own business knowledge** to support their response. There is **good context throughout** the response as well as a **balanced argument with a clear evaluation**."*
 
 ### 🔬 ≈330 words · two and a half paragraphs · no bullets · **and no "In conclusion"**
@@ -777,9 +798,11 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 May/June 2023 printed **FIVE** full-mark Justify answers — **P1 Q2(f)** (batch vs job production) · **P1 Q3(e)** (on-the-job vs off-the-job training) · **P1R Q2(f)** (sponsoring a flower show vs leaflets in Paris) · **P1R Q3(e)** (questionnaires vs internet research) · **P2R Q3(e)** (job rotation vs bonus, M&M). **⚠️ This section describes FOUR of the fourteen verified 9/9 Justify scripts in the bank.** The running total previously printed here was wrong — see **`09_Verified_Tally.md`**, which derives the count from the bank's own headings rather than asserting it.
 
 **The shared verdict — near-identical in three of the four:**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response shows **what is expected from candidates** in order to gain the full marks for this type of 'justify' question. This candidate has **shown detailed understanding of the choice they have made**, they have **included context throughout** their response with **logical chains of reasoning** and has made a **good judgement about their choice with a thorough evaluation**."*
 
 **And the instruction printed beneath it:**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Candidates do not need to consider both options. Candidates need to make a clear choice out of the two options and be able to balance out their response as to why the business should or should not choose that option. Candidates are then expected to provide a clear overall judgement to evaluate their decision.**"*
 
 ### 🔬 SIX REQUIRED FEATURES
@@ -796,6 +819,7 @@ May/June 2023 printed **FIVE** full-mark Justify answers — **P1 Q2(f)** (batch
 
 ### ⭐⭐ LEVEL 2 IS THE DEFAULT — and the examiners name the two causes
 *"**Nearly two thirds of the cohort gained a Level 2 mark**"* · *"**Around half** of candidates accessed level 2"* · *"the **large majority**… Level 2"*.
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates accessed level 2 by **expanding on their answers but often missed balance and a conclusion** of their thoughts."* · *"the response is **not developed and there is limited evaluative comments**."*
 
 **Remedy, repeated in two reports: *"evaluative comments as to the chosen option and why it would be more suitable."***
@@ -831,6 +855,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 ⭐ **The concession is the strongest move of the three.** That candidate argues against their own choice and still scores 9. **It is the exact opposite of the restate-your-argument fault that caps answers at 8.**
 
 ### 🏆 THE 9/9 CONCLUSION — THREE SENTENCES, THREE JOBS
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Personally, I would choose to use Bonuses** as money can be a key motivator to people, it also helps increase your sales. **A disadvantage of job rotation is that people may not be qualified for every job** in a company. **In the long term, job rotation may be better as it gives employees a sense of value.**"*
 >
 > **1** decides · **2** names the alternative's drawback · **3** concedes the long-run counter-case.
@@ -846,6 +871,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 
 ### The full response
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Rabanne should hold weekly meetings to improve communication amongst employees around the world either online or in person. This is because holding weekly meetings **creates & improves personal relations** between manufacturers & costume designers. Holding weekly meetings gives an opportunity for managers & manufacturers to directly communicate their opinions & problems they face. This means that **manufacturers & designers & employees feel heard & understood**. This leads to a **sense of belonging amongst designers in Rabanne**, ultimately **increasing motivation to deliver high quality perfumes & handbags** whilst **minimising miscommunication**.*
 >
 > *Rabanne should **not** communicate all information via email & messaging as **not every manufacturer will have the time to check their emails**. This means that **valuable pieces of information gets lost** amongst managers & manufacturers.*
@@ -867,6 +893,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 | **3. Concede the counter-case — the NAMED CONDITION** | *"**However, the success of this depends on how much employees get to voice their own concerns in business.**"* |
 
 > ### ⭐⭐ THE PASTE TEST
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"How much employees get to voice their own concerns"* is **specific to weekly meetings**. It cannot be pasted onto a question about pricing, location or finance.
 > **That is precisely why it lifts the answer to 9.** Compare the 8/9 that said only *"it depends on how much they have spent"* — vague, and it stayed at 8.
 >
@@ -883,11 +910,13 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 
 ### The full response
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Gianni Polvani having a wide span of control means that **he can tell his 14 employees what he wants done and how**. This means that there is **less likely to be miscommunication or misunderstanding** between him and his employees with what he wants done regarding his **two gyms and the physical and social activities** that take part in them with the **gym members**.*
 >
 > *By having less misunderstandings due to the wide span of control, **both of the gyms are more likely to become more successful** and so the employees who are **highly trained instructors** can **better teach the gym members** what to do and help them if they don't understand something. Therefore this can lead to **the business performing more effectively** and so **the business is more likely to maintain a positive cashflow**."*
 
 **Examiner comment (verbatim):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**6 marks awarded. The candidate has provided 1 point with developed strands**, analysing the effectiveness of the wide span of control. There is **application throughout their response**. Candidates are reminded that **there are no marks for knowledge in this question** and their response must be in the context of *Four Fitness* to access the AO2 marks."*
 
 ### 🚨 THIS OVERTURNS A WIDESPREAD ASSUMPTION
@@ -920,6 +949,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 
 **June 2025 Paper 2, Question 3(e)** — *Justify: open coffee shops in **supermarkets** or in **hospitals**.* (9) — *Starbucks.*
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"I believe Starbucks should choose option 1: open coffee shops in supermarkets. Opening coffee shops in supermarkets will has many advantages. It will **encourage customers to go to Starbucks** but also people go shopping weekly so this will **attract more people** to go in there which will **make them more profit**. Putting coffee shops in supermarkets means people can buy a drink and go shopping whilst having it… Some people **may not have a Starbucks close to them but they have supermarkets**… **Overall I believe** putting coffee shops in the supermarkets will encourage more people to come in and buy something so this will mean **more profit for the company**."*
 
 **Examiner comment (verbatim):**
@@ -952,6 +982,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 > *"This example shows that the candidate has clearly understood how marketing impacts upon PPS. They have been able to counter balance their argument well with plenty of context throughout the response. There is well thought out consideration that marketing is important to PPS. Finally, there is a conclusion that adds value to the response and effectively uses the 'it depends rule'."*
 
 And from the report's introduction to this question:
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Those candidates who accessed level 3 considered the importance of marketing in the context of PPS and the impact this can have on the business, they have then successfully linked their points together in a logical order and been able to conclude their answer with a well-balanced and justified argument."*
 
 ### The architecture
@@ -967,6 +998,7 @@ And from the report's introduction to this question:
 
 Look at how the conclusion is built:
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Overall, marketing is **crucial** for PPS… **This depends on** how much the television time costs and the quality of market research. This **may negatively affect PPS in the short term but in the long term** PPS will benefit as remaining market leader."*
 
 This is the formula:

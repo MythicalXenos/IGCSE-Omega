@@ -60,7 +60,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | Case study | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:938` |
+| 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:968` |
 | 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
 
 > ### ⚠️ PERMANENT LIMITATION — BOTH ARE PAPER 1
@@ -72,21 +72,21 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | The choice being made | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2019** | P1 Q3(e) | crowdfunding vs overdraft — *Backyard Shoez* | `02_Verified_Exemplars.md:471` |
-| 2 | **Jun 2022** | P1 Q2(f) | retained profit vs bank loan — *TBTS* | `2022-06_P1_TBTS.md:168` |
-| 3 | **Jun 2022** | P1 Q3(e) | questionnaires vs focus groups — *TBTS* | `2022-06_P1_TBTS.md:188` |
+| 1 | **Jun 2019** | P1 Q3(e) | crowdfunding vs overdraft — *Backyard Shoez* | `02_Verified_Exemplars.md:482` |
+| 2 | **Jun 2022** | P1 Q2(f) | retained profit vs bank loan — *TBTS* | `2022-06_P1_TBTS.md:172` |
+| 3 | **Jun 2022** | P1 Q3(e) | questionnaires vs focus groups — *TBTS* | `2022-06_P1_TBTS.md:193` |
 | 4 | **Jun 2022** | P1R Q2(f) | advertising vs open for breakfast — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:57` |
-| 5 | **Jun 2022** | P1R Q3(e) | permanent vs temporary contract — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:82` |
+| 5 | **Jun 2022** | P1R Q3(e) | permanent vs temporary contract — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:83` |
 | 6 | **May/Jun 2023** | P1 Q2(f) | job vs batch production — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:382` |
 | 7 | **May/Jun 2023** | P1 Q3(e) | on-the-job vs off-the-job training — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:399` |
 | 8 | **May/Jun 2023** | P1R Q2(f) | sponsor a flower show vs leaflets — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:409` |
 | 9 | **May/Jun 2023** | P1R Q3(e) | questionnaires vs internet — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:417` |
 | 10 | **May/Jun 2023** | **P2R Q3(e)** | job rotation vs bonus — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:425` |
-| 11 | **Jun 2024** | P1 Q2(f) | — *PPS* | `2024-06_P1_PPS.md:60` |
-| 12 | **Jun 2024** | P1 Q3(e) | — *PPS* | `2024-06_P1_PPS.md:79` |
+| 11 | **Jun 2024** | P1 Q2(f) | — *PPS* | `2024-06_P1_PPS.md:64` |
+| 12 | **Jun 2024** | P1 Q3(e) | — *PPS* | `2024-06_P1_PPS.md:84` |
 | 13 | **Jun 2024** | P1R Q2(f) | vegan range vs discount — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:9` |
-| 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:24` |
-| 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:840` |
+| 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:25` |
+| 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:865` |
 
 > ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R**. AND **NO VERIFIED 9/9 EXISTS FOR PAPER 2, IN ANY SERIES**
 > Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. The full split is **P1 ×7 · P1R ×6 · P2R ×2 · P2 ×0** — and **Paper 2's ceiling in the bank is a 7/9**, held at `2023-05_Series_Irsi_AudeRose_IKEA_MM.md:168` and dissected at `:300`.
@@ -102,29 +102,29 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2019** | P1 Q1(g) | satisfying customer needs | `02_Verified_Exemplars.md:314` |
-| 2 | **Jun 2019** | P1 Q4(b) | usefulness of profitability ratios | `02_Verified_Exemplars.md:350` |
-| 3 | **Jun 2019** | P1R Q1(g) | customer satisfaction | `2019-06_P1_Official_Exemplar_Booklet.md:513` |
+| 1 | **Jun 2019** | P1 Q1(g) | satisfying customer needs | `02_Verified_Exemplars.md:319` |
+| 2 | **Jun 2019** | P1 Q4(b) | usefulness of profitability ratios | `02_Verified_Exemplars.md:355` |
+| 3 | **Jun 2019** | P1R Q1(g) | customer satisfaction | `2019-06_P1_Official_Exemplar_Booklet.md:538` |
 | 4 | **Jun 2022** | P1 Q1(g) | external factors — *TBTS* | `2022-06_P1_TBTS.md:25` |
-| 5 | **Jun 2022** | P1 Q3(d) | motivating employees — *TBTS* | `2022-06_P1_TBTS.md:50` |
-| 6 | **Jun 2022** | P1R Q1(g) | impact of technology — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:114` |
-| 7 | **Jun 2022** | P1R Q3(d) | social media reviews — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:141` |
-| 8 | **Jun 2022** | P2R Q1(g) | two location factors, **43 words** — *Cadbury* | `2022-06_P2R_Cadbury.md:170` |
+| 5 | **Jun 2022** | P1 Q3(d) | motivating employees — *TBTS* | `2022-06_P1_TBTS.md:51` |
+| 6 | **Jun 2022** | P1R Q1(g) | impact of technology — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:116` |
+| 7 | **Jun 2022** | P1R Q3(d) | social media reviews — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:143` |
+| 8 | **Jun 2022** | P2R Q1(g) | two location factors, **43 words** — *Cadbury* | `2022-06_P2R_Cadbury.md:173` |
 | 9 | **May/Jun 2023** | P1 Q1(g) | branding — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:253` |
 | 10 | **May/Jun 2023** | P1 Q4(b) | place — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:262` |
 | 11 | **May/Jun 2023** | P1R Q4(b) | measuring success — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:272` |
-| 12 | **May/Jun 2023** | P1R Q3(d) | retained profits as finance — *Aude Rose* | `2023-06_P1R_Aude_Rose.md:52` |
+| 12 | **May/Jun 2023** | P1R Q3(d) | retained profits as finance — *Aude Rose* | `2023-06_P1R_Aude_Rose.md:54` |
 | 13 | **May/Jun 2023** | P2 Q3(d) | shortlisting — *IKEA* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:327` |
-| 14 | **Jun 2024** | P1 Q1(g) | — *PPS* | `2024-06_P1_PPS.md:32` |
-| 15 | **Jun 2024** | P1 Q3(d) | — *PPS* | `2024-06_P1_PPS.md:47` |
-| 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:65` |
-| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:879` |
-| 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:441` |
-| 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:426` |
+| 14 | **Jun 2024** | P1 Q1(g) | — *PPS* | `2024-06_P1_PPS.md:34` |
+| 15 | **Jun 2024** | P1 Q3(d) | — *PPS* | `2024-06_P1_PPS.md:50` |
+| 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:67` |
+| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:906` |
+| 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:451` |
+| 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:434` |
 | 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:528` |
 | 21 | **May/Jun 2023** | **P2R Q4(b)** | continuing to plant trees — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:541` |
 | 22 | **Jun 2026** | P1R Q1(g) | sponsorship disadvantages — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:319` |
-| 23 | **Jun 2026** | P1R Q3(d) | viral advertising — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:332` |
+| 23 | **Jun 2026** | P1R Q3(d) | viral advertising — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:333` |
 | 24 | **Jun 2023** | P1 Q3(d) | limitations of break-even charts — *Irsi Chocolatier* *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:89` |
 | 25 | **Jun 2023** | P1R Q1(g) | motivating employees — *Aude Rose* *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:138` |
 
@@ -141,38 +141,38 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2019** | P1 Q1(f) | increase gross profit margin — *Backyard Shoez* | `02_Verified_Exemplars.md:178` |
-| 2 | **Jun 2019** | P1 Q2(d) | above-the-line promotion (television) | `02_Verified_Exemplars.md:204` |
-| 3 | **Jun 2019** | P2 Q1(f) | impact of technology on production | `External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md:70` |
-| 4 | **Jun 2022** | P1 Q2(c) | benefit of a flat structure — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:78` |
-| 5 | **Jun 2022** | P1 Q2(d) | a method to increase profit — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:98` |
-| 6 | **Jun 2022** | P1R Q2(c) | a method to encourage repeat purchase — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:163` |
-| 7 | **Jun 2022** | P1R Q2(e) | a benefit of motivating employees — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:172` |
-| 8 | **Jun 2022** | P2R Q1(f) | a fall in banks' interest rates | `02_Verified_Exemplars.md:227` |
-| 9 | **Jun 2022** | P2R Q2(c) | non-financial methods of motivation | `02_Verified_Exemplars.md:244` |
-| 10 | **Jun 2022** | P2R Q2(d) | fully trained employees — mistakes and quality | `02_Verified_Exemplars.md:251` |
-| 11 | **Jun 2022** | P2R Q2(d) | fully trained employees — safety risks | `02_Verified_Exemplars.md:253` |
-| 12 | **Jun 2022** | P2R Q2(e) | Kaizen — employee loyalty | `02_Verified_Exemplars.md:259` |
-| 13 | **Jun 2022** | P2R Q2(e) | Kaizen — improve the product | `02_Verified_Exemplars.md:261` |
-| 14 | **Jun 2023** | P2 Q1(f) | using resources effectively — *IKEA* | `External_Exemplars/2023-06_P2_IKEA.md:110` |
-| 15 | **Jun 2023** | P2 Q2(c) | cash flow forecasting — *IKEA* (first) | `External_Exemplars/2023-06_P2_IKEA.md:134` |
-| 16 | **Jun 2023** | P2 Q2(c) | cash flow forecasting — *IKEA* (second) | `External_Exemplars/2023-06_P2_IKEA.md:137` |
-| 17 | **Jun 2023** | P2 Q2(d) | diseconomies of scale — *IKEA* | `External_Exemplars/2023-06_P2_IKEA.md:157` |
+| 1 | **Jun 2019** | P1 Q1(f) | increase gross profit margin — *Backyard Shoez* | `02_Verified_Exemplars.md:179` |
+| 2 | **Jun 2019** | P1 Q2(d) | above-the-line promotion (television) | `02_Verified_Exemplars.md:206` |
+| 3 | **Jun 2019** | P2 Q1(f) | impact of technology on production | `External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md:71` |
+| 4 | **Jun 2022** | P1 Q2(c) | benefit of a flat structure — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:80` |
+| 5 | **Jun 2022** | P1 Q2(d) | a method to increase profit — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:101` |
+| 6 | **Jun 2022** | P1R Q2(c) | a method to encourage repeat purchase — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:167` |
+| 7 | **Jun 2022** | P1R Q2(e) | a benefit of motivating employees — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:177` |
+| 8 | **Jun 2022** | P2R Q1(f) | a fall in banks' interest rates | `02_Verified_Exemplars.md:230` |
+| 9 | **Jun 2022** | P2R Q2(c) | non-financial methods of motivation | `02_Verified_Exemplars.md:247` |
+| 10 | **Jun 2022** | P2R Q2(d) | fully trained employees — mistakes and quality | `02_Verified_Exemplars.md:254` |
+| 11 | **Jun 2022** | P2R Q2(d) | fully trained employees — safety risks | `02_Verified_Exemplars.md:256` |
+| 12 | **Jun 2022** | P2R Q2(e) | Kaizen — employee loyalty | `02_Verified_Exemplars.md:262` |
+| 13 | **Jun 2022** | P2R Q2(e) | Kaizen — improve the product | `02_Verified_Exemplars.md:264` |
+| 14 | **Jun 2023** | P2 Q1(f) | using resources effectively — *IKEA* | `External_Exemplars/2023-06_P2_IKEA.md:112` |
+| 15 | **Jun 2023** | P2 Q2(c) | cash flow forecasting — *IKEA* (first) | `External_Exemplars/2023-06_P2_IKEA.md:138` |
+| 16 | **Jun 2023** | P2 Q2(c) | cash flow forecasting — *IKEA* (second) | `External_Exemplars/2023-06_P2_IKEA.md:142` |
+| 17 | **Jun 2023** | P2 Q2(d) | diseconomies of scale — *IKEA* | `External_Exemplars/2023-06_P2_IKEA.md:162` |
 | 18 | **Jun 2024** | P1 Q2(c) | ineffective communication — *PPS* | `External_Exemplars/2024-06_P1_PPS.md:9` |
-| 19 | **Jun 2024** | P1 Q2(d) | adapting to local tastes — *PPS* | `External_Exemplars/2024-06_P1_PPS.md:23` |
+| 19 | **Jun 2024** | P1 Q2(d) | adapting to local tastes — *PPS* | `External_Exemplars/2024-06_P1_PPS.md:24` |
 | 20 | **Jun 2024** | P2 Q2(d) | short layers in the hierarchy — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:9` |
-| 21 | **Jun 2024** | P2 Q2(e) | hours required, in a job advert — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:33` |
-| 22 | **Jun 2024** | P2 Q2(e) | salary information, in a job advert — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:39` |
-| 23 | **Jun 2025** | P1R Q1(f) | limited liability — *CCT* | `External_Exemplars/2025-06_Second_Pass_Addendum.md:128` |
-| 24 | **Jun 2025** | P1R Q2(d) | a reason for tariffs on imports * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:144` |
-| 25 | **Jun 2025** | P1R Q2(e) | why quality control is important * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:145` |
-| 26 | **Jun 2025** | P2 Q1(f) | a disadvantage of training employees | `02_Verified_Exemplars.md:280` |
-| 27 | **Jun 2025** | P2 Q2(d) | a problem of poor communication * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:147` |
-| 28 | **Jun 2025** | P2R Q2(e) | how the statement of comprehensive income helps * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:148` |
-| 29 | **Jun 2026** | P1R Q1(f) | flat organisational structure — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:369` |
-| 30 | **Jun 2026** | P1R Q2(c) | why break-even output is calculated — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:381` |
-| 31 | **Jun 2026** | P1R Q2(d) | segmenting the market by income — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:393` |
-| 32 | **Jun 2026** | P1R Q2(e) | benefit of productivity improvements — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:405` |
+| 21 | **Jun 2024** | P2 Q2(e) | hours required, in a job advert — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:36` |
+| 22 | **Jun 2024** | P2 Q2(e) | salary information, in a job advert — *TUI* | `External_Exemplars/2024-06_P2_TUI.md:43` |
+| 23 | **Jun 2025** | P1R Q1(f) | limited liability — *CCT* | `External_Exemplars/2025-06_Second_Pass_Addendum.md:132` |
+| 24 | **Jun 2025** | P1R Q2(d) | a reason for tariffs on imports * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:150` |
+| 25 | **Jun 2025** | P1R Q2(e) | why quality control is important * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:151` |
+| 26 | **Jun 2025** | P2 Q1(f) | a disadvantage of training employees | `02_Verified_Exemplars.md:283` |
+| 27 | **Jun 2025** | P2 Q2(d) | a problem of poor communication * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:153` |
+| 28 | **Jun 2025** | P2R Q2(e) | how the statement of comprehensive income helps * | `External_Exemplars/2025-06_Second_Pass_Addendum.md:154` |
+| 29 | **Jun 2026** | P1R Q1(f) | flat organisational structure — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:371` |
+| 30 | **Jun 2026** | P1R Q2(c) | why break-even output is calculated — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:384` |
+| 31 | **Jun 2026** | P1R Q2(d) | segmenting the market by income — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:398` |
+| 32 | **Jun 2026** | P1R Q2(e) | benefit of productivity improvements — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:411` |
 | 33 | **Jun 2023** | P1 Q1(f) | benefit of test marketing *(added 14 Oct 2026 — third sweep)* | `External_Exemplars/2023-05_Series_3mark_Sweep.md:13` |
 | 34 | **Jun 2023** | P1R Q1(f) | why a business might fail *(added 14 Oct 2026 — third sweep)* | `External_Exemplars/2023-05_Series_3mark_Sweep.md:37` |
 | 35 | **Jun 2023** | P1R Q2(c) | an impact of ineffective communication *(added 14 Oct 2026 — third sweep)* | `External_Exemplars/2023-05_Series_3mark_Sweep.md:65` |
@@ -185,9 +185,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 42 | **Jun 2023** | P2R Q1(f) | an advantage of becoming a multinational *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:262` |
 | 43 | **Jun 2023** | P2R Q2(c) | why branding is important *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:296` |
 | 44 | **Jun 2023** | P2R Q2(e) | why businesses maintain product quality *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:325` |
-| 45 | **Jun 2024** | P2R Q2(c) | one advantage to a country of being in a trading bloc — *Jimmy Choo* **(1/3 and 3/3)** *(banked 16 Oct 2026 — the report found by reading the bank's own harvest queue)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:148` |
-| 46 | **Jun 2024** | P2R Q2(d) | one way businesses support employees with disabilities — *Jimmy Choo* **(2/3 and 3/3)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:161` |
-| 47 | **Jun 2024** | P2R Q2(e) | one impact of an increase in interest rates — *Jimmy Choo* **(2/3 and 3/3)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:177` |
+| 45 | **Jun 2024** | P2R Q2(c) | one advantage to a country of being in a trading bloc — *Jimmy Choo* **(1/3 and 3/3)** *(banked 16 Oct 2026 — the report found by reading the bank's own harvest queue)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:154` |
+| 46 | **Jun 2024** | P2R Q2(d) | one way businesses support employees with disabilities — *Jimmy Choo* **(2/3 and 3/3)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:167` |
+| 47 | **Jun 2024** | P2R Q2(e) | one impact of an increase in interest rates — *Jimmy Choo* **(2/3 and 3/3)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:183` |
 
 **`*` = held as the report's own one-sentence quotation inside a summary table**, rather than transcribed in a dedicated exemplar section. The mark is stated by the report and the response is complete as printed — **for a 3-mark Explain, the whole answer is one sentence** — but the register marks the difference so a reader can audit the hold. **28 of the 32 are full exemplar sections; 4 are single-sentence holds.**
 
@@ -286,7 +286,7 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 5 | **Jun 2026** | P1R Q1(c) | define e-commerce — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:52` |
 | 6 | **Jun 2026** | P1R Q2(a) | one current asset — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:90` |
 | 7 | **Jun 2026** | P1R Q2(b) | a reason employees are motivated — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:124` |
-| 8 | **Jun 2026** | P1R Q3(a) | define niche marketing — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:157` |
+| 8 | **Jun 2026** | P1R Q3(a) | define niche marketing — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_One_Mark_Pairs.md:158` |
 | 9 | **Jun 2026** | P1R Q1(d) | one reason brand image is important — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:16` |
 | 10 | **Jun 2023** | P2R Q1(b) | define public corporation — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:17` |
 | 11 | **Jun 2023** | P2R Q1(d) | why M&M should motivate employees — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:49` |
@@ -294,27 +294,27 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 13 | **Jun 2023** | P1R Q1(b) | define economies of scale — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:13` |
 | 14 | **Jun 2023** | P1R Q1(c) | define stakeholder — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:39` |
 | 15 | **Jun 2023** | P1R Q1(d) | a benefit of JIT production — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:65` |
-| 16 | **Jun 2023** | P1R Q2(a) | a fringe benefit — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:142` |
-| 17 | **Jun 2023** | P1R Q2(b) | why branding is important — *Aude Rose* **(0/1 — the report prints only the zero-credit script)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:168` |
-| 18 | **Jun 2023** | P1R Q3(a) | define variable costs — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:211` |
-| 19 | **Jun 2023** | P1 Q1(b) | define limited liability — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:374` |
-| 20 | **Jun 2023** | P1 Q1(c) | define social enterprise — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:400` |
-| 21 | **Jun 2023** | P1 Q1(d) | using the Boston matrix — *Irsi* **(1/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:426` |
-| 22 | **Jun 2023** | P1 Q2(a) | improving competitive position — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:532` |
-| 23 | **Jun 2023** | P1 Q2(b) | extending the life cycle — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:560` |
-| 24 | **Jun 2023** | P1 Q3(a) | define fringe benefits — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:601` |
+| 16 | **Jun 2023** | P1R Q2(a) | a fringe benefit — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:143` |
+| 17 | **Jun 2023** | P1R Q2(b) | why branding is important — *Aude Rose* **(0/1 — the report prints only the zero-credit script)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:170` |
+| 18 | **Jun 2023** | P1R Q3(a) | define variable costs — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:213` |
+| 19 | **Jun 2023** | P1 Q1(b) | define limited liability — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:378` |
+| 20 | **Jun 2023** | P1 Q1(c) | define social enterprise — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:404` |
+| 21 | **Jun 2023** | P1 Q1(d) | using the Boston matrix — *Irsi* **(1/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:430` |
+| 22 | **Jun 2023** | P1 Q2(a) | improving competitive position — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:539` |
+| 23 | **Jun 2023** | P1 Q2(b) | extending the life cycle — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:567` |
+| 24 | **Jun 2023** | P1 Q3(a) | define fringe benefits — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:608` |
 | 25 | **Jun 2023** | P2 Q1(b) | define person specification — *IKEA* **(0/1 and 1/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:23` |
-| 26 | **Jun 2023** | P2 Q1(c) | define quality control — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:57` |
-| 27 | **Jun 2023** | P2 Q1(d) | why IKEA provides induction training — *IKEA* **(1/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:101` |
-| 28 | **Jun 2023** | P2 Q2(a) | why IKEA would employ temporary staff — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:210` |
-| 29 | **Jun 2023** | P2 Q2(b) | a financial objective — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:250` |
-| 30 | **Jun 2023** | P2 Q3(a) | define overdraft — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:279` |
-| 31 | **Jun 2024** | P2R Q1(b) | define e-newsletter — *Jimmy Choo* **(0/1 and 1/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:33` |
-| 32 | **Jun 2024** | P2R Q1(c) | define minimum wage — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:45` |
-| 33 | **Jun 2024** | P2R Q1(d) | State — loyal customers — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:58` |
-| 34 | **Jun 2024** | P2R Q2(a) | a non-financial objective — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:121` |
-| 35 | **Jun 2024** | P2R Q2(b) | why Jimmy Choo complies with health and safety laws — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:134` |
-| 36 | **Jun 2024** | P2R Q3(a) | define person specification — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:224` |
+| 26 | **Jun 2023** | P2 Q1(c) | define quality control — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:58` |
+| 27 | **Jun 2023** | P2 Q1(d) | why IKEA provides induction training — *IKEA* **(1/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:102` |
+| 28 | **Jun 2023** | P2 Q2(a) | why IKEA would employ temporary staff — *IKEA* **(0/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:213` |
+| 29 | **Jun 2023** | P2 Q2(b) | a financial objective — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:255` |
+| 30 | **Jun 2023** | P2 Q3(a) | define overdraft — *IKEA* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:284` |
+| 31 | **Jun 2024** | P2R Q1(b) | define e-newsletter — *Jimmy Choo* **(0/1 and 1/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:36` |
+| 32 | **Jun 2024** | P2R Q1(c) | define minimum wage — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:48` |
+| 33 | **Jun 2024** | P2R Q1(d) | State — loyal customers — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:61` |
+| 34 | **Jun 2024** | P2R Q2(a) | a non-financial objective — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:127` |
+| 35 | **Jun 2024** | P2R Q2(b) | why Jimmy Choo complies with health and safety laws — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:140` |
+| 36 | **Jun 2024** | P2R Q3(a) | define person specification — *Jimmy Choo* **(1/1 and 0/1)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:234` |
 
 
 ---
@@ -329,22 +329,22 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 2 | **Jun 2023** | P2 Q4(a) | calculate a percentage decrease, 2 d.p. — *IKEA* | `External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md:191` |
 | 3 | **Jun 2026** | P1R Q1(e) | calculate the retained profit left — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:54` |
 | 4 | **Jun 2026** | P1R Q3(b) | why cash is important — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:100` |
-| 5 | **Jun 2026** | P1R Q3(c) | percentage increase in minimum wage — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:141` |
-| 6 | **Jun 2026** | P1R Q4(a) | calculate total costs — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:201` |
-| 7 | **Jun 2023** | P2R Q1(e) | percentage increase in borrowing, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:129` |
-| 8 | **Jun 2023** | P2R Q3(c) | the current ratio, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:160` |
-| 9 | **Jun 2023** | P2R Q4(a) | price in GBP, 2 d.p. — *M&M* **(1/2 and 1/2 — no full-mark script printed)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:214` |
-| 10 | **Jun 2023** | P2R Q3(b) | why locate a factory near a labour force — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:267` |
+| 5 | **Jun 2026** | P1R Q3(c) | percentage increase in minimum wage — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:142` |
+| 6 | **Jun 2026** | P1R Q4(a) | calculate total costs — *Spud Bros* *(banked 14 Oct 2026)* | `External_Exemplars/2026-06_P1R_Two_Mark_Set.md:202` |
+| 7 | **Jun 2023** | P2R Q1(e) | percentage increase in borrowing, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:130` |
+| 8 | **Jun 2023** | P2R Q3(c) | the current ratio, 2 d.p. — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:161` |
+| 9 | **Jun 2023** | P2R Q4(a) | price in GBP, 2 d.p. — *M&M* **(1/2 and 1/2 — no full-mark script printed)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:215` |
+| 10 | **Jun 2023** | P2R Q3(b) | why locate a factory near a labour force — *M&M* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2R_One_and_Two_Mark_Set.md:269` |
 | 11 | **Jun 2023** | P1R Q1(e) | break-even output, bunches of flowers — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:97` |
-| 12 | **Jun 2023** | P1R Q3(b) | extending the product life cycle — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:246` |
-| 13 | **Jun 2023** | P1R Q3(c) | percentage decrease in retained profits, 2 d.p. — *Aude Rose* **(1/2 — answer given to 1 d.p.)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:281` |
-| 14 | **Jun 2023** | P1R Q4(a) | gross profit margin, 2 d.p. — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:322` |
-| 15 | **Jun 2023** | P1 Q1(e) | discount applied to a total, 2 d.p. — *Irsi* **(2/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:476` |
-| 16 | **Jun 2023** | P1 Q3(b) | keeping customer loyalty — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:629` |
-| 17 | **Jun 2023** | P1 Q3(c) | the current ratio, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:667` |
-| 18 | **Jun 2023** | P1 Q4(a) | operating profit margin, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:704` |
-| 19 | **Jun 2023** | P2 Q1(e) | gross profit margin, 2 d.p. — *IKEA* **(1/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:145` |
-| 20 | **Jun 2023** | P2 Q3(b) | why IKEA reads government reports — *IKEA* **(0/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:311` |
-| 21 | **Jun 2024** | P2R Q1(e) | predicted value of recycled plastic, 2 d.p. — *Jimmy Choo* **(0/2 ×3 — no full mark printed)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:71` |
-| 22 | **Jun 2024** | P2R Q3(b) | why branding is important — *Jimmy Choo* **(0/2 and 2/2)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:232` |
-| 23 | **Jun 2024** | P2R Q3(c) | percentage increase on a handbag, 2 d.p. — *Jimmy Choo* **(1/2; the second script's comment is banked, its body is not — see the note at the foot of the harvest file)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:248` |
+| 12 | **Jun 2023** | P1R Q3(b) | extending the product life cycle — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:248` |
+| 13 | **Jun 2023** | P1R Q3(c) | percentage decrease in retained profits, 2 d.p. — *Aude Rose* **(1/2 — answer given to 1 d.p.)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:284` |
+| 14 | **Jun 2023** | P1R Q4(a) | gross profit margin, 2 d.p. — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:325` |
+| 15 | **Jun 2023** | P1 Q1(e) | discount applied to a total, 2 d.p. — *Irsi* **(2/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:482` |
+| 16 | **Jun 2023** | P1 Q3(b) | keeping customer loyalty — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:636` |
+| 17 | **Jun 2023** | P1 Q3(c) | the current ratio, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:675` |
+| 18 | **Jun 2023** | P1 Q4(a) | operating profit margin, 2 d.p. — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:712` |
+| 19 | **Jun 2023** | P2 Q1(e) | gross profit margin, 2 d.p. — *IKEA* **(1/2 and 1/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:147` |
+| 20 | **Jun 2023** | P2 Q3(b) | why IKEA reads government reports — *IKEA* **(0/2)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P2_One_and_Two_Mark_Set.md:316` |
+| 21 | **Jun 2024** | P2R Q1(e) | predicted value of recycled plastic, 2 d.p. — *Jimmy Choo* **(0/2 ×3 — no full mark printed)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:74` |
+| 22 | **Jun 2024** | P2R Q3(b) | why branding is important — *Jimmy Choo* **(0/2 and 2/2)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:242` |
+| 23 | **Jun 2024** | P2R Q3(c) | percentage increase on a handbag, 2 d.p. — *Jimmy Choo* **(1/2; the second script's comment is banked, its body is not — see the note at the foot of the harvest file)** *(banked 16 Oct 2026)* | `External_Exemplars/2024-06_P2R_Jimmy_Choo.md:258` |

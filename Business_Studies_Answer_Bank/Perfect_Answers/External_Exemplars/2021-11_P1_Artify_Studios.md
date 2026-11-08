@@ -19,6 +19,7 @@ That makes it directly usable as a **revision priority list** — see the last s
 
 # General comments (verbatim, abridged where marked)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Both paper 1 and 2 allow learners to apply theory to realistic contexts. This paper is based on Artify Studios, Singapore, which proved accessible to candidates… However, **providing answers on the given scenario still seems to present some difficulty for some learners which restricted their entry to the higher levels**. Centres are encouraged to work closely with their learners to encourage them to revisit the scenario set and encourage them to practice answering questions in the context of the scenario set.*
 >
 > *Centres are advised to look at **the command words outlined on page 31 of the specification** as many learners are losing marks through their lack of understanding of these words, **in particular the 'State' questions**…*
@@ -62,6 +63,7 @@ Both are on the Pearson site and neither has been harvested yet. The Getting Sta
 
 ### ⭐ Q1(e) — the two-step calculation rule, again
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Some candidates gained a mark for calculating the discount but **they did not then go on to apply the discount** therefore not gaining the second mark."*
 
 Fifth confirmation of a rule already established in this bank (Jun 2022 P1R Q4(a): `12 × 38.40 = 460.80`, then `× 0.875 = €403.20`; the 1-mark answers stopped after the discount).
@@ -78,6 +80,7 @@ Combined with the two mark-scheme statements in the June 2019 Paper 2 booklet (*
 
 ### Q1(g) — Analyse: the AO1 trap on a level-marked question
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates must be reminded that **there are no AO1 marks for this question**, there are AO2 marks for this level-based question as often candidates would provide **an extended answer but did not apply this answer to the context of Artify Studios therefore not allowing themselves to move into the top of level 2**."*
 
 Note the exact phrasing — this is copied almost word for word onto Pearson's support page for the Analyse command word, which confirms the support page is drawing on these reports.
@@ -121,6 +124,7 @@ Note: the gap was not knowledge for the other two thirds — it was **listing in
 
 ### Q2(f) — Justify, and the sixth statement of the zero-mark route
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Those candidates who **gained no marks on this response simply showed knowledge of one or both options with no application, analysis or evaluation**. Candidates working at level 1 showed good knowledge of both options, making statements on one or both options with some relation to Artify Studios but this was not always expanded upon… Around half of candidates accessed level 2 by expanding on their answers but often **missing balance and concluding their thoughts**. More able candidates accessed level 3 by considering their chosen option in the context of Artify Studio and how this would impact its image, **linking their points together and concluding their answer with balance and justification**."*
 
 ### ⭐ Level 3's recipe, in the Principal Examiner's own words
@@ -159,12 +163,14 @@ This is a **Define** question, so it is also worth restating the three documente
 
 ### Q3(c) — the 2-decimal-place rule, restated
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is pleasing to see candidates are making more use of the formulas given at the start of the paper. Centres must remind candidates that **if the question states 'to 2 decimal places' then this is the expectation to gain full marks** for the question."*
 
 **Sixth confirmation.** And note Pearson's support page adds the mechanised version of this rule: the answer **on the answer line** is what is marked, and *"if the final answer is not to 2 decimal places the candidates will not gain access to the full marks even if the answer to 2 decimal places is in the working out."*
 
 ### Q3(d) — two ways to score zero on a 6-marker
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"around one quarter of candidates did not gain any marks due to **a lack of knowledge of how the information provided can assess performance** or because **they repeated the figures from Figure 1 with no explanation**."*
 
 The second failure mode is the interesting one, and it is the mirror image of the June 2019 finding:
@@ -178,6 +184,7 @@ The second failure mode is the interesting one, and it is the mirror image of th
 
 ### Q3(e) — Justify, and the seventh statement of the zero-mark route
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**One fifth of the candidates who gained no marks on this response simply showed knowledge of one or both options with no application, analysis or evaluation.**"*
 
 ---
@@ -192,6 +199,7 @@ The second failure mode is the interesting one, and it is the mirror image of th
 
 ### Q4(a) — working out pays, and finish the whole calculation
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is clear to see centres have encouraged candidates to include their working out as often **candidates have gained a mark for their calculation despite their final answer being incorrect**. Candidates should be encouraged to [read] the requirements of the question as **some candidates worked out parts of the question and missed the top marks because they did not complete all of the calculations required**."*
 
 **Two distinct calculation rules in one paragraph:**
@@ -201,6 +209,7 @@ The second failure mode is the interesting one, and it is the mirror image of th
 
 ### Q4(b) — the misread question
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"around one fifth of candidates did not gain any marks on this question or they did not gain any marks as they **misread the question and analysed the benefits for employees rather than the business**."*
 
 **This is the advantage-vs-disadvantage misread in a different costume** — now flagged in three papers (also Jun 2022 P2R, Jun 2023 P1R).

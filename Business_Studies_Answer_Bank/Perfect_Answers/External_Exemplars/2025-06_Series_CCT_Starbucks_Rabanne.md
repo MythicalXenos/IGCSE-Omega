@@ -56,6 +56,7 @@
 
 ### ✅ 3 marks — *one disadvantage of training employees*
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Training employees might be cost expenses. This is because, a business might have to employ specialised trainers, or would have to rent a training premises This would likely raise cost for the business. Hence, profit reduces if revenue remains constant."*
 
 **Examiner comment (verbatim):**
@@ -63,6 +64,7 @@
 
 ### ⚠️ 1 mark
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One disadvantage for the business may be that, when a business provides trainings for the new employees. After some time employees may leave and gain rival business, and this is why business gets frustrated, that is why this is a disadvantage for businesses training its employees."*
 
 **Examiner comment (verbatim):**
@@ -78,6 +80,7 @@
 > **Missing word check before you move on: does my answer contain a _because_ (cause) and a _so/therefore_ that changes something for the business (consequence)?**
 
 **⭐ And a caution from the other direction** (June 2022 P1R, repeated twice in that paper):
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"This particular candidate has explained this method with **more than two links of reasoning so has wasted some time when there are only 3 marks available.**"*
 >
 > **Two development links is the cap. A third earns nothing and costs time.**
@@ -186,6 +189,7 @@
 > **In every case the 1-mark answer differs by ONE NOUN taken from the case study.** Note the CCT pair especially: both mention *tours*. The passing one says *"**bicycle** tours"* — the case study's actual product.
 
 **And June 2025 P1R's introduction states the rule for the newest cohort:**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"a persistent challenge for a significant number of candidates, as observed in previous examination series, lies with **'State' and 'Outline' questions**… candidates should **avoid simply rephrasing parts of the question** in their responses."*
 
 ---
@@ -197,7 +201,9 @@
 > *"**An increasing number of candidates are using extra paper which is not recommended. There are sufficient lines given to allow candidates to provide a thorough answer. There is absolutely no evidence at all to suggest that candidates using extra paper score higher marks.**"*
 
 **Cross-references across the bank:**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"the lines available are **more than adequate** for such a question but often learners are using additional papers **without gaining additional marks**"* (Summer 2019 P1)
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"**Sufficient lines are given** for candidates to answer questions… **Examiners are unable to guess if a candidate has continued the answer somewhere else.**"* (Summer 2019 P2R, and repeated in later series)
 
 > ### What this means, precisely
@@ -240,10 +246,12 @@
 
 ### ⭐ The AO formula, restated in 2025
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"an '**Analysis**' question requires **more than just detailed knowledge** to earn the available marks, and a '**Justify**' question seeks the **application of information, analysis, and evaluation**."* (P1R)
 
 ### ⭐ The command words page reference, still current after six years
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Work closely with learners to ensure a clear understanding of command words, such as those outlined on **page 31 of the specification**… the mark scheme includes Assessment Objectives (AO) for all questions, with a detailed breakdown available on **page 7 of the 'Getting Started to Teach' guide**."* (P1R, June 2025)
 
 ⭐ **Identical page references to Summer 2019, Nov 2020 and June 2022.** The taxonomy's location has been stable for the life of the specification.
@@ -286,6 +294,7 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 > **Report:** *"the 'analyse' questions… are holistically marked. Marks are awarded for **contextualised knowledge (AO2)** and **logical chains of reasoning (AO3)**… **many candidates confused batch production with job or flow production**."*
 
 ### ✅ Awarded **6 marks (full marks)**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Starbucks using batch production is flexible and helps meet the demand accordingly. This is because an appropriate number of cakes can be baked and sandwiches can be made at once. This prevents over-producing quantities of food thus aiding to be flexible and prevent stock piles."*
 
 **Examiner comment (verbatim):**
@@ -308,6 +317,7 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 ## B. June 2025 P1R (CCT) — Q1(g) — Analyse the **concerns** of introducing an app — **6/6**
 
 ### ✅ Awarded **6 marks — Level 3**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"CCT may have concerns like what if the app encounters a technology error and have a break-down. This app aims to make it easier for its customers to make and track bookings so it is very important not to have technology break-down, and which might disappoint the customers of bicycle tour who downloaded the app with the purpose of booking. If the customers are not satisfied with the service of the app, they are likely to **go book at CCT's rival bicycle tour service business, losing loyal customers.**
 >
 > Moreover, CCT may be worried whether the app is feasible for its customers to download and use. If the app isn't user-friendly, it is very likely that customers won't want to book the bicycle tour via using app. They may write **bad reviews** of CCT's newly introduced app on the internet, leading to having the **bad reputation** of having bad services. This would make **CCT suffer from bad reputation and will need time to recover, decreasing the sales** of bicycle tour tickets."*
@@ -374,6 +384,7 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 > *Allows CCT to make market research, as by tracking the hot location that attracts the most tourists, this allows them to host an event and use that information to thier advantage, improving brand image."*
 
 **Examiner comment (verbatim):**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"**Neither of these points address concerns of introducing the app; they are addressing benefits of its introduction. Therefore, it does not answer the question. 0 marks.**"*
 
 > ### 🔴 These are TWO well-formed chains, correctly contextualised, ending on business outcomes
@@ -385,6 +396,7 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 
 ## ❌ Starbucks Q2(c) — the JIT misconception — **0 marks**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One reason many manufacturing businesses use just-in-time because **all the goods can be finished faster as all workers and machinery are deployed**. This method is used when demand for certain good is high. Ex: Toyota cars."*
 
 **Examiner comment (verbatim):**

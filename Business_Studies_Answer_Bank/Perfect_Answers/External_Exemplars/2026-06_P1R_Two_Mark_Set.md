@@ -116,6 +116,7 @@
 
 **The 2/2 script (verbatim — two struck words are shown):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Cash helps Spud Bros in paying back their ~~suppliers~~ ^suppliers^ on time which ~~can~~ can lead to a reliable and constant supply of "potatoes" ~~and~~ and "toppings"."*
 
 **Examiner comment (verbatim):** *"This response includes an appropriate reason why cash is important, with context in the form of 'potatoes' and 'toppings', which is also developed. Total: 2 marks"*

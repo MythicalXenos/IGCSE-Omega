@@ -147,6 +147,7 @@ The examiner then gives the remedy in three steps: (1) apply to the business, (2
 
 And on the 4/9 response from the same question:
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response shows an understanding of both methods of motivation. The candidate has gone on to explain the impact each of these methods can have on the business as well as the employee being rewarded."*
 > *(Level 2 – 4 marks)*
 

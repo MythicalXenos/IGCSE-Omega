@@ -10,6 +10,7 @@
 
 **Question:** Choose between introducing a vegan range (Option 1) or a discount (Option 2).
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"[A discount would] attract more customers, since customers would be encouraged to visit its Café shop and try its high quality meals at a lower cost, leading to an increase in its revenue as Cafe Pinch would sell more meals due to customers choosing its cheaper meals compared to other Café shops in Berlin[.] however, this discount might mean that Cafe Pinch isn't making the most markup on meals it sells, meaning that Cafe Pinch would make less revenue than other cafés in surrounding areas, leading to Cafe Pinch losing revenue and market share in the Café market in Berlin.*
 >
 > *I believe that option 1 (introducing a vegan range) is the most suitable option for Café Pinch. This is because as Café Pinch would cater to the needs of a wider customer base in Berlin, it would be able to expand and increase its revenue by selling more meals and selling the vegan products, leading to an increase in its market share in the café market[]."*
@@ -25,6 +26,7 @@
 
 **Question:** Choose between weekly staff meetings and daily updates to improve communication.
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Kumaran should use weekly staff meetings because it gives employees the chance to give feedback to Kumaran [on] company changes. [This] is significant as CP is a small trader so Kumaran needs feedback from employee[s] since there are no other people in charge of the business… Feedback[;] listening to staff allows CP to improve their communication which increases employee motivation as they feel like they have a say in how the company is run, this decreases chance of employee quitting which decreases recruitment [and] selection costs and increases profit. However, staff meetings may decrease productivity if employees feel [they] waste[] time with a meeting instead of cooking more dishes. This could decrease profit… However, Kumaran shouldn't use staff meetings because they're less frequent than daily updates. This could worsen communication if employees don't know about recent business changes because the meeting that week hasn't been held yet. This could cause mistakes in operating new equipment that could increase cost and decrease quality of food made."*
 
 **Examiner comment (verbatim):**
@@ -64,6 +66,7 @@ This single rule explains almost every lost AO2 mark documented in this bank —
 
 ## ✅ `[VERIFIED CANDIDATE EXEMPLAR]` — 6/6 · Q3(d) Analyse
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One way Cafe Pinch can do this is through customer satisfaction. This is because if Cafe Pinch can see how satisfied customers are with their breads and teas, they can evaluate improvements they may have to make or [see] which baked goods to keep selling. They could do this through customer satisfaction surveys. This means that Cafe Pinch can adjust the products that customers don't enjoy as much and replace them with higher quality and tastier ones. This will lead to more returning customers to Cafe Pinch."*
 
 **Examiner comment (verbatim):**

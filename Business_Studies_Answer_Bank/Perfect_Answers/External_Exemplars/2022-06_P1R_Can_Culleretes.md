@@ -56,6 +56,7 @@ This does **not** contradict the "keep developing" rule. It is tariff-specific:
 
 ## ✅ 9/9 · Q2(f) Justify: increase advertising or open for breakfast to improve revenue
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One disadvantage of option 2 however is that employees might be less motivated. This is because they will need to wake up early and work more hours to provide and cook food. This loss of motivation will lead to kitchen staff being lazy and therefore quality of food will be low. As a result, Can Culleretes will lose customers to competitors because food is not [good], leading to a decrease in market growth. **However, this depends on the quality of food at the restaurants nearby**, as if the other restaurants offer food with low quality, then customers will choose to…*
 >
 > *Overall, Can Cul[le]retes should choose **option 2** because if they were to advertise, [it] is more expensive in the short term. Opening for breakfast in the short term is less expensive and in the long term can boost their reputation even further. **However, this depends on the amount of tourists**, as due to issues such as a global pandemic, there will be less tourists meaning less customers who want to eat."*
@@ -81,6 +82,7 @@ This is the clearest demonstration in the bank of how conditionality earns AO4:
 
 ## ✅ 9/9 · Q3(e) Justify: permanent or temporary contract for a new chef
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Can Cul[le]retes should offer the chef a **permanent contract** because it offers stable pay, timings and work conditions for the chef. This means they [have] greater job security, leading to them being more motivated, so they are committed to the restaurant's success. For example, they may put more effort into designing a new dessert menu as well as when they prepare the desserts, leading to higher quality cakes and souffl[és]. Thus [this can] give the restaurant[] a reputation for high quality desserts, this differentiates them from nearby rivals and consequently more people are likely to buy them, increasing revenue.*
 >
 > *However, offering a permanent contract is more costly than a temporary contract and offers less flexibility, because the chef cannot be laid off or paid less [if] restaurant profitability… [is] not good, so costs can't be lowered. This is particularly risky because there is no guarantee that the new desserts will sell[,] another[ly] especially if other restaurants nearby specialise[] in them, because consumers may trust them more. Consequently, the cost of employment [is] higher than the additional revenue from sales, so profit margin will [fall].*
@@ -140,6 +142,7 @@ Compare the same move in **Jun 2022 P1 Q3(d)** (motivation analysed via the impl
 
 ## ✅ 6/6 · Q3(d) Analyse the impact of customers using social media to review Can Culleretes
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One impact is decreased brand reputation. This is because customers are able to freely revie[w] and give their honest opinion about the food and service of Can Culleretes without the option for the restaurant to moderate them. This may decrease the amount of people who choose to dine or prevent people from dining at the restaurant as [they] know that it does not satisfy customer needs and expectations."*
 
 **Examiner comment (verbatim):**
@@ -152,6 +155,7 @@ Compare the same move in **Jun 2022 P1 Q3(d)** (motivation analysed via the impl
 
 ⚠️ **Corrected 12 Nov 2026.** This note used to say the quote above *"is the negative chain, and it reaches 6/6 on its own"*. **The scan shows two paragraphs, one negative and one positive** — the second was not quoted here. The positive one:
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > **[READ FROM SCAN]** *"Another impact is increased business/brand exposure and awareness. If customers leave positive reviews, more people are likely to pass [on] and recommend the restaurant to friends and family. This means as there are more positive reviews on social media, it is exposed and read [by] larger amounts of people to view. This may result in higher sales and more customers and loyal customers ([repeat])."*
 
 **So the answer is not one-sided, and the examiner's praise is explicitly for having both:** *"the candidate has thought about the positives… and the negative effects as well."* The negative paragraph is the better written of the two, which is probably how the one-sided reading arose — but a student copying it would lose the half the examiner paid for. Full transcript: `audits/corpus/transcripts/4BS1_01R_2206_3d.md`.
@@ -162,6 +166,7 @@ Compare the same move in **Jun 2022 P1 Q3(d)** (motivation analysed via the impl
 
 ## ✅ 3/3 · Q2(c) Explain one method to encourage repeat purchase
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"[Can] Culleretes could impl[ement] promoters such as gift vouchers, percentage o[f] food or [a] tea [loyalty] point system. This would lead to customers returning to cash in v[o]uchers and gain more point[s]. This would have a positive impact on Culleretes and the business[] as customers would be more satisfied with their purchases and Culleretes will gain more loyal customers."*
 
 **Examiner comment (verbatim):**
@@ -171,6 +176,7 @@ Compare the same move in **Jun 2022 P1 Q3(d)** (motivation analysed via the impl
 
 ## ✅ 3/3 · Q2(e) Explain one benefit of motivating employees
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Motivated employees lead[] to more effort in work and a less likely chance of losing the employee. If the business motivate[s] these employees they feel more valued by the business and they [will] work harder. The business will be more efficient and productive and customers will be satisfied with the services/product as they are [of] a good standard leading to more revenue and cash flow to the business."*
 
 **Examiner comment (verbatim):**
@@ -184,6 +190,7 @@ Compare the same move in **Jun 2022 P1 Q3(d)** (motivation analysed via the impl
 
 ## ❌ 0 marks · Q2(d) Explain one disadvantage of personal savings as a source of finance
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Personal savings is when the owner is required to contribute some money to the business when they first start their business. Personal savings can be lost sometime due to some bank errors. Personal savings can be stolen by fraudulent activities."*
 
 **Examiner comment (verbatim):**

@@ -34,6 +34,7 @@
 
 **The 0-mark script (verbatim, report p. 5 — the opening word is heavily cancelled in the original):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"… when a business takes lots of ~~m~~aplicants and ~~separates~~ them into smaller groups. Then chooses a select few that the business believes would be of greater good for the business."*
 
 **Examiner comment (verbatim):** *"This response is not giving a definition of person specification but what a business does with the applications received. This is not a definition and therefore not worthy of a mark."*
@@ -113,6 +114,7 @@
 
 **The 1-mark script (verbatim, report p. 11 — *"of employees"* is written above the line as an insertion, and a stray letter is cancelled inside *"introduce"*):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Then IKEA can ~~B~~introduce all the things for employees such as targets and aims of the business and the staff [of employees] to work familiar with them which will increase the productivity when selling furniture."*
 
 **Examiner comment (verbatim):** *"The candidates clearly understands the importance of induction training by getting to know the staff they will work with and **the comment at the end about furniture clearly puts the response in context**."*
@@ -146,6 +148,7 @@
 
 **Question (verbatim, as printed on both scripts):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"**Figure 2** is an extract from IKEA's Statement of Income for 2020."* *(table: Revenue 37 368 · Cost of sales and services 25 643 · Gross profit 11 725 — Euros (€) millions)*
 > *"**(e)** Calculate, to two decimal places, the gross profit margin for 2020. You are advised to show your working."* **(2)**
 
@@ -211,6 +214,7 @@
 
 **Question (verbatim, as printed on both scripts):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"**2** One of IKEA's aims is to keep up to date with the changes taking place in product design and meeting customers' needs. To do this it has to introduce new and different products on a regular basis."*
 > *"**(a)** State **one** reason why **IKEA** would employ temporary staff."* **(1)**
 
@@ -225,6 +229,7 @@
 
 **The first 0-mark script (verbatim, report p. 22):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Because IKEA needs to get new ideas from time to time to keep the products up todate therefore they hire new ~~employ~~ in order to get new ideas."*
 
 **Examiner comment (verbatim):** *"As previously mentioned **just putting IKEA is the response is not putting it in context as it is in the question**. This response is valid but did not gain the mark."*

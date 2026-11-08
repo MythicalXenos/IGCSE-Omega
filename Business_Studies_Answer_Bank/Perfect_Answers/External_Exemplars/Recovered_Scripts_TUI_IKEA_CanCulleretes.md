@@ -16,11 +16,13 @@
 > **Report:** *"'Analyse'… tests two of the Assessment Objectives… AO2 'Application' and AO3 'Analysis'… **there are no marks for knowledge** in this question and their response must be in the context of TUI."*
 
 ### ✅ **Level 3 – 5 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"TUI including Health and Safety training fits into Hozbergs Hygiene factors within his motivation theory. This will allow employees to feel satisfied with the conditions of the business and with holiday agency business and will allow for employees to be more easily motivated later on, which leads to greater productivity, thus likely increasing holiday activity sales. Another benefit is it aids in the reputation of TUI as a business, as if there is an incident on a flight or on a holiday that requires first aid, employees will know how to handle with the situation, thus discouraging any negative news stories of incidents on TUI's planes that could potentially hinder TUI'S sales or customer loyalty."*
 
 **Examiner comment:** *"clearly understands the benefits for TUI… **Stating that the employees are satisfied with the training, reference to customers on holiday and their safety is important.** The response shows that there is **sound application of knowledge and business understanding**."*
 
 ### ⚠️ **Level 1 – 2 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A benefit for Tul including health and safety is that if a employee does get hurt or sick they will be able to know what to do or they can prevent it from happening in the first place. This is good for Tul because there will be less employers getting hurt and having to take time off cause if they do take time off Tul will have to find a substitute and maybe it will be hard for them to find someone as good. Another reason is that if an employee gets badly hurt and has to leave maybe the other employees don't want that to happen to them so they will leave the Tul job and if Tul loses all of employees they will have to stop providing some of their activities so less customers will come so less income into the business."*
 
 **Examiner comment (verbatim):**
@@ -78,11 +80,13 @@
 > **Report:** *"Candidates should read through the scenario first and then the question… This can avoid candidates just giving **detailed knowledge of the two options**."*
 
 ### ✅ **Level 3 – 7 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"By TUI using competition pricing it may not be suitable as managers would have to check on competitors prices which may pile up their work which was assigned to them with having to check on the prices competitors offer for the 180 destinations TUI offers including Greece, Turkey and Spain. Therefore it will be stressful for managers to cope up with all The work which would de-motivate them. As a result labour turn-over will increase."* … *"In conclusion, since TUI is a holiday business that has been in the industry for over 100 years more customers would want to purchase from TUI as they are a recognised company which then would increase sales and lead to a higher revenue being earnt where they will have sufficient money to cover their cost by providing customers with promotions. Therefore promotional pricing is more suitable for TUI."*
 
 **Examiner comment:** *"clear understanding of the two types of pricing and **justifies why each one would be chosen**… Relevant comments are made about each option showing sound application… **However there are limited interconnected points and chains of reasoning.** Gaining a Level 3."*
 
 ### ⚠️ **Level 2 – 4 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Promotional pricing in an competitive markets such as the travel market may lead to a price war between TuI and other traveling agency as each agency will be trying to offer better deals and attract more customers, therefore TuI may have to drop the selling price drastically to maintain customers"* … *"Still be able to genrabe sales due to their customers loyalty and their recognition. Therefore competition pricing is the best option"*
 
 **Examiner comment:** *"The response **shows knowledge of the two pricing options, but with limited development and evaluative comments**. Level 2 – 4 marks"*
@@ -108,6 +112,7 @@
 > **Report:** *"Candidate should **avoid describing what a franchise is**… **there are no marks available for knowledge**, and the response must be in context of IKEA."*
 
 ### ❌ **0 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"It is multi-national meaning that it is located all over the world so millions even billions of people could have seen it and bought from it. Limited liability meaning any owner is only liable for amount invested. Unincorporated business meaning that there is no difference between the owner and the businesses legal identity"*
 
 **Examiner comment (verbatim):**
@@ -121,6 +126,7 @@
 > **Test before writing: does my first sentence answer the question's actual request (benefit / reason / impact / way), or does it define a term?** If it defines, delete it.
 
 ### ✅ **3 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"It is a benefit for IKEA because the boss, ingvar Kamprad won't have all the responsability of IKEA's shops therefor around the world therefore he won't have so will have less work to do and a part of the profit that franchees earn goes to him these leads to earning money just having a person doing the work for him."*
 
 **Examiner comment:** *"clearly understands the benefits that Ingvar Kamprad has of owning IKEA. Comments relating to the fact that he does not have full responsibility for all the shops. He gains some of the profit that each of the stores make. **However there was no detailed analysis of the response which put the response at the bottom of Level 2.**"*
@@ -130,6 +136,7 @@
 > **Report:** *"**Over four fifths of the cohort did not get the mark** on this question because they did not put it in context, **although they may have given a very valid response**."*
 
 ### ❌ **0 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Because idea needs to get new ideas from time to time to keep the products up to date therefore they wire new employs in order to get new ideas."*
 > **Examiner:** *"just putting IKEA is the response is not putting it in context as it is in the question. This response is valid but did not gain the mark."*
 

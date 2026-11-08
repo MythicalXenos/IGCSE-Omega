@@ -79,6 +79,14 @@ def main():
             out.append(line)
             continue
         new = min(hits, key=lambda h: abs(h - old))
+        # A heading is not always where the mark is stated. If the new line has no mark token
+        # within ten lines, the move would trade a drifted citation for an unresolvable one --
+        # which is how this tool first made the register worse. Keep the original and say so.
+        window = "\n".join(lines[new - 1:new + 10])
+        if not re.search(r"\b\d+/\d+\b|Level \d[^\n]{0,30}\d+ marks|\b\d+ marks\b", window):
+            print(f"  SKIP {shown} Q{qn}({ql}): heading at {new} states no mark near it")
+            out.append(line)
+            continue
         if new != old:
             line = line.replace(f"{m.group(3)}:{old}", f"{shown}:{new}")
             changed += 1

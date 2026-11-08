@@ -88,12 +88,15 @@ Four clear instances, each costing whole answers. **The question names who benef
 # ⭐⭐⭐ THE 12-MARK VERDICT — identical again, in a third year
 
 **Nov 2021 P2 Q4(c)** (why Huawei would carry out market research before designing a new product):
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"A variety of valid comments were made by candidates, such as they know what the customers want, finding a gap in the market that they could fill. **However, they then failed to develop these points and justify their decisions to enable them to gain the higher level marks.** Nearly half of the cohort gained a Level 2 mark and **nearly a tenth** of the cohort gaining a Level 3 mark."*
 
 **Summer 2019 P1R Q04(c)** (benefits to Lavender of using **other** forms of technology to promote):
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Those who performed less well than expected on this question did so for one of two reasons. **Firstly**, candidates provided a **generic answer with no application** to Lavender or candidates would go into detail outlining a number of forms of technology. **Secondly**, candidates did **not provide a thorough judgment relating back to any issues that may occur** for Lavender… **or they did not balance their conclusion therefore limiting their evaluation**."*
 
 **Nov 2024 P2 Q4(c)** (profit as a measure of success):
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The more able students were able to explain why Premier Inn would use profit as a measure of success **and counterbalance this with why it wasn't the best method or why other measures might be more appropriate**. Others… **Many answered failed to show balance or provide a justification to satisfy AO4 requirements**."*
 
 > ## 🎯 THE SAME TWO FAULTS, 2019 → 2024
@@ -108,6 +111,7 @@ Four clear instances, each costing whole answers. **The question names who benef
 # ⭐⭐ THE "OTHER" TRAP — read the qualifier in the stem
 
 **Summer 2019 P1R Q04(c):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The stem of the question states that **Lavender already uses a website** to promote its products so it is unfortunate that a handful of candidates misunderstood the question and **detailed the benefits of a website to Lavender** when promoting its products **thus gaining no marks as this does not answer the question**."*
 
 > ## 🎯 THE RULE
@@ -119,9 +123,11 @@ Four clear instances, each costing whole answers. **The question names who benef
 # ⭐⭐ ROUNDING — the second variant nobody expects
 
 **Summer 2019 P1R Q04(a):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Centres must remind candidates that where it is stated in the question the answer is **'to 2 significant figures'** then this is the expectation of the answer. Candidates have often provided a lengthy answer and **not gained full marks as their answer is not to 2 significant figures**."*
 
 **Nov 2021 P2 Q1(e):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates should be aware that if the question asks for **two decimal places** and their response has **three decimal places** they will not gain all the marks available."*
 
 > ## 🎯 THE RULE
@@ -129,6 +135,7 @@ Four clear instances, each costing whole answers. **The question names who benef
 > ⚠️ **2 s.f. and 2 d.p. give different answers.** Writing extra precision is a mark lost, not a mark earned.
 
 **And the companion (Summer 2019 P1R Q04(a), Nov 2023 P1 Q4(a), Nov 2021 P2 Q3(c)/Q4(a)):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"they could gain a mark for the formula, even if the actual answer is wrong"* · *"often candidates have gained a mark for their calculation despite their final answer being incorrect"* · *"**In some cases the writing of candidate's number 4 and number 9 could be confused by the examiner.**"*
 
 ---
@@ -192,10 +199,13 @@ Examiners say plainly which concepts the cohort does not know. **Every one is a 
 # TWO MECHANICS REMINDERS, repeated across series
 
 **ePen / continued answers** (Nov 2021 P2, Nov 2020 P2, Nov 2023):
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates must clearly indicate by using **'continued'**, **'contd page ….'** or **'see separate sheet'**… **Examiners are unable to guess** if a candidate has continued the answer somewhere else."*
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"for the first six multiple choice questions candidates are given the instruction to **mark an 'X' in the box**. There are some candidates who are **using 'ticks'**."*
 
 **Bullets** (Nov 2021 P2 Q4(c), and 2023 P2/P2R):
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Some candidates are using **bullet points or numbered format**, this will **not allow them to gain the higher level marks because they may not have analysed or evaluated the points made**."*
 
 ---

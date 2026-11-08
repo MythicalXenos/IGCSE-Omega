@@ -98,6 +98,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **Question (verbatim, as printed on the script):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Aude Rose has fixed costs of €50 000 a year with a selling price of €50 and a variable cost of €10 per bunch of flowers sold."*
 > *"**(e)** Calculate how many bunches of flowers **Aude Rose** will have to sell to break-even. You are advised to show your working."* **(2)**
 
@@ -151,6 +152,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **The script (verbatim — the candidate begins, crosses out, and rewrites):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Company Car for the florists to drive around Paris"* *(a false start — "Car ? for work them to drive" — is struck through above the final line)*
 
 **Examiner comment (verbatim):** *"This shows a good example where the candidate has been able to state one fringe benefit of a company car and used the context of Aude Rose in the response."*
@@ -257,6 +259,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **The script (verbatim — with a correction visible mid-sentence):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Aude Rose can change the packaging by adding extra ribbons to it or changing the colour of the wrapping paper so that people are still likely going to buy the ~~product~~ flower bunches."*
 
 **Examiner comment (verbatim):** *"This is the only outline question in the paper and requires candidates to outline a way that Aude Rose could extend the product life cycle of one of its products. 'Outline' questions require candidates to use context within their responses and this shows how we would expect candidates to response to this type of question as this has achieved the full available marks."*
@@ -325,6 +328,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **Question (verbatim, as printed on the script):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"4 · **Figure 2** is an extract from Aude Rose's Statement of Comprehensive Income."* *(table: Sales €62 400 · Gross profit €45 024 · Cost of sales €17 376)*
 > *"**(a)** Calculate, to two decimal places, the gross profit margin. You are advised to show your working."* **(2)**
 
@@ -437,12 +441,14 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **The 1-mark script (verbatim, report p. 7):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Irsi Chocolatier can use the Boston matrix to identify which of it's choclates to invest in. As it's more useful investing in a star than a dog."*
 
 **Examiner comment (verbatim):** *"This candidate has stated one way Irsi Chocolatier could use the Boston matrix and it is in the context of the given business scenario allowing them to access the mark for this question."*
 
 **The 0-mark script (verbatim, report p. 8):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"The boston Matrix allows Irsi Chocolatier to see whether the business has low/high Market share or low/high market growth to try and improve their business."*
 
 **Examiner comment (verbatim):** *"This candidate shows knowledge of the Boston matrix but without context in the response in relation to the given business scenario they cannot achieve the mark for this question."*
@@ -480,6 +486,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 **Question (verbatim, as printed on both scripts):**
 
 > *"A customer buying five boxes of chocolates for a total of €75.50 is given a 6% discount."*
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"**(e)** Calculate, to two decimal places, the cost of these chocolates after the discount has been applied. You are advised to show your working."* **(2)**
 
 **Official mark scheme (verbatim, P1 MS p. 7):** *"1 (e) · A02 - 2 marks*
@@ -640,6 +647,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **The script (verbatim — with a correction mid-sentence):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One way is to Sustain the quality of the chocolates. This could be done by using better quality to ~~ingredients~~. This will ensure the customers will know ~~it is a~~ Irsi Chocolatier will sustain their same taste and give them the confidence to know what they will expect time and time again."*
 
 **Examiner comment (verbatim):** *"This is the only outline question in the paper and requires candidates to outline a way that Irsi Chocolatier could keep customer loyalty. 'Outline' questions require candidates to use context within their responses and this shows how we would expect candidates to respond to this type of question as this has achieved the full available marks."*
@@ -707,6 +715,7 @@ The benefit (*"no excess stocks are produced"*) is **generic business knowledge 
 
 **Question (verbatim, as printed on the script):**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"4 · **Figure 1** is an extract from Irsi Chocolatier's Statement of Comprehensive Income."* *(table: Revenue €330 606 · Gross profit €80 282 · Other operating expenses €12 692)*
 > *"**(a)** Calculate, to two decimal places, the operating profit margin. You are advised to show your working."* **(2)**
 

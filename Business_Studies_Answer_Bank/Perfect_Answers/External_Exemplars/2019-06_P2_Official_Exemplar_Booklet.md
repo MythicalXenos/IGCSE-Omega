@@ -46,6 +46,7 @@ Stated in the introduction of this booklet:
 
 ### Official mark scheme — AO1, 3 marks
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Award 1 mark for identification of an impact of technology on production, plus 2 further marks for explaining the impact, for a maximum of 3 marks.*
 > - *Fewer people required to work in the factories doing repetitive jobs (1) people get bored doing these jobs and make mistakes (1). Less employees bring the cost of goods down (1).*
 > - *More robots are manufacturing the vehicles than previously (1) this means that the vehicles can be manufactured in any country (1) therefore the business could move to a cheaper country (1).*
@@ -69,10 +70,12 @@ This is the **third independent statement** of the same rule, and the first one 
 
 ### Exemplar response A — **3 marks**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"technology could have a positive impact on the manufacturing of vehicles as it could speed up the process. This is because machinery created by technology could build cars quicker than a human, with no mistakes or errors. This would have a positive impact as to mean the business would create more cars in a shorter amount of time, and it would have more product to sell."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The response shows an understanding that using technology means cars could be produced faster, and this point is then developed by the comment 'with no mistakes or errors'. The final mark is given for the comment that technology would have a positive impact on the business and would create more cars in a shorter time. **A number of responses tended to give two impacts of technology as opposed to one, and the consequence of this was that they could not gain the full marks available.**"*
 
 **The chain, decomposed:**
@@ -87,10 +90,12 @@ Note this is a **3-mark explain with no context required** — "the business", "
 
 ### Exemplar response B — **1 mark**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The technological impact could be that the company has less expenses as it has to spend less on wages for employees meaning they would be able to afford better quality land and/or machines & potentially giving them an increased profit."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This particular response mentioned that technology would reduce the spending on wages for employees, which is a valid comment. **If the final comment on profit had been developed, further marks could have been awarded.**"*
 
 ### ⚠️ The trap in response B — worth studying closely
@@ -129,10 +134,12 @@ And it scored **1**.
 
 ### Exemplar response A — **Level 3 – 5 marks** (out of 6)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Customer loyalty will be improved because having good public relation like building schools Tata Motor Company will attract the society because they will think the business care about the society thus improved Customer loyalty will lead repeat buying. Tata Motor Company will have strong brand name because they will be well known for their welfare for local people therefore they will have Market for their vehicle hence they will get high Market share."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response is relevant to good public relations, and does refer back to the scenario in the paper with regard to building schools. The comment is further developed to say that the business cares about society and this does help to improve customer loyalty. **The second paragraph refers to the welfare of local people but the comment could have been developed further to move the response into the top of Level 3.**"*
 
 **Note the linking words the candidate actually used, all underlined by the mark scheme's own logic:** *"because"… "thus"… "therefore"… "hence"*. That is four chains in two sentences. This is precisely the *"linking words/terms such as 'thus', 'therefore', 'because' or 'this leads to'"* technique Pearson recommends on its support page.
@@ -147,6 +154,7 @@ This is the **same diagnosis as rule 6d** in `06_External_Source_Library.md` (th
 
 ### Exemplar response B — **Level 2 – 3 marks** (out of 6)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Good public relations is extremely important for Tata Motor Company as it could increase their amount of customers. This is because customers will feel more comfortable and attracted towards Tata Motor Company, which will increase their chance of shopping there. This will create more revenue for Tata as more customers will create more sales."*
 
 **Examiner's comment (verbatim):**
@@ -194,10 +202,12 @@ A blunt, official rule. On an **Explain** question, defining the term earns **no
 
 ### Exemplar response A — **2 marks**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Job production is glacible. It is highly responsive to consumers needs and wants. Customers will be able to request specific designs and styles of a product according to their tastes. For obtaining a product unique to the consumer, the consumer will be calling to pay high prices."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The comment about being flexible is not developed or related to anything in particular, so therefore is not worthy of a mark. The second sentence about being highly responsive to consumer needs and wants is relevant and applicable, and worthy of a mark. The second mark is gained for the development of the comment that the consumer will have to pay a high price for this specific design. **To have gained the final mark available the candidate could have mentioned the time taken to make the items and/or the skill and labour required of one person.**"*
 
 **Note the examiner's attitude to the opening line** — *"Job production is glacible"* (unclear word). It earns **nothing** and is not even discussed. It is the definition opening, and the mark scheme says definitions earn no marks.
@@ -206,10 +216,12 @@ A blunt, official rule. On an **Explain** question, defining the term earns **no
 
 ### Exemplar response B — **2 marks**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"A business would use job production in order to produce high quality products. By producing such products they can meet customer satisfaction which may be an objective for that business in the long run."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The comment with regard to producing high-quality products is relevant and this is then developed by the comment regarding customer satisfaction, gaining 2 marks. **If the response had then given a further development or comment on cost, it could have gained the final mark.**"*
 
 ### ⚠️ Two different responses, both 2/3, for different reasons
@@ -249,10 +261,12 @@ This is the mechanical meaning of *"identify + 2 further marks for explaining"*.
 
 ### Exemplar response A — **Level 3 – 7 marks** (out of 9)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"However, with when using cost plus pricing there are some problems. One is the this pricing strategy ignores market conditions, so if all other cars in the industry are more generously priced then consumers will switch to competitors. Also the ignores the elasticity of demand for cars, it cars are elastic and they charge a high price, as there many substitute substitutes consumers will switch. This will reduce revenue."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Comments relating to a description of what each of the two options are should be avoided, as there are no knowledge marks available for this question.** The response clearly shows an understanding of the two methods of pricing and the impact upon the business and its customers. Justification as to why each of the pricing strategies should or should not be used is also given, showing analysis. **In the final paragraph there are some evaluative comments but these are not fully developed, and so the response cannot reach the top of the level.**"*
 
 **Note what the examiner praises and what they penalise:**
@@ -266,10 +280,12 @@ This matches the established **7/9 → 9/9 gap** (now five confirmations): the m
 
 ### Exemplar response B — **Level 2 – 4 marks** (out of 9)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Hunnerer, although cost plus pricing may seem like the best pricing strategy it ignores market conditions. This means that it does not take into account the prices of competition. Therefore if other car company prices are low Tata Motor company may lose cut on customers."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The response has made sound application of the knowledge of the pricing strategies that could be used. The comment that cost is covered shows application, and a valid point made.*
 > *In the third paragraph, the response comments on option 2 and the fact that if the company does not use this method they may lose customers. This demonstrates application.*
 > *In the final paragraph, the comment that cost plus pricing seems to be the best pricing strategy because it ignores market conditions is evidence of analysis; this is developed further by the reference to not taking the competition's prices into account. This moves the response to the bottom of Level 2. **To gain a higher level, the response would have to include some consequences of using each method in relation to other businesses. The candidate could also comment on the impact on the business itself, if it continues to use one method as opposed to another.**"*
@@ -297,10 +313,12 @@ Response B has a genuine chain: *ignores market conditions → does not account 
 
 ### Exemplar response A — **Level 2 – 3 marks** (out of 6)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Tata Motor company can use the financial information in Figure 2 to look at the successes as well as areas they need to work on within the business. For example, the business will be able to see that they grew the most between 2013 and 2015. Furthermore, the company can use this financial information to compare to its competitors. This will allow the company to decide on whether they are happy with the products they have or if they need to improve their financial position by launching a new vehicle."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The comments about looking at the successes and the areas that Tata Motor Company need to [address] demonstrate application. The comments about comparison to competitors and improving the company's financial situation both provide analysis. **This response actually refers to information in Figure 2, which a number of responses did not do.** If the response had used more information from Figure 2, it could have moved into the top level."*
 
 ### ⭐ The rule for any question that points at a Figure or table
@@ -313,10 +331,12 @@ The examiner's remark — *"This response actually refers to information in Figu
 
 ### Exemplar response B — **Level 1 – 2 marks** (out of 6)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Tata Motor company could use the financial information to compare with their competition so to see if they are more successful than those which means can use this to plan when to expand and wipe out their competition. This information can also be used to see if a marketing scheme was successful because they could check if their revenue increased which means they can see whether they should keep selling them. This allows them to make decision about continuing to sell products. Which is good as it could reduce costs or wasting money."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Unfortunately, a number of candidates perhaps did not fully read the question and make use of the financial information given in Figure 2. This would have helped them to develop their responses and perhaps gain a higher level.*
 > *The comment about comparing the information to that of the competition is valid, and possibly the most popular response given by candidates. This is then developed by commenting about planning and when to expand.*
 > *Candidates could have used the information given with regard to the revenue made from 2011 to 2017 and also used the response to 3(c) to help develop the response."*
@@ -355,10 +375,12 @@ Response B is nearly as long as response A. It has **three** chains:
 
 ### Exemplar response A — **Level 2 – 6 marks** (out of 9)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Tata should use primary research. This is because it provides up-to-date information about customers wants and needs. It will enable tata to produce market oriented products and hence obtain customers from day one. This will increase its revenue and increase profits, consequently obtaining a higher market share. They will also fulfill their aim of producing In addition, primary research provides confidential information as no other firm knows about it. This enables Tata to sell unique products into the firm. It can use pricing strategies like price skimming and obtain a lot of profits from its awesome cars before competitors like Mitsubishi begin producing. This monopoly power will give them enough finance as retained profits to carry out further market research However, primary research sometimes gives misleading results. Tata can incur large losses after it designs a car and it gains no market especially because huge capital costs are involved. This means it will have reduced cash flow and may even close down due to business failure."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"A number of the responses seen did give a very detailed description of primary and secondary research. **As mentioned, there are no knowledge marks available for this type of question. Commenting on each of the options by giving a description of what they are should be avoided.** The comment on market-oriented cars is application, and the comment on fulfilling the aim of producing according to needs gives further analysis. Another application point made was that the information gained is confidential; the point is further developed by stating that this enables Tata to sell unique products.*
 > *The last paragraph comments on how primary research could give misleading information, which is a relevant point.*
 > *To move this response to the next level, the candidate could have further developed the implications of primary research and the effects on Tata, **or justified why secondary research was not chosen**."*
@@ -387,10 +409,12 @@ Two diagnostic failures:
 
 ### Exemplar response B — **Level 2 – 5 marks** (out of 9) — *"the middle of Level 2"*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Tata Motor Company should use primary research. I believe the Tata Motor Company should use primary market research because it allows them to specifically ask certain questions they may want to know about customers preferences in a vehicle and allow them to have a better idea on how to promote its vehicles. Primary research also allows for Tata Motor Company to ask locals which are their customers as to what they want where as secondary research is perhaps done in a different country than where the y self case case usually which could result in issues because the homes customers may have different wants and needs in different places. Primary market research is up to date where as secondary research could be out dated or irrelevant. Though primary research costs much more to have to have a medium For research such as focus groups and surveys than secondary research I feel as though the benefits of primary research heavily out weigh the costs"*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response did not always clarify the points made in sufficient detail to gain the higher level. **Candidates should be aware that there are no knowledge marks allocated for this type of question and therefore comments about how the research is collected, or that secondary research could be outdated, cannot be awarded marks.***
 > *In the first paragraph the response shows a clear understanding that by using primary research Tata can get to know about their customers' preferences in vehicles. The next comment, about asking local people for their comments, is also valid and the comment that secondary research may be carried out in a different country is development. A further development point about different wants and needs in different places is also given.*
 > *If the response had developed the points further or made reference to the effect of the research and how the businesses could have used the information, it could have moved to the next level."*
@@ -424,6 +448,7 @@ Compare response A, where the confidential-information point **was** credited �
 
 *(The opening of this response falls on a page image; the recoverable text begins mid-answer.)*
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"…also helps connect different departments of Tata as they all join up to attend the programme. New staff will be more comfortable and usable with the help of his employees know once they're known to them. Thus team-work will improve & departments will function efficiently as social needs have been met as well."*
 
 **Examiner's comment (verbatim):**
@@ -436,10 +461,12 @@ Compare response A, where the confidential-information point **was** credited �
 
 ### Exemplar response B — **Level 1 – 2 marks** (out of 6)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Tata motor company has a detailed induction program is that because so their employees can get to know each other. This would make their employee feel less stressed as they know their work area and who they work with Since they are working for largest vehicle manufacturer in India they might feel stressed. So this will help them release it."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"A number of responses made reference to the staff working in the saleroom or in the manufacturing section of the business. The question was not specific as to where the staff worked, and mention of either was acceptable.*
 > *The response above referred to the staff being less stressed because they would know the work area and who they were working with. **However, none of the points made were developed**; for example, workers would be less stressed because they would already be familiar with the people they are working with, which means that they would be able to go to the right person to get the answer to a question. The comment about company policies could also be further developed. For example, that employees would be aware of the rules and regulations regarding health and safety in the workplace regardless of what part of the business they work in. Or that they might know the targets that the business is working towards so they can be aware of what they need to achieve."*
 
@@ -477,12 +504,14 @@ The examiner literally writes the upgrade for the candidate. Note the mechanism:
 
 ### Exemplar response A — **Level 2 – 8 marks** (out of 12)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Tota Motor company should consider a range of factors before it locates. The cost of land should be the first, the owners should look for a land that is cheap and safe to use. It shouldn't have any form of pollution as well as should make sure its not privately owned and to not take away the land forcefully. The resources the land has should also be seen if they are valuable e.g. raw materials stored in them he should consider taking them, cost and availability of labour should also be considered. He should be able to locate the factories in a place where it is easy to find labour and should be cheap having expensive labour means that he is paying too many additional costs and could lead to excessive costs of the business. The labour could also be chosen according to skills, if the area has poor skills it makes it difficult for the business to run effectively or they may spend too much time locating the right labour. Moreover, proximity to the market is also important and therefore the business should make sure they locate it in a place whereby they are able to easily take the finished goods to the owner to sell. If the business is too far that it will make it harder to take these goods or to supply the goods to the market. They should also consider the rate appollition flowing from these buildings and they should therefore constrain in an area whereby it is near to the market but also does not cause any harm to the environment. Transport is a major contribution and should be considered when locating. The business should choose an area whereby he could easily in a port manner withdrawn.*
 >
 > *causing damage to the products as they are coming straight from the factories, lighting, heating and other costs such as salaries and rent should be considered. Some governments keep constraints whereby higher taxes and strict regulations are put into certain areas. The business should not locate their building or factory in an area whereby they may have to pay higher taxes this will reduce the amount of revenue as well as profits that they have. To conclude, the business should be very careful when planning a place to locate their factory as it is important. Costs should be minimised and areas of high, cheap machinery as well as place where the factory is beneficial to the business. It is international the business should consider the trade barriers and language barriers. Financial incentives should also be noticed. The business should choose the best and most suitable place for their factory so they can produce well."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The response makes some very valid and relevant points, however some of them have not been developed sufficiently to move the response from Level 2 to Level 3.*
 > *There are some comments made that are irrelevant to the question and although candidates are not marked on their English ability, the response refers quite often to Tata Motor Company as 'he', which should be avoided. The comment about land being privately owned is irrelevant, as is the point that any items stored there should be kept.*
 > *The response demonstrates numerous knowledge and application points but often these are not developed or evaluated sufficiently to achieve a higher level.*
@@ -510,6 +539,7 @@ The examiner is explicit about the mechanism: *"some of them have not been **dev
 
 ### Exemplar response B — **Level 2 – 7 marks** (out of 12) — full verbatim text
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"One factor is how good the public transport is. The workers should be able to get there as fast as possible. As a result, there might be less late employees.*
 >
 > *Another factor is the social type of the region. More old people might be against building the factory. This is bad because the pollution of air would have a negative impact on them. This leads to relocation of the factory.*
@@ -522,6 +552,7 @@ The examiner is explicit about the mechanism: *"some of them have not been **dev
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response again gives lots of different reasons for where the factory should be located, but there is very limited analysis and evaluation, hence Level 2.*
 > *The comment about workers getting there fast is relevant and worthy of a mark, and further application is that they would not be late for work.*
 > *The comment about air pollution having a negative impact on the people is analysis and worthy of a mark.*
@@ -566,6 +597,7 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 
 **Examiner's opening remark (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Many of the responses that were seen for this question answered from the perspective of the business that manufactures the clothes and then gave the many benefits of Kaizen. **The question asked why Yellow might encourage its clothing manufacturers to use Kaizen, so therefore the response should be in the context of Yellow and not the manufacturer.**"*
 
 **A whole paper's worth of candidates answered about the wrong business.** The question asks why *Yellow* — the retailer — wants its *suppliers* to improve. Not why a factory benefits from Kaizen.
@@ -574,10 +606,12 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 
 ### Exemplar response A — **Level 3 – 5 marks** (out of 6)
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Yellow might encourage its clothing manufacturers to use Kaizen because Kaizen is ultimately waste with continuous improvements. The Company would like continuous improvements because this might help by decreasing costs, by decreasing labour or any other expenses. In addition this will improve the quality of the product even more which will attract customers and gain their loyalty to the business. This would left [help] Yellow by having a good brand image on the market. It will gain popularity and fame as well as that is one of the business objectives to be always improve. This might gain customers satisfaction and make the business successful on the market."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This particular response is related to the benefits of Yellow. The comments about costs decreasing as there would be less waste, and that it would improve the quality of the product, are both relevant application to the question. This is then further developed by noting that the brand image would be improved.*
 > *To have moved into the top of Level 3, the response could have included something with regard to how a benefit of using this method might be improved customer satisfaction, which could increase sales."*
 
@@ -587,10 +621,12 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 
 ### Exemplar response B — **Level 2 – 4 marks** (out of 6) — full verbatim text
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Kaizen is the continuous improvement of goods. Yellow might want its clothing manufacturers to use it since it decreases the waste made by the company which would decrease the costs the company spends. Also, customers will be happy since Yellow is continuously improving their products making them better which will lead to customer satisfaction. If customer's are satisfied with the product more people would also want to start purchasing from them which would also lead to more customers being loyal to Yellow & more people would want to buy their new products."*
 
 **Examiner's comment (verbatim):**
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"A number of candidates when answering this question gave detailed descriptions of Kaizen and how it works, and how the business uses it. **Unfortunately there were no knowledge marks available for this question**, as it asked how Yellow would encourage its clothing manufacturers to use Kaizen.*
 > *The comments made about decreasing waste and a decrease in costs for the company are application, and worthy of marks. The response then develops the comments by mentioning that if customers are satisfied they are more likely to want to purchase, and this is then further developed by the comment about customers being loyal to Yellow. **To move this response into Level 3, the candidate could have developed the comments made about customers returning to Yellow to purchase more products and telling their friends and family about the products and how good they are.** Alternatively, a comment could have been made about customer satisfaction increasing the status of Yellow as a business that provides quality products."*
 

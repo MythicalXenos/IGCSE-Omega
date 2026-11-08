@@ -69,6 +69,7 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 **Examiner comment:** *"This response is **in context** by commenting on Cadbury not wanting its employees to switch to **competitors like Lindt**."*
 
 ### ❌ 0 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"This is to improve brand image and reputation in the market, as it has lots of competition, it needs good image and reputation to attract workers to work for them and to attract customers to buy from them."*
 
 **Examiner comment:** *"This response has made **very valid comments** about there is lots of competition and Cadbury wants to maintain its reputation. **However, there is nothing that is related back to Cadbury and its workers.**"*
@@ -129,11 +130,13 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 > **Question:** Explain **one** advantage… **Many candidates misread advantage for disadvantage.**
 
 ### ✅ 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"If banks reduce their interest rates, business' Will not be giving as much money to the bank as they once did. This leads to the business saving money and instead of putting the money into the bank it can be used to help further improve their business therefore they may have more chance of Survival."*
 
 **Examiner comment:** *"The response includes the **one advantage** they they are not going to be paying the bank as much. **The development** is leading to them saving money, **which could further improve their business**."*
 
 ### ⭐ 2 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"They can pay their debts easier, as interest rates being decreased means they will have to pay less to borrow, which improves the liquidity of the business."*
 
 **Examiner comment:** *"This particular response gained **2 marks**, the comment with reference to **paying less to borrow** this is then developed which **improves the cash flow** of the business. **The comment about paying their debts easier is not developed.**"*
@@ -169,6 +172,7 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 
 ### 🏆 Level 3 — **6 marks (FULL MARKS)** — 43 words, three sentences
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Proximity to employees This is because the factory being close to employees would reduce Cadbury's costs that would be used for transport. This leads to them being able to save time that would be used in the journey, therefore, Cadbury would increase their efficiency."*
 
 **Examiner comment:** *"A well answered response, clearly identifying the two factors of location and giving justifiable reasons."*
@@ -186,6 +190,7 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 
 ### ⚠️ Level 3 — **5 marks**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A factor in opening a new factory is to locate it near its natural resources of the product the firm is producing, this causes less time to Produce the product with the firm Cadbury being really successful money limitations isn't an issue to opening new factories, Since Cadbury is a chocolate producing firm they should locate their factories in countries where cocoa seeds are highly common these."*
 
 **Examiner comment:** *"This response shows a **clear understanding** of Cadbury locating near to where its natural resources are and **it is applied by mentioning cocoa seeds**. This is then developed with the comment about less time to produce… **However, the response did not gain full marks because it lacked the logical chains of reasoning.** Perhaps the candidate could have **linked the two factors together**, by moving near to supplies might be difficult to get employees to work at the factory, or locating near to a city provides workers who have the skills."*
@@ -244,11 +249,13 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 > *"for those candidates that did not get the full allocation of marks this might be because they **gave more than one method**."*
 
 ### ⭐ 2 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A business could use job rotation to motivate its employees. Job rotation will provide a change in the workplace of its employees, as a result it could motivate them."*
 
 **Examiner comment:** *"The method of job rotation is valid and worthy of a mark, with **a justifiable reason** of giving employees a change in the workplace. **However, the response was not further developed to gain the extra mark available.**"*
 
 ### ✅ 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"A business could use non financial methods to motivate employees This means that employees will be more challenging. This leads no the employees feeling trusted and valuable no the business as a large amount of work needed for the business is from them As a result the employee will feel wanted and also the business would be increasing its productivity."*
 
 **Examiner comment:** *"This response gives a method of **Job Enrichment**, followed by **development** of employees being more challenged, together with employees feeling trusted and valued."*
@@ -271,11 +278,13 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 > **Report guidance:** *"Another 'Explain' question which requires **knowledge** and **does not need to be in context**."*
 
 ### ✅ 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"To avoid mistakes and maintain quality, this means that if call employees and trained to a standard across the business this avoids mistakes, as a result maintaining quality, leading to more satisfied customers, therefore building a qualified workforce."*
 
 **Examiner comment:** *"This response gained the full marks available. The response **avoided repeating the question in the answer** which is helpful. The reasons for fully trained staff are to **avoid mistakes, maintaining quality which leads to more satisfied customers**."*
 
 ### ✅ 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"To decrease safety risks / hazards. This is because if employees are trained they 're less likely to make less mistakes and be more safe and have safe working conditions Since they know now to do their job well. This may lead to none of the employees swing the business for unsafe working conditions meaning they 'll reduce their legal costs."*
 
 **Examiner comment:** *"The response refers to **decreased safety risks and hazards** as the reason for being fully trained. This is then further developed by **mistakes are less likely and employees will be safe**."*
@@ -287,11 +296,13 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 ## Q2(e) — EXPLAIN why manufacturers use Kaizen — AO1, 3 marks
 
 ### ✅ 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"To increase employee loyalty, this is because Kaizen is a Japanese term used to mean "continuous development"; this leads to employees feeling more valued as their opinions and suggestions are used to create improvements in the firm, there for more productive employees."*
 
 **Examiner comment:** *"A well developed response referring to **employees becoming more loyal** which is a valid reason and this is then developed by **employees opinions being valued to increase productivity**."*
 
 ### ✅ 3 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"to improve their product. This means that employees are given the chance to decide on how to improve the product since they are the ones making them. As a result businesses can continuously improve if they use Kaizen in their factories."*
 
 **Examiner comment:** *"Another well developed response indicating that **employees are involved in the decision on how to improve the manufacture of the products**."*
@@ -310,6 +321,7 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 **Three statements from the report, each decisive:**
 
 > ### 1. Justify is marked as Analyse **plus AO4**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"The '**Justify**' questions are marked in the same way as the '**Analyse**' questions which is **Levels**, but candidates now have to include '**Evaluative**' (**Assessment Objective 4**) comments."*
 >
 > ### 2. ⭐⭐⭐ YOU DO NOT HAVE TO DISCUSS BOTH OPTIONS
@@ -326,6 +338,7 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 **Examiner comment:** *"The first response has a clear understanding of what job share is and how it works, encouraging staff to work together which motivates them to work harder. **The response is mainly for the option chosen.** There are comments with regard to how job sharing affects the employee, it is less stressful and that they have the flexibility of working. **The evaluative comments about staying at Cadbury is relevant as it reduces the burden on themselves. Perhaps if the response had included more evaluative comments with regard to Cadbury and more logical chains of reasoning it could have moved into the top of Level 3.**"*
 
 ### Level 2 – 6 marks
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Working part-time will benefit employees and The business as employee has lesser working hours and business spends lesser on employee (due to working hours) so but Cadbury, in turn, can spend more on part-time workers Clarge work-force, small pay) But Cadbury can have an improved cash flow which allows them to return employees at a cheaper prize."*
 
 **Examiner comment:** *"This response chose Option 1 – part-time work and gave reasons as to why working part-time would be beneficial, the shorter hours, etc but **the negative side for Cadbury that they will have to employ more employees to ensure that the work is covered**. The response showed **sound application of knowledge, found interconnected points with chains of reasoning and some judgement was made**. Gaining the top of Level 2."*

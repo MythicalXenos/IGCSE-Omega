@@ -12,11 +12,13 @@ A deeper sweep of all four June 2025 reports recovered material the first pass m
 > **Question (6):** *"Analyse the effectiveness of the wide span of control used by Gianni Polvani."*
 
 ### ✅ Awarded **6 marks**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Gianni Polvani having a wide span of control means that **he can tell his 14 employees what he wants done and how**. This means that there is **less likely to be miscommunication or misunderstanding** between him and his employees with what he wants done regarding his **two gyms and the physical and social activities** that take part in them with the **gym members**.*
 >
 > *By having less misunderstandings due to the wide span of control, **both of the gyms are more likely to become more successful** and so the employees who are **highly trained instructors** can **better teach the gym members** what to do and help them if they don't understand something. Therefore this can lead to **the business performing more effectively** and so **the business is more likely to maintain a positive cashflow**."*
 
 **Examiner comment (verbatim):**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"6 marks awarded. The candidate has provided **1 point with developed strands**, analysing the effectiveness of the wide span of control. There is **application throughout their response**. Candidates are reminded that **there are no marks for knowledge in this question** and their response must be in the context of *Four Fitness* to access the AO2 marks."*
 
 > ## 🔬 **"ONE point with developed strands" = 6/6.**
@@ -34,6 +36,7 @@ A deeper sweep of all four June 2025 reports recovered material the first pass m
 > ⚠️ **And note the destination: a financial consequence.** Every 6/6 Analyse in the bank ends at something measurable for the business — *stock piles*, *sales*, *cashflow*, *bad reputation needing time to recover*.
 
 ### ❌ The 0-mark companion — and why
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"14 qualified instructor would lead to a good coordination as each would have a specific job, if they were less they would be shared their tasks making them to have fatigue very quickly and lose motivation."*
 > **Examiner:** *"**0 marks awarded. The candidate demonstrates no knowledge of a wide span of control.**"*
 
@@ -51,6 +54,7 @@ A deeper sweep of all four June 2025 reports recovered material the first pass m
 
 ### ✅ Awarded **9 marks**
 
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Rabanne should hold weekly meetings to improve communication amongst employees around the world either online or in person. This is because holding weekly meetings **creates & improves personal relations** between manufacturers & costume designers. Holding weekly meetings gives an opportunity for managers & manufacturers to directly communicate their opinions & problems they face. This means that **manufacturers & designers & employees feel heard & understood**. This leads to a **sense of belonging amongst designers in Rabanne**, ultimately **increasing motivation to deliver high quality perfumes & handbags** whilst **minimising miscommunication**.*
 >
 > *Rabanne should not communicate all information via email & messaging as **not every manufacturer will have the time to check their emails**. This means that **valuable pieces of information gets lost** amongst managers & manufacturers.*
@@ -126,10 +130,12 @@ Every report since 2019 has said State answers lose marks for lacking context. *
 June 2025 P1R **Q1(f)** — *Explain one benefit to the business owner of operating as a private limited company.*
 
 ### ✅ **3 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One benefit is that the owner will have a **limited liability** which means that **he isn't responsible for any debts of the business**, and therefore **won't have to sell his personal possessions to pay the debts**."*
 > **Examiner:** *"This has a **clearly identified benefit, with clear interconnected points of development**. 3 marks."*
 
 ### ⚠️ **2 marks**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"They have a **separate legal identity**. This means that **owners are only required to pay debts on the amount that they have invested** in the business."*
 > **Examiner:** *"There is a **clearly identified point, with ONE interconnected point**. 2 marks."*
 
@@ -150,6 +156,7 @@ June 2025 P1R **Q1(f)** — *Explain one benefit to the business owner of operat
 
 ### ⭐ AND PEARSON'S OWN COUNT OF THE STRUCTURE
 > **Examiner tip (verbatim), P2R Q2(e):**
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Candidates should be reminded that from the mark scheme **they can only gain 2 further marks for explaining the reason**. **Do not waste time in the examination with longer responses than necessary.**"*
 
 **So: 1 for identifying the reason, 2 for developing it. Nothing beyond that can score.** The 3-mark answer is **three sentences**. Not five.
@@ -219,6 +226,7 @@ June 2025 P1 **Q1(c)** — define **job production**:
 
 ### 3. The workings mark, restated three ways
 > *"Always show workings as a **mark is always available for correct workings even if the final answer is incorrect**."*
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"This is **a good example of why we encourage centres to remind candidates to show their working out**. Whilst this candidate has not got the final correct answer, due to their working out, **and as per the mark scheme**, they have gained 1 mark as they have **correctly substituted numbers into the formula**."*
 > *"Whilst this candidate has not got the final answer correct, due to their working out… they have gained 1 mark."*
 
@@ -231,6 +239,7 @@ June 2025 P1 **Q1(c)** — define **job production**:
 # ⭐ OTHER NEW ITEMS
 
 ### P2R Q2(d) — Analyse (6) — **5 marks**, and a warning about the stem
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Rabanne will be able to have **less wastage** when resources are used efficiently… therefore customers will feel satisfied with the quality of the perfumes & costumes. As a result this leads to **improved customer satisfaction**, further **increasing repeat sales** and **increases the profits** of the costume & perfume business."*
 > **Examiner:** *"scored **5 marks**. The candidate has identified **two reasons** — 'manage costs' and 'produce high quality packaging' — this is then linked with development to 'less wastage of materials' and 'prevent defects'. The response is in context with 'costumes and perfumes'."*
 > **Tip:** *"remember **not to simply repeat the information given**. This is to be used and **linked to the question rather than just included in a response without development**."*
@@ -239,6 +248,7 @@ June 2025 P1 **Q1(c)** — define **job production**:
 
 ### Rabanne Q3(e) — the second Justify (9) — **script obtained, mark not stated in the retrievable text**
 > **Stem:** *Option 1: increasing the number of product trials. Option 2: increasing advertising.*
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"I recommend Rabanne to choose option 2: increasing advertising. As option 1, increasing product trials, **can lose Rabanne's first mover advantage**, as its competitors like **Dior** might release products quicker than they do. And since Rabanne's customers are global, **it is very hard to gather information / comments about the perfumes that can represent the entire customer base**… Hence increasing advertising is enough.*
 > *Increasing advertisements can increase exposure to the general public, as **aftershaves is suitable for the general male population and perfume is suitable for female population**… This means they can **dominate the market** by having more exposure than its competitor…"*
 
@@ -252,6 +262,7 @@ June 2025 P1 **Q1(c)** — define **job production**:
 **Two requirements, both checkable:** *all paragraphs* · *different routes each time*.
 
 ### ⭐ Starbucks Q3(d) — the Level 1 that names a reason but stops
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Starbucks wants to promote its existing employees as a **reward and thanks** for working at Starbucks. It also **motivates** the employees to work hard for the promotion."*
 > **Examiner:** *"This is a **level 1** response… an example of where a candidate **fails to develop their answer to show causes and consequence**, ie **why will it motivate and what is the consequence to Starbucks of motivating staff by rewarding them?**"*
 
@@ -259,16 +270,19 @@ June 2025 P1 **Q1(c)** — define **job production**:
 > **"Why?" and "So what happens to the business?"** — applied twice, this is the difference between Level 1 and Level 3.
 
 ### ⭐ Starbucks Q3(e) — the priced-5-mark one-sided Justify
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Opening coffee shops in supermarkets will has many advantages… **Overall I believe** putting coffee shops in the supermarkets will encourage more people to come in and buy something so this will mean more profit for the company."*
 > **Examiner:** *"This is a **level 2** response, awarded **5 marks**, which showed **good knowledge in the context of Starbucks**. However, **it is a one sided argument and fails to provide a balanced assessment**."*
 
 ⚠️ **This is the single most instructive calibration in the series.** It has context, it has chains, it reaches a conclusion — and it is capped at 5/9 by **one missing element: the drawback of the alternative.** *"Fails to provide a balanced assessment."*
 
 ### ⭐ Starbucks Q4(b) — context and chains are BOTH required
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"When Starbucks interview its candidates they understand the candidate better. They might be able to understand exactly what the candidates know and don't know. Also when you interview they, they might be more transparent and clear. This helps Starbucks better understand if the candidate is right for the job or not."*
 > **Examiner:** *"This response **tried to cover many different points but lacks developed chains of reasoning**. It also **lacks any context**, so it was awarded **level 2** marks."*
 
 ### ⭐ Four Fitness Q2(c) — TQM and the missing third mark
+> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"One advantage is it **reduces waste**. Checking products along the production line means less waste because they don't have to throw away any products like if they did quality checks at the end."*
 > **Examiner:** *"**2 marks awarded.** Advantage: reduces waste… **No further development of this point so third mark not awarded.**"*
 > **And on the cohort:** *"it was **rare to see candidates refer to quality control, quality assurance or other forms of TQM**."*

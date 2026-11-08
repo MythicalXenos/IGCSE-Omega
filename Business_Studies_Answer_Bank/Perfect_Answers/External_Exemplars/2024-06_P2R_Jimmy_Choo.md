@@ -15,10 +15,13 @@
 
 ## THE REPORT'S OWN INTRODUCTION — four standing rules, in Pearson's words
 
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Candidates appear to have found this paper accessible and were able to complete the paper in the given time allowed… However, as mentioned in previous series there are still a large number of candidates who are still having difficulty with the **'State' and 'Outline' questions. The answer to these questions must be related to the scenario together with ensuring that they do not use phrases within the question as part of their answer.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It is important that candidates read the question at least twice before attempting it… **If the question is on 'Analysis' then giving detailed knowledge is not going to gain the marks available.** It is worth referring back to the specification as to what is required for each type of question, **e.g. a 'Justify' question is looking for application of information, analysis and evaluation.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Another point to remember is that **questions can be taken from any part of the specification**, therefore candidates should ensure that all sections are covered so that they do not disadvantage themselves. From some of the responses seen, it appeared that some candidates had not covered the full specification."*
 
 ---
@@ -96,16 +99,19 @@
 **Cohort:** *"'Analyse'… tests two of the Assessment Objectives… **Application (AO2) and Analysis (AO3)** and a total of 6 marks… **Examiners will look at the response 'holistically'**, has the candidate applied their knowledge to the question and have they analysed the information. They will then make a decision as to where the response **'best fits'** into the Levels. **Candidates must be aware that their response must be in the context of the scenario.**"*
 
 ### **Level 2 — 5 marks**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Another problem for Jimmy Choo is that the customers may start to spread negative reviews with one another. If they are not satisfied with the quality of the trainers it leads to them increasing negative word of mouth advertising. This will deter potential customers from purchasing the shoes by Jimmy Choo and therefore decrease the brand image of the clothing firm, therefore negatively affecting the popularity and high-status of Jimmy Choo."*
 
 **Examiner comment:** *"From the response the candidate has clearly given **two** problems for Jimmy Choo if customers are not satisfied, by going to a competitor or giving negative reviews. **The comments on going to a competitor are not as detailed and justified.** Level 2 – 5 marks"*
 
 ### **Level 2 — 3 marks**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It the need of customer are not satisfied the customer may leave Jimmy chod Need is the baset first and most needed things of the customer if the first thing can't done how can the customer get what the want"*
 
 **Examiner comment:** *"This response is **very limited in its application and analysis of both problems**. Level 2 – 3 marks"*
 
 > ### ⭐ **ResultsPlus EXAMINER TIP — printed with the 3-mark script**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Recognise what 'Assessment objectives' each command word is designed to test. **This particular question is testing AO2 (Application) and AO3 (Analysis) — unless there is evidence of both these within the response the score would be limited.**"*
 
 ⭐ **The 5-mark is the instructive one: it gains the top Level-2 mark *because one of its two problems is developed and the other is not*.** ⚠️ **The examiner does not ask for two developed problems — he asks for the answer that is *stronger*, and docks the weaker half.** Note also **the 5-mark script is 62 words** — **shorter than the 1-mark scripts on Q1(f).** **Length continues to be a non-variable in this tier.**
@@ -180,13 +186,16 @@
 ## Q2(f) — JUSTIFY (casual vs part-time employees) — **9 marks** · **Level 3 – 8** and **Level 2 – 5**
 
 **Cohort and rule statements, verbatim:**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The first question where candidates have to choose between two options… **Candidates should avoid giving detailed knowledge about both options as there is no AO1, Knowledge marks.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"The 'Justify' questions are **marked in the same way as the 'Analyse' questions**. **Candidates do not have to consider both options in their response. Full marks can be achieved by considering only one.**"*
 >
 > *"**Most candidates achieved a Level 2 mark** for this question."*
 
 ### **Level 3 — 8 marks**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Jimmy Choo should choose Option 1 which is casual employees. The reason of choosing casual employees is more suitable for Jimmy Choo because it only need some times in the year when production of its shoes, perfume, clothing and wedding outfits. By calling casual employees, Jimmy Cho will need to give lower wages than other types of workers. So, Jimmy Cho can have less expense and it will get higher profit in the year. In addition, Jimmy Choo do not need to wait for the employee to apply for the jobs and casual employees and cost can call easily. This could lead Jimmy Choo to lower the recruitment cost and less expenses in the However, Jimmy Choo need to train its casual employees to get high standard products. If it is not, Jimmy Choo cannot maintain it awards such as 'Designers of the Year' and 'Ace brand of the year'. So, it will get bad reputation between other multinational companies and in the fashion industry. Because of the bad reputation, people will not buy its product and it will get lower revenue. If the employees are well trained, the Option I would be the best for Jimmy Choo."*
 
 **Examiner comment:** *"This response has a clear understanding of the options of casual employees and part-time employees and how they could affect the manufacturing of Jimmy Choo products. Relevant comments about casual employees are made which are then **developed showing application of knowledge and understanding with interconnected points and chains of reasoning.** Level 3 – 8 marks"*
@@ -195,6 +204,7 @@
 > *"**Candidates should be encouraged to give effective conclusions when answering a 'Justify' question. It could allow them to gain the AO4 marks available.**"*
 
 ### **Level 2 — 5 marks**
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"At times where Jimmy Chod's might require additional employees, casual employees are suitable. This is because they can be called to work whenever they are required which gives them a more flexible work schedule and gives JC more flexibility with their work force. Furthermore, when there is no requirement of the workers they can be layed off very quickly. This will result in lower costs for Jimmy as he will only need to pay the workers for only the amount of time they worked. However, due to the flexibility, the casual employees can easily become redundant. Furthermore, Jimmy Chod's may not retain as many employees as part time due to them looking for other work in new jobs. However, part time workers are required to be paid for the work they did even when the additional employees were not required. In my opinion, Jimmy Chod must use casual employees for additional work because they can be called and are ready to work any time."*
 
 **Examiner comment:** *"The response gives a **sound application of knowledge and understanding** of casual employees, but **does not develop the points and provide justification to move it into Level 3.** Level 2 – 5 marks"*
@@ -327,6 +337,7 @@
 
 > *"**Avoid repeating the question in the first line of their response** – it takes up space and also wastes valuable time."*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Ensure that when the completing the calculation questions **all working out is included in the space provided and that the final answer is written on the dotted line at the bottom of the box. Check the question carefully before finally answering – what is it asking? two decimal points, or currency.**"*
 >
 > *"Check that 'State' and 'Outline' questions **include information from the scenario and not just repeating the information in the question.**"*
@@ -335,6 +346,7 @@
 >
 > *"**The two 'Justify' questions do not require consideration of both options, but evaluative comments on both options is acceptable.**"*
 >
+> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**All questions are marked to the Assessment Objectives (AO's)** it is worth checking the first word of the question to ensure you know what AO's are being asked, **e.g. 'Explain' is AO1 Knowledge, 'Analyse' is AO2 and AO3 which is Application and Analysis.**"*
 
 ⭐ **Six bullets, and every one of them is a rule this bank had already derived from other reports — the value here is that Pearson states all six in one place, for one paper.** ⚠️ **The fourth bullet is the one to read carefully: the report recommends linking words (*thus · therefore · because*) — but bank rules 63 and 97 recorded that connectives ALONE are not analysis.** **Neither statement contradicts the other: the linking words *expand* a comment that already carries a mechanism; they do not supply one.**

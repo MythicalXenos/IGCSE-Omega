@@ -225,3 +225,50 @@ handled (look above the picture; walk forward to the next page, stopping at the 
 heading). The 42 that remain unpaired are booklets, not failures.
 
 **The rule this repeats:** a tool that reports a gap where there is none is worse than no tool.
+
+---
+
+## D13 — every script quote in the bank was presented as if it came from the report's text
+
+**Severity: high — this is the bank's own labelling rule, broken 352 times. Status: FIXED 12 November 2026.**
+
+Pearson prints each marked script as an **image**. The report's text layer carries the examiner's
+commentary and, usually, the question — **not the candidate's answer**. So a quote from a script is
+almost always a **transcription**, and the bank's rule (in `00_Pearson_Official_Rulebook.md`) says a
+transcription must say so. **Two quotes in the entire bank said so.**
+
+`audits/audit_quotes_vs_textlayer.py` was rewritten to attribute each quote to the report it belongs
+to by walking the file for the last citation line, rather than skipping any file that quotes more
+than one report. Before the rewrite it **skipped 20 of the 20 consolidated files**, including
+`02_Verified_Exemplars.md` and `10_Chain_Bank.md` — the two files holding most of the bank's long
+quotes. Its "0 unsupported" result was therefore vacuous.
+
+**What the fixed tool found, at 25+ words:**
+
+| Where the quote's words actually are | Quotes |
+|---|---|
+| in the held report's text layer (checked, ~100% of 6-word runs found) | the majority |
+| **not** in the text layer, report held → script image | **133, now labelled** |
+| **not** in the text layer, report **not held** in text form at all | **241, now labelled** |
+| quote sits above any line naming a session and paper | 45, **not checked** |
+| files that are not script banks (library, rulebook, tally) | excluded |
+
+Two labels are used, and they say different things:
+
+* `[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]`
+* `[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]`
+
+**The second label is not a clean bill of health.** It says the bank cannot prove the quote in this
+repo. The sessions affected are **June 2019, June 2020, November 2020, June 2022 Paper 2, November
+2021, November 2023, November 2024 and June 2024 Paper 2R** — all cited in the bank, none held as
+text. Verification of those needs the printed page, not a grep.
+
+**Verified by eye while fixing this:** the Cadbury 0-mark quote (`2022-06_P2R_Cadbury.md`, Q1(d),
+p. 8 of `4BS1_02R_2206_ER_full.pdf`) matches the handwriting word for word, including
+*"reputation"*, which reads ambiguously in the scan. The transcription was sound; the **label** was
+what was missing. That distinction matters — the defect was provenance, not accuracy.
+
+**One false alarm found and removed while doing this:** attributing quotes by any prose mention of a
+month pulled 23 quotes from `06_External_Source_Library.md` (news articles, not scripts) into a
+Pearson report and reported them as unsupported. Attribution now accepts only citation-shaped lines,
+and the non-script files are excluded.
