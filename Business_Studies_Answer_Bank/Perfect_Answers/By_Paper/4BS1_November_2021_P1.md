@@ -172,7 +172,7 @@ to make decisions for the business (1).
 
 *NB Answers that list three measures of success*
 
-with no explanation will get a maximum of 1
+with no explanation will get a maximum of 1 mark
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
@@ -396,7 +396,7 @@ likely to be made (1).
 
 *NB Answers that list three benefits of using TQM*
 
-with no explanation will get a maximum of 1
+with no explanation will get a maximum of 1 mark
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)

@@ -425,7 +425,7 @@ the game console
 
 *NB No marks are awarded for a definition.*
 
-Answers that list three reasons with no explanation will get 1
+Answers that list three reasons with no explanation will get 1 mark
 
 
 ### `2(e)` — 3 marks (AO1:3)

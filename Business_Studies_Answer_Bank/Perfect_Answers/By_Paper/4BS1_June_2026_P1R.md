@@ -448,7 +448,7 @@ higher sales
 
 Answers that list three reasons why a business would
 
-segment the market by income with no explanation will get 1
+segment the market by income with no explanation will get 1 mark
 
 
 ### `2(e)` — 3 marks (AO1:3)

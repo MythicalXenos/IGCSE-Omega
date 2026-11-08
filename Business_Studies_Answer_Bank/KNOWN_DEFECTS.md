@@ -319,3 +319,27 @@ did not. Where the scheme is silent, nothing is inserted.
 The words next to the letter are the paper's, not the scheme's. That is a deliberate mix: **the
 letter is Pearson's, the wording is Pearson's, but the pairing is done here**, so the line is
 labelled as a *credited option* rather than as a quotation.
+
+---
+
+## D15 — 19 mark-scheme answers stopped mid-sentence at the column edge
+
+**Severity: medium. Status: FIXED 12 November 2026.**
+
+The By_Paper files were built from a text index of the mark schemes, and the index drops a
+sentence's tail when it crosses a column edge. The stored answer read:
+
+> *"Award 1 mark for identifying one reason why IKEA would read government reports, plus 1 further
+> mark for linking it to the context of the"*
+
+The PDF continues *"question."*, and elsewhere the lost word is *"mark"* (*"…will get 1"* should be
+*"…will get 1 mark"*). `audits/repair_truncated_answers.py` finds each cut by its last six words in
+the real mark-scheme PDF and appends what follows, to the end of that sentence — **19 items, 6 of
+them missing only the word "mark"**.
+
+**Guards, because this is exactly the class of edit that invents text:** the cut phrase must occur
+**exactly once** in the paper's mark scheme; the edited line must be the **last** line of its
+answer; the appended text is capped at 220 characters; and the extension stops at the scheme's own
+`(1) Question Number` row marker so it cannot swallow the next question. Nine further candidates
+were left alone and reported rather than guessed — one of them (*"worked out revenue instead of
+marks for"*) is corrupted in a way that cannot be repaired from the tail.

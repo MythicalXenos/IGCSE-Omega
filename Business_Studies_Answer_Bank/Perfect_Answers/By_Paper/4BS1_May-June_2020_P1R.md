@@ -619,7 +619,7 @@ A02 = 2 marks
 
 of customer satisfaction are important to Loaf, plus 1
 
-further mark for linking it to the context of the
+further mark for linking it to the context of the question.
 
 
 ### `3(c)` — 2 marks (AO2:2)

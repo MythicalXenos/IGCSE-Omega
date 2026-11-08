@@ -429,7 +429,7 @@ efficiency
 
 *NB No marks are awarded for a definition.*
 
-Answers that list three advantages with no explanation will get 1
+Answers that list three advantages with no explanation will get 1 mark
 
 
 ### `2(d)` — 3 marks (AO1:3)
@@ -460,7 +460,7 @@ workplace
 
 *NB No marks are awarded for a definition.*
 
-Answers that list three advantages with no explanation will get 1
+Answers that list three advantages with no explanation will get 1 mark
 
 
 ### `2(e)` — 3 marks (AO1:3)
@@ -491,7 +491,7 @@ less personal income (1).
 
 *NB No marks are awarded for a definition.*
 
-Answers that list three disadvantages with no explanation will get 1
+Answers that list three disadvantages with no explanation will get 1 mark
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)

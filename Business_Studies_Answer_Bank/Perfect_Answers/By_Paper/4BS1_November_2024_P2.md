@@ -34,7 +34,7 @@ B – is not the correct answer as total costs and
 
 fixed costs would not break-even
 
-C – is not the correct answer as fixed costs and
+C – is not the correct answer as fixed costs and total revenue would not break-even
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)

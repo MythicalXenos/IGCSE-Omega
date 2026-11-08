@@ -414,7 +414,7 @@ maximise the amount they can produce per hour
 
 Answers that list three reasons why businesses ensure that
 
-its employees are fully trained, with no explanation will get 1
+its employees are fully trained, with no explanation will get 1 mark
 
 
 ### `2(e)` — 3 marks (AO1:3)

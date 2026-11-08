@@ -268,7 +268,7 @@ no guarantee they are trained efficiently
 
 *NB No marks are awarded for a definition.*
 
-Answers that list three disadvantages with no explanation will get 1
+Answers that list three disadvantages with no explanation will get 1 mark
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
@@ -629,7 +629,7 @@ of the business.
 - It provides increased access to potential workers (1) to serve as
 baristas in the shop
 
-*NB Award a maximum of 1 mark if there is no context anywhere in the*
+*NB Award a maximum of 1 mark if there is no context anywhere in the answer.*
 
 
 ### `3(c)` — 2 marks (AO2:2)

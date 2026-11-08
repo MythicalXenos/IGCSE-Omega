@@ -409,7 +409,7 @@ one country to another country
 
 Answers that list three advantages to a country being a member
 
-of a trading bloc, with no explanation will get a maximum of 1
+of a trading bloc, with no explanation will get a maximum of 1 mark
 
 
 ### `2(d)` — 3 marks (AO1:3)
