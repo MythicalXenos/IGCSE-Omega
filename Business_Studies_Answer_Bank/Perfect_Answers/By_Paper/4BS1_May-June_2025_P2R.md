@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a variable cost?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -34,6 +36,8 @@ employee legislation?
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a type of discrimination protected by employee legislation?
 
 **Official mark scheme answer:**
 
@@ -60,6 +64,8 @@ promotional discount?
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is the price of buying both items with the promotional discount?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -82,6 +88,8 @@ research?
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an advantage of primary market research?
 
 **Official mark scheme answer:**
 
@@ -108,6 +116,8 @@ Q. No.   Which one of the following is the closing balance for this month?   Mar
 
 ### `1(a)(v)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is the closing balance for this month?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -133,6 +143,8 @@ American businesses?
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a likely effect of this change for American businesses?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -156,6 +168,8 @@ Q. No.   Define the term autonomy.   Mark
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term autonomy.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -170,6 +184,8 @@ Q. No.   Define the term qualitative data.   Mark
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term qualitative data.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -183,6 +199,8 @@ introducing a new product.
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason why Rabanne may use test marketing when introducing a new product.
 
 **Official mark scheme answer:**
 
@@ -213,6 +231,8 @@ working.
 
 ### `1(e)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the price of the handbag in US dollars. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -235,6 +255,8 @@ with an employee.
 
 
 ### `1(f)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why an employer might use a letter to communicate with an employee.
 
 **Official mark scheme answer:**
 
@@ -266,6 +288,8 @@ Q. No.   Analyse two benefits to Rabanne of being a global business.   Mark
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse two benefits to Rabanne of being a global business.
 
 **Official mark scheme answer:**
 
@@ -325,6 +349,8 @@ enrichment opportunities.
 
 ### `2(a)` — 1 mark (AO2:1)
 
+**Question:** State one reason why Rabanne ensures that all its employees have job enrichment opportunities.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -348,6 +374,8 @@ Q. No.   State one way Rabanne could measure its success as a business.   Mark
 
 ### `2(b)` — 1 mark (AO2:1)
 
+**Question:** State one way Rabanne could measure its success as a business.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -370,6 +398,8 @@ Q. No.   Explain one reason why some businesses fail.   Mark
 
 
 ### `2(c)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why some businesses fail.
 
 **Official mark scheme answer:**
 
@@ -399,6 +429,8 @@ online to promote itself.
 
 
 ### `2(d)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why a business would use targeted advertising online to promote itself.
 
 **Official mark scheme answer:**
 
@@ -432,6 +464,8 @@ income when making decisions.
 
 
 ### `2(e)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why businesses use statements of comprehensive income when making decisions.
 
 **Official mark scheme answer:**
 
@@ -471,6 +505,9 @@ Justify which one of these two options Rabanne should choose.
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Rabanne should choose.  
+**Options:** Option 1 · communicate all information through text messaging/email · Option 2 · hold weekly meetings.
 
 **Official mark scheme answer:**
 
@@ -558,6 +595,8 @@ Q. No.   Define the term just-in-time (JIT).   Mark
 
 ### `3(a)` — 1 mark (AO1:1)
 
+**Question:** Define the term just-in-time (JIT).
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -573,6 +612,8 @@ job vacancies.
 
 
 ### `3(b)` — 2 marks (AO2:2)
+
+**Question:** Outline one reason why Rabanne uses different methods to advertise job vacancies.
 
 **Official mark scheme answer:**
 
@@ -602,6 +643,8 @@ workings.
 
 ### `3(c)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the percentage decrease in current assets. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -622,6 +665,8 @@ Q. No.   Analyse the importance for Rabanne of using its resources effectively. 
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the importance for Rabanne of using its resources effectively.
 
 **Official mark scheme answer:**
 
@@ -674,6 +719,9 @@ Justify which one of these two options Rabanne should choose.
 
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Rabanne should choose.  
+**Options:** Option 1 · increasing the number of product trials · Option 2 · increasing advertising.
 
 **Official mark scheme answer:**
 
@@ -765,6 +813,8 @@ workings.
 
 ### `4(a)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the commission a sales assistant would earn if they have sold goods valued at £850. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -787,6 +837,8 @@ products.
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the benefits to Rabanne of using robotics to manufacture its products.
 
 **Official mark scheme answer:**
 
@@ -841,6 +893,8 @@ as well as your own knowledge of business.
 
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
+
+**Question:** Evaluate the effect for Rabanne of working hard to maintain and improve its public relations. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

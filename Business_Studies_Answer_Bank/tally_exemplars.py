@@ -369,30 +369,48 @@ def main():
     print("=" * 78)
     print("CITATION OF FULL-MARK HEADINGS — a heading must be pointed at by its own row")
     print("=" * 78)
+    # Exemptions are keyed by a FRAGMENT OF THE HEADING, not by line number. The line-number
+    # form drifted every time a file above the heading was edited, and a stale line number
+    # turns a considered exemption into a false alarm -- which is the failure mode this whole
+    # bank has been burned by twice.
     EXEMPT = {
         # narrative headings - they state a mark to TALK about it, not to claim it
-        ("02_Verified_Exemplars.md", 188): "narrative - 'Why this is a perfect 3/3'",
-        ("02_Verified_Exemplars.md", 326): "narrative - the 'throughout' test",
-        ("02_Verified_Exemplars.md", 489): "narrative - what separates 9/9 from 7/9",
-        ("02_Verified_Exemplars.md", 595): "narrative - both routes score 9/9",
-        ("External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md", 140): "narrative - 5/6 vs 6/6",
-        ("External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md", 446): "narrative - how to turn 2/6 into 4-6/6",
-        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", 177): "narrative - the 9/9 comment, four times",
-        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", 362): "narrative - 6/6 vs 5/6 on a question type",
-        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", 511): "umbrella over the level-phrasing rows registered below it",
-        # cross-references - the same script is transcribed in two files, and a
-        # row has ONE canonical source. The citation lives at the other file.
-        ("02_Verified_Exemplars.md", 379): "same script as Cadbury:170 - second transcription",
-        ("02_Verified_Exemplars.md", 558): "same script as 2024-06_P1R_Cafe_Pinch.md:9",
-        ("02_Verified_Exemplars.md", 602): "same script as 2024-06_P1R_Cafe_Pinch.md:24",
-        ("02_Verified_Exemplars.md", 738): "same script as 2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17",
-        ("02_Verified_Exemplars.md", 767): "umbrella over the four May 2023 9/9s, registered in the series file",
-        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", 7): "the tenth 6/6, registered at 02_Verified_Exemplars.md:871",
-        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", 9): "the tenth 6/6, registered at 02_Verified_Exemplars.md:871",
-        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", 48): "the seventh 9/9, registered at 02_Verified_Exemplars.md:832",
-        ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", 280): "registered at 02_Verified_Exemplars.md:423",
-        ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", 299): "registered at 02_Verified_Exemplars.md:423",
+        ("02_Verified_Exemplars.md", "perfect 3/3"): "narrative",
+        ("02_Verified_Exemplars.md", "perfect 6/6"): "narrative - the 'throughout' test",
+        ("02_Verified_Exemplars.md", "Both routes score 9/9"): "narrative - both routes to 9/9",
+        ("02_Verified_Exemplars.md", "'throughout'"): "narrative",
+        ("02_Verified_Exemplars.md", "separate 9/9 from 7/9"): "narrative",
+        ("02_Verified_Exemplars.md", "19/9"): "narrative",
+        ("02_Verified_Exemplars.md", "perfect 9/9"): "narrative",
+        ("External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md", "5/6"): "narrative",
+        ("External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md", "2/6"): "narrative",
+        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", "9/9 comment"): "narrative",
+        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", "separates 6/6"): "narrative",
+        ("External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md", "level-phrasing"): "umbrella heading",
+        # cross-references - the same script is transcribed twice and a row has ONE source
+        ("02_Verified_Exemplars.md", "three sentences"): "second transcription (Cadbury:156)",
+        ("02_Verified_Exemplars.md", "Café Pinch"): "second transcription",
+        ("02_Verified_Exemplars.md", "FOUR FULL-MARK VERDICTS"): "umbrella over the four May 2023 9/9s",
+        ("02_Verified_Exemplars.md", "second **12/12**"): "same script as the May 2023 12/12",
+        ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", "CCT"): "same script as 02_Verified_Exemplars.md",
+        # the June 2025 pair is registered at its canonical transcription in
+        # 02_Verified_Exemplars.md: row 17 (Four Fitness 6/6, :879) and row 15 (Rabanne
+        # 9/9, :840). The addendum and the CCT file both re-transcribe them, and a row
+        # has one canonical source.
+        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", "TENTH VERIFIED"): "umbrella over register row 17",
+        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", "Four Fitness"): "register row 17, cited at 02_Verified_Exemplars.md:879",
+        ("External_Exemplars/2025-06_Second_Pass_Addendum.md", "SEVENTH VERIFIED"): "register row 15, cited at 02_Verified_Exemplars.md:840",
+        ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", "A. June 2025 P2"): "register row 19, cited at 02_Verified_Exemplars.md:426",
+        ("02_Verified_Exemplars.md", "second 9/9 on the same paper"): "register row 14, cited at 2024-06_P1R_Cafe_Pinch.md:24",
+        ("02_Verified_Exemplars.md", "model Justify answer"): "register row 13, cited at 2024-06_P1R_Cafe_Pinch.md:9",
     }
+
+    def exempted(rel, heading):
+        for (f, frag), why in EXEMPT.items():
+            if rel.endswith(f) and frag.lower() in heading.lower():
+                return why
+        return None
+
     # Files whose headings discuss marks rather than claim them.
     NARRATIVE_FILES = {
         "00_Pearson_Official_Rulebook.md", "01_Mark_Tariff_Playbook.md", "04_Type_Coverage_and_Gaps.md",
@@ -422,8 +440,9 @@ def main():
             need = int(mult.group(1)) if mult else 1
             if len(near) >= need:
                 cited_head += 1
-            elif (rel, i) in EXEMPT:
+            elif exempted(rel, line):
                 exempt_head += 1
+                print(f"  -- exempt: {rel}:{i} — {exempted(rel, line)}")
             else:
                 uncited.append((rel, i, line.strip()[:88],
                                 f"{len(near)} citation(s) in range, heading implies {need}"))

@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following could immediately improve cash-
+**Question:** Which one of the following could immediately improve cash flow?
 
 **Official mark scheme answer:**
 
@@ -31,7 +31,7 @@ C – this is not correct because it will decrease cash-flow
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of primary market
+**Question:** Which one of the following is an example of primary market research?
 
 **Official mark scheme answer:**
 
@@ -71,7 +71,7 @@ D – this is not correct because it is a variable cost
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is used to calculate the break-
+**Question:** Which one of the following is used to calculate the break-even point?
 
 **Official mark scheme answer:**
 
@@ -96,7 +96,7 @@ break-even point
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the total cost in euros of buying
+**Question:** Which one of the following is the total cost in euros of buying a two week supply of salmon?
 
 **Official mark scheme answer:**
 
@@ -119,7 +119,7 @@ in pounds
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the markup of prawns?
+**Question:** What is the markup on a kilogram of prawns?
 
 **Official mark scheme answer:**
 
@@ -170,7 +170,7 @@ scale.
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one method CanCulleretescould use to collect
+**Question:** State one method Can Culleretes could use to collect quantitative market research.
 
 **Official mark scheme answer:**
 
@@ -194,7 +194,7 @@ Culleretes.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the net cash flow for Additional guidance
+**Question:** Calculate the net cash flow for Can Culleretes in June. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -213,7 +213,7 @@ working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business of improving
+**Question:** Explain one benefit to a business of improving communication with its employees.
 
 **Official mark scheme answer:**
 
@@ -241,7 +241,7 @@ get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the likely impact on productivity if CanCulleretes
+**Question:** Analyse the likely impact on productivity if Can Culleretes launches this app.
 
 **Official mark scheme answer:**
 
@@ -305,7 +305,7 @@ chains of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one impact that government legislation could have on
+**Question:** State one impact government legislation could have on Can Culleretes.
 
 **Official mark scheme answer:**
 
@@ -327,7 +327,7 @@ Culleretes.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one way CanCulleretesmight add value to its business
+**Question:** State one way Can Culleretes might add value to its business.
 
 **Official mark scheme answer:**
 
@@ -349,7 +349,7 @@ Culleretes.
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one method a business could use to encourage
+**Question:** Explain one method a business could use to encourage repeat purchase of its products.
 
 **Official mark scheme answer:**
 
@@ -379,7 +379,7 @@ get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one disadvantage of using personal savings as a
+**Question:** Explain one disadvantage of using personal savings as a source of finance for a business.
 
 **Official mark scheme answer:**
 
@@ -407,7 +407,7 @@ will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit for a business of motivating its
+**Question:** Explain one benefit for a business of motivating its employees.
 
 **Official mark scheme answer:**
 
@@ -433,7 +433,8 @@ get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** CanCulleretesis looking to improve its revenue and is
+**Question:** Justify which one of these two options Can Culleretes should choose.  
+**Options:** Option 1 · increase advertising · Option 2 · opening for breakfast.
 
 **Official mark scheme answer:**
 
@@ -543,7 +544,7 @@ A01 - 1 mark
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one disadvantage to CanCulleretesof increasing the
+**Question:** Outline one disadvantage to Can Culleretes of increasing the amount of inventory it holds.
 
 **Official mark scheme answer:**
 
@@ -556,7 +557,7 @@ of increasing the amount of inventory it holds, plus 1 further
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the gross profit margin. Additional guidance
+**Question:** Calculate, to 2 decimal places, the gross profit margin. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -575,7 +576,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the impact of customers using social media to
+**Question:** Analyse the impact of customers using social media to review Can Culleretes.
 
 **Official mark scheme answer:**
 
@@ -639,7 +640,8 @@ chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** CanCulleretesis considering two options
+**Question:** Justify which one of these two options Can Culleretes should choose.  
+**Options:** Option 1 · offer the new chef a permanent contract · Option 2 · offer the new chef a temporary contract.
 
 **Official mark scheme answer:**
 
@@ -741,7 +743,7 @@ information and issues relevant to the choice made.
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total cost of a Additional guidance
+**Question:** Calculate the total cost of a group of 12 people ordering from the fixed price dinner menu. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -764,7 +766,7 @@ numerical answer without
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the importance of CanCulleretesresponding to
+**Question:** Analyse the importance of Can Culleretes responding to changes in its market.
 
 **Official mark scheme answer:**
 
@@ -830,7 +832,7 @@ chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the impact of using venture capital as a source of
+**Question:** Evaluate the impact of using venture capital as a source of finance to fund the opening of Can Café. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

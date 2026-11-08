@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a role within the
+**Question:** Which one of the following is a role within the marketing function?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ is a role in the human resources function
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of a
+**Question:** Which one of the following is an example of a non-financial method of motivation?
 
 **Official mark scheme answer:**
 
@@ -58,7 +58,7 @@ financial methods of motivation
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of a
+**Question:** Which one of the following is a phase of the product life cycle?
 
 **Official mark scheme answer:**
 
@@ -81,7 +81,7 @@ the Boston matrix
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of a public
+**Question:** Which one of the following is an example of a public service provided by the government?
 
 **Official mark scheme answer:**
 
@@ -104,7 +104,7 @@ not a public service
 
 ### `1(a)(v)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the interest charged by
+**Question:** Which one of the following is the interest charged by the bank on an overdraft of €1 400?
 
 **Official mark scheme answer:**
 
@@ -127,7 +127,7 @@ plus 12%
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the percentage
+**Question:** Which one of the following is the percentage change in the total costs between 2022 and 2023?
 
 **Official mark scheme answer:**
 
@@ -180,7 +180,7 @@ shareholder.
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one benefit to Ocean Vibes of using
+**Question:** State one benefit to Ocean Vibes of using competition pricing.
 
 **Official mark scheme answer:**
 
@@ -202,7 +202,7 @@ of Ocean Vibes
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the price of the boat tour in UK pounds (£)
+**Question:** Calculate the price of a boat tour in UK pounds (£). You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -221,7 +221,7 @@ OR
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to an individual of being a
+**Question:** Explain one advantage to an individual of being a sole trader.
 
 **Official mark scheme answer:**
 
@@ -262,7 +262,7 @@ maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why Ocean Vibes should measure
+**Question:** Analyse why Ocean Vibes should measure employee satisfaction.
 
 **Official mark scheme answer:**
 
@@ -363,7 +363,7 @@ context of Ocean Vibes
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one method of primary research Ocean
+**Question:** State one method of primary research Ocean Vibes may use.
 
 **Official mark scheme answer:**
 
@@ -384,7 +384,7 @@ context of Ocean Vibes
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to a business of having
+**Question:** Explain one advantage to a business of having high market share.
 
 **Official mark scheme answer:**
 
@@ -427,7 +427,7 @@ will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to a business of using e-
+**Question:** Explain one advantage to a business of using e-commerce to sell its products.
 
 **Official mark scheme answer:**
 
@@ -470,7 +470,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why shareholders would be
+**Question:** Explain one reason why shareholders would be interested in the financial documents of a business.
 
 **Official mark scheme answer:**
 
@@ -519,7 +519,8 @@ will get a maximum of 1 mark
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** The owners of Ocean Vibes plan to grow the business
+**Question:** Justify which one of these two options the owners of Ocean Vibes should choose.  
+**Options:** Option 1 · venture capital · Option 2 · loan capital.
 
 **Official mark scheme answer:**
 
@@ -661,7 +662,7 @@ controls (1)
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one way Ocean Vibes may promote its
+**Question:** Outline one way Ocean Vibes may promote its business.
 
 **Official mark scheme answer:**
 
@@ -692,7 +693,7 @@ points and evidence of application.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the return on capital employed
+**Question:** Calculate the return on capital employed (ROCE). You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -711,7 +712,7 @@ OR
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the advantages to Ocean Vibes of using
+**Question:** Analyse the advantages to Ocean Vibes of using on-the-job training for new workers.
 
 **Official mark scheme answer:**
 
@@ -793,7 +794,8 @@ of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: Employ part-time tour guides instead of
+**Question:** Justify which one of these two options the owners of Ocean Vibes should choose to increase their profit.  
+**Options:** Option 1 · employ part-time tour guides instead of full-time tour guides · Option 2 · reduce the rate of commission paid to its sales team.
 
 **Official mark scheme answer:**
 
@@ -915,7 +917,7 @@ issues relevant to the choice made
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal places, the new
+**Question:** Calculate, to two decimal places, the new monthly minimum wage after an increase of 3.6%. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -936,7 +938,7 @@ OR
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the importance of cash to the success of
+**Question:** Analyse the importance of cash to the success of Ocean Vibes.
 
 **Official mark scheme answer:**
 
@@ -1018,7 +1020,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the benefits to Ocean Vibes of
+**Question:** Evaluate the benefits to Ocean Vibes of operating as a franchise to further expand its business. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

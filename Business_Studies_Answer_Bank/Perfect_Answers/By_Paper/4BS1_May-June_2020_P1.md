@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following could a sole trader pay on its profits?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -27,6 +29,8 @@ D is not correct because it is not a tax
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a variable cost?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -41,6 +45,8 @@ C is not correct because it is a fixed cost
 
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a method of primary market research?
 
 **Official mark scheme answer:**
 
@@ -63,6 +69,8 @@ research
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is used to calculate net cash flow?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -77,6 +85,8 @@ D is not correct because it is the incorrect calculation
 
 
 ### `1(a)(v)` — 1 mark (AO2:1)
+
+**Question:** What will the Italian drumming school pay in euros (€) for these five lessons?
 
 **Official mark scheme answer:**
 
@@ -96,6 +106,8 @@ cost of each lesson at £15 by five lessons
 
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
+
+**Question:** What effect would this change in the exchange rate have on the Italian drumming school?
 
 **Official mark scheme answer:**
 
@@ -118,6 +130,8 @@ decrease in the exchange rate
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term fixed costs.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -127,6 +141,8 @@ AO1 = 1 mark
 - Costs that do not vary with the level of output (1).
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term stakeholder.
 
 **Official mark scheme answer:**
 
@@ -139,6 +155,8 @@ AO1 = 1 mark
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one benefit to TADS of investing in computer technology.
 
 **Official mark scheme answer:**
 
@@ -154,7 +172,7 @@ drums make (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate, to two decimal places, the mark up on this drum kit.
 
 **Official mark scheme answer:**
 
@@ -173,7 +191,7 @@ working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one disadvantage of being in a partnership.
 
 **Official mark scheme answer:**
 
@@ -195,7 +213,7 @@ moving forward with new ideas (1).
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the importance of location for TADS.
 
 **Official mark scheme answer:**
 
@@ -253,7 +271,7 @@ reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one reason why this could lead to the business failure of TADS.
 
 **Official mark scheme answer:**
 
@@ -278,7 +296,7 @@ able to cope with the demand (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one benefit to TADS of using casual staff to teach music lessons.
 
 **Official mark scheme answer:**
 
@@ -297,7 +315,7 @@ reduce the hours of the specialist teachers (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one purpose of market research for a business.
 
 **Official mark scheme answer:**
 
@@ -325,7 +343,7 @@ get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one way to measure the success of a business.
 
 **Official mark scheme answer:**
 
@@ -355,7 +373,7 @@ get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one impact of an increase in interest rates on a business.
 
 **Official mark scheme answer:**
 
@@ -387,7 +405,8 @@ with no explanation will get a maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options TADS should use.  
+**Options:** Option 1 · commission for each new pupil taught · Option 2 · an increase in the hourly rate.
 
 **Official mark scheme answer:**
 
@@ -487,7 +506,7 @@ information and issues relevant to the choice made.
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term liquidity.
 
 **Official mark scheme answer:**
 
@@ -501,7 +520,7 @@ into cash (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one possible financial objective, other than revenue, that TADS might have.
 
 **Official mark scheme answer:**
 
@@ -519,7 +538,7 @@ by increasing the number of instruments taught (1).
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the closing balance for February. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -542,7 +561,7 @@ working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the importance of cash to TADS.
 
 **Official mark scheme answer:**
 
@@ -594,7 +613,8 @@ reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options TADS should choose.  
+**Options:** Option 1 · teach other musical instruments · Option 2 · increase the number of online drum lessons.
 
 **Official mark scheme answer:**
 
@@ -682,7 +702,7 @@ relevant to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the new minimum wage after an increase of 2.5%. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -699,7 +719,7 @@ correct numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the benefits for TADS of using below-the-line promotion.
 
 **Official mark scheme answer:**
 
@@ -751,7 +771,7 @@ reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate whether TADS should consider becoming a private limited company. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

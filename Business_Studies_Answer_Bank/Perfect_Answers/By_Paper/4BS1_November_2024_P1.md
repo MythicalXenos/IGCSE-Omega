@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a financial method
+**Question:** Which one of the following is a financial method used to motivate employees?
 
 **Official mark scheme answer:**
 
@@ -41,7 +41,7 @@ employees
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of
+**Question:** Which one of the following is an example of secondary research?
 
 **Official mark scheme answer:**
 
@@ -66,7 +66,7 @@ is a primary method of market research
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of
+**Question:** Which one of the following would increase the break-even point?
 
 **Official mark scheme answer:**
 
@@ -89,7 +89,7 @@ D – is not the correct answer as a decrease in
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is provided by a
+**Question:** Which one of the following is provided by a person applying for a job?
 
 **Official mark scheme answer:**
 
@@ -118,7 +118,7 @@ successful candidate
 
 ### `1(a)(v)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the operating profit
+**Question:** Which one of the following is the operating profit in 2023?
 
 **Official mark scheme answer:**
 
@@ -141,7 +141,7 @@ minus expenses
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the percentage
+**Question:** Which one of the following is the percentage change in the cost of material for one robot between 2021 and 2023?
 
 **Official mark scheme answer:**
 
@@ -196,7 +196,7 @@ to be a benefit to society (1)
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one non-current asset that Saha is likely
+**Question:** State one non-current asset that Saha is likely to have.
 
 **Official mark scheme answer:**
 
@@ -225,7 +225,7 @@ in the context of Saha
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total Additional guidance
+**Question:** Calculate the total revenue from the sale of all battery packs sold by Saha in 2023. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -258,7 +258,7 @@ working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to a business of having
+**Question:** Explain one advantage to a business of having limited liability.
 
 **Official mark scheme answer:**
 
@@ -305,7 +305,7 @@ get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse two methods of primary research that
+**Question:** Analyse two methods of primary research that could be of benefit to Saha when developing its products.
 
 **Official mark scheme answer:**
 
@@ -396,7 +396,7 @@ of reasoning (AO3).
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Analyse two methods of primary research that
+**Question:** State one reason why branding is important to Saha.
 
 **Official mark scheme answer:**
 
@@ -424,7 +424,7 @@ context of Saha
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Analyse two methods of primary research that
+**Question:** State one task that an employee working in the production department at Saha might do.
 
 **Official mark scheme answer:**
 
@@ -453,7 +453,7 @@ context of Saha
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one disadvantage for a business of using
+**Question:** Explain one disadvantage for a business of using flow production to produce its goods.
 
 **Official mark scheme answer:**
 
@@ -498,7 +498,7 @@ explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one method of above the line promotion
+**Question:** Explain one method of above the line promotion a business may use to increase its sales revenue.
 
 **Official mark scheme answer:**
 
@@ -545,7 +545,7 @@ only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why the proximity to
+**Question:** Explain one reason why the proximity to materials is important to a business when locating to a new factory.
 
 **Official mark scheme answer:**
 
@@ -594,7 +594,8 @@ get a maximum of 1 mark
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** When Saha expands its business it will require
+**Question:** Justify which one of these two options Saha should choose.  
+**Options:** Option 1 · crowdfunding · Option 2 · loan capital.
 
 **Official mark scheme answer:**
 
@@ -736,7 +737,7 @@ businesses (1)
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one reason why Saha may dismiss an
+**Question:** Outline one reason why Saha may dismiss an employee.
 
 **Official mark scheme answer:**
 
@@ -764,7 +765,7 @@ context of Saha.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the cash outflow. Additional
+**Question:** Calculate the cash outflow. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -793,7 +794,7 @@ numerical answer
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse two possible reasons that may lead to
+**Question:** Analyse two possible reasons that may lead to business failure for Saha.
 
 **Official mark scheme answer:**
 
@@ -879,7 +880,8 @@ of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Saha is planning to develop a new range of
+**Question:** Justify which one of these two options Saha should choose.  
+**Options:** Option 1 · price skimming · Option 2 · cost plus pricing.
 
 **Official mark scheme answer:**
 
@@ -1011,7 +1013,7 @@ issues relevant to the choice made
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two Additional guidance
+**Question:** Calculate, to two decimal places, the acid test ratio for Saha. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -1036,7 +1038,7 @@ numbers into formula.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits for Saha of becoming a
+**Question:** Analyse the benefits for Saha of becoming a multinational business.
 
 **Official mark scheme answer:**
 
@@ -1116,7 +1118,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the effects on Saha of introducing Total
+**Question:** Evaluate the effects on Saha of introducing total quality management (TQM) to its business. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

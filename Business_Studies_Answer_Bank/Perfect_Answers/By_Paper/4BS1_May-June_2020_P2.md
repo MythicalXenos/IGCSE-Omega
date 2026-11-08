@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following only applies to a public limited company?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -35,6 +37,8 @@ transfer of shares
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following departments would send an invoice to a supplier?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -54,6 +58,8 @@ D is not correct because Production is making goods
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
+**Question:** What is the market share for Business 2?
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -72,6 +78,8 @@ D is not correct because 29.2% = £350 000
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following describes an overdraft?
 
 **Official mark scheme answer:**
 
@@ -96,6 +104,8 @@ loan
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
+**Question:** What is the percentage change in total assets between 2015–2016 and 2016–2017?
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -116,6 +126,8 @@ C is not correct because calculation worked out using
 
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following would be part of recruiting a new employee?
 
 **Official mark scheme answer:**
 
@@ -138,6 +150,8 @@ recruitment
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term social enterprise.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -152,6 +166,8 @@ and the community (1).
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term globalisation.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -163,6 +179,8 @@ the world (1).
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason why Emirates uses competition pricing.
 
 **Official mark scheme answer:**
 
@@ -185,7 +203,7 @@ other airlines (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the net cash flow for June 2017. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -202,7 +220,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one of the factors in Herzberg’s motivational theory.
 
 **Official mark scheme answer:**
 
@@ -233,7 +251,7 @@ get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the likely benefits to Emirates of using financial information when making business decisions.
 
 **Official mark scheme answer:**
 
@@ -298,7 +316,7 @@ points with logical chains of reasoning.
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one non-financial method Emirates could use to motivate its employees.
 
 **Official mark scheme answer:**
 
@@ -315,7 +333,7 @@ motivating staff in the context of the business.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one reason why Emirates has a loyalty programme for its passengers.
 
 **Official mark scheme answer:**
 
@@ -336,7 +354,7 @@ competing airlines (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit for a business of having full-time employees.
 
 **Official mark scheme answer:**
 
@@ -370,7 +388,7 @@ of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason for a business using seasonal staff.
 
 **Official mark scheme answer:**
 
@@ -400,7 +418,7 @@ will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why employees should undertake health and safety training as part of their induction programme.
 
 **Official mark scheme answer:**
 
@@ -434,7 +452,8 @@ explanation will get a maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Emirates should use.  
+**Options:** Option 1 · questionnaires · Option 2 · focus groups.
 
 **Official mark scheme answer:**
 
@@ -542,7 +561,7 @@ to the choice made. (AO4)
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term hierarchical structure.
 
 **Official mark scheme answer:**
 
@@ -556,7 +575,7 @@ structure.
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one reason why Emirates has a short chain of command for monitoring its employees when recycling.
 
 **Official mark scheme answer:**
 
@@ -569,7 +588,7 @@ would have short chains of command, plus 1 further
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the number of litres of petrol that Emirates used in 2017–2018. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -602,7 +621,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why Emirates would want to be more environmentally friendly.
 
 **Official mark scheme answer:**
 
@@ -674,7 +693,8 @@ points with logical chains of reasoning.
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Emirates should use.  
+**Options:** Option 1 · increase the number of special offers · Option 2 · increase advertising via social media.
 
 **Official mark scheme answer:**
 
@@ -786,7 +806,7 @@ to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the total cost of a pilot’s loan if the interest rate was 3%. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -805,7 +825,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why Emirates considers interviewing pilots as an important part of the recruitment process.
 
 **Official mark scheme answer:**
 
@@ -875,7 +895,7 @@ points with logical chains of reasoning.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate how changes in consumer spending patterns and competition may affect a business such as Emirates. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

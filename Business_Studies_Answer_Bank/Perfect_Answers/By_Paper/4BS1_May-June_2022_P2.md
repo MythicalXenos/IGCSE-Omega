@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following shows money coming in and
+**Question:** Which one of the following shows money coming in and money going out of a business?
 
 **Official mark scheme answer:**
 
@@ -33,7 +33,7 @@ when there is less money made than it cost
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following could a person complete when
+**Question:** Which one of the following could a person complete when applying for a job?
 
 **Official mark scheme answer:**
 
@@ -100,7 +100,7 @@ are a franchisee the franchisor does
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the percentage increase from
+**Question:** Which one of the following is the percentage increase from 2019 to 2020?
 
 **Official mark scheme answer:**
 
@@ -117,7 +117,7 @@ C – is 40.81 – 38.5 = 2.31%
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following functional areas could help
+**Question:** Which one of the following functional areas could help employees who had a problem with their wage?
 
 **Official mark scheme answer:**
 
@@ -163,7 +163,7 @@ AO1 - 1 mark
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one benefit for LEGOof having a short span of control
+**Question:** State one benefit for LEGO of having a short span of control.
 
 **Official mark scheme answer:**
 
@@ -188,7 +188,7 @@ suggestions about the new products
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal places, Additional guidance
+**Question:** Calculate, to two decimal places, the cost of making the pineapple pencil holders. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -211,7 +211,7 @@ correct numerical answer
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one disadvantage of using questionnaires as a
+**Question:** Explain one disadvantage of using questionnaires as a method of market research.
 
 **Official mark scheme answer:**
 
@@ -246,7 +246,7 @@ get a 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits for LEGOof being a multinational
+**Question:** Analyse the benefits for LEGO of being a multinational business.
 
 **Official mark scheme answer:**
 
@@ -331,7 +331,7 @@ LEGO.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why LEGOdoes not recruit casual
+**Question:** State one possible reason why LEGO does not recruit casual employees.
 
 **Official mark scheme answer:**
 
@@ -358,7 +358,7 @@ for despatch
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business would pay its employees
+**Question:** Explain one reason why a business would pay its employees above the minimum wage.
 
 **Official mark scheme answer:**
 
@@ -399,7 +399,7 @@ only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why product trials are important to a
+**Question:** Explain one reason why product trials are important to a business.
 
 **Official mark scheme answer:**
 
@@ -430,7 +430,7 @@ Answers that list three reasons with no explanation will get 1
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business complies with health and
+**Question:** Explain one reason why a business complies with health and safety legislation.
 
 **Official mark scheme answer:**
 
@@ -467,7 +467,8 @@ Answers that list three reasons with no explanation will get a
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: cost plus
+**Question:** Justify which one of these two options LEGO should choose.  
+**Options:** Option 1 · cost plus · Option 2 · skimming.
 
 **Official mark scheme answer:**
 
@@ -525,7 +526,7 @@ A01 - 1 mark
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one benefit to LEGOof being a privately-owned family
+**Question:** Outline one benefit to LEGO of being a privately-owned family business.
 
 **Official mark scheme answer:**
 
@@ -549,7 +550,7 @@ which gives LEGOstability and continuity
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the employee's new salary. Additional guidance
+**Question:** Calculate the employee’s new salary. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -576,7 +577,7 @@ working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse how LEGOcould use a Statement of Comprehensive
+**Question:** Analyse how LEGO could use a Statement of Comprehensive Income when considering the development of new toys.
 
 **Official mark scheme answer:**
 
@@ -642,7 +643,8 @@ chains of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: on-the-job training
+**Question:** Justify which one of these two options LEGO should choose.  
+**Options:** Option 1 · on-the-job training · Option 2 · off-the-job training.
 
 **Official mark scheme answer:**
 
@@ -677,7 +679,7 @@ experts, resulting in fewer errors thus improving the
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional guidance
+**Question:** Calculate, to two decimal places, the current ratio in 2019. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -696,7 +698,7 @@ working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits to LEGOof increasing the use of robotics
+**Question:** Analyse the benefits to LEGO of increasing the use of robotics in the manufacture of toys and games.
 
 **Official mark scheme answer:**
 
@@ -757,7 +759,7 @@ chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate how LEGOhas maintained a competitive advantage
+**Question:** Evaluate how LEGO has maintained a competitive advantage in the making of toys and games. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

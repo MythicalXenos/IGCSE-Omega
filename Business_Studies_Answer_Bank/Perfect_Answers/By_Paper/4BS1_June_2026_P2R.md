@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a method of gathering secondary research?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -35,6 +37,8 @@ Q. No.   Which one of the following is an example of a service?   Mark
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is an example of a service?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -55,6 +59,8 @@ large cakes on 1 January?
 
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
+
+**Question:** Which one of the following is the total revenue for the sale of large cakes on 1 January?
 
 **Official mark scheme answer:**
 
@@ -79,6 +85,8 @@ business?
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a threat of globalisation to a business?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -101,6 +109,8 @@ Q. No.   Which one of the following represents the break-even point?   Mark
 
 
 ### `1(a)(v)` — 1 mark (AO2:1)
+
+**Question:** Which one of the following represents the break-even point?
 
 **Official mark scheme answer:**
 
@@ -125,6 +135,8 @@ Q. No.   Which one of the following is a financial method of motivation?   Mark
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a financial method of motivation?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -148,6 +160,8 @@ Q. No.   Define the term business objective.   Mark
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term business objective.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -159,6 +173,8 @@ Q. No.   Define the term franchise.   Mark
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term franchise.
 
 **Official mark scheme answer:**
 
@@ -173,6 +189,8 @@ marketing functional area.
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one task that an employee of Apple might do in the marketing functional area.
 
 **Official mark scheme answer:**
 
@@ -196,6 +214,8 @@ You are advised to show your working.
 
 ### `1(e)` — 2 marks (AO2:2)
 
+**Question:** Using Figure 3, calculate the closing balance for the business. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -214,6 +234,8 @@ Q. No.   Explain one advantage for a shareholder of having limited liability. Ma
 
 
 ### `1(f)` — 3 marks (AO1:3)
+
+**Question:** Explain one advantage for a shareholder of having limited liability.
 
 **Official mark scheme answer:**
 
@@ -244,6 +266,8 @@ starting the business as a partnership.
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the advantages for Steve Jobs and Steve Wozniak of starting the business as a partnership.
 
 **Official mark scheme answer:**
 
@@ -311,6 +335,8 @@ management (TQM).
 
 ### `2(a)` — 1 mark (AO2:1)
 
+**Question:** State one reason why Apple would use total quality management (TQM).
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -328,6 +354,8 @@ for Apple.
 
 
 ### `2(b)` — 1 mark (AO2:1)
+
+**Question:** State one reason why increased competition may be a problem for Apple.
 
 **Official mark scheme answer:**
 
@@ -350,6 +378,8 @@ employees.
 
 
 ### `2(c)` — 3 marks (AO1:3)
+
+**Question:** Explain one advantage for a business of using temporary employees.
 
 **Official mark scheme answer:**
 
@@ -380,6 +410,8 @@ Answers that list three advantages with no explanation will get 1
 
 ### `2(d)` — 3 marks (AO1:3)
 
+**Question:** Explain one advantage of on-the-job training for a business.
+
 **Official mark scheme answer:**
 
 A01 - 3 marks
@@ -409,6 +441,8 @@ Answers that list three advantages with no explanation will get 1
 
 ### `2(e)` — 3 marks (AO1:3)
 
+**Question:** Explain one disadvantage for an entrepreneur of using venture capital to start a business.
+
 **Official mark scheme answer:**
 
 A01 - 3 marks
@@ -437,6 +471,9 @@ Answers that list three disadvantages with no explanation will get 1
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Apple should choose to increase sales in India.  
+**Options:** Option 1 · increase its spending on TV advertisements · Option 2 · offer university students free AirPods (wireless headphones) when
 
 **Official mark scheme answer:**
 
@@ -542,6 +579,8 @@ Q. No.   Define the term tariff.   Mark
 
 ### `3(a)` — 1 mark (AO1:1)
 
+**Question:** Define the term tariff.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -556,6 +595,8 @@ Apple.
 
 
 ### `3(b)` — 2 marks (AO2:2)
+
+**Question:** Outline one reason why shareholder satisfaction is important to Apple.
 
 **Official mark scheme answer:**
 
@@ -586,6 +627,8 @@ show your working.
 
 ### `3(c)` — 2 marks (AO2:2)
 
+**Question:** Using Figure 4, calculate the percentage increase in the price of the smartphone between 2024 and 2025. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -604,6 +647,8 @@ company (MNC).
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the advantages for Apple of being a multinational company (MNC).
 
 **Official mark scheme answer:**
 
@@ -668,6 +713,9 @@ increase its market share.
 
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Apple should choose to increase its market share.  
+**Options:** Option 1 · open more retail stores in these countries · Option 2 · improve its e-commerce in these countries.
 
 **Official mark scheme answer:**
 
@@ -761,6 +809,8 @@ You are advised to show your working.
 
 ### `4(a)` — 2 marks (AO2:2)
 
+**Question:** Using Figure 5, calculate, to two decimal places, the current ratio. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -781,6 +831,8 @@ when manufacturing products.
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the disadvantages for Apple of using flow production when manufacturing products.
 
 **Official mark scheme answer:**
 
@@ -839,6 +891,8 @@ your own knowledge of business.
 
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
+
+**Question:** Evaluate the importance of Apple responding to changes in the market. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

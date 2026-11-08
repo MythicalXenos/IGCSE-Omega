@@ -108,6 +108,8 @@ C – is not the correct answer as primary market research is not always done by
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term e-newsletter.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -124,6 +126,8 @@ Q. No.   Define the term minimum wage.   Mark
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term minimum wage.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -137,6 +141,8 @@ Q. No.   State one reason why Jimmy Choo would want loyal customers. Mark
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason why Jimmy Choo would want loyal customers.
 
 **Official mark scheme answer:**
 
@@ -169,6 +175,8 @@ advised to show your working.
 
 ### `1(e)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the predicted value of recycled plastic for 2027. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -191,6 +199,8 @@ opportunities legislation.
 
 
 ### `1(f)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why businesses comply with equal opportunities legislation.
 
 **Official mark scheme answer:**
 
@@ -226,6 +236,8 @@ satisfied.
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse two problems for Jimmy Choo if customer needs are not satisfied.
 
 **Official mark scheme answer:**
 
@@ -283,6 +295,8 @@ Q. No.   State one non-financial objective Jimmy Choo might have.   Mark
 
 ### `2(a)` — 1 mark (AO2:1)
 
+**Question:** State one non-financial objective Jimmy Choo might have.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -312,6 +326,8 @@ safety laws.
 
 ### `2(b)` — 1 mark (AO2:1)
 
+**Question:** State one reason why Jimmy Choo complies with health and safety laws.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -340,6 +356,8 @@ trading bloc.
 
 
 ### `2(c)` — 3 marks (AO1:3)
+
+**Question:** Explain one advantage to a country of being a member of a trading bloc.
 
 **Official mark scheme answer:**
 
@@ -371,6 +389,8 @@ of a trading bloc, with no explanation will get a maximum of 1
 
 
 ### `2(d)` — 3 marks (AO1:3)
+
+**Question:** Explain one way businesses support employees with disabilities.
 
 **Official mark scheme answer:**
 
@@ -407,7 +427,7 @@ only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Explain one impact on a business of an increase in interest rates.
 
 **Official mark scheme answer:**
 
@@ -456,7 +476,8 @@ choose.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Justify which one of these two options Jimmy Choo should choose.  
+**Options:** Option 1 · casual employees · Option 2 · part-time employees.
 
 **Official mark scheme answer:**
 
@@ -560,7 +581,7 @@ Q. No.   Define the term person specification.   Mark
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Define the term person specification.
 
 **Official mark scheme answer:**
 
@@ -576,7 +597,7 @@ Q. No.   Outline one reason why branding is important to Jimmy Choo.   Mark
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Outline one reason why branding is important to Jimmy Choo.
 
 **Official mark scheme answer:**
 
@@ -608,7 +629,7 @@ sold.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Calculate, to two decimal places, the percentage increase on this Jimmy Choo handbag when it is sold. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -625,7 +646,7 @@ formula.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Analyse why Jimmy Choo asks all candidates applying for a vacancy to complete an application form.
 
 **Official mark scheme answer:**
 
@@ -691,7 +712,8 @@ choose.
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Justify which one of these two options Jimmy Choo should choose.  
+**Options:** Option 1 · induction training · Option 2 · off-the-job training.
 
 **Official mark scheme answer:**
 
@@ -791,7 +813,7 @@ shops in the UK.
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Calculate, to two decimal places, the percentage of Jimmy Choo shops in the UK. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -816,7 +838,7 @@ its growth.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Analyse the benefit to Jimmy Choo of using share capital to fund its growth.
 
 **Official mark scheme answer:**
 
@@ -880,7 +902,7 @@ business.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Explain one impact on a business of an increase in
+**Question:** Evaluate the factors Jimmy Choo would have to consider when making decisions on the location of a new factory. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

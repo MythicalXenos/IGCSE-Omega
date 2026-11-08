@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following types of business ownership
+**Question:** Which one of the following types of business ownership would usually be formed by a business of two solicitors?
 
 **Official mark scheme answer:**
 
@@ -31,7 +31,7 @@ large business
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following would show a business its cash
+**Question:** Which one of the following would show a business its cash flow forecast?
 
 **Official mark scheme answer:**
 
@@ -52,7 +52,7 @@ forecast
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following would a customer in South Africa
+**Question:** Which one of the following would a customer in South Africa pay in ZAR for two 850 gram Cadbury Dairy Milk Bars?
 
 **Official mark scheme answer:**
 
@@ -69,7 +69,7 @@ D 411.60 (20.58 x 10.00 x 2)
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following functional areas would a skilled
+**Question:** Which one of the following functional areas would a skilled machinist work in?
 
 **Official mark scheme answer:**
 
@@ -86,7 +86,7 @@ D Marketing deals with advertising the products
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** What is the percentage decrease in the price of the Cadbury
+**Question:** What is the percentage decrease in the price of the Cadbury Crunchie?
 
 **Official mark scheme answer:**
 
@@ -103,7 +103,7 @@ C 8.00% (0.95 - 0.87)
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of secondary
+**Question:** Which one of the following is an example of secondary market research?
 
 **Official mark scheme answer:**
 
@@ -144,7 +144,7 @@ AO1 - 1 mark
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why Cadburymight pay its UK employees
+**Question:** State one reason why Cadbury might pay its UK employees above the minimum wage.
 
 **Official mark scheme answer:**
 
@@ -173,7 +173,7 @@ Cadbury.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the selling price of the Additional guidance
+**Question:** Calculate the selling price of the chocolate cake. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -196,7 +196,7 @@ working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage for businesses if banks reduce their
+**Question:** Explain one advantage for businesses if banks reduce their interest rates.
 
 **Official mark scheme answer:**
 
@@ -233,7 +233,7 @@ get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse two factors that could influence Cadburywhen locating
+**Question:** Analyse two factors that could influence Cadbury when locating a new factory.
 
 **Official mark scheme answer:**
 
@@ -299,7 +299,7 @@ chains of reasoning (AO3).
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one item of information that an applicant would include
+**Question:** State one item of information that an applicant might include in their Curriculum Vitae (CV) when applying for a position with Cadbury.
 
 **Official mark scheme answer:**
 
@@ -324,7 +324,7 @@ Cadbury.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one item of information that may appear in a job
+**Question:** State one item of information that may appear in a job description for a Cadbury Production Line Supervisor.
 
 **Official mark scheme answer:**
 
@@ -351,7 +351,7 @@ Cadbury.
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one method a business could use to motivate its
+**Question:** Explain one method a business could use to motivate its employees.
 
 **Official mark scheme answer:**
 
@@ -386,7 +386,7 @@ only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business has fully trained
+**Question:** Explain one reason why a business has fully trained employees.
 
 **Official mark scheme answer:**
 
@@ -419,7 +419,7 @@ its employees are fully trained, with no explanation will get 1
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why many manufacturing businesses use
+**Question:** Explain one reason why many manufacturing businesses use Kaizen in their factories.
 
 **Official mark scheme answer:**
 
@@ -456,7 +456,8 @@ in manufacturing with no explanation will get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: allowing employees to work part-time
+**Question:** Justify which one of these two options Cadbury should choose.  
+**Options:** Option 1 · allowing employees to work part-time · Option 2 · allowing employees to job share.
 
 **Official mark scheme answer:**
 
@@ -568,7 +569,7 @@ business for its products (1)
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one reason why Cadburyinterviews shortlisted
+**Question:** Outline one reason why Cadbury interviews shortlisted candidates for vacancies in its functional areas.
 
 **Official mark scheme answer:**
 
@@ -596,7 +597,7 @@ Cadbury.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the donation Cadburymade Additional guidance
+**Question:** Calculate the donation Cadbury made in 2018. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -627,7 +628,7 @@ working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why some governments have introduced legislation
+**Question:** Analyse why some governments have introduced legislation to reduce the amount of sugar in chocolate.
 
 **Official mark scheme answer:**
 
@@ -691,7 +692,8 @@ chains of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: batch production
+**Question:** Justify which one of these two options Cadbury should choose.  
+**Options:** Option 1 · batch production · Option 2 · flow production.
 
 **Official mark scheme answer:**
 
@@ -793,7 +795,7 @@ information and issues relevant to the choice made
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional guidance
+**Question:** Calculate, to two decimal places, the gross profit margin. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -812,7 +814,7 @@ working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why Cadburymay have needed to take out an
+**Question:** Analyse why Cadbury may have needed to take out an overdraft.
 
 **Official mark scheme answer:**
 
@@ -874,7 +876,7 @@ chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the importance of marketing for Cadburywhen
+**Question:** Evaluate the importance of marketing for Cadbury when introducing a new product. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

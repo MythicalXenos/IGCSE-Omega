@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following functional areas is responsible for the recruitment of new employees?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -20,6 +22,8 @@ D Human Resources
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an internal source of finance?
 
 **Official mark scheme answer:**
 
@@ -30,6 +34,8 @@ B Selling assets
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a main feature of the statement of comprehensive income?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -38,6 +44,8 @@ C Cost of sales
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a political factor that can affect a business?
 
 **Official mark scheme answer:**
 
@@ -48,6 +56,8 @@ A Taxation
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
+**Question:** What markup has Artify Studio applied to this service?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -57,6 +67,8 @@ C 250%
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following would Artify Studio pay in SGD if they imported 15 sets of paints?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -65,6 +77,8 @@ D S$42.08
 
 
 ### `1(b)` — 1 mark (AO1:1)
+
+**Question:** Define the term diseconomies of scale.
 
 **Official mark scheme answer:**
 
@@ -79,6 +93,8 @@ diseconomies of scale.
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term job production.
 
 **Official mark scheme answer:**
 
@@ -95,6 +111,8 @@ completing one unit of output at a time
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one financial method of motivation Artify Studio could use to motivate its employees.
 
 **Official mark scheme answer:**
 
@@ -114,7 +132,7 @@ any art materials they sell (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the discounted cost of booking both courses at the same time. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -131,7 +149,7 @@ correctly substituting
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one measure a business can use to judge its success.
 
 **Official mark scheme answer:**
 
@@ -159,7 +177,7 @@ with no explanation will get a maximum of 1
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Answer Additional guidance
+**Question:** Analyse the effect of a decrease in interest rates on Artify Studio.
 
 **Official mark scheme answer:**
 
@@ -247,7 +265,7 @@ of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Answer Additional guidance
+**Question:** State one reason why Artify Studio would want to offer a high-quality service.
 
 **Official mark scheme answer:**
 
@@ -267,7 +285,7 @@ try other art sessions on offer (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Answer Additional guidance
+**Question:** State one advantage for Artify Studio of using part-time employees.
 
 **Official mark scheme answer:**
 
@@ -287,7 +305,7 @@ quiet and courses are not full (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one benefit to a business of being a partnership.
 
 **Official mark scheme answer:**
 
@@ -321,7 +339,7 @@ maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one way social media can be used by a business.
 
 **Official mark scheme answer:**
 
@@ -355,7 +373,7 @@ media with no explanation will get a maximum of
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one benefit for a business from the introduction of total quality management (TQM).
 
 **Official mark scheme answer:**
 
@@ -383,7 +401,8 @@ with no explanation will get a maximum of 1
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Artify Studio should choose.  
+**Options:** Option 1 · sponsoring a local art show in the Kampong Glam area · Option 2 · having a stand at a national art exhibition in Singapore’s capital.
 
 **Official mark scheme answer:**
 
@@ -513,7 +532,7 @@ issues relevant to the choice made.
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term price skimming.
 
 **Official mark scheme answer:**
 
@@ -529,7 +548,7 @@ then lowering it later (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one reason why cash might be important to Artify Studio.
 
 **Official mark scheme answer:**
 
@@ -559,7 +578,7 @@ context of Artify Studio.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional
+**Question:** Calculate, to two decimal places, the gross profit margin for Artify Studio. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -588,7 +607,7 @@ without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse how Artify Studio could use the information in Figure 1 to assess the performance of the business.
 
 **Official mark scheme answer:**
 
@@ -674,7 +693,8 @@ of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Artify Studio should choose.  
+**Options:** Option 1 · crowdfunding · Option 2 · retained profit.
 
 **Official mark scheme answer:**
 
@@ -810,7 +830,7 @@ issues relevant to the choice made.
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the cost to Artify Studio of delivering 1,000 printed leaflets which will take 3 hours. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -825,7 +845,7 @@ A02 - 2 marks
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the benefits for Artify Studio of on-the-job training for new employees.
 
 **Official mark scheme answer:**
 
@@ -907,7 +927,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate the factors that Artify Studio would have considered when deciding where to locate its second art studio. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

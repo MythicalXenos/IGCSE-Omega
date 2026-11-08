@@ -60,7 +60,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | Case study | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:928` |
+| 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:938` |
 | 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
 
 > ### ⚠️ PERMANENT LIMITATION — BOTH ARE PAPER 1
@@ -72,11 +72,11 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | The choice being made | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2019** | P1 Q3(e) | crowdfunding vs overdraft — *Backyard Shoez* | `02_Verified_Exemplars.md:461` |
+| 1 | **Jun 2019** | P1 Q3(e) | crowdfunding vs overdraft — *Backyard Shoez* | `02_Verified_Exemplars.md:471` |
 | 2 | **Jun 2022** | P1 Q2(f) | retained profit vs bank loan — *TBTS* | `2022-06_P1_TBTS.md:168` |
 | 3 | **Jun 2022** | P1 Q3(e) | questionnaires vs focus groups — *TBTS* | `2022-06_P1_TBTS.md:188` |
-| 4 | **Jun 2022** | P1R Q2(f) | advertising vs open for breakfast — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:51` |
-| 5 | **Jun 2022** | P1R Q3(e) | permanent vs temporary contract — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:76` |
+| 4 | **Jun 2022** | P1R Q2(f) | advertising vs open for breakfast — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:57` |
+| 5 | **Jun 2022** | P1R Q3(e) | permanent vs temporary contract — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:82` |
 | 6 | **May/Jun 2023** | P1 Q2(f) | job vs batch production — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:382` |
 | 7 | **May/Jun 2023** | P1 Q3(e) | on-the-job vs off-the-job training — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:399` |
 | 8 | **May/Jun 2023** | P1R Q2(f) | sponsor a flower show vs leaflets — *Aude Rose* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:409` |
@@ -86,7 +86,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 12 | **Jun 2024** | P1 Q3(e) | — *PPS* | `2024-06_P1_PPS.md:79` |
 | 13 | **Jun 2024** | P1R Q2(f) | vegan range vs discount — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:9` |
 | 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:24` |
-| 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:832` |
+| 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:840` |
 
 > ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R**. AND **NO VERIFIED 9/9 EXISTS FOR PAPER 2, IN ANY SERIES**
 > Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. The full split is **P1 ×7 · P1R ×6 · P2R ×2 · P2 ×0** — and **Paper 2's ceiling in the bank is a 7/9**, held at `2023-05_Series_Irsi_AudeRose_IKEA_MM.md:168` and dissected at `:300`.
@@ -107,8 +107,8 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 3 | **Jun 2019** | P1R Q1(g) | customer satisfaction | `2019-06_P1_Official_Exemplar_Booklet.md:513` |
 | 4 | **Jun 2022** | P1 Q1(g) | external factors — *TBTS* | `2022-06_P1_TBTS.md:25` |
 | 5 | **Jun 2022** | P1 Q3(d) | motivating employees — *TBTS* | `2022-06_P1_TBTS.md:50` |
-| 6 | **Jun 2022** | P1R Q1(g) | impact of technology — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:108` |
-| 7 | **Jun 2022** | P1R Q3(d) | social media reviews — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:133` |
+| 6 | **Jun 2022** | P1R Q1(g) | impact of technology — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:114` |
+| 7 | **Jun 2022** | P1R Q3(d) | social media reviews — *Can Culleretes* | `2022-06_P1R_Can_Culleretes.md:141` |
 | 8 | **Jun 2022** | P2R Q1(g) | two location factors, **43 words** — *Cadbury* | `2022-06_P2R_Cadbury.md:170` |
 | 9 | **May/Jun 2023** | P1 Q1(g) | branding — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:253` |
 | 10 | **May/Jun 2023** | P1 Q4(b) | place — *Irsi* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:262` |
@@ -118,9 +118,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 14 | **Jun 2024** | P1 Q1(g) | — *PPS* | `2024-06_P1_PPS.md:32` |
 | 15 | **Jun 2024** | P1 Q3(d) | — *PPS* | `2024-06_P1_PPS.md:47` |
 | 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:65` |
-| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:871` |
-| 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:423` |
-| 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:423` |
+| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:879` |
+| 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:441` |
+| 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:426` |
 | 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:528` |
 | 21 | **May/Jun 2023** | **P2R Q4(b)** | continuing to plant trees — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:541` |
 | 22 | **Jun 2026** | P1R Q1(g) | sponsorship disadvantages — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:319` |
@@ -146,8 +146,8 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 3 | **Jun 2019** | P2 Q1(f) | impact of technology on production | `External_Exemplars/2019-06_P2_Official_Exemplar_Booklet.md:70` |
 | 4 | **Jun 2022** | P1 Q2(c) | benefit of a flat structure — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:78` |
 | 5 | **Jun 2022** | P1 Q2(d) | a method to increase profit — *TBTS* | `External_Exemplars/2022-06_P1_TBTS.md:98` |
-| 6 | **Jun 2022** | P1R Q2(c) | a method to encourage repeat purchase — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:151` |
-| 7 | **Jun 2022** | P1R Q2(e) | a benefit of motivating employees — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:160` |
+| 6 | **Jun 2022** | P1R Q2(c) | a method to encourage repeat purchase — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:163` |
+| 7 | **Jun 2022** | P1R Q2(e) | a benefit of motivating employees — *Can Culleretes* | `External_Exemplars/2022-06_P1R_Can_Culleretes.md:172` |
 | 8 | **Jun 2022** | P2R Q1(f) | a fall in banks' interest rates | `02_Verified_Exemplars.md:227` |
 | 9 | **Jun 2022** | P2R Q2(c) | non-financial methods of motivation | `02_Verified_Exemplars.md:244` |
 | 10 | **Jun 2022** | P2R Q2(d) | fully trained employees — mistakes and quality | `02_Verified_Exemplars.md:251` |
@@ -297,7 +297,7 @@ The bank carried an open task: *"`2023-06_P1R_Aude_Rose.md` and `2023-06_P2_IKEA
 | 16 | **Jun 2023** | P1R Q2(a) | a fringe benefit — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:142` |
 | 17 | **Jun 2023** | P1R Q2(b) | why branding is important — *Aude Rose* **(0/1 — the report prints only the zero-credit script)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:168` |
 | 18 | **Jun 2023** | P1R Q3(a) | define variable costs — *Aude Rose* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:211` |
-| 19 | **Jun 2023** | P1 Q1(b) | define limited liability — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:372` |
+| 19 | **Jun 2023** | P1 Q1(b) | define limited liability — *Irsi* **(0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:374` |
 | 20 | **Jun 2023** | P1 Q1(c) | define social enterprise — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:400` |
 | 21 | **Jun 2023** | P1 Q1(d) | using the Boston matrix — *Irsi* **(1/1 and 0/1)** *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:426` |
 | 22 | **Jun 2023** | P1 Q2(a) | improving competitive position — *Irsi* *(banked 14 Oct 2026)* | `External_Exemplars/2023-05_P1_and_P1R_One_and_Two_Mark_Set.md:532` |

@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a non-financial business objective?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -35,6 +37,8 @@ objective
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a part of the Boston Matrix?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -53,6 +57,8 @@ cycle
 
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an additional payment to a basic wage?
 
 **Official mark scheme answer:**
 
@@ -75,6 +81,8 @@ where workers get paid for each item produced
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
+**Question:** Which one is the correct label for Phase 2?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -89,6 +97,8 @@ D is not correct because this is phase 3 on figure 1
 
 
 ### `1(a)(v)` — 1 mark (AO2:1)
+
+**Question:** What mark up has Loaf applied to this course?
 
 **Official mark scheme answer:**
 
@@ -109,6 +119,8 @@ course/ cost per item x100
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following amounts would a student pay for this course in Yen?
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -128,6 +140,8 @@ multiplied by 148
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term capital intensive production.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -142,6 +156,8 @@ machinery than labour (1).
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term quantitative data.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -153,6 +169,8 @@ data.
 - Data that is expressed as number (1).
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason why Tom Baker set up his business as a social enterprise.
 
 **Official mark scheme answer:**
 
@@ -170,7 +188,7 @@ community (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the revenue for 2017. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -193,7 +211,7 @@ OR   numbers into formula.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one method a small business might use to increase its profit.
 
 **Official mark scheme answer:**
 
@@ -223,7 +241,7 @@ explanation will get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the importance of environmental factors for Loaf.
 
 **Official mark scheme answer:**
 
@@ -299,7 +317,7 @@ chains of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one primary research method that Loaf could use.
 
 **Official mark scheme answer:**
 
@@ -317,7 +335,7 @@ cookery class (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one drawback for Loaf of poor customer service.
 
 **Official mark scheme answer:**
 
@@ -337,7 +355,7 @@ products (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit to a business of using e-newsletters.
 
 **Official mark scheme answer:**
 
@@ -365,7 +383,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one responsibility of the human resources function in a business.
 
 **Official mark scheme answer:**
 
@@ -397,7 +415,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one way in which the just in time (JIT) method of stock control might benefit a business.
 
 **Official mark scheme answer:**
 
@@ -433,7 +451,8 @@ No marks are awarded for a definition.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Loaf should choose.  
+**Options:** Option 1 · offering free bite-sized pieces of its bread and cakes to people passing its shop · Option 2 · using posters to advertise Loaf in local charity shops.
 
 **Official mark scheme answer:**
 
@@ -551,7 +570,7 @@ to the choice made. (AO4)
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term job share.
 
 **Official mark scheme answer:**
 
@@ -565,7 +584,7 @@ A01 = 1 mark
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one reason why high levels of customer satisfaction might be important to Loaf.
 
 **Official mark scheme answer:**
 
@@ -580,7 +599,7 @@ further mark for linking it to the context of the
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the operating profit margin for Loaf in 2018. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -603,7 +622,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse how useful the information in Figure 2 is to Loaf.
 
 **Official mark scheme answer:**
 
@@ -673,7 +692,8 @@ points with logical chains of reasoning.
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Loaf should choose.  
+**Options:** Option 1 · hosting pop-up events across the country · Option 2 · introducing different cookery courses.
 
 **Official mark scheme answer:**
 
@@ -799,7 +819,7 @@ to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the number of people needed to break-even for this course. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -822,7 +842,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the benefits for Loaf of employing casual staff.
 
 **Official mark scheme answer:**
 
@@ -894,7 +914,7 @@ points with logical chains of reasoning.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate the factors that Loaf would have to consider when deciding where to locate its second bakery. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

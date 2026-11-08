@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following would be a source of finance that could be used for a cash flow problem?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -20,6 +22,8 @@ B - Overdraft
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a phase of the product life cycle?
 
 **Official mark scheme answer:**
 
@@ -30,6 +34,8 @@ C – Maturity
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following is an example of a fixed cost for Lavender?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -38,6 +44,8 @@ D - Rent for Lavender’s businesses
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** When a business employs a new member of staff, part of their induction training would include:
 
 **Official mark scheme answer:**
 
@@ -48,6 +56,8 @@ A– Health and safety
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
+**Question:** How much does Lavender pay in MYR for the yeast?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -57,6 +67,8 @@ C – 11 250
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** Calculate the total cost of selling 1,650 cakes in a week.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -65,6 +77,8 @@ D - 8 514.00
 
 
 ### `1(b)` — 1 mark (AO1:1)
+
+**Question:** Define the term short-term finance.
 
 **Official mark scheme answer:**
 
@@ -81,6 +95,8 @@ months (1).
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term above the line promotion.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -95,6 +111,8 @@ large audience (1).
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason Lavender would recruit internally.
 
 **Official mark scheme answer:**
 
@@ -117,7 +135,7 @@ cakes made by the business (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the cost of buying 25 cakes. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -136,7 +154,7 @@ correctly substituting
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one advantage of being a franchisee.
 
 **Official mark scheme answer:**
 
@@ -162,7 +180,7 @@ explanation will get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why customer satisfaction might be important to Lavender.
 
 **Official mark scheme answer:**
 
@@ -238,7 +256,7 @@ points with logical chains of reasoning.
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one non-financial method of motivating staff at Lavender.
 
 **Official mark scheme answer:**
 
@@ -259,7 +277,7 @@ other than just serving customers (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one function of the finance area in Lavender.
 
 **Official mark scheme answer:**
 
@@ -280,7 +298,7 @@ Pay suppliers of baking ingredients on time (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one way a business can use penetration pricing.
 
 **Official mark scheme answer:**
 
@@ -310,7 +328,7 @@ get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why a business would have a short span of control.
 
 **Official mark scheme answer:**
 
@@ -340,7 +358,7 @@ will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why diseconomies of scale may occur in a business.
 
 **Official mark scheme answer:**
 
@@ -368,7 +386,8 @@ explanation will get a maximum of one mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Lavender should use.  
+**Options:** Option 1 · batch production · Option 2 · flow production.
 
 **Official mark scheme answer:**
 
@@ -476,7 +495,7 @@ to the choice made. (AO4)
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term current liabilities.
 
 **Official mark scheme answer:**
 
@@ -493,7 +512,7 @@ within twelve months (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one reason why the revenue is higher for the Bakery shops rather than for L.café and L.bistro.
 
 **Official mark scheme answer:**
 
@@ -522,7 +541,7 @@ Lavender.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Using Figure 1, calculate the gross profit margin for L.café. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -541,7 +560,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse how the Statement of Comprehensive Income can be used by Lavender when considering its expansion.
 
 **Official mark scheme answer:**
 
@@ -621,7 +640,8 @@ points with logical chains of reasoning.
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two methods Lavender should use.  
+**Options:** Option 1 · primary market research · Option 2 · secondary market research.
 
 **Official mark scheme answer:**
 
@@ -759,7 +779,7 @@ to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate to 2 significant figures the current ratio for 2017. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -778,7 +798,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the benefits to Lavender of using internal sources of finance for its expansion plans.
 
 **Official mark scheme answer:**
 
@@ -850,7 +870,7 @@ points with logical chains of reasoning.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate the benefits to Lavender of using other forms of technology to promote its products.
 
 **Official mark scheme answer:**
 

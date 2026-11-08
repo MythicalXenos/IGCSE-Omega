@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is the meaning of production?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -35,6 +37,8 @@ not production
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a benefit to a person of buying a franchise?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -57,6 +61,8 @@ a franchise
 
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
+
+**Question:** Which one of the following would be the markup percentage?
 
 **Official mark scheme answer:**
 
@@ -82,6 +88,8 @@ C is not correct because 1 600 – 1 060 = 0.52 / 1 600
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following could affect a business because of this change?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -104,6 +112,8 @@ rates would possibly reduce sales
 
 
 ### `1(a)(v)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a feature of a public corporation?
 
 **Official mark scheme answer:**
 
@@ -128,6 +138,8 @@ accountable to the public
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following is the closing balance for the business at the end of the month?
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -149,6 +161,8 @@ plus outflow £400000 minus inflow £360 000
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term commission.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -159,6 +173,8 @@ AO1 = 1 mark
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term revenue.
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -168,6 +184,8 @@ AO1 = 1 mark
 - Money from the sale of goods/services (1).
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one possible reason why HRMW has a short span of control.
 
 **Official mark scheme answer:**
 
@@ -189,7 +207,7 @@ hockey sticks (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate, to two decimal places, the percentage increase from 2020–2021 to 2021–2022. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -206,7 +224,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one reason why a business would sponsor an event.
 
 **Official mark scheme answer:**
 
@@ -236,7 +254,7 @@ will get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the benefit to HRMW of branding the products it sells.
 
 **Official mark scheme answer:**
 
@@ -306,7 +324,7 @@ points with logical chains of reasoning.
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one function that human resources at HRMW would carry out.
 
 **Official mark scheme answer:**
 
@@ -326,7 +344,7 @@ manufacture hockey sticks at HRMW’s factory
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one reason why HRMW carries out market research.
 
 **Official mark scheme answer:**
 
@@ -344,7 +362,7 @@ sports products it sells or intends to sell (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit of using penetration pricing for a new product.
 
 **Official mark scheme answer:**
 
@@ -376,7 +394,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit to a business of using the internet to carry out secondary market research.
 
 **Official mark scheme answer:**
 
@@ -414,7 +432,7 @@ will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit to a business of continually introducing new products.
 
 **Official mark scheme answer:**
 
@@ -448,7 +466,8 @@ products with no explanation will get a maximum of
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options HRMW should use.  
+**Options:** Option 1 · kaizen · Option 2 · just-in-time (JIT).
 
 **Official mark scheme answer:**
 
@@ -566,7 +585,7 @@ to the choice made. (AO4)
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term e-tailers.
 
 **Official mark scheme answer:**
 
@@ -582,7 +601,7 @@ goods/services (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one reason why HRMW uses robotics in the production of its goods.
 
 **Official mark scheme answer:**
 
@@ -595,7 +614,7 @@ would use robotics in its production, plus 1 further
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the number of tennis racquets that would have to be made to break‑even. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -616,7 +635,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the limitations for HRMW of using break-even charts when planning the manufacture of tennis racquets.
 
 **Official mark scheme answer:**
 
@@ -688,7 +707,8 @@ points with logical chains of reasoning.
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options HRMW should use.  
+**Options:** Option 1 · retained profit · Option 2 · selling assets.
 
 **Official mark scheme answer:**
 
@@ -802,7 +822,7 @@ to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate, to two decimal places, the acid test ratio for HRMW. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -825,7 +845,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why a bank would be interested in HRMW’s financial documents if it were to apply for a loan to develop new sports products.
 
 **Official mark scheme answer:**
 
@@ -899,7 +919,7 @@ points with logical chains of reasoning.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate the factors that make a business, such as HRMW, successful. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

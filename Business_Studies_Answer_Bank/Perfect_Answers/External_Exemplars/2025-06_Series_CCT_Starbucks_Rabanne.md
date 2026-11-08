@@ -277,7 +277,11 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 
 # ⭐⭐⭐ THE 6-MARK ANALYSE EXEMPLARS — two verified full-mark answers
 
-## A. June 2025 P2 (Starbucks) — Q2(c) — Analyse the advantages of **batch production** — **6/6**
+## A. June 2025 P2 (Starbucks) — **Q1(g)** — Analyse the benefits of **batch production** — **6/6**
+
+> ⚠️ **Corrected 12 Nov 2026.** This was headed **Q2(c)**. The June 2025 Paper 2 paper prints batch
+> production at **1(g)**; **2(c)** is the 3-mark JIT question. The same correction was made in
+> `02_Verified_Exemplars.md` and in the register on 9 Nov — this file was missed.
 
 > **Report:** *"the 'analyse' questions… are holistically marked. Marks are awarded for **contextualised knowledge (AO2)** and **logical chains of reasoning (AO3)**… **many candidates confused batch production with job or flow production**."*
 
@@ -287,7 +291,12 @@ The General/Introduction sections of all three 2025 reports contain the familiar
 **Examiner comment (verbatim):**
 > *"This response was awarded the full 6 marks. The response identified advantages of batch production which is in the context of Starbucks. The candidate **deconstructs the business information finding interconnective points with logical chains of reasoning**."*
 
-> ### 🔬 Three sentences. 46 words. Full marks.
+> ### 🔬 Two paragraphs (~100 words as scanned). Full marks.
+
+> ⚠️ **Corrected 12 Nov 2026.** This said *"three sentences, 46 words"*. Read off Pearson's scan
+> (report p. 11), the script is **two paragraphs**, and the second one — *"Further, batch production is
+> convenient… affecting only a selected number of batches"* — is carried only in the image, not in the
+> PDF's text layer. The table below quotes the first paragraph only.
 > | Move | Text |
 > |---|---|
 > | **1. The benefit** | *"Starbucks using batch production is **flexible** and helps **meet the demand**"* |

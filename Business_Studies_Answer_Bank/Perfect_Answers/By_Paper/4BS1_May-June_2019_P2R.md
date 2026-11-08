@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which sector does a clothing retailer operate in?
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -20,6 +22,8 @@ C – Tertiary
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an example of a fixed cost?
 
 **Official mark scheme answer:**
 
@@ -30,7 +34,7 @@ A – Rent
 
 ### `1(a)(iii)` — 1 mark (no AO — see note)
 
-**Question:** *withdrawn item — see the mark scheme note*
+**Question:** What would the Yellow store in Dubai pay in Dirhams for the 2,000 T-shirts?
 
 **Official mark scheme answer (verbatim, an ERRATUM not an answer):**
 
@@ -43,6 +47,8 @@ We are aware that there is no correct answer to this item. Because of this, all 
 
 ### `1(a)(iv)` — 1 mark (AO2:1)
 
+**Question:** What would be an effect on Yellow of the change in the exchange rate?
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -51,6 +57,8 @@ D – Could charge lower prices
 
 
 ### `1(a)(v)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a long-term source of finance?
 
 **Official mark scheme answer:**
 
@@ -61,6 +69,8 @@ B – Reinvested profit
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** What is the percentage increase in revenue from 2015 to 2016?
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -69,6 +79,8 @@ A – 4.03%
 
 
 ### `1(b)` — 1 mark (AO1:1)
+
+**Question:** Define the term crowdfunding.
 
 **Official mark scheme answer:**
 
@@ -82,6 +94,8 @@ project via the internet (1).
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term branding.
 
 **Official mark scheme answer:**
 
@@ -97,6 +111,8 @@ differentiates a product from other products
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one diseconomy of scale that could affect Yellow.
 
 **Official mark scheme answer:**
 
@@ -117,7 +133,7 @@ difficult in different countries (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the selling price of a T-shirt that costs Yellow 252 (AED) if the mark-up was 17%. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -142,7 +158,7 @@ working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one advantage for a business of having loyal customers.
 
 **Official mark scheme answer:**
 
@@ -173,7 +189,7 @@ explanation will get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why Yellow might encourage its clothing manufacturers to use Kaizen.
 
 **Official mark scheme answer:**
 
@@ -244,7 +260,7 @@ points with logical chains of reasoning
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one benefit to Yellow of introducing this product.
 
 **Official mark scheme answer:**
 
@@ -263,7 +279,7 @@ design their own shirt (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one way Yellow could carry out market research.
 
 **Official mark scheme answer:**
 
@@ -282,7 +298,7 @@ shops (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit to a business of retaining its employees.
 
 **Official mark scheme answer:**
 
@@ -313,7 +329,7 @@ will get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one advantage for a business of using targeted advertising online.
 
 **Official mark scheme answer:**
 
@@ -344,7 +360,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why cash flow forecasts are important for a business.
 
 **Official mark scheme answer:**
 
@@ -377,7 +393,8 @@ maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Yellow should use.  
+**Options:** Option 1 · employ only full-time staff · Option 2 · employ only part-time staff.
 
 **Official mark scheme answer:**
 
@@ -489,7 +506,7 @@ to the choice made (AO4).
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term multinational business.
 
 **Official mark scheme answer:**
 
@@ -508,7 +525,7 @@ country (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one benefit to BEXIMCO of owning Yellow.
 
 **Official mark scheme answer:**
 
@@ -533,7 +550,7 @@ appropriate for the context of BEXIMCO.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate, to 2 decimal places, the percentage of revenue that Yellow contributed to BEXIMCO’s total revenue.
 
 **Official mark scheme answer:**
 
@@ -550,7 +567,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why Yellow sells to all demographics.
 
 **Official mark scheme answer:**
 
@@ -619,7 +636,8 @@ points with logical chains of reasoning
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Yellow should use.  
+**Options:** Option 1 · job enrichment · Option 2 · job rotation.
 
 **Official mark scheme answer:**
 
@@ -751,7 +769,7 @@ to the choice made (AO4).
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional
+**Question:** Calculate the gross profit for Yellow if it sold 14,000 T-shirts. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -776,7 +794,7 @@ numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the disadvantage for Yellow of customers using social media.
 
 **Official mark scheme answer:**
 
@@ -851,7 +869,7 @@ points with logical chains of reasoning
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate how Yellow may have gained a competitive advantage in the clothing market. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

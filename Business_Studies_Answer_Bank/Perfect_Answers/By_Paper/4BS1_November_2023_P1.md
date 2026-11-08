@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is shown on the statement of financial position?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -37,7 +39,7 @@ income
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an element of the
+**Question:** Which one of the following is an element of the marketing mix?
 
 **Official mark scheme answer:**
 
@@ -60,7 +62,7 @@ difference between total revenue and total costs
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an element of the
+**Question:** Which one of the following is the total monthly cost?
 
 **Official mark scheme answer:**
 
@@ -81,7 +83,7 @@ fixed costs multiplied by the variable cost
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following job roles is most
+**Question:** Which one of the following job roles is most likely to be associated with capital-intensive production?
 
 **Official mark scheme answer:**
 
@@ -104,7 +106,7 @@ is labour intensive
 
 ### `1(a)(v)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following job roles is most
+**Question:** Which one of the following is an internal source of finance?
 
 **Official mark scheme answer:**
 
@@ -127,7 +129,7 @@ an external source of finance
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the weekly break-
+**Question:** Which one of the following is the weekly break-even point?
 
 **Official mark scheme answer:**
 
@@ -206,7 +208,7 @@ the context of AWG.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional
+**Question:** Calculate, to two decimal places, the new price of the jumper in the promotional sale. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -227,7 +229,7 @@ substituting
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business that operates
+**Question:** Explain one benefit to a business that operates as a sole trader.
 
 **Official mark scheme answer:**
 
@@ -259,7 +261,7 @@ explanation will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the advantages to AWG of using
+**Question:** Analyse the advantages to AWG of using e-commerce to sell its products.
 
 **Official mark scheme answer:**
 
@@ -335,7 +337,7 @@ of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Analyse the advantages to AWG of using
+**Question:** State one non-financial method AWG may use to motivate its employees.
 
 **Official mark scheme answer:**
 
@@ -361,7 +363,7 @@ context of AWG
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one task of an AWG employee working in
+**Question:** State one task of an AWG employee working in the human resources department.
 
 **Official mark scheme answer:**
 
@@ -389,7 +391,7 @@ context of AWG
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit of globalisation to a small
+**Question:** Explain one benefit of globalisation to a small business.
 
 **Official mark scheme answer:**
 
@@ -421,7 +423,7 @@ explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one method of below-the-line promotion
+**Question:** Explain one method of below-the-line promotion a business may use to retain its customers.
 
 **Official mark scheme answer:**
 
@@ -453,7 +455,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business of using
+**Question:** Explain one benefit to a business of using market segmentation to target its customers.
 
 **Official mark scheme answer:**
 
@@ -487,7 +489,8 @@ explanation will get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** It is considering two options
+**Question:** Justify which one of these two options AWG should choose.  
+**Options:** Option 1 · use venture capital to open new stores · Option 2 · start offering franchises.
 
 **Official mark scheme answer:**
 
@@ -629,7 +632,7 @@ time
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline why AWG can be classified as operating
+**Question:** Outline why AWG can be classified as operating in the secondary sector.
 
 **Official mark scheme answer:**
 
@@ -655,7 +658,7 @@ of AWG.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total amount, Additional
+**Question:** Calculate the total amount, including interest, AWG would have paid to the bank. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -684,7 +687,7 @@ without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the impact on AWG of a depreciation of
+**Question:** Analyse the impact on AWG of a depreciation of the ISK.
 
 **Official mark scheme answer:**
 
@@ -770,7 +773,8 @@ of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: competition pricing
+**Question:** Justify which one of these two options AWG should choose.  
+**Options:** Option 1 · competition pricing · Option 2 · cost plus pricing.
 
 **Official mark scheme answer:**
 
@@ -898,7 +902,7 @@ issues relevant to the choice made.
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate the Additional guidance
+**Question:** Calculate the commission payment paid to an employee selling 12 jumpers. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -997,7 +1001,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the impact on AWG of having these
+**Question:** Evaluate the impact on AWG of having these social objectives when planning to grow the business. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

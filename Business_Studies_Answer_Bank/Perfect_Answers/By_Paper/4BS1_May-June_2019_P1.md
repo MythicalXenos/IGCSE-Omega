@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a method of secondary market research?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -20,6 +22,8 @@ B - Government reports
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following could be a financial objective for the owners of Backyard Shoez?
 
 **Official mark scheme answer:**
 
@@ -30,6 +34,8 @@ C - Increased market share
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is an external source of finance for the owner of a business?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -38,6 +44,8 @@ A - Bank loan
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which functional area would be responsible for quality control?
 
 **Official mark scheme answer:**
 
@@ -48,6 +56,8 @@ C – Production
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
+**Question:** How much did Backyard Shoez have to pay in Kenyan Shillings for each handbag imported in February 2018?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -57,6 +67,8 @@ A - 2 489.60 Ks
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** What effect would this exchange rate have on Backyard Shoez if the cost of an imported handbag remained at €20?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -65,6 +77,8 @@ D - The cost of importing a handbag would fall
 
 
 ### `1(b)` — 1 mark (AO1:1)
+
+**Question:** Define the term stakeholder.
 
 **Official mark scheme answer:**
 
@@ -77,6 +91,8 @@ success or failure of a business (1).
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term quantitative data.
 
 **Official mark scheme answer:**
 
@@ -91,6 +107,8 @@ expressed/represented as numbers (1).
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one method Backyard Shoez could use for on-the-job training.
 
 **Official mark scheme answer:**
 
@@ -111,7 +129,7 @@ between different shoe brands (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the gross profit margin to 2 decimal places. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -124,7 +142,7 @@ AO2 - 2 marks
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one way a business could increase its gross profit margin.
 
 **Official mark scheme answer:**
 
@@ -154,7 +172,7 @@ get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the importance to Backyard Shoez of satisfying customer needs.
 
 **Official mark scheme answer:**
 
@@ -224,7 +242,7 @@ points with logical chains of reasoning
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one fringe benefit that Backyard Shoez can offer its employees.
 
 **Official mark scheme answer:**
 
@@ -245,7 +263,7 @@ customer service (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one benefit to Backyard Shoez of using off-the-job training.
 
 **Official mark scheme answer:**
 
@@ -266,7 +284,7 @@ and children’s shoes (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why many businesses have a human resource functional area.
 
 **Official mark scheme answer:**
 
@@ -296,7 +314,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one method of above the line promotion a business could use.
 
 **Official mark scheme answer:**
 
@@ -324,7 +342,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one way the product life cycle can be extended.
 
 **Official mark scheme answer:**
 
@@ -354,7 +372,8 @@ will get a maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Backyard Shoez should use.  
+**Options:** Option 1 · bonus payments · Option 2 · job enrichment.
 
 **Official mark scheme answer:**
 
@@ -464,7 +483,7 @@ choice made (AO4).
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term profit.
 
 **Official mark scheme answer:**
 
@@ -478,7 +497,7 @@ and total costs (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one impact on Backyard Shoez if interest rates increase.
 
 **Official mark scheme answer:**
 
@@ -507,7 +526,7 @@ Backyard Shoez.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional
+**Question:** Calculate the break-even point. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -530,7 +549,7 @@ worked out revenue instead of   marks for
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the benefits to Backyard Shoez of using break-even analysis to plan the launch of its new shoes for men and children.
 
 **Official mark scheme answer:**
 
@@ -594,7 +613,8 @@ points with logical chains of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these options Backyard Shoez should use.  
+**Options:** Option 1 · crowdfunding · Option 2 · overdraft.
 
 **Official mark scheme answer:**
 
@@ -704,7 +724,7 @@ choice made (AO4).
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the markup on these shoes. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -725,7 +745,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the usefulness of profitability ratios to Backyard Shoez.
 
 **Official mark scheme answer:**
 
@@ -801,7 +821,7 @@ points with logical chains of reasoning
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative Content
+**Question:** Evaluate the importance of primary market research to Backyard Shoez. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

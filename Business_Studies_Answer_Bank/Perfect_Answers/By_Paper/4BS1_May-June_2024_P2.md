@@ -44,7 +44,7 @@ D - is not the correct answer as delaying payment would have the opposite effect
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following would be the total monthly cost for Jewellery For You?
+**Question:**  Which one of the following would be the total monthly cost for Jewellery For You?
 
 **Official mark scheme answer:**
 
@@ -108,6 +108,8 @@ C - is not the correct answer as shareholders are not liable for all debts
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term franchise.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -119,6 +121,8 @@ Q. No.   Define the term profit.   Mark
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term profit.
 
 **Official mark scheme answer:**
 
@@ -135,6 +139,8 @@ minimum wage.
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason why TUI pays its employees above the minimum wage.
 
 **Official mark scheme answer:**
 
@@ -169,6 +175,8 @@ booking online.
 
 ### `1(e)` — 2 marks (AO2:2)
 
+**Question:** Calculate the total price of a holiday for two adults with a 12.5% promotional discount for booking online. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -185,6 +193,8 @@ formula.   1451.84 x 0.125 = 181.48
 
 
 ### `1(f)` — 3 marks (AO1:3)
+
+**Question:** Explain one of the factors in Herzberg’s motivational theory.
 
 **Official mark scheme answer:**
 
@@ -220,6 +230,8 @@ training for its employees in their induction training.
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the benefits for TUI from including health and safety training for its employees in their induction training.
 
 **Official mark scheme answer:**
 
@@ -285,6 +297,8 @@ customers loyal.
 
 ### `2(a)` — 1 mark (AO2:1)
 
+**Question:** State one possible reason why TUI would want to keep its customers loyal.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -311,6 +325,8 @@ Q. No.   State one reason why TUI would employ casual employees.   Mark
 
 
 ### `2(b)` — 1 mark (AO2:1)
+
+**Question:** State one reason why TUI would employ casual employees.
 
 **Official mark scheme answer:**
 
@@ -340,6 +356,8 @@ disabilities.
 
 
 ### `2(c)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why businesses employ people with disabilities.
 
 **Official mark scheme answer:**
 
@@ -376,6 +394,8 @@ command.
 
 ### `2(d)` — 3 marks (AO1:3)
 
+**Question:** Explain one benefit to a business of having a short chain of command.
+
 **Official mark scheme answer:**
 
 A01 - 3 marks
@@ -402,6 +422,8 @@ Answers that list three benefits with no explanation will get 1
 
 
 ### `2(e)` — 3 marks (AO1:3)
+
+**Question:** Explain one important piece of information that should be included in a job advertisement in a newspaper.
 
 **Official mark scheme answer:**
 
@@ -441,6 +463,9 @@ Justify which one of these two options TUI should choose.
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options TUI should choose.  
+**Options:** Option 1 · competition pricing · Option 2 · promotional pricing.
 
 **Official mark scheme answer:**
 
@@ -544,6 +569,8 @@ Q. No.   Define the term multinationals.   Mark
 
 ### `3(a)` — 1 mark (AO1:1)
 
+**Question:** Define the term multinationals.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -559,6 +586,8 @@ they sell.
 
 
 ### `3(b)` — 2 marks (AO2:2)
+
+**Question:** Outline one reason why TUI offers employees working in its travel agencies a commission based on the number of holidays they sell.
 
 **Official mark scheme answer:**
 
@@ -588,6 +617,8 @@ the current ratio for TUI for 2022.
 
 ### `3(c)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the current ratio for TUI for 2022. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -602,6 +633,8 @@ formula.   = 1.37
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the effect on TUI customers of an increase in interest rates.
 
 **Official mark scheme answer:**
 
@@ -658,6 +691,9 @@ Justify which one of these two options TUI should use.
 
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options TUI should use.  
+**Options:** Option 1 · using the internet · Option 2 · asking customers to complete a questionnaire.
 
 **Official mark scheme answer:**
 
@@ -758,6 +794,8 @@ to 2022.
 
 ### `4(a)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the percentage increase in the total cost of employees from 2021 to 2022. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -772,6 +810,8 @@ formula.   17 867 ÷ 39 631 x 100
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse how TUI could make use of the Boston Matrix to review all the different types of holidays it offers.
 
 **Official mark scheme answer:**
 
@@ -832,6 +872,8 @@ knowledge of business.
 
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
+
+**Question:** Evaluate the benefits for TUI of providing a quality service. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

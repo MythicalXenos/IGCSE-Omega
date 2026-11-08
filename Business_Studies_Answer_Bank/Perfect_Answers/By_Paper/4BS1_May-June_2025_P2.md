@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a secondary sector activity?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -28,6 +30,8 @@ Q. No.   Which one of the following is an external source of finance?   Mark
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an external source of finance?
 
 **Official mark scheme answer:**
 
@@ -48,6 +52,8 @@ latte?
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following is the percentage decrease in the price of a latte?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -66,6 +72,8 @@ partnership?
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is the minimum number of owners in a partnership?
 
 **Official mark scheme answer:**
 
@@ -90,6 +98,8 @@ member in India?
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following would be the monthly price in Rupees to be a member in India?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -108,6 +118,8 @@ managing immediate cash flow problems?
 
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an external source of finance for managing immediate cash flow problems?
 
 **Official mark scheme answer:**
 
@@ -132,6 +144,8 @@ Q. No.   Define the term social enterprise.   Mark
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term social enterprise.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -146,6 +160,8 @@ Q. No.   Define the term tertiary sector.   Mark
 
 ### `1(c)` — 1 mark (AO1:1)
 
+**Question:** Define the term tertiary sector.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -157,6 +173,8 @@ Q. No.   State one reason why Starbucks wants to retain its employees.   Mark
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one reason why Starbucks wants to retain its employees.
 
 **Official mark scheme answer:**
 
@@ -185,6 +203,8 @@ are advised to show your working.
 
 ### `1(e)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the estimated total revenue in 2030. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -201,6 +221,8 @@ formula.
 
 
 ### `1(f)` — 3 marks (AO1:3)
+
+**Question:** Explain one disadvantage for a business of training its employees.
 
 **Official mark scheme answer:**
 
@@ -226,6 +248,8 @@ Answers that list three disadvantages with no explanation will get 1
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the benefits for Starbucks of using batch production.
 
 **Official mark scheme answer:**
 
@@ -281,6 +305,8 @@ its customers.
 
 ### `2(a)` — 1 mark (AO2:1)
 
+**Question:** State one reason why Starbucks should have good communication with its customers.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -305,6 +331,8 @@ Q. No.   State one way Starbucks could follow health and safety legislation.   M
 
 
 ### `2(b)` — 1 mark (AO2:1)
+
+**Question:** State one way Starbucks could follow health and safety legislation.
 
 **Official mark scheme answer:**
 
@@ -332,6 +360,8 @@ just-in-time (JIT).
 
 
 ### `2(c)` — 3 marks (AO1:3)
+
+**Question:** Explain one reason why many manufacturing businesses use just-in-time (JIT).
 
 **Official mark scheme answer:**
 
@@ -368,6 +398,8 @@ on time.
 
 ### `2(d)` — 3 marks (AO1:3)
 
+**Question:** Explain one reason why it is important that businesses pay their suppliers on time.
+
 **Official mark scheme answer:**
 
 A01 - 3 marks
@@ -403,6 +435,8 @@ Q. No.   Explain one effect on a business if interest rates are decreased.   Mar
 
 ### `2(e)` — 3 marks (AO1:3)
 
+**Question:** Explain one effect on a business if interest rates are decreased.
+
 **Official mark scheme answer:**
 
 A01 - 3 marks
@@ -437,6 +471,9 @@ Justify which one of these two methods Starbucks should choose.
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two methods Starbucks should choose.  
+**Options:** Option 1 · financial methods · Option 2 · non-financial methods.
 
 **Official mark scheme answer:**
 
@@ -534,6 +571,8 @@ Q. No.   Define the term crowdfunding.   Mark
 
 ### `3(a)` — 1 mark (AO1:1)
 
+**Question:** Define the term crowdfunding.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -549,6 +588,8 @@ Starbucks.
 
 
 ### `3(b)` — 2 marks (AO2:2)
+
+**Question:** Outline one reason why the proximity of labour is important to Starbucks.
 
 **Official mark scheme answer:**
 
@@ -568,6 +609,8 @@ baristas in the shop
 
 ### `3(c)` — 2 marks (AO2:2)
 
+**Question:** Calculate the salary of a Starbucks employee in Germany in euros. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -582,6 +625,8 @@ formula.   = 19 110
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse why Starbucks wants to promote its existing employees.
 
 **Official mark scheme answer:**
 
@@ -634,6 +679,9 @@ Justify which one of these two options Starbucks should choose.
 
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Starbucks should choose.  
+**Options:** Option 1 · open coffee shops in supermarkets · Option 2 · open coffee shops in hospitals.
 
 **Official mark scheme answer:**
 
@@ -729,6 +777,8 @@ your workings
 
 ### `4(a)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the cost of the meal with the employee’s discount. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -743,6 +793,8 @@ formula.   15.50 – 4.65
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse why Starbucks thinks it is important to interview candidates that have applied for a job with them.
 
 **Official mark scheme answer:**
 
@@ -799,6 +851,8 @@ provided as well as your own knowledge of business.
 
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
+
+**Question:** Evaluate why Starbucks carries out product trials that might reduce the risks from introducing new products. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

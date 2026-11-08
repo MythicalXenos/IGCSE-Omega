@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an advantage of
+**Question:** Which one of the following is an advantage of primary market research?
 
 **Official mark scheme answer:**
 
@@ -31,7 +31,7 @@ people not just agencies
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a financial
+**Question:** Which one of the following is a financial objective?
 
 **Official mark scheme answer:**
 
@@ -50,7 +50,7 @@ D – is incorrect as control is not financial
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the total revenue
+**Question:** Which one of the following is the total revenue for a day?
 
 **Official mark scheme answer:**
 
@@ -69,7 +69,7 @@ D – is incorrect as £600 x £12.00
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following would be a
+**Question:** Which one of the following would be a disadvantage for a partner in a partnership?
 
 **Official mark scheme answer:**
 
@@ -109,7 +109,7 @@ D – is incorrect as 10.64 is 76 x .14
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a source of long-
+**Question:** Which one of the following is a source of long-term finance?
 
 **Official mark scheme answer:**
 
@@ -164,7 +164,7 @@ demographics.
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why Huawei may
+**Question:** State one reason why Huawei may use share capital as a source of finance.
 
 **Official mark scheme answer:**
 
@@ -189,7 +189,7 @@ technology
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional guidance
+**Question:** Calculate, to two decimal places, the operating profit margin for Huawei. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -210,7 +210,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage for a business
+**Question:** Explain one advantage for a business of using sponsorship.
 
 **Official mark scheme answer:**
 
@@ -253,7 +253,7 @@ explanation will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Explain one advantage for a business
+**Question:** Analyse the benefits for Huawei of locating its factories near to its labour sources.
 
 **Official mark scheme answer:**
 
@@ -327,7 +327,7 @@ points with logical chains of reasoning
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one possible reason why Huawei pays its
+**Question:** State one possible reason why Huawei pays its employees in the UK above the minimum wage.
 
 **Official mark scheme answer:**
 
@@ -359,7 +359,7 @@ Huawei
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one possible reason why Huawei would
+**Question:** State one possible reason why Huawei would want to keep its customers loyal to its brand.
 
 **Official mark scheme answer:**
 
@@ -386,7 +386,7 @@ purchase other products such as its tablets
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why having good public
+**Question:** Explain one reason why having good public relations is important to a business.
 
 **Official mark scheme answer:**
 
@@ -420,7 +420,7 @@ explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit of being a multinational
+**Question:** Explain one benefit of being a multinational business.
 
 **Official mark scheme answer:**
 
@@ -454,7 +454,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why secondary research
+**Question:** Explain one reason why secondary research would be used by a business.
 
 **Official mark scheme answer:**
 
@@ -494,7 +494,8 @@ explanation will get a maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: financial
+**Question:** Justify which one of these two options Huawei should choose.  
+**Options:** Option 1 · financial · Option 2 · non-financial.
 
 **Official mark scheme answer:**
 
@@ -650,7 +651,7 @@ services
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one reason why Huawei would use
+**Question:** Outline one reason why Huawei would use robotics in the production of its products.
 
 **Official mark scheme answer:**
 
@@ -680,7 +681,7 @@ context of Huawei.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the interest Huawei Additional
+**Question:** Calculate the interest Huawei would pay. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -711,7 +712,7 @@ without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why Huawei offers its new employees in the
+**Question:** Analyse why Huawei offers its new employees in the design department off-the job training.
 
 **Official mark scheme answer:**
 
@@ -793,7 +794,8 @@ of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: competition pricing
+**Question:** Justify which one of these two options Huawei should use when launching its new smartphone.  
+**Options:** Option 1 · competition pricing · Option 2 · promotional pricing.
 
 **Official mark scheme answer:**
 
@@ -915,7 +917,7 @@ to the choice made (AO4).
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate the cost of Additional guidance
+**Question:** Calculate the cost of this smartphone in US Dollars. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -934,7 +936,7 @@ correct numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why Huawei would want good quality
+**Question:** Analyse why Huawei would want good quality control when producing its smartphones.
 
 **Official mark scheme answer:**
 
@@ -1014,7 +1016,7 @@ of reasoning (AO3).
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate why Huawei would carry out market
+**Question:** Evaluate why Huawei would carry out market research before designing a new product. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

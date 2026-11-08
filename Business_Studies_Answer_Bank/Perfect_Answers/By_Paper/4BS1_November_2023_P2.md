@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of
+**Question:** Which one of the following is an example of primary market research?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ secondary market research
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an example of
+**Question:** Which one of the following is an example of external communication?
 
 **Official mark scheme answer:**
 
@@ -62,7 +62,7 @@ employees is an internal communication
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the percentage
+**Question:** Which one of the following is the percentage decrease in the share price?
 
 **Official mark scheme answer:**
 
@@ -81,7 +81,7 @@ x 100
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the percentage
+**Question:** Which one of the following is the price of 12 tins of baked beans with the 12.5% promotional price discount?
 
 **Official mark scheme answer:**
 
@@ -98,7 +98,7 @@ D is incorrect as $81.00 = 0.54 x 12 x 12.5
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following would be a long-term
+**Question:** Which one of the following would be a long-term source of finance for a sole trader?
 
 **Official mark scheme answer:**
 
@@ -117,7 +117,7 @@ sole traders
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the break-even
+**Question:** Which one of the following is the break-even point? A B C D Units $ Figure 1
 
 **Official mark scheme answer:**
 
@@ -168,7 +168,7 @@ non-members (1)
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why Kraft Heinz prefers to train
+**Question:** State one reason why Kraft Heinz prefers to train its employees using on-the-job training.
 
 **Official mark scheme answer:**
 
@@ -195,7 +195,7 @@ context of Kraft Heinz
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total pay Additional guidance
+**Question:** Calculate the total pay an employee would receive once the bonus is added to their salary. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -222,7 +222,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one purpose for a business of the
+**Question:** Explain one purpose for a business of the statement of financial position.
 
 **Official mark scheme answer:**
 
@@ -263,7 +263,7 @@ explanation will gain 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits to Kraft Heinz of using
+**Question:** Analyse the benefits to Kraft Heinz of using social media to collect market research data.
 
 **Official mark scheme answer:**
 
@@ -351,7 +351,7 @@ of reasoning (AO3).
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one task that the human resources would
+**Question:** State one task that human resources would carry out at Kraft Heinz when recruiting an employee.
 
 **Official mark scheme answer:**
 
@@ -384,7 +384,7 @@ context of Kraft Heinz.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one financial objective Kraft Heinz might
+**Question:** State one financial objective Kraft Heinz might have.
 
 **Official mark scheme answer:**
 
@@ -413,7 +413,7 @@ in the context of Kraft Heinz
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why some businesses use
+**Question:** Explain one reason why some businesses use crowdfunding as a source of finance.
 
 **Official mark scheme answer:**
 
@@ -454,7 +454,7 @@ finance, with no explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one disadvantage to a business of using
+**Question:** Explain one disadvantage to a business of using retained profits to purchase goods and services.
 
 **Official mark scheme answer:**
 
@@ -501,7 +501,7 @@ goods and services, with no explanation will get
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why the quality of goods
+**Question:** Explain one reason why the quality of goods manufactured by a business is important to its success.
 
 **Official mark scheme answer:**
 
@@ -550,7 +550,8 @@ get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Explain one reason why the quality of goods
+**Question:** Justify which one of these two options Kraft Heinz should choose.  
+**Options:** Option 1 · sponsorship of a local charity · Option 2 · increasing the number of special offers.
 
 **Official mark scheme answer:**
 
@@ -688,7 +689,7 @@ and traded in stock markets (1)
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one impact that will come from Kraft
+**Question:** Outline one impact that will come from Kraft Heinz’s use of robotic technology.
 
 **Official mark scheme answer:**
 
@@ -720,7 +721,7 @@ context of Kraft Heinz.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the decrease in Waste Additional
+**Question:** Calculate the decrease in waste to landfill in metric tons for Kraft Heinz from 2019 to 2021. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -747,7 +748,7 @@ without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse how Kraft Heinz could benefit from
+**Question:** Analyse how Kraft Heinz could benefit from reducing its waste.
 
 **Official mark scheme answer:**
 
@@ -831,7 +832,8 @@ of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Kraft Heinz will need to recruit more managers to
+**Question:** Justify which one of these two options Kraft Heinz should choose.  
+**Options:** Option 1 · promote existing employees · Option 2 · advertise managerial positions externally.
 
 **Official mark scheme answer:**
 
@@ -969,7 +971,7 @@ issues relevant to the choice made
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** (a) Calculate, to two Additional guidance
+**Question:** Calculate, to two decimal places, the gross profit margin for Kraft Heinz for the three months ending 25 June 2022. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -986,7 +988,7 @@ correct numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits to countries where Kraft
+**Question:** Analyse the benefits to countries where Kraft Heinz is located.
 
 **Official mark scheme answer:**
 
@@ -1068,7 +1070,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the importance to Kraft Heinz of using a
+**Question:** Evaluate the importance to Kraft Heinz of using a variety of different methods to advertise to its target customers. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

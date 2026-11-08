@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the break-even
+**Question:** Which one of the following is the break-even point on a break-even chart?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ C – is not the correct answer as fixed costs and
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a benefit to a
+**Question:** Which one of the following is a benefit to a franchisee?
 
 **Official mark scheme answer:**
 
@@ -60,7 +60,7 @@ franchisor who has total control
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is an advantage of
+**Question:** Which one of the following is an advantage of job production when compared to other methods of production?
 
 **Official mark scheme answer:**
 
@@ -85,7 +85,7 @@ will be needed for job production
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following would be the total
+**Question:** Which one of the following would be the total amount paid in AED by a customer for a room?
 
 **Official mark scheme answer:**
 
@@ -108,7 +108,7 @@ C – is not the correct answer as 350 is 325 plus
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the percentage
+**Question:** Which one of the following is the percentage increase in revenue from 2021 to 2022.
 
 **Official mark scheme answer:**
 
@@ -131,7 +131,7 @@ D – is not the correct answer as 523.20% is
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an internal source
+**Question:** Which one of the following is an internal source of finance for a business?
 
 **Official mark scheme answer:**
 
@@ -188,7 +188,7 @@ state/government (1)
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why Premier Inn managers
+**Question:** State one reason why Premier Inn managers would delegate tasks to hotel employees.
 
 **Official mark scheme answer:**
 
@@ -221,7 +221,7 @@ context of Premier Inn
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional guidance
+**Question:** Calculate, to two decimal places, the price for the first night after the discount has been applied. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -244,7 +244,7 @@ final answer incorrect   working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage of using focus groups
+**Question:** Explain one advantage of using focus groups when carrying out market research.
 
 **Official mark scheme answer:**
 
@@ -365,7 +365,7 @@ of reasoning (AO3).
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one activity carried out by the marketing
+**Question:** State one activity carried out by the marketing functional area at Premier Inn.
 
 **Official mark scheme answer:**
 
@@ -394,7 +394,7 @@ context of Premier Inn
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why Premier Inn uses seasonal
+**Question:** State one reason why Premier Inn uses seasonal employees.
 
 **Official mark scheme answer:**
 
@@ -425,7 +425,7 @@ context of Premier Inn
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business would use
+**Question:** Explain one reason why a business would use robotics in its production.
 
 **Official mark scheme answer:**
 
@@ -468,7 +468,7 @@ explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business might use
+**Question:** Explain one reason why a business might use sponsorship.
 
 **Official mark scheme answer:**
 
@@ -513,7 +513,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage for a country of being in
+**Question:** Explain one advantage for a country of being in a trading bloc.
 
 **Official mark scheme answer:**
 
@@ -556,7 +556,8 @@ will get a maximum of 1 mark
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: competition pricing
+**Question:** Justify which one of these two options Premier Inn should choose.  
+**Options:** Option 1 · competition pricing · Option 2 · promotional pricing.
 
 **Official mark scheme answer:**
 
@@ -700,7 +701,7 @@ of time (1)
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one possible reason why prospective
+**Question:** Outline one possible reason why prospective employees at Premier Inn complete an application form.
 
 **Official mark scheme answer:**
 
@@ -715,7 +716,7 @@ complete an application form, plus 1 further
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional
+**Question:** Calculate, to two decimal places, what an employee would earn if they worked six hours of overtime. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -736,7 +737,7 @@ formula.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits for Premier Inn of
+**Question:** Analyse the benefits for Premier Inn of motivating its employees.
 
 **Official mark scheme answer:**
 
@@ -820,7 +821,8 @@ of reasoning (AO3).
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: internal recruitment from within
+**Question:** Justify which one of these two options Premier Inn should choose.  
+**Options:** Option 1 · internal recruitment from within Premier Inn hotels around the world · Option 2 · external recruitment, by using an employment agency.
 
 **Official mark scheme answer:**
 
@@ -952,7 +954,7 @@ issues relevant to the choice made
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two Additional guidance
+**Question:** Calculate, to two decimal places, the current ratio in 2022. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -969,7 +971,7 @@ correct answer not given   correct numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the importance of making sure that
+**Question:** Analyse the importance of making sure that guests have a quality service when staying at a Premier Inn.
 
 **Official mark scheme answer:**
 
@@ -1047,7 +1049,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate why a business such as Premier Inn
+**Question:** Evaluate why a business such as Premier Inn would only consider profit to measure its success. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

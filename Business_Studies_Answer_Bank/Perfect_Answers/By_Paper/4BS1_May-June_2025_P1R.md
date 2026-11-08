@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the production process
+**Question:** Which one of the following is the production process that relies more on machinery than on labour?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ method of lean production
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a pricing strategy that
+**Question:** Which one of the following is a pricing strategy that involves setting a low price for a product when it is first introduced to the market to quickly gain market share?
 
 **Official mark scheme answer:**
 
@@ -60,7 +60,7 @@ a mark-up to the product
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is most likely to improve
+**Question:** Which one of the following is most likely to improve the cash flow position of a small business to help prevent its failure?
 
 **Official mark scheme answer:**
 
@@ -91,7 +91,7 @@ compared to cash inflows
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a financial business
+**Question:** Which one of the following is a financial business aim?
 
 **Official mark scheme answer:**
 
@@ -114,7 +114,7 @@ financial business aim
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following would CCT pay in CNY for
+**Question:** Which one of the following would CCT pay in CNY for six electric bicycles?
 
 **Official mark scheme answer:**
 
@@ -137,7 +137,7 @@ C – 5 142.50 CNY - this is not correct because it is
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Using Figure 1 which one of the following is correct
+**Question:** Using Figure 1 which one of the following is correct for CCT?
 
 **Official mark scheme answer:**
 
@@ -190,7 +190,7 @@ decisions about how they work
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one method of secondary market research CCT
+**Question:** State one method of secondary market research CCT could use to collect market data.
 
 **Official mark scheme answer:**
 
@@ -212,7 +212,7 @@ CCT.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal Additional guidance
+**Question:** Calculate, to two decimal places, the current ratio for 2024. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -233,7 +233,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to the business owner of
+**Question:** Explain one benefit to a business owner of operating as a private limited company.
 
 **Official mark scheme answer:**
 
@@ -263,7 +263,7 @@ explanation will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the concerns CCT may have of introducing
+**Question:** Analyse the concerns CCT may have of introducing this app for its customers.
 
 **Official mark scheme answer:**
 
@@ -337,7 +337,7 @@ points with logical chains of reasoning.
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one financial method of motivation CCT could
+**Question:** State one financial method of motivation CCT could use with its employees.
 
 **Official mark scheme answer:**
 
@@ -359,7 +359,7 @@ CCT.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one benefit to CCT of satisfying customer
+**Question:** State one benefit to CCT of satisfying customer needs.
 
 **Official mark scheme answer:**
 
@@ -409,7 +409,7 @@ will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one way that the introduction of tariffs might
+**Question:** Explain one way that the introduction of tariffs might affect a business importing goods.
 
 **Official mark scheme answer:**
 
@@ -439,7 +439,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why quality control is important
+**Question:** Explain one reason why quality control is important to a business.
 
 **Official mark scheme answer:**
 
@@ -467,7 +467,8 @@ explanation will get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** The owner of CCT wants to measure the success of
+**Question:** Justify which one of these two options the owner of CCT should choose.  
+**Options:** Option 1 · customer satisfaction · Option 2 · profit.
 
 **Official mark scheme answer:**
 
@@ -599,7 +600,7 @@ capital.
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline how CCT could use quantitative research data
+**Question:** Outline how CCT could use quantitative research data to improve its service.
 
 **Official mark scheme answer:**
 
@@ -632,7 +633,7 @@ CCT.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate, to two decimal places, Additional
+**Question:** Calculate, to two decimal places, the gross profit margin. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -653,7 +654,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the possible effects on CCT of recruiting
+**Question:** Analyse the possible effects on CCT of recruiting externally.
 
 **Official mark scheme answer:**
 
@@ -725,7 +726,8 @@ with logical chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Feedback from some customers suggested they
+**Question:** Justify which one of these two options CCT should choose.  
+**Options:** Option 1 · selling assets · Option 2 · retained profit.
 
 **Official mark scheme answer:**
 
@@ -835,7 +837,7 @@ the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total discount Additional guidance
+**Question:** Calculate the total discount received by a business when it books eight people on a team-building tour. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -860,7 +862,7 @@ correct numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse other forms of technology CCT can use to
+**Question:** Analyse other forms of technology CCT can use to communicate its services.
 
 **Official mark scheme answer:**
 
@@ -932,7 +934,7 @@ points with logical chains of reasoning.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the impact on CCT of an increase in the
+**Question:** Evaluate the impact on CCT of an increase in the Chinese interest rate. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

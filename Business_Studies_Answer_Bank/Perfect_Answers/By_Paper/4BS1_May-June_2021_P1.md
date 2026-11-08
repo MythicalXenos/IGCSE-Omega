@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is an external source of finance?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -32,6 +34,8 @@ source of finance
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is the name of a pricing strategy where a business sets a high price for a new product in the market?
 
 **Official mark scheme answer:**
 
@@ -56,6 +60,8 @@ business lowers the price of a product for a short time
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following types of discrimination is protected by legislation?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -79,6 +85,8 @@ protected by legislation
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a document employers would send to potential employees?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -100,6 +108,8 @@ would be used to advertise the job vacancy
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following would NOF pay for 1kg of dried fruit in pounds sterling?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -118,6 +128,8 @@ fruits added to the exchange rate of the euro
 
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
+
+**Question:** What is the markup on a jar of honey?
 
 **Official mark scheme answer:**
 
@@ -168,7 +180,7 @@ non-current liabilities.
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why NOF segments its target market
+**Question:** State one reason why NOF segments its target market by income.
 
 **Official mark scheme answer:**
 
@@ -186,7 +198,7 @@ people staying at the farm (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the operating profit margin. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -211,7 +223,7 @@ without working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one strategy a small business might use to
+**Question:** Explain one strategy a small business might use to extend the product life cycle of one of its products.
 
 **Official mark scheme answer:**
 
@@ -309,7 +321,7 @@ with logical chains of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one external factor that could cause a change in
+**Question:** State one external factor that could cause a change in demand for NOF products.
 
 **Official mark scheme answer:**
 
@@ -329,7 +341,7 @@ people buying more organic farmed produce
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why NOF might use other retailers to
+**Question:** State one reason NOF might use other retailers to sell its products.
 
 **Official mark scheme answer:**
 
@@ -347,7 +359,7 @@ other outlets giving it a wider market (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business of using secondary
+**Question:** Explain one benefit to a business of using secondary market research.
 
 **Official mark scheme answer:**
 
@@ -381,7 +393,7 @@ will get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one limitation of a cash flow forecast when
+**Question:** Explain one limitation of a cash flow forecast when making business decisions.
 
 **Official mark scheme answer:**
 
@@ -409,7 +421,7 @@ explanation will get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business of using
+**Question:** Explain one benefit to a business of using crowdfunding as a source of finance.
 
 **Official mark scheme answer:**
 
@@ -439,7 +451,8 @@ will get a maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** NOF is considering two options to introduce the product
+**Question:** Justify which one of these two options NOF should choose.  
+**Options:** Option 1 · offering a low introductory price for three months · Option 2 · selling at the same price as competitors.
 
 **Official mark scheme answer:**
 
@@ -569,7 +582,7 @@ A01 - 1 mark
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one reason why NOF would choose to use
+**Question:** Outline one reason why NOF would choose to use seasonal staff when harvesting its products.
 
 **Official mark scheme answer:**
 
@@ -595,7 +608,7 @@ NOF.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional
+**Question:** Calculate the number of tubs of ice cream NOF will have to sell each day to break‑even. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -620,7 +633,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse how useful break-even calculations can be for
+**Question:** Analyse how useful break‑even calculations can be for NOF when deciding whether to include ice cream in its product range.
 
 **Official mark scheme answer:**
 
@@ -688,7 +701,8 @@ with logical chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** To do this NOF is considering two options
+**Question:** Justify which one of these two options NOF should choose.  
+**Options:** Option 1 · handing out questionnaires at local retailers · Option 2 · using the internet to research other farms.
 
 **Official mark scheme answer:**
 
@@ -806,7 +820,7 @@ the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate, to 2 decimal places, the current ratio for 2020. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -827,7 +841,7 @@ working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits to NOF of using personal savings to
+**Question:** Analyse the benefits to NOF of using personal savings to expand its product range.
 
 **Official mark scheme answer:**
 
@@ -897,7 +911,7 @@ with logical chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the factors that NOF might consider when
+**Question:** Evaluate the factors that NOF might consider when measuring the success of its farm shop. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

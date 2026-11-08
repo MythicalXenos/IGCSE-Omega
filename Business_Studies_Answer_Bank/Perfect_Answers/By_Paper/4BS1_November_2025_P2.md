@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is a financial aim of a business?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -34,6 +36,8 @@ Q. No.   Which one of the following is a job in the secondary sector?   Mark
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is a job in the secondary sector?
 
 **Official mark scheme answer:**
 
@@ -60,6 +64,8 @@ the three factories?
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
+**Question:** Which one of the following is the total daily remuneration cost for the three factories?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -80,6 +86,8 @@ organisational structure?
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following is an advantage of a hierarchical organisational structure?
 
 **Official mark scheme answer:**
 
@@ -105,6 +113,8 @@ Q. No.   Which one of the following is the net cash flow for this month?   Mark
 
 
 ### `1(a)(v)` — 1 mark (AO2:1)
+
+**Question:** Which one of the following is the net cash flow for this month?
 
 **Official mark scheme answer:**
 
@@ -133,6 +143,8 @@ theory?
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following best describes Taylor’s motivational theory?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -158,6 +170,8 @@ Q. No.   Define the term job rotation.   Mark
 
 ### `1(b)` — 1 mark (AO1:1)
 
+**Question:** Define the term job rotation.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -171,6 +185,8 @@ Q. No.   Define the term interest rate.   Mark
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term interest rate.
 
 **Official mark scheme answer:**
 
@@ -187,6 +203,8 @@ production department.
 
 
 ### `1(d)` — 1 mark (AO2:1)
+
+**Question:** State one job that an employee of Samsung might do in the production department.
 
 **Official mark scheme answer:**
 
@@ -217,6 +235,8 @@ advised to show your working
 
 ### `1(e)` — 2 marks (AO2:2)
 
+**Question:** Calculate the factory’s productivity of smartphones per hour. You are advised to show your working.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -227,6 +247,8 @@ A02 - 2 marks
 
 
 ### `1(f)` — 3 marks (AO1:3)
+
+**Question:** Explain one advantage to a business of mass marketing.
 
 **Official mark scheme answer:**
 
@@ -259,6 +281,8 @@ the best employees for its business
 
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse how recruitment documents may help Samsung to hire the best employees for its business.
 
 **Official mark scheme answer:**
 
@@ -332,6 +356,8 @@ Q. No.   State one reason why Samsung may need long-term finance.   Mark
 
 ### `2(a)` — 1 mark (AO2:1)
 
+**Question:** State one reason why Samsung may need long-term finance.
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -350,6 +376,8 @@ Q. No.   State one reason why quality control is a benefit to Samsung   Mark
 
 
 ### `2(b)` — 1 mark (AO2:1)
+
+**Question:** State one reason why quality control is a benefit to Samsung.
 
 **Official mark scheme answer:**
 
@@ -372,6 +400,8 @@ Q. No.   Explain one advantage to a business of having a social objective.   Mar
 
 
 ### `2(c)` — 3 marks (AO1:3)
+
+**Question:** Explain one advantage to a business of having a social objective.
 
 **Official mark scheme answer:**
 
@@ -400,6 +430,8 @@ Answers that list three reasons with no explanation will get a 1
 
 ### `2(d)` — 3 marks (AO1:3)
 
+**Question:** Explain one limitation of a break-even chart.
+
 **Official mark scheme answer:**
 
 A01 - 3 marks
@@ -419,6 +451,8 @@ Answers that list three reasons with no explanation will get a 1
 
 
 ### `2(e)` — 3 marks (AO1:3)
+
+**Question:** Explain one benefit to a business of being located within a trading bloc.
 
 **Official mark scheme answer:**
 
@@ -466,6 +500,9 @@ choose.
 
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Samsung should choose.  
+**Options:** Option 1 · Sponsor celebrities to use its products · Option 2 · Provide a free game app to customers when they purchase a product.
 
 **Official mark scheme answer:**
 
@@ -581,6 +618,8 @@ Q. No.   Define the term exporter.   Mark
 
 ### `3(a)` — 1 mark (AO1:1)
 
+**Question:** Define the term exporter.
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -596,6 +635,8 @@ manufacturing its products.
 
 
 ### `3(b)` — 2 marks (AO2:2)
+
+**Question:** Outline one advantage to Samsung of using flow production when manufacturing its products.
 
 **Official mark scheme answer:**
 
@@ -631,6 +672,8 @@ your workings.
 
 ### `3(c)` — 2 marks (AO2:2)
 
+**Question:** Calculate the selling price of the laptop. You are advised to show your workings.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -639,6 +682,8 @@ A02 - 2 marks
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse why profit is important to Samsung.
 
 **Official mark scheme answer:**
 
@@ -713,6 +758,9 @@ choose to minimise costs.
 
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
+
+**Question:** Justify which one of these two options Samsung should choose to minimise its costs.  
+**Options:** Option 1 · Just in time (JIT) · Option 2 · Kaizen.
 
 **Official mark scheme answer:**
 
@@ -820,6 +868,8 @@ advised to show your workings.
 
 ### `4(a)` — 2 marks (AO2:2)
 
+**Question:** Calculate, to two decimal places, the operating profit margin. You are advised to show your workings.
+
 **Official mark scheme answer:**
 
 A02 - 2 marks
@@ -828,6 +878,8 @@ A02 - 2 marks
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
+
+**Question:** Analyse the purpose of market research for Samsung.
 
 **Official mark scheme answer:**
 
@@ -896,6 +948,8 @@ well as your own knowledge of business.
 
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
+
+**Question:** Evaluate whether a centralised organisation structure will benefit Samsung. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

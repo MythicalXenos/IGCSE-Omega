@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is an advantage of being a sole
+**Question:** Which one of the following is an advantage of being a sole trader?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ investors is an advantage of a limited company
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a benefit of being a multinational
+**Question:** Which one of the following is a benefit of being a multinational company?
 
 **Official mark scheme answer:**
 
@@ -60,7 +60,7 @@ disadvantage to a multinational company
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following best describes a centralised
+**Question:** Which one of the following best describes a centralised organisation structure?
 
 **Official mark scheme answer:**
 
@@ -85,7 +85,7 @@ decisions are made at the top of the hierarchy
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following may occur if a business fails to
+**Question:** Which one of the following may occur if a business fails to adapt to changes in the market?
 
 **Official mark scheme answer:**
 
@@ -110,7 +110,7 @@ market
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Using Figure 1, which one of the following is the profit made
+**Question:** Using Figure 1, which one of the following is the profit made by the business?
 
 **Official mark scheme answer:**
 
@@ -131,7 +131,7 @@ minus total variable costs
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which of the following represents the number of meals sold
+**Question:** Which of the following represents the number of meals sold with a topping added?
 
 **Official mark scheme answer:**
 
@@ -178,7 +178,7 @@ e-commerce.
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why brand image is important to Spud
+**Question:** State one reason why brand image is important to Spud Bros.
 
 **Official mark scheme answer:**
 
@@ -198,7 +198,7 @@ Bros.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the retained profit left in the business following the
+**Question:** Calculate the retained profit left in the business following the expansion. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -221,7 +221,7 @@ OR
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to a business of having a flat
+**Question:** Explain one advantage for a business of having a flat organisational structure.
 
 **Official mark scheme answer:**
 
@@ -256,7 +256,7 @@ maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the disadvantages for Spud Bros of using
+**Question:** Analyse the disadvantages for Spud Bros of using sponsorship.
 
 **Official mark scheme answer:**
 
@@ -357,7 +357,7 @@ Bros.
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business calculates the break-even
+**Question:** Explain one reason why a business calculates the break-even level of output.
 
 **Official mark scheme answer:**
 
@@ -394,7 +394,7 @@ only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business would segment the
+**Question:** Explain one reason why a business would segment the market by income.
 
 **Official mark scheme answer:**
 
@@ -429,7 +429,7 @@ segment the market by income with no explanation will get 1
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business from productivity
+**Question:** Explain one benefit to a business from productivity improvements.
 
 **Official mark scheme answer:**
 
@@ -466,7 +466,8 @@ a maximum of 1 mark.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: venture capital
+**Question:** Justify which one of these two options the brothers should choose.  
+**Options:** Option 1 · venture capital · Option 2 · crowdfunding.
 
 **Official mark scheme answer:**
 
@@ -609,7 +610,7 @@ include context of Spud Bros.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Using Figure 2, calculate, to two decimal places, the percentage
+**Question:** Using Figure 2, calculate, to two decimal places, the percentage increase in the minimum wage between 2024 and 2025. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -692,7 +693,8 @@ chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: use questionnaires to collect customer views
+**Question:** Justify which one of these two options the owners should choose to collect feedback from customers.  
+**Options:** Option 1 · use questionnaires to collect customer views · Option 2 · offer free samples of new toppings and ask customers for their opinions.
 
 **Official mark scheme answer:**
 
@@ -791,7 +793,7 @@ issues relevant to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Option 1: use questionnaires to collect customer views
+**Question:** Using Figure 3, calculate the total costs for the business in 2025. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -866,7 +868,7 @@ interconnected points with logical chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the extent to which social objectives may contribute to the
+**Question:** Evaluate the extent to which social objectives may contribute to the success of Spud Bros. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

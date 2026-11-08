@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a form of promotion that
+**Question:** Which one of the following is a form of promotion that targets a specialised segment of the market?
 
 **Official mark scheme answer:**
 
@@ -69,7 +69,7 @@ C – this is not correct because it is a fixed cost
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a role of the production
+**Question:** Which one of the following is a role of the production function?
 
 **Official mark scheme answer:**
 
@@ -92,7 +92,7 @@ resources function
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the markup on the packs of
+**Question:** Which one of the following is the markup on a pack of balloons?
 
 **Official mark scheme answer:**
 
@@ -113,7 +113,7 @@ balloon pack
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following would a customer in Malaysia pay
+**Question:** Which one of the following would a customer in Malaysia pay in MYR for 4 balloon packs?
 
 **Official mark scheme answer:**
 
@@ -164,7 +164,7 @@ growth of a business (1).
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one factor TBTSshould consider when selecting its
+**Question:** State one factor TBTS should consider when selecting its manufacturers.
 
 **Official mark scheme answer:**
 
@@ -184,7 +184,7 @@ in an environmentally friendly way (1).
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total costs for Additional guidance
+**Question:** Calculate the total costs for TBTS of making 160 wooden toy carts. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -235,7 +235,7 @@ will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the likely impact of external factors on business
+**Question:** Analyse the likely impact of external factors on business decisions made by TBTS.
 
 **Official mark scheme answer:**
 
@@ -305,7 +305,7 @@ chains of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one way TBTScan measure its success as a business
+**Question:** State one way TBTS can measure its success as a business.
 
 **Official mark scheme answer:**
 
@@ -323,7 +323,7 @@ success in business in the context of TBTS
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why TBTSmight segment its market
+**Question:** State one reason why TBTS might segment its market.
 
 **Official mark scheme answer:**
 
@@ -343,7 +343,7 @@ different age groups
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business of having a flat
+**Question:** Explain one benefit to a business of having a flat organisational structure.
 
 **Official mark scheme answer:**
 
@@ -371,7 +371,7 @@ get 1 mark only
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one method a small business may use to increase its
+**Question:** Explain one method a small business might use to increase its profit.
 
 **Official mark scheme answer:**
 
@@ -425,7 +425,8 @@ get 1 mark only
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** TBTSis considering two options
+**Question:** Justify which one of these two options TBTS should choose.  
+**Options:** Option 1 · using retained profits · Option 2 · getting a bank loan.
 
 **Official mark scheme answer:**
 
@@ -539,7 +540,7 @@ A01 - 1 mark
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one method that TBTSmight use to respond to
+**Question:** Outline one method that TBTS might use to respond to greater competition.
 
 **Official mark scheme answer:**
 
@@ -563,7 +564,7 @@ competitors
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the current ratio for Additional guidance
+**Question:** Calculate the current ratio for 2021. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -588,7 +589,7 @@ working
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the importance of TBTSmotivating its employees
+**Question:** Analyse the importance of TBTS motivating its employees.
 
 **Official mark scheme answer:**
 
@@ -650,7 +651,8 @@ chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** TBTSis considering two options
+**Question:** Justify which one of these two options TBTS should choose.  
+**Options:** Option 1 · hand out questionnaires to customers that visit the shops · Option 2 · hold focus group meetings with parents and their children.
 
 **Official mark scheme answer:**
 
@@ -758,7 +760,7 @@ information and issues relevant to the choice made.
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate the total cost to a Additional guidance
+**Question:** Calculate the total cost to a VIP member of buying 17 dinosaur toys. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -781,7 +783,7 @@ A02 - 2 marks
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the usefulness to TBTSof the acid test ratio
+**Question:** Analyse the usefulness to TBTS of the acid test ratio.
 
 **Official mark scheme answer:**
 
@@ -847,7 +849,7 @@ chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the importance of good internal and external
+**Question:** Evaluate the importance of good internal and external communication to TBTS. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

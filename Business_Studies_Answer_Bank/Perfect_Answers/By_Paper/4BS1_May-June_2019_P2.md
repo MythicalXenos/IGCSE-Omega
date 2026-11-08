@@ -12,6 +12,8 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following is an external source of finance?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -20,6 +22,8 @@ D – Share capital
 
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
+
+**Question:** Which one of the following forms of discrimination is covered by legislation?
 
 **Official mark scheme answer:**
 
@@ -30,6 +34,8 @@ B - Age
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
+**Question:** Which one of the following could be used to gather data for a business?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -38,6 +44,8 @@ A – Market research
 
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
+
+**Question:** In a break-even graph, the break-even point is when:
 
 **Official mark scheme answer:**
 
@@ -48,6 +56,8 @@ C – Total costs and revenue are the same
 
 ### `1(a)(v)` — 1 mark (AO1:1)
 
+**Question:** What are the monthly total costs for the business?
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -57,6 +67,8 @@ B – €34 800
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
+**Question:** What would the German customer pay to the nearest euro for the car?
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -65,6 +77,8 @@ C - €5 962
 
 
 ### `1(b)` — 1 mark (AO1:1)
+
+**Question:** Define the term insolvency.
 
 **Official mark scheme answer:**
 
@@ -78,6 +92,8 @@ AO1 - 1 mark
 
 
 ### `1(c)` — 1 mark (AO1:1)
+
+**Question:** Define the term product life cycle.
 
 **Official mark scheme answer:**
 
@@ -96,6 +112,8 @@ then decline (1).
 
 ### `1(d)` — 1 mark (AO2:1)
 
+**Question:** State one reason why a Tata Motor Company employee could be dismissed.
+
 **Official mark scheme answer:**
 
 A02 - 1 mark
@@ -113,7 +131,7 @@ could be dismissed in the context of the business.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the global vehicle sales for Tata Motor Company in December 2017. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -136,7 +154,7 @@ OR   formula.
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Answer Additional guidance
+**Question:** Explain one impact of technology on the manufacture of vehicles.
 
 **Official mark scheme answer:**
 
@@ -177,7 +195,7 @@ get a maximum of 1 mark.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse the importance of good public relations for Tata Motor Company.
 
 **Official mark scheme answer:**
 
@@ -256,7 +274,7 @@ with logical chains of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one non-financial objective for Tata Motor Company.
 
 **Official mark scheme answer:**
 
@@ -281,7 +299,7 @@ environment too much (1).
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** Indicative content
+**Question:** State one reason why Tata Motor Company would employ casual staff.
 
 **Official mark scheme answer:**
 
@@ -304,7 +322,7 @@ the production line (1).
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why a business uses fringe benefits.
 
 **Official mark scheme answer:**
 
@@ -333,7 +351,7 @@ will get a maximum of 1 mark.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one reason why a business would use job production.
 
 **Official mark scheme answer:**
 
@@ -364,7 +382,7 @@ get a maximum of 1 mark.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Indicative content
+**Question:** Explain one benefit to a business of having a short chain of command.
 
 **Official mark scheme answer:**
 
@@ -401,7 +419,8 @@ commands with no explanation will get a maximum of
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Tata Motor Company should use.  
+**Options:** Option 1 · cost plus · Option 2 · promotional.
 
 **Official mark scheme answer:**
 
@@ -521,7 +540,7 @@ to the choice made. (AO4)
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Indicative content
+**Question:** Define the term revenue.
 
 **Official mark scheme answer:**
 
@@ -538,7 +557,7 @@ of goods (1).
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Indicative content
+**Question:** Outline one reason why Tata Motor Company uses overdrafts.
 
 **Official mark scheme answer:**
 
@@ -553,7 +572,7 @@ further mark for linking it to the context of the
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional
+**Question:** Calculate to 2 decimal places, the percentage increase in revenue from 2011 to 2017. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -574,7 +593,7 @@ correct numerical
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse how Tata Motor Company could use the financial information in Figure 2.
 
 **Official mark scheme answer:**
 
@@ -607,7 +626,8 @@ increase its yearly revenue.
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Justify which one of these two options Tata Motor Company should use.  
+**Options:** Option 1 · primary research · Option 2 · secondary research.
 
 **Official mark scheme answer:**
 
@@ -729,7 +749,7 @@ to the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Answer Additional guidance
+**Question:** Calculate the average number of vehicles sold in each car showroom. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -748,7 +768,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Indicative content
+**Question:** Analyse why Tata Motor Company ensures that its staff have a detailed induction programme.
 
 **Official mark scheme answer:**
 
@@ -819,7 +839,7 @@ with logical chains of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Indicative content
+**Question:** Evaluate the factors Tata Motor Company would have to take into account when making decisions about where to locate new factories. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

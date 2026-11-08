@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following sectors would a retail
+**Question:** Which one of the following sectors would a retail outlet operate in?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ retail under this word
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following would be used to
+**Question:** Which one of the following would be used to select a group of applicants for interview?
 
 **Official mark scheme answer:**
 
@@ -58,7 +58,7 @@ involved in interviewing
 
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following would NEXT pay in £
+**Question:** Which one of the following would NEXT pay in £ (GBP) to the Turkish manufacturer for the 5,000 dresses?
 
 **Official mark scheme answer:**
 
@@ -98,7 +98,7 @@ to production
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** What is the percentage increase, to two decimal
+**Question:** What is the percentage increase, to two decimal places, of online customers from 2017 to 2018?
 
 **Official mark scheme answer:**
 
@@ -119,7 +119,7 @@ percentage
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a benefit of buying a
+**Question:** Which one of the following is a benefit of buying a franchise?
 
 **Official mark scheme answer:**
 
@@ -174,7 +174,7 @@ available to start-up businesses
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why NEXT might use cost plus
+**Question:** State one reason why NEXT might use cost plus pricing.
 
 **Official mark scheme answer:**
 
@@ -197,7 +197,7 @@ that a profit is made on each dress sold
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the predicted Additional guidance
+**Question:** Calculate the predicted sales for next year. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -214,7 +214,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one disadvantage for a business that does
+**Question:** Explain one disadvantage for a business that does not achieve its predicted growth.
 
 **Official mark scheme answer:**
 
@@ -255,7 +255,7 @@ explanation will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits to NEXT of training all its
+**Question:** Analyse the benefits to NEXT of training all its employees.
 
 **Official mark scheme answer:**
 
@@ -333,7 +333,7 @@ points with logical chains of reasoning
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one reason why NEXT would want to
+**Question:** State one reason why NEXT would want to promote its own employees.
 
 **Official mark scheme answer:**
 
@@ -360,7 +360,7 @@ new dresses
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why NEXT complies with health
+**Question:** State one reason why NEXT complies with health and safety laws.
 
 **Official mark scheme answer:**
 
@@ -417,7 +417,7 @@ fails with no explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why a business would use
+**Question:** Explain one reason why a business would use batch production.
 
 **Official mark scheme answer:**
 
@@ -447,7 +447,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why employees keep their
+**Question:** Explain one reason why employees keep their curriculum vitae (CV) up to date.
 
 **Official mark scheme answer:**
 
@@ -479,7 +479,8 @@ explanation will get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: targeted advertising online
+**Question:** Justify which one of these two options NEXT should choose.  
+**Options:** Option 1 · targeted advertising online · Option 2 · e-newsletters.
 
 **Official mark scheme answer:**
 
@@ -651,7 +652,7 @@ context of NEXT.
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the number of Additional
+**Question:** Calculate the number of women working at NEXT. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -678,7 +679,7 @@ without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why NEXT would want to remove any
+**Question:** Analyse why NEXT would want to remove any communication barriers within its organisation.
 
 **Official mark scheme answer:**
 
@@ -752,7 +753,8 @@ points with logical chains of reasoning
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Option 1: job rotation
+**Question:** Justify which one of these two options NEXT should choose.  
+**Options:** Option 1 · job rotation · Option 2 · job enrichment.
 
 **Official mark scheme answer:**
 
@@ -878,7 +880,7 @@ issues relevant to the choice made (AO4).
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate to two decimal Additional guidance
+**Question:** Calculate to two decimal places the operating profit margin for NEXT in 2019. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -901,7 +903,7 @@ without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the effects for NEXT of an increase in UK
+**Question:** Analyse the effects for NEXT of an increase in UK interest rates.
 
 **Official mark scheme answer:**
 
@@ -971,7 +973,7 @@ points with logical chains of reasoning
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the importance for NEXT of maintaining
+**Question:** Evaluate the importance for NEXT of maintaining quality throughout all of its manufacturing processes. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a debt payable within
+**Question:** Which one of the following is a debt payable within 12 months?
 
 **Official mark scheme answer:**
 
@@ -39,7 +39,7 @@ is a debt to be paid back longer than 12 months
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a debt payable within
+**Question:** Which one of the following is a pricing strategy where a business sets an initial high price for a product new to the market?
 
 **Official mark scheme answer:**
 
@@ -66,7 +66,7 @@ a percentage to the cost of making the product
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a role of the human
+**Question:** Which one of the following is a role of the human resources department?
 
 **Official mark scheme answer:**
 
@@ -91,7 +91,7 @@ the role of marketing
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a benefit to a
+**Question:** Which one of the following is a benefit to a shareholder of having limited liability?
 
 **Official mark scheme answer:**
 
@@ -122,7 +122,7 @@ with employees
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the break-even level of
+**Question:** Which one of the following is the break-even level of output?
 
 **Official mark scheme answer:**
 
@@ -147,7 +147,7 @@ fixed costs
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following statements from Figure 2
+**Question:** Which one of the following statements from Figure 2 correctly applies to the gym equipment business?
 
 **Official mark scheme answer:**
 
@@ -204,7 +204,7 @@ to meet a customers’ specific needs
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one reason why Four Fitness would pay its
+**Question:** State one reason why Four Fitness would pay its employees more than the minimum wage.
 
 **Official mark scheme answer:**
 
@@ -226,7 +226,7 @@ of Four Fitness.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** State one reason why Four Fitness would pay its
+**Question:** Calculate the total price if five Four Fitness members attend the event. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -237,7 +237,7 @@ correct numerical   175 – 12.25 = 162.75
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one impact to a business of providing fringe
+**Question:** Explain one impact to a business of providing fringe benefits to employees.
 
 **Official mark scheme answer:**
 
@@ -265,7 +265,7 @@ explanation will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the effectiveness of the wide span of control
+**Question:** Analyse the effectiveness of the wide span of control used by Gianni Polvani.
 
 **Official mark scheme answer:**
 
@@ -345,7 +345,7 @@ points with logical chains of reasoning.
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one factor Four Fitness may consider when
+**Question:** State one factor Four Fitness may consider when choosing a location for its new gym.
 
 **Official mark scheme answer:**
 
@@ -369,7 +369,7 @@ Four Fitness.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why branding is important to Four
+**Question:** State one reason why branding is important to Four Fitness.
 
 **Official mark scheme answer:**
 
@@ -391,7 +391,7 @@ of Four Fitness.
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to a business of using total
+**Question:** Explain one advantage to a business of using total quality management.
 
 **Official mark scheme answer:**
 
@@ -421,7 +421,7 @@ explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one problem a business might face as a
+**Question:** Explain one problem a business might face as a result of ineffective communication.
 
 **Official mark scheme answer:**
 
@@ -451,7 +451,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one disadvantage to a small business of
+**Question:** Explain one disadvantage to a small business of borrowing money from a bank.
 
 **Official mark scheme answer:**
 
@@ -481,7 +481,8 @@ explanation will get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Four Fitness is looking to introduce a new service to
+**Question:** Justify which one of these two options Four Fitness should choose.  
+**Options:** Option 1 · as part of its monthly subscription price, members are given a ‘Technogym · Option 2 · introduce links to online fitness classes on its website that can be accessed
 
 **Official mark scheme answer:**
 
@@ -619,7 +620,7 @@ of scale.
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one way quantitative research data might
+**Question:** Outline one way quantitative research data might help Four Fitness to improve its marketing mix.
 
 **Official mark scheme answer:**
 
@@ -651,7 +652,7 @@ evidence of application
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the net cash flow Additional
+**Question:** Calculate the net cash flow balance. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -676,7 +677,7 @@ formula.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the benefits to Four Fitness of recruiting
+**Question:** Analyse the benefits to Four Fitness of recruiting externally.
 
 **Official mark scheme answer:**
 
@@ -748,7 +749,8 @@ with logical chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** Gianni Polvani operates Four Fitness as a sole trader
+**Question:** Justify which one of these two options Gianni should choose.  
+**Options:** Option 1 · a partnership with three of his employees · Option 2 · a private limited company.
 
 **Official mark scheme answer:**
 
@@ -856,7 +858,7 @@ the choice made. (AO4)
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Gianni Polvani operates Four Fitness as a sole trader
+**Question:** Calculate, to two decimal places, the gross profit margin. You are advised to show your workings.
 
 **Official mark scheme answer:**
 
@@ -879,7 +881,7 @@ formula.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse why Four Fitness complies with health and
+**Question:** Analyse why Four Fitness complies with health and safety laws.
 
 **Official mark scheme answer:**
 
@@ -951,7 +953,7 @@ points with logical chains of reasoning.
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate how Four Fitness may respond to the changes
+**Question:** Evaluate how Four Fitness may respond to the changes in the market. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 

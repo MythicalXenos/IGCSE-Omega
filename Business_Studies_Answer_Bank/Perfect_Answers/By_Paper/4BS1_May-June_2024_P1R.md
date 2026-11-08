@@ -12,7 +12,7 @@
 
 ### `1(a)(i)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is protected by
+**Question:** Which one of the following is an example of an internal source of finance?
 
 **Official mark scheme answer:**
 
@@ -35,7 +35,7 @@ protected by legislation
 
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following represents a star
+**Question:** Which one of the following is a result of average costs rising in a growing large business?
 
 **Official mark scheme answer:**
 
@@ -50,7 +50,7 @@ B is not the correct answer as it is a question
 
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the method of
+**Question:** Which one of the following is the money left after all costs have been subtracted from revenue?
 
 **Official mark scheme answer:**
 
@@ -75,7 +75,7 @@ on to the next
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is a current asset?
+**Question:** Which one of the following is a debt payable after 12 months?
 
 **Official mark scheme answer:**
 
@@ -98,7 +98,7 @@ current asset
 
 ### `1(a)(v)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the total cost in
+**Question:** Which one of the following is the markup for the mozzarella cheese and avocado Ciabatta?
 
 **Official mark scheme answer:**
 
@@ -121,7 +121,7 @@ D is not the correct answer as €513.20 is
 
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
-**Question:** Which one of the following is the total monthly
+**Question:** Which one of the following would Café Pinch pay in euros if it bought 50 kilos of potatoes?
 
 **Official mark scheme answer:**
 
@@ -144,7 +144,7 @@ D is not the correct answer as €2312.50 is
 
 ### `1(b)` — 1 mark (AO1:1)
 
-**Question:** Define the term robotics
+**Question:** Define the term variable cost.
 
 **Official mark scheme answer:**
 
@@ -160,7 +160,7 @@ with no human involvement
 
 ### `1(c)` — 1 mark (AO1:1)
 
-**Question:** Define the term capital intensive production
+**Question:** Define the term niche marketing.
 
 **Official mark scheme answer:**
 
@@ -176,7 +176,7 @@ than labour
 
 ### `1(d)` — 1 mark (AO2:1)
 
-**Question:** State one extension strategy PPS could use to
+**Question:** State one way Café Pinch can react to external social factors affecting its business.
 
 **Official mark scheme answer:**
 
@@ -201,7 +201,7 @@ not in the context of PPS.
 
 ### `1(e)` — 2 marks (AO2:2)
 
-**Question:** Calculate the new hourly Additional
+**Question:** Calculate what a customer would pay for these three items after the discount is applied. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -224,7 +224,7 @@ correct numerical
 
 ### `1(f)` — 3 marks (AO1:3)
 
-**Question:** Explain one reason why many businesses have a
+**Question:** Explain one advantage to a start-up business of using a venture capitalist.
 
 **Official mark scheme answer:**
 
@@ -252,7 +252,7 @@ explanation will get 1 mark only.
 
 ### `1(g)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the usefulness of the gross profit margin
+**Question:** Analyse the importance to Kumaran, the owner of Café Pinch, of having motivated employees.
 
 **Official mark scheme answer:**
 
@@ -332,7 +332,7 @@ of reasoning. (AO3)
 
 ### `2(a)` — 1 mark (AO2:1)
 
-**Question:** State one advantage for PPS of keeping its
+**Question:** State one reason why Café Pinch might set business objectives.
 
 **Official mark scheme answer:**
 
@@ -358,7 +358,7 @@ context of PPS.
 
 ### `2(b)` — 1 mark (AO2:1)
 
-**Question:** State one reason why PPS motivates its
+**Question:** State one way Café Pinch could use the Boston matrix to review its product portfolio.
 
 **Official mark scheme answer:**
 
@@ -382,7 +382,7 @@ context of PPS.
 
 ### `2(c)` — 3 marks (AO1:3)
 
-**Question:** Explain one impact on a business of ineffective
+**Question:** Explain one responsibility of the human resources function.
 
 **Official mark scheme answer:**
 
@@ -414,7 +414,7 @@ explanation will get 1 mark only.
 
 ### `2(d)` — 3 marks (AO1:3)
 
-**Question:** Explain one advantage to a business of having a
+**Question:** Explain one advantage of being in a partnership.
 
 **Official mark scheme answer:**
 
@@ -446,7 +446,7 @@ explanation will get 1 mark only.
 
 ### `2(e)` — 3 marks (AO1:3)
 
-**Question:** Explain one benefit to a business of using
+**Question:** Explain one disadvantage to a business of having a hierarchical organisational structure.
 
 **Official mark scheme answer:**
 
@@ -476,7 +476,8 @@ explanation will get 1 mark only.
 
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** PPS is looking to improve its revenue and is
+**Question:** Justify which one of these two options Café Pinch should choose.  
+**Options:** Option 1 · introduce a vegan range of products · Option 2 · a special offer of 7.5% discount to customers on Wednesday mornings
 
 **Official mark scheme answer:**
 
@@ -598,7 +599,7 @@ issues relevant to the choice made.
 
 ### `3(a)` — 1 mark (AO1:1)
 
-**Question:** Define the term diseconomies of scale
+**Question:** Define the term secondary sector.
 
 **Official mark scheme answer:**
 
@@ -614,7 +615,7 @@ a business grows too quickly (1)
 
 ### `3(b)` — 2 marks (AO2:2)
 
-**Question:** Outline one method of primary market research
+**Question:** Outline one way Café Pinch could use social media to promote its business.
 
 **Official mark scheme answer:**
 
@@ -629,7 +630,7 @@ gain feedback on its services, plus 1 further
 
 ### `3(c)` — 2 marks (AO2:2)
 
-**Question:** Calculate the closing balance. Additional
+**Question:** Calculate, to two decimal places, the operating profit margin. You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -656,7 +657,7 @@ without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the importance of reliable market
+**Question:** Analyse two factors Café Pinch might consider when measuring its success.
 
 **Official mark scheme answer:**
 
@@ -734,7 +735,8 @@ chains of reasoning. (AO3)
 
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
-**Question:** PPS is considering two options
+**Question:** Justify which one of these two options Café Pinch should choose.  
+**Options:** Option 1 · updating the noticeboard in the staffroom daily with information such as · Option 2 · weekly staff meetings.
 
 **Official mark scheme answer:**
 
@@ -858,7 +860,7 @@ issues relevant to the choice made.
 
 ### `4(a)` — 2 marks (AO2:2)
 
-**Question:** Calculate the break- Additional guidance
+**Question:** Calculate, to two decimal places, the return on capital employed (ROCE). You are advised to show your working.
 
 **Official mark scheme answer:**
 
@@ -875,7 +877,7 @@ correct numerical
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 
-**Question:** Analyse the importance of cash to PPS
+**Question:** Analyse how Café Pinch could use market segmentation to target its customers.
 
 **Official mark scheme answer:**
 
@@ -949,7 +951,7 @@ of reasoning. (AO3)
 
 ### `4(c)` — 12 marks (AO1:3, AO2:3, AO3:3, AO4:3)
 
-**Question:** Evaluate the importance of marketing to PPS so it
+**Question:** Evaluate the importance of using methods of market research for Café Pinch to meet customer needs. You should use the information provided as well as your own knowledge of business.
 
 **Official mark scheme answer:**
 
