@@ -2,25 +2,18 @@
 """
 merge_script_spans.py -- count SCRIPTS, not page-images.
 
-`extract_scripts.py` finds one picture per page and pairs it with the score printed for it. When a
-candidate writes across a page break, the report prints the answer as two pictures and prints the
-SAME ResultsPlus comment after the second one. The extractor then records two entries with the same
-question, the same mark and the same comment -- which is one script, counted twice.
+`extract_scripts.py` finds one picture per page-image. A candidate who writes across a page break
+gets two pictures, so the manifest holds two entries but the report prints one comment and one
+score. Counting entries therefore over-counts scripts -- and it over-counted exactly where the bank
+cares most: "73 scripts worth 6+ marks" was 52.
 
-This was found on June 2025 P1R Q2(f): pages 25 and 26 both carry the identical 399-character
-comment ("This is a strong response that effectively covers the mark band criteria..."), and pages
-27 and 28 both carry the identical 0-mark comment. Four entries, two scripts.
+The extractor now walks the report as a stream -- pictures, then the comment that closes them --
+and records the span on the first entry of each script (`"span": [[page, n], ...]`) with
+`"continuation": true` on the rest. This tool simply reads that: it is the manifest's own account
+of which pictures were one answer.
 
-The merge rule, and why it is safe:
-
-  * same report, same question label, same mark value, consecutive pages; AND
-  * the second entry's commentary is the same text as the first's (first 60 characters, because the
-    report reprints it with the pairing strip attached); AND
-  * the first page's picture reaches the foot of the page, i.e. the answer was still running.
-
-Entries that merely sit on consecutive pages with the same question but DIFFERENT comments are two
-scripts, and are left alone. On June 2025 P1R Q2(f) that distinction is what separates the 8-mark
-script (one, spanning two pages) from a second 8-mark script, if the report prints one.
+Where no span was recorded, the older evidence still applies and is kept as a fallback: two
+consecutive entries with the same question and the same reprinted comment are one script.
 
     python3 audits/merge_script_spans.py            # report
     python3 audits/merge_script_spans.py --write    # writes audits/corpus/scripts_merged.json
@@ -42,38 +35,34 @@ def main():
     merged_all, report = {}, []
     for rep, rows in data.items():
         rows = sorted(rows, key=lambda r: (r["page"], r.get("n", 0)))
-        used = [False] * len(rows)
         out = []
-        for i, r in enumerate(rows):
-            if used[i]:
-                continue
-            page_mark = r.get("mark_value")
-            group = [r]
-            j = i + 1
-            while j < len(rows):
-                nxt = rows[j]
-                same_q = key(nxt) == key(r)
-                adjacent = nxt["page"] - group[-1]["page"] <= 1
-                # the giveaway: the same comment reprinted after the continuation page
-                c1 = (group[-1].get("commentary_after") or "")[:60]
-                c2 = (nxt.get("commentary_after") or "")[:60]
-                same_comment = bool(c1) and c1 == c2
-                # ...or the continuation page carries no comment of its own and no new mark
-                no_comment = not (nxt.get("commentary_after") or "").strip()
-                if same_q and adjacent and (same_comment or (no_comment and nxt.get("mark_value") == page_mark)):
-                    group.append(nxt)
-                    used[j] = True
-                    j += 1
-                    continue
-                break
-            if len(group) > 1:
-                report.append((rep, r["question"], page_mark,
-                               [g["page"] for g in group]))
+        for r in rows:
+            if r.get("continuation"):
+                continue                      # part of the script above it
             m = dict(r)
-            m["pages"] = [g["page"] for g in group]
-            m["images"] = [g["image"] for g in group]
-            m["merged_from"] = len(group)
+            pages = r.get("span") or [[r["page"], r.get("n", 1)]]
+            m["pages"] = [p for p, _ in pages]
+            m["images"] = [r["image"]]
+            m["merged_from"] = len(pages)
             out.append(m)
+            if len(pages) > 1:
+                report.append((rep, r["question"], r.get("mark_value"), m["pages"]))
+        # fallback for anything the walk could not span: the same comment reprinted
+        i = 0
+        while i < len(out) - 1:
+            a, b = out[i], out[i + 1]
+            c1 = (a.get("commentary_after") or "")[:60]
+            c2 = (b.get("commentary_after") or "")[:60]
+            if (c1 and c1 == c2 and a["question"] == b["question"]
+                    and a.get("mark_value") == b.get("mark_value")
+                    and b["page"] - a["pages"][-1] <= 1):
+                a["pages"] += b["pages"]
+                a["merged_from"] += b["merged_from"]
+                a["images"] += b["images"]
+                report.append((rep, a["question"], a.get("mark_value"), a["pages"]))
+                out.pop(i + 1)
+                continue
+            i += 1
         merged_all[rep] = out
     total_rows = sum(len(v) for v in data.values())
     total_scripts = sum(len(v) for v in merged_all.values())

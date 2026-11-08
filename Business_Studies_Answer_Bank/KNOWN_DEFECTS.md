@@ -220,11 +220,19 @@ because the crop cuts it at the left margin.
 
 `audits/extract_scripts.py` finds each script image, renders it and attaches the score printed for it.
 Its first version paired **415 of 457**; the other 42 opened an answer booklet with no score line of
-their own, or had the score printed *above* the picture, or on the following page. Both cases are now
-handled (look above the picture; walk forward to the next page, stopping at the next question
-heading). The 42 that remain unpaired are booklets, not failures.
+their own, or had the score printed *above* the picture, or on the following page.
 
-**The rule this repeats:** a tool that reports a gap where there is none is worse than no tool.
+**The fix applied here on 12 November 2026 was itself defective — see D19.** It added a walk forward
+of up to two pages and a look at the text above the picture, but it still had no idea which score
+belonged to which script, so it could hand a script the *next* question's mark, or one already used.
+**The count that this entry treats as progress (415 paired) was itself part of the problem: a wrong
+pairing looks exactly like a right one from the totals.** The current tool closes a run of pictures
+with the next score line inside the same question, records the span, and is verified by
+`verify_script_pairs.py`; **386 pairings now, every one with its score line found on the page it
+claims.**
+
+**The rule this repeats:** a tool that reports a gap where there is none is worse than no tool — and
+a tool that reports a *pairing* where there is none is worse again, because the number goes up.
 
 ---
 
@@ -400,7 +408,7 @@ anything new: a genuinely swapped MS/P1R pair would now be the only thing that t
 
 ---
 
-## D18 — "73 scripts worth 6+ marks" was counting pages, not scripts
+## D18 — the count of "scripts worth 6+ marks" was counting pages, not scripts
 
 **Severity: high for every transcript claim in the bank. Status: FIXED 13 November 2026.**
 
@@ -413,21 +421,77 @@ Found on **June 2025 P1R Q2(f)**: pages 25 and 26 both carry the identical 399-c
 (*"This is a strong response that effectively covers the mark band criteria…"*), and pages 27 and 28
 both carry the identical 0-mark comment. **Four entries, two scripts.**
 
-`audits/merge_script_spans.py` merges on the only evidence that cannot be faked: **the same comment
-reprinted**, or a continuation page with no comment of its own and no new mark. A consecutive page
-with a *different* comment is a different script and is left alone.
+`extract_scripts.py` now records the span itself: the pictures between one score line and the next are
+one script, and `merge_script_spans.py` counts those. The older evidence — **the same comment
+reprinted** — is kept only as a fallback, because a continuation page usually carries the page footer
+instead of the comment.
 
-| | before | after |
+| | page count | scripts |
 |---|---|---|
-| page entries | 457 | 457 |
-| scripts | — | **408** |
-| entries / scripts worth **6+** marks | **73** | **52** |
-| spans merged | — | 47 |
+| page entries / scripts | 457 | **390** |
+| worth **6+** marks | 73 | **67** |
+| spans merged | — | 65 |
 
-**One of them is three pages long:** `4BS1_02_2506` Q2(f) at pages 18–20 — the Starbucks 7/9 that
-`2025-06_Series_CCT_Starbucks_Rabanne.md` dissects. Its three page entries had been read as three
-near-identical scripts.
+**And a correction inside the correction:** the Starbucks 7/9 in `4BS1_02_2506` Q2(f) was first
+recorded here as spanning pages 18–20. **It spans 19–20.** The picture on p. 18 is the last page of
+the *2(e)* answer above it — the old pairing had put it in the 2(f) script because it searched by
+proximity, not by question. The write-up in `2025-06_Series_CCT_Starbucks_Rabanne.md` cites no page
+number, so it needed no correction.
 
 **What this does NOT change:** the register. `audit_er_fullmarks.py` matches **37 printed full-mark
-scripts to 37 register rows**, because a register row names a *script*, not a page. **What it does
-change is the backlog figure:** the outstanding transcription work was never 65 scripts, it was 44.
+scripts to 37 register rows**, because a register row names a *script*, not a page — and it reads its
+marks from the report's text directly, not from this manifest.
+
+*Updated 13 November 2026, after D19 was fixed.* The first version of this entry reported 408 scripts
+and 52 worth 6+ marks, computed from a manifest whose marks were themselves wrong. With the pairing
+fixed the count is **390 scripts, 67 of them worth 6+ marks**. The direction of the error is worth
+keeping in mind: **fixing the pairing raised the big-script count, because the old pairing had been
+handing some scripts a smaller mark than the one printed for them.**
+
+---
+
+## D19 — a script's mark could be another script's mark
+
+**Severity: high — it produced a published, wrong diagnosis. Status: FIXED 13 November 2026.**
+
+`extract_scripts.py` paired each picture with the nearest text block, and when it found no score
+there it **walked forward up to two pages** and took the first score it met. Three faults followed:
+
+1. **No ownership of score lines.** One score could be used twice, or by the wrong script.
+2. **No question boundary.** A 6-mark question's script could take the next question's 9.
+3. **No backward search.** Pearson often prints the score *above* the script, on the previous page.
+
+What that did, in the manifest as committed:
+
+| script | printed score | manifest said |
+|---|---|---|
+| `4BS1_01_2406` Q3(d), a **6-mark** question | 6 | **9** (Q3(e)'s) |
+| `4BS1_01R_2406` Q4(b), a **6-mark** question | 6 | **12** (Q4(c)'s) |
+| `4BS1_01R_2506` Q2(f) pp. 27–28 | **0** | **8** (the previous script's) |
+| `4BS1_01_2306` Q4(a), a **2-mark** calculation | — | **6** |
+| `4BS1_02_2306` Q2(e), a **3-mark** question | 3 | **7** |
+
+**How it was caught.** A new falsifier, `audits/check_script_marks_vs_qp.py` (now
+`verify_script_pairs.py`), checks each manifest mark against the **tariff the question paper prints**.
+A script cannot score 12 on a 6-mark question. It found **19** impossible marks on the committed
+manifest. Two of them led by eye to the layouts above.
+
+**The fix.** The extractor now walks each report as a **stream**: pictures accumulate, and the next
+score line closes them — but only within one question, and the question is tracked from the
+`Question N (x)` headings *in the text stream*, not from the page. A score printed above a script
+attaches to the pictures that follow it. Each script's page span is recorded on its first entry
+(`"span"`), and `merge_script_spans.py` counts those instead of guessing from reprinted comments.
+
+**The damage it did — and this is the part that matters.** The bank had published, in three places, a
+diagnosis of the **June 2025 P1R 11/12 (Q4(c), CCT)**: that Pearson printed *no* comment for the
+script, and that the missing twelfth mark was because the conclusion contradicted the counter-argument
+above it. **Both halves were wrong.** The comment is on report p. 54, and it praises the conclusion
+(*"particularly effective, making a clear judgement for AO4"*), attributing the missing mark to
+*"more sophisticated application of the 'it depends rule'"*. The extractor had attached that comment
+to the picture on the next page. **The invented diagnosis has been withdrawn from
+`External_Exemplars/2025-06_P1R_CCT.md`, `03_Calibration_Below_Full_Marks.md` and the transcript.**
+
+**The rule this adds:** a score is a *property of a script*, not of a page. Any tool that pairs one
+with the other must be able to show which page the score was printed on — and
+`verify_script_pairs.py` now refuses to pass a pairing whose score line cannot be found on the page it
+claims.

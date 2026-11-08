@@ -223,28 +223,46 @@ Both scripts are `[VERIFIED CANDIDATE EXEMPLAR]`s with their marks printed. Full
 
 ---
 
-### 🏆 AN **11/12** THAT HAS NO EXAMINER COMMENT — and what that costs the diagnosis
+### 🏆 AN **11/12** WHERE PEARSON NAMES THE MISSING MARK — and it is not the one you would guess
 
 **June 2025 Paper 1R, Q4(c)** — *"Evaluate the impact on CCT of an increase in the Chinese interest
 rate."* **(12)** — **11 marks.** Full transcript: `../audits/corpus/transcripts/4BS1_01R_2506_4c.md`;
 the answer is also written up beside the two full-mark 9/9s and the 6/6 in
 `External_Exemplars/2025-06_P1R_CCT.md`.
 
-**The archive prints the score and no comment for this script.** That makes it the most useful
-calibration case in the bank **and** the least certain one, and the difference has to be stated:
+**Pearson's comment, verbatim (report p. 54):**
 
-| What is **certain** | What is **the bank's reading** |
+> *"This is a very strong response that meets most of the Level 3 descriptors… The conclusion is
+> particularly effective, making a clear judgement for AO4. **To achieve the very top marks, more
+> sophisticated application of the 'it depends rule' would be beneficial.** Level 3 - 11 marks."*
+
+**This is the rare case where the 11→12 gap is stated rather than inferred, and it is stated as a
+*sophistication* gap, not a coverage gap.** The answer:
+
+| What it does | |
 |---|---|
-| The mark is **11/12**. | **Why** the twelfth mark is missing. |
-| It covers every AO: definition of interest rates, chain through Chinese mortgage-holders, chain through CCT's own loans, **two** counter-arguments, a judgement. | The bank's reading is that **the judgement contradicts its own counter-argument** — paragraph 5 says the impact *"may not… at all"*, paragraph 6 opens *"Overall, increased interest rates have a big impact"*. |
-| It uses the paper's own figure: **3.2% − 3.0% = 0.2%** — *"there has only been a 0.2% increase on interest rates"*. | That a conclusion which **weighs** the two sides is what separates 11 from 12. |
+| covers every AO | definition of interest rates; chain through Chinese mortgage-holders; chain through CCT's own loans; **two** counter-arguments; a judgement |
+| uses the paper's own figure | **3.2% − 3.0% = 0.2%** — *"there has only been a 0.2% increase on interest rates"* |
+| decides | *"Overall, increased interest rates have a big impact on CCT"* — and the examiner calls the conclusion *"particularly effective"* |
 
-> ### ⚠️ READ THIS AS A HYPOTHESIS, NOT A RULING
-> Every other diagnosis in this file is anchored in an examiner sentence printed by Pearson. **This
-> one is not**, because Pearson printed none. The bank's rule is that an inference is labelled as an
-> inference, and this is the label. **What the script proves beyond argument** is narrower and still
-> worth having: **all four AOs covered, both sides argued, the case's own number computed — and still
-> not full marks.** Any theory that says "cover the scheme and you get 12" is dead on this page.
+> ### 🎯 THE CALIBRATION POINT
+> **A clear judgement is Level 3. A clear judgement that names the condition it turns on is the top of
+> Level 3.** This script decides and stops; Pearson asks for the 'it depends rule' to be applied more
+> sophisticatedly.
+>
+> **The 10-mark script on the same question, two pages earlier, is the control.** Its comment says the
+> conclusion makes *"a clear and well justified judgement that uses the 'it depends rule'"* and that
+> *"more sophisticated application of the 'it depends rule' **earlier and throughout the arguments**"*
+> would reach the top. **So: using the phrase at the end does not carry the mark; using the rule as a
+> way of thinking does.** This is now the bank's strongest single piece of evidence against teaching
+> the formula as a formula.
+
+> ### ⚠️ CORRECTION, 13 NOVEMBER 2026
+> This section previously claimed that Pearson printed **no** comment for the script, and built a
+> diagnosis on that absence: that paragraph 6 contradicted paragraph 5. **Both halves were wrong.**
+> The comment exists (report p. 54) and it praises the conclusion. The cause was an extractor fault
+> that paired each picture with the nearest score line instead of the score line that closed its run
+> of pictures — see `KNOWN_DEFECTS.md` **D19**. The invented diagnosis is withdrawn.
 
 ## The merged diagnosis
 

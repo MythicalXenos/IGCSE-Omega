@@ -198,7 +198,7 @@ last rung in `[brackets]` and every struck word recorded as struck.
 | | |
 |---|---|
 | Script page-images found, rendered and paired to their mark | **457 across 14 reports** (`audits/corpus/scripts.json`) |
-| **Scripts**, once the pages one candidate wrote across are merged back together | **408** (`audits/merge_script_spans.py` → `scripts_merged.json`); **52** are worth 6 marks or more, not the 73 the page count suggested |
+| **Scripts**, once the pages one candidate wrote across are merged back together | **390** (`audits/merge_script_spans.py` → `scripts_merged.json`); **67** are worth 6 marks or more. Every score line is checked against the page that prints it, and every mark against the paper's tariff, by `verify_script_pairs.py` |
 | Each image paired with the score printed for it | **415** — the remainder are inside large answer booklets with no score line of their own |
 | June 2022 Paper 1R scripts transcribed line by line | **8** — Q1(g) 6, Q2(c) 3, Q2(e) 3, Q2(f) 9, Q3(d) 6, Q3(e) 9, Q4(b) 6, Q4(c) 12 |
 | Long quotes (25+ words) checked against the report they cite | **every one** — the earlier tool skipped the 20 consolidated files and its zero was vacuous |
