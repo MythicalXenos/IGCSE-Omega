@@ -60,7 +60,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | # | Series | P · Q | Case study | Canonical source |
 |---|---|---|---|---|
-| 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:967` |
+| 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:969` |
 | 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
 
 > ### ⚠️ PERMANENT LIMITATION — BOTH ARE PAPER 1
@@ -86,7 +86,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 12 | **Jun 2024** | P1 Q3(e) | — *PPS* | `2024-06_P1_PPS.md:84` |
 | 13 | **Jun 2024** | P1R Q2(f) | vegan range vs discount — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:9` |
 | 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:25` |
-| 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:864` |
+| 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:866` |
 
 > ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R**. AND **NO VERIFIED 9/9 EXISTS FOR PAPER 2, IN ANY SERIES**
 > Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. The full split is **P1 ×7 · P1R ×6 · P2R ×2 · P2 ×0** — and **Paper 2's ceiling in the bank is a 7/9**, held at `2023-05_Series_Irsi_AudeRose_IKEA_MM.md:168` and dissected at `:300`.
@@ -118,7 +118,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 14 | **Jun 2024** | P1 Q1(g) | — *PPS* | `2024-06_P1_PPS.md:34` |
 | 15 | **Jun 2024** | P1 Q3(d) | — *PPS* | `2024-06_P1_PPS.md:50` |
 | 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:67` |
-| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:905` |
+| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:907` |
 | 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:450` |
 | 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:434` |
 | 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:532` |

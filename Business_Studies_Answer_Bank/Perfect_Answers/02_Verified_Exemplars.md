@@ -586,15 +586,16 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ### The full response
 
+> ⚠️ **Corrected 12 Nov 2026 after reading p. 20 of the report.** The transcription read *"introduce this vegetarian"*; the scan reads *"introduce this **vegan range**"*. The error mattered — the question is about a vegan range, and "vegetarian" is a different word in a different part of the syllabus. Everything else in the three paragraphs, and the conclusion on p. 21, matches the scan word for word.
+
 > **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
-> *"Option 1 would allow Cafe Pinch to cater to the needs of a wider range of customers in the Café industry, meaning that Pinch would attract more customers to its café in Berlin allowing it to sell more meals and increase its revenue and market share in Café market in Berlin, however, it would be costly for Cafe Pinch to introduce this vegetarian as it would need to spend money on recruiting and training new chefs as well as adding more seats for the new customers, this increase in costs might offset the benefits.*
+> *"Option 1 would allow Cafe Pinch to cater to the needs of a wider range of customers in the Café industry, meaning that Pinch would attract more customers to its café in Berlin allowing it to sell more meals and increase its revenue and market share in Café market in Berlin, however, it would be costly for Cafe Pinch to introduce this vegan range as it would need to spend money on recruiting and training new chefs as well as adding more seats for the new customers, this increase in costs might offset the benefits.*
 >
 > *On the other hand, Option 2 would allow Pinch to attract more customers, since customers would be encouraged to visit its Café shop and try its high quality meals at a lower cost, leading to an increase in its revenue as Cafe Pinch would sell more meals due to customers choosing its cheaper meals compared to other Café shops in Berlin however, this discount might mean that Cafe Pinch isn't making the most markup on meals it sells, meaning that Cafe Pinch would make less revenue than other cafés in surrounding areas, leading to Cafe Pinch losing revenue and market share in the Café market in Berlin.*
 >
 > *I believe that option 1 (introducing a vegan range) is the most suitable option for Café Pinch. This is because as Café Pinch would cater to the needs of a wider customer base in Berlin, it would be able to expand and increase its revenue by selling more meals and selling the vegan products, leading to an increase in its market share in the café markets."*
 
 **Examiner comment (verbatim):**
-> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"This response shows **what is expected from candidates in order to gain the full marks** for this type of 'justify' question. This candidate has chosen to look at both options which is acceptable. They have shown **detailed understanding** of both options, they have included **context throughout their response** with **logical chains of reasoning** and have made a **good judgement** about their choice with a **thorough evaluation**."*
 
 ### 🔬 Anatomy — this is the template
@@ -871,6 +872,8 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 
 ### The full response
 
+> ⚠️ **Corrected 12 Nov 2026 after reading p. 20 of the report.** The transcription read *"introduce this vegetarian"*; the scan reads *"introduce this **vegan range**"*. The error mattered — the question is about a vegan range, and "vegetarian" is a different word in a different part of the syllabus. Everything else in the three paragraphs, and the conclusion on p. 21, matches the scan word for word.
+
 > **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Rabanne should hold weekly meetings to improve communication amongst employees around the world either online or in person. This is because holding weekly meetings **creates & improves personal relations** between manufacturers & costume designers. Holding weekly meetings gives an opportunity for managers & manufacturers to directly communicate their opinions & problems they face. This means that **manufacturers & designers & employees feel heard & understood**. This leads to a **sense of belonging amongst designers in Rabanne**, ultimately **increasing motivation to deliver high quality perfumes & handbags** whilst **minimising miscommunication**.*
 >
@@ -982,7 +985,6 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 > *"This example shows that the candidate has clearly understood how marketing impacts upon PPS. They have been able to counter balance their argument well with plenty of context throughout the response. There is well thought out consideration that marketing is important to PPS. Finally, there is a conclusion that adds value to the response and effectively uses the 'it depends rule'."*
 
 And from the report's introduction to this question:
-> **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"Those candidates who accessed level 3 considered the importance of marketing in the context of PPS and the impact this can have on the business, they have then successfully linked their points together in a logical order and been able to conclude their answer with a well-balanced and justified argument."*
 
 ### The architecture

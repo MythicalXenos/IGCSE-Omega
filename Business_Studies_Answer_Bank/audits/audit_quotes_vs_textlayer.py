@@ -121,6 +121,17 @@ def attribute(line, session, paper):
     return session, paper
 
 
+# The report's own prose is quoted too -- "Candidates were able to give some valid reasons but
+# again did not relate them..." A commentary quote is not a script, so failing to attribute it is
+# not a gap in the script audit. Classifying them keeps the count honest in both directions.
+COMMENTARY = re.compile(r"\b(candidates?|centres?|examiners?|cohort|level [123]\b|this response|"
+                        r"marks? (?:were |was )?awarded|responses? (?:were|was|showed|gave))\b", re.I)
+
+
+def is_commentary(text):
+    return len(COMMENTARY.findall(text)) >= 2
+
+
 def main():
     min_words = 25
     if "--min-words" in sys.argv:
@@ -141,6 +152,7 @@ def main():
     skipped = []
     global LABELLED
     LABELLED = 0
+    commentary = 0
     unattributed = 0
     NOT_SCRIPTS = {"00_Pearson_Official_Rulebook.md", "01_Mark_Tariff_Playbook.md",
                    "04_Type_Coverage_and_Gaps.md", "05_Constructed_12mark_Models.md",
@@ -174,7 +186,10 @@ def main():
                     LABELLED += 1
                     continue
                 if not session or not paper:
-                    unattributed += 1
+                    if is_commentary(raw):
+                        commentary += 1
+                    else:
+                        unattributed += 1
                     continue
                 # the archive calls the June sitting "May/Jun" in some years and "Jun" in others;
                 # Pearson's report is the same report either way.
@@ -198,6 +213,9 @@ def main():
                 continue
             session, paper = attribute(line, session, paper)
 
+    if commentary:
+        print(f"{commentary} long quote(s) of examiner commentary sit above any citation - "
+              f"not script checks, so not counted as gaps\n")
     if unattributed:
         print(f"{unattributed} long quote(s) sit above any line naming a session and paper "
               f"- not checked\n")
@@ -217,6 +235,39 @@ def main():
     # image. Pearson prints every marked script as a picture, so this is normal -- but the bank's
     # own rule is that a scan-read transcript must SAY it is scan-read, and only two quotes in the
     # whole bank said so. This writes the label, in place, once per quote.
+    if "--unlabel" in sys.argv:
+        # A label is a claim too, and a wrong one is as bad as a missing one: this removes any
+        # label whose quote the report's text layer DOES support. It caught the Cafe Pinch
+        # examiner comment, which Pearson prints in text and which had been marked unverifiable.
+        removed = 0
+        for path in sorted(glob.glob(os.path.join(PA, "**", "*.md"), recursive=True)):
+            if os.path.basename(path) in NOT_SCRIPTS:
+                continue
+            raw = open(path, encoding="utf-8").read().split("\n")
+            session = paper = None
+            out = []
+            for i, line in enumerate(raw):
+                if line.startswith("> **[") and ("read from the printed script image" in line
+                                                 or "not in any text layer held" in line):
+                    nxt = raw[i + 1] if i + 1 < len(raw) else ""
+                    qm = QUOTE.match(nxt)
+                    key = REPORT_OF.get((session, paper)) if (session and paper) else None
+                    if qm and key in texts and len(norm(qm.group(1)).split()) >= min_words:
+                        sh = shingles(norm(qm.group(1)))
+                        hit = sum(1 for x in sh if x in texts[key])
+                        if sh and hit / len(sh) >= 0.5:
+                            removed += 1
+                            print(f"  unlabelled {os.path.relpath(path, ROOT)}:{i + 1}")
+                            continue
+                    out.append(line)
+                    continue
+                if not QUOTE.match(line):
+                    session, paper = attribute(line, session, paper)
+                out.append(line)
+            if "--write" in sys.argv:
+                open(path, "w", encoding="utf-8").write("\n".join(out))
+        print(f"\n{removed} label(s) removed" + ("" if "--write" in sys.argv else " (dry run)"))
+
     if "--label-unverified" in sys.argv:
         # The other half of the problem: a quote can be perfectly genuine and STILL be
         # unverifiable here, because the report it came from is not held in text form (the

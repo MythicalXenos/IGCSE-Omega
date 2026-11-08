@@ -343,3 +343,29 @@ answer; the appended text is capped at 220 characters; and the extension stops a
 `(1) Question Number` row marker so it cannot swallow the next question. Nine further candidates
 were left alone and reported rather than guessed — one of them (*"worked out revenue instead of
 marks for"*) is corrupted in a way that cannot be repaired from the tail.
+
+---
+
+## D16 — a label is a claim too: two labels were wrong, and one quote was misread
+
+**Severity: medium. Status: FIXED 12 November 2026.**
+
+Labelling 157 quotes "read from the printed script image" is only honest if each one really is
+absent from the text layer, so the tool gained an `--unlabel` mode that re-checks every label and
+deletes it when the report's text layer **does** carry the words. It found two.
+
+One was the Café Pinch examiner comment (*"This response shows what is expected from candidates…"*),
+which Pearson prints in text on p. 21 of `4BS1_01R_2406_ER_full.pdf`. It had been labelled
+unverifiable. **A false label is the same class of defect as a missing one** — it tells the reader
+not to trust a quote that is, in fact, verbatim.
+
+Reading that same page also produced a genuine correction. The transcription of the 9/9 read
+*"it would be costly for Cafe Pinch to introduce this **vegetarian**"*; the scan reads *"this **vegan
+range**"*. **That is not a typo, it is a different concept** — the question is about a vegan range,
+and "vegetarian" belongs to a different part of the specification. Corrected in place with a dated
+note; the rest of the three paragraphs and the conclusion match the scan word for word.
+
+**Three quotes have now been checked by eye against the page, chosen because they carry the most
+weight in the bank:** the Cadbury 0-mark answer (p. 8, June 2022 02R), the PPS 12/12 (p. 38, June
+2024 01) and the Café Pinch 9/9 (pp. 20–21, June 2024 01R). **All three transcriptions were sound
+apart from that one word.** The pipeline reads handwriting well; it needed labels, not repair.

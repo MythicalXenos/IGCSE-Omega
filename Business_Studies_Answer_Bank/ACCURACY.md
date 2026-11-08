@@ -200,10 +200,20 @@ last rung in `[brackets]` and every struck word recorded as struck.
 | Script images found, rendered and paired to their mark | **457 across 14 reports** (`audits/corpus/scripts.json`) |
 | Each image paired with the score printed for it | **415** — the remainder are inside large answer booklets with no score line of their own |
 | June 2022 Paper 1R scripts transcribed line by line | **8** — Q1(g) 6, Q2(c) 3, Q2(e) 3, Q2(f) 9, Q3(d) 6, Q3(e) 9, Q4(b) 6, Q4(c) 12 |
-| Long quotes across the bank that are **not** in any report's text layer, i.e. read from a scan | **52**, listed in `audits/corpus/quotes_not_in_textlayer.json` |
+| Long quotes (25+ words) checked against the report they cite | **every one** — the earlier tool skipped the 20 consolidated files and its zero was vacuous |
+| Quotes whose words are **not** in the report's text layer, report held → script image | **157**, labelled in place as read from the printed image |
+| Quotes from reports the repo does **not** hold in text form | **241**, labelled as unverifiable here rather than left looking checked |
+| Quotes sitting above any line that names a session and paper | **17**, reported and not checked |
+| Multiple-choice items that credited a letter without printing the options | **174**, options now inserted from the question paper (`D14`) |
+| Mark-scheme answers that stopped mid-sentence at a column edge | **19**, completed from the PDF (`D15`) |
 
-**The 52 are the remaining risk, and they are named rather than hidden.** Every one has been located;
-each needs the same treatment the June 2022 Paper 1R set has now had.
+**The 157 and the 241 are the remaining risk, and they are named rather than hidden.**
+Every one now carries a label saying which kind of quote it is — a transcription from the printed
+script image, or a quote from a report the repo cannot check. **Neither label is a clean bill of
+health**; both say "do not treat this as a verbatim copy". Two were spot-checked against the page
+image while labelling: the Cadbury 0-mark answer on p. 8 of `4BS1_02R_2206_ER_full.pdf` and the
+PPS 12/12 on p. 38 of `4BS1_01_2406_ER_full.pdf`. **Both matched word for word**, so the defect was
+provenance — the bank knew what the candidate wrote, but did not say how it knew.
 
 ## 9. Verdict
 
@@ -212,7 +222,7 @@ each needs the same treatment the June 2022 Paper 1R set has now had.
 | Is every answer the answer to its own question? | **Yes** — 0 wrong questions in 342 citations |
 | Are the figures and names real? | **Yes** — 0 invented |
 | Are the mark schemes behind them sound? | **Yes** — 798 of 798 add up |
-| Does the bank quote Pearson correctly? | **Mostly** — 264 of 342 exact; the 78 others are catalogued |
+| Does the bank quote Pearson correctly? | **Mostly** — 264 of 342 exact; the 78 others are catalogued, and every scan-read quote now says so |
 | Is Pearson itself always right? | **No** — one arithmetic error found and corrected in place |
 | Are all 148 exemplar scripts proven? | **Yes** — 147 traced to a printed score; 1 is a question the booklet does not print |
 
