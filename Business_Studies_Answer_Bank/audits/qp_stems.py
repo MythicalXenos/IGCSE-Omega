@@ -38,6 +38,8 @@ QSTART = re.compile(r"^\s*(?:(\d)\s*)?\(([a-g])\)\s*(?:\(([ivx]+)\))?\s*(.*)$")
 # roman numerals of a multiple-choice block without repeating "1 (a)" on every line
 ROMAN = re.compile(r"^\s*\(([ivx]+)\)\s*(.*)$")
 OPTION = re.compile(r"^\s*Option\s*(\d)\s*[:\-]\s*(.+)$")
+# multiple-choice options: "A\t Personal savings" (tab-separated in the text layer)
+MCQ_OPT = re.compile(r"^([A-D])[\t ]+(.+)$")
 DOTS = re.compile(r"^\.{10,}|^£|^\.+")
 
 
@@ -82,6 +84,13 @@ def stems_for(md_name):
             pending_options = []
         buf = None
 
+    collecting = None
+
+    def key_of():
+        if cur_q and cur_part:
+            return f"{cur_q}({cur_part})" + (f"({cur_roman})" if cur_roman else "")
+        return None
+
     for ln in lines:
         om = OPTION.match(ln)
         if om:
@@ -94,6 +103,22 @@ def stems_for(md_name):
                 key = f"{cur_q}({cur_part})" + (f"({cur_roman})" if cur_roman else "")
                 tariffs.setdefault(key, int(mk.group(1)))
             continue
+        low = ln.strip().lower()
+        if low.startswith("select one answer"):
+            # a multiple-choice item: the four options follow, one per line. Without them the
+            # scheme's "The only correct answer is C" names a letter the reader cannot see,
+            # which is how 180 items were stored in this bank.
+            flush()
+            collecting = key_of()
+            continue
+        if collecting:
+            mo = MCQ_OPT.match(ln)
+            if mo:
+                out.setdefault(collecting, {"stem": "", "options": []})["options"].append(
+                    f"{mo.group(1)} \u00b7 {mo.group(2).strip()}")
+                continue
+            if ln.strip():
+                collecting = None
         rm = ROMAN.match(ln)
         if rm and buf is None:
             flush()
@@ -124,9 +149,6 @@ def stems_for(md_name):
             buf = [rest] if rest else []
             continue
         if buf is not None:
-            if DOTS.match(ln) or ln.strip().lower().startswith(("select one answer", "total for question")):
-                flush()
-                continue
             buf.append(ln.strip())
     flush()
     return {k: {"stem": v["stem"], "options": v["options"], "marks": tariffs.get(k)}

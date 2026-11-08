@@ -90,6 +90,10 @@ C is not correct because 1 600 – 1 060 = 0.52 / 1 600
 
 **Question:** Which one of the following could affect a business because of this change?
 
+**Options:** A · Higher loan repayments · B · Increase in labour costs · C · Improved net cash flow · D · Increase in sales
+
+**Credited option:** **A · Higher loan repayments**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -115,6 +119,10 @@ rates would possibly reduce sales
 
 **Question:** Which one of the following is a feature of a public corporation?
 
+**Options:** A · It is owned by a board of directors · B · It is funded by government · C · It aims to maximise profit · D · It is not accountable to anyone
+
+**Credited option:** **B · It is funded by government**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -139,6 +147,10 @@ accountable to the public
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the closing balance for the business at the end of the month?
+
+**Options:** A · –£40 000 · B · £40 000 · C · £980 000 · D · £1 060 000
+
+**Credited option:** **C · £980 000**
 
 **Official mark scheme answer:**
 
@@ -467,6 +479,7 @@ products with no explanation will get a maximum of
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options HRMW should use.  
+
 **Options:** Option 1 · kaizen · Option 2 · just-in-time (JIT).
 
 **Official mark scheme answer:**
@@ -708,6 +721,7 @@ points with logical chains of reasoning.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options HRMW should use.  
+
 **Options:** Option 1 · retained profit · Option 2 · selling assets.
 
 **Official mark scheme answer:**

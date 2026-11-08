@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a form of promotion that targets a specialised segment of the market?
 
+**Options:** A · Mass marketing · B · Niche marketing · C · Market share · D · Market analysis
+
+**Credited option:** **B · Niche marketing**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -37,6 +41,10 @@ information about conditions affecting a market
 
 **Question:** Which one of the following is a financial aim for a business?
 
+**Options:** A · Survival · B · Challenge · C · Social objectives · D · Personal satisfaction
+
+**Credited option:** **A · Survival**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -54,6 +62,10 @@ D – this is not correct because it is a non-financial aim
 
 **Question:** Which one of the following is a variable cost?
 
+**Options:** A · Rent paid · B · Management salaries · C · Insurance agreed · D · Raw materials
+
+**Credited option:** **D · Raw materials**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -70,6 +82,10 @@ C – this is not correct because it is a fixed cost
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a role of the production function?
+
+**Options:** A · Workforce planning · B · Quality control · C · Customer service · D · Staff welfare
+
+**Credited option:** **B · Quality control**
 
 **Official mark scheme answer:**
 
@@ -94,6 +110,10 @@ resources function
 
 **Question:** Which one of the following is the markup on a pack of balloons?
 
+**Options:** A · 7.20 % · B · 9.70 % · C · 69.84 % · D · 134.72 %
+
+**Credited option:** **D · 134.72 %**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -114,6 +134,10 @@ balloon pack
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following would a customer in Malaysia pay in MYR for 4 balloon packs?
+
+**Options:** A · 16.90 MYR · B · 22.16 MYR · C · 67.60 MYR · D · 206.18 MYR
+
+**Credited option:** **D · 206.18 MYR**
 
 **Official mark scheme answer:**
 
@@ -426,6 +450,7 @@ get 1 mark only
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options TBTS should choose.  
+
 **Options:** Option 1 · using retained profits · Option 2 · getting a bank loan.
 
 **Official mark scheme answer:**
@@ -652,6 +677,7 @@ chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options TBTS should choose.  
+
 **Options:** Option 1 · hand out questionnaires to customers that visit the shops · Option 2 · hold focus group meetings with parents and their children.
 
 **Official mark scheme answer:**

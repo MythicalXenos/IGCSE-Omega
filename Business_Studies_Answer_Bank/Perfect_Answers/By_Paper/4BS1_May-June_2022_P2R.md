@@ -457,6 +457,7 @@ in manufacturing with no explanation will get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Cadbury should choose.  
+
 **Options:** Option 1 · allowing employees to work part-time · Option 2 · allowing employees to job share.
 
 **Official mark scheme answer:**
@@ -693,6 +694,7 @@ chains of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Cadbury should choose.  
+
 **Options:** Option 1 · batch production · Option 2 · flow production.
 
 **Official mark scheme answer:**

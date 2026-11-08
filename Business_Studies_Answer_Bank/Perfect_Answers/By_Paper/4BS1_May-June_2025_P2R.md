@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a variable cost?
 
+**Options:** A · Insurance · B · Rent · C · Salaries · D · Raw materials
+
+**Credited option:** **D · Raw materials**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -38,6 +42,10 @@ employee legislation?
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a type of discrimination protected by employee legislation?
+
+**Options:** A · Political · B · Ethical · C · Age · D · Promotion
+
+**Credited option:** **C · Age**
 
 **Official mark scheme answer:**
 
@@ -66,6 +74,10 @@ promotional discount?
 
 **Question:** Which one of the following is the price of buying both items with the promotional discount?
 
+**Options:** A · £129.65 · B · £150.48 · C · £160.80 · D · £171.00
+
+**Credited option:** **B · £150.48**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -90,6 +102,10 @@ research?
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an advantage of primary market research?
+
+**Options:** A · It is cheaper than other types of market research · B · It is less time-consuming than secondary research · C · It is more up to date method of research · D · It is only carried out by market-research agencies
+
+**Credited option:** **C · It is more up to date method of research**
 
 **Official mark scheme answer:**
 
@@ -118,6 +134,10 @@ Q. No.   Which one of the following is the closing balance for this month?   Mar
 
 **Question:** Which one of the following is the closing balance for this month?
 
+**Options:** A · € 88 000 · B · € 96 000 · C · €110 000 · D · €130 000
+
+**Credited option:** **B · € 96 000**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -144,6 +164,10 @@ American businesses?
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a likely effect of this change for American businesses?
+
+**Options:** A · Higher loan repayments · B · Decrease in labour costs · C · Improved net cash flow · D · Increase in sales
+
+**Credited option:** **A · Higher loan repayments**
 
 **Official mark scheme answer:**
 
@@ -507,6 +531,7 @@ Justify which one of these two options Rabanne should choose.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Rabanne should choose.  
+
 **Options:** Option 1 · communicate all information through text messaging/email · Option 2 · hold weekly meetings.
 
 **Official mark scheme answer:**
@@ -721,6 +746,7 @@ Justify which one of these two options Rabanne should choose.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Rabanne should choose.  
+
 **Options:** Option 1 · increasing the number of product trials · Option 2 · increasing advertising.
 
 **Official mark scheme answer:**

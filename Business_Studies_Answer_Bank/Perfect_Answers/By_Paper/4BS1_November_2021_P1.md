@@ -402,6 +402,7 @@ with no explanation will get a maximum of 1
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Artify Studio should choose.  
+
 **Options:** Option 1 · sponsoring a local art show in the Kampong Glam area · Option 2 · having a stand at a national art exhibition in Singapore’s capital.
 
 **Official mark scheme answer:**
@@ -694,6 +695,7 @@ of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Artify Studio should choose.  
+
 **Options:** Option 1 · crowdfunding · Option 2 · retained profit.
 
 **Official mark scheme answer:**

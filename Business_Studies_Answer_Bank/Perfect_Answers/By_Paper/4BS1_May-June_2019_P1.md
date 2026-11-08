@@ -373,6 +373,7 @@ will get a maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Backyard Shoez should use.  
+
 **Options:** Option 1 · bonus payments · Option 2 · job enrichment.
 
 **Official mark scheme answer:**
@@ -614,6 +615,7 @@ points with logical chains of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these options Backyard Shoez should use.  
+
 **Options:** Option 1 · crowdfunding · Option 2 · overdraft.
 
 **Official mark scheme answer:**

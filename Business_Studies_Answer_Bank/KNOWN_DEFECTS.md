@@ -286,3 +286,36 @@ neighbouring section, and the register started failing on paper as well as line.
 `audits/resync_register.py`, and it does no searching: it takes the register as it stood before the
 labels (`git show 1f38eb2`) and adds the count of label lines above each cited line. Arithmetic on a
 known diff. `tally_exemplars.py` then verifies it independently against the files.
+
+---
+
+## D14 — 174 multiple-choice items credited an answer without printing the options
+
+**Severity: high for revision use, zero for doctinal accuracy. Status: FIXED 12 November 2026.**
+
+A 4BS1 paper has eight one-mark multiple-choice questions per paper (some sittings six). The mark
+scheme prints:
+
+> *"AO1 - 1 mark. The only correct answer is C. A is not correct because personal savings are an
+> internal source of finance…"*
+
+and nothing else — the options live on the question paper. The bank copied the scheme, so the item
+read **"the answer is C"** to a reader who had never been shown A, B or D. **174 items across 38
+papers** were like this.
+
+`audits/qp_stems.py` now reads the four options from the QP (`A\t Personal savings`), and
+`audits/repair_mcq_options.py` writes them under the question, plus the credited option in words:
+
+```
+**Options:** A · Personal savings · B · Retained profit · C · Bank loan · D · Selling assets
+
+**Credited option:** **C · Bank loan**
+```
+
+**Guard:** only 1-mark items; only where the paper prints exactly four options; only where the
+scheme names a letter; and the letter must appear among the paper's options — **0 cases** where it
+did not. Where the scheme is silent, nothing is inserted.
+
+The words next to the letter are the paper's, not the scheme's. That is a deliberate mix: **the
+letter is Pearson's, the wording is Pearson's, but the pairing is done here**, so the line is
+labelled as a *credited option* rather than as a quotation.

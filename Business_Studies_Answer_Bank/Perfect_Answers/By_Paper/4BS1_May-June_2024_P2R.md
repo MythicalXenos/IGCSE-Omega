@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following describes Kaizen?
 
+**Options:** A · Continuous improvement · B · Just-in-time (JIT) · C · Market orientation · D · Job production
+
+**Credited option:** **A · Continuous improvement**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -29,6 +33,10 @@ D – is not the correct answer as job production is where employees make one un
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following function areas would pay its employees’ wages?
+
+**Options:** A · Finance · B · Human resources · C · Marketing · D · Production
+
+**Credited option:** **A · Finance**
 
 **Official mark scheme answer:**
 
@@ -46,6 +54,10 @@ D – is not the correct answer as Production deals with the manufacture of good
 
 **Question:** Which one of the following is the price of the shoes in pounds?
 
+**Options:** A · £565.00 · B · £594.54 · C · £3 353.48 · D · £18 979.08
+
+**Credited option:** **B · £594.54**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -61,6 +73,10 @@ D - is not the correct answer as £18 979.08 is 3 359.13 x 5.65
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a benefit of being a sole trader?
+
+**Options:** A · Additional capital can be easily raised · B · Decisions can be shared · C · Independence for the owner · D · Limited liability
+
+**Credited option:** **C · Independence for the owner**
 
 **Official mark scheme answer:**
 
@@ -78,6 +94,10 @@ D – is not the correct answer as sole traders do not have limited liability
 
 **Question:** Which one of the following is the closing balance for the business?
 
+**Options:** A · £44 000 · B · £48 000 · C · £55 000 · D · £65 000
+
+**Credited option:** **B · £48 000**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -93,6 +113,10 @@ D – is not the correct answer as £65 000 is opening balance plus cash inflow
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an advantage of primary market research?
+
+**Options:** A · It is cheaper than other types of market research · B · It is less time consuming than secondary research · C · It is only done by market research agencies · D · It is a more up to date method of research
+
+**Credited option:** **D · It is a more up to date method of research**
 
 **Official mark scheme answer:**
 
@@ -477,6 +501,7 @@ choose.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Jimmy Choo should choose.  
+
 **Options:** Option 1 · casual employees · Option 2 · part-time employees.
 
 **Official mark scheme answer:**
@@ -713,6 +738,7 @@ choose.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Jimmy Choo should choose.  
+
 **Options:** Option 1 · induction training · Option 2 · off-the-job training.
 
 **Official mark scheme answer:**

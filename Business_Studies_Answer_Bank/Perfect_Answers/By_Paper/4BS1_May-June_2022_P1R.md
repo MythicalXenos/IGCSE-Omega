@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following could immediately improve cash flow?
 
+**Options:** A · Allow customers to pay later · B · Launch an advertising campaign · C · Increase inventory of raw materials · D · Pay suppliers later
+
+**Credited option:** **D · Pay suppliers later**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -32,6 +36,10 @@ C – this is not correct because it will decrease cash-flow
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an example of primary market research?
+
+**Options:** A · Internet · B · Postal survey · C · Newspaper · D · Government report
+
+**Credited option:** **B · Postal survey**
 
 **Official mark scheme answer:**
 
@@ -56,6 +64,10 @@ research
 
 **Question:** Which one of the following is a fixed cost?
 
+**Options:** A · Rent · B · Packaging · C · Weekly wages · D · Raw materials
+
+**Credited option:** **A · Rent**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -72,6 +84,10 @@ D – this is not correct because it is a variable cost
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is used to calculate the break-even point?
+
+**Options:** A · Fixed costs × (selling price + variable costs) · B · Fixed costs × (selling price – variable costs) · C · Fixed costs ÷ (selling price + variable costs) · D · Fixed costs ÷ (selling price – variable costs)
+
+**Credited option:** **D · Fixed costs ÷ (selling price – variable costs)**
 
 **Official mark scheme answer:**
 
@@ -98,6 +114,10 @@ break-even point
 
 **Question:** Which one of the following is the total cost in euros of buying a two week supply of salmon?
 
+**Options:** A · €191.70 · B · €224.29 · C · €383.40 · D · €448.58
+
+**Credited option:** **D · €448.58**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -120,6 +140,10 @@ in pounds
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** What is the markup on a kilogram of prawns?
+
+**Options:** A · 11.5% · B · 13.7% · C · 19.1% · D · 23.0%
+
+**Credited option:** **C · 19.1%**
 
 **Official mark scheme answer:**
 
@@ -434,6 +458,7 @@ get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Can Culleretes should choose.  
+
 **Options:** Option 1 · increase advertising · Option 2 · opening for breakfast.
 
 **Official mark scheme answer:**
@@ -641,6 +666,7 @@ chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Can Culleretes should choose.  
+
 **Options:** Option 1 · offer the new chef a permanent contract · Option 2 · offer the new chef a temporary contract.
 
 **Official mark scheme answer:**

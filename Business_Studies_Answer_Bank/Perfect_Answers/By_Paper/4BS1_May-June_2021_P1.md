@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is an external source of finance?
 
+**Options:** A · Personal savings · B · Retained profit · C · Bank loan · D · Selling assets
+
+**Credited option:** **C · Bank loan**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ source of finance
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is the name of a pricing strategy where a business sets a high price for a new product in the market?
+
+**Options:** A · Penetration · B · Skimming · C · Competition · D · Promotional
+
+**Credited option:** **B · Skimming**
 
 **Official mark scheme answer:**
 
@@ -62,6 +70,10 @@ business lowers the price of a product for a short time
 
 **Question:** Which one of the following types of discrimination is protected by legislation?
 
+**Options:** A · Age · B · Ability · C · Social · D · Ethical
+
+**Credited option:** **A · Age**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -87,6 +99,10 @@ protected by legislation
 
 **Question:** Which one of the following is a document employers would send to potential employees?
 
+**Options:** A · Curriculum vitae · B · Letter of application · C · Newspaper advertisement · D · Person specification
+
+**Credited option:** **D · Person specification**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -110,6 +126,10 @@ would be used to advertise the job vacancy
 
 **Question:** Which one of the following would NOF pay for 1kg of dried fruit in pounds sterling?
 
+**Options:** A · £1.16 · B · £11.07 · C · £12.84 · D · £14.00
+
+**Credited option:** **B · £11.07**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -130,6 +150,10 @@ fruits added to the exchange rate of the euro
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** What is the markup on a jar of honey?
+
+**Options:** A · 1.6% · B · 2% · C · 125% · D · 250%
+
+**Credited option:** **C · 125%**
 
 **Official mark scheme answer:**
 
@@ -452,6 +476,7 @@ will get a maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options NOF should choose.  
+
 **Options:** Option 1 · offering a low introductory price for three months · Option 2 · selling at the same price as competitors.
 
 **Official mark scheme answer:**
@@ -702,6 +727,7 @@ with logical chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options NOF should choose.  
+
 **Options:** Option 1 · handing out questionnaires at local retailers · Option 2 · using the internet to research other farms.
 
 **Official mark scheme answer:**

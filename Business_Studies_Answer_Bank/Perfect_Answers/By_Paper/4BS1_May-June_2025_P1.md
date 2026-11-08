@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a debt payable within 12 months?
 
+**Options:** A · Current asset · B · Current liability · C · Non-current asset · D · Non-current liability
+
+**Credited option:** **B · Current liability**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -40,6 +44,10 @@ is a debt to be paid back longer than 12 months
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a pricing strategy where a business sets an initial high price for a product new to the market?
+
+**Options:** A · Skimming · B · Competition · C · Penetration · D · Cost plus
+
+**Credited option:** **A · Skimming**
 
 **Official mark scheme answer:**
 
@@ -68,6 +76,10 @@ a percentage to the cost of making the product
 
 **Question:** Which one of the following is a role of the human resources department?
 
+**Options:** A · Reducing costs · B · Designing products · C · Customer service · D · Recruiting employees
+
+**Credited option:** **D · Recruiting employees**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -92,6 +104,10 @@ the role of marketing
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a benefit to a shareholder of having limited liability?
+
+**Options:** A · Choosing who can buy shares · B · May build a better relationship with suppliers · C · Own possessions are not at risk · D · Employee motivation will increase
+
+**Credited option:** **C · Own possessions are not at risk**
 
 **Official mark scheme answer:**
 
@@ -124,6 +140,10 @@ with employees
 
 **Question:** Which one of the following is the break-even level of output?
 
+**Options:** A · 280 · B · 350 · C · 420 · D · 616
+
+**Credited option:** **B · 350**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -148,6 +168,10 @@ fixed costs
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following statements from Figure 2 correctly applies to the gym equipment business?
+
+**Options:** A · It made a loss of €88 400 · B · It made a loss of €61 165 · C · It made a profit of €43 765 · D · It made a profit of €78 165
+
+**Credited option:** **C · It made a profit of €43 765**
 
 **Official mark scheme answer:**
 
@@ -482,6 +506,7 @@ explanation will get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Four Fitness should choose.  
+
 **Options:** Option 1 · as part of its monthly subscription price, members are given a ‘Technogym · Option 2 · introduce links to online fitness classes on its website that can be accessed
 
 **Official mark scheme answer:**
@@ -750,6 +775,7 @@ with logical chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Gianni should choose.  
+
 **Options:** Option 1 · a partnership with three of his employees · Option 2 · a private limited company.
 
 **Official mark scheme answer:**

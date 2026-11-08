@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is an advantage of being a sole trader?
 
+**Options:** A · Limited liability · B · Independence · C · Sharing ideas with partners · D · Able to sell shares to investors
+
+**Credited option:** **B · Independence**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ investors is an advantage of a limited company
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a benefit of being a multinational company?
+
+**Options:** A · Diseconomies of scale · B · Decrease in brand awareness · C · Increased competition · D · Increased access to customers
+
+**Credited option:** **D · Increased access to customers**
 
 **Official mark scheme answer:**
 
@@ -62,6 +70,10 @@ disadvantage to a multinational company
 
 **Question:** Which one of the following best describes a centralised organisation structure?
 
+**Options:** A · Decisions are made by all employees in the organisation · B · Decisions are made by the CEO and senior managers · C · Each division of the business is responsible for its own decisions · D · Decisions are made by junior managers
+
+**Credited option:** **B · Decisions are made by the CEO and senior managers**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -86,6 +98,10 @@ decisions are made at the top of the hierarchy
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following may occur if a business fails to adapt to changes in the market?
+
+**Options:** A · Increased market share · B · Improved brand image · C · Reduced number of sales · D · Increased customer satisfaction
+
+**Credited option:** **C · Reduced number of sales**
 
 **Official mark scheme answer:**
 
@@ -112,6 +128,10 @@ market
 
 **Question:** Using Figure 1, which one of the following is the profit made by the business?
 
+**Options:** A · $50 000 · B · $70 000 · C · $80 000 · D · $110 000
+
+**Credited option:** **A · $50 000**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -132,6 +152,10 @@ minus total variable costs
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which of the following represents the number of meals sold with a topping added?
+
+**Options:** A · 14 · B · 34 · C · 136 · D · 150
+
+**Credited option:** **B · 34**
 
 **Official mark scheme answer:**
 
@@ -467,6 +491,7 @@ a maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options the brothers should choose.  
+
 **Options:** Option 1 · venture capital · Option 2 · crowdfunding.
 
 **Official mark scheme answer:**
@@ -694,6 +719,7 @@ chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options the owners should choose to collect feedback from customers.  
+
 **Options:** Option 1 · use questionnaires to collect customer views · Option 2 · offer free samples of new toppings and ask customers for their opinions.
 
 **Official mark scheme answer:**

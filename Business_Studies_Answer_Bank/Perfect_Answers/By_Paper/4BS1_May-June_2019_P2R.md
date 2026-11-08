@@ -394,6 +394,7 @@ maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Yellow should use.  
+
 **Options:** Option 1 · employ only full-time staff · Option 2 · employ only part-time staff.
 
 **Official mark scheme answer:**
@@ -637,6 +638,7 @@ points with logical chains of reasoning
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Yellow should use.  
+
 **Options:** Option 1 · job enrichment · Option 2 · job rotation.
 
 **Official mark scheme answer:**

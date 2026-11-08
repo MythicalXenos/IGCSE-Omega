@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a non-financial business objective?
 
+**Options:** A · Profit · B · Sales · C · Market share · D · Personal satisfaction
+
+**Credited option:** **D · Personal satisfaction**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -39,6 +43,10 @@ objective
 
 **Question:** Which one of the following is a part of the Boston Matrix?
 
+**Options:** A · Rising star · B · Risk assessment · C · Product packaging · D · Extension strategy
+
+**Credited option:** **A · Rising star**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -59,6 +67,10 @@ cycle
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an additional payment to a basic wage?
+
+**Options:** A · Promotion · B · Bonus · C · Job enrichment · D · Piece rate
+
+**Credited option:** **B · Bonus**
 
 **Official mark scheme answer:**
 
@@ -83,6 +95,10 @@ where workers get paid for each item produced
 
 **Question:** Which one is the correct label for Phase 2?
 
+**Options:** A · Growth · B · Decline · C · Introduction · D · Maturity
+
+**Credited option:** **A · Growth**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -99,6 +115,10 @@ D is not correct because this is phase 3 on figure 1
 ### `1(a)(v)` — 1 mark (AO2:1)
 
 **Question:** What mark up has Loaf applied to this course?
+
+**Options:** A · 99% · B · 150% · C · 231% · D · 250%
+
+**Credited option:** **B · 150%**
 
 **Official mark scheme answer:**
 
@@ -120,6 +140,10 @@ course/ cost per item x100
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following amounts would a student pay for this course in Yen?
+
+**Options:** A · 65.00 JPY · B · 148.86 JPY · C · 9 620.00 JPY · D · 9 675.90 JPY
+
+**Credited option:** **D · 9 675.90 JPY**
 
 **Official mark scheme answer:**
 
@@ -452,6 +476,7 @@ No marks are awarded for a definition.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Loaf should choose.  
+
 **Options:** Option 1 · offering free bite-sized pieces of its bread and cakes to people passing its shop · Option 2 · using posters to advertise Loaf in local charity shops.
 
 **Official mark scheme answer:**
@@ -693,6 +718,7 @@ points with logical chains of reasoning.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Loaf should choose.  
+
 **Options:** Option 1 · hosting pop-up events across the country · Option 2 · introducing different cookery courses.
 
 **Official mark scheme answer:**

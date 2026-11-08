@@ -420,6 +420,7 @@ commands with no explanation will get a maximum of
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Tata Motor Company should use.  
+
 **Options:** Option 1 · cost plus · Option 2 · promotional.
 
 **Official mark scheme answer:**
@@ -627,6 +628,7 @@ increase its yearly revenue.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Tata Motor Company should use.  
+
 **Options:** Option 1 · primary research · Option 2 · secondary research.
 
 **Official mark scheme answer:**

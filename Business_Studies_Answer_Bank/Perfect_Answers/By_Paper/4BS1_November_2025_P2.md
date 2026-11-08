@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a financial aim of a business?
 
+**Options:** A · Survival · B · Independence · C · Control · D · Challenge
+
+**Credited option:** **A · Survival**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -38,6 +42,10 @@ Q. No.   Which one of the following is a job in the secondary sector?   Mark
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a job in the secondary sector?
+
+**Options:** A · Farmer · B · Grocery store manager · C · Restaurant waiter · D · Ship builder
+
+**Credited option:** **D · Ship builder**
 
 **Official mark scheme answer:**
 
@@ -66,6 +74,10 @@ the three factories?
 
 **Question:** Which one of the following is the total daily remuneration cost for the three factories?
 
+**Options:** A · €15 000 · B · €16 800 · C · €25 200 · D · €57 000
+
+**Credited option:** **D · €57 000**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -88,6 +100,10 @@ organisational structure?
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an advantage of a hierarchical organisational structure?
+
+**Options:** A · It is less expensive to operate than a flat structure · B · It has a short chain of command · C · It has more job promotion opportunities for its employees · D · It has a wide span of control
+
+**Credited option:** **C · It has more job promotion opportunities for its employees**
 
 **Official mark scheme answer:**
 
@@ -115,6 +131,10 @@ Q. No.   Which one of the following is the net cash flow for this month?   Mark
 ### `1(a)(v)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the net cash flow for this month?
+
+**Options:** A · €17 000 · B · €25 000 · C · €42 000 · D · €101 000
+
+**Credited option:** **B · €25 000**
 
 **Official mark scheme answer:**
 
@@ -144,6 +164,10 @@ theory?
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following best describes Taylor’s motivational theory?
+
+**Options:** A · Workers are motivated by money · B · Workers are motivated by esteem needs · C · Workers are motivated by hygiene factors · D · Workers are motivated by working in teams
+
+**Credited option:** **A · Workers are motivated by money**
 
 **Official mark scheme answer:**
 
@@ -502,6 +526,7 @@ choose.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Samsung should choose.  
+
 **Options:** Option 1 · Sponsor celebrities to use its products · Option 2 · Provide a free game app to customers when they purchase a product.
 
 **Official mark scheme answer:**
@@ -760,6 +785,7 @@ choose to minimise costs.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Samsung should choose to minimise its costs.  
+
 **Options:** Option 1 · Just in time (JIT) · Option 2 · Kaizen.
 
 **Official mark scheme answer:**

@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a role within the marketing function?
 
+**Options:** A · Workforce planning · B · Quality control · C · Sales promotion · D · Training employees
+
+**Credited option:** **C · Sales promotion**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ is a role in the human resources function
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an example of a non-financial method of motivation?
+
+**Options:** A · Bonus · B · Remuneration · C · Fringe benefits · D · Job rotation
+
+**Credited option:** **D · Job rotation**
 
 **Official mark scheme answer:**
 
@@ -60,6 +68,10 @@ financial methods of motivation
 
 **Question:** Which one of the following is a phase of the product life cycle?
 
+**Options:** A · Introduction · B · Cash cow · C · Dog · D · Star
+
+**Credited option:** **A · Introduction**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -82,6 +94,10 @@ the Boston matrix
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an example of a public service provided by the government?
+
+**Options:** A · Clothing retailer · B · Police force · C · Mobile phone provider · D · Grocery store
+
+**Credited option:** **B · Police force**
 
 **Official mark scheme answer:**
 
@@ -106,6 +122,10 @@ not a public service
 
 **Question:** Which one of the following is the interest charged by the bank on an overdraft of €1 400?
 
+**Options:** A · €140 · B · €168 · C · €1 388 · D · €1 568
+
+**Credited option:** **B · €168**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -128,6 +148,10 @@ plus 12%
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the percentage change in the total costs between 2022 and 2023?
+
+**Options:** A · 0.90% · B · 9.52% · C · 10.53% · D · 90.48%
+
+**Credited option:** **C · 10.53%**
 
 **Official mark scheme answer:**
 
@@ -520,6 +544,7 @@ will get a maximum of 1 mark
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options the owners of Ocean Vibes should choose.  
+
 **Options:** Option 1 · venture capital · Option 2 · loan capital.
 
 **Official mark scheme answer:**
@@ -795,6 +820,7 @@ of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options the owners of Ocean Vibes should choose to increase their profit.  
+
 **Options:** Option 1 · employ part-time tour guides instead of full-time tour guides · Option 2 · reduce the rate of commission paid to its sales team.
 
 **Official mark scheme answer:**

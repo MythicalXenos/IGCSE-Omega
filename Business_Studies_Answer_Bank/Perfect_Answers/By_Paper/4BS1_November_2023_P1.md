@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is shown on the statement of financial position?
 
+**Options:** A · Sales · B · Cost of sales · C · Current assets · D · Gross profit
+
+**Credited option:** **C · Current assets**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -41,6 +45,10 @@ income
 
 **Question:** Which one of the following is an element of the marketing mix?
 
+**Options:** A · Price · B · Partnership · C · Production · D · Profit
+
+**Credited option:** **A · Price**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -64,6 +72,10 @@ difference between total revenue and total costs
 
 **Question:** Which one of the following is the total monthly cost?
 
+**Options:** A · £ 6 005 · B · £14 000 · C · £30 000 · D · £46 000
+
+**Credited option:** **D · £46 000**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -84,6 +96,10 @@ fixed costs multiplied by the variable cost
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following job roles is most likely to be associated with capital-intensive production?
+
+**Options:** A · Hairdresser · B · Car assembly worker · C · Soft fruit picker · D · Chef
+
+**Credited option:** **B · Car assembly worker**
 
 **Official mark scheme answer:**
 
@@ -108,6 +124,10 @@ is labour intensive
 
 **Question:** Which one of the following is an internal source of finance?
 
+**Options:** A · Overdraft · B · Venture capital · C · Retained profit · D · Crowdfunding
+
+**Credited option:** **C · Retained profit**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -130,6 +150,10 @@ an external source of finance
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the weekly break-even point?
+
+**Options:** A · 8 · B · 55 · C · 80 · D · 176
+
+**Credited option:** **C · 80**
 
 **Official mark scheme answer:**
 
@@ -490,6 +514,7 @@ explanation will get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options AWG should choose.  
+
 **Options:** Option 1 · use venture capital to open new stores · Option 2 · start offering franchises.
 
 **Official mark scheme answer:**
@@ -774,6 +799,7 @@ of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options AWG should choose.  
+
 **Options:** Option 1 · competition pricing · Option 2 · cost plus pricing.
 
 **Official mark scheme answer:**

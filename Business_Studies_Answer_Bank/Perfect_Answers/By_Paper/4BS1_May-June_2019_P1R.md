@@ -387,6 +387,7 @@ explanation will get a maximum of one mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Lavender should use.  
+
 **Options:** Option 1 · batch production · Option 2 · flow production.
 
 **Official mark scheme answer:**
@@ -641,6 +642,7 @@ points with logical chains of reasoning.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two methods Lavender should use.  
+
 **Options:** Option 1 · primary market research · Option 2 · secondary market research.
 
 **Official mark scheme answer:**

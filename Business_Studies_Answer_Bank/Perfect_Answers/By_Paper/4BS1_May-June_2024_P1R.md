@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is an example of an internal source of finance?
 
+**Options:** A · Overdraft · B · Crowdfunding · C · Retained profit · D · Share capital
+
+**Credited option:** **B · Crowdfunding**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -37,6 +41,10 @@ protected by legislation
 
 **Question:** Which one of the following is a result of average costs rising in a growing large business?
 
+**Options:** A · Economies of scale · B · Diseconomies of scale · C · Purchasing economies · D · Financial economies
+
+**Credited option:** **A · Economies of scale**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -51,6 +59,10 @@ B is not the correct answer as it is a question
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is the money left after all costs have been subtracted from revenue?
+
+**Options:** A · Gross profit · B · Inflows · C · Loss · D · Profit
+
+**Credited option:** **D · Profit**
 
 **Official mark scheme answer:**
 
@@ -77,6 +89,10 @@ on to the next
 
 **Question:** Which one of the following is a debt payable after 12 months?
 
+**Options:** A · Non-current liability · B · Current liability · C · Non-current asset · D · Current asset
+
+**Credited option:** **B · Current liability**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -100,6 +116,10 @@ current asset
 
 **Question:** Which one of the following is the markup for the mozzarella cheese and avocado Ciabatta?
 
+**Options:** A · 48% · B · 93% · C · 107% · D · 207%
+
+**Credited option:** **C · 107%**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -122,6 +142,10 @@ D is not the correct answer as €513.20 is
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following would Café Pinch pay in euros if it bought 50 kilos of potatoes?
+
+**Options:** A · €59.52 · B · €48.81 · C · €42.00 · D · €41.00
+
+**Credited option:** **A · €59.52**
 
 **Official mark scheme answer:**
 
@@ -477,6 +501,7 @@ explanation will get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Café Pinch should choose.  
+
 **Options:** Option 1 · introduce a vegan range of products · Option 2 · a special offer of 7.5% discount to customers on Wednesday mornings
 
 **Official mark scheme answer:**
@@ -736,6 +761,7 @@ chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Café Pinch should choose.  
+
 **Options:** Option 1 · updating the noticeboard in the staffroom daily with information such as · Option 2 · weekly staff meetings.
 
 **Official mark scheme answer:**

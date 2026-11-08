@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following could a sole trader pay on its profits?
 
+**Options:** A · Sales tax · B · Income tax · C · Corporation tax · D · Indirect tax
+
+**Credited option:** **B · Income tax**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -31,6 +35,10 @@ D is not correct because it is not a tax
 
 **Question:** Which one of the following is a variable cost?
 
+**Options:** A · Insurance · B · Rent · C · Salaries · D · Packaging
+
+**Credited option:** **D · Packaging**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -47,6 +55,10 @@ C is not correct because it is a fixed cost
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a method of primary market research?
+
+**Options:** A · Newspaper articles · B · Government statistics · C · Focus groups · D · Internet research
+
+**Credited option:** **C · Focus groups**
 
 **Official mark scheme answer:**
 
@@ -71,6 +83,10 @@ research
 
 **Question:** Which one of the following is used to calculate net cash flow?
 
+**Options:** A · Total cash inflow – total cash outflow · B · Total cash inflow + total cash outflow · C · Opening balance – closing balance · D · Opening balance + closing balance
+
+**Credited option:** **A · Total cash inflow – total cash outflow**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -87,6 +103,10 @@ D is not correct because it is the incorrect calculation
 ### `1(a)(v)` — 1 mark (AO2:1)
 
 **Question:** What will the Italian drumming school pay in euros (€) for these five lessons?
+
+**Options:** A · €5.75 · B · €15.00 · C · €75.00 · D · €86.25
+
+**Credited option:** **D · €86.25**
 
 **Official mark scheme answer:**
 
@@ -108,6 +128,10 @@ cost of each lesson at £15 by five lessons
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** What effect would this change in the exchange rate have on the Italian drumming school?
+
+**Options:** A · A decrease in cash outflows · B · An increase in import costs · C · A decrease in revenue · D · An increase in the internet costs
+
+**Credited option:** **A · A decrease in cash outflows**
 
 **Official mark scheme answer:**
 
@@ -406,6 +430,7 @@ with no explanation will get a maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options TADS should use.  
+
 **Options:** Option 1 · commission for each new pupil taught · Option 2 · an increase in the hourly rate.
 
 **Official mark scheme answer:**
@@ -614,6 +639,7 @@ reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options TADS should choose.  
+
 **Options:** Option 1 · teach other musical instruments · Option 2 · increase the number of online drum lessons.
 
 **Official mark scheme answer:**

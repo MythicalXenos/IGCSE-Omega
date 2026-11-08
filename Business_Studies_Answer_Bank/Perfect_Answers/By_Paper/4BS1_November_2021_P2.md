@@ -495,6 +495,7 @@ explanation will get a maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Huawei should choose.  
+
 **Options:** Option 1 · financial · Option 2 · non-financial.
 
 **Official mark scheme answer:**
@@ -795,6 +796,7 @@ of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Huawei should use when launching its new smartphone.  
+
 **Options:** Option 1 · competition pricing · Option 2 · promotional pricing.
 
 **Official mark scheme answer:**

@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a method of gathering secondary research?
 
+**Options:** A · Observations · B · Government report · C · Focus group · D · Test marketing
+
+**Credited option:** **B · Government report**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -39,6 +43,10 @@ Q. No.   Which one of the following is an example of a service?   Mark
 
 **Question:** Which one of the following is an example of a service?
 
+**Options:** A · A hairbrush · B · A train ride · C · A table · D · A bed
+
+**Credited option:** **B · A train ride**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -61,6 +69,10 @@ large cakes on 1 January?
 ### `1(a)(iii)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the total revenue for the sale of large cakes on 1 January?
+
+**Options:** A · £100 · B · £600 · C · £700 · D · £800
+
+**Credited option:** **C · £700**
 
 **Official mark scheme answer:**
 
@@ -87,6 +99,10 @@ business?
 
 **Question:** Which one of the following is a threat of globalisation to a business?
 
+**Options:** A · Increased sales · B · Increased competition · C · Access to new customers · D · Potential to increase brand awareness
+
+**Credited option:** **B · Increased competition**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -112,6 +128,10 @@ Q. No.   Which one of the following represents the break-even point?   Mark
 
 **Question:** Which one of the following represents the break-even point?
 
+**Options:** A · 2 000 units · B · 8 000 units · C · 10 000 units · D · 18 000 units
+
+**Credited option:** **C · 10 000 units**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -136,6 +156,10 @@ Q. No.   Which one of the following is a financial method of motivation?   Mark
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a financial method of motivation?
+
+**Options:** A · Job rotation · B · Commission · C · Job enrichment · D · Autonomy
+
+**Credited option:** **B · Commission**
 
 **Official mark scheme answer:**
 
@@ -473,6 +497,7 @@ Answers that list three disadvantages with no explanation will get 1
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Apple should choose to increase sales in India.  
+
 **Options:** Option 1 · increase its spending on TV advertisements · Option 2 · offer university students free AirPods (wireless headphones) when
 
 **Official mark scheme answer:**
@@ -715,6 +740,7 @@ increase its market share.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Apple should choose to increase its market share.  
+
 **Options:** Option 1 · open more retail stores in these countries · Option 2 · improve its e-commerce in these countries.
 
 **Official mark scheme answer:**

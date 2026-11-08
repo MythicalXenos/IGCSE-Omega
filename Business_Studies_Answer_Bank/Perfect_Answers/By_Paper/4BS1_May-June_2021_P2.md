@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following sectors would a retail outlet operate in?
 
+**Options:** A · Primary · B · Secondary · C · Tertiary · D · Quarternary
+
+**Credited option:** **C · Tertiary**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ retail under this word
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following would be used to select a group of applicants for interview?
+
+**Options:** A · Training · B · Shortlisting · C · Marketing · D · Advertising
+
+**Credited option:** **B · Shortlisting**
 
 **Official mark scheme answer:**
 
@@ -60,6 +68,10 @@ involved in interviewing
 
 **Question:** Which one of the following would NEXT pay in £ (GBP) to the Turkish manufacturer for the 5,000 dresses?
 
+**Options:** A · 5 101 · B · 5 674 · C · 33 700 · D · 75 000
+
+**Credited option:** **D · 75 000**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -76,6 +88,10 @@ C is not correct 33 700 is 5000 x 6.74
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following describes Kaizen?
+
+**Options:** A · Skilled manufacturing · B · Just-in-time (JIT) · C · Market orientated · D · Continuous improvement
+
+**Credited option:** **D · Continuous improvement**
 
 **Official mark scheme answer:**
 
@@ -100,6 +116,10 @@ to production
 
 **Question:** What is the percentage increase, to two decimal places, of online customers from 2017 to 2018?
 
+**Options:** A · 2.00% · B · 4.08% · C · 4.26% · D · 4.70%
+
+**Credited option:** **C · 4.26%**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -120,6 +140,10 @@ percentage
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a benefit of buying a franchise?
+
+**Options:** A · The franchisor provides training to the franchisee · B · A franchisee pays a lower rate of Value Added Tax (VAT) · C · The franchisor pays the franchisee to set up in business · D · A franchisee makes all his/her own decisions
+
+**Credited option:** **A · The franchisor provides training to the franchisee**
 
 **Official mark scheme answer:**
 
@@ -480,6 +504,7 @@ explanation will get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options NEXT should choose.  
+
 **Options:** Option 1 · targeted advertising online · Option 2 · e-newsletters.
 
 **Official mark scheme answer:**
@@ -754,6 +779,7 @@ points with logical chains of reasoning
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options NEXT should choose.  
+
 **Options:** Option 1 · job rotation · Option 2 · job enrichment.
 
 **Official mark scheme answer:**

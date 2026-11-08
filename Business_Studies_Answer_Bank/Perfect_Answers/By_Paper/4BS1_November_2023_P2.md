@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is an example of primary market research?
 
+**Options:** A · Published government statistics · B · Magazine article · C · Internet research · D · Focus groups
+
+**Credited option:** **D · Focus groups**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ secondary market research
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an example of external communication?
+
+**Options:** A · A presentation by the chairperson to its employees · B · Sending a customer details of a special offer · C · A departmental meeting · D · Training sessions for new employees
+
+**Credited option:** **B · Sending a customer details of a special offer**
 
 **Official mark scheme answer:**
 
@@ -64,6 +72,10 @@ employees is an internal communication
 
 **Question:** Which one of the following is the percentage decrease in the share price?
 
+**Options:** A · 1.49% · B · 1.96% · C · 4.08% · D · 4.25%
+
+**Credited option:** **C · 4.08%**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -83,6 +95,10 @@ x 100
 
 **Question:** Which one of the following is the price of 12 tins of baked beans with the 12.5% promotional price discount?
 
+**Options:** A · $5.67 · B · $6.48 · C · $56.25 · D · $81.00
+
+**Credited option:** **A · $5.67**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -99,6 +115,10 @@ D is incorrect as $81.00 = 0.54 x 12 x 12.5
 ### `1(a)(v)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following would be a long-term source of finance for a sole trader?
+
+**Options:** A · Trade credit · B · Overdraft · C · Personal savings · D · Share capital
+
+**Credited option:** **C · Personal savings**
 
 **Official mark scheme answer:**
 
@@ -551,6 +571,7 @@ get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Kraft Heinz should choose.  
+
 **Options:** Option 1 · sponsorship of a local charity · Option 2 · increasing the number of special offers.
 
 **Official mark scheme answer:**
@@ -833,6 +854,7 @@ of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Kraft Heinz should choose.  
+
 **Options:** Option 1 · promote existing employees · Option 2 · advertise managerial positions externally.
 
 **Official mark scheme answer:**

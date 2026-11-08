@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a financial method used to motivate employees?
 
+**Options:** A · Job enrichment · B · Job rotation · C · Autonomy · D · Remuneration
+
+**Credited option:** **D · Remuneration**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -43,6 +47,10 @@ employees
 
 **Question:** Which one of the following is an example of secondary research?
 
+**Options:** A · Government reports · B · Surveys · C · Focus groups · D · Observations
+
+**Credited option:** **A · Government reports**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -68,6 +76,10 @@ is a primary method of market research
 
 **Question:** Which one of the following would increase the break-even point?
 
+**Options:** A · A decrease in the fixed costs · B · An increase in the variable costs · C · An increase in the selling price · D · A decrease in total costs
+
+**Credited option:** **B · An increase in the variable costs**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -90,6 +102,10 @@ D – is not the correct answer as a decrease in
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is provided by a person applying for a job?
+
+**Options:** A · Job description · B · Curriculum vitae (CV) · C · Personal specification · D · Disciplinary and grievance procedures
+
+**Credited option:** **B · Curriculum vitae (CV)**
 
 **Official mark scheme answer:**
 
@@ -120,6 +136,10 @@ successful candidate
 
 **Question:** Which one of the following is the operating profit in 2023?
 
+**Options:** A · £29 000 · B · £79 000 · C · £72 000 · D · £61 000
+
+**Credited option:** **D · £61 000**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -142,6 +162,10 @@ minus expenses
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the percentage change in the cost of material for one robot between 2021 and 2023?
+
+**Options:** A · 1.30% · B · 13.04% · C · 15.00% · D · 86.96%
+
+**Credited option:** **C · 15.00%**
 
 **Official mark scheme answer:**
 
@@ -595,6 +619,7 @@ get a maximum of 1 mark
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Saha should choose.  
+
 **Options:** Option 1 · crowdfunding · Option 2 · loan capital.
 
 **Official mark scheme answer:**
@@ -881,6 +906,7 @@ of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Saha should choose.  
+
 **Options:** Option 1 · price skimming · Option 2 · cost plus pricing.
 
 **Official mark scheme answer:**

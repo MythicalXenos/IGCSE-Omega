@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following only applies to a public limited company?
 
+**Options:** A · Controlled by the government · B · Shares are traded on the stock exchange · C · A maximum of 50 shareholders · D · Restriction in the transfer of shares
+
+**Credited option:** **B · Shares are traded on the stock exchange**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -39,6 +43,10 @@ transfer of shares
 
 **Question:** Which one of the following departments would send an invoice to a supplier?
 
+**Options:** A · Human resources · B · Marketing · C · Finance · D · Production
+
+**Credited option:** **C · Finance**
+
 **Official mark scheme answer:**
 
 AO1 = 1 mark
@@ -60,6 +68,10 @@ D is not correct because Production is making goods
 
 **Question:** What is the market share for Business 2?
 
+**Options:** A · 12.5% · B · 20.8% · C · 25.0% · D · 29.2%
+
+**Credited option:** **A · 12.5%**
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -80,6 +92,10 @@ D is not correct because 29.2% = £350 000
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following describes an overdraft?
+
+**Options:** A · A method of borrowing regular amounts · B · More funds taken out than are in the account · C · Money lent by many people to a business · D · A loan due for repayment in five years
+
+**Credited option:** **B · More funds taken out than are in the account**
 
 **Official mark scheme answer:**
 
@@ -106,6 +122,10 @@ loan
 
 **Question:** What is the percentage change in total assets between 2015–2016 and 2016–2017?
 
+**Options:** A · –18.70% · B · –2.53% · C · 2.47% · D · 2.53%
+
+**Credited option:** **D · 2.53%**
+
 **Official mark scheme answer:**
 
 AO2 = 1 mark
@@ -128,6 +148,10 @@ C is not correct because calculation worked out using
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following would be part of recruiting a new employee?
+
+**Options:** A · Business plan · B · Induction training · C · Job description · D · Job enrichment
+
+**Credited option:** **C · Job description**
 
 **Official mark scheme answer:**
 
@@ -453,6 +477,7 @@ explanation will get a maximum of 1 mark.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Emirates should use.  
+
 **Options:** Option 1 · questionnaires · Option 2 · focus groups.
 
 **Official mark scheme answer:**
@@ -694,6 +719,7 @@ points with logical chains of reasoning.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Emirates should use.  
+
 **Options:** Option 1 · increase the number of special offers · Option 2 · increase advertising via social media.
 
 **Official mark scheme answer:**

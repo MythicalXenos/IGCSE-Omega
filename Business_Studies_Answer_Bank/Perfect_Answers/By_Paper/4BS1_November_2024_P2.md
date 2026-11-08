@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is the break-even point on a break-even chart?
 
+**Options:** A · When fixed costs and variable costs are the same · B · When total costs and fixed costs are the same · C · When fixed costs and total revenue are the same · D · When total costs and total revenue are the same
+
+**Credited option:** **D · When total costs and total revenue are the same**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ C – is not the correct answer as fixed costs and
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a benefit to a franchisee?
+
+**Options:** A · The franchisee can buy supplies from any supplier · B · The franchisee is given support from the franchisor · C · The franchisee is guaranteed a set wage · D · The franchisee has total control
+
+**Credited option:** **B · The franchisee is given support from the franchisor**
 
 **Official mark scheme answer:**
 
@@ -62,6 +70,10 @@ franchisor who has total control
 
 **Question:** Which one of the following is an advantage of job production when compared to other methods of production?
 
+**Options:** A · Workers will be better motivated · B · Production speeds will be faster · C · Unit costs will be the same · D · Less training will be needed
+
+**Credited option:** **A · Workers will be better motivated**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -87,6 +99,10 @@ will be needed for job production
 
 **Question:** Which one of the following would be the total amount paid in AED by a customer for a room?
 
+**Options:** A · 81.25 · B · 243.75 · C · 350.00 · D · 406.25
+
+**Credited option:** **D · 406.25**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -110,6 +126,10 @@ C – is not the correct answer as 350 is 325 plus
 
 **Question:** Which one of the following is the percentage increase in revenue from 2021 to 2022.
 
+**Options:** A · 5.23% · B · 67.70% · C · 209.62% · D · 523.20%
+
+**Credited option:** **C · 209.62%**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -132,6 +152,10 @@ D – is not the correct answer as 523.20% is
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an internal source of finance for a business?
+
+**Options:** A · Crowdfunding · B · Loan capital · C · Personal savings · D · Venture capital
+
+**Credited option:** **C · Personal savings**
 
 **Official mark scheme answer:**
 
@@ -557,6 +581,7 @@ will get a maximum of 1 mark
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Premier Inn should choose.  
+
 **Options:** Option 1 · competition pricing · Option 2 · promotional pricing.
 
 **Official mark scheme answer:**
@@ -822,6 +847,7 @@ of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Premier Inn should choose.  
+
 **Options:** Option 1 · internal recruitment from within Premier Inn hotels around the world · Option 2 · external recruitment, by using an employment agency.
 
 **Official mark scheme answer:**

@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is the production process that relies more on machinery than on labour?
 
+**Options:** A · Kaizen · B · Job production · C · Just-in-time · D · Capital intensive
+
+**Credited option:** **D · Capital intensive**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ method of lean production
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a pricing strategy that involves setting a low price for a product when it is first introduced to the market to quickly gain market share?
+
+**Options:** A · Skimming · B · Competition · C · Penetration · D · Cost plus
+
+**Credited option:** **C · Penetration**
 
 **Official mark scheme answer:**
 
@@ -61,6 +69,10 @@ a mark-up to the product
 ### `1(a)(iii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is most likely to improve the cash flow position of a small business to help prevent its failure?
+
+**Options:** A · Paying overhead costs sooner · B · Paying suppliers later · C · Increasing the rate of pay for its employees · D · Decreasing the net cash flow
+
+**Credited option:** **B · Paying suppliers later**
 
 **Official mark scheme answer:**
 
@@ -93,6 +105,10 @@ compared to cash inflows
 
 **Question:** Which one of the following is a financial business aim?
 
+**Options:** A · Challenge · B · Independence · C · Survival · D · Control
+
+**Credited option:** **C · Survival**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -116,6 +132,10 @@ financial business aim
 
 **Question:** Which one of the following would CCT pay in CNY for six electric bicycles?
 
+**Options:** A · 550.00 CNY · B · 3 300.00 CNY · C · 5 142.50 CNY · D · 30 855.00 CNY
+
+**Credited option:** **D · 30 855.00 CNY**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -138,6 +158,10 @@ C – 5 142.50 CNY - this is not correct because it is
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Using Figure 1 which one of the following is correct for CCT?
+
+**Options:** A · It made a loss of 1 031 646 CYN · B · It made a loss of 412 658 CYN · C · It made a profit of 412 658 CYN · D · It made a profit of 1 031 646 CYN
+
+**Credited option:** **C · It made a profit of 412 658 CYN**
 
 **Official mark scheme answer:**
 
@@ -468,6 +492,7 @@ explanation will get 1 mark only.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options the owner of CCT should choose.  
+
 **Options:** Option 1 · customer satisfaction · Option 2 · profit.
 
 **Official mark scheme answer:**
@@ -727,6 +752,7 @@ with logical chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options CCT should choose.  
+
 **Options:** Option 1 · selling assets · Option 2 · retained profit.
 
 **Official mark scheme answer:**

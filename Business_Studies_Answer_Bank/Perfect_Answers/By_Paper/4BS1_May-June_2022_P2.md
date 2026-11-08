@@ -468,6 +468,7 @@ Answers that list three reasons with no explanation will get a
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options LEGO should choose.  
+
 **Options:** Option 1 · cost plus · Option 2 · skimming.
 
 **Official mark scheme answer:**
@@ -644,6 +645,7 @@ chains of reasoning (AO3).
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options LEGO should choose.  
+
 **Options:** Option 1 · on-the-job training · Option 2 · off-the-job training.
 
 **Official mark scheme answer:**

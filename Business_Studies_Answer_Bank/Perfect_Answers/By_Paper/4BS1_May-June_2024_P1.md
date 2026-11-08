@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is protected by legislation?
 
+**Options:** A · Skills · B · Age · C · Experience · D · Ability
+
+**Credited option:** **C · Experience**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -36,6 +40,10 @@ source of finance
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following represents a star product on the Boston matrix?
+
+**Options:** A · High market growth, high market share · B · High market growth, low market share · C · Low market growth, high market share · D · Low market growth, low market share
+
+**Credited option:** **B · High market growth, low market share**
 
 **Official mark scheme answer:**
 
@@ -68,6 +76,10 @@ rate
 
 **Question:** Which one of the following is the method of production where one unit of output is completed at a time?
 
+**Options:** A · Lean · B · Flow · C · Batch · D · Job
+
+**Credited option:** **D · Job**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -92,6 +104,10 @@ from revenue
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a current asset?
+
+**Options:** A · Vehicle · B · Cash · C · Building · D · Factory
+
+**Credited option:** **A · Vehicle**
 
 **Official mark scheme answer:**
 
@@ -118,6 +134,10 @@ to be turned into cash within a year
 
 **Question:** Which one of the following is the total cost in euros when buying 20 dog collars from the UK?
 
+**Options:** A · €22.56 · B · €445.20 · C · €630.95 · D · €513.20
+
+**Credited option:** **C · €630.95**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -134,6 +154,10 @@ D is not the correct answer as 207% is 5.30/2.56 x100
 ### `1(a)(vi)` — 1 mark (AO2:1)
 
 **Question:** Which one of the following is the total monthly cost for PPS?
+
+**Options:** A · €692.50 · B · €931.50 · C · €2137.50 · D · €2312.50
+
+**Credited option:** **B · €931.50**
 
 **Official mark scheme answer:**
 
@@ -448,6 +472,7 @@ explanation will get 1 mark only
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options PPS should choose.  
+
 **Options:** Option 1 · trial a new brand of dog food in the shop · Option 2 · sponsor a local dog show.
 
 **Official mark scheme answer:**
@@ -698,6 +723,7 @@ with logical chains of reasoning. (AO3)
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options PPS should choose.  
+
 **Options:** Option 1 · using Rachel’s personal savings · Option 2 · taking out a small bank loan.
 
 **Official mark scheme answer:**

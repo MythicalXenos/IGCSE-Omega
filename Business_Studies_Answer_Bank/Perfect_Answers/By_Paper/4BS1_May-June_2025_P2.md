@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a secondary sector activity?
 
+**Options:** A · Coal mining · B · Engineering · C · Farming · D · Insurance
+
+**Credited option:** **B · Engineering**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -32,6 +36,10 @@ Q. No.   Which one of the following is an external source of finance?   Mark
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an external source of finance?
+
+**Options:** A · Selling assets · B · Retained profit · C · Personal savings · D · Bank loan
+
+**Credited option:** **D · Bank loan**
 
 **Official mark scheme answer:**
 
@@ -54,6 +62,10 @@ latte?
 
 **Question:** Which one of the following is the percentage decrease in the price of a latte?
 
+**Options:** A · 0.55% · B · 2.94% · C · 9.32% · D · 10.28%
+
+**Credited option:** **C · 9.32%**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -74,6 +86,10 @@ partnership?
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is the minimum number of owners in a partnership?
+
+**Options:** A · 1 · B · 2 · C · 20 · D · 50
+
+**Credited option:** **B · 2**
 
 **Official mark scheme answer:**
 
@@ -100,6 +116,10 @@ member in India?
 
 **Question:** Which one of the following would be the monthly price in Rupees to be a member in India?
 
+**Options:** A · 413.48 · B · 1105.08 · C · 4 134.84 · D · 4 961.81
+
+**Credited option:** **A · 413.48**
+
 **Official mark scheme answer:**
 
 AO2 - 1 mark
@@ -120,6 +140,10 @@ managing immediate cash flow problems?
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is an external source of finance for managing immediate cash flow problems?
+
+**Options:** A · Personal savings · B · Retained profit · C · Selling assets · D · Overdraft
+
+**Credited option:** **D · Overdraft**
 
 **Official mark scheme answer:**
 
@@ -473,6 +497,7 @@ Justify which one of these two methods Starbucks should choose.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two methods Starbucks should choose.  
+
 **Options:** Option 1 · financial methods · Option 2 · non-financial methods.
 
 **Official mark scheme answer:**
@@ -681,6 +706,7 @@ Justify which one of these two options Starbucks should choose.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options Starbucks should choose.  
+
 **Options:** Option 1 · open coffee shops in supermarkets · Option 2 · open coffee shops in hospitals.
 
 **Official mark scheme answer:**

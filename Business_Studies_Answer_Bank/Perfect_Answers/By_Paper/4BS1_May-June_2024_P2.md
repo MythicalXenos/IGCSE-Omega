@@ -14,6 +14,10 @@
 
 **Question:** Which one of the following is a non-financial objective?
 
+**Options:** A · Generating wealth · B · Personal satisfaction · C · Maximising profit · D · Regular income
+
+**Credited option:** **B · Personal satisfaction**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -29,6 +33,10 @@ D - is not the correct answer as regular income is a financial objective
 ### `1(a)(ii)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following would be a benefit to a business delaying paying its suppliers?
+
+**Options:** A · Improved cash flow · B · Increased profit · C · A reduction in the amount of interest paid · D · Improved relationship with suppliers
+
+**Credited option:** **A · Improved cash flow**
 
 **Official mark scheme answer:**
 
@@ -46,6 +54,10 @@ D - is not the correct answer as delaying payment would have the opposite effect
 
 **Question:**  Which one of the following would be the total monthly cost for Jewellery For You?
 
+**Options:** A · €924 · B · €3 480 · C · €6 480 · D · €7 080
+
+**Credited option:** **B · €3 480**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -61,6 +73,10 @@ D - is not the correct answer as €7 080 is 240 x 27 + 600
 ### `1(a)(iv)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a reason why a business would produce a cash flow forecast?
+
+**Options:** A · It is a legal requirement that a business has a cash flow forecast · B · A cash flow forecast ensures that the business will be successful · C · It can help a bank decide whether it should lend money to a business · D · To show the profit and loss of a business in the past six months
+
+**Credited option:** **C · It can help a bank decide whether it should lend money to a business**
 
 **Official mark scheme answer:**
 
@@ -78,6 +94,10 @@ D - is not the correct answer as a forecast does not show the profit and loss of
 
 **Question:** Which one of the following was the cost of the holiday in Thai Baht?
 
+**Options:** A · 24.40 · B · 1 038.91 · C · 40 828.18 · D · 40 869.09
+
+**Credited option:** **C · 40 828.18**
+
 **Official mark scheme answer:**
 
 AO1 - 1 mark
@@ -93,6 +113,10 @@ D - is not the correct answer as 40 869.09 is 998 x 40.91 + 40.91
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
 **Question:** Which one of the following is a reason why a sole trader would want to become a private limited company?
+
+**Options:** A · The business can keep financial records confidential · B · The business will have unlimited liability · C · Shareholders are liable for all debts · D · Increased ability to raise finance
+
+**Credited option:** **D · Increased ability to raise finance**
 
 **Official mark scheme answer:**
 
@@ -465,6 +489,7 @@ Justify which one of these two options TUI should choose.
 ### `2(f)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options TUI should choose.  
+
 **Options:** Option 1 · competition pricing · Option 2 · promotional pricing.
 
 **Official mark scheme answer:**
@@ -693,6 +718,7 @@ Justify which one of these two options TUI should use.
 ### `3(e)` — 9 marks (AO2:3, AO3:3, AO4:3)
 
 **Question:** Justify which one of these two options TUI should use.  
+
 **Options:** Option 1 · using the internet · Option 2 · asking customers to complete a questionnaire.
 
 **Official mark scheme answer:**
