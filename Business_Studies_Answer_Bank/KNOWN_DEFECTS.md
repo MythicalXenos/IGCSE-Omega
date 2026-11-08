@@ -369,3 +369,31 @@ note; the rest of the three paragraphs and the conclusion match the scan word fo
 weight in the bank:** the Cadbury 0-mark answer (p. 8, June 2022 02R), the PPS 12/12 (p. 38, June
 2024 01) and the Café Pinch 9/9 (pp. 20–21, June 2024 01R). **All three transcriptions were sound
 apart from that one word.** The pipeline reads handwriting well; it needed labels, not repair.
+
+---
+
+## D17 — the MS-vs-QP checker was comparing a truncated quote with a full one
+
+**Severity: tooling only, plus one real finding. Status: FIXED 13 November 2026.**
+
+`check_ms_qp_agreement.py` reported **5 mismatches** for two months. Four were false:
+
+| Paper | What the tool compared |
+|---|---|
+| May-June 2024 P1 | MS: *"…keep its market share. **You should use the information provided…**"* vs QP: *"…keep its market share. You should use"* — the QP extractor stops at `You should use`, so the schemes were always ~15 words longer. Similarity 0.75 was arithmetic, not a disagreement. |
+
+The comparison now cuts both stems at `You should use`. **Four of the five vanish; the remaining
+similarities are 0.96–1.00.**
+
+**Two differences are real, and both are now read rather than inferred:**
+
+1. **June 2026 P1** — the paper prints **Crumb** (owner Alex), the scheme prints **Violet Cakes**
+   (owner Claire). Already documented; the paper is an amended edition.
+2. **May-June 2022 P1R** — **new finding.** The mark scheme says *"fund the opening of **Can
+   Culleretes**"*; the paper, p. 18, says *"fund the opening of **Can Café**"*, a **second, smaller
+   premises** the restaurant is opening. The scheme is loose, not swapped — but any answer that
+   writes *"fund the opening of Can Culleretes"* is answering a question that was not asked.
+   `By_Paper/4BS1_May-June_2022_P1R.md` already carries the paper's wording; it was checked.
+
+Both are recorded in the tool as `KNOWN_DIFFERENT` **with the reason**, so the check still fails on
+anything new: a genuinely swapped MS/P1R pair would now be the only thing that trips it.

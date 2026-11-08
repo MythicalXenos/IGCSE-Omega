@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 148 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 149 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 36 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
@@ -29,12 +29,12 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | Tariff | Distinct scripts |
 |---|---|
 | **12-mark Evaluate** | **2** |
-| **9-mark Justify** | **15** |
+| **9-mark Justify** | **16** |
 | **6-mark Analyse** | **25** |
 | **3-mark Explain** | **47** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×8 · Jun 2025 ×6 · Jun 2026 ×4)* |
 | **1-mark items** | **36** *(May/Jun 2023 ×24 — **P2 ×6** · **P1R ×6 · P1 ×6** · Jun 2026 ×6 · Jun 2024 ×6)* |
 | **2-mark items** | **23** *(May/Jun 2023 ×16 — **P2 ×4** · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4 · Jun 2024 ×3)* |
-| **TOTAL** | **148** *(the four governed tiers = **89**; the rest are the 1- and 2-mark script pairs the reports print)* |
+| **TOTAL** | **149** *(the four governed tiers = **90**; the rest are the 1- and 2-mark script pairs the reports print)* |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -68,7 +68,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 9 MARKS — **15 scripts**
+## 9 MARKS — **16 scripts**
 
 | # | Series | P · Q | The choice being made | Canonical source |
 |---|---|---|---|---|
@@ -87,11 +87,12 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 13 | **Jun 2024** | P1R Q2(f) | vegan range vs discount — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:9` |
 | 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:25` |
 | 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:866` |
+| 16 | **Jun 2025** | P1R Q3(e) | selling assets vs retained profit — *CCT* | `External_Exemplars/2025-06_P1R_CCT.md:11` |
 
 > ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R**. AND **NO VERIFIED 9/9 EXISTS FOR PAPER 2, IN ANY SERIES**
 > Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. The full split is **P1 ×7 · P1R ×6 · P2R ×2 · P2 ×0** — and **Paper 2's ceiling in the bank is a 7/9**, held at `2023-05_Series_Irsi_AudeRose_IKEA_MM.md:168` and dissected at `:300`.
 >
-> ✅ **Two independent counts agree, and the second cannot be affected by what the bank chooses to keep.** The register holds **fifteen** 9/9s and not one of them is Paper 2; and the five archived reports print exactly **five** 9/9 mark statements — **2023 P1 ×4** (report pp. 16, 22, 26, 30) and **2023 P2R ×1** (p. 39) — with **none on Paper 2**. Paper 2 prints only **three** 9-mark statements at all: **5/9 · 7/9 · 5/9**. ⚠️ **So the 7/9 (report p. 33) is the highest Paper 2 Justify script the qualifications entire held reporting prints** — which is why `:300` dissects it in full. For Paper 2 it is the *ceiling of official evidence*, not merely a near-miss.
+> ✅ **Two independent counts agree, and the second cannot be affected by what the bank chooses to keep.** The register holds **sixteen** 9/9s and not one of them is Paper 2; and the five archived reports print exactly **five** 9/9 mark statements — **2023 P1 ×4** (report pp. 16, 22, 26, 30) and **2023 P2R ×1** (p. 39) — with **none on Paper 2**. Paper 2 prints only **three** 9-mark statements at all: **5/9 · 7/9 · 5/9**. ⚠️ **So the 7/9 (report p. 33) is the highest Paper 2 Justify script the qualifications entire held reporting prints** — which is why `:300` dissects it in full. For Paper 2 it is the *ceiling of official evidence*, not merely a near-miss.
 >
 > ### ⭐ AND FIVE COME FROM ONE SERIES
 > May/June 2023 alone printed **five** 9/9 Justify answers — entries 6–10. The bank previously recorded this as **four**, because the fifth (a Paper 2R script) was filed in a different section of the report.

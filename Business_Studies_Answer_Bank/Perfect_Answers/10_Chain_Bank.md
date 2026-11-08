@@ -4196,7 +4196,15 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 ## 181. SOURCES OF FINANCE — retained profit vs selling unused assets
 
 **Asked:** *"Option 1: retained profit · Option 2: selling off assets that are no longer used."* — **May–June 2020 P2R, 3(e)**, HRMW ($£$*sports goods, R&D for new tennis racquets*)
-**Also asked:** *"Option 1: selling off unused bicycle equipment · Option 2: retained profit."* — **June 2025 P1R, 3(e)**, CCT ($£$*electric bicycles at £550 each*)
+**Also asked:** *"To fund the cost of purchasing the electric bicycles, CCT is considering two options:*
+**Option 1: selling assets** · **Option 2: retained profit."* — **June 2025 P1R, 3(e)**, CCT
+($£$*electric bicycles at £550 each*)
+
+> ⚠️ **Corrected 13 Nov 2026.** This said the paper asked for *"selling off unused bicycle equipment"*.
+> **That is the mark scheme's AO2 wording, not the paper's** — the paper says **"selling assets"**,
+> which is why the candidate has to work out for themselves that the assets might be unused.
+> The only full-mark script on this question is transcribed in
+> `External_Exemplars/2025-06_P1R_CCT.md`, and it never mentions the £550.
 
 > **Note how the two papers put the SAME two options in opposite orders — and how the named condition differs completely between them, because the numbers do.** This is the clearest illustration in the bank that **the condition must come from the case.**
 
@@ -5599,7 +5607,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 
 ## 231. LOCATION — four papers, one spine, four different reasons
 
-**Asked:** *"Evaluate the factors **Tata Motor Company** would have to take into account when making decisions about where to locate a new factory."* — **May 2019 P2 4(c)**, cars · *"Evaluate the factors that **Loaf** would have to consider when deciding where to locate its second bakery."* — **May 2020 P1R 4(c)**, bakery and cookery classes, a social enterprise · *"Evaluate the factors **Jimmy Choo** would have to consider when making decisions on the location of a new factory."* — **May 2024 P2R 4(c)**, luxury handbags · *"Evaluate the factors that **Artify Studio** would have considered when deciding where to locate its second art studio."* — **November 2021 P1 4(c)**.
+**Asked:** *"Evaluate the factors **Tata Motor Company** would have to take into account when making decisions about where to locate new factories."* — **May 2019 P2 4(c)**, cars · *"Evaluate the factors that **Loaf** would have to consider when deciding where to locate its second bakery."* — **May 2020 P1R 4(c)**, bakery and cookery classes, a social enterprise · *"Evaluate the factors **Jimmy Choo** would have to consider when making decisions on the location of a new factory."* — **May 2024 P2R 4(c)**, luxury handbags · *"Evaluate the factors that **Artify Studio** would have considered when deciding where to locate its second art studio."* — **November 2021 P1 4(c)**.
 
 **The spine is identical on all four, and it is cost, not preference:** *the factor → why this business in particular needs it → what it saves or earns → what it costs elsewhere.*
 

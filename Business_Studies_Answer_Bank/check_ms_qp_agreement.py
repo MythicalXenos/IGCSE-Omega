@@ -64,7 +64,26 @@ def qp_stem(folder, tag):
 
 
 def norm(s):
-    return re.sub(r'[^a-z ]', '', s.lower()).strip()
+    # THE FAILURE MODE THIS TOOL HAD FOR TWO MONTHS: it compared the mark scheme's
+    # stem (which runs to "...own knowledge of business.") with a question-paper stem
+    # that the extractor had already cut at "You should use". Four of the five
+    # "MISMATCHES" it reported were that, not a swap. Compare like with like.
+    s = re.split(r"You should use", s)[0]
+    return re.sub(r"[^a-z ]", "", s.lower()).strip()
+
+
+# The two differences that are REAL, each verified by reading both documents.
+KNOWN_DIFFERENT = {
+    ("June 2026", "P1"):
+        "the paper is an amended edition: it prints Crumb (owner Alex), the scheme prints "
+        "Violet Cakes (owner Claire). Same business, two names. Confirmed against both "
+        "documents; the bank prints the paper's names.",
+    ("May-June 2022", "P1R"):
+        "the scheme says 'the opening of Can Culleretes'; the paper says 'the opening of "
+        "Can CAFE' - a second, smaller premises the restaurant is opening. Verified by "
+        "reading p. 18 of the QP. The scheme is loose, not swapped; the bank quotes the "
+        "paper where it quotes the question.",
+}
 
 
 def main():
@@ -95,15 +114,23 @@ def main():
             if r > sim and r > 0.7:
                 alt.append((round(r, 2), p2))
         flag = ''
-        if sim >= 0 and sim < 0.75:
+        if sim >= 0 and sim < 0.75 and (ses, paper) not in KNOWN_DIFFERENT:
             flag = '  <<< MISMATCH'
             if alt:
                 flag += ' - MS stem matches ' + ', '.join(f'{p} ({r})' for r, p in alt)
             flags.append((ses, paper))
+        elif sim >= 0 and sim < 0.90 and (ses, paper) in KNOWN_DIFFERENT:
+            flag = '  known difference (read, not inferred)'
+        elif sim >= 0 and sim < 0.90:
+            flag = '  <<< LOW - read the diff'
+            flags.append((ses, paper))
         shown = '  -' if sim < 0 else f'{sim:.2f}'
         print(f'{ses:14s} {paper:4s} {shown:>5}  {mstem[:40]:40s} | {qstem[:40]}{flag}')
     print()
-    print(f'MISMATCHES: {len(flags)}')
+    print(f"MISMATCHES: {len(flags)}")
+    print(f"known, verified differences set aside: {len(KNOWN_DIFFERENT)}")
+    for k, why in KNOWN_DIFFERENT.items():
+        print(f"   {k[0]} {k[1]}: {why}")
     for f in flags:
         print('   ', f)
 

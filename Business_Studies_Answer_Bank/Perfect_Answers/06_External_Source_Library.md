@@ -1980,7 +1980,7 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 > ### ✅ SUPERSEDED — 14 OCTOBER 2026. EVERY LINE BELOW WAS TRUE WHEN WRITTEN AND IS NOT TRUE NOW.
 > **This section was written before the 2025 and 2026 reports were harvested, and it listed as "unharvested" four targets that have all since been found** — the June 2025 P1R Analyse, the June 2025 P2 Analyse, the June 2025 P2R Justify and the May 2023 P2R Justify. **Read the table below instead; the register that proves it is `09_Verified_Tally.md`, and `tally_exemplars.py` re-derives it.**
 
-**What is actually still missing, by tariff and paper — derived from the register (47 × 3/3 · 25 × 6/6 · 15 × 9/9 · 2 × 12/12 = 86 rows):**
+**What is actually still missing, by tariff and paper — derived from the register (47 × 3/3 · 25 × 6/6 · 16 × 9/9 · 2 × 12/12 = 90 rows):**
 
 | Tariff | Paper 1 | Paper 1R | Paper 2 | Paper 2R |
 |---|---|---|---|---|

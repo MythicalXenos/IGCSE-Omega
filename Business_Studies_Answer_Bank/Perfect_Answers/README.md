@@ -37,7 +37,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **2** | **152** | calculate one figure · outline one | ✅ **2 × 2/2**, archived and transcribed — ⚠️ *same* |
 | **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **47 × 3/3**, Jun 2019 → Jun 2026 |
 | **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **25 × 6/6** |
-| **9** | **76** | 2(f) · 3(e) | ✅ **15 × 9/9** |
+| **9** | **76** | 2(f) · 3(e) | ✅ **16 × 9/9** |
 | **12** | **38** | 4(c) | ✅ **2 × 12/12** |
 | **TOTAL** | **988** | 26 parts / 80 marks per paper | **86 governed full-mark scripts**, plus **the 1- and 2-mark tier — all 80 scripts the five reports print, each transcribed with its examiner comment.** ✅ **`BANKED 80 / REMAIN 0`** *(`layer_c_1_2mark_coverage.py`, check 24; `08_` item 6 closed 14 Oct 2026)* |
 
