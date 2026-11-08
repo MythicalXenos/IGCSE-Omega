@@ -73,6 +73,12 @@ reports that were read online and never stored, so **the register cannot be re-v
 repository alone** — only its internal consistency can be (`tally_exemplars.py`, 148/148 rows
 resolve).
 
+**Re-measured 9 November 2026, row by row (`audits/audit_register_against_er.py`): of the 148
+rows, 82 trace to a printed score line in a document that is in this repository, 54 cite a report
+that is not held, 11 are the rejected half of a 1- or 2-mark pair and are correct as such, and 1
+names a June 2019 question the exemplar booklet does not cover. Zero rows were contradicted by
+the report they cite.**
+
 **What can be verified, was.** On 9 November 2026 the June 2022 4BS1/02R report was retrieved
 again from Pearson and compared to this bank's transcription of the Cadbury 1-mark pair. It
 matches **word for word**, including the examiner tip *"Try and avoid using the name of the
@@ -80,8 +86,8 @@ scenario but include something that is related to the business… perhaps includ
 designers"*. One load-bearing citation checked, one exact match. That is evidence for the method;
 it is not evidence for all 148 rows.
 
-**What would close it.** Store the 15 published 4BS1 examiner reports alongside the archive
-(roughly 8–12 MB). The URLs are already recorded in `06_External_Source_Library.md`.
+**What would close it.** Store the published 4BS1 examiner reports for 2022, 2024 and 2025
+alongside the archive. **Retrieval from this environment is not possible** — see D5.
 
 ---
 
@@ -90,5 +96,26 @@ it is not evidence for all 148 rows.
 **Severity: medium. Status: documented.**
 
 Local: May 2023 P1, P1R, P2, P2R and June 2026 P1R. Everything else in the bank's exemplar
-register was read from a report that is not stored. Reports for November 2024 onwards are
-centre-gated for twelve months; the older ones are freely available and could be stored.
+register was read from a report that is not stored. Pearson withholds examiner reports behind
+Edexcel Online for the first nine months after a series; the older ones are public.
+
+**Attempted and failed, 9 November 2026:** `curl`/`wget` to qualifications.pearson.com return
+HTTP 000; the qualification and exam-materials landing pages return 404 through the fetch tool;
+guessed direct-PDF names (`4bs1-02r-pef-20240822.pdf` and a 2025 equivalent) both 404; the
+pdfcoffee mirror returns 503; Scribd serves a stub only. The only files that resolve are the
+un-gated teaching materials, and those were retrieved.
+
+---
+
+## D6 — The stored June 2019 Paper 1 exemplar PDF has no text layer for its scripts
+
+**Severity: low for the reader, high for any automated quote check. Status: documented, workaround known.**
+
+`Sources/Official_Pearson/4BS1_Paper1_Exemplar_Commentaries_June2019.pdf` extracts the examiner
+comments as text but leaves **the candidate responses and the mark-scheme tables as images**. The
+same document served live by Pearson has both as text.
+
+Consequence: `audits/audit_quotes.py` will report every quoted candidate sentence from
+`2019-06_P1_Official_Exemplar_Booklet.md` as "not found", and it is wrong to read those misses as
+fabrication. The same applies to the Paper 2 booklet's stored copy, which is "selected pages"
+only.
