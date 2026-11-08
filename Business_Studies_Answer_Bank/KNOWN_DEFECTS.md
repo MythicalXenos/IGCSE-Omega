@@ -119,3 +119,24 @@ Consequence: `audits/audit_quotes.py` will report every quoted candidate sentenc
 `2019-06_P1_Official_Exemplar_Booklet.md` as "not found", and it is wrong to read those misses as
 fabrication. The same applies to the Paper 2 booklet's stored copy, which is "selected pages"
 only.
+
+
+---
+
+## D7 — 24 citations attribute mark-scheme wording to the question paper
+
+**Severity: low to medium. Status: located, not yet fixed.**
+
+In `10_Chain_Bank.md`, 24 of 363 quoted questions put the mark scheme's expansion of an option
+inside the quotation marks attributed to the paper. On 9-mark justify questions the paper prints
+only a label (*"Option 1: casual employees"*); the scheme explains what that means (*"some
+employees like the option of being 'on call'"*). The bank quotes both as one sentence.
+
+**Verified against primary sources:** #193 (May 2023 P1R), #217 (May–June 2024 P2R), #224
+(June 2025 P2) — the substance is right in each case, the attribution is not.
+
+**Fix:** relabel those 24 as *"paper option label / scheme description"* rather than one quotation.
+No answer needs rewriting. A further 11 entries quote no question at all (scaffolds and comparison
+tables) and should say so.
+
+**Measured by** `audits/audit_question_quotes.py`.
