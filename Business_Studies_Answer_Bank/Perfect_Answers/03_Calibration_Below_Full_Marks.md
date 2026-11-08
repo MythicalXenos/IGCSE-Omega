@@ -221,6 +221,31 @@ Both scripts are `[VERIFIED CANDIDATE EXEMPLAR]`s with their marks printed. Full
 
 ---
 
+---
+
+### 🏆 AN **11/12** THAT HAS NO EXAMINER COMMENT — and what that costs the diagnosis
+
+**June 2025 Paper 1R, Q4(c)** — *"Evaluate the impact on CCT of an increase in the Chinese interest
+rate."* **(12)** — **11 marks.** Full transcript: `../audits/corpus/transcripts/4BS1_01R_2506_4c.md`;
+the answer is also written up beside the two full-mark 9/9s and the 6/6 in
+`External_Exemplars/2025-06_P1R_CCT.md`.
+
+**The archive prints the score and no comment for this script.** That makes it the most useful
+calibration case in the bank **and** the least certain one, and the difference has to be stated:
+
+| What is **certain** | What is **the bank's reading** |
+|---|---|
+| The mark is **11/12**. | **Why** the twelfth mark is missing. |
+| It covers every AO: definition of interest rates, chain through Chinese mortgage-holders, chain through CCT's own loans, **two** counter-arguments, a judgement. | The bank's reading is that **the judgement contradicts its own counter-argument** — paragraph 5 says the impact *"may not… at all"*, paragraph 6 opens *"Overall, increased interest rates have a big impact"*. |
+| It uses the paper's own figure: **3.2% − 3.0% = 0.2%** — *"there has only been a 0.2% increase on interest rates"*. | That a conclusion which **weighs** the two sides is what separates 11 from 12. |
+
+> ### ⚠️ READ THIS AS A HYPOTHESIS, NOT A RULING
+> Every other diagnosis in this file is anchored in an examiner sentence printed by Pearson. **This
+> one is not**, because Pearson printed none. The bank's rule is that an inference is labelled as an
+> inference, and this is the label. **What the script proves beyond argument** is narrower and still
+> worth having: **all four AOs covered, both sides argued, the case's own number computed — and still
+> not full marks.** Any theory that says "cover the scheme and you get 12" is dead on this page.
+
 ## The merged diagnosis
 
 Reading all the examiner comments together, the same four failures recur, and none of them is about knowing more content:
