@@ -5,24 +5,25 @@
 with hyphens and no "Studies". Every earlier attempt used `International GCSE/Business Studies/…`
 and 404'd. The corrected path is the one below.
 
-## Held as a PDF in this repository — 13 reports, 40 MB
+## Held as a PDF in this repository — 14 reports, 43 MB
 
 All in `Sources/Official_Pearson/Full_Examiner_Reports/`, named
 `4BS1_<01|01R|02|02R>_<YYMM>_ER_full.pdf`.
 
 | Session | Papers held | Rows they settle |
 |---|---|---|
-| June 2022 | P1, P2R | 12 |
-| May/June 2023 | P1, P1R, P2, P2R | 60 |
-| June 2024 | P1, P1R, P2 | 13 |
-| June 2025 | P1R, P2, P2R | 9 |
-| June 2026 | P1R | 6 |
-| **Total** | **13 files** | **122 verified rows** |
+| June 2022 | P1 (6), **P1R (6)**, P2R (7) | 19 |
+| May/June 2023 | P1 (20), P1R (19), P2 (16), P2R (16) | 71 |
+| June 2024 | P1 (7), P1R (3), P2 (3) | 13 |
+| June 2025 | P1R (4), P2 (3), P2R (2) | 9 |
+| June 2026 | P1R | 16 |
+| **Total** | **14 files** | **128 verified rows** |
 
-The eight added on 12 Nov 2026 came from your uploads and are now stored under the house name:
+The nine added on 9–12 Nov 2026 came from your uploads and are now stored under the house name:
 `4bs1-01-pef-20220825` → `4BS1_01_2206`, `4bs1-01-pef-20240822` → `4BS1_01_2406`,
 `4bs1-01r-pef-20240822` → `4BS1_01R_2406`, `4bs1-01r-pef-20250821` → `4BS1_01R_2506`,
 `4bs1-02-pef-20240822` → `4BS1_02_2406`, `4bs1-02-pef-20250821` → `4BS1_02_2506`,
+`4bs1-01r-pef-20220825` → `4BS1_01R_2206` (supplied 12 Nov 2026),
 `4bs1-02r-pef-20220825` → `4BS1_02R_2206`, `4bs1-02r-pef-20250821` → `4BS1_02R_2506`.
 
 ## Read, but not stored as a PDF
@@ -39,16 +40,18 @@ labelled as an excerpt).
 | June 2025 P1 | `…/4bs1-01-pef-20250821.pdf` | 1 (Q1(g) 6 marks) |
 | June 2019 P1, P1R, P2 | Pearson exemplar booklets (un-gated teaching materials) | 6 |
 
-## Still missing — ONE file, six rows
+## Still missing — **nothing**
 
-| # | File | Rows | What it blocks |
-|---|---|---|---|
-| 1 | `4bs1-01r-pef-20220825.pdf` (June 2022 **P1R**) | 6 | the last six unverified rows in the register — Q1(b), 1(c), 1(d), 1(e), 2(a), 2(c) |
+`4bs1-01r-pef-20220825.pdf` (June 2022 **P1R**) was supplied on 12 Nov 2026 and is stored as
+`4BS1_01R_2206_ER_full.pdf`. It settles the last six rows: **Q2(c) 3 marks, Q2(e) 3, Q2(f) 9, Q3(d) 6,
+Q3(e) 9, Q4(b) 6.**
 
-Its three siblings all exist and are held: June 2022 P1 (`4bs1-01-pef-20220825`, you uploaded it on
-9 Nov) and June 2022 P2R (`4bs1-02r-pef-20220825`, uploaded 12 Nov). So this one almost certainly
-exists too — it just has never been supplied. **If you drop that single PDF into chat, the register
-goes to 147 of 148 and the last row is a question the booklet simply does not print.**
+**Every one of the 148 register rows is now traced to a printed score line** — 147 of them from a
+document held or read, and one (June 2019 P2 Q1(f)) from a booklet that does not print a script for
+that question at all.
+
+The only reports still outside the repository are the two read live from Pearson's site (June 2024
+Paper 2R, June 2025 Paper 1) — both URLs below are public and can be downloaded at any time.
 
 ## Confirmed dead
 

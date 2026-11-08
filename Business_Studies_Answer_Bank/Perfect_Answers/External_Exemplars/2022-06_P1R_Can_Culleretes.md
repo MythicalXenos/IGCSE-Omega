@@ -5,6 +5,12 @@
 **Source:** [4bs1-01r-pef-20220825.pdf](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Business/2017/Exam-materials/4bs1-01r-pef-20220825.pdf) — Pearson Examiners' Report, June 2022, Publications Code `4BS1_01R_2206_ER`.
 
 > Transcriptions are faithful to the candidate's handwriting, including spelling and punctuation errors. Insertions for legibility are in `[square brackets]`.
+>
+> **Updated 12 Nov 2026 — the report arrived and every script was re-read from the scan.** The full
+> report is now stored at `Sources/Official_Pearson/Full_Examiner_Reports/4BS1_01R_2206_ER_full.pdf`
+> and the line-by-line transcriptions of the long answers are in `audits/corpus/transcripts/`
+> (`4BS1_01R_2206_1g`, `_2c`, `_2e`, `_2f`, `_3d`, `_3e`, `_4b`, `_4c`). Where the earlier quote was
+> partial or misread, the correction is dated in place.
 
 ---
 
@@ -107,9 +113,11 @@ permanent contract
 
 ## ✅ 6/6 · Q1(g) Analyse the impact of technology on Can Culleretes' productivity
 
-> *"Can Culleretes may have an increase in productivity due to technology. Customers ordering online will mean less time spent with waiters taking orders or messing up orders, and can also be sent directly to the kitchen staff wh[ich] may reduce wait times for nearing and putting out orders… which means they produce more meals and become more productive. This may cause customer satisfaction… and [bring] them back.*
+> **[READ FROM SCAN — corrected 12 Nov 2026]** *"Can Culleretes may have an increase in productivity due to technology. Customers ordering online will mean less time spent with waiters taking orders or messing up orders, and orders can also be sent directly to the kitchen staff which may reduce wait times for ~~nearing and~~ putting out orders. This may lead to a increase in productivity as Can Culleretes can reduce the time spent between orders meaning they have a higher production capability which means they produce more meals and become more productive. This may increase customer satisfaction for less wait and [come] back.*
 >
-> *Although an app may increase productivity it might not. Customers who are unfamiliar with technology or customers who don't want to download the app may feel frustrated as they are forced to do something they [didn't] want. This may decrease [productivity] as customers may spend long times figuring out the app and may also [] get frustrated and leave which will [reduce] the number of orders… It may further decrease productivity as chefs may have a hard time understanding the new system, get frustrated and be less inclined to work[, reducing] productivity."*
+> *[Although] an app may increase productivity it might not. Customers who are unfamiliar with technology or customers who don't want to download the app may feel frustrated as they are forced to do something they don't want. This may decrease Can Culleretes['] producti[on] / productivity as customers may spend long times figuring out the app and may also just get frustrated and leave which will decrease the number of orders which may lead to less meals being cooked meaning productivity is cost and has fallen. It may further reduce productivity as chefs may have a hard time understanding the new system, get frustrated and be less inclined to work decreasing productivity."*
+
+⚠️ **What was wrong before:** the earlier quote dropped the candidate's middle chain (*"higher production capability… produce more meals"*), smoothed *"messing up orders"* into *"messing up orders, and can also be sent"* without its subject, and marked three words as illegible that are in fact legible. **The bracketed `[Although]` is the one word still read from context** — the crop cuts it at the left margin. Full transcript, with every gap listed: `audits/corpus/transcripts/4BS1_01R_2206_1g.md`.
 
 **Examiner comment (verbatim):**
 > *"Candidates took a number of routes to answer this question and could bring in their own knowledge of the subject… **This response shows a good example of positive and negative impacts on productivity.**"*
@@ -142,7 +150,11 @@ Compare the same move in **Jun 2022 P1 Q3(d)** (motivation analysed via the impl
 **Examiner Tip (verbatim):**
 > *"Unless responses for 'analyse' questions are in the context of the given business scenario candidates will find it difficult to access to higher marks."*
 
-**Note:** this is the *negative* chain, and it reaches 6/6 on its own — because it is fully developed and anchored to the restaurant's food and service. The examiner praises the candidate for considering both directions.
+⚠️ **Corrected 12 Nov 2026.** This note used to say the quote above *"is the negative chain, and it reaches 6/6 on its own"*. **The scan shows two paragraphs, one negative and one positive** — the second was not quoted here. The positive one:
+
+> **[READ FROM SCAN]** *"Another impact is increased business/brand exposure and awareness. If customers leave positive reviews, more people are likely to pass [on] and recommend the restaurant to friends and family. This means as there are more positive reviews on social media, it is exposed and read [by] larger amounts of people to view. This may result in higher sales and more customers and loyal customers ([repeat])."*
+
+**So the answer is not one-sided, and the examiner's praise is explicitly for having both:** *"the candidate has thought about the positives… and the negative effects as well."* The negative paragraph is the better written of the two, which is probably how the one-sided reading arose — but a student copying it would lose the half the examiner paid for. Full transcript: `audits/corpus/transcripts/4BS1_01R_2206_3d.md`.
 
 ---
 

@@ -35,6 +35,7 @@ NOTE = re.compile(r"of a Level\s*\d+ mark|marks available|marks are available", 
 
 REPORTS = {
     "4BS1_01_2206":  ("Jun 2022", "P1"),
+    "4BS1_01R_2206": ("Jun 2022", "P1R"),
     "4BS1_02R_2206": ("Jun 2022", "P2R"),
     "4BS1_01_2306":  ("May/Jun 2023", "P1"),
     "4BS1_01R_2306": ("May/Jun 2023", "P1R"),

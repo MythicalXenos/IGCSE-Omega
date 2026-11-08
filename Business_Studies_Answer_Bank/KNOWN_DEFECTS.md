@@ -168,3 +168,60 @@ a scanning artefact. The bank had reproduced both lines verbatim.
 **Why it matters beyond this question:** it is the one place in 38 papers where "quoted verbatim
 from Pearson" and "arithmetically correct" pull in opposite directions. Every other calculation in
 the archive recomputes cleanly.
+
+---
+
+## D9 — `7 239 / 85 038` is a denominator typo in Pearson's own June 2022 Paper 2R scheme
+
+**Severity: low for the exam. Status: OPEN — logged, not corrected, because the graded answer is unaffected.**
+
+June 2022, Paper 2R, Q1(e): the scheme's working prints `7 239 / 85 038`, while the base figure in the
+same question is **85 083**. The graded outcome does not change, so this is a transcription slip in
+Pearson's own working, not a marking error. It is logged rather than "fixed" in the bank because the
+bank quotes the scheme verbatim; the note sits beside the quote.
+
+---
+
+## D10 — June 2022 Paper 1R Q3(d): the bank quoted half the answer and drew the wrong lesson
+
+**Severity: high for technique. Status: FIXED 12 November 2026.**
+
+The entry quoted the first paragraph of a 6/6 Analyse and described it as *"the negative chain… this
+reaches 6/6 on its own"*. **The scan shows two paragraphs — negative, then positive — and the examiner
+praises the candidate for having both:** *"the candidate has thought about the positives of customers
+using social media to review Can Culleretes and the negative effects as well."*
+
+A student following the old note would write a one-sided answer and lose half of what the examiner
+paid for. The second paragraph is now quoted, the claim is corrected in place, and the whole script is
+transcribed at `audits/corpus/transcripts/4BS1_01R_2206_3d.md`.
+
+**Why it was missed:** the answer is a scanned image. The PDF's text layer carries the examiner's
+comment and nothing else, so quoting "the script" meant quoting whatever had been read by eye, once.
+
+**Measured by** `audits/audit_quotes_vs_textlayer.py` — which now lists **52** further long quotes that
+are not in any report's text layer, i.e. read from scans, and which therefore need the same check.
+
+---
+
+## D11 — June 2022 Paper 1R Q1(g): the quote dropped a chain and called legible words illegible
+
+**Severity: medium. Status: FIXED 12 November 2026.**
+
+The bank's quote omitted the candidate's middle chain (*"higher production capability… produce more
+meals"*) and marked three words as unreadable (`[productivity]`, `[didn't]`, `[reduce]`) that read
+cleanly at 2× on the scan. Replaced with the full transcription, `[Although]` alone still supplied
+because the crop cuts it at the left margin.
+
+---
+
+## D12 — the extraction tool paired 42 script images with no score
+
+**Severity: tooling only. Status: FIXED 12 November 2026.**
+
+`audits/extract_scripts.py` finds each script image, renders it and attaches the score printed for it.
+Its first version paired **415 of 457**; the other 42 opened an answer booklet with no score line of
+their own, or had the score printed *above* the picture, or on the following page. Both cases are now
+handled (look above the picture; walk forward to the next page, stopping at the next question
+heading). The 42 that remain unpaired are booklets, not failures.
+
+**The rule this repeats:** a tool that reports a gap where there is none is worse than no tool.

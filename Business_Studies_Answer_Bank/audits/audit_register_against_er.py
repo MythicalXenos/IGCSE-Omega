@@ -29,6 +29,7 @@ BOOKLET_HEAD = re.compile(r"Question (\d)\(([a-g])\)(?: \(Paper (\dR)\))?")
 
 REPORT_SESSIONS = {
     "4BS1_01_2206":  ("Jun 2022", "P1"),
+    "4BS1_01R_2206": ("Jun 2022", "P1R"),
     "4BS1_02R_2206": ("Jun 2022", "P2R"),
     "4BS1_01_2306":  ("May/Jun 2023", "P1"),
     "4BS1_01R_2306": ("May/Jun 2023", "P1R"),
@@ -70,6 +71,7 @@ def main():
     lines = open(TALLY, encoding="utf-8").read().split("\n")
     tier, hdr = None, None
     results = collections.Counter()
+    per_key = collections.Counter()
     rows = []
     for i, l in enumerate(lines, 1):
         m = TIER.match(l)
@@ -153,12 +155,17 @@ def main():
             print(f"  L{i:<4} {t:>2}mk  {series:<12} {paper} {q:<6}  ✗ {key}: no script printed for this question")
             continue
         if claim <= set(marks):
+            per_key[key] = per_key.get(key, 0) + 1
             results["VERIFIED (report stored)" if (series, paper) not in LIVE
                     else "VERIFIED (report read live, not stored)"] += 1
         else:
             results[f"mark mismatch"] += 1
             extra = f" (row annotates {sorted(claim)}/1)" if claim != {t} else ""
             print(f"  L{i:<4} {t:>2}mk  {series:<12} {paper} {q:<6}  ✗ {key}: printed marks {marks}, row claims {sorted(claim)}{extra}")
+    if "--by-report" in sys.argv:
+        print("\n--- verified rows per source ---")
+        for k, n in sorted(per_key.items(), key=lambda kv: (-kv[1], kv[0])):
+            print(f"  {k:<24} {n:>3}")
     print("\n--- summary ---")
     for k, v in results.most_common():
         print(f"  {k:<26} {v}")

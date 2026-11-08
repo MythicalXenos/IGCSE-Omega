@@ -45,3 +45,13 @@ Paperlords_Archive/Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip
 # Intermediate extraction scratch
 /tmp/
 *.part
+
+# ---------------------------------------------------------------------------
+# Rendered examiner-report scans — regenerable, and 177 MB if kept
+# ---------------------------------------------------------------------------
+# Every PNG under audits/corpus/scripts_png/ is produced from the stored PDFs by
+#   python3 audits/extract_scripts.py --all
+# which rebuilds the whole set (457 images, ~1 minute) and rewrites
+# audits/corpus/scripts.json. Keeping them in Git would treble the repository for
+# files that are a pure function of what is already committed.
+Business_Studies_Answer_Bank/audits/corpus/scripts_png/

@@ -135,45 +135,75 @@ is right.
 
 ---
 
-## 8. What is still not verified — read this before trusting the number 148
+## 8. What is still not verified — **nothing is left unaccounted for**
 
-The register lists 148 real candidate scripts. **Updated 12 November 2026: 141 of the 148 are now
-traced to a printed score line in a document I have actually read.**
+**Updated 12 Nov 2026, after the June 2022 Paper 1R report arrived.** All 148 register rows are now
+traced to a printed score line in a report that is either stored in this repository or was read from
+Pearson's live PDF.
 
 | Bucket | Count |
 |---|---|
-| Verified against a stored examiner report (13 PDFs, 40 MB, in `Sources/Official_Pearson/Full_Examiner_Reports/`) | **122** |
-| Verified against a report read from Pearson's live PDF but not stored (June 2024 Paper 2R, June 2025 Paper 1) | **13** |
+| Verified against a stored examiner report — **14 PDFs, 43 MB** | **128** |
+| Verified against a report read from Pearson's live PDF but not stored — June 2024 Paper 2R (12) and June 2025 Paper 1 (1) | **13** |
 | Verified against Pearson's June 2019 exemplar booklets | **6** |
-| **Total verified** | **141** |
-| Cannot be checked — the June 2022 **Paper 1R** report is the one file still missing | **6** |
+| Traced to a printed score — **total** | **147** |
 | The booklet prints nothing for that question | **1** |
+| **Rows with no evidence** | **0** |
 
-**Getting there exposed four defects, and three of them were in my own checking, not in the bank.**
+The last six were June 2022 Paper 1R, and they are settled: **Q2(c) 3 marks, Q2(e) 3 marks, Q2(f) 9,
+Q3(e) 9, Q3(d) 6, Q4(b) 6** — every one of them a full-mark script printed in the report, and every
+one of them now transcribed line by line from the scan (see §9).
+
+**Getting there exposed six defects, and three of them were in my own checking, not in the bank.**
 
 1. **The checker was reading a stale file.** `inventory.json` was built before the reader handled
    *"This response scored 1 mark"* (singular) and word-numbers like *"the full three marks"*, so it
-   under-reported grades. The register now reads the fresh `inventory_er.json`. Seven rows moved
-   from "mismatch" to "verified" on that fix alone, and none of them had ever been wrong.
+   under-reported grades. The register now reads the fresh `inventory_er.json`. Seven rows moved from
+   "mismatch" to "verified" on that fix alone, and none of them had ever been wrong.
 2. **The checker was ignoring the register's own annotations.** Rows that already said **(0/1)** or
    **(1/2 and 1/2)** were treated as claiming full marks, because the checker read the section
    heading instead of the row. Eight more false alarms.
 3. **A loop variable was overwriting the question number** in the 2019 booklet branch, so three
    booklet rows were compared against the wrong question.
-4. **Three real defects in the bank** were found and fixed:
-   - **June 2025 P2 Q"2(c)"** — the batch-production 6-marker is **1(g)**; 2(c) is the 3-mark JIT
-     question. Wrong question number in the register and in this file's exemplar chapter.
-   - **June 2023 P1R Q2(b)** — heading said **1/1**; the report prints **one** script for that
-     question and awards it **0** ("no context no marks can be gained"). The heading now says
-     **0/1**, with the correction dated in place.
-   - **June 2025 P2 Q1(g)** — the quoted 6/6 answer was only its **first paragraph**, presented
-     without an ellipsis and described as *"3 sentences, 46 words"*. The script is **two
-     paragraphs, about 100 words**, and the second paragraph exists **only as a scanned image** —
-     the text layer of the PDF does not carry it. Now quoted in full, with the method written up in
-     `audits/SCRIPT_RECONSTRUCTION.md`.
+4. **June 2025 P2 Q"2(c)"** — the batch-production 6-marker is **1(g)**; 2(c) is the 3-mark JIT
+   question. Wrong question number in the register and in the exemplar chapter.
+5. **June 2023 P1R Q2(b)** — heading said **1/1**; the report prints **one** script for that question
+   and awards it **0** ("no context no marks can be gained"). The heading now says **0/1**.
+6. **June 2025 P2 Q1(g)** — the quoted 6/6 answer was only its **first paragraph**, presented without
+   an ellipsis and described as *"3 sentences, 46 words"*. The script is **two paragraphs, about 100
+   words**, and the second exists **only as a scanned image**.
 
-**What is left: six June 2022 Paper 1R rows.** The other June 2022 papers are held; that one report
-has not been obtained. Nothing else in the register is unaccounted for.
+**And reading the June 2022 Paper 1R scans added two more that only the images could show:**
+
+7. **June 2022 P1R Q3(d)** — the bank described the quoted answer as *"the negative chain"* that
+   *"reaches 6/6 on its own"*. The scan is **two paragraphs, one negative and one positive**, and the
+   examiner praises the candidate for having both. Half the answer had been left out.
+8. **June 2022 P1R Q1(g)** — the quote dropped the candidate's middle chain and marked three legible
+   words as unreadable.
+
+---
+
+## 9. Reading the scans — the extraction, and where it stands
+
+The reports print every script as a **picture**. The PDF's text layer carries the examiner's words
+and the score line, and **nothing at all of the handwriting** — so a quote built from the text layer
+is complete only by luck. That is what produced defect 6.
+
+The method is now written up in `audits/SCRIPT_RECONSTRUCTION.md` and `audits/QUOTE_TEMPLATE.md`, and
+it is a ladder: **page → section → block → line → word → intent**, with every word supplied by the
+last rung in `[brackets]` and every struck word recorded as struck.
+
+**Work completed this pass:**
+
+| | |
+|---|---|
+| Script images found, rendered and paired to their mark | **457 across 14 reports** (`audits/corpus/scripts.json`) |
+| Each image paired with the score printed for it | **415** — the remainder are inside large answer booklets with no score line of their own |
+| June 2022 Paper 1R scripts transcribed line by line | **8** — Q1(g) 6, Q2(c) 3, Q2(e) 3, Q2(f) 9, Q3(d) 6, Q3(e) 9, Q4(b) 6, Q4(c) 12 |
+| Long quotes across the bank that are **not** in any report's text layer, i.e. read from a scan | **52**, listed in `audits/corpus/quotes_not_in_textlayer.json` |
+
+**The 52 are the remaining risk, and they are named rather than hidden.** Every one has been located;
+each needs the same treatment the June 2022 Paper 1R set has now had.
 
 ## 9. Verdict
 
@@ -184,7 +214,7 @@ has not been obtained. Nothing else in the register is unaccounted for.
 | Are the mark schemes behind them sound? | **Yes** — 798 of 798 add up |
 | Does the bank quote Pearson correctly? | **Mostly** — 264 of 342 exact; the 78 others are catalogued |
 | Is Pearson itself always right? | **No** — one arithmetic error found and corrected in place |
-| Are all 148 exemplar scripts proven? | **141 yes** — 6 await one missing PDF, 1 is not printed in the booklet |
+| Are all 148 exemplar scripts proven? | **Yes** — 147 traced to a printed score; 1 is a question the booklet does not print |
 
 **The bank is accurate enough to revise from.** It is not flawless, and the three flaws it has are
 now written down where they occur rather than left for you to discover mid-answer.

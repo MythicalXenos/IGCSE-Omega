@@ -1,6 +1,6 @@
 # Reading a script that will not extract — the layered method, and what it found
 
-**12 November 2026.** This file answers one narrow question: *when the examiner report prints a
+**12 November 2026, updated the same day once the June 2022 Paper 1R report arrived.** This file answers one narrow question: *when the examiner report prints a
 candidate's answer as a picture, how do we find out what it actually said?* It records the method,
 the four layers that were tried, the one that works, and the two bank defects the working method
 exposed.
@@ -110,43 +110,65 @@ score check was run against every row. **Corrected to 0/1**, dated, in place.
 
 ---
 
-## 3. What the layered check changed, in numbers
+## 3. What the extraction now covers
 
-| | Before 9 Nov | After 12 Nov |
-|---|---|---|
-| Register rows traced to a printed score | 82 | **141 of 148** |
-| Mark mismatches | 13 | **0** |
-| Rows still uncheckable | 54 | **6** (one missing PDF: June 2022 P1R) |
-| Rows where the report prints nothing | 1 | 1 (June 2019 P2 1(f) — the booklet is silent) |
+| | |
+|---|---|
+| Reports held | **14** (June 2022 P1/P1R/P2R · May-June 2023 P1/P1R/P2/P2R · June 2024 P1/P1R/P2 · June 2025 P1R/P2/P2R · June 2026 P1R) |
+| Script images found and rendered | **457**, all recorded with their page, question, rendered file, printed score and the commentary that follows (`audits/corpus/scripts.json`) |
+| Images paired with the score printed for them | **415** — the other 42 open an answer booklet and carry no score of their own |
+| Scripts transcribed line by line from the scan | **8 so far**, all on June 2022 Paper 1R: Q1(g) 6 · Q2(c) 3 · Q2(e) 3 · Q2(f) 9 · Q3(d) 6 · Q3(e) 9 · Q4(b) 6 · Q4(c) 12 |
+| Long quotes in the bank that are **not** in any report's text layer | **52**, listed with their file and question in `audits/corpus/quotes_not_in_textlayer.json` |
 
-The three mismatches that survived the first pass were **my checker's fault, not the bank's**:
+**Register status: 147 of 148 rows traced to a printed score; 0 unaccounted for; 1 question the booklet
+never printed.**
 
-- it read a **stale inventory** built before singular *"1 mark"* and word-numbers were handled;
-- it read the **section tier** instead of the row, so rows already annotated **(0/1)** were scored
-  as if they claimed full marks;
-- a loop variable **overwrote the question number** in the booklet branch.
-
-That is the same lesson as the earlier false alarms: **a checker that flags correct material is
-broken, and the material has to be read by eye before it is called wrong.**
+The three false mismatches that survived the first pass were **my checker's fault, not the bank's**:
+it read a **stale inventory** built before singular *"1 mark"* and word-numbers were handled; it read
+the **section tier** instead of the row, so rows already annotated **(0/1)** were scored as if they
+claimed full marks; and a loop variable **overwrote the question number** in the booklet branch. That
+is the same lesson as before: **a checker that flags correct material is broken**, and the material has
+to be read by eye before it is called wrong.
 
 ---
+
+## 3a. What reading the June 2022 Paper 1R scans changed
+
+Two defects that **no text-layer check could have found**, because the words were not in the text
+layer at all:
+
+1. **Q3(d)** — the bank quoted the first paragraph and called it *"the negative chain… 6/6 on its own"*.
+   The scan is **two paragraphs, negative then positive**, and the examiner's praise is explicitly for
+   having both. Half the answer was missing, and the lesson drawn from it was wrong.
+2. **Q1(g)** — the quote dropped the candidate's middle chain (*"higher production capability… produce
+   more meals"*) and marked three legible words as unreadable.
+
+And one thing the scans revealed that is worth teaching later: **Q4(c), the 12-mark, opens with a
+definition** — while the 6-mark and 9-mark answers on the same paper both open with the decision. The
+difference is the AO split: a 12-mark Evaluate carries **AO1**, so a definition is paid for there and
+is *not* paid for at 6 or 9.
 
 ## 4. What is still only in pixels
 
-These are the places where a bank claim rests on a scan and nothing else, so they carry the most
-residual risk:
+These are the places where a bank quote rests on a scan and nothing else, so they carry the most
+residual risk. **They are now enumerated rather than guessed at:**
 
-| Where | Why it matters |
+| Where | Count |
 |---|---|
-| Every 6-, 9- and 12-mark exemplar from 2023–2026 | long handwritten answers, quoted in the bank from the text layer where it exists — the Starbucks case proves the text layer can be **partial** |
-| The June 2019 booklet exemplars | scans of a booklet, not a report |
-| The June 2024 P2R (Jimmy Choo) scripts | read live, never stored; only the marks are recorded |
+| Long script quotes not present in any report's text layer — i.e. transcribed by eye from a scan | **52** (`audits/corpus/quotes_not_in_textlayer.json`) |
+| June 2022 Paper 1R scripts | **0 remaining** — all 8 are transcribed and checked |
+| June 2024 P2R (Jimmy Choo) scripts | not stored; only the marks were read, never the wording |
+| June 2019 booklet exemplars | scans of a booklet, not a report |
 
-**Next step, if the accuracy pass continues:** run `script_images.py` over every 6/9/12-mark
-exemplar in the register and compare the image with the quoted text, the way Case B was done. That is
-the only remaining class of defect this method has found.
+**How to close them:** for each entry in that JSON, run
+`python3 audits/script_images.py <report-key> <question>`, read the rendered pages against the quoted
+text, and rewrite the entry as a transcript under `audits/corpus/transcripts/`. The June 2022 Paper 1R
+set is the worked example — every one of those eight files follows the template in
+`audits/QUOTE_TEMPLATE.md`.
 
----
+**The check that guards the result:** `python3 audits/audit_transcripts.py --all` re-reads every
+examiner quote in every transcript and fails if a single fragment is not found character for character
+in the report text. It currently passes **16/16** on the June 2022 Paper 1R set.
 
 ## 5. Rules for using anything in this file
 
