@@ -30,5 +30,5 @@ Verification scripts (`tally_exemplars.py`, `verify_chain_bank_anchors.py`, `ver
 ## Learner record
 
 - English 4EB1: mock **55/100**; Section A the weak point. Marked since: Q3 **5/10**, Q7 **9/15**, Q9 draft 4 **21/30**. Friend's full paper **66/100** (A 25 · B 24 · C 17).
-- Business 4BS1: baseline paper sat 25 October; **not yet marked**.
+- Business 4BS1: full May 2023 Paper 1 handwritten script marked — **55/80**. Four questions of May 2023 Paper 2 — **15/30**. Records in `Business_Studies_Answer_Bank/Mock_Records/`.
 - Economics 4EC1: no baseline yet.
