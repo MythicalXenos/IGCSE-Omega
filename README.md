@@ -1,11 +1,34 @@
 # IGCSE-Omega
 
-## Current focus: Pearson Edexcel International GCSE English Language B (4EB1)
+Three Pearson Edexcel International GCSE subjects, one archive, one evidence system.
 
-The 4EB1 bank is in [`English_Answer_Bank/`](English_Answer_Bank/README.md). It inventories 23 QP/MS pairs and 253 question-option entries; that inventory is **not** a claim of 253 completed answers. Complete answer sets currently cover June 2023 P1 and P1R, plus November 2023 P1 Section A Q1–Q7 (21/253); progress is tracked in [`Answer_Sets/README.md`](English_Answer_Bank/Answer_Sets/README.md) and the paper-level [`Completion_Map.md`](English_Answer_Bank/Completion_Map.md). The bank also records selected constructed targets, fourteen facsimile-checked June 2023 candidate transcriptions/excerpts, and 77 locator-only candidate responses: eleven from June 2019 P1 plus 66 from June 2022/2024/2025 P1/P1R (42 Section A Q3/Q6/Q7 + fourteen Section B Q8 + 21 Section C Q9–Q11; published scores/AO levels and printed judgement pages, no OCR-derived wording). June 2019 candidate-script page ranges remain unpinned. The resulting 91 authentic-response records are separate from both the 21/253 constructed-answer coverage and the constructed models. The learner’s reported baseline is 50–55/100, with Section A (13–19/40) the immediate priority.
+| Subject | Bank | Size | State |
+|---|---|---|---|
+| **4BS1 Business** | `Business_Studies_Answer_Bank/` | 153 files · 20 MB · 484k words | **Most developed.** Rulebook, tariff playbook, 38 By_Paper files, 148-row verified tally, 108k-word chain bank |
+| **4EB1 English Language B** | `English_Answer_Bank/` | 198 files · 6.2 MB · 437k words | **Complete.** 253/253 question entries across 23 papers; 14 authentic transcripts, 78 locators, 239 labelled constructed models |
+| **4EC1 Economics** | `Economics_Answer_Bank/` | 7 files · 184 KB · 3.6k words | **Starter kit.** Inventory of 42 papers / 671 items; no perfect-answers layer yet |
 
-- Start with [`English_Answer_Bank/Project_Status.md`](English_Answer_Bank/Project_Status.md) for learner goals, evidence rules, source limitations and next steps.
-- See [`English_Answer_Bank/Section_A_Examiner_Research_2024-2025.md`](English_Answer_Bank/Section_A_Examiner_Research_2024-2025.md) for sourced examiner feedback and score locators.
-- The repository includes the searchable Paperlords text index, QP/MS pairing CSV and 48 individual 4EB1 PDFs (23 QPs, 23 MSs and the June 2023 P1/P1R ERs). The single full-collection ZIP is absent; examiner reports beyond the two local June 2023 PDFs are linked official Pearson sources. Use local PDFs where present and the source index for verified report links, source gaps and unresolved extraction issues.
+`Paperlords_Archive/` holds the source material: **216 PDFs** — 103 question papers, 103 mark schemes, 10 examiner reports — every QP paired to its MS, plus a page-by-page searchable text index and a keyword search script.
 
-The recent research commits exclude unrelated subject-bank changes and preserve the existing source archive; they update the English bank and relevant source/workspace documentation.
+## Start here
+
+1. `README_Workspace.md` — the folder map.
+2. `Transfer_Prompt_New_Agent_Mode.md` — goals, learner profile, subject-specific corrections, evidence rules.
+3. `REPO_AUDIT_2026-11-09.md` — whole-repository audit: what exists, what is strong, what is missing.
+4. If the checkout has reverted to `04b80df Initial commit` and most folders are untracked: **`bash tools/recover_workspace.sh`**.
+
+## Evidence contract
+
+Nothing in these banks is presented as more than it is. Every answer carries a label:
+
+- **`[VERIFIED CANDIDATE EXEMPLAR]`** — a real script, reproduced by Pearson, with the published score.
+- **`[OFFICIAL MARK-SCHEME WORKED ANSWER]`** — Pearson's own indicative content, quoted.
+- **`[CONSTRUCTED GRADE 9 TARGET]`** — written from the QP/MS/ER; not official, not examiner-marked, no score claimed.
+
+Verification scripts (`tally_exemplars.py`, `verify_chain_bank_anchors.py`, `verify_boundaries.py`) fail the build when a label or a tally row does not resolve.
+
+## Learner record
+
+- English 4EB1: mock **55/100**; Section A the weak point. Marked since: Q3 **5/10**, Q7 **9/15**, Q9 draft 4 **21/30**. Friend's full paper **66/100** (A 25 · B 24 · C 17).
+- Business 4BS1: baseline paper sat 25 October; **not yet marked**.
+- Economics 4EC1: no baseline yet.
