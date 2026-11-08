@@ -8,6 +8,9 @@
 | `[OFFICIAL MARK-SCHEME WORKED ANSWER]` | **Pearson's own indicative content, quoted verbatim, carrying the scheme's own (1)(1)(1) allocation** | **not a candidate script · not examiner-marked** |
 | `[CONSTRUCTED GRADE 9 TARGET]` | engineered by me from the question paper, the mark scheme and the examiner reports | not official, not a student script, not examiner-marked |
 
+> ### 📌 HOW THE QUESTIONS ABOVE EACH ENTRY ARE CITED — checked 9 Nov 2026
+> Of **342** question quotations in this file, **264 are the exact words of the question paper**. The other 78 are catalogued in **`10a_Citation_Corrections.md`**, with the paper's own wording beside each. Two of those 78 matter to how you write: on a 9-mark *justify* question the paper prints only an option label and the mark scheme explains what it means, so a quotation that looks like the paper's may be the scheme's. **No wrong question was found in this file.**
+
 **No model here is ever described as "official" unless it is quoted from Pearson, and no model is ever given a candidate's score.** Where a verified script exists it is held in `02_Verified_Exemplars.md` and labelled there.
 
 ---

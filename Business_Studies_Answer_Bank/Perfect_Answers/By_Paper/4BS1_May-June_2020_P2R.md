@@ -72,6 +72,13 @@ C is not correct because 1 600 – 1 060 = 0.52 / 1 600
 
 = 33.75%
 
+> ### ⚠️ PEARSON'S OWN ARITHMETIC IS WRONG HERE — verified against the printed scheme and paper, 9 Nov 2026
+> The question: *a football that costs 1 060 rupees is sold for 1 600*. **Markup = (1 600 − 1 060) ÷ 1 060 × 100 = 50.94%** — so **D is right**, and the scheme is right about that.
+> **But both distractor explanations contain a typo:**
+> - *"1 600 / 1 060 = 15.09"* — it is **1.509**, i.e. **150.94%**. The printed option B says 15.09%, so Pearson's distractor is itself mis-scaled.
+> - *"1 600 – 1 060 = 0.52"* — it is **540**. The next step is **540 ÷ 1 600 × 100 = 33.75%**, which the scheme gets right, so only the middle figure is wrong.
+> **Do not learn the arithmetic from the two distractor lines.** Learn it from the markup formula above. The answer D is unaffected.
+
 
 ### `1(a)(iv)` — 1 mark (AO1:1)
 

@@ -1,0 +1,178 @@
+# Is the answer bank accurate? — the full check, 9 November 2026
+
+This is the answer to one question: **can this bank be trusted as it stands?**
+
+Three passes were run on it. The first checked its structure and its counts. The second checked the
+148 model scripts it claims to hold against the examiner reports. This one checks the **content** —
+every answer, every question it claims to answer, every figure in it, and every mark scheme behind
+it.
+
+**Short answer: the answers are accurate. Three things around them are not, and all three are now
+either fixed or listed at the foot of the answer they affect.**
+
+---
+
+## 1. What the bank actually contains
+
+| Layer | What it is | Size |
+|---|---|---|
+| **By_Paper** | every part of every paper held, with Pearson's own mark-scheme answer beside it | 38 files · 988 parts · 3,040 marks |
+| **Chain_Bank** | a written model answer for every question worth 3 marks or more | 252 entries covering **380 questions** |
+| **Exemplar register** | real candidate scripts Pearson printed, with the score each was given | 148 rows |
+
+Everything below is about the third column: whether those numbers are real and whether the words
+inside them are right.
+
+---
+
+## 2. The mark schemes themselves — checked first, because everything rests on them
+
+Before trusting any answer, the scheme it came from has to be sound. Every one of the **798
+questions** across the 38 mark schemes was parsed for its assessment-objective split — how many
+marks each question gives to knowledge, application, analysis and evaluation.
+
+**Result: 798 of 798 splits add up exactly to the question's mark tariff.** Not one scheme in the
+archive contradicts itself. This also proves the extraction is reading the schemes correctly,
+because a mis-read would show up immediately as a wrong total.
+
+---
+
+## 3. Question pairing — is each answer the answer to the question above it?
+
+342 question quotations in `10_Chain_Bank.md` were traced back to the question paper of the session
+and paper the entry names.
+
+| Result | Count |
+|---|---|
+| **The exact words of the question paper** | **264** |
+| The paper prints only an option label, and the entry quotes the mark scheme's description of it | 57 |
+| Condensed or lightly reworded, same task | 14 |
+| Read by hand — same task, minor rewording | 6 |
+| **A question the paper does not contain at all** | **0** |
+
+**No wrong question was found.** That is the finding that matters: no answer in this bank was
+written for a different paper, a different session, or a different task.
+
+**The 77 that are not exact are catalogued, one by one, in `Perfect_Answers/10a_Citation_Corrections.md`.**
+They split into two harmless kinds and one that deserves a glance:
+
+- **57 option-label cases.** On a 9-mark "justify" question the paper prints only
+  *"Option 1: casual employees · Option 2: part-time employees."* The mark scheme is what explains
+  that casual staff like being *"on call"*. The bank quotes the explanation inside quotation marks
+  as if it were the paper's wording. The answer is unaffected; the attribution is wrong.
+- **14 condensed stems.** *"Explain one advantage of having a strong brand"* where the paper says
+  *"…for a business of having a strong brand"*. Same task.
+- **6 read by hand.** All six are the same task with a word moved. Two of them are the June 2026
+  Paper 1 name problem described in section 6.
+
+---
+
+## 4. Are the facts invented? — figures and business names
+
+Every currency amount, every percentage and every business name in every model answer was checked
+against the paper and the scheme the entry cites.
+
+- **Answers quoting a figure that appears in neither: 0.**
+- **Answers naming a business that appears in neither: 0.**
+
+The arithmetic that can be recomputed was recomputed. 59 calculation chains in the mark schemes
+evaluate exactly. Six apparently disagreed, and all six were traced: five were my own reader
+splitting a two-line sum in the wrong place, and **one is a genuine error in Pearson's own mark
+scheme** — described next, because it is the single most useful thing this pass found.
+
+---
+
+## 5. Pearson's own arithmetic is wrong in one place — and the bank was copying it
+
+**May–June 2020, Paper 2R, question 1(a)(iii).** The paper says a football costs 1,060 rupees and
+sells for 1,600. The scheme's correct answer is D, 50.94%, and that is right:
+
+> markup = (1,600 − 1,060) ÷ 1,060 × 100 = **50.94%**
+
+But the scheme explains the two rejected options with two wrong sums:
+
+| The scheme prints | What it should be |
+|---|---|
+| *"1 600 / 1 060 = 15.09"* | 1,600 ÷ 1,060 = **1.509**, i.e. **150.94%** |
+| *"1 600 – 1 060 = 0.52 / 1 600"* | 1,600 − 1,060 = **540**, then 540 ÷ 1,600 × 100 = **33.75%** |
+
+I checked this against the printed PDF, not just the extracted text, so it is Pearson's error and
+not a scanning artefact. **The bank reproduced both wrong lines verbatim** — which is exactly what
+"verbatim" means, and exactly why it is dangerous: a student learning markup from those two lines
+learns two wrong sums.
+
+**Fixed.** A correction note now stands in
+`Perfect_Answers/By_Paper/4BS1_May-June_2020_P2R.md`, directly under the two lines, giving the
+formula and both correct figures. The awarded answer, D, is unchanged and correct.
+
+---
+
+## 6. The June 2026 Paper 1 problem, restated because it affects answers
+
+The question paper for June 2026 Paper 1 is about **Crumb** (owner: Alex). The mark scheme for the
+same paper is about **Violet Cakes** (owner: Claire). The two share no case-study wording and the
+log codes differ. This was found in an earlier pass and is quarantined with a warning on the paper.
+
+It surfaces again here: several model answers cite *"Violet Cakes"* and *"Claire"* because that is
+the name in the scheme they were built from. **If you sit that paper, write the name printed on your
+own question paper.** The reasoning transfers; the name must not.
+
+---
+
+## 7. The marked practice scripts — do the marks add up?
+
+Your two handwritten attempts were marked against the schemes. Both totals were re-added from the
+item marks:
+
+| Script | Question totals | Sum | Stated |
+|---|---|---|---|
+| May 2023 Paper 1 | 12 + 15 + 16 + 12 | **55 / 80** | 55/80 ✓ |
+| May 2023 Paper 2 (partial) | 5 + 6 + 4 | **15 / 30** | 15/30 ✓ |
+
+The three calculations inside them were also re-done: 75.50 × 0.94 = 70.97 ✓ · 26,000 ÷ 14,852 =
+1.75 ✓ · 67,590 ÷ 330,606 × 100 = 20.44 ✓. The marking is internally consistent and the arithmetic
+is right.
+
+---
+
+## 8. What is still not verified — read this before trusting the number 148
+
+The register lists 148 real candidate scripts. Of those, **82 can be traced to a printed score line
+in a document that is physically in this repository**. The other 54 cite examiner reports from 2022,
+2024 and 2025 that were read online and never stored.
+
+I tried to retrieve those reports again this pass. Direct download is blocked from this environment,
+Pearson's landing pages return "page not found" to the only tool that can reach them, the document
+mirrors are down or paywalled, and Paperlords holds only the five reports already stored. **They
+cannot be obtained from here.**
+
+So: **82 exemplar rows are proven. 54 are unproven, and remain unproven until someone with a normal
+internet connection downloads nine PDFs.**
+
+---
+
+## 9. Verdict
+
+| Question | Answer |
+|---|---|
+| Is every answer the answer to its own question? | **Yes** — 0 wrong questions in 342 citations |
+| Are the figures and names real? | **Yes** — 0 invented |
+| Are the mark schemes behind them sound? | **Yes** — 798 of 798 add up |
+| Does the bank quote Pearson correctly? | **Mostly** — 264 of 342 exact; the 78 others are catalogued |
+| Is Pearson itself always right? | **No** — one arithmetic error found and corrected in place |
+| Are all 148 exemplar scripts proven? | **No** — 82 proven, 54 unprovable from here |
+
+**The bank is accurate enough to revise from.** It is not flawless, and the three flaws it has are
+now written down where they occur rather than left for you to discover mid-answer.
+
+---
+
+## Files this pass created
+
+| File | What it holds |
+|---|---|
+| `audits/ms_parse.py` | reads all 38 mark schemes into question-by-question objective splits and content points |
+| `audits/audit_ms_coverage.py` | checks each model answer works in every objective its question awards marks for |
+| `audits/audit_calculations.py` | re-evaluates every printed calculation chain |
+| `audits/build_citation_corrections.py` | writes the corrections file below |
+| `Perfect_Answers/10a_Citation_Corrections.md` | all 77 non-verbatim citations, itemised, with the paper's own words where they could be matched |

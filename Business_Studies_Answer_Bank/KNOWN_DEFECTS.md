@@ -123,7 +123,7 @@ only.
 
 ---
 
-## D7 — 24 citations attribute mark-scheme wording to the question paper
+## D7 — 77 citations do not use the question paper's own words (57 of them are the mark scheme's)
 
 **Severity: low to medium. Status: located, not yet fixed.**
 
@@ -135,8 +135,36 @@ employees like the option of being 'on call'"*). The bank quotes both as one sen
 **Verified against primary sources:** #193 (May 2023 P1R), #217 (May–June 2024 P2R), #224
 (June 2025 P2) — the substance is right in each case, the attribution is not.
 
-**Fix:** relabel those 24 as *"paper option label / scheme description"* rather than one quotation.
-No answer needs rewriting. A further 11 entries quote no question at all (scaffolds and comparison
-tables) and should say so.
+**Fix — done 9 Nov 2026.** The full list is written out in
+`Perfect_Answers/10a_Citation_Corrections.md`, item by item, with the paper's own wording beside
+each. The strict re-count found **77** citations that are not the paper's exact words: **57**
+option-label cases, **14** condensed stems and **6** read by hand. The earlier figure of 24 came
+from a looser test and is superseded by the 77. A note at the head of `10_Chain_Bank.md` now says
+so. **No answer needed rewriting, and no wrong question was found.**
 
-**Measured by** `audits/audit_question_quotes.py`.
+**Measured by** `audits/build_citation_corrections.py` and `audits/audit_question_quotes.py`.
+
+---
+
+## D8 — Pearson's own mark scheme contains an arithmetic error, and the bank copied it
+
+**Severity: low for the exam, high for learning. Status: FIXED 9 November 2026.**
+
+May–June 2020, Paper 2R, 1(a)(iii): a football costs 1,060 rupees, sells for 1,600. The correct
+answer, D = 50.94%, is right: (1,600 − 1,060) ÷ 1,060 × 100 = 50.94%.
+
+The distractor explanations are wrong:
+
+- *"1 600 / 1 060 = 15.09"* — the true value is 1.509, i.e. **150.94%**.
+- *"1 600 – 1 060 = 0.52 / 1 600"* — the true subtraction is **540**, giving 540 ÷ 1,600 × 100 =
+  **33.75%**, which is the figure the scheme prints.
+
+Verified against the printed PDF text, not the searchable index, so this is Pearson's error and not
+a scanning artefact. The bank had reproduced both lines verbatim.
+
+**Fix applied:** a correction note now sits under the two lines in
+`Perfect_Answers/By_Paper/4BS1_May-June_2020_P2R.md`.
+
+**Why it matters beyond this question:** it is the one place in 38 papers where "quoted verbatim
+from Pearson" and "arithmetically correct" pull in opposite directions. Every other calculation in
+the archive recomputes cleanly.

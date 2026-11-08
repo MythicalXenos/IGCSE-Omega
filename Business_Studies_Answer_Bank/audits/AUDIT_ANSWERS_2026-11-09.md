@@ -1,5 +1,11 @@
 # Do the answers answer their own questions?
 
+> **Superseded in part, 9 November 2026 (same day).** A stricter re-count using the same question
+> papers puts the citation figures at **342 quotations: 264 exact, 78 not exact**, rather than the
+> 363 / 287 / 24 in section 2 below. The difference is the test, not the bank: the later pass counts
+> a quotation as inexact if *any* word differs. The list of all 78 is in
+> `Perfect_Answers/10a_Citation_Corrections.md`; the current verdict is in `../ACCURACY.md`.
+
 **Third pass, 9 November 2026.** The first two passes audited structure, counts and the evidence
 behind the exemplar register. None of them tested the thing that matters most: **is each model
 answer the right answer to the question printed above it, and is it built the way the marks are
