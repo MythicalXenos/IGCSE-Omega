@@ -397,3 +397,37 @@ similarities are 0.96–1.00.**
 
 Both are recorded in the tool as `KNOWN_DIFFERENT` **with the reason**, so the check still fails on
 anything new: a genuinely swapped MS/P1R pair would now be the only thing that trips it.
+
+---
+
+## D18 — "73 scripts worth 6+ marks" was counting pages, not scripts
+
+**Severity: high for every transcript claim in the bank. Status: FIXED 13 November 2026.**
+
+`extract_scripts.py` finds one picture per page. **When a candidate writes across a page break,
+Pearson prints the answer as two pictures and reprints the same ResultsPlus comment after the second
+one** — so the manifest recorded two entries with the same question, the same mark and the *same*
+comment. That is one script, counted twice.
+
+Found on **June 2025 P1R Q2(f)**: pages 25 and 26 both carry the identical 399-character comment
+(*"This is a strong response that effectively covers the mark band criteria…"*), and pages 27 and 28
+both carry the identical 0-mark comment. **Four entries, two scripts.**
+
+`audits/merge_script_spans.py` merges on the only evidence that cannot be faked: **the same comment
+reprinted**, or a continuation page with no comment of its own and no new mark. A consecutive page
+with a *different* comment is a different script and is left alone.
+
+| | before | after |
+|---|---|---|
+| page entries | 457 | 457 |
+| scripts | — | **408** |
+| entries / scripts worth **6+** marks | **73** | **52** |
+| spans merged | — | 47 |
+
+**One of them is three pages long:** `4BS1_02_2506` Q2(f) at pages 18–20 — the Starbucks 7/9 that
+`2025-06_Series_CCT_Starbucks_Rabanne.md` dissects. Its three page entries had been read as three
+near-identical scripts.
+
+**What this does NOT change:** the register. `audit_er_fullmarks.py` matches **37 printed full-mark
+scripts to 37 register rows**, because a register row names a *script*, not a page. **What it does
+change is the backlog figure:** the outstanding transcription work was never 65 scripts, it was 44.
