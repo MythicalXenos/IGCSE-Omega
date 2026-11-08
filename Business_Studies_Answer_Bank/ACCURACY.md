@@ -137,17 +137,20 @@ is right.
 
 ## 8. What is still not verified — read this before trusting the number 148
 
-The register lists 148 real candidate scripts. Of those, **82 can be traced to a printed score line
-in a document that is physically in this repository**. The other 54 cite examiner reports from 2022,
-2024 and 2025 that were read online and never stored.
+The register lists 148 real candidate scripts.
 
-I tried to retrieve those reports again this pass. Direct download is blocked from this environment,
-Pearson's landing pages return "page not found" to the only tool that can reach them, the document
-mirrors are down or paywalled, and Paperlords holds only the five reports already stored. **They
-cannot be obtained from here.**
+**Updated 9 November 2026, second attempt: 98 of 148 are now traced to a printed score line, up
+from 82.** The reason the earlier pass failed was a wrong URL path, not an unavailable document:
+Pearson serves these under `International-GCSE/Business/…` (hyphens, no "Studies"), and every
+attempt had used `International GCSE/Business Studies/…`. With the corrected path, the June 2024
+Paper 2R report and the June 2025 Paper 1 report both read cleanly, and the June 2022 Paper 1
+report you uploaded settles all six of its rows.
 
-So: **82 exemplar rows are proven. 54 are unproven, and remain unproven until someone with a normal
-internet connection downloads nine PDFs.**
+**35 rows remain.** Twenty-two of them need six files that exist and are public — listed with exact
+filenames in `audits/ER_DOWNLOADS.md`. The other thirteen are June 2022 Paper 1R and Paper 2R,
+whose examiner-report files **404 at Pearson** and have to come from a mirror.
+
+Nov 2025 and June 2026 are centre-gated and cannot be got at all until the gate lifts.
 
 ---
 
