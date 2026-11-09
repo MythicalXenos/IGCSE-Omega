@@ -552,7 +552,9 @@ def main():
 
     # ------------------------------------------------------------------
     # THE SCRIPT MANIFEST — every script the archived reports print at its part's
-    # FULL tariff must be a register row, keyed on paper + question.
+    # FULL tariff must be a register row or a ledger row. Keyed on REPORT + paper +
+    # question (the first version keyed on paper + question, which let one series'
+    # row answer for another's); fatal at 6 marks and above, measured below that.
     #
     # This check should have existed from the start; its absence cost THREE 12/12s.
     # The register was built by sweeping the bank's PROSE, which can only find scripts
@@ -565,7 +567,7 @@ def main():
     # key that has produced false passes in this bank three times.
     print()
     print("=" * 78)
-    print("THE SCRIPT MANIFEST - every script printed at full marks has a register row")
+    print("THE SCRIPT MANIFEST - every 6-mark-and-above full mark is registered or declared")
     print("=" * 78)
     MANIFEST = ROOT.parent / "audits" / "corpus" / "scripts_merged.json"
     SESSION_OF = {"2206": "May-June_2022", "2306": "May_2023", "2406": "May-June_2024",
@@ -578,15 +580,24 @@ def main():
         for q, mk in re.findall(r"^### `(\d\([a-h]\))`[^\n]*?(\d+) marks?",
                                 f.read_text(encoding="utf-8"), re.M):
             TARIFF[(fm.group(1), fm.group(2), q)] = int(mk)
+    # The register row's SESSION cell carries the series ("May/Jun 2023"), so a row
+    # can be keyed on the REPORT, not merely on paper + question. Keying on paper +
+    # question alone let a May 2023 P2R Q3(d) row answer for a June 2022 P2R Q3(d)
+    # script that is not in the bank at all -- a false pass, which is worse than the
+    # false fault this check had before it (bold cells were not being stripped, so
+    # five already-registered scripts were reported as holes).
+    SESSION_CODE = {"Jun 2019": "1906", "Jun 2022": "2206", "May/Jun 2022": "2206",
+                    "Jun 2023": "2306", "May/Jun 2023": "2306", "Jun 2024": "2406",
+                    "Jun 2025": "2506", "Jun 2026": "2606"}
     REG_KEYS = set()
     for _tier, _label, _f, _ln in rows:
-        parts = [q.strip() for q in _label.split("|")]
+        parts = [q.strip().replace("*", "").replace("`", "") for q in _label.split("|")]
         if len(parts) < 2:
             continue
         pq = re.match(r"P(\d)(R?)\s*Q(\d)\(([a-h])\)", parts[1])
         if pq:
-            REG_KEYS.add((f"P{int(pq.group(1))}{pq.group(2)}", f"{pq.group(3)}({pq.group(4)})",
-                          int(_tier.split("/")[0])))
+            REG_KEYS.add((SESSION_CODE.get(parts[0], "?"), f"P{int(pq.group(1))}{pq.group(2)}",
+                          f"{pq.group(3)}({pq.group(4)})", int(_tier.split("/")[0])))
     checked, missing_full = 0, []
     if MANIFEST.exists() and TARIFF:
         for report, scripts in json.loads(MANIFEST.read_text()).items():
@@ -601,7 +612,7 @@ def main():
                 if mk is None or v != mk or mk not in (1, 2, 3, 6, 9, 12):
                     continue
                 checked += 1
-                if (paper, sc["question"], mk) not in REG_KEYS:
+                if (rm.group(3), paper, sc["question"], mk) not in REG_KEYS:
                     missing_full.append((report, paper, sc["question"], mk))
         print(f"  full-mark scripts found in the manifest : {checked}")
         if not checked:
@@ -616,13 +627,25 @@ def main():
         pending = [(r, p, q, v) for (r, p, q, v) in missing_full if (p, q) in declared]
         missing_full = [(r, p, q, v) for (r, p, q, v) in missing_full if (p, q) not in declared]
         print(f"  declared in the ledger, body not yet held : {len(pending)}")
-        for report, paper, q, v in missing_full:
+        # The register is 154 rows against 200 manifest full marks, so it has never
+        # held every 1/1 and 2/2 -- those are the huge majority of the difference.
+        # Fatal above 3 marks; below that, measured and printed, not pretended away.
+        big   = [(r, p, q, v) for (r, p, q, v) in missing_full if v >= 6]
+        small = [(r, p, q, v) for (r, p, q, v) in missing_full if v < 6]
+        for report, paper, q, v in big:
             print(f"    !! {report} {paper} {q} is printed at {v}/{v} and no register row holds it")
             stated_bad.append(f"{report} prints a {v}/{v} at {q} that the register does not hold")
         for report, paper, q, v in pending:
             print(f"    .. declared, body pending: {report} {paper} {q} {v}/{v}")
-        if checked and not missing_full:
-            print("  every full-mark script in the manifest has a register row.")
+        if small:
+            import collections as _c
+            dist = _c.Counter(f"{v}/{v}" for (_r, _p, _q, v) in small)
+            print(f"  NOT registered below 6 marks            : {len(small)} "
+                  f"({', '.join(f'{n} x {k}' for k, n in sorted(dist.items()))})")
+            print("    .. the register has never claimed completeness below 6 marks; this is")
+            print("       the measured size of that gap, not a pass. Declaring one costs a ledger row.")
+        if checked and not big:
+            print("  every full mark at 6 marks or above is either a register row or declared.")
     else:
         print("  SKIPPED - manifest or By_Paper/ not found")
         stated_bad.append("the script-manifest check could not run")

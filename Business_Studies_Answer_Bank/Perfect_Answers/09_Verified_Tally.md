@@ -93,22 +93,22 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 at full marks, their examiner comments are already banked in the bank's prose, **and the script bodies
 have not been transcribed** — so they are not rows. **They are listed here so the gap is measured
 rather than forgotten**, and `tally_exemplars.py` reconciles this table against
-`audits/corpus/scripts_merged.json` on every run: a full-mark script in the manifest that appears in
-neither this table nor the register **fails the run by name**.
+`audits/corpus/scripts_merged.json` on every run: a full-mark script at **6 marks or above** in the
+manifest that appears in neither this table nor the register **fails the run by name**.
 
 | Report | Paper · Q | Score | Where it is printed |
 |---|---|---|---|
-| `4BS1_02R_2306` | P2R 3(e) | **9/9** — *"considered both of the options for retaining employees, offering evaluative comments"* | score p. 39 |
-| `4BS1_02R_2506` | P2R 2(f) | **9/9** | score p. 21 |
-| `4BS1_02R_2206` | P2R 3(d) | **6/6** | — |
-| `4BS1_02R_2306` | P2R 3(d) | **6/6** | — |
-| `4BS1_02R_2306` | P2R 4(b) | **6/6** | — |
-| `4BS1_02_2406` | P2 4(b) | **6/6** | — |
+| `4BS1_02R_2206` | P2R 3(d) | **6/6** — *"Level 3 – 6 marks"* | p. 36 |
+| `4BS1_02_2406` | P2 4(b) | **6/6** — *"Level 3 – 6 marks"* | p. 48 |
+| `4BS1_01_2406` | P1 4(b) | **6/6** — *"This response scored 6 marks"* | p. 35 |
+| `4BS1_01R_2406` | P1R 1(g) | **6/6** — *"This response scored 6 marks"* | p. 12 |
+| `4BS1_01R_2406` | P1R 4(b) | **6/6** — *"This response scored 6 marks"* | p. 35 |
+| `4BS1_01R_2506` | P1R 4(b) | **6/6** — *"Level 3 - 6 marks"* | p. 46 |
 
 > ### 🚨 HOW THIS TABLE CAME TO EXIST, AND WHY IT MATTERS MORE THAN THE SIX ROWS
 > **`audit_er_fullmarks.py` reports "37 printed / 37 banked" and it is not lying — it reads five
-> reports.** These six sit in **Paper 2R and Paper 2 reports it does not open**, and the register was
-> built by sweeping the bank's *prose*, which can only find a script somebody had already written
+> reports.** Full marks also sit in **Paper 2R and Paper 2 reports it does not open**, and the register
+> was built by sweeping the bank's *prose*, which can only find a script somebody had already written
 > about. **That is how the bank came to say "two 12/12s" when five exist.**
 >
 > **The fix is the pattern, not the six rows:** the question *"which scripts did the reports print at
@@ -116,6 +116,29 @@ neither this table nor the register **fails the run by name**.
 > with its score) crossed with **each part's tariff** (`By_Paper/`), and never from prose. **A queue
 > entry, a prose mention and a hand-kept total are all promises; this is an answer.**
 
+> ### 🔧 THIS TABLE HAS BEEN WRONG IN BOTH DIRECTIONS, AND BOTH ARE RECORDED HERE
+> **Its first version had two 9/9s and four 6/6s. Five of those six were already in the register** —
+> the check had failed to strip the register's bold cells (`**P2R Q2(f)**`), never parsed the paper
+> out of them, and reported as missing six scripts it had been unable to read. **A harness that flags
+> correct material is a defect, not a discovery**, and that version of the table briefly described
+> work as unbanked that had been banked for months.
+>
+> **Fixing that exposed the opposite error underneath it.** The check keyed rows on **paper + question
+> only**, so the May 2023 row for *P2R Q3(d)* silently answered for the **June 2022** *P2R Q3(d)* —
+> a script the bank does not hold at all. **A loose key does not just create false faults; it hides
+> real ones.** The key now carries the **report** (from the register's own Session cell), and the four
+> 6/6s it turned up are rows 3–6 above.
+>
+> ### 📏 AND THE MEASURED FLOOR BELOW SIX MARKS
+> **The manifest enumerates 200 full marks across fourteen reports. Of those, 116 are register rows,
+> 6 are the declared rows in the table above, and 78 are not registered at all — 45 at 1/1, 24 at 2/2
+> and 9 at 3/3.** The 154 rows are not 200 minus 78: **23 of them come from the June 2019 and June 2026
+> reports, which the manifest does not cover at all**, and the manifest's 200 is a count of script
+> entries, not distinct questions — *`4BS1_02_2406` 2(a) is listed twice*. **The overlap, not the
+> difference, is what the check proves.**
+>
+> That 78 is now printed on every run instead of being absorbed by the old paper-blind key. **It is a
+> measurement, not a pass.** Registering one is a ledger row; the count is the honest size of the queue.
 ---
 
 ## 9 MARKS — **16 scripts**

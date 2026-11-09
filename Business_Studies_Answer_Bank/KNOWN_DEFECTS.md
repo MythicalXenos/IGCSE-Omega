@@ -495,3 +495,62 @@ to the picture on the next page. **The invented diagnosis has been withdrawn fro
 with the other must be able to show which page the score was printed on — and
 `verify_script_pairs.py` now refuses to pass a pairing whose score line cannot be found on the page it
 claims.
+
+---
+
+## The manifest check was wrong twice, in opposite directions, and the second error hid four real gaps
+
+**Looked at:** `tally_exemplars.py`, the SCRIPT MANIFEST block, against
+`audits/corpus/scripts_merged.json` (200 full-mark scripts across 14 reports).
+
+### The false fault
+
+The check compared manifest scripts to register rows by splitting the row's label on `|` and
+matching `P2R Q2(f)`-style text. The register **bolds** many of those cells, so the pattern never
+fired on rows written as `` **P2R Q2(f)** ``. The run therefore reported **six** full-mark scripts as
+unregistered, and a ledger table was written into `09_Verified_Tally.md` describing all six as
+"printed at full marks, body not yet held". **Five of the six had been register rows for months**
+(two 9/9s and three 6/6s). Two duplicate transcripts were written before the cause was found, and
+have been deleted: the passages were already in `02_Verified_Exemplars.md` and in
+`External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`, and a second copy of a quotation is a
+divergence waiting to happen.
+
+**The fix is one line** — strip `*` and `` ` `` from the cells before matching. Markdown is
+presentation; a checker that reads presentation as data invents facts.
+
+### The real gaps, found only after the false ones were cleared
+
+The key was then **paper + question**. That is the same paper-blind key this bank's own notes warn
+about three times: the **May/Jun 2023** row for *P2R Q3(d)* silently answered for the **June 2022**
+*P2R Q3(d)* (`4BS1_02R_2206`, p. 34/36, 6/6), which the bank has never held. **A loose key does not
+only produce false faults; it hides real ones.** The key now carries the **report**, read from the
+register's own Session cell.
+
+Four further 6/6s surfaced, all previously masked by 6-mark questions of the same number in other
+series: `4BS1_01_2406` P1 4(b), `4BS1_01R_2406` P1R 1(g) and 4(b), `4BS1_01R_2506` P1R 4(b). All six
+are now rows of the "BODY NOT YET HELD" ledger rather than unexplained absences.
+
+### And the floor the check had never stated
+
+**The manifest enumerates 200 full marks across fourteen reports; 116 of them are register rows.**
+The other 78 are **45 at 1/1, 24 at 2/2 and 9 at 3/3** — the small-mark scripts the register has never
+claimed to hold. The run now prints that number rather than absorbing it. **It is a measurement, not a
+pass, and it is now impossible to read the run and believe the register covers the manifest.** (The
+register's 154 rows are *not* 200 minus 78: 23 of them come from June 2019 and June 2026, which the
+manifest does not cover, and the manifest counts script entries rather than distinct questions —
+`4BS1_02_2406` 2(a) is listed twice.)
+
+**The rule this adds:** a completeness check has to state the **scope** it is complete within, and a
+key has to be at least as specific as the claim it is testing. This one was too loose to be correct
+and too strict to be true, at the same time.
+
+### Found by the same sweep: one cohort quotation was not verbatim
+
+`audits/audit_transcripts.py` fails one of the thirty examiner-quote fragments it checks, and had been
+failing it on `main` before this pass. The TBTS 12/12 transcript quoted the June 2022 P1 cohort
+paragraph as *"the importance of good communication"*; the report says *"the importance of good
+**internal and external** communication"*, and the quotation also ran the report's last two sentences
+into one. **This is the ordinary failure mode of transcription — words that are implied get supplied** —
+and it is exactly why the fragment check exists. Corrected in
+`audits/corpus/transcripts/4BS1_01_2206_4c.md` with a dated note and an ellipsis for the omitted
+sentences; the audit now passes 30/30.

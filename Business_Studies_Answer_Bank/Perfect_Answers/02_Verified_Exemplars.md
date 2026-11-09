@@ -861,7 +861,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 
 ### 🏆 THE 9/9 CONCLUSION — THREE SENTENCES, THREE JOBS
 > **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
-> *"**Personally, I would choose to use Bonuses** as money can be a key motivator to people, it also helps increase your sales. **A disadvantage of job rotation is that people may not be qualified for every job** in a company. **In the long term, job rotation may be better as it gives employees a sense of value.**"*
+> *"**Personally, I would choose to use Bonuses** as money can be a key motivator to people, it also helps increase your sales. **A disadvantage of job rotation is that people may not be qualified for every job** in a company/business. **In the long term, job rotation may be better as it gives employees a sense of value.**"*
 >
 > **1** decides · **2** names the alternative's drawback · **3** concedes the long-run counter-case.
 
@@ -875,8 +875,6 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 **Option 1** = communicate all information through **text messaging/email**. **Option 2** = hold **weekly meetings**.
 
 ### The full response
-
-> ⚠️ **Corrected 12 Nov 2026 after reading p. 20 of the report.** The transcription read *"introduce this vegetarian"*; the scan reads *"introduce this **vegan range**"*. The error mattered — the question is about a vegan range, and "vegetarian" is a different word in a different part of the syllabus. Everything else in the three paragraphs, and the conclusion on p. 21, matches the scan word for word.
 
 > **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"Rabanne should hold weekly meetings to improve communication amongst employees around the world either online or in person. This is because holding weekly meetings **creates & improves personal relations** between manufacturers & costume designers. Holding weekly meetings gives an opportunity for managers & manufacturers to directly communicate their opinions & problems they face. This means that **manufacturers & designers & employees feel heard & understood**. This leads to a **sense of belonging amongst designers in Rabanne**, ultimately **increasing motivation to deliver high quality perfumes & handbags** whilst **minimising miscommunication**.*

@@ -276,7 +276,7 @@ that was wrong and has been corrected.
 |---|---|
 | 41 | the command-word taxonomy — which AOs each command word tests |
 | 42 | the 12-marker is 3 / 3 / 3 / 3 — and it is the only one |
-| 49 | Justify — you do NOT have to discuss both options |
+| 49 | Justify — two accepted routes; you do NOT have to discuss both options |
 | 50 | the State rule, with a marked 1/0 pair |
 | 51 | the decimal-place rule, proven on a real script |
 | 52 | a full-marks 6-mark Analyse is three sentences |
@@ -357,9 +357,22 @@ For the whole project this was recorded as *"unreachable"*: the taxonomy sits on
 
 **Nine marks are available for one option, thoroughly developed.** There is no requirement to argue both sides.
 
-**Why this matters so much:** candidates who "cover both" routinely produce **two shallow halves instead of one deep argument**. *"The response is mainly for the option chosen"* is recorded by the examiner as a **neutral-to-positive** observation.
+### But "not required" is not "not allowed" — there are **two accepted routes**, and each has a 9/9 on file
 
-> **So: pick the option you can develop furthest and commit to it.** Use the other only as a one-sentence comparison inside your conclusion.
+> *"**Candidates can choose to weigh up the advantages and disadvantages of one option and then provide a conclusion, or they could choose to weigh up both options and then provide a conclusion** — all must be in the context of Cafe Pinch. **Although it must be noted there is no requirement for candidates to discuss both options.**"*
+> — **June 2024 P1R**, general instruction before Q4(c) (Café Pinch); lodged at `02_Verified_Exemplars.md:623`
+
+| | **Route A** — one option, weighed | **Route B** — both options, then a conclusion |
+|---|---|---|
+| **Shape** | one option: pros, cons, conclusion | option 1 weighed · option 2 weighed · conclusion |
+| **Verified 9/9** | **June 2019 P1 Q3(e)** — *"Candidates do not have to consider both options… can achieve the full marks only considering the one option."* | **June 2025 P2R Q2(f)** (Rabanne: *"has chosen to look at both options which is acceptable"*) and **May/Jun 2023 P2R Q3(e)** (M&M: *"considered both of the options… offering evaluative comments"*) |
+| **Where** | `External_Exemplars/2019-06_P1_Official_Exemplar_Booklet.md` | `02_Verified_Exemplars.md:872` · `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:428` |
+
+**⚠️ Neither route is the marking criterion.** The marks turn on **evaluate vs describe**, and the same report says it in one line: *"many candidates described both methods, which is knowledge"* — two options **described** is Level 2, one option **evaluated** is Level 3, and **two options evaluated with a conclusion** is also Level 3. **Teaching "never mention the other option" is wrong**; so is teaching "you must do both".
+
+**Which to choose, in practice:** Route A if one option has more chains in *this* case; Route B if the two options mirror each other (meetings vs email, rotation vs bonus) so the contrasts *are* the evaluation. Every 9/9 in the register does one or the other and **none of them does it half-way.**
+
+**Why candidates still fail:** not because they chose the "wrong" route, but because covering both options **shallowly** produces **two descriptions instead of one argument**. *"The response is mainly for the option chosen"* is recorded by the examiner as a **neutral-to-positive** observation — it is a comment on proportion, not a rule.
 
 **And the Justify structure is exactly Analyse plus judgement:**
 
