@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 153 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 154 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 36 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
@@ -28,13 +28,13 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | Tariff | Distinct scripts |
 |---|---|
-| **12-mark Evaluate** | **4** |
+| **12-mark Evaluate** | **5** |
 | **9-mark Justify** | **16** |
 | **6-mark Analyse** | **27** |
 | **3-mark Explain** | **47** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×8 · Jun 2025 ×6 · Jun 2026 ×4)* |
 | **1-mark items** | **36** *(May/Jun 2023 ×24 — **P2 ×6** · **P1R ×6 · P1 ×6** · Jun 2026 ×6 · Jun 2024 ×6)* |
 | **2-mark items** | **23** *(May/Jun 2023 ×16 — **P2 ×4** · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4 · Jun 2024 ×3)* |
-| **TOTAL** | **153** *(the four governed tiers = **94**; the rest are the 1- and 2-mark script pairs the reports print)* |
+| **TOTAL** | **154** *(the four governed tiers = **95**; the rest are the 1- and 2-mark script pairs the reports print)* |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -56,7 +56,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 12 MARKS — **4 scripts**
+## 12 MARKS — **5 scripts**
 
 | # | Series | P · Q | Case study | Canonical source |
 |---|---|---|---|---|
@@ -64,8 +64,9 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
 | 3 | **Jun 2022** | P1R Q4(c) | Can Culleretes | `../audits/corpus/transcripts/4BS1_01R_2206_4c.md:1` |
 | 4 | **Jun 2022** | P1 Q4(c) | TBTS | `../audits/corpus/transcripts/4BS1_01_2206_4c.md:1` |
+| 5 | **Jun 2024** | P1R Q4(c) | Café Pinch | `../audits/corpus/transcripts/4BS1_01R_2406_4c.md:1` |
 
-> ### 🚨 THIS TABLE SAID **2** UNTIL 12 NOV 2026. IT WAS WRONG BY TWO.
+> ### 🚨 THIS TABLE SAID **2** UNTIL 12 NOV 2026. IT WAS WRONG BY **THREE**.
 > **Row 3 had been transcribed since the transcripts folder was created and was never entered here** —
 > the file `4BS1_01R_2206_4c.md` announces *"12/12"* in its title, its own examiner comment ends
 > *"12 marks."*, and the only place it was listed was the transcripts `README.md`. **`tally_exemplars.py`
@@ -79,10 +80,41 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > of the fetch route. **That was true of `fetch_page`, not of the report:** the full PDF has been in
 > `Sources/Official_Pearson/Full_Examiner_Reports/` the whole time. **A retrieval limit was written
 > down as a publication limit.** Transcribed 12 Nov 2026; the comparison of all four is
-> `16_Four_Verified_Twelve_Markers.md`.
+> `16_Five_Verified_Twelve_Markers.md`.
 
 > ### ⚠️ PERMANENT LIMITATION — ALL FOUR ARE PAPER 1
 > **No verified 12/12 exists for Paper 2 or Paper 2R, in any series.** Pearson names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **This is the edge of what is published, not a gap in the search.** **The best held on those two papers is a verified 10/12 on each — IKEA (P2 Q4(c), May 2023) and M&M (P2R Q4(c), May 2023); both were docked for *"limited judgements"*.**
+
+---
+
+## ⚠️ PRINTED AT FULL MARKS — **BODY NOT YET HELD** (6)
+
+**The register is one row per script whose words this bank holds.** These six are printed by Pearson
+at full marks, their examiner comments are already banked in the bank's prose, **and the script bodies
+have not been transcribed** — so they are not rows. **They are listed here so the gap is measured
+rather than forgotten**, and `tally_exemplars.py` reconciles this table against
+`audits/corpus/scripts_merged.json` on every run: a full-mark script in the manifest that appears in
+neither this table nor the register **fails the run by name**.
+
+| Report | Paper · Q | Score | Where it is printed |
+|---|---|---|---|
+| `4BS1_02R_2306` | P2R 3(e) | **9/9** — *"considered both of the options for retaining employees, offering evaluative comments"* | score p. 39 |
+| `4BS1_02R_2506` | P2R 2(f) | **9/9** | score p. 21 |
+| `4BS1_02R_2206` | P2R 3(d) | **6/6** | — |
+| `4BS1_02R_2306` | P2R 3(d) | **6/6** | — |
+| `4BS1_02R_2306` | P2R 4(b) | **6/6** | — |
+| `4BS1_02_2406` | P2 4(b) | **6/6** | — |
+
+> ### 🚨 HOW THIS TABLE CAME TO EXIST, AND WHY IT MATTERS MORE THAN THE SIX ROWS
+> **`audit_er_fullmarks.py` reports "37 printed / 37 banked" and it is not lying — it reads five
+> reports.** These six sit in **Paper 2R and Paper 2 reports it does not open**, and the register was
+> built by sweeping the bank's *prose*, which can only find a script somebody had already written
+> about. **That is how the bank came to say "two 12/12s" when five exist.**
+>
+> **The fix is the pattern, not the six rows:** the question *"which scripts did the reports print at
+> full marks?"* is now answered from the **extraction** (`scripts_merged.json` — every marked script
+> with its score) crossed with **each part's tariff** (`By_Paper/`), and never from prose. **A queue
+> entry, a prose mention and a hand-kept total are all promises; this is an answer.**
 
 ---
 

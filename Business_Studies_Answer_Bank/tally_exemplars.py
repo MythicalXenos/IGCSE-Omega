@@ -38,7 +38,7 @@ run as a check rather than read as a report.
 
 Run from Business_Studies_Answer_Bank/:  python3 tally_exemplars.py
 """
-import re, sys, pathlib, collections
+import re, sys, pathlib, collections, json
 
 ROOT = pathlib.Path(__file__).parent / "Perfect_Answers"
 REGISTER = ROOT / "09_Verified_Tally.md"
@@ -394,11 +394,11 @@ def main():
         ("02_Verified_Exemplars.md", "second **12/12**"): "same script as the May 2023 12/12",
         ("02_Verified_Exemplars.md", "a second **12/12**"): "same script as the May 2023 12/12",
         ("02_Verified_Exemplars.md", "and it has NO conclusion"): "register row 2, cited in External_Exemplars",
-        # 16_ is a COMPARISON of the four registered 12/12s: its headings name the count
+        # 16_ is a COMPARISON of the five registered 12/12s: its headings name the count
         # on purpose and the scripts are registered at rows 1-4 of the 12-mark table.
-        ("16_Four_Verified_Twelve_Markers.md", "four verified 12/12s"): "umbrella over register rows 1-4",
-        ("16_Four_Verified_Twelve_Markers.md", "What no 12/12 does"): "rule heading, not a script",
-        ("16_Four_Verified_Twelve_Markers.md", "checked across all four"): "rule heading, not a script",
+        ("16_Five_Verified_Twelve_Markers.md", "five verified 12/12s"): "umbrella over register rows 1-4",
+        ("16_Five_Verified_Twelve_Markers.md", "What no 12/12 does"): "rule heading, not a script",
+        ("16_Five_Verified_Twelve_Markers.md", "checked across all five"): "rule heading, not a script",
         ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", "CCT"): "same script as 02_Verified_Exemplars.md",
         # the June 2025 pair is registered at its canonical transcription in
         # 02_Verified_Exemplars.md: row 17 (Four Fitness 6/6, :879) and row 15 (Rabanne
@@ -549,6 +549,83 @@ def main():
         stated_bad.append(f"transcripts README:{i} lists {fname} as {tok}: {why}")
     if inv_rows and not inv_bad:
         print("  every full-mark transcript has a register row for its own sitting, paper and question.")
+
+    # ------------------------------------------------------------------
+    # THE SCRIPT MANIFEST — every script the archived reports print at its part's
+    # FULL tariff must be a register row, keyed on paper + question.
+    #
+    # This check should have existed from the start; its absence cost THREE 12/12s.
+    # The register was built by sweeping the bank's PROSE, which can only find scripts
+    # somebody had already written about. `audits/corpus/scripts_merged.json` is the
+    # extraction of every marked script the reports print, with its score, and
+    # `By_Paper/` knows every part's tariff. Asked together, "which full-mark scripts
+    # exist?" has an answer that does not depend on prose at all.
+    #
+    # Keyed on PAPER + QUESTION, never on tariff or question alone — the paper-blind
+    # key that has produced false passes in this bank three times.
+    print()
+    print("=" * 78)
+    print("THE SCRIPT MANIFEST - every script printed at full marks has a register row")
+    print("=" * 78)
+    MANIFEST = ROOT.parent / "audits" / "corpus" / "scripts_merged.json"
+    SESSION_OF = {"2206": "May-June_2022", "2306": "May_2023", "2406": "May-June_2024",
+                  "2506": "May-June_2025", "2606": "June_2026"}
+    TARIFF = {}
+    for f in sorted((ROOT / "By_Paper").glob("*.md")):
+        fm = re.match(r"4BS1_(.+)_(P\dR?)$", f.stem)
+        if not fm:
+            continue
+        for q, mk in re.findall(r"^### `(\d\([a-h]\))`[^\n]*?(\d+) marks?",
+                                f.read_text(encoding="utf-8"), re.M):
+            TARIFF[(fm.group(1), fm.group(2), q)] = int(mk)
+    REG_KEYS = set()
+    for _tier, _label, _f, _ln in rows:
+        parts = [q.strip() for q in _label.split("|")]
+        if len(parts) < 2:
+            continue
+        pq = re.match(r"P(\d)(R?)\s*Q(\d)\(([a-h])\)", parts[1])
+        if pq:
+            REG_KEYS.add((f"P{int(pq.group(1))}{pq.group(2)}", f"{pq.group(3)}({pq.group(4)})",
+                          int(_tier.split("/")[0])))
+    checked, missing_full = 0, []
+    if MANIFEST.exists() and TARIFF:
+        for report, scripts in json.loads(MANIFEST.read_text()).items():
+            rm = re.match(r"4BS1_(\d\d)(R?)_(\d{4})$", report)
+            if not rm or rm.group(3) not in SESSION_OF:
+                continue
+            paper = f"P{int(rm.group(1))}{rm.group(2)}"
+            session = SESSION_OF[rm.group(3)]
+            for sc in scripts:
+                v = sc.get("mark_value") or 0
+                mk = TARIFF.get((session, paper, sc["question"]))
+                if mk is None or v != mk or mk not in (1, 2, 3, 6, 9, 12):
+                    continue
+                checked += 1
+                if (paper, sc["question"], mk) not in REG_KEYS:
+                    missing_full.append((report, paper, sc["question"], mk))
+        print(f"  full-mark scripts found in the manifest : {checked}")
+        if not checked:
+            print("  NONE PARSED - check the parser, not the bank.")
+            stated_bad.append("the script-manifest scan parsed nothing")
+        # a script may be DECLARED in the "BODY NOT YET HELD" ledger instead of registered;
+        # declared is honest, unlisted is not. The ledger is parsed, not trusted.
+        ledger = REGISTER.read_text(encoding="utf-8")
+        declared = set()
+        for lm in re.finditer(r"^\|\s*`(4BS1_[0-9A-Z_]+)`\s*\|\s*P(\d)(R?)\s*(\d)\(([a-h])\)\s*\|", ledger, re.M):
+            declared.add((f"P{int(lm.group(2))}{lm.group(3)}", f"{lm.group(4)}({lm.group(5)})"))
+        pending = [(r, p, q, v) for (r, p, q, v) in missing_full if (p, q) in declared]
+        missing_full = [(r, p, q, v) for (r, p, q, v) in missing_full if (p, q) not in declared]
+        print(f"  declared in the ledger, body not yet held : {len(pending)}")
+        for report, paper, q, v in missing_full:
+            print(f"    !! {report} {paper} {q} is printed at {v}/{v} and no register row holds it")
+            stated_bad.append(f"{report} prints a {v}/{v} at {q} that the register does not hold")
+        for report, paper, q, v in pending:
+            print(f"    .. declared, body pending: {report} {paper} {q} {v}/{v}")
+        if checked and not missing_full:
+            print("  every full-mark script in the manifest has a register row.")
+    else:
+        print("  SKIPPED - manifest or By_Paper/ not found")
+        stated_bad.append("the script-manifest check could not run")
 
     print()
     print("=" * 78)
