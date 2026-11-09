@@ -137,6 +137,12 @@ right, and it is a circumstance from CCT's own case, not *"it depends on the obj
 
 ---
 
+## 2a. If he arrives already holding advice from elsewhere
+
+`14_Third_Party_Claims_Tested.md` is the defensive page: **"you must do both sides"** and **"say it
+depends on cost"** are the two instructions he is most likely to have been given, and both are
+contradicted by Pearson's own words. **Use it only if he raises them** — it is a shield, not a lesson.
+
 ## 3. What I must not do
 
 - **Do not teach content.** He is not short of content; the archive's zeroes are all shape failures.
