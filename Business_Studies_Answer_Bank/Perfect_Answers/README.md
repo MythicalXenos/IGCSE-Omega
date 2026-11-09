@@ -36,10 +36,10 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **1** | **456** | MCQ · define · state · identify | ✅ **8 × 1/1**, archived and transcribed — ⚠️ *but no model is needed: the MS is the perfect answer* |
 | **2** | **152** | calculate one figure · outline one | ✅ **2 × 2/2**, archived and transcribed — ⚠️ *same* |
 | **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **47 × 3/3**, Jun 2019 → Jun 2026 |
-| **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **27 × 6/6** |
+| **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **28 × 6/6** |
 | **9** | **76** | 2(f) · 3(e) | ✅ **16 × 9/9** |
 | **12** | **38** | 4(c) | ✅ **5 × 12/12** |
-| **TOTAL** | **988** | 26 parts / 80 marks per paper | **95 governed full-mark scripts**, plus **the 1- and 2-mark tier — all 80 scripts the five reports print, each transcribed with its examiner comment.** ✅ **`BANKED 80 / REMAIN 0`** *(`layer_c_1_2mark_coverage.py`, check 24; `08_` item 6 closed 14 Oct 2026)* |
+| **TOTAL** | **988** | 26 parts / 80 marks per paper | **96 governed full-mark scripts**, plus **the 1- and 2-mark tier — all 80 scripts the five reports print, each transcribed with its examiner comment.** ✅ **`BANKED 80 / REMAIN 0`** *(`layer_c_1_2mark_coverage.py`, check 24; `08_` item 6 closed 14 Oct 2026)* |
 
 **The 380 governed parts (3 marks and above) are all modelled** — 252 entries in `10_Chain_Bank.md`, one per topic rather than one per question, because the framings repeat and only the topic changes. **For the 608 one- and two-mark parts the mark scheme answer *is* the perfect answer** and is already in `By_Paper/`.
 

@@ -532,11 +532,11 @@ are now rows of the "BODY NOT YET HELD" ledger rather than unexplained absences.
 
 ### And the floor the check had never stated
 
-**The manifest enumerates 200 full marks across fourteen reports; 116 of them are register rows.**
+**The manifest enumerates 200 full marks across fourteen reports; 117 of them are register rows.**
 The other 78 are **45 at 1/1, 24 at 2/2 and 9 at 3/3** — the small-mark scripts the register has never
 claimed to hold. The run now prints that number rather than absorbing it. **It is a measurement, not a
 pass, and it is now impossible to read the run and believe the register covers the manifest.** (The
-register's 154 rows are *not* 200 minus 78: 23 of them come from June 2019 and June 2026, which the
+register's 155 rows are *not* 200 minus 77: 23 of them come from June 2019 and June 2026, which the
 manifest does not cover, and the manifest counts script entries rather than distinct questions —
 `4BS1_02_2406` 2(a) is listed twice.)
 
