@@ -20,7 +20,7 @@ Start here:
 
 Every answer in that folder carries one of **three** labels: `[VERIFIED CANDIDATE EXEMPLAR]` (a real script, score confirmed by Pearson), `[OFFICIAL MARK-SCHEME WORKED ANSWER]` (Pearson's own indicative content, quoted verbatim, not a candidate script), or `[CONSTRUCTED GRADE 9 TARGET]` (engineered from the mark scheme, not official, never given a score). No constructed answer is ever described as official, and a check fails if any model answer is unlabelled.
 
-**Everything is verified by 25 checks** run from `Business_Studies_Answer_Bank/` — see `Perfect_Answers/08_Completion_Map.md`.
+**Everything is verified by 28 checks** run from `Business_Studies_Answer_Bank/` — see `Perfect_Answers/08_Completion_Map.md`.
 
 ## Deliverables
 

@@ -362,7 +362,7 @@ REMAINING                :    0 topics  ·    0 blocks
 
 ## 🔍 HOW TO VERIFY THIS BANK — every check, in one place
 
-**Twenty-five checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
+**Twenty-eight checks. Run all of them from `Business_Studies_Answer_Bank/`. Each prints a single `RESULT:` line and exits 0 when it passes, 1 when it does not, so the whole set runs as a suite.**
 
 > **A check that prints OK while parsing nothing is the failure mode this bank has hit three times** (`verify_stem_quotes.py` v1 compared 0 citations, a tier was never loaded so no 3-mark citation could resolve, and a near-empty parse sat inside a green run). **Every check that reads text therefore prints how many items it SAW, and the ones that can count their own input fail when that count is implausibly low.** Read the count, not just the RESULT line.
 
@@ -379,7 +379,7 @@ python3 layer_c_coverage.py             # 152/152 three-mark coverage
 python3 layer_c_6mark_coverage.py       # 114/114 coverage   (tier coverage checks)
 python3 layer_c_9mark_coverage.py       #  76/76 coverage
 python3 layer_c_12mark_coverage.py      #  38/38 coverage
-python3 tally_exemplars.py              # 148 register rows: the four governed tiers
+python3 tally_exemplars.py              # 150 register rows: the four governed tiers
                                         # 47 x 3/3 + 26 x 6/6 + 16 x 9/9 + 2 x 12/12 = 91,
                                         # plus 36 x 1-mark and 23 x 2-mark rows
 python3 verify_chain_bank_anchors.py    # every block mapped to its own MS content
@@ -404,6 +404,13 @@ python3 verify_grade_budget.py          #  27. the arithmetic of 12_: 26 items /
 python3 verify_paper_craft.py           #  28. every QP's cover says 1h30 / 80 marks, and the
                                         #      time-per-mark clock in 13_ recomputes
 ```
+
+> ⚠️ **THE `#` COMMENTS IN THAT BLOCK ARE TYPED BY HAND, AND ONE OF THEM WAS WRONG.** The
+> `tally_exemplars.py` line said **148 register rows** while the four totals printed beside it
+> (47 + 26 + 16 + 2 + 36 + 23) sum to **150** — the row count the script actually prints. **Found and
+> corrected on 13 Nov 2026.** It is the same fault the bank has now recorded four times: *a quoted
+> total is an assertion; only the script's own count is evidence.* **The counts in the block are the
+> ones the scripts print, and if one disagrees with a `RESULT:` line, the comment is wrong.**
 
 **⚠️ The 26th is the newest, and it caught a fault that had already been published.** The extractor
 that pairs a script's picture with its score line searched by proximity and could walk forward two

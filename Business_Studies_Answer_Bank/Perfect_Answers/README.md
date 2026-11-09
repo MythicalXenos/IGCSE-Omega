@@ -94,7 +94,7 @@ When guidance conflicts, trust in this order:
 
 **Layer 2 — constructed models (complete).** The official content assembled into full-mark-shaped responses: **252 entries covering all 380 governed parts**, held in `10_Chain_Bank.md` and checked by `verify_model_shape.py` against the shape each tariff requires — a mechanism step on 3-mark, developed strands on 6-mark, a **named condition** on 9-mark, and a woven judgement on 12-mark.
 
-**Everything in this bank is verified by 27 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
+**Everything in this bank is verified by 28 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
 
 ## Sources
 
