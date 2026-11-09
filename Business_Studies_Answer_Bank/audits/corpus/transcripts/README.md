@@ -24,14 +24,18 @@ Three rules, and they are not negotiable:
 | `4BS1_01R_2206_3e.md` | Jun 2022 P1R | 3(e) | 9/9 |
 | `4BS1_01R_2206_4b.md` | Jun 2022 P1R | 4(b) | 6/6 |
 | `4BS1_01R_2206_4c.md` | Jun 2022 P1R | 4(c) | 12/12 |
+| `4BS1_01R_2506_2f_8.md` | Jun 2025 P1R (China Cycle Tours) | 2(f) | 8/9 |
+| `4BS1_01R_2506_2f_0.md` | Jun 2025 P1R | 2(f) | **0/9** |
 | `4BS1_01R_2506_3d.md` | Jun 2025 P1R (China Cycle Tours) | 3(d) | 6/6 |
 | `4BS1_01R_2506_3e.md` | Jun 2025 P1R | 3(e) | 9/9 |
 | `4BS1_01R_2506_4c.md` | Jun 2025 P1R | 4(c) | 11/12 |
 | `4BS1_01R_2506_4c_10.md` | Jun 2025 P1R | 4(c) | 10/12 |
 
-**Eleven scripts across two reports.** The first eight are one report, every level-based question on
-the paper; the last four are June 2025 P1R, where the report prints **two scripts on Q4(c)** — 10 and
-11 — and that pair is the bank's cleanest calibration. The remaining quotes that were read from scans
+**Thirteen scripts across two reports.** The first eight are one report, every level-based question on
+the paper; the last five are June 2025 P1R, where the report prints **two scripts on Q2(f)** — 8 and
+**0** — and **two on Q4(c)** — 10 and 11. Each pair is held constant except one variable: on Q2(f) it
+is whether the answer treats the option as a *measure*; on Q4(c) it is whether the judgement is
+conditional. The remaining quotes that were read from scans
 across the other 13 reports are listed in `audits/corpus/quotes_not_in_textlayer.json` and are the
 next batch.
 

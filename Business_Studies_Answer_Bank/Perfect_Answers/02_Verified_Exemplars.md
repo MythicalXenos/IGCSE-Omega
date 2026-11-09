@@ -839,8 +839,8 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 | **9/9** | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ |
 | **9/9** | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ |
 | **9/9** | *"the internet is generalised… they **won't find trends about flowers**"* | ✅ |
-| **8/9** | *"it depends on **how much they have spent**"* | ⚠️ vague |
-| **8/9** | *nothing* | ❌ |
+| **8/9** | 2026 P1R Q3(e) — *"it depends on **how much they have spent in these expenditure sample**"* | ⚠️ **words present, condition vague** |
+| **8/9** | 2025 P1R Q2(f) CCT — *"**it much depends on the objectives set by the owner for CCT**"* | ⚠️ **words present, condition unnamed** — Pearson still asks for *"the 'it depends' rule"* |
 | **7/9** | *nothing* | ❌ |
 
 > ## 🎯 **An evaluation earns marks only when the condition is NAMED and SPECIFIC to this business and this option.**

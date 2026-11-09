@@ -460,8 +460,8 @@ Put all the evaluation sentences side by side and the pattern is unmistakable.
 | **9/9** | 2023 P2R Q3(e) | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ **named** |
 | **9/9** | 2023 P1 Q3(e) | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ **named** |
 | **9/9** | 2023 P1R Q3(e) | *"the internet is also generalised… they **won't find trends about flowers**"* | ✅ **named** |
-| **8/9** | 2026 P1R Q2(f) | *"it depends on **how much they have spent in these expenditure sample**"* | ⚠️ **vague** |
-| **8/9** | 2025 P1R Q1(g) | *(no condition — examiner: could add "the 'it depends' rule")* | ❌ **absent** |
+| **8/9** | 2026 P1R Q3(e) | *"it depends on **how much they have spent in these expenditure sample**"* | ⚠️ **vague** |
+| **8/9** | 2025 P1R Q2(f) | *"it much depends on the objectives set by the owner for CCT"* — **the phrase, not a condition** | ⚠️ **unnamed** |
 | **8/9** | 2023 P2R Q2(f) | *(context and chains, but no evaluative dimension)* | ❌ **absent** |
 | **7/9** | 2025 P2 Q2(f) | *(no judgement at all)* | ❌ **absent** |
 

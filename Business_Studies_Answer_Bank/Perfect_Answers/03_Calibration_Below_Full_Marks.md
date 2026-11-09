@@ -264,6 +264,43 @@ the answer is also written up beside the two full-mark 9/9s and the 6/6 in
 > that paired each picture with the nearest score line instead of the score line that closed its run
 > of pictures — see `KNOWN_DEFECTS.md` **D19**. The invented diagnosis is withdrawn.
 
+### 💀 THE ZERO — **0/9** on the same question, two pages after the 8/9, with the same ingredients
+
+**June 2025 Paper 1R, Q2(f)** — *"The owner of CCT wants to **measure the success of the business** …
+Justify which one of these two options the owner of CCT should choose."* (9) Full transcript:
+`../audits/corpus/transcripts/4BS1_01R_2506_2f_0.md`.
+
+**Pearson's comment, verbatim (report p. 28):**
+
+> *"This response only explores the benefits of customer satisfaction and profit, but it doesn't link
+> them to a measure of success. While some context is present, the overall answer is incorrect and
+> therefore not awardable. 0 marks."*
+
+| The script has | The 8/9 on the same question has |
+|---|---|
+| context: CCT, Shanghai, bicycle tours, rival | the same |
+| a chain in both paragraphs (loyalty → recommendations → customer base → income; dissatisfaction → switching → weaker competitiveness) | the same, and four chains rather than two |
+| a counter on both options | the same |
+| a decided conclusion (*"profit is the better option"*) | the same |
+
+**And it scores zero, where the 8/9 scores eight.** The difference is not quantity, not spelling, not
+structure — the examiner names it: **the answer never links the option to *measuring* success.**
+
+> ### 🎯 THE FRAME, NOT THE CONTENT — the single test worth memorising
+> **A measure is a noun you look at. A course of action is a verb you do.**
+> - ❌ *"**By satisfying** customers, CCT will increase customer loyalty"* — the candidate's first three
+>   words, and the answer is already pointed at the wrong task.
+> - ✅ *"CCT should **measure** its success by customer satisfaction **because a rise in satisfaction
+>   shows** that customers will return…"*
+>
+> The 8/9 does this only twice — *"customer satisfaction is difficult to measure… not a reliable or
+> accurate method to evaluate CCT's success"*, *"profit doesn't indicate if CCT is growing"*. **Those
+> two sentences are the difference between 8 and 0.**
+>
+> ⚠️ **The 0 is defensible.** This script would score well on the *same paper's* Q3(e) — *"Justify
+> which one of these two options CCT should choose"* — because that is the question it actually
+> answered. **A misread stem costs the whole question, not a mark or two.**
+
 ## The merged diagnosis
 
 Reading all the examiner comments together, the same four failures recur, and none of them is about knowing more content:

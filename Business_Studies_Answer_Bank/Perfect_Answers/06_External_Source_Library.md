@@ -1288,9 +1288,10 @@ Five full-mark (9/9) Justify scripts from May 2023, read verbatim, plus every be
 | **9/9** | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ |
 | **9/9** | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ |
 | **9/9** | *"the internet is also generalised… they **won't find trends about flowers**"* | ✅ |
-| **8/9** | *"it depends on **how much they have spent**"* | ⚠️ vague |
-| **8/9** | *no condition at all* | ❌ |
-| **8/9** | *no evaluative dimension* | ❌ |
+| **8/9** | 2026 P1R Q3(e) — *"it depends on **how much they have spent in these expenditure sample**"* | ⚠️ words present, condition vague |
+| **8/9** | 2025 P1R Q2(f) CCT — *"**it much depends on the objectives set by the owner for CCT**"* | ⚠️ **words present, condition unnamed** |
+| **8/9** | 2026 P1R Q2(f) — judgement that *"**repeats the financial implication argued previously**"* | ❌ recycled |
+| **8/9** | 2023 P2R Q2(f) | ❌ no evaluative dimension |
 | **7/9** | *no judgement at all* | ❌ |
 
 > ## 🎯 **THE RULE: an evaluation earns marks only when the condition is NAMED and SPECIFIC to this business and this option.**

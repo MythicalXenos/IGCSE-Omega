@@ -87,7 +87,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 13 | **Jun 2024** | P1R Q2(f) | vegan range vs discount — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:9` |
 | 14 | **Jun 2024** | P1R Q3(e) | communication methods — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:25` |
 | 15 | **Jun 2025** | **P2R Q2(f)** | weekly meetings vs email — *Rabanne* | `02_Verified_Exemplars.md:866` |
-| 16 | **Jun 2025** | P1R Q3(e) | selling assets vs retained profit — *CCT* | `External_Exemplars/2025-06_P1R_CCT.md:11` |
+| 16 | **Jun 2025** | P1R Q3(e) | selling assets vs retained profit — *CCT* | `External_Exemplars/2025-06_P1R_CCT.md:62` |
 
 > ### ⭐ TWO OF THE FIFTEEN ARE **PAPER 2R**. AND **NO VERIFIED 9/9 EXISTS FOR PAPER 2, IN ANY SERIES**
 > Entries **10** and **15** are the only full-mark Justify scripts the bank holds from an R-paper's second paper. The full split is **P1 ×7 · P1R ×6 · P2R ×2 · P2 ×0** — and **Paper 2's ceiling in the bank is a 7/9**, held at `2023-05_Series_Irsi_AudeRose_IKEA_MM.md:168` and dissected at `:300`.
@@ -128,7 +128,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 23 | **Jun 2026** | P1R Q3(d) | viral advertising — *Spud Bros* | `External_Exemplars/2026-06_P1R_SpudBros.md:333` |
 | 24 | **Jun 2023** | P1 Q3(d) | limitations of break-even charts — *Irsi Chocolatier* *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:92` |
 | 25 | **Jun 2023** | P1R Q1(g) | motivating employees — *Aude Rose* *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:142` |
-| 26 | **Jun 2025** | P1R Q3(d) | recruiting externally — **two points, no conclusion** — *CCT* | `External_Exemplars/2025-06_P1R_CCT.md:107` |
+| 26 | **Jun 2025** | P1R Q3(d) | recruiting externally — **two points, no conclusion** — *CCT* | `External_Exemplars/2025-06_P1R_CCT.md:158` |
 
 > ### ✅ THE ONE OPEN AMBIGUITY — CLOSED, 14 Oct 2026
 > The June 2019 booklets' own coverage table claimed **"6/6 × 4"** across both booklets while only **three** were enumerated above. **A fourth appeared to be missing, and the count was therefore carried as "19 confirmed, possibly 20".**
