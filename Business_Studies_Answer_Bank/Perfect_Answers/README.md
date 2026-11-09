@@ -64,6 +64,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **`08_Completion_Map.md`** | ⭐ **What "complete" means here, what is finished, and the five things that are not** — each one a fact about what Pearson publishes. Also the full list of the bank's checks. |
 | **`09_Verified_Tally.md`** | The per-script register: one row per verified full-mark script, citing file and line. Counts are a property of the register, never hand-typed. |
 | **`12_Grade_9_Marks_Budget.md`** | ⭐ **What a 9 costs, in arithmetic.** 160 marks, 133 for a 9, **27 you may lose**; the identical 12/4/4/3/2/1 tariff of every paper; the fixed AO split of the six long questions (**AO4 is only 9 marks a paper**); and the measured cost of each documented fault. Checked by `../verify_grade_budget.py`. |
+| **`13_Paper_Craft_and_Timing.md`** | ⭐ **The 90 minutes, measured.** Pearson's cover page says *"use [the marks] as a guide as to how much time to spend"* — this is that arithmetic: **1.125 min per mark**, a 22½-minute budget per question, and where five spare minutes buy the most. Checked by `../verify_paper_craft.py` against all 38 QPs. |
 | **`11_Self_Marking_Protocol.md`** | ⭐ **The candidate-facing sheet — five passes over your own answer, one card per tariff, every rule cited by number.** Distilled from rules already in `01_`/`06_`; it introduces no new evidence and scores nothing. |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
 | `../build_perfect_answers.py` | Rebuilds the `By_Paper/` bank from the mark scheme text index. |
@@ -93,7 +94,7 @@ When guidance conflicts, trust in this order:
 
 **Layer 2 — constructed models (complete).** The official content assembled into full-mark-shaped responses: **252 entries covering all 380 governed parts**, held in `10_Chain_Bank.md` and checked by `verify_model_shape.py` against the shape each tariff requires — a mechanism step on 3-mark, developed strands on 6-mark, a **named condition** on 9-mark, and a woven judgement on 12-mark.
 
-**Everything in this bank is verified by 26 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
+**Everything in this bank is verified by 27 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
 
 ## Sources
 
