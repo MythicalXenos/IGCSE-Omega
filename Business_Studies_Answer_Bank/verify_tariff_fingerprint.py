@@ -24,6 +24,7 @@ import glob
 import os
 import re
 import sys
+from pathlib import Path
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PAPERS = os.path.join(HERE, "Perfect_Answers", "By_Paper")
@@ -105,6 +106,28 @@ def main():
                    "AO1 114 · AO2 114 · AO3 114 · AO4 114", "7 AO1 + 5 AO2", "P1R 1(vi)"):
         if phrase not in doc:
             fails.append(f"the doc no longer states {phrase!r}")
+
+    # --- the playbook must carry the same map, not an older one -------------------------------
+    pb_path = Path(HERE) / "Perfect_Answers" / "01_Mark_Tariff_Playbook.md"
+    pb = pb_path.read_text(encoding="utf-8")
+    for phrase in ("| **Explain** | 3 |", "| **Analyse** | 6 |", "| **Justify which…** | 9 |",
+                   "| **Evaluate…** | 12 |", "A measure is a noun you look at"):
+        if phrase not in pb:
+            fails.append(f"the playbook no longer states {phrase!r}")
+    if "| **Analyse / Assess** | 6 |" in pb:
+        fails.append("the playbook still pairs Analyse with Assess at 6 marks, which is 4EC1's mapping")
+
+    # --- the 0/9 caveat must quote the report verbatim -----------------------------------
+    er = (Path(HERE) / "audits" / "corpus" / "4BS1_01R_2506_ER.txt").read_text(encoding="utf-8", errors="ignore")
+    zero_quote = ("This response only explores the benefits of customer satisfaction and profit, "
+                  "but it doesn\u2019t link them to a measure of success.")
+    flat_er = " ".join(er.split()).replace("\u2019", "'")
+    pb_unquoted = "\n".join(ln.lstrip("> ").lstrip() for ln in pb.splitlines())
+    flat_pb = " ".join(pb_unquoted.split()).replace("\u2019", "'")
+    if zero_quote.replace("\u2019", "'") not in flat_er:
+        fails.append("the 0/9 quotation is no longer in the June 2025 P1R examiner report")
+    if zero_quote.replace("\u2019", "'") not in flat_pb:
+        fails.append("the playbook no longer quotes the 0/9 comment verbatim")
 
     # --- print ---------------------------------------------------------------------------------
     print(f"items read : {items}")

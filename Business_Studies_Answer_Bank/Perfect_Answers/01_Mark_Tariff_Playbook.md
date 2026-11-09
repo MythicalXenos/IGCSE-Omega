@@ -175,6 +175,35 @@ Note step 3. In the verified 9/9, the candidate turns against their own choice m
 
 ---
 
+#### 💀 THE 0/9 — all four steps followed, and still zero
+
+**Every rule above can be obeyed and the answer still score nothing, because there is a fifth
+requirement that is not in the descriptors: answer the question that was asked.**
+
+**June 2025 P1R Q2(f)** asked which option the owner should choose **to measure the success of the
+business**. The script has context, two chains, a counter on both options, and a decided conclusion —
+*"profit is the better option"*. Pearson's entire diagnosis (report p. 28):
+
+> *"This response only explores the benefits of customer satisfaction and profit, but it doesn't link
+> them to a measure of success. While some context is present, the overall answer is incorrect and
+> therefore not awardable. 0 marks."*
+
+The first three words give it away: *"**By satisfying** customer's, CCT will increase customer loyalty"*.
+The question wanted a **yardstick**; the candidate wrote a **course of action**.
+
+> **A measure is a noun you look at. A course of action is a verb you do.**
+
+So a Justify opening has to name both the choice and the thing it is a measure *of*:
+
+> *"CCT should measure its success by **customer satisfaction**, because a rise in satisfaction shows
+> that customers will return…"*
+
+**And the 0 is defensible, not harsh.** It would score well on the same paper's Q3(e), which asks the
+ordinary *"which option should CCT choose"* — that is the question it actually answered. Full
+transcripts and the 8/9 side by side: `External_Exemplars/2025-06_P1R_CCT.md`.
+
+---
+
 ### 12 marks — EVALUATE
 
 **AO1 = 3, AO2 = 3, AO3 = 3, AO4 = 3.** *The only tariff that pays AO1 separately.*
@@ -203,16 +232,29 @@ And from the May 2023 P2 examiner report:
 
 ## The command-word → tariff map
 
-| Command word | Tariff | AO focus |
-|---|---|---|
-| Define | 1 | AO1 |
-| State / Identify / Give | 1 | AO1 or AO2 |
-| Outline | 2 | AO2 (identify + context) |
-| Calculate | 2 | AO2 (working + answer) |
-| **Explain** | 3 | **AO1** (identify + develop) |
-| **Analyse / Assess** | 6 | **AO2 + AO3** — no evaluation |
-| **Justify** | 9 | **AO2 + AO3 + AO4** — must choose |
-| **Evaluate / Discuss** | 12 | **AO1 + AO2 + AO3 + AO4** — must conclude |
+| Command word | Tariff | AO focus | Seen in |
+|---|---|---|---|
+| Which one of the following… | 1 | AO1 or AO2 | 198 |
+| Define | 1 | AO1 | 114 |
+| State / Give / What is the… | 1 | AO1 or AO2 | 144 |
+| Outline | 2 | AO2 (identify + context) | 38 |
+| Calculate | 2 | AO2 (working + answer) | 104 |
+| **Explain** | 3 | **AO1** (identify + develop) | **152 — every single 3-marker** |
+| **Analyse** | 6 | **AO2 + AO3** — no evaluation | **114 — every single 6-marker** |
+| **Justify which…** | 9 | **AO2 + AO3 + AO4** — must choose | **76 — every single 9-marker** |
+| **Evaluate…** | 12 | **AO1 + AO2 + AO3 + AO4** — must conclude | **38 — every single 12-marker** |
+
+**The tariff is not a hint — it is the command word.** All 988 items were checked against their
+bracket in `15_Tariff_Fingerprint.md`: the 3-mark is **always** *Explain*, the 6 **always** *Analyse*,
+the 9 **always** *Justify which…*, the 12 **always** *Evaluate*.
+
+**This mapping is 4BS1 only.** 4EC1 Economics uses a different set — 6 *Analyse*, 9 *Assess*, 12
+*Evaluate* — and, unlike 4BS1, its 12-marker carries **no AO1**. Do not carry this table across
+subjects; see `../../Economics_Answer_Bank/4EC1_Paper_Fingerprint.md`.
+
+⚠️ **`Assess` is not a 4BS1 command word at any tariff.** It belongs to 4EC1 Economics, where it is
+the 9-marker. An earlier version of this table listed *Analyse / Assess* together as the 6-marker;
+that was wrong and has been corrected.
 
 ---
 
