@@ -124,6 +124,25 @@ rate. You should use the information provided as well as your own knowledge of b
 **Exit criterion:** his conclusion **names the circumstance** in which the opposite verdict would be
 right, and it is a circumstance from CCT's own case, not *"it depends on the objectives"*.
 
+#### Block 4a — IF HE ASKS "WHAT DOES A 12 LOOK LIKE?" (5 min, only if asked)
+
+**All four published 12/12s are now in the bank** — `16_Four_Verified_Twelve_Markers.md`. Two of them
+**open with a definition** (June 2024 PPS; June 2022 P1R Can Culleretes) and **two do not** (May 2023
+Irsi; June 2022 P1 TBTS). **One of them never writes "it depends" anywhere** — the June 2022 P1 TBTS
+script carries its judgement on *"In the short term… However, in the long term…"*. **So do not hand him
+"it depends on X" as a formula.** The four share exactly one thing:
+
+> **two sides, and a last word that decides — with the circumstance named.**
+
+**Two sentences he can use, both from real 12/12s, and they are different shapes on purpose:**
+- *"This depends on how much the television time costs and the quality of market research."* (PPS)
+- *"In the short term, breakages in reliable communication may not significantly impact TBTS… However,
+  in the long term, [it] may cause irreparable damage to TBTS reputation and be the reason for its
+  failure."* (TBTS)
+
+**Ask him which one he would actually write tomorrow.** Either is worth 12. What is not is a summary
+paragraph that repeats the body — that is the 10/12.
+
 ---
 
 ### Block 5 — THE CLOCK, AND THE TWO CHEAP MARKS (10 min)
