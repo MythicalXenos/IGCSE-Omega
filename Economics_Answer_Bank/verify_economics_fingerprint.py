@@ -219,15 +219,36 @@ QUOTES = [
     ("P1R", "'What is meant by' questions have two marks and require two parts in the explanation of "
             "the term. No marks are awarded for examples."),
     ("P1R", "There are no marks for stating a formula in 'calculate' questions."),
+    # --- 4EC1_What_Stops_You_At_11.md
+    ("P1R", "It meets all the requirements for Level 3 with a balanced, two-sided argument, leading to a "
+            "supported conclusion, but does not present an excellent organisation of information and "
+            "application is only reasonable."),
+    ("P2", "There is an attempt at a conclusion."),
+    ("P2", "Alternative methods are not required to access Level 4 and full marks can be achieved by "
+           "only evaluating the economic concept in the question"),
+    ("P2R", "A conclusion is provided which does make a judgement."),
+    ("P2", "A conclusion was required for this question and this was often lacking or was just a repeat "
+           "of the points made previously."),
+    ("P2", "Better responses used the information provided to help contextualise the answer rather than "
+           "just paraphrasing it."),
+    ("P1R", "Some candidates simply repeated the data rather than using it, thus reducing their ability "
+            "to attain a top-level mark."),
 ]
 def doc_text(path: Path) -> str:
-    lines = [ln[1:].lstrip() if ln.startswith(">") else ln
-             for ln in path.read_text().splitlines()]
-    return norm(" ".join(lines))
+    """Markdown out: blockquote markers, emphasis and code ticks are presentation, not text."""
+    out = []
+    for ln in path.read_text().splitlines():
+        ln = ln.lstrip()
+        if ln.startswith(">"):
+            ln = ln[1:].lstrip()
+        ln = ln.replace("**", "").replace("*", "").replace("`", "")
+        out.append(ln)
+    return norm(" ".join(out))
 
 
 docs = {p.name: doc_text(p) for p in
-        (BANK / "4EC1_Command_Words_Verified.md", BANK / "4EC1_Paper_Fingerprint.md")}
+        (BANK / "4EC1_Command_Words_Verified.md", BANK / "4EC1_Paper_Fingerprint.md",
+         BANK / "4EC1_What_Stops_You_At_11.md")}
 for paper, q in QUOTES:
     check(norm(q) in er_text[paper], f"4EC1/2023 {paper}: \"{q[:58]}...\"")
     in_doc = [n for n, t in docs.items() if norm(q) in t]
@@ -240,6 +261,17 @@ for needle in ("**998**", "**3,360**", "126 of 126", "84 of 84", "42 of 42",
                "337", "220", "189", "21 |", "11 |", "10 |"):
     check(needle in doc, f"fingerprint doc states {needle}")
 check("no AO1 above 2 marks" in doc, "fingerprint doc states the AO1 ceiling")
+
+# ------------------------------------------------------------ 8b. the 11/11/10 page
+print("\n[8b] the calibration page matches the bank's own exemplar index")
+cal = (BANK / "4EC1_What_Stops_You_At_11.md").read_text()
+idx = (BANK / "Source_Notes" / "Official_Pearson_Exemplar_Index.md").read_text()
+for needle in ("**11/12**", "**10/12**", ("9 and 7")):
+    check(needle in cal, f"calibration page states {needle}")
+for needle in ("11/12", "10/12", "9/12"):
+    check(needle in idx, f"exemplar index records a {needle} script (so no 12/12 is claimed)")
+check("not a Pearson statement" in cal and "labelled as construction" in cal.lower(),
+      "the constructed part of the calibration page is labelled as construction")
 
 # ---------------------------------------------------------------- 9. the old figure
 print("\n[9] the inventory figure that cannot be right")

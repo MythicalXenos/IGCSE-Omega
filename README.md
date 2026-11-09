@@ -6,7 +6,7 @@ Three Pearson Edexcel International GCSE subjects, one archive, one evidence sys
 |---|---|---|---|
 | **4BS1 Business** | `Business_Studies_Answer_Bank/` | 274 files · 69 MB · 867k words | **Most developed.** Rulebook, tariff playbook and fingerprint, 38 By_Paper files, **150-row** verified register, 113k-word chain bank, **29 checks** |
 | **4EB1 English Language B** | `English_Answer_Bank/` | 198 files · 6.0 MB · 488k words | **Complete.** 253/253 question entries across 23 papers; 14 authentic transcripts, 78 locators, 239 labelled constructed models |
-| **4EC1 Economics** | `Economics_Answer_Bank/` | 10 files · 0.2 MB · 11k words | **Now has a verified fingerprint** (42 papers · 998 items · 3,360 marks · 6/9/12 fixed at AO2+AO3 / +AO4 / AO4 4) and 17 examiner-report quotations checked against the PDFs. Still the thinnest bank: no per-question By_Paper files | **Starter kit.** Inventory of 42 papers / 671 items; no perfect-answers layer yet |
+| **4EC1 Economics** | `Economics_Answer_Bank/` | 11 files · 0.2 MB · 12k words | **Now has a verified fingerprint** (42 papers · 998 items · 3,360 marks · 6/9/12 fixed at AO2+AO3 / +AO4 / AO4 4) and 17 examiner-report quotations checked against the PDFs. Still the thinnest bank: no per-question By_Paper files | **Starter kit.** Inventory of 42 papers / 671 items; no perfect-answers layer yet |
 
 `Paperlords_Archive/` holds the source material: **216 PDFs** — 103 question papers, 103 mark schemes, 10 examiner reports — every QP paired to its MS, plus a page-by-page searchable text index and a keyword search script.
 

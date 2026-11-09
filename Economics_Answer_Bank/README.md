@@ -15,7 +15,12 @@ Built 2026-10-12 from the Paperlords archive and official Pearson exemplar/repor
   *Analyse* = one side, no evaluation, no definition; *Assess* = two sides, **no conclusion
   required**; *Evaluate* = two sides **and** a supported judgement. All 17 quotations are re-checked
   on every run of the verifier, and so is the copy of each quote in the doc that uses it.
-- `verify_economics_fingerprint.py` — 79 checks; exit 0 = every claim above still holds.
+- **`4EC1_What_Stops_You_At_11.md`** — the nearest thing to a 12/12 in the archive is **11/12**, and the
+  examiner says why it stopped there: *"does not present an excellent organisation of information and
+  application is only reasonable"*. The three commented 12-mark scripts (11, 11, 10) with the exact
+  reason for each lost mark, the three rules the report states for the 12-marker, and the timing
+  budget. The final table — what a 12/12 must contain — is **labelled as construction**.
+- `verify_economics_fingerprint.py` — 85 checks; exit 0 = every claim above still holds.
 - `4EC1_Exemplar_and_Model_Answer_Guide.docx` — main guide with answer patterns, official-score evidence and constructed targets.
 - `4EC1_Exemplar_and_Model_Answer_Guide.md` — searchable source version.
 - `4EC1_Question_Type_Inventory.xlsx` — filterable workbook: question-family map, prompt-pattern map, 671 item-level entries with matching QP/MS PDF paths, official exemplar scores/pages and source register.
