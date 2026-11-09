@@ -20,7 +20,9 @@ The 2019 Pearson exemplar booklets show real scripts and exact scores, but their
 
 ## 1. Archive-wide question-pattern map
 
-The text index contains **671 standalone question-mark lines** across 42 usable QPs: **262 one-mark, 173 two-mark, 98 three-mark, 60 six-mark, 42 nine-mark and 36 twelve-mark items**. No other standalone mark values were found. The May/June 2022 P2R original in the archive is unreadable, so the inventory uses its verified 20-page recovered alternative paired with the original mark scheme. The filterable workbook `4EC1_Question_Type_Inventory.xlsx` contains a family map, a detailed prompt-pattern map, the item-level index with QP page and matching MS PDF path, official exemplar scores and source register.
+The text index contains **671 standalone question-mark lines** across 42 usable QPs: **262 one-mark, 173 two-mark, 98 three-mark, 60 six-mark, 42 nine-mark and 36 twelve-mark items**.
+
+> **⚠️ CORRECTED 9 Nov 2026 — those item counts are a parser artefact and are too low.** The counter above only sees a mark value when it sits alone on its own line, and runs of dotted answer lines often carry the mark on the same line as the text. Re-derived from the PDFs, the archive holds **998 items, 3,360 marks**: **337 one-mark, 220 two-mark, 189 three-mark, 126 six-mark, 84 nine-mark, 42 twelve-mark**. The proof does not need any judgement: the old figures total **2,072 marks over 42 papers — 49 marks a paper on papers that print 80**. The full derivation, the per-paper skeleton and a verifier are in **`4EC1_Paper_Fingerprint.md`** and **`verify_economics_fingerprint.py`**. **The workbook `4EC1_Question_Type_Inventory.xlsx` still carries the old, low count and should not be used to estimate how many items of a tariff exist.** The May/June 2022 P2R original in the archive is unreadable, so the inventory uses its verified 20-page recovered alternative paired with the original mark scheme. The filterable workbook `4EC1_Question_Type_Inventory.xlsx` contains a family map, a detailed prompt-pattern map, the item-level index with QP page and matching MS PDF path, official exemplar scores and source register.
 
 | Marks | Common command / family | What full-credit work generally does |
 |---:|---|---|
@@ -35,9 +37,10 @@ The text index contains **671 standalone question-mark lines** across 42 usable 
 
 Typical 4EC1 allocations in the selected mark schemes are:
 
-- **6 marks:** AO2 (application/understanding) + AO3 (analysis), commonly 3 marks each.
-- **9 marks:** AO2 + AO3 + AO4 (evaluation), commonly 3 marks each.
-- **12 marks:** AO2 + AO3 + AO4, commonly 4 marks each.
+- **6 marks:** AO2 (application/understanding) + AO3 (analysis) — **AO2 3 + AO3 3 in all 126 items**.
+- **9 marks:** AO2 + AO3 + AO4 (evaluation) — **AO2 3 + AO3 3 + AO4 3 in all 84 items**.
+- **12 marks:** AO2 + AO3 + AO4 — **AO2 4 + AO3 4 + AO4 4 in all 42 items**.
+- **There is no AO1 above 2 marks anywhere in 42 mark schemes.** Knowledge is bought only by 1- and 2-mark items.
 
 Use the **exact question’s mark scheme** if its allocation differs. These are level-based questions: Pearson judges the whole response against the level descriptors. A long list of points is not automatically better than a smaller number of developed chains.
 
