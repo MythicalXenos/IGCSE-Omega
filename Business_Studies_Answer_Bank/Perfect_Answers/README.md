@@ -36,10 +36,10 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **1** | **456** | MCQ · define · state · identify | ✅ **8 × 1/1**, archived and transcribed — ⚠️ *but no model is needed: the MS is the perfect answer* |
 | **2** | **152** | calculate one figure · outline one | ✅ **2 × 2/2**, archived and transcribed — ⚠️ *same* |
 | **3** | **152** | 1(f) · 2(c) · 2(d) · 2(e) | ✅ **47 × 3/3**, Jun 2019 → Jun 2026 |
-| **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **26 × 6/6** |
+| **6** | **114** | 1(g) · 3(d) · 4(b) | ✅ **27 × 6/6** |
 | **9** | **76** | 2(f) · 3(e) | ✅ **16 × 9/9** |
-| **12** | **38** | 4(c) | ✅ **2 × 12/12** |
-| **TOTAL** | **988** | 26 parts / 80 marks per paper | **86 governed full-mark scripts**, plus **the 1- and 2-mark tier — all 80 scripts the five reports print, each transcribed with its examiner comment.** ✅ **`BANKED 80 / REMAIN 0`** *(`layer_c_1_2mark_coverage.py`, check 24; `08_` item 6 closed 14 Oct 2026)* |
+| **12** | **38** | 4(c) | ✅ **4 × 12/12** |
+| **TOTAL** | **988** | 26 parts / 80 marks per paper | **93 governed full-mark scripts**, plus **the 1- and 2-mark tier — all 80 scripts the five reports print, each transcribed with its examiner comment.** ✅ **`BANKED 80 / REMAIN 0`** *(`layer_c_1_2mark_coverage.py`, check 24; `08_` item 6 closed 14 Oct 2026)* |
 
 **The 380 governed parts (3 marks and above) are all modelled** — 252 entries in `10_Chain_Bank.md`, one per topic rather than one per question, because the framings repeat and only the topic changes. **For the 608 one- and two-mark parts the mark scheme answer *is* the perfect answer** and is already in `By_Paper/`.
 
@@ -65,6 +65,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **`09_Verified_Tally.md`** | The per-script register: one row per verified full-mark script, citing file and line. Counts are a property of the register, never hand-typed. |
 | **`12_Grade_9_Marks_Budget.md`** | ⭐ **What a 9 costs, in arithmetic.** 160 marks, 133 for a 9, **27 you may lose**; the identical 12/4/4/3/2/1 tariff of every paper; the fixed AO split of the six long questions (**AO4 is only 9 marks a paper**); and the measured cost of each documented fault. Checked by `../verify_grade_budget.py`. |
 | **`13_Paper_Craft_and_Timing.md`** | ⭐ **The 90 minutes, measured.** Pearson's cover page says *"use [the marks] as a guide as to how much time to spend"* — this is that arithmetic: **1.125 min per mark**, a 22½-minute budget per question, and where five spare minutes buy the most. Checked by `../verify_paper_craft.py` against all 38 QPs. |
+| `16_Four_Verified_Twelve_Markers.md` | ⭐ **The four 12/12s, side by side.** Three different AO4 routes — a named condition, a condition plus an alternative, a time horizon — and one invariant: **two sides and a last word that decides.** Two of the four carry no definition at all and one never says "it depends". |
 | `15_Tariff_Fingerprint.md` | ⭐ **What each mark value is MADE OF.** The AO composition of every tariff from all 38 mark schemes: 3-mark is AO1 only, 6-mark has **no AO1 and no AO4**, 9-mark has **no AO1**, 12-mark is the only one that pays for knowledge. Plus the command word each tariff always uses. Checked by `../verify_tariff_fingerprint.py`. |
 | `14_Third_Party_Claims_Tested.md` | **Advice you will meet elsewhere, checked against Pearson** — six common claims (both sides, conclusions, "five strands", the "it depends" formula, 1BS0 advice leaking into 4BS1), each marked supported / contradicted / half-true. **Not evidence: no third-party source is relied on anywhere else in the bank.** |
 | **`11_Self_Marking_Protocol.md`** | ⭐ **The candidate-facing sheet — five passes over your own answer, one card per tariff, every rule cited by number.** Distilled from rules already in `01_`/`06_`; it introduces no new evidence and scores nothing. |
@@ -103,7 +104,7 @@ When guidance conflicts, trust in this order:
 - `../Sources/Official_Pearson/4BS1_Paper1_Exemplar_Commentaries_June2019.pdf` — 39 pp. Official June 2019 Paper 1/1R booklet: question, mark scheme, real responses, examiner comments.
 - `../Sources/Official_Pearson/June2019_P2_Exemplar_Responses_Selected_Pages.pdf` — 21 pp. Selected original pages 5–14, 18–20, 24–31 of Pearson's Paper 2/2R booklet.
 - `../Sources/Official_Pearson/May2023_P2_Examiners_Report_Excerpts_Q3e_Q4c.pdf` — 6 pp.
-- `../Sources/Official_Pearson/June2024_P1_Examiners_Report_Excerpts_12mark_Evaluate.pdf` — 3 pp. Contains the only verified 12/12 in the archive.
+- `../Sources/Official_Pearson/June2024_P1_Examiners_Report_Excerpts_12mark_Evaluate.pdf` — 3 pp. One of **four** verified 12/12s; this excerpt holds the June 2024 P1 (PPS) one. The other three are the June 2022 P1 and P1R, and May/June 2023 P1 — see `16_Four_Verified_Twelve_Markers.md`.
 - `../../Paperlords_Archive/` — 38 QPs, 38 MSs, 5 ERs for 4BS1, plus the searchable text index.
 
 The Paperlords PDFs remain authoritative for visuals, tables and diagrams. The text index is a search aid.

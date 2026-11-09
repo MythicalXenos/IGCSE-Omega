@@ -345,7 +345,7 @@ This page lists, per tariff, **which examiner reports contain full-mark candidat
 |---|---|---|---|
 | May 2022, 2023, 2024 | May 2022, 2024 | — | — |
 
-> **Note:** Pearson records **no** full-mark 12-mark example for Paper 2 or Paper 2R. **Both verified 12/12s in this bank are Paper 1** — **June 2024 P1 (PPS)** and **May/June 2023 P1 (Irsi Chocolatier)**. **The best held 1R Evaluate is 11/12 (June 2026 P1R, Spud Bros)**, and the Paper 2 / 2R cell is **permanent** — no full-mark example has ever been published there.
+> **Note:** Pearson records **no** full-mark 12-mark example for Paper 2 or Paper 2R. **All four verified 12/12s in this bank are Paper 1** — **June 2024 P1 (PPS)**, **May/June 2023 P1 (Irsi Chocolatier)**, **June 2022 P1R (Can Culleretes)** and **June 2022 P1 (TBTS)**. **The best held *Paper 2* Evaluate is 10/12 (IKEA, May 2023) and the best *Paper 2R* 10/12 (M&M, May 2023)**; the best 1R is 11/12 (June 2026 P1R, Spud Bros). **The Paper 2 / 2R cell is permanent** — no full-mark example has ever been published there. *(This note said "both" and named two until 12 Nov 2026; the count is four.)*
 
 ### ⚠️ Sessions named here that are NOT yet in the archive or the harvest
 

@@ -764,7 +764,11 @@ A benefits-only answer, contextualised, with clean chains (*"customers want to s
 
 ---
 
-## 🏆🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — a second **12/12** — and it has NO conclusion (May 2023)
+## 🏆🏆 `[VERIFIED CANDIDATE EXEMPLAR]` — a **12/12** — and it has NO conclusion (May 2023)
+
+> ⚠️ **The heading said "a second" until 12 Nov 2026, when the register was found to hold **four**.
+> This is not the second: it is one of four, and the four do not share a shape — see
+> `16_Four_Verified_Twelve_Markers.md`. Nothing in this section's analysis changed.**
 
 **Irsi Chocolatier Q4(c)** — *"Evaluate the impact of Irsi Chocolatier using financial methods of motivation on its employees."* **(12)** Full transcript in `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`.
 

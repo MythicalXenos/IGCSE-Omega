@@ -12,7 +12,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 > ### 🔬 WHAT THAT SCRIPT ACTUALLY DOES — and why it was rewritten
 > **It parses this file's own tables and checks them**, rather than counting prose:
 >
-> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 150 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
+> 1. **Every register row must resolve** — the file exists and the line it names carries the mark, in figures (`6/6`) or in words (*"Level 3 – 6 marks — FULL MARKS"*). ✅ **All 153 rows resolve.** ⚠️ **The 1- and 2-mark sections joined on 14 Oct 2026 and are verified by the same code** — the figure pattern is derived from each row's own tariff, so a `1/1` row is checked for a `1/1`, not for a `3/3`.
 > 2. **It then scans the whole bank for script-bearing headings** — a heading that names a question label (`Q2(f)`) or one of the register's case studies — and checks each one against the register. ✅ **66 matched, 36 narrative, 0 unaccounted.**
 > 3. **And it checks that the file a row cites belongs to the session the row names** — because until 14 Oct 2026 nothing did. A probe asked what would happen if a row reading *"Jun 2024"* pointed into a `2023-05` file: `tally_exemplars.py` was silent, `verify_coverage_claims.py` was silent, `verify_paper_coverage.py` was silent — **only the new check 23 noticed, and it reads five reports.** So a row may no longer cite across sessions: the month in the filename must be the month the row names, **with May and June deliberately treated as the same series** (Pearson's one May/June sitting; the archive folders say May, the register says Jun — a stricter rule reported 14 false alarms, all in the May 2023 files). **A row that states a paper must also cite a script sitting under that paper's own `# PAPER n` section**, which is checked wherever the cited file sections its scripts by paper. **Both rules sabotage-tested: one flipped session or one flipped paper fails the run; renaming the row's session to the file's May passes.** ⚠️ **The counts are printed — *"rows whose session was checked against a dated filename: 69"* — because a rule that silently checks nothing is this bank's oldest failure mode, and the session rule only fires where the filename carries a date.**
 >
@@ -28,13 +28,13 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 | Tariff | Distinct scripts |
 |---|---|
-| **12-mark Evaluate** | **2** |
+| **12-mark Evaluate** | **4** |
 | **9-mark Justify** | **16** |
-| **6-mark Analyse** | **26** |
+| **6-mark Analyse** | **27** |
 | **3-mark Explain** | **47** *(Jun 2019 ×3 · Jun 2022 ×10 · Jun 2023 ×16 · Jun 2024 ×8 · Jun 2025 ×6 · Jun 2026 ×4)* |
 | **1-mark items** | **36** *(May/Jun 2023 ×24 — **P2 ×6** · **P1R ×6 · P1 ×6** · Jun 2026 ×6 · Jun 2024 ×6)* |
 | **2-mark items** | **23** *(May/Jun 2023 ×16 — **P2 ×4** · **P2R ×4** · **P1R ×4 · P1 ×4** · Jun 2026 ×4 · Jun 2024 ×3)* |
-| **TOTAL** | **150** *(the four governed tiers = **91**; the rest are the 1- and 2-mark script pairs the reports print)* |
+| **TOTAL** | **153** *(the four governed tiers = **94**; the rest are the 1- and 2-mark script pairs the reports print)* |
 
 > ### ⚠️ THIS TABLE DRIFTED, AND THE CHECK NOW MAKES THAT IMPOSSIBLE
 > On **14 Oct 2026** this table said **6-mark = 19** while the section below it held **23**, and it had **no 3-mark row at all** — the June 2026 P1R tier had been added to the body of the file without the summary following it. **The prose above said *"All 36 rows resolve"* against 44 rows.**
@@ -56,14 +56,32 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 12 MARKS — **2 scripts**
+## 12 MARKS — **4 scripts**
 
 | # | Series | P · Q | Case study | Canonical source |
 |---|---|---|---|---|
 | 1 | **Jun 2024** | P1 Q4(c) | PPS | `02_Verified_Exemplars.md:969` |
 | 2 | **May/Jun 2023** | P1 Q4(c) | Irsi Chocolatier | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:17` |
+| 3 | **Jun 2022** | P1R Q4(c) | Can Culleretes | `../audits/corpus/transcripts/4BS1_01R_2206_4c.md:1` |
+| 4 | **Jun 2022** | P1 Q4(c) | TBTS | `../audits/corpus/transcripts/4BS1_01_2206_4c.md:1` |
 
-> ### ⚠️ PERMANENT LIMITATION — BOTH ARE PAPER 1
+> ### 🚨 THIS TABLE SAID **2** UNTIL 12 NOV 2026. IT WAS WRONG BY TWO.
+> **Row 3 had been transcribed since the transcripts folder was created and was never entered here** —
+> the file `4BS1_01R_2206_4c.md` announces *"12/12"* in its title, its own examiner comment ends
+> *"12 marks."*, and the only place it was listed was the transcripts `README.md`. **`tally_exemplars.py`
+> scans script-bearing *headings*; a table row in a README is not a heading, so nothing ever compared
+> the two.** *(The same *class* of failure the bank has now recorded three times: a key that matches on
+> (tariff, question) or on headings alone cannot see a script held somewhere else.)*
+>
+> **Row 4 was never transcribed at all.** The June 2022 **Paper 1** report prints a 12/12 on Q4(c) —
+> TBTS, *"good internal and external communication"* — at pages **37–38**, and the bank's own
+> `06_External_Source_Library.md` recorded it as **unobtainable** because *"the script is past page 30"*
+> of the fetch route. **That was true of `fetch_page`, not of the report:** the full PDF has been in
+> `Sources/Official_Pearson/Full_Examiner_Reports/` the whole time. **A retrieval limit was written
+> down as a publication limit.** Transcribed 12 Nov 2026; the comparison of all four is
+> `16_Four_Verified_Twelve_Markers.md`.
+
+> ### ⚠️ PERMANENT LIMITATION — ALL FOUR ARE PAPER 1
 > **No verified 12/12 exists for Paper 2 or Paper 2R, in any series.** Pearson names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **This is the edge of what is published, not a gap in the search.** **The best held on those two papers is a verified 10/12 on each — IKEA (P2 Q4(c), May 2023) and M&M (P2R Q4(c), May 2023); both were docked for *"limited judgements"*.**
 
 ---
@@ -99,7 +117,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 
 ---
 
-## 6 MARKS — **26 scripts**
+## 6 MARKS — **27 scripts**
 
 | # | Series | P · Q | Topic | Canonical source |
 |---|---|---|---|---|
@@ -119,7 +137,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 14 | **Jun 2024** | P1 Q1(g) | — *PPS* | `2024-06_P1_PPS.md:34` |
 | 15 | **Jun 2024** | P1 Q3(d) | — *PPS* | `2024-06_P1_PPS.md:50` |
 | 16 | **Jun 2024** | P1R Q3(d) | — *Café Pinch* | `2024-06_P1R_Cafe_Pinch.md:67` |
-| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:907` |
+| 17 | **Jun 2025** | P1 Q1(g) | **wide span of control — ONE point, 140 words** — *Four Fitness* | `02_Verified_Exemplars.md:915` |
 | 18 | **Jun 2025** | P1R Q1(g) | app concerns — *CCT* | `02_Verified_Exemplars.md:450` |
 | 19 | **Jun 2025** | P2 Q1(g) | batch production, two paragraphs ≈100 words as scanned — *Starbucks* *(question number corrected 9 Nov 2026: the paper prints batch production at **1(g)**, and 2(c) is the 3-mark JIT question)* | `02_Verified_Exemplars.md:434` |
 | 20 | **May/Jun 2023** | **P2R Q3(d)** | comparing itself with other manufacturers — *M&M* | `External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md:532` |
@@ -129,6 +147,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | 24 | **Jun 2023** | P1 Q3(d) | limitations of break-even charts — *Irsi Chocolatier* *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:92` |
 | 25 | **Jun 2023** | P1R Q1(g) | motivating employees — *Aude Rose* *(banked 14 Oct 2026 — `audit_er_fullmarks.py`)* | `External_Exemplars/2023-05_Series_Remaining_FullMarks.md:142` |
 | 26 | **Jun 2025** | P1R Q3(d) | recruiting externally — **two points, no conclusion** — *CCT* | `External_Exemplars/2025-06_P1R_CCT.md:158` |
+| 27 | **Jun 2022** | P1R Q4(b) | adapting the menu to market change — *Can Culleretes* *(transcribed since the folder was created, entered here 12 Nov 2026)* | `../audits/corpus/transcripts/4BS1_01R_2206_4b.md:1` |
 
 > ### ✅ THE ONE OPEN AMBIGUITY — CLOSED, 14 Oct 2026
 > The June 2019 booklets' own coverage table claimed **"6/6 × 4"** across both booklets while only **three** were enumerated above. **A fourth appeared to be missing, and the count was therefore carried as "19 confirmed, possibly 20".**
@@ -222,7 +241,7 @@ python3 tally_exemplars.py        # exit 0 = the register verifies, exit 1 = it 
 | `08_Completion_Map.md:95` | *"**6 × 9/9**"* above **eight** names | **15** |
 | `08_Completion_Map.md:94` | *"**9 × 6/6**"* | **19** |
 | `02_Verified_Exemplars.md` | *"five verbatim 9/9 Justify scripts"* | **15** |
-| — | 12/12 = 2 | **2** ✅ *the only count that was ever right* |
+| — | 12/12 = 2 | **4** ⚠️ *this count was wrong too — see the note under the 12-mark table* |
 
 > ## 🚨 WHY THIS HAPPENED — and the rule that stops it
 > Totals were **hand-incremented** each time an exemplar was found, while the lists beside them grew by transcription. **The two drifted apart, in five separate places.**

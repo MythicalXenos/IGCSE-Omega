@@ -63,7 +63,7 @@ The fetch route parses **PDFs only up to 30 pages**. Some Pearson PEF reports ar
 | Jun 2024 P1, P1R, P2 | ✅ yes |
 | Jun 2023 P2 | ✅ yes (held from the archive excerpt) |
 | Jun 2023 P1R | ✅ yes |
-| **Jun 2022 P1** | ❌ **no** — examiner's summary confirms a 12/12 exists (*"balanced argument with a clear evaluation. 12 marks."*) but the script is past page 30 |
+| **Jun 2022 P1** | ✅ **YES — obtained 12 Nov 2026.** ~~the script is past page 30~~ was true of `fetch_page`, **not of the report**: the full PDF in `Sources/Official_Pearson/Full_Examiner_Reports/4BS1_01_2206_ER_full.pdf` carries the script at **pages 37–38** and the score at p. 39. Transcribed in `../audits/corpus/transcripts/4BS1_01_2206_4c.md`. **A retrieval limit had been recorded as a publication limit.** |
 
 **Workarounds, in order of reliability:** (1) a shorter mirror of the same report; (2) the archive's own excerpt files, where held; (3) accepting the examiner's summary line without the script. Not yet applied — recorded here so it is not mistaken for a complete record.
 
@@ -1981,17 +1981,17 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 > ### ✅ SUPERSEDED — 14 OCTOBER 2026. EVERY LINE BELOW WAS TRUE WHEN WRITTEN AND IS NOT TRUE NOW.
 > **This section was written before the 2025 and 2026 reports were harvested, and it listed as "unharvested" four targets that have all since been found** — the June 2025 P1R Analyse, the June 2025 P2 Analyse, the June 2025 P2R Justify and the May 2023 P2R Justify. **Read the table below instead; the register that proves it is `09_Verified_Tally.md`, and `tally_exemplars.py` re-derives it.**
 
-**What is actually still missing, by tariff and paper — derived from the register (47 × 3/3 · 26 × 6/6 · 16 × 9/9 · 2 × 12/12 = 91 rows):**
+**What is actually still missing, by tariff and paper — derived from the register (47 × 3/3 · 27 × 6/6 · 16 × 9/9 · 4 × 12/12 = 94 rows):**
 
 | Tariff | Paper 1 | Paper 1R | Paper 2 | Paper 2R |
 |---|---|---|---|---|
 | **Analyse (6)** | ✅ held | ✅ held | ✅ held | ✅ held |
 | **Justify (9)** | ✅ held | ✅ held | ❌ **still none** | ✅ held *(2)* |
-| **Evaluate (12)** | ✅ held *(2)* | ⚠️ **best held is 11/12** | ❌ none published | ❌ none published |
+| **Evaluate (12)** | ✅ held *(3)* | ✅ **held (1)** — Jun 2022 P1R *Can Culleretes*; next best 11/12 (Jun 2026 P1R) | ❌ none published | ❌ none published |
 
 **So there are exactly three open cells, and two of them may never close:**
 1. **Paper 02 Justify — no verified 9/9, on that paper.** **The best held on Paper 02 is 7/9 — three times, and all three are Q2(f):** **June 2019 P2 Q2(f)** (Tata, cost plus vs promotional pricing) · **May 2023 P2 Q2(f)** (IKEA, above-the-line vs below-the-line promotion) · **June 2025 P2 Q2(f)** (Starbucks, financial vs non-financial methods — the script is at `02_Verified_Exemplars.md:643`). **The examiner's complaint is the same on the last of them as on the first:** *"it fails to provide a sound judgment… and so remains at the bottom of level 3."* — the Justify structure is identical on all four papers, so the 9/9 models in `10_Chain_Bank.md` already cover the *technique*; what is missing is a **Paper 02** example of it. **Paper 02R is NOT a gap: it is held twice** (May 2023 M&M · June 2025 Rabanne), which the table directly above already states. *(This bullet previously read "no verified 9/9 **in any series**", which contradicted the row above it, and cited the May 2023 script as Q3(e) — that question scored 5/9; the 7/9 was Q2(f).)*
-2. **Paper 1R Evaluate — the best held is 11/12** (June 2026 P1R, Spud Bros — transcribed in `External_Exemplars/2026-06_P1R_SpudBros.md` and banked at `02_Verified_Exemplars.md:708`).
+2. ~~**Paper 1R Evaluate — the best held is 11/12**~~ **CLOSED 12 NOV 2026.** A **12/12 on Paper 1R** has been held since the transcripts folder was created — **June 2022 P1R, *Can Culleretes*, venture capital** — and was listed only in `../audits/corpus/transcripts/README.md`, where no check reads. Registered as row 3. **The 11/12 is still the best held from June 2026** (Spud Bros — `External_Exemplars/2026-06_P1R_SpudBros.md`, banked at `02_Verified_Exemplars.md:712`), and that is a different claim from "the best held on Paper 1R".
 3. **Paper 2 / 2R Evaluate — no full-mark example is published**, which Pearson's own road map confirms. **This one is permanent**, and it is recorded as a limitation rather than a target in `08_Completion_Map.md`.
 
 ## Progress

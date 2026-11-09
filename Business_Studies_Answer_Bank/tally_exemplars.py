@@ -392,6 +392,13 @@ def main():
         ("02_Verified_Exemplars.md", "Café Pinch"): "second transcription",
         ("02_Verified_Exemplars.md", "FOUR FULL-MARK VERDICTS"): "umbrella over the four May 2023 9/9s",
         ("02_Verified_Exemplars.md", "second **12/12**"): "same script as the May 2023 12/12",
+        ("02_Verified_Exemplars.md", "a second **12/12**"): "same script as the May 2023 12/12",
+        ("02_Verified_Exemplars.md", "and it has NO conclusion"): "register row 2, cited in External_Exemplars",
+        # 16_ is a COMPARISON of the four registered 12/12s: its headings name the count
+        # on purpose and the scripts are registered at rows 1-4 of the 12-mark table.
+        ("16_Four_Verified_Twelve_Markers.md", "four verified 12/12s"): "umbrella over register rows 1-4",
+        ("16_Four_Verified_Twelve_Markers.md", "What no 12/12 does"): "rule heading, not a script",
+        ("16_Four_Verified_Twelve_Markers.md", "checked across all four"): "rule heading, not a script",
         ("External_Exemplars/2025-06_Series_CCT_Starbucks_Rabanne.md", "CCT"): "same script as 02_Verified_Exemplars.md",
         # the June 2025 pair is registered at its canonical transcription in
         # 02_Verified_Exemplars.md: row 17 (Four Fitness 6/6, :879) and row 15 (Rabanne
@@ -475,6 +482,73 @@ def main():
         print("  sits under the PAPER section its row names.")
     for kind, msg in cite_bad:
         stated_bad.append(f"citation disagrees with its row — {msg}")
+
+    # ------------------------------------------------------------------
+    # THE TRANSCRIPTS INVENTORY — every full-mark script named in that table must have
+    # a REGISTER ROW for its own sitting, paper and question.
+    #
+    # This is the failure that cost two 12/12s on 12 Nov 2026. The transcripts README
+    # listed `4BS1_01R_2206_4c.md` as 12/12 from the day the folder was created, and
+    # this script never saw it: it scans HEADINGS, and that file is a TABLE. A register
+    # that reads only one shape of evidence cannot claim to be complete.
+    #
+    # The key is sitting + paper + question. The file name alone would fail whenever a
+    # script is transcribed in two places (the register has one canonical source); and
+    # (tariff, question) alone is the PAPER-BLIND key this bank has already been bitten
+    # by twice — Q2(c) of one paper satisfied by a row for Q2(c) of another.
+    print()
+    print("=" * 78)
+    print("TRANSCRIPTS INVENTORY - every full-mark script named there has a register row")
+    print("=" * 78)
+    SITTING = {"1906": ("Jun", "2019"), "2001": ("Jan", "2020"), "2206": ("Jun", "2022"),
+               "2305": ("May", "2023"), "2306": ("Jun", "2023"), "2406": ("Jun", "2024"),
+               "2506": ("Jun", "2025"), "2606": ("Jun", "2026")}
+    known = set()
+    for _tier, _label, _f, _ln in rows:
+        parts = [q.strip() for q in _label.split("|")]
+        if len(parts) < 2:
+            continue
+        series, pq = parts[0], parts[1]
+        my = re.search(r"(20\d\d)", series)
+        mp = re.match(r"P(\d)(R?)\s*Q(\d)\(([a-h])\)", pq)
+        if not (my and mp):
+            continue
+        month = "May" if "May/" in series else ("Jan" if "Jan" in series else "Jun")
+        known.add((month, my.group(1), f"P{mp.group(1)}{mp.group(2)}", f"{mp.group(3)}{mp.group(4)}"))
+    inv = ROOT.parent / "audits" / "corpus" / "transcripts" / "README.md"
+    inv_rows, inv_bad = 0, []
+    if inv.exists():
+        for i, line in enumerate(inv.read_text(encoding="utf-8").split("\n"), 1):
+            m = re.match(r"^\|\s*`([^`]+)`\s*\|([^|]*)\|([^|]*)\|([^|]*)\|", line)
+            if not m:
+                continue
+            fname, score_col = m.group(1).strip(), m.group(4)
+            tok = re.search(r"(?<![\d/])(\d+)/(\d+)(?![\d/])", score_col)
+            if not tok or tok.group(1) != tok.group(2):
+                continue
+            inv_rows += 1
+            fm = re.match(r"4BS1_(\d\d)(R?)_(\d{4})_(\d)([a-h])", fname)
+            if not fm:
+                inv_bad.append((i, fname, tok.group(0), "the filename carries no sitting/question key"))
+                continue
+            if fm.group(3) not in SITTING:
+                inv_bad.append((i, fname, tok.group(0), f"sitting {fm.group(3)} not in the key table"))
+                continue
+            month, year = SITTING[fm.group(3)]
+            key = (month, year, f"P{int(fm.group(1))}{fm.group(2)}", f"{fm.group(4)}{fm.group(5)}")
+            if key not in known:
+                inv_bad.append((i, fname, tok.group(0),
+                                f"no register row for {month} {year} "
+                                f"P{int(fm.group(1))}{fm.group(2)} Q{fm.group(4)}({fm.group(5)})"))
+    print(f"  full-mark rows in the inventory : {inv_rows}")
+    if not inv_rows:
+        print("  NONE PARSED - check the parser, not the bank.")
+        stated_bad.append("the transcripts inventory scan parsed nothing")
+    for i, fname, tok, why in inv_bad:
+        print(f"    !! README.md:{i}  {fname} listed as {tok} — {why}")
+        stated_bad.append(f"transcripts README:{i} lists {fname} as {tok}: {why}")
+    if inv_rows and not inv_bad:
+        print("  every full-mark transcript has a register row for its own sitting, paper and question.")
 
     print()
     print("=" * 78)

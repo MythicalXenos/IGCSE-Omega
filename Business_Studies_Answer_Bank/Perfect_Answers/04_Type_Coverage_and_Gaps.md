@@ -143,7 +143,7 @@ What it does contain:
 
 **What was missing, and what filled it:** `[CONSTRUCTED GRADE 9 TARGET]` answers for the remaining high-value variations, written from the QP, mark scheme and examiner guidance and clearly labelled as constructed. Those were the next phase, and **that phase is done** — the models now live in **`10_Chain_Bank.md`**, which is canonical, with `05_Constructed_12mark_Models.md` as earlier worked models on the same topics. They must never be described as official or examiner-marked; **no score is claimed for any of them.**
 
-**What remains missing — and it is not all fillable.** Layer C is closed at 152/152 · 114/114 · 76/76 · 38/38, but three full-mark cells are still open and one is permanent: **no verified 12/12 exists for Paper 2 or Paper 2R** (both bank 12/12s are Paper 1, and Pearson names the June 2022 and June 2024 *Paper 1* reports as the 12-mark exemplar sources). See `08_Completion_Map.md` for the live position; do not restate these counts elsewhere.
+**What remains missing — and it is not all fillable.** Layer C is closed at 152/152 · 114/114 · 76/76 · 38/38, but three full-mark cells are still open and one is permanent: **no verified 12/12 exists for Paper 2 or Paper 2R** (all **four** bank 12/12s are Paper 1 — June 2022 P1 and P1R, May/June 2023 P1, June 2024 P1 — and Pearson names the June 2022 and June 2024 *Paper 1* reports as the 12-mark exemplar sources). See `08_Completion_Map.md` for the live position; do not restate these counts elsewhere.
 
 ---
 
