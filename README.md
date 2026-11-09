@@ -4,9 +4,9 @@ Three Pearson Edexcel International GCSE subjects, one archive, one evidence sys
 
 | Subject | Bank | Size | State |
 |---|---|---|---|
-| **4BS1 Business** | `Business_Studies_Answer_Bank/` | 153 files · 20 MB · 484k words | **Most developed.** Rulebook, tariff playbook, 38 By_Paper files, 148-row verified tally, 108k-word chain bank |
-| **4EB1 English Language B** | `English_Answer_Bank/` | 198 files · 6.2 MB · 437k words | **Complete.** 253/253 question entries across 23 papers; 14 authentic transcripts, 78 locators, 239 labelled constructed models |
-| **4EC1 Economics** | `Economics_Answer_Bank/` | 7 files · 184 KB · 3.6k words | **Starter kit.** Inventory of 42 papers / 671 items; no perfect-answers layer yet |
+| **4BS1 Business** | `Business_Studies_Answer_Bank/` | 274 files · 69 MB · 867k words | **Most developed.** Rulebook, tariff playbook and fingerprint, 38 By_Paper files, **150-row** verified register, 113k-word chain bank, **29 checks** |
+| **4EB1 English Language B** | `English_Answer_Bank/` | 198 files · 6.0 MB · 488k words | **Complete.** 253/253 question entries across 23 papers; 14 authentic transcripts, 78 locators, 239 labelled constructed models |
+| **4EC1 Economics** | `Economics_Answer_Bank/` | 7 files · 0.2 MB · 6.2k words | **Starter kit.** Inventory of 42 papers / 671 items; no perfect-answers layer yet |
 
 `Paperlords_Archive/` holds the source material: **216 PDFs** — 103 question papers, 103 mark schemes, 10 examiner reports — every QP paired to its MS, plus a page-by-page searchable text index and a keyword search script.
 
@@ -25,7 +25,7 @@ Nothing in these banks is presented as more than it is. Every answer carries a l
 - **`[OFFICIAL MARK-SCHEME WORKED ANSWER]`** — Pearson's own indicative content, quoted.
 - **`[CONSTRUCTED GRADE 9 TARGET]`** — written from the QP/MS/ER; not official, not examiner-marked, no score claimed.
 
-Verification scripts (`tally_exemplars.py`, `verify_chain_bank_anchors.py`, `verify_boundaries.py`) fail the build when a label or a tally row does not resolve.
+Verification: **28 scripts** in `Business_Studies_Answer_Bank/` fail the run when a label, a tally row, a boundary figure, a score pairing or an arithmetic claim does not resolve — listed in `Perfect_Answers/08_Completion_Map.md`.
 
 ## Learner record
 

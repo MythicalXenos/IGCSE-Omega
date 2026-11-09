@@ -65,6 +65,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | **`09_Verified_Tally.md`** | The per-script register: one row per verified full-mark script, citing file and line. Counts are a property of the register, never hand-typed. |
 | **`12_Grade_9_Marks_Budget.md`** | ⭐ **What a 9 costs, in arithmetic.** 160 marks, 133 for a 9, **27 you may lose**; the identical 12/4/4/3/2/1 tariff of every paper; the fixed AO split of the six long questions (**AO4 is only 9 marks a paper**); and the measured cost of each documented fault. Checked by `../verify_grade_budget.py`. |
 | **`13_Paper_Craft_and_Timing.md`** | ⭐ **The 90 minutes, measured.** Pearson's cover page says *"use [the marks] as a guide as to how much time to spend"* — this is that arithmetic: **1.125 min per mark**, a 22½-minute budget per question, and where five spare minutes buy the most. Checked by `../verify_paper_craft.py` against all 38 QPs. |
+| `15_Tariff_Fingerprint.md` | ⭐ **What each mark value is MADE OF.** The AO composition of every tariff from all 38 mark schemes: 3-mark is AO1 only, 6-mark has **no AO1 and no AO4**, 9-mark has **no AO1**, 12-mark is the only one that pays for knowledge. Plus the command word each tariff always uses. Checked by `../verify_tariff_fingerprint.py`. |
 | `14_Third_Party_Claims_Tested.md` | **Advice you will meet elsewhere, checked against Pearson** — six common claims (both sides, conclusions, "five strands", the "it depends" formula, 1BS0 advice leaking into 4BS1), each marked supported / contradicted / half-true. **Not evidence: no third-party source is relied on anywhere else in the bank.** |
 | **`11_Self_Marking_Protocol.md`** | ⭐ **The candidate-facing sheet — five passes over your own answer, one card per tariff, every rule cited by number.** Distilled from rules already in `01_`/`06_`; it introduces no new evidence and scores nothing. |
 | `Exemplar_Scans/` | The genuine candidate scripts as page images — see the real handwriting and structure. |
@@ -95,7 +96,7 @@ When guidance conflicts, trust in this order:
 
 **Layer 2 — constructed models (complete).** The official content assembled into full-mark-shaped responses: **252 entries covering all 380 governed parts**, held in `10_Chain_Bank.md` and checked by `verify_model_shape.py` against the shape each tariff requires — a mechanism step on 3-mark, developed strands on 6-mark, a **named condition** on 9-mark, and a woven judgement on 12-mark.
 
-**Everything in this bank is verified by 28 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
+**Everything in this bank is verified by 29 checks** that run in about half a minute; `08_Completion_Map.md` lists them and says what each one would catch. **Each prints how many items it read, so a check that parses nothing is visible rather than silent** — the failure this bank has hit three times.
 
 ## Sources
 

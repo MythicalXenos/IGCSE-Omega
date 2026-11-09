@@ -83,6 +83,8 @@ writing anything.**
 | 9 Justify | **choose**, chains for the choice, the drawback of the choice, decision + condition | knowledge of both options (*"no knowledge marks"*) |
 | 12 Evaluate | 3/3/3/3 — both sides **and** a weighing decision | a summary of what was already said |
 
+**Verified against all 988 items** (`15_Tariff_Fingerprint.md`): 3-mark is AO1 only, **6-mark has no AO1 and no AO4**, 9-mark has no AO1, 12-mark is the only one that pays for knowledge. **If a student asks "why no conclusion on a 6-marker?" — that table is the answer, not an opinion.**
+
 **He writes** one sentence per shape, on CCT topics from the same paper — 3(e) (selling assets v
 retained profit), 1(g) (the app), 4(b) (technology), 4(c) (interest rates), 1(d) (secondary research),
 2(b) (satisfying customer needs). Six sentences, six shapes.

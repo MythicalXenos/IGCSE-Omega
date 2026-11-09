@@ -27,6 +27,24 @@ From the official June 2019 Paper 1/1R exemplar booklet, p. 2:
 
 ---
 
+## ⭐⭐ THE FINGERPRINT — verified on all 988 items
+
+**`15_Tariff_Fingerprint.md` derives, from all 38 mark schemes, what each tariff is *made of*.** The
+short version, because it changes how you answer:
+
+| Tariff | AO composition (every paper) | What it means for you |
+|---|---|---|
+| **3** | **AO1 only** | no context needed; **no marks for a definition** |
+| **6** | **AO2 + AO3** — no AO1, **no AO4** | **a conclusion earns nothing** |
+| **9** | **AO2 + AO3 + AO4** — **no AO1** | **no knowledge marks**; 3 of 9 are the judgement |
+| **12** | AO1 + AO2 + AO3 + AO4 | the **only** question that pays for knowledge |
+
+**And the command word is the tariff's name:** 152/152 3-markers say *Explain*, 114/114 6-markers
+*Analyse*, 76/76 9-markers *Justify*, 38/38 12-markers *Evaluate*. **The bracket tells you the shape
+before you read the stem.**
+
+---
+
 ## Tariff by tariff
 
 ### 1 mark

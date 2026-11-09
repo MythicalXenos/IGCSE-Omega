@@ -1,4 +1,11 @@
 # IGCSE-Omega — whole-repository audit
+
+> ## ⏳ THIS IS A DATED SNAPSHOT — 9 November 2026, commit `93d535f`
+> **Its counts are historical and some are now wrong by design of the work done since** (Business has
+> grown from 153 to **274 files**; the verified register from 148 to **150 rows**; the check suite has
+> grown to **28**). **For current figures use `README.md` and
+> `Business_Studies_Answer_Bank/Perfect_Answers/09_Verified_Tally.md`.** The *analysis* below — what is
+> strong, what is missing, and why Economics is a starter kit — still stands and is not superseded.
 **Date:** 9 November 2026 · **Branch:** `arena/031beb1c-igcse-omega` @ `93d535f`
 **Scope:** every tracked file on this branch and on `main`, every folder, every script, every source.
 
