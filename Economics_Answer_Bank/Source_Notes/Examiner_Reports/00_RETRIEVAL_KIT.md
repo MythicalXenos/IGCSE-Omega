@@ -42,7 +42,11 @@ The cover-checked inventory of incoming P1/P1R reports is
   retrieved/read. Its cover publication code is `4EC1_01_ER_2301`; question-by-
   question notes are at `2023-01_P1_ER.md`. The PDF is not yet stored locally:
   a command-line download failed at TLS, so the inventory records this
-  separately from the local incoming PDFs.
+  separately from the local incoming PDFs. The official P1 mark scheme was also
+  retrieved/read at Pearson; its cover identifies Paper 01 and QP log `P71555A`,
+  but its printed publication code anomalously reads `4EC1_02_MS_2301`. It is
+  not stored locally; details at `2023-01_P1_MS_Source_Audit.md`. Do not confuse
+  this with the distinct 01R mark scheme and its separate code/log discrepancy.
 - **January 2023 P1R:** official QP, MS and ER are all identified. QP and ER
   are incoming local files; the official MS was retrieved/read at Pearson but
   its PDF is not yet stored locally. A 24-item / 80-mark answer-bank supplement

@@ -25,8 +25,11 @@ Question-by-question notes: `Examiner_Reports/2023-01_P1_ER.md`,
 `Examiner_Reports/2023-11_P1_ER.md`, `Examiner_Reports/2024-11_P1_ER.md` and
 `Examiner_Reports/2025-06_P1_ER.md`. The January 2023 standard P1 ER is directly
 verified from Pearson (publication code `4EC1_01_ER_2301`) but its PDF is not
-stored locally yet; it is distinct from the P1R report. The January 2023 P1R
-QP/MS/ER source audit is at
+stored locally yet; it is distinct from the P1R report. The standard P1 MS was
+also directly retrieved/read but is not stored locally; its cover identifies
+Paper 01 and log `P71555A` while its literal printed code is `4EC1_02_MS_2301`.
+Preserve that discrepancy; see `Examiner_Reports/2023-01_P1_MS_Source_Audit.md`.
+The January 2023 P1R QP/MS/ER source audit is at
 `Examiner_Reports/2023-01_P1R_Source_Audit.md`; the June 2021 P1/P1R audit is
 at `Examiner_Reports/2021-06_P1_P1R_Source_Audit.md`. Pearson cancelled the
 May/June 2021 International GCSE exams, with the British Council confirming
