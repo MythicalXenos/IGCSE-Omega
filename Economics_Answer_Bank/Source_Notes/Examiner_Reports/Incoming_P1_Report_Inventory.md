@@ -10,11 +10,11 @@ copies are identified rather than counted as additional reports.
 | Exam session | Paper | Local file(s) | Verification / note |
 |---|---|---|---|
 | June 2019 | P1 | `4EC1_01_pef_20190822.pdf` | Cover/content: 4EC1/01, publication code `4EC1_01_1906_ER`. |
-| June 2019 | P1R | `4EC1_01R_pef_20190822.pdf` | Publication code and question-by-question content identify 01R; cover title conflicts. Preserve the discrepancy; do not relabel the source PDF. |
+| June 2019 | P1R | `4EC1_01R_pef_20190822.pdf` | Publication code `4EC1_01R_1906_ER` and question-by-question content identify 01R; cover title conflicts. Preserve the discrepancy; see the separate digest `2019-06_P1R_ER.md`; do not relabel the source PDF. |
 | January 2020 | P1 | `4EC1_01_pef_20200305.pdf` | Publication code `4EC1_01_ER_2001`. |
-| January 2020 | P1R | `4EC1_01R_pef_20200305.pdf` | Publication code `4EC1_01R_ER_2001`. |
-| November 2020 | P1 | `4EC1_01_pef_20210211.pdf` | Verified as November 2020 P1 by cover and contents; publication-code area is not legible in extracted text. |
-| November 2020 | P1R | `4EC1_01R_pef_20210211.pdf` | Verified as November 2020 P1R by cover and contents; publication-code area is not legible in extracted text. |
+| January 2020 | P1R | `4EC1_01R_pef_20200305.pdf` | Publication code `4EC1_01R_ER_2001`; separate digest `2020-01_P1R_ER.md`. |
+| November 2020 | P1 | `4EC1_01_pef_20210211.pdf` | Cover/content identify November 2020 4EC1/01 and the question sequence matches the local standard P1; publication-code field is the placeholder `xxxxxxxx*`, not an asserted code. See `2020-11_P1_ER.md`. |
+| November 2020 | P1R | `4EC1_01R_pef_20210211.pdf` | Cover/content identify November 2020 P1R; publication-code field is placeholder `xxxxxxxx*`, not an asserted code. Separate digest: `2020-11_P1R_ER.md`. |
 | November 2021 | P1 | `4EC1_01_pef_20220224.pdf` | Publication code `4EC1_01_2111_ER`. |
 | June 2022 | P1 | `4ec1-01-pef-20220825.pdf`; `4ec1-01-pef-20220825 (1).pdf` | Both copies have code `4EC1_01_2206_ER` and are byte-identical duplicates. |
 | June 2022 | P1R | `4ec1-01r-pef-20220825.pdf` | Publication code `4EC1_01R_2206_ER`. |
@@ -41,8 +41,12 @@ among the incoming local PDFs; its summary is in `2024-11_P1_ER.md`.
   International GCSE exams and the British Council stated they were not sat in
   any country. Pearson separately supplied optional unseen materials for TAGs,
   derived from intended live papers, but the exact match to this P1 QP is not
-  established. No exact ER was located; a secondary inventory’s omission is
-  not proof none was issued.
+  established. A local repository/archive/incoming-file recheck on 10 November
+  2026, completed before any new web retrieval, found no exact standard P1 ER;
+  the nearby November 2020, regional November 2020, and November 2021 reports
+  were excluded by cover/content identity. See `2021-06_P1_ER_Source_Gap.md`.
+  No exact ER was located; a secondary inventory’s omission is not proof none
+  was issued.
 - **June 2021 P1R:** Pearson’s final R timetable listed 4EC1/01R for 20 May
   before the cancellation. The live sitting was cancelled; exact QP/MS/ER are
   not located. Details and source links at `2021-06_P1_P1R_Source_Audit.md`.
@@ -51,8 +55,10 @@ among the incoming local PDFs; its summary is in `2024-11_P1_ER.md`.
   searches. For November 2024 P1R, a targeted search for the expected code and
   a check of Pearson’s current-style candidate URL ending
   `4ec1-01r-pef-20250123.pdf` returned no report / a Pearson 404 page. Pearson’s
-  12-month teacher-only policy and series release notices apply; search misses
-  and tested direct-URL 404s do not establish nonexistence.
+  policy restricts reports to centre teachers for 12 months after release: the
+  November 2025 reports are restricted until 27 Jan 2027 and the June 2026
+  reports until 25 Aug 2027. Search misses and tested direct-URL 404s do not
+  establish nonexistence; see the corresponding paper-specific gap notes.
 - This inventory is **not** a QP/MS/ER pairing update. Pairing requires matching
   the report to the exact session and paper, and the current archive CSV is
   intentionally scoped to archive-local files.

@@ -116,7 +116,7 @@ current search status and caveats.
 
 | Item | State |
 |---|---|
-| Specific recent-series P1/P1R ERs not located publicly | Search and tested direct URLs did not locate the exact November 2025 or June 2026 reports. Pearson scheduled the November 2025 International GCSE reports for 27 Jan 2026 and June 2026 reports for 25 Aug 2026; during the stated 12-month restriction these require centre Edexcel Online access. A search miss or 404 does not establish nonexistence. |
+| Specific recent-series P1/P1R ERs not located publicly | Search and tested direct URLs did not locate the exact November 2025 or June 2026 reports. Pearson scheduled the November 2025 International GCSE reports for 27 Jan 2026 and June 2026 reports for 25 Aug 2026; during Pearson’s currently stated 12-month restricted-access period these require centre Edexcel Online access. The November 2025 P1 report remained unlocated in the 10 Nov 2026 public search and remains within its 12-month restricted-access period until 27 Jan 2027; a search miss or 404 does not establish nonexistence. June 2026 P1 remains within its 12-month restricted-access period until 25 Aug 2027. See `Examiner_Reports/2025-11_P1_ER_Source_Gap.md` and `Examiner_Reports/2026-06_P1_ER_Source_Gap.md`. |
 | Grade boundaries / statistics | Public per series on the results page; not collected yet. |
 | Candidate scripts beyond the exemplar booklets | Never released. Pearson releases **no** full mark-scheme-annotated scripts for 4EC1. |
 | Examiner-only standardisation material | Never public. |

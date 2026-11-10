@@ -1,0 +1,5 @@
+# June 2026 4EC1/01 examiner-report source status
+
+**Checked 10 November 2026.** The exact June 2026 P1 examiner-report PDF is not held in the local incoming/archived report files. Pearson’s 29 May 2026 Economics update schedules International GCSE examiner reports for 25 August 2026 and states that assessment materials are restricted to centre teachers for 12 months after release, requiring Edexcel Online access during that period: `https://qualifications.pearson.com/en/news-policy/subject-updates/economics/june-2026-economics-update1.html`. June 2026 is within the 12-month restricted-access period on this check date, so this is an access restriction rather than evidence that no report exists. No report-specific findings are asserted. The scheduled report release was 25 August 2026; recheck after the 12-month access period ends on 25 August 2027, or when centre-authorised material is available.
+
+The June 2026 P1 constructed-answer draft therefore uses only the locally held exact QP and matching MS and is not ER-corroborated.

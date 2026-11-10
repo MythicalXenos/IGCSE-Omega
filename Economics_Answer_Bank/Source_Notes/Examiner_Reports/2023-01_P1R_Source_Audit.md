@@ -26,3 +26,7 @@ paraphrases/summaries of its indicative content are preserved in the supplement
 input; the builder does not download or independently re-verify the PDF. The
 record does not present those summaries as verbatim transcription. It does
 not add this paper to the Paperlords archive or pairing CSV.
+
+## Completed source review and constructed-answer coverage
+
+All 23 QP pages after the cover (PDF pp. 2–24) have now been visually reviewed. The bank has source-located prompt/context overrides for all 24 items and the QP/MS sequence totals 80 marks. A separate digest of the supplied local ER is at `2023-01_P1R_ER.md`; original unscored constructed responses are at `../Constructed_Answers/2023-01_P1R_Complete_Draft.md`. The digest is examiner feedback only; it is distinct from the constructed answers, which are unofficial, unscored and not guaranteed full marks.

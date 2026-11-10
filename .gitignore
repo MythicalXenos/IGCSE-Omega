@@ -44,6 +44,8 @@ Paperlords_Archive/Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip
 
 # Intermediate extraction scratch
 /tmp/
+.scratch/
+.venv/
 *.part
 
 # ---------------------------------------------------------------------------

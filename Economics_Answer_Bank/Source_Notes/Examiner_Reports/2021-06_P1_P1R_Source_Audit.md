@@ -66,10 +66,21 @@ the earlier timetable.
   `https://qualifications.pearson.com/en/news-policy/subject-updates/economics/april-2021-economics-update.html`
   March Economics update:
   `https://qualifications.pearson.com/en/news-policy/subject-updates/economics/March-2021-economics-update.html`
-- No exact standard P1 examiner report was located. The Save My Exams Paper 1
-  index and PMT Paper 1 index list June 2021 standard P1 QP/MS, but no P1R or
-  ER. Pearson’s current assessment-support page’s examiner-report example
-  tables start at May 2022 and do not show a June 2021 ER; those tables are not
+- No exact standard P1 examiner report was located. Before any new web
+  retrieval in the November 2026 continuation, the repository, local
+  `May-June_2021` QP/MS folder, and `uploads/Incoming_Economics_2026-11/` were
+  checked for the report and likely filename/code variants. The incoming P1
+  inventory has no June 2021 standard P1 report. Nearby-looking PDFs were
+  excluded by identity: `4EC1_01_pef_20210211.pdf` is the November 2020 report
+  with placeholder code, `4EC1_01_pef_20220224.pdf` is November 2021
+  (`4EC1_01_2111_ER`), and `4EC1_01R_pef_20210211.pdf` is regional, not
+  standard P1. No online report was fetched in that continuation. The bounded
+  local finding is recorded at
+  `2021-06_P1_ER_Source_Gap.md`; it is not proof that Pearson never issued an
+  ER. Earlier retrieval research found that the Save My Exams Paper 1 index
+  and PMT Paper 1 index list June 2021 standard P1 QP/MS, but no P1R or ER.
+  Pearson’s current assessment-support page’s examiner-report example tables
+  start at May 2022 and do not show a June 2021 ER; those tables are not
   stated to be a complete historical ER catalogue. These index omissions are
   retrieval evidence only, not official confirmation that an ER was never
   issued:
