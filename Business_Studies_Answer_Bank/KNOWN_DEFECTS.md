@@ -1,0 +1,556 @@
+# KNOWN DEFECTS — 4BS1 bank, archive and sources
+
+**Started 9 November 2026.** Every entry below was found by checking a document against another
+document, not by reading the bank's own prose. Each entry states the evidence, the consequence,
+and what was done about it. Nothing is fixed by assertion.
+
+---
+
+## D1 — June 2026 P1: the question paper and the mark scheme are not the same paper
+
+**Severity: high — it corrupts a whole By_Paper file. Status: contained, not fixable from here.**
+
+**Evidence.**
+
+| | Question paper | Mark scheme |
+|---|---|---|
+| File | `…_June_2026_P1_QP.pdf` | `…_June_2026_P1_MS.pdf` |
+| Cover code | 4BS1/01 | 4BS1/01 |
+| Log number | **P79457R** | **P79457A** |
+| Publication code | — | **4BS1_01_2606_MS** |
+| The business throughout | **Crumb** (20 mentions) | **Violet Cakes** (31 mentions) |
+| Final 12-mark stem | "Evaluate the extent to which quality will give **Crumb** a competitive advantage" | "…will give **Violet Cakes** a competitive advantage" |
+
+Both are genuine Pearson documents. They are not a pair. A normalised containment test puts the
+QP's 12-mark stem in the MS at **zero**; the two documents share **no** case name.
+
+**Consequence before the fix.** `Perfect_Answers/By_Paper/4BS1_June_2026_P1.md` reproduced the
+Violet Cakes mark scheme under the heading "June 2026 — Paper 1", so a candidate revising from it
+was reading answers to a paper they would never sit. Every internal check passed, because
+`verify_by_paper.py` verifies structure (26 items, 80 marks) and structure cannot see content.
+
+**What was done.** A warning banner now heads that file, and
+`audits/audit_archive_pairing.py` now tests every one of the 38 pairs by content. It is the first
+check in the bank that can fail on a mis-paired paper.
+
+**What is still unknown.** Which document is the misfiled one. The MS carries the standard
+publication code for the standard paper, which suggests the *paper* is the odd one — but the
+paper's own cover says 4BS1/01. Resolving this needs Pearson's 2026 examiner report, which is
+centre-gated until approximately August 2027. Until then the pair is treated as **unusable for
+question-specific revision**, and the MS content is retained only as general indicative content.
+
+---
+
+## D2 — Nine mark schemes print no question stems
+
+**Severity: low. Status: verified by case name instead.**
+
+May/June 2019 (all four papers), May/June 2020 (all four) and November 2021 P1 print answer
+content without restating the question. This is why `verify_by_paper.py` shows those files with
+no `**Question:**` lines — and it is correct behaviour, not a gap: **no question text was invented
+to fill the hole.** The pairing for all nine was confirmed by case name instead
+(Backyard Shoez, Lavender, Yellow, Tata, Loaf, TADS, HRMW, Emirates, Artify Studio).
+
+---
+
+## D3 — The May/June 2020 mark schemes are titled "November 2020"
+
+**Severity: cosmetic. Status: recorded.**
+
+Each May/June 2020 MS cover reads "November 2020" while the matching QP cover reads
+"Tuesday 2 June 2020". The content pairs correctly (HRMW appears 21 times in the QP and 24 times
+in the MS). Pearson appears to have published the 2020 series mark schemes under a November
+heading; the archive filename is not at fault. Do not "correct" the files.
+
+---
+
+## D4 — 148 verified exemplars rest on documents that are not in this repository
+
+**Severity: medium, and it is the bank's largest structural weakness. Status: partially verified.**
+
+`09_Verified_Tally.md` registers 148 full-mark scripts. Most are quoted from Pearson examiner
+reports that were read online and never stored, so **the register cannot be re-verified from the
+repository alone** — only its internal consistency can be (`tally_exemplars.py`, 148/148 rows
+resolve).
+
+**Re-measured 9 November 2026, row by row (`audits/audit_register_against_er.py`): of the 148
+rows, 82 trace to a printed score line in a document that is in this repository, 54 cite a report
+that is not held, 11 are the rejected half of a 1- or 2-mark pair and are correct as such, and 1
+names a June 2019 question the exemplar booklet does not cover. Zero rows were contradicted by
+the report they cite.**
+
+**What can be verified, was.** On 9 November 2026 the June 2022 4BS1/02R report was retrieved
+again from Pearson and compared to this bank's transcription of the Cadbury 1-mark pair. It
+matches **word for word**, including the examiner tip *"Try and avoid using the name of the
+scenario but include something that is related to the business… perhaps including chocolate cake
+designers"*. One load-bearing citation checked, one exact match. That is evidence for the method;
+it is not evidence for all 148 rows.
+
+**What would close it.** Store the published 4BS1 examiner reports for 2022, 2024 and 2025
+alongside the archive. **Retrieval from this environment is not possible** — see D5.
+
+---
+
+## D5 — The archive holds 5 of the ~15 published 4BS1 examiner reports
+
+**Severity: medium. Status: documented.**
+
+Local: May 2023 P1, P1R, P2, P2R and June 2026 P1R. Everything else in the bank's exemplar
+register was read from a report that is not stored. Pearson withholds examiner reports behind
+Edexcel Online for the first nine months after a series; the older ones are public.
+
+**Attempted and failed, 9 November 2026:** `curl`/`wget` to qualifications.pearson.com return
+HTTP 000; the qualification and exam-materials landing pages return 404 through the fetch tool;
+guessed direct-PDF names (`4bs1-02r-pef-20240822.pdf` and a 2025 equivalent) both 404; the
+pdfcoffee mirror returns 503; Scribd serves a stub only. The only files that resolve are the
+un-gated teaching materials, and those were retrieved.
+
+---
+
+## D6 — The stored June 2019 Paper 1 exemplar PDF has no text layer for its scripts
+
+**Severity: low for the reader, high for any automated quote check. Status: documented, workaround known.**
+
+`Sources/Official_Pearson/4BS1_Paper1_Exemplar_Commentaries_June2019.pdf` extracts the examiner
+comments as text but leaves **the candidate responses and the mark-scheme tables as images**. The
+same document served live by Pearson has both as text.
+
+Consequence: `audits/audit_quotes.py` will report every quoted candidate sentence from
+`2019-06_P1_Official_Exemplar_Booklet.md` as "not found", and it is wrong to read those misses as
+fabrication. The same applies to the Paper 2 booklet's stored copy, which is "selected pages"
+only.
+
+
+---
+
+## D7 — 77 citations do not use the question paper's own words (57 of them are the mark scheme's)
+
+**Severity: low to medium. Status: located, not yet fixed.**
+
+In `10_Chain_Bank.md`, 24 of 363 quoted questions put the mark scheme's expansion of an option
+inside the quotation marks attributed to the paper. On 9-mark justify questions the paper prints
+only a label (*"Option 1: casual employees"*); the scheme explains what that means (*"some
+employees like the option of being 'on call'"*). The bank quotes both as one sentence.
+
+**Verified against primary sources:** #193 (May 2023 P1R), #217 (May–June 2024 P2R), #224
+(June 2025 P2) — the substance is right in each case, the attribution is not.
+
+**Fix — done 9 Nov 2026.** The full list is written out in
+`Perfect_Answers/10a_Citation_Corrections.md`, item by item, with the paper's own wording beside
+each. The strict re-count found **77** citations that are not the paper's exact words: **57**
+option-label cases, **14** condensed stems and **6** read by hand. The earlier figure of 24 came
+from a looser test and is superseded by the 77. A note at the head of `10_Chain_Bank.md` now says
+so. **No answer needed rewriting, and no wrong question was found.**
+
+**Measured by** `audits/build_citation_corrections.py` and `audits/audit_question_quotes.py`.
+
+---
+
+## D8 — Pearson's own mark scheme contains an arithmetic error, and the bank copied it
+
+**Severity: low for the exam, high for learning. Status: FIXED 9 November 2026.**
+
+May–June 2020, Paper 2R, 1(a)(iii): a football costs 1,060 rupees, sells for 1,600. The correct
+answer, D = 50.94%, is right: (1,600 − 1,060) ÷ 1,060 × 100 = 50.94%.
+
+The distractor explanations are wrong:
+
+- *"1 600 / 1 060 = 15.09"* — the true value is 1.509, i.e. **150.94%**.
+- *"1 600 – 1 060 = 0.52 / 1 600"* — the true subtraction is **540**, giving 540 ÷ 1,600 × 100 =
+  **33.75%**, which is the figure the scheme prints.
+
+Verified against the printed PDF text, not the searchable index, so this is Pearson's error and not
+a scanning artefact. The bank had reproduced both lines verbatim.
+
+**Fix applied:** a correction note now sits under the two lines in
+`Perfect_Answers/By_Paper/4BS1_May-June_2020_P2R.md`.
+
+**Why it matters beyond this question:** it is the one place in 38 papers where "quoted verbatim
+from Pearson" and "arithmetically correct" pull in opposite directions. Every other calculation in
+the archive recomputes cleanly.
+
+---
+
+## D9 — `7 239 / 85 038` is a denominator typo in Pearson's own June 2022 Paper 2R scheme
+
+**Severity: low for the exam. Status: OPEN — logged, not corrected, because the graded answer is unaffected.**
+
+June 2022, Paper 2R, Q1(e): the scheme's working prints `7 239 / 85 038`, while the base figure in the
+same question is **85 083**. The graded outcome does not change, so this is a transcription slip in
+Pearson's own working, not a marking error. It is logged rather than "fixed" in the bank because the
+bank quotes the scheme verbatim; the note sits beside the quote.
+
+---
+
+## D10 — June 2022 Paper 1R Q3(d): the bank quoted half the answer and drew the wrong lesson
+
+**Severity: high for technique. Status: FIXED 12 November 2026.**
+
+The entry quoted the first paragraph of a 6/6 Analyse and described it as *"the negative chain… this
+reaches 6/6 on its own"*. **The scan shows two paragraphs — negative, then positive — and the examiner
+praises the candidate for having both:** *"the candidate has thought about the positives of customers
+using social media to review Can Culleretes and the negative effects as well."*
+
+A student following the old note would write a one-sided answer and lose half of what the examiner
+paid for. The second paragraph is now quoted, the claim is corrected in place, and the whole script is
+transcribed at `audits/corpus/transcripts/4BS1_01R_2206_3d.md`.
+
+**Why it was missed:** the answer is a scanned image. The PDF's text layer carries the examiner's
+comment and nothing else, so quoting "the script" meant quoting whatever had been read by eye, once.
+
+**Measured by** `audits/audit_quotes_vs_textlayer.py` — which now lists **52** further long quotes that
+are not in any report's text layer, i.e. read from scans, and which therefore need the same check.
+
+---
+
+## D11 — June 2022 Paper 1R Q1(g): the quote dropped a chain and called legible words illegible
+
+**Severity: medium. Status: FIXED 12 November 2026.**
+
+The bank's quote omitted the candidate's middle chain (*"higher production capability… produce more
+meals"*) and marked three words as unreadable (`[productivity]`, `[didn't]`, `[reduce]`) that read
+cleanly at 2× on the scan. Replaced with the full transcription, `[Although]` alone still supplied
+because the crop cuts it at the left margin.
+
+---
+
+## D12 — the extraction tool paired 42 script images with no score
+
+**Severity: tooling only. Status: FIXED 12 November 2026.**
+
+`audits/extract_scripts.py` finds each script image, renders it and attaches the score printed for it.
+Its first version paired **415 of 457**; the other 42 opened an answer booklet with no score line of
+their own, or had the score printed *above* the picture, or on the following page.
+
+**The fix applied here on 12 November 2026 was itself defective — see D19.** It added a walk forward
+of up to two pages and a look at the text above the picture, but it still had no idea which score
+belonged to which script, so it could hand a script the *next* question's mark, or one already used.
+**The count that this entry treats as progress (415 paired) was itself part of the problem: a wrong
+pairing looks exactly like a right one from the totals.** The current tool closes a run of pictures
+with the next score line inside the same question, records the span, and is verified by
+`verify_script_pairs.py`; **386 pairings now, every one with its score line found on the page it
+claims.**
+
+**The rule this repeats:** a tool that reports a gap where there is none is worse than no tool — and
+a tool that reports a *pairing* where there is none is worse again, because the number goes up.
+
+---
+
+## D13 — every script quote in the bank was presented as if it came from the report's text
+
+**Severity: high — this is the bank's own labelling rule, broken 352 times. Status: FIXED 12 November 2026.**
+
+Pearson prints each marked script as an **image**. The report's text layer carries the examiner's
+commentary and, usually, the question — **not the candidate's answer**. So a quote from a script is
+almost always a **transcription**, and the bank's rule (in `00_Pearson_Official_Rulebook.md`) says a
+transcription must say so. **Two quotes in the entire bank said so.**
+
+`audits/audit_quotes_vs_textlayer.py` was rewritten to attribute each quote to the report it belongs
+to by walking the file for the last citation line, rather than skipping any file that quotes more
+than one report. Before the rewrite it **skipped 20 of the 20 consolidated files**, including
+`02_Verified_Exemplars.md` and `10_Chain_Bank.md` — the two files holding most of the bank's long
+quotes. Its "0 unsupported" result was therefore vacuous.
+
+**What the fixed tool found, at 25+ words:**
+
+| Where the quote's words actually are | Quotes |
+|---|---|
+| in the held report's text layer (checked, ~100% of 6-word runs found) | the majority |
+| **not** in the text layer, report held → script image | **157, now labelled** |
+| **not** in the text layer, report **not held** in text form at all | **241, now labelled** |
+| quote sits above any line naming a session and paper | 17, **not checked** |
+| files that are not script banks (library, rulebook, tally) | excluded |
+
+Two labels are used, and they say different things:
+
+* `[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]`
+* `[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]`
+
+**The second label is not a clean bill of health.** It says the bank cannot prove the quote in this
+repo. The sessions affected are **June 2019, June 2020, November 2020, June 2022 Paper 2, November
+2021, November 2023, November 2024 and June 2024 Paper 2R** — all cited in the bank, none held as
+text. Verification of those needs the printed page, not a grep.
+
+**Verified by eye while fixing this:** the Cadbury 0-mark quote (`2022-06_P2R_Cadbury.md`, Q1(d),
+p. 8 of `4BS1_02R_2206_ER_full.pdf`) matches the handwriting word for word, including
+*"reputation"*, which reads ambiguously in the scan. The transcription was sound; the **label** was
+what was missing. That distinction matters — the defect was provenance, not accuracy.
+
+**One false alarm found and removed while doing this:** attributing quotes by any prose mention of a
+month pulled 23 quotes from `06_External_Source_Library.md` (news articles, not scripts) into a
+Pearson report and reported them as unsupported. Attribution now accepts only citation-shaped lines,
+and the non-script files are excluded.
+
+**Follow-up, same day.** Two more attribution bugs were found and fixed while sweeping the files the
+first pass could not read: a heading that names only the session (`# May/June 2023 · the four
+papers`) was discarded instead of carried, and `P1_ER.pdf`-style filenames were not recognised as a
+paper. Fixing them moved 24 quotes from "unchecked" into "checked", which is why the totals above
+read **157** and **17** rather than 133 and 45.
+
+**Register damage, and the fix.** Every inserted label shifted the citations below it: 96 rows
+first, then 119 once the second batch landed. Three repair heuristics were tried and each made it
+worse -- the last one moved rows onto a *different script with the same question number* in a
+neighbouring section, and the register started failing on paper as well as line. The working tool is
+`audits/resync_register.py`, and it does no searching: it takes the register as it stood before the
+labels (`git show 1f38eb2`) and adds the count of label lines above each cited line. Arithmetic on a
+known diff. `tally_exemplars.py` then verifies it independently against the files.
+
+---
+
+## D14 — 174 multiple-choice items credited an answer without printing the options
+
+**Severity: high for revision use, zero for doctinal accuracy. Status: FIXED 12 November 2026.**
+
+A 4BS1 paper has eight one-mark multiple-choice questions per paper (some sittings six). The mark
+scheme prints:
+
+> *"AO1 - 1 mark. The only correct answer is C. A is not correct because personal savings are an
+> internal source of finance…"*
+
+and nothing else — the options live on the question paper. The bank copied the scheme, so the item
+read **"the answer is C"** to a reader who had never been shown A, B or D. **174 items across 38
+papers** were like this.
+
+`audits/qp_stems.py` now reads the four options from the QP (`A\t Personal savings`), and
+`audits/repair_mcq_options.py` writes them under the question, plus the credited option in words:
+
+```
+**Options:** A · Personal savings · B · Retained profit · C · Bank loan · D · Selling assets
+
+**Credited option:** **C · Bank loan**
+```
+
+**Guard:** only 1-mark items; only where the paper prints exactly four options; only where the
+scheme names a letter; and the letter must appear among the paper's options — **0 cases** where it
+did not. Where the scheme is silent, nothing is inserted.
+
+The words next to the letter are the paper's, not the scheme's. That is a deliberate mix: **the
+letter is Pearson's, the wording is Pearson's, but the pairing is done here**, so the line is
+labelled as a *credited option* rather than as a quotation.
+
+---
+
+## D15 — 19 mark-scheme answers stopped mid-sentence at the column edge
+
+**Severity: medium. Status: FIXED 12 November 2026.**
+
+The By_Paper files were built from a text index of the mark schemes, and the index drops a
+sentence's tail when it crosses a column edge. The stored answer read:
+
+> *"Award 1 mark for identifying one reason why IKEA would read government reports, plus 1 further
+> mark for linking it to the context of the"*
+
+The PDF continues *"question."*, and elsewhere the lost word is *"mark"* (*"…will get 1"* should be
+*"…will get 1 mark"*). `audits/repair_truncated_answers.py` finds each cut by its last six words in
+the real mark-scheme PDF and appends what follows, to the end of that sentence — **19 items, 6 of
+them missing only the word "mark"**.
+
+**Guards, because this is exactly the class of edit that invents text:** the cut phrase must occur
+**exactly once** in the paper's mark scheme; the edited line must be the **last** line of its
+answer; the appended text is capped at 220 characters; and the extension stops at the scheme's own
+`(1) Question Number` row marker so it cannot swallow the next question. Nine further candidates
+were left alone and reported rather than guessed — one of them (*"worked out revenue instead of
+marks for"*) is corrupted in a way that cannot be repaired from the tail.
+
+---
+
+## D16 — a label is a claim too: two labels were wrong, and one quote was misread
+
+**Severity: medium. Status: FIXED 12 November 2026.**
+
+Labelling 157 quotes "read from the printed script image" is only honest if each one really is
+absent from the text layer, so the tool gained an `--unlabel` mode that re-checks every label and
+deletes it when the report's text layer **does** carry the words. It found two.
+
+One was the Café Pinch examiner comment (*"This response shows what is expected from candidates…"*),
+which Pearson prints in text on p. 21 of `4BS1_01R_2406_ER_full.pdf`. It had been labelled
+unverifiable. **A false label is the same class of defect as a missing one** — it tells the reader
+not to trust a quote that is, in fact, verbatim.
+
+Reading that same page also produced a genuine correction. The transcription of the 9/9 read
+*"it would be costly for Cafe Pinch to introduce this **vegetarian**"*; the scan reads *"this **vegan
+range**"*. **That is not a typo, it is a different concept** — the question is about a vegan range,
+and "vegetarian" belongs to a different part of the specification. Corrected in place with a dated
+note; the rest of the three paragraphs and the conclusion match the scan word for word.
+
+**Three quotes have now been checked by eye against the page, chosen because they carry the most
+weight in the bank:** the Cadbury 0-mark answer (p. 8, June 2022 02R), the PPS 12/12 (p. 38, June
+2024 01) and the Café Pinch 9/9 (pp. 20–21, June 2024 01R). **All three transcriptions were sound
+apart from that one word.** The pipeline reads handwriting well; it needed labels, not repair.
+
+---
+
+## D17 — the MS-vs-QP checker was comparing a truncated quote with a full one
+
+**Severity: tooling only, plus one real finding. Status: FIXED 13 November 2026.**
+
+`check_ms_qp_agreement.py` reported **5 mismatches** for two months. Four were false:
+
+| Paper | What the tool compared |
+|---|---|
+| May-June 2024 P1 | MS: *"…keep its market share. **You should use the information provided…**"* vs QP: *"…keep its market share. You should use"* — the QP extractor stops at `You should use`, so the schemes were always ~15 words longer. Similarity 0.75 was arithmetic, not a disagreement. |
+
+The comparison now cuts both stems at `You should use`. **Four of the five vanish; the remaining
+similarities are 0.96–1.00.**
+
+**Two differences are real, and both are now read rather than inferred:**
+
+1. **June 2026 P1** — the paper prints **Crumb** (owner Alex), the scheme prints **Violet Cakes**
+   (owner Claire). Already documented; the paper is an amended edition.
+2. **May-June 2022 P1R** — **new finding.** The mark scheme says *"fund the opening of **Can
+   Culleretes**"*; the paper, p. 18, says *"fund the opening of **Can Café**"*, a **second, smaller
+   premises** the restaurant is opening. The scheme is loose, not swapped — but any answer that
+   writes *"fund the opening of Can Culleretes"* is answering a question that was not asked.
+   `By_Paper/4BS1_May-June_2022_P1R.md` already carries the paper's wording; it was checked.
+
+Both are recorded in the tool as `KNOWN_DIFFERENT` **with the reason**, so the check still fails on
+anything new: a genuinely swapped MS/P1R pair would now be the only thing that trips it.
+
+---
+
+## D18 — the count of "scripts worth 6+ marks" was counting pages, not scripts
+
+**Severity: high for every transcript claim in the bank. Status: FIXED 13 November 2026.**
+
+`extract_scripts.py` finds one picture per page. **When a candidate writes across a page break,
+Pearson prints the answer as two pictures and reprints the same ResultsPlus comment after the second
+one** — so the manifest recorded two entries with the same question, the same mark and the *same*
+comment. That is one script, counted twice.
+
+Found on **June 2025 P1R Q2(f)**: pages 25 and 26 both carry the identical 399-character comment
+(*"This is a strong response that effectively covers the mark band criteria…"*), and pages 27 and 28
+both carry the identical 0-mark comment. **Four entries, two scripts.**
+
+`extract_scripts.py` now records the span itself: the pictures between one score line and the next are
+one script, and `merge_script_spans.py` counts those. The older evidence — **the same comment
+reprinted** — is kept only as a fallback, because a continuation page usually carries the page footer
+instead of the comment.
+
+| | page count | scripts |
+|---|---|---|
+| page entries / scripts | 457 | **390** |
+| worth **6+** marks | 73 | **67** |
+| spans merged | — | 65 |
+
+**And a correction inside the correction:** the Starbucks 7/9 in `4BS1_02_2506` Q2(f) was first
+recorded here as spanning pages 18–20. **It spans 19–20.** The picture on p. 18 is the last page of
+the *2(e)* answer above it — the old pairing had put it in the 2(f) script because it searched by
+proximity, not by question. The write-up in `2025-06_Series_CCT_Starbucks_Rabanne.md` cites no page
+number, so it needed no correction.
+
+**What this does NOT change:** the register. `audit_er_fullmarks.py` matches **37 printed full-mark
+scripts to 37 register rows**, because a register row names a *script*, not a page — and it reads its
+marks from the report's text directly, not from this manifest.
+
+*Updated 13 November 2026, after D19 was fixed.* The first version of this entry reported 408 scripts
+and 52 worth 6+ marks, computed from a manifest whose marks were themselves wrong. With the pairing
+fixed the count is **390 scripts, 67 of them worth 6+ marks**. The direction of the error is worth
+keeping in mind: **fixing the pairing raised the big-script count, because the old pairing had been
+handing some scripts a smaller mark than the one printed for them.**
+
+---
+
+## D19 — a script's mark could be another script's mark
+
+**Severity: high — it produced a published, wrong diagnosis. Status: FIXED 13 November 2026.**
+
+`extract_scripts.py` paired each picture with the nearest text block, and when it found no score
+there it **walked forward up to two pages** and took the first score it met. Three faults followed:
+
+1. **No ownership of score lines.** One score could be used twice, or by the wrong script.
+2. **No question boundary.** A 6-mark question's script could take the next question's 9.
+3. **No backward search.** Pearson often prints the score *above* the script, on the previous page.
+
+What that did, in the manifest as committed:
+
+| script | printed score | manifest said |
+|---|---|---|
+| `4BS1_01_2406` Q3(d), a **6-mark** question | 6 | **9** (Q3(e)'s) |
+| `4BS1_01R_2406` Q4(b), a **6-mark** question | 6 | **12** (Q4(c)'s) |
+| `4BS1_01R_2506` Q2(f) pp. 27–28 | **0** | **8** (the previous script's) |
+| `4BS1_01_2306` Q4(a), a **2-mark** calculation | — | **6** |
+| `4BS1_02_2306` Q2(e), a **3-mark** question | 3 | **7** |
+
+**How it was caught.** A new falsifier, `audits/check_script_marks_vs_qp.py` (now
+`verify_script_pairs.py`), checks each manifest mark against the **tariff the question paper prints**.
+A script cannot score 12 on a 6-mark question. It found **19** impossible marks on the committed
+manifest. Two of them led by eye to the layouts above.
+
+**The fix.** The extractor now walks each report as a **stream**: pictures accumulate, and the next
+score line closes them — but only within one question, and the question is tracked from the
+`Question N (x)` headings *in the text stream*, not from the page. A score printed above a script
+attaches to the pictures that follow it. Each script's page span is recorded on its first entry
+(`"span"`), and `merge_script_spans.py` counts those instead of guessing from reprinted comments.
+
+**The damage it did — and this is the part that matters.** The bank had published, in three places, a
+diagnosis of the **June 2025 P1R 11/12 (Q4(c), CCT)**: that Pearson printed *no* comment for the
+script, and that the missing twelfth mark was because the conclusion contradicted the counter-argument
+above it. **Both halves were wrong.** The comment is on report p. 54, and it praises the conclusion
+(*"particularly effective, making a clear judgement for AO4"*), attributing the missing mark to
+*"more sophisticated application of the 'it depends rule'"*. The extractor had attached that comment
+to the picture on the next page. **The invented diagnosis has been withdrawn from
+`External_Exemplars/2025-06_P1R_CCT.md`, `03_Calibration_Below_Full_Marks.md` and the transcript.**
+
+**The rule this adds:** a score is a *property of a script*, not of a page. Any tool that pairs one
+with the other must be able to show which page the score was printed on — and
+`verify_script_pairs.py` now refuses to pass a pairing whose score line cannot be found on the page it
+claims.
+
+---
+
+## The manifest check was wrong twice, in opposite directions, and the second error hid four real gaps
+
+**Looked at:** `tally_exemplars.py`, the SCRIPT MANIFEST block, against
+`audits/corpus/scripts_merged.json` (200 full-mark scripts across 14 reports).
+
+### The false fault
+
+The check compared manifest scripts to register rows by splitting the row's label on `|` and
+matching `P2R Q2(f)`-style text. The register **bolds** many of those cells, so the pattern never
+fired on rows written as `` **P2R Q2(f)** ``. The run therefore reported **six** full-mark scripts as
+unregistered, and a ledger table was written into `09_Verified_Tally.md` describing all six as
+"printed at full marks, body not yet held". **Five of the six had been register rows for months**
+(two 9/9s and three 6/6s). Two duplicate transcripts were written before the cause was found, and
+have been deleted: the passages were already in `02_Verified_Exemplars.md` and in
+`External_Exemplars/2023-05_Series_Irsi_AudeRose_IKEA_MM.md`, and a second copy of a quotation is a
+divergence waiting to happen.
+
+**The fix is one line** — strip `*` and `` ` `` from the cells before matching. Markdown is
+presentation; a checker that reads presentation as data invents facts.
+
+### The real gaps, found only after the false ones were cleared
+
+The key was then **paper + question**. That is the same paper-blind key this bank's own notes warn
+about three times: the **May/Jun 2023** row for *P2R Q3(d)* silently answered for the **June 2022**
+*P2R Q3(d)* (`4BS1_02R_2206`, p. 34/36, 6/6), which the bank has never held. **A loose key does not
+only produce false faults; it hides real ones.** The key now carries the **report**, read from the
+register's own Session cell.
+
+Four further 6/6s surfaced, all previously masked by 6-mark questions of the same number in other
+series: `4BS1_01_2406` P1 4(b), `4BS1_01R_2406` P1R 1(g) and 4(b), `4BS1_01R_2506` P1R 4(b). All six
+are now rows of the "BODY NOT YET HELD" ledger rather than unexplained absences.
+
+### And the floor the check had never stated
+
+**The manifest enumerates 200 full marks across fourteen reports; 117 of them are register rows.**
+The other 78 are **45 at 1/1, 24 at 2/2 and 9 at 3/3** — the small-mark scripts the register has never
+claimed to hold. The run now prints that number rather than absorbing it. **It is a measurement, not a
+pass, and it is now impossible to read the run and believe the register covers the manifest.** (The
+register's 155 rows are *not* 200 minus 77: 23 of them come from June 2019 and June 2026, which the
+manifest does not cover, and the manifest counts script entries rather than distinct questions —
+`4BS1_02_2406` 2(a) is listed twice.)
+
+**The rule this adds:** a completeness check has to state the **scope** it is complete within, and a
+key has to be at least as specific as the claim it is testing. This one was too loose to be correct
+and too strict to be true, at the same time.
+
+### Found by the same sweep: one cohort quotation was not verbatim
+
+`audits/audit_transcripts.py` fails one of the thirty examiner-quote fragments it checks, and had been
+failing it on `main` before this pass. The TBTS 12/12 transcript quoted the June 2022 P1 cohort
+paragraph as *"the importance of good communication"*; the report says *"the importance of good
+**internal and external** communication"*, and the quotation also ran the report's last two sentences
+into one. **This is the ordinary failure mode of transcription — words that are implied get supplied** —
+and it is exactly why the fragment check exists. Corrected in
+`audits/corpus/transcripts/4BS1_01_2206_4c.md` with a dated note and an ellipsis for the omitted
+sentences; the audit now passes 30/30.

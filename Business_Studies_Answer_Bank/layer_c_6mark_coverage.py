@@ -1,0 +1,119 @@
+#!/usr/bin/env python3
+"""Layer C — 6-mark Analyse coverage, checked against the derived inventory.
+
+WHY THIS EXISTS
+---------------
+The 3-mark tier was tracked by a `COVERED` map and that map drifted: Batch 5b
+was recorded as covering twelve blocks when it covered eight, and four blocks
+sat uncovered until the block file was read against the entry list by hand.
+**A hand-carried coverage claim is how a question quietly goes missing.**
+
+So the map below is checked in BOTH directions every run:
+  * every block in the derived inventory (114, from the mark schemes) must map to
+    an entry, or it is printed as REMAINING;
+  * every entry number named here must actually exist as a heading in
+    `10_Chain_Bank.md`, or it is printed as a DANGLING reference.
+
+Run from Business_Studies_Answer_Bank/. Never re-type the totals by hand.
+"""
+import csv
+import pathlib
+import re
+import sys
+
+HERE = pathlib.Path(__file__).resolve().parent
+BANK = HERE / "Perfect_Answers" / "10_Chain_Bank.md"
+INV = HERE / "layer_c_6mark_inventory.csv"
+
+# block number -> entry number in 10_Chain_Bank.md
+COVERED = {
+    # June 2026 — entries 101-112, in block order
+    **{b: 100 + b for b in range(1, 13)},
+    # May-June 2019
+    13: 113, 14: 114, 15: 115, 16: 116, 17: 117, 18: 118, 19: 119,
+    20: 128, 21: 129, 22: 130, 23: 131, 24: 111,
+    # May-June 2020
+    25: 120, 26: 131, 27: 121, 28: 122, 29: 123, 30: 124,
+    31: 125, 32: 117, 33: 126, 34: 131, 35: 120, 36: 127,
+    # May-June 2021
+    37: 132, 38: 117, 39: 115, 40: 133, 41: 134, 42: 135,
+    # May-June 2022
+    43: 136, 44: 129, 45: 137, 46: 138, 47: 139, 48: 118,
+    49: 122, 50: 140, 51: 141, 52: 108, 53: 114, 54: 142,
+    # May-June 2024  (P1R first, then P1 - the archive's MS files for this
+    # session were filed under each other's names until 2026-10-14; the blocks
+    # were corrected, and these entries follow the content, not the old labels)
+    # ⚠️ May-June 2024 — read this before touching the numbers. The block number is an index
+    # into layer_c_6mark_blocks.txt. The inventory was once frozen to a dump taken BEFORE the
+    # two misnamed May/June 2024 mark schemes were renamed, so its 55-60 were the reverse of
+    # the block file's, under paper labels that were wrong in the other direction. Both files
+    # are now regenerated from the current dump (build_layer_c_6mark_inventory.py, which did
+    # not exist and was replaced - it wrote the 9-mark CSV). Content and entry agree:
+    #   55 Cafe Pinch 1(g) motivated employees -> 139 ;  58 PPS 1(g) gross profit margin -> 118
+    #   56 Cafe Pinch 3(d) measuring success   -> 144 ;  59 PPS 3(d) reliable research   -> 143
+    #   57 Cafe Pinch 4(b) market segmentation -> 145 ;  60 PPS 4(b) importance of cash  -> 123
+    # verify_chain_bank_anchors.py scores every one of these against the scheme's own AO text.
+    55: 139, 56: 144, 57: 145, 58: 118, 59: 143, 60: 123,
+    61: 116, 62: 146, 63: 147, 64: 111, 65: 135, 66: 148,
+    # May-June 2025
+    67: 149, 68: 150, 69: 151, 70: 152, 71: 150, 72: 153,
+    73: 108, 74: 154, 75: 142, 76: 155, 77: 156, 78: 127,
+    # May 2023
+    79: 139, 80: 157, 81: 144, 82: 125, 83: 117, 84: 158,
+    85: 129, 86: 159, 87: 160, 88: 161, 89: 162, 90: 114,
+    # November 2021
+    91: 135, 92: 118, 93: 163, 94: 122, 95: 164, 96: 165,
+    # November 2023
+    97: 166, 98: 167, 99: 119, 100: 168, 101: 154, 102: 112,
+    # November 2024
+    103: 169, 104: 170, 105: 108, 106: 112, 107: 139, 108: 171,
+    # November 2025
+    109: 172, 110: 163, 111: 123, 112: 146, 113: 173, 114: 174,
+}
+
+
+def main() -> int:
+    rows = list(csv.DictReader(INV.open(encoding="utf-8")))
+    total = len(rows)
+    bank = BANK.read_text(encoding="utf-8")
+    entries = {int(m.group(1)) for m in re.finditer(r"^## (\d+)\.", bank, re.M)}
+
+    remaining = [r for r in rows if int(r["n"]) not in COVERED]
+    dangling = sorted({e for e in COVERED.values() if e not in entries})
+    orphan = sorted({b for b in COVERED if b > total})
+
+    print("6-MARK ANALYSE — COVERAGE")
+    print("-" * 58)
+    print(f"blocks in the tier        : {total}")
+    print(f"blocks covered            : {total - len(remaining)}")
+    print(f"REMAINING                 : {len(remaining)}")
+    print(f"entries in 10_Chain_Bank.md           : {len(entries)}")
+    if dangling:
+        print(f"\n*** DANGLING entry references: {dangling}")
+    if orphan:
+        print(f"*** Block numbers past the end of the inventory: {orphan}")
+
+    if remaining:
+        print("\nREMAINING BLOCKS")
+        print("-" * 58)
+        for r in remaining:
+            print(f"  [{r['n']:>3}] {r['session']:<15}{r['paper']:<4}{r['question']:<6} "
+                  f"{r['stem'][:88]}")
+    # `remaining` MUST be in the verdict. This script printed REMAINING and then
+    # returned 0 however large that number was: a coverage check that cannot fail
+    # on a lack of coverage. Found 14 Oct 2026 while auditing which checks were real.
+    problems = []
+    if remaining:
+        problems.append(str(len(remaining)) + " block(s) uncovered")
+    if dangling:
+        problems.append("dangling entry reference(s): " + str(dangling))
+    if orphan:
+        problems.append("block number(s) past the end of the inventory: " + str(orphan))
+    print()
+    print("RESULT:", "OK - every 6-mark block maps to an entry in 10_Chain_Bank.md."
+          if not problems else "FAIL - " + "; ".join(problems))
+    return 0 if not problems else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -2,6 +2,26 @@
 
 Created 2026-10-12 from the Paperlords searchable archive and official Pearson materials.
 
+## ⭐ Perfect Answers bank
+
+`Perfect_Answers/` is the benchmark library of verified top-band answers for this subject — real student scripts reproduced by Pearson with the awarded mark printed alongside, plus the examiner's reasoning for every mark given and lost.
+
+Start here:
+
+- **`Perfect_Answers/README.md`** — the bank's own front page: what it is, the labelling contract, and the coverage table.
+- **`Perfect_Answers/10_Chain_Bank.md`** — ⭐⭐ **252 model answers covering every governed question in the qualification.** Look up the question you have been set.
+- **`Perfect_Answers/01_Mark_Tariff_Playbook.md`** — the rules for every tariff (1/2/3/6/9/12), with AO splits, level bands and literal opening sentences.
+- **`Perfect_Answers/00_Pearson_Official_Rulebook.md`** — Pearson's own published marking guidance, by command word. Where anything else disagrees with this, this wins.
+- **`Perfect_Answers/02_Verified_Exemplars.md`** — the verified full-mark scripts, transcribed in full: **47 × 3/3 · 28 × 6/6 · 16 × 9/9 · 5 × 12/12**, each with its session, paper, question, score and report page. **The 1- and 2-mark tier is held separately, in two files** — `Perfect_Answers/External_Exemplars/2023-05_Series_One_and_Two_Mark_Pairs.md` and `2026-06_P1R_One_Mark_Pairs.md` — **ten scripts in five and five pairs, the only places in the bank where a 0-mark script is transcribed beside the full-mark one, with an examiner comment on each.** ⚠️ **The archive prints 80 scripts for this tier; 67 are not yet transcribed — `08_`, open item 6.**
+- **`Perfect_Answers/03_Calibration_Below_Full_Marks.md`** — near-miss scripts with the examiner's stated reason for every mark lost.
+- **`Perfect_Answers/11_Self_Marking_Protocol.md`** — ⭐ **the sheet to run over your own practice answers**: five passes, one card per tariff, and every rule cited by number.
+- **`Perfect_Answers/08_Completion_Map.md`** — what "complete" means here, what is finished, what is not, and the 25 checks that verify it.
+- **`Perfect_Answers/Exemplar_Scans/`** — the genuine candidate scripts as page images.
+
+Every answer in that folder carries one of **three** labels: `[VERIFIED CANDIDATE EXEMPLAR]` (a real script, score confirmed by Pearson), `[OFFICIAL MARK-SCHEME WORKED ANSWER]` (Pearson's own indicative content, quoted verbatim, not a candidate script), or `[CONSTRUCTED GRADE 9 TARGET]` (engineered from the mark scheme, not official, never given a score). No constructed answer is ever described as official, and a check fails if any model answer is unlabelled.
+
+**Everything is verified by 28 checks** run from `Business_Studies_Answer_Bank/` — see `Perfect_Answers/08_Completion_Map.md`.
+
 ## Deliverables
 
 - `4BS1_Exemplar_and_Model_Answer_Guide.docx` — main reader-friendly guide: mark-format map, first-sentence starters, official student scripts/marker comments, and constructed full-credit targets where no full-mark script was located.

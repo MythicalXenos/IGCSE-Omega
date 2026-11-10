@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+
+# ---------------------------------------------------------------------------
+# Oversized source archive — intentionally NOT committed
+# ---------------------------------------------------------------------------
+# Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip is 112,136,376 bytes
+# (~106.9 MiB), which exceeds GitHub's hard per-file limit of 100 MiB.
+#
+# This file is fully reconstructible, so nothing is lost:
+#   sha256 : dd7019de06bc4f9b81a3641062bd93d2d10b27edb32ac4070c838c33fa3cea6b
+#   source : bundle_part_aa + bundle_part_ab (tracked in this repo)
+#   unpack : `cat bundle_part_aa bundle_part_ab > master.zip && unzip master.zip`
+#
+# All 220 archive entries (217 PDFs + manifest.csv, recovery_notes.csv,
+# README.txt) are extracted into Paperlords_Archive/IGCSE/ and
+# Paperlords_Archive/RECOVERED_ALTERNATIVES/ and ARE tracked normally.
+#
+# The bundle was ALSO committed a second time as seven 20 MiB parts named
+# bundle_part_aa.txt ... bundle_part_ag.txt - the same payload chunked
+# differently. That was verified on 14 Oct 2026, not assumed:
+#
+#   cat bundle_part_aa.txt bundle_part_ab.txt bundle_part_ac.txt \
+#       bundle_part_ad.txt bundle_part_ae.txt bundle_part_af.txt \
+#       bundle_part_ag.txt | sha256sum
+#   -> a66d301fe9d525a3197c7d8ca7606f7936ea01c116ff8c6dbdff9056f577d44b
+#
+# which is the same hash, and the same 132,690,284 bytes, that the two binary
+# parts produce. Nothing in this repo referenced the .txt parts, and two
+# byte-identical copies of a 126.5 MiB deliverable are not redundancy worth
+# carrying, so they were deleted (reclaiming 126.5 MiB of the repo). They are
+# still in the history if ever needed:
+#
+#   git show 304db7a:bundle_part_aa.txt | head -c 32
+#
+# Because the .txt set was produced by the same split as the delivered bundle,
+# its parts are NOT separately reconstructible - deleting any of them would have
+# destroyed the copy. That is precisely why the duplicate was removed whole
+# rather than partially.
+Paperlords_Archive/Paperlords_All_IGCSE_Archive_4EC1_4BS1_4EB1.zip
+
+# Intermediate extraction scratch
+/tmp/
+*.part
+
+# ---------------------------------------------------------------------------
+# Rendered examiner-report scans — regenerable, and 177 MB if kept
+# ---------------------------------------------------------------------------
+# Every PNG under audits/corpus/scripts_png/ is produced from the stored PDFs by
+#   python3 audits/extract_scripts.py --all
+# which rebuilds the whole set (457 images, ~1 minute) and rewrites
+# audits/corpus/scripts.json. Keeping them in Git would treble the repository for
+# files that are a pure function of what is already committed.
+Business_Studies_Answer_Bank/audits/corpus/scripts_png/
