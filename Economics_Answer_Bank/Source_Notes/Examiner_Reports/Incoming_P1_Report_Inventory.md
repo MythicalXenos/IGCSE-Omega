@@ -48,9 +48,11 @@ among the incoming local PDFs; its summary is in `2024-11_P1_ER.md`.
   not located. Details and source links at `2021-06_P1_P1R_Source_Audit.md`.
 - **November 2024 P1R, November 2025 P1/P1R and June 2026 P1/P1R:** exact
   reports were not located in unauthenticated public access in the current
-  searches. Pearson’s 12-month teacher-only policy and series release notices
-  apply; search misses and tested direct-URL 404s do not establish
-  nonexistence.
+  searches. For November 2024 P1R, a targeted search for the expected code and
+  a check of Pearson’s current-style candidate URL ending
+  `4ec1-01r-pef-20250123.pdf` returned no report / a Pearson 404 page. Pearson’s
+  12-month teacher-only policy and series release notices apply; search misses
+  and tested direct-URL 404s do not establish nonexistence.
 - This inventory is **not** a QP/MS/ER pairing update. Pairing requires matching
   the report to the exact session and paper, and the current archive CSV is
   intentionally scoped to archive-local files.
