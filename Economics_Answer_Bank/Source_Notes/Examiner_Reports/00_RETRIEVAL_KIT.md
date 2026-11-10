@@ -1,114 +1,110 @@
-# Examiner reports — retrieval kit
+# Examiner reports — retrieval and status guide
 
-Goal: get the ~24 ERs we do not hold. Verified working, 2026-11-10.
+Status checked 2026-11-10. This is a Paper 1-first research aid, not a claim that
+all reports have been found or that a search miss proves nonexistence.
 
----
+## Access and publication status
 
-## Why most are missing
+Pearson’s Qualification and Assessment Publication Policy and its June 2026
+Economics update state that exam materials, including examiner reports, are
+restricted to Pearson-centre teachers for 12 months after an exam series and
+require Edexcel Online access during that period. Pearson’s updates scheduled
+International GCSE reports for November 2025 on 27 January 2026 and June 2026
+on 25 August 2026. Those schedule notices do not establish that a specific
+4EC1 Paper 1 or Paper 1R report is publicly retrievable. Exact reports for those
+recent series remain unlocated in unauthenticated public access as of this check.
+A direct URL 404 or search miss is not evidence that a report was never issued.
 
-Pearson locks ERs for **nine months** after a series. After that they are public
-and free — no login. So the only genuinely unobtainable one right now is
-**June 2026** (public from ~March 2027).
+Pearson’s Summer 2021 announcement and a contemporaneous British Council
+notice establish that the International GCSE May/June exams were cancelled and
+were not sat globally; Economics’ own March update confirms the subject was
+included. The standard P1 QP/MS are extant and paired by QP log `P65896A`, but
+the sources checked do not establish whether that exact paper was among the
+unseen materials Pearson supplied for Teacher Assessed Grades. Its ER is **not
+located**. Pearson’s final R timetable had listed 4EC1/01R for 20 May before
+cancellation; its exact QP/MS/ER remain **not located**. See
+`2021-06_P1_P1R_Source_Audit.md` for Pearson’s TAG/unseen-materials guidance
+and the distinctions among scheduled, cancelled, and extant documents.
 
-Everything from June 2019 to November 2025 should be downloadable today.
+## Local Paper 1 report materials
 
----
+The cover-checked inventory of incoming P1/P1R reports is
+`Incoming_P1_Report_Inventory.md`.
 
-## URL pattern (verified)
+- **May 2023 P1R:** in the archive and available for the answer-bank work.
+- **November 2023 P1:** source retrieved; notes at `2023-11_P1_ER.md`.
+- **November 2024 P1:** official Pearson source retrieved; publication code
+  `4EC1_01_2411_ER`. Key points are recorded in the research handoff.
+- **June 2025 P1:** official Pearson PDF in
+  `uploads/Incoming_Economics_2026-11/4ec1-01-pef-20250821.pdf`; complete
+  question-by-question summary at `2025-06_P1_ER.md`.
+- **January 2023 P1:** Pearson’s standard 4EC1/01 ER has been directly
+  retrieved/read. Its cover publication code is `4EC1_01_ER_2301`; question-by-
+  question notes are at `2023-01_P1_ER.md`. The PDF is not yet stored locally:
+  a command-line download failed at TLS, so the inventory records this
+  separately from the local incoming PDFs.
+- **January 2023 P1R:** official QP, MS and ER are all identified. QP and ER
+  are incoming local files; the official MS was retrieved/read at Pearson but
+  its PDF is not yet stored locally. A 24-item / 80-mark answer-bank supplement
+  is now included, with its content labelled as summaries/paraphrases. Its
+  printed MS code omits the R despite the cover identifying 01R; details at
+  `2023-01_P1R_Source_Audit.md`. The P1 ER (`4EC1_01_ER_2301`) and P1R ER
+  (`4EC1_01R_ER_2301`) are separate reports.
+- Other PDFs in `uploads/Incoming_Economics_2026-11/` include P1/P1R reports for
+  several earlier series. Verify each PDF’s cover publication code and paper
+  content before assigning a session or updating a pairing; do not infer identity
+  from filenames alone.
 
-Two path forms exist. Newer files:
+The archive pairing CSV currently indexes **only its own Paperlords files**; an
+empty ER cell means none is listed in that archive, not necessarily that no
+report exists elsewhere.
+
+## Verified Pearson URL patterns
+
+Current-style files often use:
 
 ```
 https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/<code>-pef-<YYYYMMDD>.pdf
 ```
 
-Older files (2019–2022) use a space and lowercase:
+Older files may use:
 
 ```
 https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/exam-materials/<code>_pef_<YYYYMMDD>.pdf
 ```
 
-`<code>` = `4ec1-01`, `4ec1-01r`, `4ec1-02`, `4ec1-02r`
-(the `r` variants are hyphenated lowercase in the newer form, e.g. `4ec1-01r-pef-20220825.pdf`).
+Codes vary in capitalization and formatting (`4EC1_01`, `4ec1-01`, `4EC1_01R`,
+`4ec1-01r`). The date is the publication date, not necessarily the exam date.
+These patterns are search aids only: confirm that a retrieved document is a
+Pearson PDF and verify its cover code and content.
 
-`<YYYYMMDD>` is the **publication date**, not the exam date. That is the only
-unknown, which is why the search string below is the reliable route.
+Confirmed examples:
 
----
-
-## Confirmed working URLs
-
-| Series | Paper | URL |
+| Series | Paper | Confirmed URL |
 |---|---|---|
-| June 2019 | 01 | `…/International%20GCSE/Economics/2017/exam-materials/4EC1_01_pef_20190822.pdf` |
-| January 2020 | 01R | `…/International%20GCSE/Economics/2017/exam-materials/4EC1_01R_pef_20200305.pdf` |
-| June 2022 | 01R | `…/International%20GCSE/Economics/2017/exam-materials/4ec1-01r-pef-20220825.pdf` |
-| June 2022 | 02R | `…/International%20GCSE/Economics/2017/exam-materials/4ec1-02r-pef-20220825.pdf` |
-| November 2023 | 01 | `…/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20240125.pdf` |
-| June 2025 | 01 | `…/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20250821.pdf` |
-| June 2025 | 02R | `…/International-GCSE/Economics/2017/Exam-materials/4ec1-02r-pef-20250821.pdf` |
+| June 2019 | 01 | `https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/exam-materials/4EC1_01_pef_20190822.pdf` |
+| January 2020 | 01R | `https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/exam-materials/4EC1_01R_pef_20200305.pdf` |
+| June 2022 | 01R | `https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/4ec1-01r-pef-20220825.pdf` |
+| November 2023 | 01 | `https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20240125.pdf` |
+| November 2024 | 01 | `https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20250123.pdf` |
+| June 2025 | 01 | `https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20250821.pdf` |
 
-Note the June 2025 pattern: **one publication date serves the whole series**
-(`20250821`). So try the same date across `01`, `01r`, `02`, `02r`.
+## How to continue the audit
 
----
+1. Search the official Pearson qualification materials page and web-indexed
+   Pearson PDFs for the exact series/paper code.
+2. If using a guessed URL, record a 404 as a failed retrieval attempt only—not
+   proof of nonexistence.
+3. Verify the cover publication code, paper number and series against the PDF
+   contents before filing it. Preserve filename/title conflicts as documented
+   discrepancies rather than silently retagging the file.
+4. Record whether the source is official or secondary, what was searched, and
+   what remains unverified. Keep “not located” distinct from “not issued.”
+5. Summarize question-by-question examiner advice in
+   `Source_Notes/Examiner_Reports/<series>_<paper>_ER.md`; avoid reproducing full
+   candidate scripts or extensive copyrighted text.
 
-## Exact search strings
-
-Paste these into Google. Each one lands on the PDF or a mirror in the first
-three results, and the mirror's title contains the date you need.
-
-**Paper 1 (what matters tomorrow):**
-
-```
-"4ec1-01-pef" 2025
-"4ec1-01-pef" 2024
-"4ec1-01r-pef"
-"4EC1_01_pef" 2019
-"4EC1_01R_pef" 2020
-```
-
-**Paper 2 (November, later):**
-
-```
-"4ec1-02-pef"
-"4ec1-02r-pef"
-```
-
-**Everything, as one sweep:**
-
-```
-site:qualifications.pearson.com 4ec1 pef
-```
-
----
-
-## The instant route, if you have a school login
-
-This is faster than all of the above and gets January 2020 through June 2026 in
-four clicks.
-
-1. `https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-economics-2017.html`
-2. **Exam materials** tab.
-3. Filter: **Exam series** = the series; **Material type** = *Examiners' report*.
-4. Papers are listed as `4EC1/01`, `4EC1/01R`, `4EC1/02`, `4EC1/02R`.
-
-Edexcel Online credentials needed for anything inside nine months. A teacher or
-exams officer at your centre has them.
-
----
-
-## What to send me
-
-Just paste the text, or drop the PDFs anywhere in the repo and say where. I will
-extract the per-question commentary into
-`Economics_Answer_Bank/Source_Notes/Examiner_Reports/<series>_<paper>.md` in the
-same shape as the two already there.
-
-Priority order, if you only get some:
-
-1. **Nov 2025 P1** — the most recent paper before tomorrow's.
-2. **May 2025 P1R** — the regional variant of the paper I set you.
-3. **June 2024 P1** — first series with the 8×1·6×2·4×3 short-answer shape.
-4. **Nov 2024 P1**.
-5. Everything else.
+Pearson sources on the access policy and release schedule are listed in
+`Source_Notes/Official_Source_Register.md`. The next audit priority is to verify
+and index the incoming P1/P1R report PDFs by their covers, then revisit any
+unresolved standard P1 sessions in the pairing inventory.

@@ -1,10 +1,11 @@
 # 4EC1/01 Paper 1 — Question + Mark Scheme Answer Bank
 
-Built by `build_paper1_qa_bank.py` from the Paperlords archive.
-**21 papers · 515 items · 1680 marks · 514 items with a transcribed MS block.**
+Built by `build_paper1_qa_bank.py` from the Paperlords archive and documented official-Pearson supplements.
+**22 papers · 539 items · 1760 marks · 539 items with an MS answer.**
 
-Every item below is an official Pearson question; every answer is transcribed from the
-official Pearson mark scheme for that paper. Items with no matched MS block are marked
+Every item below is an official Pearson question. Answers are transcribed from the
+matching Pearson mark scheme; any concise paraphrases or summarized descriptor tables
+are identified in that paper’s source note. Items without a matched answer are marked
 `[MS NOT MATCHED]` — they are never filled in by hand.
 
 ## January 2020 — P1R  (80 marks)
@@ -3621,7 +3622,7 @@ extent to which derived demand affects the demand for labour.
  
 (
 
-- **MS:** [MS NOT MATCHED]
+- **MS:** AO2 (4 marks)/AO3 (4 marks)/AO4 (4 marks) AO2 and AO3 • The quantity of workers whom producers are willing and able to employ is known as the demand for labour • It can be affected by demand for the product (derived demand), productivity and availability of substitutes, such as machines • The greater the demand for a good or service, the greater the demand for labour is likely to be • This means that more security staff are likely to be demanded to control spectators at sporting events or at music festivals because there is a greater demand from fans to watch the event • As there is a greater demand for food from those celebrating special holidays, more supermarket staff are likely to be demanded to sell goods to these customers at certain times of the year • Similarly, if there is less demand for a service, such as at a football stadium when no matches are being played, there will be less demand for labour, such as security staff • As a result, the demand for labour is affected considerably by derived demand AO4 • However, even with an increase in demand for some goods and services, machinery may be substituted to meet the additional demand • This means that the demand for labour would not always increase due to derived demand • It is also possible that employees may be more productive under certain circumstances, meaning they can meet additional demand for goods and services without there being an actual increase in the demand for labour • At the same time, high levels of productivity may mean the firm requires fewer workers as costs can be reduced. This would again have a significant effect on the demand for labour • The advancement of technology has seen labour being replaced by machines in many industries, such as hospitality and customer services, as well as manufacturing • Although, the demand for labour is likely to increasingly be affected by the availability of substitutes. E.g. the availability of substitutes would be limited for security at music festivals and sporting events • The significance of derived demand may depend on the industry, as some work may be conducted by machines instead • It may also depend on the extent to which labour is needed to develop, build and maintain machines that have been used as substitutes for labour because this could reduce the effect this factor has on the demand for labour Level | Mark | Descriptor 0 | 0 | No rewardable material. Level 1 | 1–4 | Demonstrates isolated elements of relevant knowledge and understanding; may lack development of relevant points. Limited application of economic terms, concepts, theories and calculations (AO2). Information presented will lack selectivity and organisation. Chain of reasoning may be attempted. Interpretation of economic information will be limited, with a lack of analysis of issues (AO3). Only offers one viewpoint, meaning there is an unbalanced and incomplete evaluation, showing limited understanding and awareness. A judgement or conclusion is unlikely to be attempted (AO4). Level 2 | 5–8 | Demonstrates partial selectivity and some accurate knowledge and understanding by developing some relevant points. Partial application of economic terms, concepts, theories and calculations (AO2). Information presented will demonstrate some selectivity and organisation. Chain of reasoning will be present but may be limited. Interpretation of economic information will be good, with some analysis of issues (AO3). Offers more than one viewpoint but the argument may lack balance, leading to an evaluation that may not demonstrate full understanding and awareness. A judgement or conclusion is attempted, but may not be fully supported (AO4). Level 3 | 9–12 | Demonstrates specific and accurate knowledge and understanding by developing relevant points. Appropriate application of economic terms, concepts, theories and calculations (AO2). Information presented will demonstrate excellent selectivity and organisation. Chain of reasoning will be coherent and logical. Interpretation of economic information will be excellent with a thorough analysis of issues (AO3). Offers more than one viewpoint. The argument is well balanced and coherent, leading to an evaluation that demonstrates full understanding and awareness. A supported judgement or conclusion is present (AO4).
 
 
 ## May 2023 — P1  (80 marks)
@@ -5410,4 +5411,129 @@ Australia.
 (
 
 - **MS:** AO2 (4 marks)/AO3 (4 marks)/AO4 (4 marks) AO2 and AO3  The public sector is a part of the economy which is owned by the government and operates in the public interest  An investment of AU$107m would greatly improve the Swan River ferry network, by increasing the number of ferries and stops along the river  This means there would be greater capacity to transport passengers (>130 people per ferry trip), connecting more people across the Perth area  Therefore, it may be easier/more accessible for people to work in more locations in Perth than without the increase in infrastructure  A greater number and variety of jobs is likely to be available both during the building and operation of the additional ferries  This would create a positive effect for local firms and may increase more revenue for the Western Australia Government through tax  Instead of causing a parking issue, the investment may reduce traffic, as the new stops would allow passengers to travel more easily by buses connecting with the ferries and/or access to university without using private transport AO4  However, the cost of expanding the ferry network means the Western Australian Government would have less revenue available for spending on health and education  Therefore, the economy of Western Australia may not benefit as much from public sector investment to improve the network as if the AU$107m was invested elsewhere  This may be intensified if parking by ferry users leads to accidents and/or congestion due to the increased usage  It will most likely take time for the building of new ferries and addition of new stops, meaning any benefit may not be seen for a number of years  Therefore, costs may be considerably higher than revenue, for the government and the economy during this time  Safety concerns have been raised, meaning additional spending may be needed to investigate potential dangers to small boat users and to rectify problems Level Mark Descriptor No rewardable material. Level 1 1–4  Demonstrates isolated elements of relevant knowledge and understanding; may lack development of relevant points. Limited application of economic terms, concepts, theories and calculations (AO2).  Information presented will lack selectivity and organisation. Chain of reasoning may be attempted. Interpretation of economic information will be limited, with a lack of analysis of issues (AO3).  Only offers one viewpoint, meaning there is an unbalanced and incomplete evaluation, showing limited understanding and awareness. A judgement or conclusion is unlikely to be attempted (AO4). Level 2 5–8  Demonstrates partial selectivity and some accurate knowledge and understanding by developing some relevant points. Partial application of economic terms, concepts, theories and calculations (AO2).  Information presented will demonstrate some selectivity and organisation. Chain of reasoning will be present but may be limited. Interpretation of economic information will be good, with some analysis of issues (AO3).  Offers more than one viewpoint but the argument may lack balance, leading to an evaluation that may not demonstrate full understanding and awareness. A judgement or conclusion is attempted, but may not be fully supported (AO4). Level 3 9–12  Demonstrates specific and accurate knowledge and understanding by developing relevant points. Appropriate application of economic terms, concepts, theories and calculations (AO2).  Information presented will demonstrate excellent selectivity and organisation. Chain of reasoning will be coherent and logical. Interpretation of economic information will be excellent with a thorough analysis of issues (AO3).  Offers more than one viewpoint. The argument is well balanced and coherent, leading to an evaluation that demonstrates full understanding and awareness. A supported judgement or conclusion is present (AO4).
+
+
+## January 2023 — P1R  (80 marks)
+
+QP: `uploads/Incoming_Economics_2026-11/4ec1-01r-que-20230114.pdf` · MS: [official Pearson MS](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/exam-materials/4ec1-01r-rms-20230302.pdf)
+
+> Source note: Official Pearson January 2023 Paper 01R. QP log P71556A. MS cover names 01R but its printed Publications Code is 4EC1_01_MS_2301 (without R); see Source_Notes/Examiner_Reports/2023-01_P1R_Source_Audit.md. Indicative content is summarized or paraphrased from Pearson’s MS; level descriptor tables are summarized.
+
+**1(a) — 1 marks.** Water is an example of which factor of production?
+A Land
+B Labour
+C Capital
+D Enterprise
+
+- **MS:** AO1 1 mark. The only correct answer is A, Land. B is labour (a human resource); C is capital (a man-made resource); D is enterprise (the element of risk).
+
+**1(b) — 1 marks.** A firm has total costs of $700. It sells 300 items at a price of $20 each. What is the
+profit for the firm?
+A $5 300
+B $6 000
+C $13 700
+D $14 000
+
+- **MS:** AO2 1 mark. The only correct answer is A, $5,300 ($700 total costs subtracted from $6,000 revenue).
+
+**1(c) — 2 marks.** What is meant by the term supply?
+
+- **MS:** AO1 2 marks. Award 1 mark for the amount producers are willing and able to sell and 1 mark for reference to price. The quantity of goods or services producers are willing and able to sell at a given price or time. Accept any other appropriate response.
+
+**1(d) — 1 marks.** State one type of an external economy of scale.
+
+- **MS:** AO1 1 mark. Any one correct type of external economy of scale: skilled labour, infrastructure, access to suppliers, or similar businesses in the area. Accept any other appropriate response.
+
+**1(e) — 1 marks.** Define the term unique product.
+
+- **MS:** AO1 1 mark. A good or service for which there is no substitute. Accept any other appropriate response.
+
+**1(f) — 2 marks.** Connor owns a hair salon. He increased prices by 2% and was willing to increase quantity supplied by 2.6%. Calculate the price elasticity of supply (PES) for Connor’s hair salon. You are advised to show your working.
+
+- **MS:** AO2 2 marks. Correct calculation: 2.6% ÷ 2% = 1.3. Award one mark for the calculation and one for the correct PES; award both for 1.3 even without workings. Do not award marks for a formula alone.
+
+**1(g) — 3 marks.** Using the diagram below, draw the likely effect on the market for luxury holidays after a fall in income. Label the new curve, the new equilibrium price and the new equilibrium quantity.
+
+- **MS:** AO2 3 marks. Award 1 mark for a labelled leftward shift of demand, 1 for the labelled lower equilibrium price, and 1 for the labelled lower equilibrium quantity.
+
+**1(h) — 3 marks.** Government-owned Angola Telecom is to be privatised in an attempt to make the industry more efficient. Explain one possible disadvantage of privatisation for workers in the telecoms industry in Angola.
+
+- **MS:** AO2 3 marks. Award 1 mark for identifying a disadvantage, 1 for development and 1 for context. For example, workers may be made redundant because private firms seek to reduce costs in the telecoms industry in Angola to increase efficiency. Accept other appropriate responses.
+
+**1(i) — 6 marks.** Figure 2 shows a PPC: point A has 160 million consumer goods and 350 million capital goods; point B has 130 million consumer goods and 450 million capital goods. With reference to the data and your knowledge of economics, analyse the impact on the economy after a movement from A to B on the production possibility curve.
+
+- **MS:** AO2 (3 marks)/AO3 (3 marks). A PPC shows combinations of goods producible with available resources. At A, 350 million capital goods and 160 million consumer goods are produced; moving to B raises capital goods to 450 million but reduces consumer goods by 30 million to 130 million (opportunity cost). Increased capital-goods production can expand productive capacity, shift the PPC outwards and allow more capital and consumer goods in future; this is positive economic growth. Level guidance: 1–2 basic, limited application/analysis; 3–4 partial application and some analysis; 5–6 clear, appropriate application and thorough analysis.
+
+**2(a) — 1 marks.** Figure 3 shows a 4.6% change in quantity demanded and a 2% change in income. Which option best describes demand for the product: unitary, luxury, inferior or inelastic?
+
+- **MS:** AO2 1 mark. The only correct answer is B, Luxury. The YED is 4.6% ÷ 2% = 2.3, greater than 1.
+
+**2(b) — 1 marks.** Which one of the following is the formula for social benefits?
+A Private costs + private benefits
+B Private benefits – private costs
+C Private benefits + external benefits
+D Private costs – external costs
+
+- **MS:** AO1 1 mark. The only correct answer is C, private benefits + external benefits.
+
+**2(c) — 2 marks.** What is meant by the term trade union?
+
+- **MS:** AO1 2 marks. Award 1 mark for an organisation for employees and 1 for aiming to protect members’ interests. Accept any other appropriate response.
+
+**2(d) — 2 marks.** Figure 4 gives monthly costs for a firm making 3,000 units: total fixed costs $6,200 and total variable costs $3,550. Calculate the average cost per unit (AC). You are advised to show your working.
+
+- **MS:** AO2 2 marks. Correct calculation: ($6,200 + $3,550) ÷ 3,000 = $3.25 average cost per unit. Award one mark for correct working and one for the answer; award full marks for $3.25 without working. Do not award marks for a formula alone.
+
+**2(e) — 2 marks.** Describe one way that high start-up costs can be a barrier to entry.
+
+- **MS:** AO1 2 marks. Award 1 mark for a way and 1 for development. For example, a large amount of money may be needed to set up a business, so potential competitors may be unable to raise or borrow enough. Accept other appropriate responses.
+
+**2(f) — 3 marks.** UK supermarkets operate in an oligopoly where the market is dominated by several large firms. Explain one disadvantage of this type of market structure for UK consumers.
+
+- **MS:** AO2 3 marks. Award 1 mark for a relevant disadvantage, 1 for development and 1 for context. For example, oligopoly firms may collude, so supermarkets may fix grocery prices and consumers may have to pay higher prices. Accept other appropriate responses.
+
+**2(g) — 9 marks.** Foxconn Technology produces the new Apple iPhone at its factory in Shenzhen, China, employing 270,000 workers. Each worker performs a specific task, from handling the screen and assembling components to checking the phone and packaging it. With reference to the data and your knowledge of economics, assess the benefits for Foxconn Technology of using division of labour.
+
+- **MS:** AO2 (3 marks)/AO3 (3 marks)/AO4 (3 marks). AO2/AO3: division of labour breaks production into smaller tasks; each worker specialises (for example handling the screen, checking the phone or packaging it); specialisation can make work faster and more accurate, increasing productivity and reducing Foxconn’s production costs. Workers avoid time lost switching tasks. AO4: repetitive iPhone tasks may bore workers and reduce motivation, causing mistakes, rework, lower productivity and higher costs. A failure at one production stage can halt later stages; this risk may matter with 270,000 workers and many divided tasks. Specialisation may also create problems when a worker is absent and no replacement has the required skill. Level guidance: 1–3 basic/limited and one-sided; 4–6 partial analysis with more than one view but potentially unbalanced; 7–9 clear applied analysis and a balanced, coherent evaluation.
+
+**3(a) — 1 marks.** Which one of the following is the definition of a merger?
+A The joining together of two firms
+B The transfer of ownership from the government
+C The takeover of one firm by another firm
+D The creation of a competitive market
+
+- **MS:** AO1 1 mark. The only correct answer is A, the joining together of two firms.
+
+**3(b) — 1 marks.** Which one of the following is a reason why a government would introduce a
+minimum wage?
+A To increase the benefits paid by a government
+B To reduce the motivation of workers
+C To close the income gap between the rich and the poor
+D To ensure producers increase their profits
+
+- **MS:** AO1 1 mark. The only correct answer is C, to close the income gap between the rich and the poor.
+
+**3(c) — 3 marks.** On the blank pie chart, draw and label the likely approximate shares of employment in the primary (P), secondary (S) and tertiary (T) sectors for a developed country such as Japan.
+
+- **MS:** AO2 3 marks. Award 1 mark for the tertiary sector being largest, 1 for secondary being second largest and 1 for primary being smallest. The mark-scheme illustration gives T = 55%, S = 25%, P = 20%.
+
+**3(d) — 6 marks.** There are plans to build a $296m residential tower in Sydney’s business district, but some local people oppose it. With reference to the data and your knowledge of economics, analyse the possible external costs that may occur during the building of the tower.
+
+- **MS:** AO2 (3 marks)/AO3 (3 marks). External costs are negative impacts on third parties. Local people and workers in Sydney’s business district could experience noise and air pollution, congestion or overcrowding during construction of the $296m residential tower. Construction may create noise and dust and require many vehicles; the affected third parties are neither the producers nor consumers. Level guidance: 1–2 basic/limited; 3–4 partial application and some analysis; 5–6 clear application and thorough analysis.
+
+**3(e) — 9 marks.** Dubai has a population of over 2.5 million people. Immigrant workers make up over 80% of the population, many providing construction, cleaning or care services. With reference to the data and your knowledge of economics, assess the benefits to Dubai of employing such a high proportion of migrant labour.
+
+- **MS:** AO2 (3 marks)/AO3 (3 marks)/AO4 (3 marks). AO2/AO3: migration is movement to live in a foreign country; migrant workers increase labour supply, potentially shifting labour supply right, increasing employment and reducing shortages. Dubai’s 2 million migrants (80% of the population), including construction workers, make a large contribution to labour supply and may support productivity and economic expansion. AO4: most migrants work in construction, cleaning and care, so other sectors may still lack workers; migrants may not have the required skills and supply may be short-term if they return home. Raising the retirement age, lowering the school-leaving age or enabling more women to work may offer a more effective long-term or cross-sector labour supply. Level guidance: 1–3 basic/limited and one-sided; 4–6 partial analysis and potentially unbalanced; 7–9 clear applied analysis and balanced evaluation.
+
+**4(a) — 2 marks.** Figure 6: product X has price $3,000, quantity 50 and PED −0.62; product Y has price $3,300, quantity 40 and PED −1.53. Calculate total revenue for the product with inelastic PED. Show your working.
+
+- **MS:** AO2 2 marks. Select product X (inelastic PED); total revenue = $3,000 × 50 = $150,000. Award one mark for selecting X and one for correct revenue; award both for $150,000 without workings.
+
+**4(b) — 6 marks.** Poland has experienced rising obesity. Consumers of sugary drinks such as Coca Cola and Fanta pay an additional 0.50 zloty ($0.11) per litre after a sugar tax, while soft-drink advertising has increased. Consumers continue buying the drinks despite the higher price. With reference to the data and your knowledge of economics, analyse why consumers may not maximise their benefit when consuming sugary drinks.
+
+- **MS:** AO2 (3 marks)/AO3 (3 marks). Consumers may not calculate what is best for them; increased advertising can pressure them to buy unhealthy products. Consumers may lack full information about the negative effects of sugar in drinks such as Coca Cola and Fanta. Habits and taste can make behaviour difficult to change; consumers may continue buying despite the extra 0.50 zloty ($0.11) per litre, especially if it is a small share of income. Friends’ consumption may also influence consumers to copy the behaviour. Level guidance: 1–2 basic/limited; 3–4 partial application and some analysis; 5–6 clear application and thorough analysis.
+
+**4(c) — 12 marks.** NT Massage is a successful family-run business in a residential area of Hong Kong, offering traditional foot and head massages to long-standing local customers. Mei wants to expand into a chain of shops in busier areas, train employees, advertise in hotels and target Hong Kong’s 7.5 million population. Tourists and business people may provide extra custom, allowing higher prices, but there are many similar competitors. With reference to the data and your knowledge of economics, evaluate whether the family should expand rather than keep the business small.
+
+- **MS:** AO2 (4 marks)/AO3 (4 marks)/AO4 (4 marks). AO2/AO3: expansion may serve more customers and increase profit; NT Massage could charge higher prices in busier locations, attract tourists and business people, increase revenue, spread risk beyond its current residential location, gain access to finance and benefit from economies of scale such as spreading advertising costs. AO4: expansion could weaken the traditional service valued by long-standing customers; coordinating several shops may create diseconomies of scale for a family used to one shop; competitors may make custom difficult to attract; growth takes time and money, delays profit and may strain the existing business. The judgement may depend on competitors, successful advertising and tourism/business demand. Level guidance: 1–4 isolated/basic, limited development, one-sided and unlikely supported judgement; 5–8 some selectivity and development, more than one view but balance/support may be limited; 9–12 specific, accurate, coherent applied analysis, balanced evaluation and supported judgement.
 
