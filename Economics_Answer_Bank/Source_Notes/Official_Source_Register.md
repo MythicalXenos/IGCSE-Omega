@@ -13,6 +13,12 @@ Compiled 2026-11-10. Every URL below was fetched and read, not inferred.
 | Mark schemes | 42 | complete for every QP held |
 | Examiner reports | 3 | **May 2023 only** — P1R, P2, P2R |
 
+**Also retrieved and extracted (fetched 2026-11-10, not stored as PDF):**
+`Examiner_Reports/2023-11_P1_ER.md` (Nov 2023, 4EC1/01, complete) and
+`Examiner_Reports/2025-06_P1_ER.md` (June 2025, 4EC1/01, Q1 only).
+Retrieval instructions for the remaining ~21 are in
+`Examiner_Reports/00_RETRIEVAL_KIT.md`.
+
 Series held: Jan 2020 · Jun 2019 · Jun 2020 · Jun 2021 · Jun 2022 · Jun 2024 ·
 Jun 2026 · May 2023 · May 2025 · Nov 2021 · Nov 2023 · Nov 2024 · Nov 2025.
 
