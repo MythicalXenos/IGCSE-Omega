@@ -14,8 +14,8 @@ Checks, in order:
      9 = 3+3+3, 12 = 4+4+4; the three level-band tables appear 126/84/42 times.
   7. Every quotation in the two docs appears verbatim in the June 2023 examiner reports.
   8. The corrected census in 4EC1_Paper_Fingerprint.md matches the parse.
-  9. The whole-bank reconciliation and 1,022-row manifest agree on current counts and keep
-     classification/source-check fields explicitly pending; the old 671-line tally is labeled obsolete.
+  9. The whole-bank reconciliation distinguishes scopes; keyed reviewed annotations survive in the manifest
+     while unreviewed items remain pending. Whole-bank counts are derived, not fixed in this archive verifier.
 
 Exit 0 if everything holds, 1 otherwise. Every check prints what it read.
 """
@@ -23,6 +23,7 @@ from __future__ import annotations
 import re
 import sys
 import csv
+import json
 from collections import Counter
 from pathlib import Path
 
@@ -274,25 +275,29 @@ for needle in ("11/12", "10/12", "9/12"):
 check("not a Pearson statement" in cal and "labelled as construction" in cal.lower(),
       "the constructed part of the calibration page is labelled as construction")
 
-# ---------------------------------------------------------------- 9. current whole-bank scope
-print("\n[9] whole-bank reconciliation and pending audit flags")
+# ---------------------------------------------------------------- 9. reconciliation / review-state consistency
+print("\n[9] whole-bank reconciliation and persistent review layer")
 recon = (BANK / "Whole_Bank_Reconciliation.md").read_text()
 guide = (BANK / "4EC1_Exemplar_and_Model_Answer_Guide.md").read_text()
-check("1,022" in recon and "3,440" in recon and "998" in recon,
-      "reconciliation distinguishes 42-pair archive census from 43-paper current scope")
+check("archive pairs" in recon and "local/incoming" in recon,
+      "reconciliation distinguishes archive census from current local/incoming scope")
 check("Earlier line-based counts and mark-tariff breakdowns" in guide and
       "must not be used as the full-bank denominator" in guide,
       "legacy line-based tally is identified as superseded, not current bank size")
-with (BANK / "Whole_Bank_Question_Manifest.csv").open(encoding="utf-8-sig", newline="") as f:
+with (BANK / "Whole_Bank_Question_Manifest.csv").open(encoding="utf-8", newline="") as f:
     manifest = list(csv.DictReader(f))
-check(len(manifest) == 1022 and sum(int(x["marks"]) for x in manifest) == 3440,
-      f"manifest has {len(manifest)} rows and {sum(int(x['marks']) for x in manifest)} marks")
-check(sum(x["paper_group"] == "Paper 1/P1R" for x in manifest) == 539 and
-      sum(x["paper_group"] == "Paper 2/P2R" for x in manifest) == 483,
-      "manifest separates 539 Paper 1/P1R and 483 Paper 2/P2R appearances")
-check(all(x["source_check_status"] == "PENDING_WHOLE_BANK_VISUAL_SOURCE_CHECK" for x in manifest) and
-      all(x["reasoning_skill_family"] == "PENDING_CLASSIFICATION" for x in manifest),
-      "all whole-bank classification and visual source-check fields remain explicitly pending")
+review = json.loads((BANK / "Whole_Bank_Review_Layer.json").read_text(encoding="utf-8"))
+manifest_by_id = {x["question_id"]: x for x in manifest}
+check(len(manifest_by_id) == len(manifest), "manifest question IDs are unique")
+for qid, annotation in review.get("items", {}).items():
+    row = manifest_by_id.get(qid)
+    check(row is not None, f"review layer item remains in manifest: {qid}")
+    if row:
+        check(row["prompt_text"] == annotation["prompt_text"] and
+              row["reasoning_skill_family"] == annotation["reasoning_skill_family"],
+              f"persistent review annotation survives rebuild: {qid}")
+check(any(x["reasoning_skill_family"] != "PENDING_CLASSIFICATION" for x in manifest),
+      "verified rows are present without requiring all other classifications to be complete")
 
 print()
 if fails:
@@ -300,6 +305,9 @@ if fails:
     for f in fails:
         print("  -", f)
     sys.exit(1)
-print("RESULT: OK — archive fingerprint 42 papers / 998 items / 3,360 marks; whole-bank manifest "
-      "43 papers / 1,022 parts / 3,440 marks; classification and visual source checks pending; "
+paper_total = len({x["canonical_paper_id"] for x in manifest})
+part_total = len(manifest)
+mark_total = sum(int(x["marks"]) for x in manifest)
+print(f"RESULT: OK — archive fingerprint 42 papers / 998 items / 3,360 marks; current manifest "
+      f"{paper_total} papers / {part_total} parts / {mark_total} marks; review states are item-specific; "
       "3/6/9/12 AO allocations and quotations verified.")

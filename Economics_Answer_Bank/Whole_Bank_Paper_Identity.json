@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "description": "Keyed paper identity overlays. These preserve source labels and uncertainties; unlisted papers retain provisional labels and pending identity status.",
+  "papers": {
+    "4EC1|P62030A|P1": {
+      "canonical_session": "November 2020",
+      "archive_session_alias": "May-June 2020",
+      "qp_log": "P62030A",
+      "qp_cover_printed_date": "Wednesday 20 May 2020",
+      "ms_cover_session": "November 2020",
+      "identity_status": "IDENTITY_CORROBORATED_BY_QP_MS_AND_MATCHED_ER; PRINTED_QP_DATE_ANOMALY_PRESERVED",
+      "evidence": "P1 source audit documents QP/MS/November ER content sequence; no source code inferred from placeholder fields."
+    },
+    "4EC1|P62641RA|P1R": {
+      "canonical_session": "November 2020",
+      "archive_session_alias": "May-June 2020",
+      "qp_log": "P62641RA",
+      "qp_cover_printed_date": "Wednesday 20 May 2020",
+      "ms_cover_session": "November 2020",
+      "identity_status": "IDENTITY_CORROBORATED_BY_QP_MS_AND_MATCHED_ER; PRINTED_QP_DATE_AND_REPORT_CODE_ANOMALIES_PRESERVED",
+      "evidence": "P1R source audit documents matching November MS and ER content sequence; the report code is a literal placeholder and is not represented as a valid code."
+    },
+    "4EC1|P62031A|P2": {
+      "canonical_session": "May-June 2020",
+      "archive_session_alias": "May-June 2020",
+      "qp_log": "P62031A",
+      "qp_cover_printed_date": "Friday 5 June 2020",
+      "ms_cover_session": "November 2020",
+      "identity_status": "SESSION_IDENTITY_CONFLICT_PENDING; QP_MS_ITEM_TEXT_MATCH_CONFIRMED_ONLY_FOR_Q3(d)",
+      "evidence": "QP cover/log and MS cover conflict on session. QP/MS content text aligns for Q3(d), but that alone does not settle whether the paper was administered in June or November. See keyed review layer."
+    },
+    "4EC1|P62642RA|P2R": {
+      "canonical_session": "May-June 2020",
+      "archive_session_alias": "May-June 2020",
+      "qp_log": "P62642RA",
+      "qp_cover_printed_date": "Friday 5 June 2020",
+      "ms_cover_session": "November 2020",
+      "identity_status": "SESSION_IDENTITY_CONFLICT_PENDING; ITEM_SEMANTIC_CORRESPONDENCE_PENDING",
+      "evidence": "QP cover/log and MS cover conflict on session; full item-specific semantic correspondence has not been established."
+    },
+    "4EC1|P71556A|P1R": {
+      "canonical_session": "January 2023",
+      "archive_session_alias": "Incoming Pearson QP; not in Paperlords pairing register",
+      "qp_log": "P71556A",
+      "ms_cover_session": "January 2023 Paper 01R",
+      "ms_printed_publication_code": "4EC1_01_MS_2301 (without R)",
+      "identity_status": "IDENTITY_CONFIRMED_WITH_MS_PUBLICATION_CODE_ANOMALY_PRESERVED",
+      "evidence": "Source audit at Source_Notes/Examiner_Reports/2023-01_P1R_Source_Audit.md; QP cover and question sequence match the official MS.",
+      "er_local_path": "uploads/Incoming_Economics_2026-11/4ec1-01r-pef-20230302.pdf",
+      "er_source_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/exam-materials/4ec1-01r-pef-20230302.pdf",
+      "er_status": "LOCAL_INCOMING_REPORT_IDENTIFIED; ITEM_GUIDANCE_DIGEST_EXISTS; PER_ITEM_MATCH_NOT_YET_CROSSWALKED"
+    },
+    "4EC1|P65896A|P1": {
+      "canonical_session": "May-June 2021",
+      "archive_session_alias": "May-June 2021",
+      "qp_log": "P65896A",
+      "ms_cover_session": "Summer 2021",
+      "identity_status": "PAPER_PAIR_CONFIRMED; CANCELLED_SERIES_SURVIVING_PAPER_NOT_LIVE_ADMINISTRATION",
+      "evidence": "P1_Source_Coverage_Map.md records the cancellation, QP log and matching MS code; do not describe as an exam actually sat."
+    },
+    "4EC1|P58384A|P2": {
+      "canonical_session": "January 2020",
+      "qp_log": "P58384A",
+      "qp_cover_printed_date": "Friday 17 January 2020",
+      "ms_cover_session": "January 2020",
+      "identity_status": "QP_MS_PAPER_IDENTITY_AND_Q1(g)_ITEM_CONTENT_CHECKED",
+      "evidence": "QP cover identifies 4EC1/02, January 2020, log P58384A. Paired MS cover identifies January 2020 Paper 02; PDF p.6 key 1(g) matches the Mexico current-account question on QP p.5."
+    },
+    "4EC1|P74057A|P1R": {
+      "canonical_session": "May 2023",
+      "qp_log": "P74057A",
+      "identity_status": "PAIR_CONFIRMED_BY_QP_MS_ER_SOURCE_AUDIT; MS_LAST_ITEM_PRINTED_AS_C_ONLY",
+      "evidence": "Existing June 2023 P1R source audit matches QP/MS/ER by cover and item sequence. MS extraction has 24 numbered headings because final response appears as (c) without a printed question number; it is manually source-checked and restored in the existing P1 bank.",
+      "known_ms_key_exceptions": [
+        "4c"
+      ],
+      "known_ms_key_exception_evidence": "Source_Notes/Examiner_Reports/2023-06_P1R_ER.md and Source_Notes/Constructed_Answers/2023-06_P1R_Complete_Draft.md document the final 4(c) heading."
+    },
+    "4EC1|P60749A|P1": {
+      "canonical_session": "May-June 2019",
+      "qp_log": "P60749A",
+      "ms_cover_session": "Summer 2019",
+      "identity_status": "QP_LOG_AND_PAPER_01_MS_COVER_MATCH; Q1(h)_CONTENT_CHECKED",
+      "evidence": "QP PDF p.4 and matching Paper 01 MS PDF p.6 were checked for Q1(h); archive pairing record identifies standard P1.",
+      "er_local_path": "uploads/Incoming_Economics_2026-11/4EC1_01_pef_20190822.pdf",
+      "er_source_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/exam-materials/4ec1-01-pef-20190822.pdf",
+      "er_status": "LOCAL_IDENTITY_MATCHED_REPORT; Q1(h) GUIDANCE MAPPED IN ITEM DIGEST"
+    },
+    "4EC1|P73498A|P1": {
+      "canonical_session": "November 2023",
+      "qp_log": "P73498A",
+      "ms_cover_session": "November 2023",
+      "identity_status": "QP_LOG_P1_MS_COVER_AND_ITEM_SEQUENCE_CONFIRMED",
+      "er_local_path": "uploads/Incoming_Economics_2026-11/4ec1-01-pef-20240125.pdf",
+      "er_source_url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20240125.pdf",
+      "er_status": "LOCAL_IDENTITY_MATCHED_REPORT; Q4(b) GUIDANCE MAPPED IN ITEM DIGEST",
+      "evidence": "QP log P73498A, local standard P1 MS and exact November 2023 examiner report cover/code/question sequence. Q4(b) item guidance is in Source_Notes/Examiner_Reports/2023-11_P1_Item_Feedback.md."
+    },
+    "4EC1|P75954A|P1": {
+      "canonical_session": "November 2024",
+      "qp_log": "P75954A",
+      "ms_cover_session": "November 2024",
+      "identity_status": "QP_LOG_AND_MS_COVER_CONFIRMED; Q1(h)_CONTENT_MATCHED",
+      "er_source_url": "https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Economics/2017/Exam-materials/4ec1-01-pef-20250123.pdf",
+      "er_status": "REMOTE_REPORT_READ_AND_SUMMARIZED; ITEM_GUIDANCE_MAPPED_IN_EXISTING_DIGEST; PDF_NOT_LOCAL",
+      "evidence": "QP log P75954A; local November 2024 standard P1 MS; exact report URL/publication code recorded in Source_Notes/Examiner_Reports/2024-11_P1_ER.md."
+    }
+  },
+  "unresolved_policy": "For papers not keyed here, keep archive/incoming session labels as source labels, set identity status pending, and preserve QP/MS cover metadata separately. Do not convert a missing examiner report into an unavailable/not-issued claim without a documented search."
+}

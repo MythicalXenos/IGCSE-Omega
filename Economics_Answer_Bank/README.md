@@ -2,7 +2,7 @@
 
 Built 2026-10-12 from the Paperlords archive and official Pearson exemplar/report material.
 
-> **Current whole-bank scope (10 Nov 2026):** The 42-paper Paperlords archive fingerprint is archive-only and excludes the separately supplied January 2023 P1R QP/MS. The currently available local/incoming Economics bank has **43 paper/variant documents, 1,022 parts and 3,440 marks**: P1/P1R 22 papers / 539 parts / 1,760 marks; P2/P2R 21 papers / 483 parts / 1,680 marks. The older workbook inventory has 671 rows and is incomplete by 351 parts. See `Whole_Bank_Reconciliation.md` and `Whole_Bank_Question_Manifest.csv`; the manifest's classification and whole-bank visual-source-check fields remain explicitly pending.
+> **Current whole-bank scope (10 Nov 2026):** The 42-paper Paperlords archive fingerprint is archive-only and excludes the separately supplied January 2023 P1R QP/MS. The currently available local/incoming Economics bank has **43 paper/variant documents, 1,022 parts and 3,440 marks**: P1/P1R 22 papers / 539 parts / 1,760 marks; P2/P2R 21 papers / 483 parts / 1,680 marks. The older workbook inventory has 671 rows and is incomplete by 351 parts. See `Whole_Bank_Reconciliation.md` and `Whole_Bank_Question_Manifest.csv`; the keyed review layer currently has five item-level examples, while classification and visual source checks for the remainder remain pending.
 
 ## Deliverables
 
@@ -26,8 +26,13 @@ Built 2026-10-12 from the Paperlords archive and official Pearson exemplar/repor
 - `4EC1_Exemplar_and_Model_Answer_Guide.md` — searchable source version.
 - `4EC1_Question_Type_Inventory.xlsx` — legacy filterable workbook: question-family map, prompt-pattern map and 671 partial item-level entries with QP/MS paths, official exemplar scores/pages and source register. It is 351 parts short of the current 1,022-part corpus; do not use as the complete inventory.
 - `Whole_Bank_Reconciliation.md` — current source reconciliation, counts, exceptions and remaining work.
-- `Whole_Bank_Question_Manifest.csv` — 1,022-row provenance manifest; all whole-bank classification and visual source-check fields are explicitly pending.
-- `build_whole_bank_manifest.py` — regenerates the manifest.
+- `Whole_Bank_Question_Manifest.csv` — row-level provenance manifest (counts derive from current inputs); reviewed annotations are explicit, and all unreviewed classification/source-check fields remain pending.
+- `Whole_Bank_Review_Layer.json` — persistent keyed corrections/classifications; raw extraction stays separate.
+- `Whole_Bank_Paper_Identity.json` — canonical identity evidence, aliases and unresolved conflicts.
+- `P1_Recurrence_Working_Index.md` — source-checked P1 family slice only; not the complete classification or bankwide recurrence ranking.
+- `build_whole_bank_manifest.py` — regenerates the manifest without resetting curated layers.
+- `validate_whole_bank.py` — structural/source regression checks, including the two documented extraction-leak examples.
+- `requirements.txt` — documented local rebuild dependencies.
 - `Paper1_QA_Bank.md` / `.json` — provisional machine-extracted P1 question/MS index (22 records, including a documented January 2023 P1R supplement). **Do not treat its item stems or joins as source-verified yet:** a November 2026 audit found cross-question/source-passage leakage from document-wide extraction. Each item now has source-navigation hints: all 539 entries link to a QP question-page span; 421 also have a unique prompt-prefix page match, and 514 have a local exact MS-key page match. These are locator aids only, not visual verification. The MS parser was also fixed to stop at the next case-insensitive “Question Number” table header, removing following-question prompt contamination from 24 June 2021 P1 answers and one June 2024 P1R answer; this is a boundary repair, not item-by-item MS content verification. The PDFs remain primary; this index requires page-by-page correction before use as an exact QP transcript.
 - `Paper1_QA_Supplements.json` — source-backed non-archive additions and item overrides. January 2023 P1R has a locally held QP and an official Pearson MS URL; the MS PDF is not stored locally. Its content is summarized/paraphrased and the publication-code discrepancy is documented. Both January 2023 and June 2026 P1R now have source-located prompt corrections across all 24 items; June 2026 uses the local matching MS.
 - `Source_Notes/Constructed_Answers/` — original constructed-answer drafts for 13 standard P1 papers (June 2019 through June 2026, including the surviving June 2021 paper) and nine regional P1R papers (June 2019, January 2020, November 2020, January 2023, June 2022, June 2023, June 2024, June 2025 and June 2026), covering all 539 indexed items. The November 2021 Q4(c) also links to a detailed evidence/devil’s-advocate note. These are unscored drafts, not official exemplars or guaranteed full-mark answers.
