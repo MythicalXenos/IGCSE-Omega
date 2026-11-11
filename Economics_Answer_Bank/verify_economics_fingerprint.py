@@ -14,14 +14,15 @@ Checks, in order:
      9 = 3+3+3, 12 = 4+4+4; the three level-band tables appear 126/84/42 times.
   7. Every quotation in the two docs appears verbatim in the June 2023 examiner reports.
   8. The corrected census in 4EC1_Paper_Fingerprint.md matches the parse.
-  9. The old inventory figure in the guide (671 items / 2,072 marks) cannot reach 80
-     marks a paper -- the arithmetic that proves it is a parse artefact, not a judgement.
+  9. The whole-bank reconciliation and 1,022-row manifest agree on current counts and keep
+     classification/source-check fields explicitly pending; the old 671-line tally is labeled obsolete.
 
 Exit 0 if everything holds, 1 otherwise. Every check prints what it read.
 """
 from __future__ import annotations
 import re
 import sys
+import csv
 from collections import Counter
 from pathlib import Path
 
@@ -273,15 +274,25 @@ for needle in ("11/12", "10/12", "9/12"):
 check("not a Pearson statement" in cal and "labelled as construction" in cal.lower(),
       "the constructed part of the calibration page is labelled as construction")
 
-# ---------------------------------------------------------------- 9. the old figure
-print("\n[9] the inventory figure that cannot be right")
-old = {"1": 262, "2": 173, "3": 98, "6": 60, "9": 42, "12": 36}
-old_marks = sum(int(k) * v for k, v in old.items())
-check(sum(old.values()) == 671, f"old guide counts {sum(old.values())} items")
-check(old_marks == 2072, f"those items carry {old_marks} marks across 42 papers")
-check(old_marks / 42 < 80,
-      f"...which is {old_marks / 42:.1f} marks a paper on papers that print 80 -- so the old "
-      "census is a parser artefact, and the 998 here is the correct one")
+# ---------------------------------------------------------------- 9. current whole-bank scope
+print("\n[9] whole-bank reconciliation and pending audit flags")
+recon = (BANK / "Whole_Bank_Reconciliation.md").read_text()
+guide = (BANK / "4EC1_Exemplar_and_Model_Answer_Guide.md").read_text()
+check("1,022" in recon and "3,440" in recon and "998" in recon,
+      "reconciliation distinguishes 42-pair archive census from 43-paper current scope")
+check("Earlier line-based counts and mark-tariff breakdowns" in guide and
+      "must not be used as the full-bank denominator" in guide,
+      "legacy line-based tally is identified as superseded, not current bank size")
+with (BANK / "Whole_Bank_Question_Manifest.csv").open(encoding="utf-8-sig", newline="") as f:
+    manifest = list(csv.DictReader(f))
+check(len(manifest) == 1022 and sum(int(x["marks"]) for x in manifest) == 3440,
+      f"manifest has {len(manifest)} rows and {sum(int(x['marks']) for x in manifest)} marks")
+check(sum(x["paper_group"] == "Paper 1/P1R" for x in manifest) == 539 and
+      sum(x["paper_group"] == "Paper 2/P2R" for x in manifest) == 483,
+      "manifest separates 539 Paper 1/P1R and 483 Paper 2/P2R appearances")
+check(all(x["source_check_status"] == "PENDING_WHOLE_BANK_VISUAL_SOURCE_CHECK" for x in manifest) and
+      all(x["reasoning_skill_family"] == "PENDING_CLASSIFICATION" for x in manifest),
+      "all whole-bank classification and visual source-check fields remain explicitly pending")
 
 print()
 if fails:
@@ -289,5 +300,6 @@ if fails:
     for f in fails:
         print("  -", f)
     sys.exit(1)
-print("RESULT: OK — 42 papers, 998 items, 3,360 marks; 3/6/9/12 fixed at AO2-only, "
-      "AO2+AO3, AO2+AO3+AO4, AO2+AO3+AO4; no AO1 above 2 marks; every quotation found verbatim.")
+print("RESULT: OK — archive fingerprint 42 papers / 998 items / 3,360 marks; whole-bank manifest "
+      "43 papers / 1,022 parts / 3,440 marks; classification and visual source checks pending; "
+      "3/6/9/12 AO allocations and quotations verified.")

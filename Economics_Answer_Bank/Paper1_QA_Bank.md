@@ -1,7 +1,7 @@
 # 4EC1/01 Paper 1 — Question + Mark Scheme Answer Bank
 
 Built by `build_paper1_qa_bank.py` from the Paperlords archive and documented official-Pearson supplements.
-**22 papers · 539 items · 1760 marks · 539 items with an MS answer.**
+**Paper 1/P1R only: 22 papers · 539 items · 1,760 marks · 539 items with an MS answer.** This is not the whole Economics bank; see `Whole_Bank_Reconciliation.md` for the 43-paper, 1,022-part current scope.
 
 This machine-extracted index is provisional: some question stems leak later source passages
 because the parser does not yet fully respect PDF page/layout boundaries. Mark-scheme content

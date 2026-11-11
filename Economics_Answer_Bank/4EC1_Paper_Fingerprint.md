@@ -1,9 +1,12 @@
 # 4EC1 — the paper fingerprint
 
-**What this file is:** the structure of an Economics paper, measured from **every** question paper and
-every mark scheme in the archive rather than described from memory. Nothing here is estimated. Every
-number below is re-derived by `verify_economics_fingerprint.py`, which fails if a single paper in the
-archive stops matching.
+**What this file is:** an archive-only structural census, measured from every question paper and
+mark scheme in the 42-paper Paperlords archive. It does not include the separately supplied January
+2023 P1R QP/MS and is not the whole currently available question-bank denominator. The reconciled
+local/incoming scope is 43 paper/variant documents, 1,022 parts and 3,440 marks; see
+`Whole_Bank_Reconciliation.md` and `Whole_Bank_Question_Manifest.csv`. Nothing in this archive
+fingerprint is estimated. Every number below is re-derived by `verify_economics_fingerprint.py`, which
+fails if a single paper in the archive stops matching.
 
 **Sources (all in this repository):**
 
@@ -138,20 +141,17 @@ The examiner reports put the same four rows in their own words — see
 
 ---
 
-## 6. Correction to the existing inventory
+## 6. Correction to the legacy inventory
 
-`4EC1_Exemplar_and_Model_Answer_Guide.md` states that the archive holds **671 items** (262 / 173 / 98 /
-60 / 42 / 36). **That is wrong, and it is wrong in a way that can be proved without any judgement
-call:** 671 items at those tariffs total **2,072 marks** across 42 papers — an average of 49 marks per
-paper, on papers that print "The total mark for this paper is 80."
-
-The cause is a parser, not a disagreement: the builder matches a mark value only when it sits **alone
-on its own line** (`^\s*\((1|2|3|6|9|12)\)\s*$`). Runs of dotted answer lines often carry the mark on
-the same line as the last words of the question, so those items are invisible to it — 304 of 998.
-
-**The corrected figures are the ones in §1**, and they are re-derived from the PDFs by
-`verify_economics_fingerprint.py`, including the invariant *every paper sums to 80*. Anyone can check
-the claim in one line: the census must total 42 × 80.
+Earlier versions of the guide described a line-based tally of **671 items** (262 / 173 / 98 / 60 / 42 /
+36), totaling only 2,072 marks. That tally is not a census. The current workbook independently has
+671 question-type rows (P1 225, P1R 128, P2 202, P2R 116); those rows are also incomplete and must not
+be confused with the older tariff tally. The complete archive-only QP/MS parse is **998 parts / 3,360
+marks across 42 archive pairs**, as measured in §1. The current local/incoming scope adds the January
+2023 P1R source and is **1,022 parts / 3,440 marks across 43 papers/variants**. See
+`Whole_Bank_Reconciliation.md` for the source reconciliation and the manifest. The `verify_economics_fingerprint.py`
+checks the 42-paper archive census, including the invariant that each archive paper totals 80; it does
+not verify the extra incoming January 2023 P1R or the whole-bank visual classification.
 
 *This correction does not touch the guide's technique content, its script evidence or its 12-mark
 model — those were read by eye and stand or fall on their own quotes.*
