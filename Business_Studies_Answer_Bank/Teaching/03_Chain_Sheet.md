@@ -32,7 +32,7 @@ most 6-markers), then Theme 2 (it owns 3(e)), then Themes 1 and 5.
 | **Share capital** | sells shares → large sums for expansion | limited liability attracts investors | existing owners' control is diluted; dividends expected |
 | **Statement of comprehensive income** | revenue − cost of sales − expenses → profit → shows whether the year worked | compare years → spot a falling margin before it is a crisis | it is history: it says what happened, not what will |
 | **Statement of financial position** | assets vs liabilities → shows what the business owns and owes | shows liquidity → can it pay debts as they fall due | book values may not reflect what assets would fetch |
-| **Gross profit margin** | GP ÷ revenue × 100 → shows pricing and cost control | falling margin → raise price or cut supplier cost | a high margin on low sales is still a small profit |
+| **Gross profit margin** | GP ÷ revenue × 100 → gross profit as a share of revenue before other operating expenses | falling margin → investigate selling prices, discounts, product mix, input costs and waste before choosing a response | a positive/high GPM does not establish operating profit or cash available for investment |
 | **ROCE** | operating profit ÷ capital employed → return on the money invested | compare with a bank's interest → is the business worth it? | one year is not a trend |
 | **Current / acid test ratio** | current assets ÷ current liabilities → can it pay this year's bills | acid test strips stock → harsher, truer test | stock-heavy businesses look worse on acid test by design |
 | **Budgets** | set a spending limit → compare actual → fix the overspend | delegate spending → managers own their costs | a budget can be spent *because* it exists |
@@ -58,7 +58,7 @@ most 6-markers), then Theme 2 (it owns 3(e)), then Themes 1 and 5.
 | **Packaging** | protects the product → fewer breakages | shelf presence → noticed → bought | costs per unit and can be seen as waste |
 | **Price skimming** | high launch price → early adopters pay → margin funds the next launch | signals quality | invites rivals in fast; late majority waits for the price to fall |
 | **Penetration pricing** | low price → rapid market share → habit formed | volume → unit costs fall | low margin; customers may expect that price forever |
-| **Cost-plus pricing** | cost + mark-up → every sale is profitable | simple to apply | ignores what customers will pay and what rivals charge |
+| **Cost-plus pricing** | unit cost + a chosen markup on cost → sets a price above that unit cost under the stated assumptions | simple to apply | does not guarantee overall profit after overheads/other costs and may ignore willingness to pay and rival prices; markup % uses cost, margin % uses revenue |
 | **Competitive pricing** | matches the market → customers do not switch on price | safe where products are similar | margin is set by rivals; a price war hurts everyone |
 | **Promotional pricing / discount** | short-term volume → clears stock | attracts new customers to try | cheapens the brand; buyers wait for the next discount |
 | **Above-the-line promotion** | mass media → large audience quickly → awareness | builds a brand image | expensive and hard to measure |
