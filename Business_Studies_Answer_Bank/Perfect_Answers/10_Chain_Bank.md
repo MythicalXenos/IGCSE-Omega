@@ -4487,25 +4487,23 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 194. PROMOTION — social media vs coupons
 
-**Asked:** *"Option 1: use social media to advertise its wide range of chairs worldwide · Option 2: use coupons giving 10% off bedroom furniture."* — **May 2023 P2, 2(f)**, IKEA
+**QP wording:** *"IKEA constantly aims to improve the way it promotes its furniture. To do this IKEA is considering using the following techniques: Option 1: above the line promotion. Option 2: below the line promotion. (f) Justify which one of these two options IKEA should use."* — **May 2023 P2, 2(f)**.
 
-> **Read the two options again: one is untargeted reach, the other is a price cut dressed as a promotion.** **The question is whether IKEA's problem is that people do not know about the furniture, or that they know and are not yet buying.**
-
-**The AO2 anchors:** social media **may reach out to a worldwide audience**; coupons give **10% off any bedroom furniture**.
+**MS illustrations (not additional QP wording; MS p.14):** above-the-line promotion may use social media to advertise IKEA’s wide range of chairs to a worldwide audience and target age groups to encourage store visits. Below-the-line promotion may use a coupon for 10% off bedroom furniture; a store visit may lead to purchase of complementary bedroom lights. Risks: not everyone uses social media; there is no guarantee customers use the coupon or visit, so advertising costs may be wasted.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **IKEA should use the social media advertising.** The decisive fact is **what furniture buying needs: a customer who has decided to buy and is comparing ranges.** **A 10% coupon reduces the price of everything in the bedroom range for everyone who takes it — including every customer who was going to buy anyway, which is margin given away for nothing.** **Its weakness is stated in the scheme: "there is no guarantee that customers are going to use the coupon or even visit the store, so the advertising costs would be wasted", and the coupon is only printed and distributed at a cost before anyone uses it.** **Social media reaches the wide audience the scheme describes, and for IKEA the range itself is the advertisement** — chairs and bedroom furniture are visual, and a worldwide audience can see the product without going anywhere. **However, "not everybody uses social media so many people would not be aware of the advert to purchase furniture"** — the reach is wide but it is not everyone. **I would still choose social media, on the condition that the posts lead to a measurable route such as the website or the store locator — because reach with no path to purchase is not promotion, it is just attention.**
+> **I would choose above-the-line promotion through social media if IKEA wants to make its furniture range known to more potential customers.** The MS suggests social media can show a wide range of chairs to a worldwide audience and target particular age groups, potentially encouraging people to visit a store. A below-the-line coupon offers a different route: 10% off bedroom furniture may encourage a customer to visit and could lead them to buy complementary lights as well. However, not everyone uses social media, while a coupon may not be redeemed and the visit may never happen, leaving its advertising cost without the intended sale. I would favour social media if the target customers use it and IKEA can direct them to its stores; if the priority is to stimulate a purchase from customers already considering bedroom furniture, the coupon may be more effective. The QP gives no audience or redemption data to settle that comparison.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **The social media advertising** — first sentence |
-| **2. AO2 + AO3** | Furniture is **visual** → the range advertises itself; a blanket coupon **discounts sales that would have happened** |
-| **3. Counter-arguments** | Social media → **not everyone uses it**; coupons → **no guarantee they are used; distribution costs incurred first** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the posts lead to a measurable route to purchase** |
+| **Objective** | Improve promotion of IKEA’s furniture. |
+| **AO2 / AO3** | Social media can show chairs widely and target age groups; a 10% bedroom-furniture coupon may prompt a visit and complementary light purchases. |
+| **AO4 comparison** | Some customers do not use social media; coupons may go unused and fail to generate a store visit. |
+| **Possible evaluation** | Choose according to target-customer media use and whether IKEA needs awareness or purchase conversion; no audience/redemption evidence is supplied. |
 
-**Second acceptable chain:** a coupon **brings customers into the store, where they buy more than the discounted item** → the bedroom furniture is the bait and the basket is the profit → **but furniture is a considered purchase, and a 10% saving rarely decides one that was not going to happen.**
+**Alternative chain:** below-the-line promotion may be preferable if customers are already aware of IKEA but need an incentive to visit; the MS’s possible complementary light sale could offset some discount, but that is not guaranteed.
 
-> ⭐ **The decisive comparison in this pair is between reach and margin.** **Coupons always work on people who were already going to buy; advertising works on people who were not.** **Ask which group the business needs, and the answer follows.**
+> ⭐ **Item-specific takeaway:** compare the actual above-/below-the-line methods, not a universal reach-versus-margin rule. Use the MS’s possible target reach, store visit and cross-sale carefully, and retain its specific non-user and non-redemption risks.
 
 ---
 
@@ -4621,6 +4619,48 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 
 **Do not reuse Tata’s alternative chain for TUI or Huawei without checking those items’ exact QP objective, option wording and MS.** Their source-specific models and rationale are handled separately.
 
+
+### TUI — May–June 2024 P2, Q2(f): competition vs promotional pricing
+
+**QP wording:** *"The travel market that TUI operates in is very competitive, with many different businesses offering the same holidays at the same venues. When TUI introduces a new holiday or experience it has to consider the pricing strategy it will use. For its new holiday destination in Sri Lanka it is considering two options: Option 1: competition pricing. Option 2: promotional pricing. (f) Justify which one of these two options TUI should choose."* (printed p.11, identifier P75843A01124.)
+
+**MS illustrations (not QP wording; MS p.12):** competition pricing may make the new holiday’s price comparable to competing travel businesses and offer customers choice; promotional pricing uses a cheaper price to encourage switching and may increase market share. Risks: matching competitors does not ensure TUI covers the brochure/holiday cost; promotional sales may fall when the price returns to normal. AO2/AO3/AO4 = 3 each; Level 3 is detailed context, developed analysis and a clear judgement supported by thorough evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would use promotional pricing for TUI’s new Sri Lanka holiday if the launch priority is to persuade holidaymakers to switch from other travel agents.** A lower introductory price may give customers a reason to try TUI’s new destination and could increase its share of holiday bookings. Competition pricing also has a case: a comparable price can keep the holiday in line with alternatives at the same venue and may attract customers who want choice. However, matching rivals does not guarantee that the price covers TUI’s costs, while a promotion may bring bookings only for the discounted period and sales could fall when the normal price returns. I would choose the promotion if the discounted bookings contribute enough to justify the lower price and the holiday gives customers a reason to book again; if cost recovery is the main concern, competition pricing may be safer only where the price covers costs. The QP provides no cost, competitor-price or demand figures.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective/context** | New holiday in Sri Lanka in a very competitive market; QP does not state a numeric margin or booking target. |
+| **AO2 / AO3** | Competition pricing offers a comparable price/choice; promotional pricing may induce switching and increase market share. |
+| **AO4 comparison** | Comparable pricing may not cover costs; promotional sales may fall after the price reverts. |
+| **Evaluation** | Weigh switching against cost coverage and post-promotion demand; no figures decide the result. |
+
+**Alternative chain:** competition pricing may be preferable if its comparable price covers the holiday’s cost and customers choose among similar destinations largely on convenience or facilities; the QP/MS gives no such customer evidence.
+
+> ⭐ **Item-specific takeaway:** this is a launch in a competitive travel market, not Tata’s vehicle-pricing decision. Evaluate the possible switching benefit against cost coverage and whether bookings persist after the promotion.
+
+
+### Huawei — November 2021 P2, Q3(e): competition vs promotional pricing
+
+**QP wording:** *"Huawei operates in a very competitive market. For any new smartphone it has to decide which pricing strategy it will use. For its next smartphone Huawei is considering two options: Option 1: competition pricing. Option 2: promotional pricing. (e) Justify which one of these two options Huawei should use when launching its new smartphone."* (printed p.14, identifier P66475RA01420.)
+
+**MS illustrations (not QP wording; MS p.16):** a realistic competition price may help sales and give consumers more similarly priced choices; a lower promotional price may encourage switching brands and increase Huawei’s market share. Risks: a realistic price does not necessarily cover production costs; sales from a promotion may fall after the price returns to normal. AO2/AO3/AO4 = 3 each; Level 3 requires detailed relevant application, logical analysis and a clear evaluative judgement.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would use competition pricing for Huawei’s new smartphone if its price is realistic beside rival phones and covers the cost of production.** In a highly competitive market, a price comparable with alternatives may make customers willing to consider Huawei and preserve choice among similarly priced phones. Promotional pricing could more directly persuade some customers to switch from their present brand, potentially increasing Huawei’s market share. Its benefit may be temporary, however: the MS warns sales could reduce when the smartphone price returns to normal. Competition pricing is not automatically profitable either, since the MS says a realistic price may fail to cover production costs. I would choose competition pricing only if the cost and rival-price comparison supports it; if Huawei needs to overcome brand-switching reluctance and can sustain the discount, promotional pricing may be more effective. The QP supplies no cost, rival-price or demand figures.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective/context** | Launch a new smartphone in a very competitive market; the QP gives no numeric objective beyond the launch decision. |
+| **AO2 / AO3** | Comparable price may attract consideration; cheaper promotion may induce brand switching and market-share gains. |
+| **AO4 comparison** | Competition pricing may not cover cost; promotional sales may decline after the offer ends. |
+| **Evaluation** | Decide from cost coverage and likely persistence of switching; neither method guarantees profit or repeat sales. |
+
+**Alternative chain:** use promotional pricing if a lower launch price is needed to overcome customers’ commitment to current brands and Huawei can afford the reduced price; assess whether buyers remain after normal pricing resumes.
+
+> ⭐ **Item-specific takeaway:** keep the objective and two pricing methods tied to Huawei’s smartphone launch. Do not transfer Tata’s cost-plus argument or treat “realistic” as proof that costs are covered.
+
 ---
 
 ## 198. PRICING — an introductory price vs relying on brand recognition
@@ -4697,25 +4737,23 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 
 ## 201. PRICING — price matching vs a discount
 
-**Asked:** *"Option 1: match the price of competitors for its rooms · Option 2: offer a discount on a 3-night stay."* — **Nov 2024 P2, 2(f)**, Premier Inn
+**QP wording:** *"To be competitive in India, Premier Inn must make sure that it uses the correct pricing strategy. It is considering the following two options: Option 1: competition pricing. Option 2: promotional pricing. (f) Justify which one of these two options Premier Inn should choose."* — **November 2024 P2, 2(f)** (printed p.10; identifier P75961RA01020).
 
-> **Both options compete on price, so the difference is WHAT KIND of customer each attracts.** Matching is **permanent and open to everyone**; a discount on three nights is **temporary and aimed at a specific booking.**
-
-**The AO2 anchors:** Premier Inn **will match the price of competitors for its rooms**; or it **could offer a discount on the price of a 3-night stay**.
+**MS illustrations (not additional QP wording; MS p.15):** competition pricing matches competitors’ room prices and may attract customers at a similar/slightly lower price; promotional pricing may discount a three-night stay and increase bookings/revenue. Risks: customers may prefer another hotel’s facilities; more bookings do not guarantee equal or higher profit. AO2/AO3/AO4 = 3 each; Level 3 requires detailed application, developed analysis and a clear judgement based on thorough evaluation.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Premier Inn should match competitors' prices.** The decisive fact is **what a hotel sells and when it is chosen: a room is booked against other hotels on a screen, and price is the first thing a guest compares.** **Matching removes price as the reason a guest books elsewhere, so the decision falls to the hotel's facilities and location — which is where Premier Inn wants to compete, because that is what it has invested in.** **It also applies to every booking rather than to a chosen few, so it defends the whole business rather than one slice of it.** **The 3-night discount does something different and narrower: it raises bookings among guests already planning a longer stay, and "even though the bookings may be higher there is no guarantee that the profit will be the same or higher"** — because the discount comes straight off the margin on the nights sold. **However, matching has its own limitation, and the scheme names it: "there is no guarantee that customers will book with Premier Inn as they may prefer the facilities at another hotel".** **I would still choose price matching, on the condition that it is applied only to like-for-like rooms in the same location — because matching a rival's price for a hotel with a pool, when Premier Inn has none, gives away margin to win a comparison it will lose anyway.**
+> **I would choose competition pricing for Premier Inn in India if a comparable room price makes its hotels attractive against local alternatives.** Matching competitors may encourage customers to book when the price is similar or slightly lower. A discount on a three-night stay may also increase bookings and revenue, but it gives up some revenue per booking and does not guarantee that profit stays the same or rises. Competition pricing has its own limitation: a customer may still choose another hotel for its facilities, so matching price alone may not win the booking. I would choose competition pricing if the matched price covers costs and Premier Inn’s facilities are competitive; if it needs to attract customers for a longer stay and the discounted bookings remain profitable, the three-night promotion may be better. The QP provides no competitor prices, facility comparisons or cost data.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Price matching** — first sentence |
-| **2. AO2 + AO3** | Hotels are **compared on a screen** → matching **removes price as the reason to go elsewhere** and applies to **all** bookings |
-| **3. Counter-arguments** | Matching → **guests may prefer another hotel's facilities anyway**; discount → **bookings up but profit may not be** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it applies to like-for-like rooms in the same location** |
+| **Objective/context** | Use the correct pricing strategy to compete in India. |
+| **AO2 / AO3** | Match rival room prices to attract bookings; a three-night discount may raise bookings and revenue. |
+| **AO4 comparison** | Customers may prefer other facilities; increased bookings do not ensure equal/higher profit. |
+| **Evaluation** | Compare room costs, local rival prices and facilities; none is quantified in the QP. |
 
-**Second acceptable chain:** the 3-night discount **lifts occupancy midweek, when hotels are emptiest** → an empty room earns nothing, so **any price is better than none** → **whereas matching every night gives away margin on nights that would have sold at full price anyway.**
+**Alternative chain:** a three-night promotion may be more effective if the discount brings additional bookings that would otherwise go elsewhere and the resulting contribution still covers costs; the MS warns that higher bookings do not guarantee higher profit.
 
-> ⭐ **The distinction that wins this question: does the tactic apply to ALL sales or TARGETED ones?** **A blanket price change protects volume but permanently lowers margin; a targeted discount raises volume in the emptiest part of the business and leaves the rest untouched.** **Say which one the case's problem needs.**
+> ⭐ **Item-specific takeaway:** distinguish competition pricing from a time-limited discount. Keep both the facility-choice risk and profit uncertainty in view; do not assume room-comparison behaviour or midweek demand not given by the case.
 
 ---
 
@@ -4745,49 +4783,49 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 
 ## 203. PROMOTION — paid celebrity endorsement vs a free giveaway
 
-**Asked:** *"Option 1: pay fees to a celebrity for using its smartphones · Option 2: free game applications to encourage young people to buy a phone."* — **Nov 2025 P2, 2(f)**, Samsung
+**QP wording:** *"Samsung competes for market share with businesses such as Apple and Xiaomi in the technology market. Samsung plans to increase its promotional spending to increase its market share. Samsung is considering the following two options: Option 1: Sponsor celebrities to use its products. Option 2: Provide a free game app to customers when they purchase a product. (f) Justify which one of these two options Samsung should choose."* — **November 2025 P2, 2(f)** (printed p.11; identifier P78971A01120).
 
-> **This is the closest pair in the tier to entry 206 — and the difference is instructive.** **Both pair a paid broadcast against a free gift; here the paid channel is a CELEBRITY rather than a TV slot.**
+The stated objective is to increase Samsung’s market share by increasing promotional spending. A celebrity endorsement and a free game app are distinct promotional routes; do not import a universal “gift beats celebrity” rule.
 
-**The AO2 anchors:** Samsung **could pay fees to a celebrity for using its smartphones as a way of getting publicity**; **free game applications may encourage young people to buy a phone.**
+**MS illustrations (not additional QP wording; MS p.14):** Samsung could pay a celebrity to use its smartphones for publicity; people may be influenced by celebrities. Free game apps may encourage young people to choose Samsung over Apple and may be an attractive offer. Risks: a chosen celebrity’s scandal could damage Samsung’s reputation and demand; some customers may care more about other phone features/apps than free games. AO2/AO3/AO4 = 3 each; Level 3 requires detailed application, logical analysis and a thoroughly evaluated judgement.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Samsung should use the free game applications.** The decisive fact is **the age of the buyer: young people choose a phone largely on what it can do, and games are what it does.** **Free applications make the phone worth more at the moment of choosing, and that value is in the product itself rather than in an image attached to it.** **A celebrity endorsement buys attention and association, which is powerful for a brand that needs to be seen as desirable** — but **it is a fee paid to a person, and the association disappears the moment the contract ends or the celebrity moves to a rival's product.** **However, the games have their own limitation: they are free to the customer only if Samsung pays the developer, so the giveaway is a cost on every phone sold** — and **it narrows the margin on the units it is most trying to sell.** **I would still choose the games, on the condition that the phones they are bundled with are the mid-range models younger buyers actually buy — because a giveaway attached to a flagship nobody in that group can afford is a discount given to people who did not need persuading.**
+> **I would choose the free game app if Samsung’s target customers value that offer when choosing a phone.** The MS says the apps may encourage young people to choose Samsung rather than Apple and that some consumers may see them as an attractive special offer. Celebrity sponsorship may also increase publicity: people who see an admired celebrity using a Samsung smartphone may be encouraged to do the same. However, Samsung could suffer reputational damage and lower demand if its chosen celebrity is involved in a scandal. The free-game offer has a different risk: some customers may care more about other phone features or apps. I would favour the game app if it is relevant to the customers Samsung wants to attract; if celebrity influence is stronger in the target market and Samsung can manage the association risk, sponsorship may gain more attention. The QP gives no audience or response data.
 
 | Move | The answer |
 |---|---|
-| **1. Choice** | **The free games** — first sentence |
-| **2. AO2 + AO3** | **Young buyers choose on capability** → games make the phone worth more **in the product** |
-| **3. Counter-arguments** | Celebrity → **fee paid, association temporary**; games → **cost on every unit, narrowing margin** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it is attached to the models this buyer can afford** |
+| **Objective** | Increase Samsung’s market share through promotional spending. |
+| **AO2 / AO3** | Celebrity use may create publicity and influence buyers; free apps may attract young customers away from Apple. |
+| **AO4 comparison** | Celebrity scandal may damage reputation/demand; some buyers may value other phone features/apps more than games. |
+| **Evaluation** | Base the choice on target-customer response and the manageability of the endorsement risk; no audience data is supplied. |
 
-**Second acceptable chain:** a celebrity endorsement **generates press coverage and social media attention that is not paid for directly** → the reach goes far beyond the advert → **but it is the celebrity the audience remembers, not the specification, which does not help a phone competing on features.**
+**Alternative chain:** celebrity sponsorship may be preferable if the relevant customers are strongly influenced by the chosen celebrity and the association is credible; evaluate the possible scandal risk against that reach.
 
-> ⭐ **The celebrity's AO4 is worth learning as a fixed item: you PAY a fee, and the association ENDS.** **The scheme's whole objection to buying attention is that you rent it.** **The same logic applies to sponsorship (entry 208) and to TV advertising (entry 206).**
+> ⭐ **Item-specific takeaway:** compare market-share reach and buyer persuasion with the two actual MS risks. Celebrity endorsement is not automatically short-lived or unsafe, and a free app is not automatically more valuable to every buyer.
 
 ---
 
 ## 204. PROMOTION — sponsoring a charity or event vs special offers
 
-**Asked:** *"Option 1: sponsor a local charity such as Animal Rescue · Option 2: increase special offers on its sauces."* — **Nov 2023 P2, 2(f)**, Kraft Heinz
+**QP wording:** *"Kraft Heinz constantly aims to promote its products to encourage people to increase sales. To do this Kraft Heinz is considering using the following techniques: Option 1: sponsorship of a local charity. Option 2: increasing the number of special offers. (f) Justify which one of these two options Kraft Heinz should choose."* — **November 2023 P2, 2(f)** (printed p.11; identifier P74635A01124).
 **Also asked:** *"Option 1: free trial of a new dog food brand · Option 2: sponsor a local dog show."* — **June 2024 P1, 2(f)**, PPS
 
-**The AO2 anchors (Kraft Heinz):** sponsoring **gains publicity and involvement in the local community**; special offers **may encourage more people to purchase its products**.
+**MS illustrations (Kraft Heinz; MS p.15, not additional QP wording):** sponsorship of a local charity such as Animal Rescue may generate publicity and local-community involvement; notices may lead customers to support Kraft Heinz. More special offers on sauces may encourage purchases and help sales/competitiveness. Risks: charity sponsorship does not guarantee product purchases; offers may increase costs that are not recovered. AO2/AO3/AO4 = 3 each; Level 3 requires detailed application, logical analysis and a clear, thoroughly evaluated judgement.
 **The AO2 anchors (PPS):** a free trial **will appeal to dog owners who regularly purchase dog food**; sponsoring a dog show **will promote products such as dog collars**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Kraft Heinz should increase its special offers.** The decisive fact is **what the money has to do: move tins of beans and bottles of sauce off shelves.** **A special offer works directly on that decision, because the customer is already standing in front of the product with the price in view** — the offer changes what they pay at the moment they were going to choose. **Sponsoring Animal Rescue buys something real but different: publicity and standing in the local community.** **The problem is the link, and the scheme states it: "there is no guarantee that because an event has been sponsored by Kraft Heinz people will purchase its products."** **Publicity is not the same as a reason to buy, and a shopper who has seen the company's name on a rescue campaign still chooses the sauce on price and taste.** **However, "special offers may help increase sales but they can cost Kraft Heinz additional costs which might not be recovered"** — so the offer is a straight trade of margin for volume. **I would still choose the special offers, on the condition that they are timed to the period when the products are actually competed for — because a discount on a product the shopper was always going to buy is simply a price cut, and it is permanent once customers are used to it.**
+> **I would choose more special offers if Kraft Heinz needs to encourage purchases of its sauces directly.** The MS says offers may increase purchases and help keep the business ahead of competitors. Sponsoring a local charity such as Animal Rescue may create publicity and community involvement, and people seeing event notices may want to support Kraft Heinz. But that publicity does not guarantee that they buy its products. Special offers are more directly linked to the stated sales aim, although they may cost more than the additional sales recover. I would choose offers when the expected extra contribution justifies their cost; if local-community awareness is the larger problem and the sponsorship cost is affordable, the charity option may support goodwill and future interest. The QP gives no offer cost, redemption or sponsorship-reach data, so neither sales effect is certain.
 
 | Move | The answer |
 |---|---|
-| **1. Choice** | **The special offers** — first sentence |
-| **2. AO2 + AO3** | Offers act **at the shelf, where the decision is made** |
-| **3. Counter-arguments** | Sponsorship → **no guarantee people will buy**; offers → **cost that may not be recovered** |
-| **4. Possible evaluative consideration** | ⭐ **Provided they are timed to when the product is genuinely being contended for** |
+| **Objective** | Promote products to increase sales. |
+| **AO2 / AO3** | Charity sponsorship may build local publicity/support; more sauce offers may encourage purchases and sales. |
+| **AO4 comparison** | Sponsorship may not lead to purchases; special offers may have unrecovered costs. |
+| **Evaluation** | Compare the size/cost of incremental sales with sponsorship reach and affordability; no figures are supplied. |
 
-**Second acceptable chain (PPS):** sponsoring a **dog show** puts the products in front of **owners who already buy dog food and collars** — a targeted audience at a moment they are thinking about their dog → **but "it does cost to sponsor an event so PPS would need to incur cost upfront before they gain an increase in revenue", which a small business may not be able to carry.**
+**Alternative chain (Kraft Heinz):** charity sponsorship may be preferable where local awareness and community association are the main barriers to sales, provided that the publicity reaches relevant customers and the cost is proportionate. **Second acceptable chain (PPS):** sponsoring a **dog show** puts the products in front of **owners who already buy dog food and collars** — a targeted audience at a moment they are thinking about their dog → **but "it does cost to sponsor an event so PPS would need to incur cost upfront before they gain an increase in revenue", which a small business may not be able to carry.**
 
-> ⚠️ **Note which way this one goes, and why: the scheme's own formulation makes the sponsorship link weak — "there is no guarantee … that people will purchase its products".** **When a counter-argument is printed in the scheme, it is the correct ground to argue on.** **This is the opposite conclusion from entry 186 (AWG), where venture capital beat franchising — because there the option being rejected damaged the BRAND, and here the option being rejected is merely indirect.**
+> ⭐ **Item-specific takeaway:** more special offers are directly connected to the QP’s sales objective, but their unrecovered-cost risk matters; local sponsorship may build publicity without guaranteeing purchases. The MS’s examples are possible routes, not prescribed conclusions.
 
 ---
 
@@ -4848,6 +4886,31 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 **The scheme's own NOF chains (May–June 2021 P1, 3(e))** — *the source PDF is character-fragmented, and the wording below is repaired by spacing only, per rule 124:* *"Questionnaires will let NOF approach potential customers face to face to see what will attract them to visit the farm"* → *"NOF can ask specific questions which will give it detailed feedback that it can use to help attract more customers to its farm"* → AO4 *"NOF may not get all of the information it requires or people may not want to fill in the questionnaires whilst they are shopping so it might not be very helpful /limited feedback"*; against the internet: *"NOF can view a large selection of websites to look at other farms and gather information"* → *"It will be less time consuming /costly as it can see what other farms offer already and compare it to its own to see if it can improve based on this information"* → AO4 **"NOF may end up spending a lot of time looking at feedback or outdated information which will not be very useful for it and it is not gaining specific feedback on its own farm"**. **Read the two AO4s together and the decision is a case-linked evaluative consideration: the questionnaire fails when the shopper will not stop to fill it in, and the internet fails when the feedback is not about the farm.** The scheme's own AO3 for the internet is the one candidates miss — **"less time consuming /costly"** is a *cost* argument, not an information one.
 
 **The scheme's own TUI chains (May–June 2024 P2 3(e)):** internet — *"TUI could use the internet to view a wide variety of customers comments made about their experiences and service received whilst on holiday in Greece"* → *"By using the internet it does reduce the time spent researching and is less costly than other methods available"* → AO4 **"TUI could spend a great deal of time looking at information which is not relevant to them or is out of date, or even places they do not offer holidays to"**; questionnaire — *"Customers can take their time completing the form giving details of the experiences/services they received whilst taking part in a day trip around Rome"* → *"Thus giving TUI detailed information of their trip and possible ways to improve it"* → AO4 **"not all customers may want to complete the questionnaires so there may be less data to use"**. **The internet's AO4 names three separate ways it wastes the researcher's time — irrelevant, out of date, and destinations TUI does not sell — and the questionnaire's names one way it starves the sample. Say which risk you are accepting.**
+
+
+### TUI — May–June 2024 P2 Q3(e): internet vs customer questionnaire
+
+**QP wording:** *"TUI constantly checks for customer feedback and comments on its holidays, including hotel stays and cruises. It is considering the following two options to gain the most up-to-date views: Option 1: using the internet. Option 2: asking customers to complete a questionnaire. (e) Justify which one of these two options TUI should use."* (printed p.16; identifier P75843A01624.)
+
+**Matched MS (p.16, 3/3/3):** internet comments may cover Greek holiday experiences and be faster/less costly to research; questionnaire responses may give detail about services on a Rome day trip and possible improvements. Risks: internet material may be irrelevant, outdated or about destinations TUI does not sell; some customers may not complete questionnaires, reducing data. Level 3 requires detailed application, analysis and clear judgement supported by relevant evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would use questionnaires when TUI needs the most up-to-date, trip-specific feedback from its own customers.** A customer can describe a hotel stay, cruise or day trip in detail, which may help TUI identify a service to improve. Internet comments are quicker and less costly to review and may provide a wide variety of views, but they could be old, irrelevant or relate to places TUI does not offer. The questionnaire has a different risk: some customers may not respond, leaving TUI with less data. I would choose questionnaires if TUI can collect responses while the experience is fresh and obtain enough replies; if it needs broad feedback quickly across many destinations, internet research may be more efficient, provided it filters out irrelevant or outdated comments. No response-rate or research-volume data is supplied.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Gain the most up-to-date customer views on TUI holidays, stays, cruises and experiences. |
+| **AO2 / AO3** | Internet can surface varied holiday comments quickly and cheaply; questionnaires can gather detailed direct feedback on a specific experience. |
+| **AO4 comparison** | Internet may be stale/irrelevant/out-of-destination; questionnaire may yield fewer responses. |
+| **Evaluation** | Choose between breadth/speed and current direct detail, based on response rate and filtering capacity. |
+
+**Available exemplar/report:** local `2024-06_P2_TUI.md` has a Q2(f) pricing exemplar, not a Q3(e) scored response; no item-specific scored questionnaire exemplar is identified there.
+
+**Alternative chain:** internet research may be preferable when TUI needs broad feedback promptly, if it can limit results to current comments about destinations/services it sells.
+
+> ⭐ **Takeaway:** the QP makes recency central. Do not equate “internet” with current data or “questionnaire” with a representative sample; both depend on relevance and response.
+
+### TUI, May–June 2024 P2 Q2(f) remains in entry 197; its source-specific model and attached teaching table are recorded there.
 
 ---
 
@@ -4968,21 +5031,71 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 
 **The AO2 anchors (IKEA):** the bonus **encourages carpenters to make more tables and chairs**; job enrichment means **training present employees so they are able to work in the packing department**.
 
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on IKEA)*
-> **IKEA should use the bonus.** The decisive fact is **what the job is and why output is the problem: factory carpentry is measured in tables and chairs, and a bonus tied to making more of them rewards exactly the thing the business needs.** **It is also the reward the whole workforce can understand immediately — the scheme's own phrasing is that it "encourages them to make more tables and chairs", with no course to attend and no waiting to see whether the training worked.** **Job enrichment is the more thoughtful option and would give the carpenters a route into the packing department** — but **it changes where people work rather than how much they make, and the factory's output problem is a volume problem.** **However, "employees may not be interested in a bonus as it requires more work and effort"** — a reward for more output is only a reward to someone who wants more output. **However, that is the smaller risk here than the alternative: "not all employees are motivated by non-financial methods of motivation such as job enrichment; they may prefer to have additional remuneration."** **I would still choose the bonus, on the condition that it is paid on output the individual can actually control — because a factory bonus measured on the whole line's output rewards the carpenter for what the next shift did, and that is the version of it that demotivates.**
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(IKEA, May 2023 P2, 3(e); constructed)*
+> **I would choose the bonus if IKEA’s factory employees value extra pay and can meet the production targets.** The MS says the opportunity to earn a bonus may encourage carpenters to make more tables and chairs, and that an added salary may help retain them. Job enrichment offers a different benefit: training current employees to work in the packing department may build skills, make them feel valued and support promotion to assistant manager. However, a bonus requires extra effort and may not appeal to employees who do not want that trade-off; job enrichment will not motivate everyone, since some prefer additional pay. I would choose the bonus if employees value the money and can influence the target; if skill development and progression matter more, job enrichment may better motivate them. The QP does not give employee preferences or bonus terms.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **The bonus** — first sentence |
-| **2. AO2 + AO3** | Factory work is **measured in units**, and output is the problem → **the bonus rewards the exact thing needed** |
-| **3. Counter-arguments** | Bonus → **requires more effort, may not be wanted**; enrichment → **not everyone wants non-financial rewards** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it is paid on output the individual controls, not the whole line's** |
+| **Objective** | Motivate IKEA factory employees; the QP does not state a separate output target. |
+| **AO2 / AO3** | Bonus may encourage carpenters to make tables/chairs and add to salary; enrichment trains employees for packing and may support skills, value and promotion. |
+| **AO4 comparison** | Bonus requires extra effort; some employees prefer extra pay to non-financial enrichment. |
+| **Evaluation** | Compare employee preferences and whether targets are attainable/influenceable; bonus terms are not given. |
+
+**Available exemplar/report:** `2023-05_Series_Irsi_AudeRose_IKEA_MM.md` records a 5/9 IKEA P2 Q3(e) candidate response and examiner commentary. The score applies to that script, not this constructed answer.
+
+**Alternative chain:** enrichment may be preferable if IKEA can give employees useful packing skills and a credible route to promotion; the MS notes that some employees may instead prefer additional pay.
+
+> ⭐ **IKEA takeaway:** answer the motivation question, not an assumed factory output problem. The QP/MS does not specify target design or employee preferences.
+
+### Starbucks — June 2025 P2 Q2(f): financial vs non-financial methods for retention
+
+**QP wording:** *"Starbucks wants to ensure that its employees remain with the business. To do this it is considering the following two methods: Option 1: financial methods. Option 2: non-financial methods. (f) Justify which one of these two methods Starbucks should choose."* (printed p.10; identifier P78796A01020.)
+
+**MS (p.12, 3/3/3):** financial methods include a bonus if the coffee shop increases sales; income may encourage employees to stay. Job enrichment may provide skills/knowledge and a possible promotion route to assistant manager, supporting loyalty. Risks: some employees prefer work–life balance/non-financial rewards; others want extra pay to meet bills. Level 3 requires detailed application, logical analysis and a thorough, relevant judgement.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose non-financial methods for Starbucks if employees value the development and progression that job enrichment can offer.** Enrichment may give coffee-shop employees new skills and knowledge, help them feel valued and create a route towards assistant manager, which the MS links to loyalty and staying. A bonus tied to increased coffee-shop sales also has a plausible retention benefit because employees may value extra income. However, not everyone wants a sales-linked bonus; some prefer work–life balance and other non-financial incentives. Conversely, not all employees value enrichment, and some need additional pay to meet bills. I would favour enrichment where Starbucks can provide meaningful development and a progression route; if employees primarily value income and can influence sales, financial rewards may work better. The QP gives no survey of employee preferences or bonus-target details.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Retain Starbucks employees—not simply raise sales or profit. |
+| **AO2 / AO3** | Bonus linked to coffee-shop sales may give valued income; enrichment may build skills, value and progression to assistant manager. |
+| **AO4 comparison** | Some prefer work–life balance/non-financial incentives; others prefer added pay to meet bills. |
+| **Evaluation** | Judge by employee preferences and whether development or the sales-linked reward is meaningful. |
+
+**Available exemplar/report:** `2025-06_Series_CCT_Starbucks_Rabanne.md` contains a 7/9 response for this exact item and examiner comment; it is evidence about that script, not a mandatory template.
+
+**Alternative chain:** financial methods may work better if employees value additional income and consider the sales target attainable; retention still depends on whether the bonus is meaningful to them.
+
+> ⭐ **Starbucks takeaway:** the examiner report warns against replacing the retention objective with revenue/profit. Sales is an MS mechanism, not the question’s objective.
+
+### Huawei — November 2021 P2 Q2(f): financial vs non-financial motivation to retain employees
+
+**QP wording:** *"Huawei use a range of motivational methods to ensure its employees remain with them and do not leave. It has to make a decision on which of the following two options it will use. It is considering two methods: Option 1: financial. Option 2: non-financial. (f) Justify which one of these two options Huawei should choose."* (printed p.10; identifier P66475RA01020.)
+
+**MS (p.12, 3/3/3):** bonuses/piece rates may keep employees productive and encourage them to stay. Job enrichment may help employees enjoy work, gain skills and feel valued, with a possible route to supervisor of staff assembling tablets or watches. Risks: tablet assemblers may miss targets and receive no extra wage; some employees may prefer smartphone production and additional wages to pay bills. Level 3 requires detailed application, logical analysis and thorough evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose job enrichment for Huawei’s retention objective if employees value developing into supervisory work.** The MS connects enrichment to skills and feeling valued, and gives the example of promotion to supervisor of staff assembling tablets or watches. Financial methods such as bonus payments or piece rates may also encourage employees to stay by adding pay and supporting productivity. But tablet assemblers may fail to meet targets and then receive no extra wage; some staff may prefer to keep producing smartphones and receive extra money to pay bills rather than take on enriched work. I would favour enrichment where employees want the new responsibility and a credible promotion path; if they value income and prefer their current production role, financial rewards may be more persuasive. The QP gives no employee preference, target or bonus details.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Keep Huawei employees from leaving. |
+| **AO2 / AO3** | Bonuses/piece rates may reward productive work and retention; enrichment may build skills/value and a route to supervising tablet/watch assembly. |
+| **AO4 comparison** | Employees may miss bonus targets; some prefer smartphone production and additional wages to enrichment. |
+| **Evaluation** | Judge against employee preferences, target attainability and whether the promotion path is credible. |
+
+**Available examiner evidence:** the local advisory report records the Principal Examiner’s warning that candidates often described options without justifying them. No item-specific scored candidate script is mapped locally.
+
+**Alternative chain:** financial rewards may best support retention if employees prefer pay and Huawei sets targets they can influence; if targets are missed, the MS identifies a risk that the reward has no effect.
+
+> ⭐ **Huawei takeaway:** compare the tablet/watch development path with extra wages for smartphone-production employees. Do not use a cost-saving or productivity-only rationale as the judgement.
 
 **Backyard Shoez runs the other way — and the reason is that the bonus is a COMPETITION.** The scheme says it is for *"the person who has achieved the highest shoe sales"*, and warns that **"if an employee cannot continually achieve the highest sales then they may become demotivated and this could have the opposite effect."** **A prize that only one person can win demotivates everyone else by design.** **So for Backyard Shoez: job enrichment, provided the extra responsibility is offered to everyone rather than to a chosen few** — because the scheme's objection to enrichment is *"some employees may resent not being chosen."* **Both options in this pair fail in the same way — by excluding people — and the fix is the same.**
 
-**Second acceptable chain (Huawei or Starbucks):** non-financial rewards **cost the business less and stay with the employee** — the skills cannot be taken to a rival the way a bonus can → **but they only work where the workforce is not primarily there for the money, which the case has to tell you.**
+The Huawei and Starbucks items have different stated objectives and MS examples; see the separate source-specific sections below. Do not transfer IKEA’s target/output reasoning to them.
 
-> ⭐ **The transferable test: does the reward EXCLUDE anyone?** **A prize for one winner demotivates the rest; enrichment offered to a few creates resentment among the others.** **A useful evaluative question for this pair is who receives the incentive; it is not a required conclusion formula.**
+> ⭐ **Item-specific reminder:** answer the named objective and use only the relevant case’s MS examples. The four cases in this entry do not share a universal motivation mechanism or preferred choice.
 
 ---
 
@@ -4991,7 +5104,7 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 **Three distinct QP prompts and objectives (keep the options in their printed order):**
 - **Yellow, May–June 2019 P2R, 3(e):** *"Yellow is considering using non-financial rewards to help retain its employees. It is considering two options: Option 1: job enrichment. Option 2: job rotation. (e) Justify which one of these two options Yellow should use."*
 - **NEXT, May–June 2021 P2, 3(e):** *"NEXT understands that some employees are motivated by non-financial methods and these may help with employee retention. To do this NEXT is considering the following two options: Option 1: job rotation. Option 2: job enrichment. (e) Justify which one of these two options NEXT should choose."*
-- **M&M, May 2023 P2R, 3(e):** the QP compares job rotation with a bonus to retain employees; see the M&M case-specific notes below. [This block remains pending its own item-level source review.]
+- **M&M, May 2023 P2R, 3(e):** *"M&M wants to retain the employees working in its business. To do this it is considering the following options. Option 1: job rotation. Option 2: bonus. (e) Justify which one of these two options M&M should use."* Reviewed separately below.
 
 > These questions share job-design terms, but their objectives and MS reasoning are case-specific. The excerpts below are MS illustrations from the named papers, not universal strengths, weaknesses or marking rules.
 
@@ -5025,9 +5138,32 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 
 **Alternative for NEXT:** job enrichment may be preferable if NEXT can use employees’ window-display skills and give them worthwhile responsibility; weigh that against the MS’s time/training cost and possibility that employees use the skills in applications elsewhere.
 
-**M&M (May 2023 P2R, 3(e)) remains a separate case-specific item pending review.** Its objective and bonus alternative should not be inferred from the Yellow/NEXT blocks above.
+**M&M (May 2023 P2R, 3(e)) has its own completed source-specific model below; its retention objective and production-line examples are distinct from Yellow and NEXT.**
 
-> ⭐ **Item-specific takeaway for these reviewed blocks:** start from the stated objective. Yellow and NEXT ask about retention, so the answer must connect job design to commitment and possible departure; a busy-period coverage benefit alone does not settle either question. Conditional judgement is appropriate where staff preferences and internal opportunities are not supplied.
+> ⭐ **Item-specific takeaway for these reviewed blocks:** start from the stated objective. Yellow, NEXT and M&M ask about retention, but their options and MS mechanisms differ. Use each item’s own analysis and do not transfer conclusions across cases.
+
+
+### M&M — May 2023 P2R Q3(e): job rotation vs bonus for retention
+
+**QP wording:** *"M&M wants to retain the employees working in its business. To do this it is considering the following options: Option 1: job rotation. Option 2: bonus. (e) Justify which one of these two options M&M should use."* (printed p.15; identifier P72954A01520.)
+
+**MS (p.20, 3/3/3):** job rotation moves employees on/off the production line between manufacturing and designing vehicle parts, involving them across production; new experience/skills may make them more likely to stay. A bonus tied to car-manufacturing targets may make employees feel valued in the car road-testing section and encourage harder work. Risks: rotation may not increase wages; a factory-wide bonus may be unpopular if effort varies among employees. Level 3 requires detailed contextual application, logical analysis and clear judgement with thorough evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose job rotation for M&M’s stated aim of retaining employees if staff value learning different parts of production.** Moving between manufacturing and designing vehicle parts may give employees new experience and skills, which the MS links to staying rather than looking for another job. A bonus tied to car-manufacturing targets may also make workers feel valued and encourage greater effort, including in the road-testing section. However, rotation may not increase wages, while a factory-wide bonus may seem unfair if employees believe others contribute less. I would choose rotation if development is valued and roles can be rotated safely; if employees mainly want additional pay and M&M can set transparent, controllable targets, a bonus may be more effective. The QP/MS does not say what employees prefer or how the bonus is calculated.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Retain M&M employees. |
+| **AO2 / AO3** | Rotation across manufacturing/design may build experience and skills; target-linked bonus may make employees feel valued and encourage effort. |
+| **AO4 comparison** | Rotation may not raise wages; factory-wide bonus may be viewed as unfair if effort differs. |
+| **Evaluation** | Compare employee preferences and perceived fairness; bonus terms and skill-development value are not specified in QP. |
+
+**Available exemplar/report:** `2023-05_Series_Irsi_AudeRose_IKEA_MM.md` maps two candidate responses for this exact item: 3/9 (Level 1) and 9/9 (Level 3), with the high-scoring script and commentary transcribed. The examiner’s evaluative consideration in the 9/9 includes bonus size and how the bonus system works; it is evidence from that response, not a required phrase.
+
+**Alternative chain:** a bonus may be the better retention choice if employees value pay and the target is fair and under their influence; avoid assuming a group-wide bonus motivates every worker equally.
+
+> ⭐ **Takeaway:** answer retention, not simply output. Rotation’s experience/skills and bonus’s pay/recognition are distinct routes; compare the wage and fairness risks rather than transferring the NEXT job-rotation model.
 
 ---
 
@@ -5169,25 +5305,24 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 
 ## 217. CONTRACTS — on-call staff versus student staff
 
-**Asked:** *"Option 1: keep employees 'on call' for emergencies or staff shortages · Option 2: employ college and university students during the summer holidays."* — **June 2024 P2R, 2(f)**, Jimmy Choo
+**QP wording:** *"There are times during the year when Jimmy Choo needs additional employees to manufacture its products. It is considering the following two options: Option 1: casual employees. Option 2: part-time employees. (f) Justify which one of these two options Jimmy Choo should choose."* — **May–June 2024 P2R, 2(f)** (printed p.11; identifier P75844A01120).
 
 > **Both options give flexibility, and neither guarantees commitment — so the question is which sort of unreliability is easier to live with.**
 
 **The AO2 anchors:** some employees **like the option of being on call**; students **wanting to work during the summer holidays would be grateful for the opportunity**.
 
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Jimmy Choo should employ the students.** The decisive fact is **what the work is and when it is needed: producing handbags and clothes in the summer holidays is seasonal demand, and students are available in exactly that window, wanting exactly that work.** **The scheme captures the fit in one phrase — they "would be grateful for the opportunity" — and a worker who wants the hours in the weeks the business wants them is a worker who turns up.** **On-call staff look more convenient because they are existing employees who already know the work.** **However, the scheme's objection to them is fundamental: "casual employees do not get any guarantee of work from Jimmy Choo and this may make them lack commitment to do their work when they are employed."** **A worker with no guaranteed hours has no reason to answer the phone on the day they are needed** — and the moment they are needed is by definition an emergency, which is the worst time to find out. **However, the scheme notes that part-time employees may not have the skills or hours Jimmy Choo needs. Students may also be unavailable after the summer period, depending on their studies and availability; the case does not establish that every student is unskilled or will leave in September.** **I would still choose the students, on the condition that a core of experienced staff remains to supervise and train them — because student labour is seasonal by definition, and the skills have to leave with them.**
+> **Earlier student-first illustration withdrawn.** Use the fully reviewed item-specific model below; the QP does not establish summer-only demand, guaranteed student availability or a need for a core supervisory workforce.
 
 | Move | The answer |
 |---|---|
-| **1. Choice** | **The students** — first sentence |
-| **2. AO2 + AO3** | Seasonal production demand **matches the summer holiday exactly** → and they want the hours |
-| **3. Counter-arguments** | On-call → **no guaranteed hours, so no commitment**; students → **no guarantee of skills or availability** |
-| **4. Possible evaluative consideration** | ⭐ **Provided experienced staff stay to supervise and train them** |
+| **1. Choice** | A conditional preference for casual cover during unpredictable shortages; part-time may fit planned seasonal needs. |
+| **2. AO2 / AO3** | On-call staff may cover emergencies; students may want summer work and a temporary contract. |
+| **3. Counter-arguments** | Casual work may weaken commitment; part-time workers may not match needed hours or skills. |
+| **4. Evaluation** | Let the timing and predictability of extra staffing determine the choice. |
 
-**Second acceptable chain:** on-call staff **need no recruitment, no induction and no training, because they already work for the business** → the costs of taking on students are avoided → **but a workforce that is only called when there is a crisis will not plan around Jimmy Choo's needs, only its own.**
+**Alternative chain:** choose part-time workers if additional demand is planned well enough to agree hours and Jimmy Choo can confirm the workers have the required skills; this avoids treating every staffing need as an emergency.
 
-> ⭐ **The decisive question: which kind of unreliability can the business absorb?** **On-call staff are unreliable when you MOST need them; students are unreliable because they leave.** **The second is predictable and can be planned for — the first is not.**
+> ⭐ **Takeaway:** separate the MS’s possible summer-student fit from the QP’s broader “times during the year” need. Neither staff group is guaranteed to be available, committed or skilled.
 
 ---
 
@@ -5218,6 +5353,29 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 # BATCH 7e — 9-MARK JUSTIFY, PART 6 — **THE TIER IS COMPLETE**
 
 **10 entries covering the last 21 blocks: training, production, operations, recruitment, communication, place, product and structure.**
+
+
+### Reviewed item: Jimmy Choo, May–June 2024 P2R Q2(f) — casual vs part-time employees
+
+**QP wording:** *"There are times during the year when Jimmy Choo needs additional employees to manufacture its products. It is considering the following two options: Option 1: casual employees. Option 2: part-time employees. (f) Justify which one of these two options Jimmy Choo should choose."* (printed p.11; identifier P75844A01120.)
+
+**MS (p.13, 3/3/3):** casual staff may be on call for emergencies/shortages in handbag production and may value flexibility for family responsibilities; part-time students may want summer work, and Jimmy Choo can hire for a period without a permanent full-time commitment. Risks: casual employees have no guaranteed work and may lack commitment; part-time employees may not be available for required hours or possess needed skills. Level 3 requires detailed application, developed analysis and a clear judgement with thorough evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose casual employees if Jimmy Choo’s additional staffing need is genuinely irregular or an emergency.** The QP says extra employees are needed at some times during the year, and the MS links casual staff to being on call when production is short. This could give the business flexibility without committing to a full-time permanent contract. Part-time workers, including students seeking summer work, may be grateful for a fixed period of employment and could support planned seasonal production. However, casual employees have no guarantee of work, which may weaken their commitment when called; part-time employees may not be available for the hours Jimmy Choo needs or have the required skills. I would favour casual staffing for unpredictable shortages, but part-time staff for a known busy period where hours and skills can be agreed in advance. The QP gives no schedule showing which kind of demand Jimmy Choo faces.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective/context** | Provide additional manufacturing employees at certain times of year. |
+| **AO2 / AO3** | On-call cover can address emergencies/shortages; part-time summer workers may welcome temporary work, without a permanent full-time contract. |
+| **AO4 comparison** | Casual staff lack guaranteed work/commitment; part-time staff may not match required hours or skills. |
+| **Evaluation** | Irregular emergency demand favours on-call flexibility; predictable seasonal demand favours scheduled part-time hours, if skills match. |
+
+**Available exemplar/report:** local `2024-06_P2R_Jimmy_Choo.md` records candidate responses at 8/9 (Level 3) for casual and 5/9 (Level 2) for casual; scripts are transcribed from printed images and flagged for recheck. This is item-specific evidence, not an answer formula.
+
+**Alternative chain:** part-time students may be better for a planned summer peak because they want work in that period and Jimmy Choo can agree hours; it remains conditional on their skills and availability.
+
+> ⭐ **Takeaway:** the case is occasional additional staffing, not a general claim that students fit Jimmy Choo’s products or that casual staff are always unreliable. Match the contract to whether demand is planned or unpredictable.
 
 ---
 
@@ -5258,6 +5416,29 @@ The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are s
 > ⭐ **Item-specific takeaway:** decide based on training-skill fit and the stated learning objective, not the size of LEGO or an assumption that fifteen factories guarantee a trainer. The MS’s method and risk illustrations are not a universal training rule.
 
 **The scheme's own Jimmy Choo chains (May–June 2024 P2R, 3(e)) — induction against off-site:** induction — *"If all employees have induction training it gives them the opportunity to become familiar with their working environment in the production of shoes"* → *"This training enables them to feel part of the business and have a better understanding of how the business works"* → AO4 **"However, induction training does not always benefit because they may not work in that specific department, they had their induction training in"**; off-site — *"By training employees off site they are trained by experts in the various areas such as well as making the handbags and shoes but also how to display them"* → *"Employees can gain up to date skills from experts, resulting in fewer errors when they commence making handbags"* → AO4 **"However, the cost of training an employee off-site can be expensive, and the training is not guaranteed that it will match the job"**. **This pair is not the same choice as LEGO's or Irsi's, and the scheme shows why: BOTH options here can miss the job.** Induction can be given "in that specific department" the employee never works in; an off-site course "is not guaranteed that it will match the job". **So a useful evaluation is about match, not cost — and the answer can weigh the relevant mismatch if it supports the decision.**
+
+
+### Reviewed item: Jimmy Choo, May–June 2024 P2R Q3(e) — induction vs off-the-job training
+
+**QP wording:** *"Jimmy Choo employs people in many countries to produce its shoes, handbags and perfume. To ensure that its new employees have the best start possible the following two training options are being considered: Option 1: induction training. Option 2: off-the-job training. (e) Justify which one of these two options Jimmy Choo should choose."* (printed p.15; identifier P75844A01520.)
+
+**MS (p.17, 3/3/3):** induction familiarises employees with the shoe-production work environment and may help them feel part of the business/understand how it works. Off-site experts may teach skills in making handbags/shoes and displaying them; up-to-date skills may reduce errors when making handbags. Risks: induction may take place in a department the employee does not work in; off-site training may be costly and fail to match the job. Level 3 descriptor as above.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose induction training for Jimmy Choo’s new employees if it is delivered in the department where they will work.** The QP says the purpose is to give new employees the best start, and the MS links induction to familiarity with the shoe-production environment and understanding how the business works, which may help a new employee feel part of the company. Off-the-job training offers expert, up-to-date skills in making shoes or handbags and display, and may reduce errors. But that course could be expensive and may not match the employee’s actual job; induction also loses value if it is delivered in the wrong department. I would choose induction when it is role-specific and helps new staff settle in; I would choose off-the-job training when the new role requires expert skills that the course demonstrably teaches. The MS does not establish that every new employee has the same department or training need.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Give new employees a good start across Jimmy Choo’s international production operations. |
+| **AO2 / AO3** | Induction can familiarise with shoe-production surroundings and company operation; external experts can teach current product/display skills and reduce errors. |
+| **AO4 comparison** | Induction can be misplaced to the wrong department; off-site training costs more and may not match the job. |
+| **Evaluation** | Compare role fit and the skill gap; neither method is automatically best for all new employees. |
+
+**Available exemplar/report:** local `2024-06_P2R_Jimmy_Choo.md` records Q3(e) examiner comments and Level 2 candidate outcomes at 4/9 and 6/9; candidate script bodies are not transcribed. The report emphasizes analysis and evaluation; its comment is not a mandatory conclusion rule.
+
+**Alternative chain:** off-site training can be the better choice for employees who need specialised, current skills in handbags/shoes or display, if the course content matches their assigned duties and its cost is justified by fewer errors.
+
+> ⭐ **Takeaway:** compare the purpose (“best start”) with actual job-fit. Keep the two MS risks distinct; do not reuse the LEGO trainer-availability argument.
 
 ---
 
@@ -5304,28 +5485,33 @@ The decision reasoning below is item-specific; no method has a universal advanta
 
 ## 220. OPERATIONS — Kaizen versus just-in-time
 
-**Asked twice:** HRMW *(employees involved in improving production vs JIT so nobody waits for materials)* — **May–June 2020 P2R, 2(f)** · Samsung *(JIT for deliveries as required vs Kaizen for continuous improvement and less waste)* — **Nov 2025 P2, 3(e)**
+**Two separate QP items share this production-method pair; the evidence below is item-specific.**
+- **HRMW, May–June 2020 P2R, 2(f):** excluded from the 34-item review because the matched MS session identity remains unresolved; retain its source note only as an unresolved/out-of-scope item. Do not transfer its recommendation to Samsung.
+- **Samsung, November 2025 P2, 3(e):** reviewed below against its own QP/MS.
 
-> **Both are lean production methods, so both reduce cost — the difference is WHERE the saving comes from: the people, or the stockroom.**
+### Samsung — November 2025 P2 Q3(e): JIT vs Kaizen to minimise costs
 
-**The AO2 anchors (Samsung):** JIT **allows Samsung to receive electronic parts as required on the assembly line**; Kaizen **encourages a culture of continuous improvement to help reduce waste**.
+**QP wording:** *"Samsung has invested $17 million to build a factory in Texas, USA. It plans to introduce lean production in this new factory to minimise its costs. It is considering the following two options: Option 1: Just in time (JIT). Option 2: Kaizen. (e) Justify which one of these two options Samsung should choose to minimise its costs."* (printed p.15; identifier P78971A01520.)
 
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Samsung)*
-> **Samsung should use Kaizen.** The decisive fact is **what it makes and where the waste is: laptops and TVs are assembled from thousands of expensive components, and a defect found late wastes the whole unit's parts.** **Kaizen attacks waste at the point it is created, because the people on the line are the only ones who see where it happens** — and it improves continuously, so the saving compounds rather than being a one-off. **JIT offers a different and more immediate benefit: parts arrive as they are needed, so "Samsung does not pay to hold stock"** and no capital is tied up in a warehouse. **However, its counter-argument is a supply-chain risk the scheme states plainly: "if suppliers deliver in smaller batches this may increase the delivery cost of materials, which will increase the total cost of production."** **JIT trades inventory cost for delivery cost and for dependence on someone else's reliability — and for Samsung, a line that stops for want of a processor stops entirely.** **However, "introducing Kaizen will take time and require training of employees, which may increase costs for Samsung in the short term."** **I would still choose Kaizen, on the condition that it is introduced on one line first so the saving can be measured before the training bill is paid across the whole factory.**
+**MS (p.19, 3/3/3):** JIT times electronic-part deliveries to laptop assembly and may reduce storage costs. Kaizen encourages continuous improvement, may reduce waste in laptops/TVs, and lower laptop costs may help Samsung compete with Apple. Risks: smaller supplier batches may increase delivery and total production costs; Kaizen takes employee time/training and may increase short-term costs. Level 3 requires detailed application, developed analysis and a clear, thoroughly evaluated judgement.
 
-| Move | The answer |
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose Kaizen if Samsung’s new Texas factory can reduce enough production waste to outweigh the short-term cost of introducing it.** The MS says Kaizen may reduce waste when Samsung makes laptops and TVs, and that lower laptop costs could help it compete with Apple. JIT has a different cost-saving route: electronic parts arrive as required for laptop assembly, reducing storage costs. But smaller deliveries may increase material-delivery costs and total production cost, while Kaizen takes employee time and training in the short term. I would favour Kaizen if recurring waste is the larger cost and improvements persist; if inventory storage costs dominate and suppliers can deliver reliably without costly small batches, JIT may save more. The QP gives no waste, storage or delivery-cost data.
+
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Kaizen** — first sentence |
-| **2. AO2 + AO3** | **Thousands of parts per unit → late defects waste everything already spent**; the line workers see the waste |
-| **3. Counter-arguments** | Kaizen → **training costs and time in the short term**; JIT → **smaller deliveries cost more and depend on suppliers** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it is piloted on one line before roll-out** |
+| **Objective** | Minimise costs in the new Texas factory using lean production. |
+| **AO2 / AO3** | JIT times electronic-part deliveries to laptop assembly and reduces storage costs; Kaizen may reduce waste in laptops/TVs and help keep laptop costs competitive. |
+| **AO4 comparison** | Smaller batches can raise delivery/production costs; Kaizen requires time and training, increasing short-term cost. |
+| **Evaluation** | Compare avoidable waste, inventory and delivery costs over time; the QP provides no figures. |
 
-**On HRMW the pair is framed differently — employee involvement against JIT — and the scheme's caveats are worth learning because they are the two things that go wrong with each:** for employee involvement, **"there is no guarantee that the employees are willing to help improve the production of sports products, thereby saving the business money"**; for JIT, **"JIT can only work provided employees making footballs work at the same rate and that the supplier delivers the leather on time."** **Both methods depend on somebody else doing their part.**
+**Available ER/exemplar:** no item-specific scored candidate script or linked November 2025 P2 examiner-report commentary for this question is mapped in the local archive.
 
-> ⭐ **The decisive question: is the biggest waste in the PROCESS or in the STOREROOM?** **Defects, rework and idle time → Kaizen. Capital tied up in stock → JIT.** **And note that both fail the same way — they hand control of the outcome to other people.**
+**Alternative chain:** JIT may be preferable if holding electronic components in the Texas factory is a larger cost than the cost of smaller/frequent deliveries and suppliers can meet assembly needs reliably.
+
+> ⭐ **Takeaway:** both methods address the stated cost-minimisation objective by different routes. Do not infer that a $17 million investment establishes a particular waste or stock problem.
 
 ---
-
 ## 221. RECRUITMENT — internal versus external
 
 **Asked twice:** Kraft Heinz *(an internal appointee who understands sauce production vs external candidates via CV and interview)* — **Nov 2023 P2, 3(e)** · Premier Inn *(internal appointment within the worldwide hotels vs external via an employment agency)* — **Nov 2024 P2, 3(e)**
@@ -5334,20 +5520,43 @@ The decision reasoning below is item-specific; no method has a universal advanta
 
 **The AO2 anchors (Premier Inn):** an internal appointee **will have experience of how the hotel works**; using an agency **provides the opportunity to bring in additional skills of marketing the Premier Inn business**.
 
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Premier Inn)*
-> **Premier Inn should recruit externally through the agency.** The decisive fact is **what the role needs that the business does not already have: the scheme frames the vacancy as bringing in "additional skills of marketing the Premier Inn business" — and marketing skill is not something an internal reception appointment supplies.** **Internal recruitment fills a job but does not change the capability of the business; it moves an existing set of skills into a different chair.** **It is also cheaper and faster, because the person already knows the hotel, the systems and the standards, and needs no induction.** **However, the internal route carries a cost the scheme names exactly: "if the employee does move to take on the new job the old job may have to be filled and this could mean more expense"** — one appointment becomes two. **However, the agency route's own risk is real: "the new employee may not fit in with the other employees, which could cause problems within the work environment."** **I would still choose the external route, on the condition that the agency brief includes the hotel's culture and not just the job description — because the skill is what Premier Inn is buying, and a skilled marketer who cannot work with the front desk is a skill wasted.**
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(Premier Inn, November 2024 P2, 3(e); constructed)*
+> **I would choose external recruitment for Premier Inn if the vacant position requires marketing skills the current hotel employees do not have.** The MS says an agency may bring additional skills in marketing the business and can select from a wider applicant pool. Internal recruitment also has a strong case: an employee from Premier Inn hotels around the world may already know how the hotel works, and the business knows that person’s skills. However, promoting that employee may leave their old job vacant and create extra recruitment expense; an external appointee may not fit with existing staff. I would decide from the vacant role’s actual duties: internal if hotel knowledge and proven ability are most important, external if new marketing skills are needed and the agency can find an appropriate fit. The QP does not specify the post, so neither route is automatically superior.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **External recruitment** — first sentence |
-| **2. AO2 + AO3** | The role needs **marketing skills the business lacks** → internal moves a chair, external changes capability |
-| **3. Counter-arguments** | Internal → **creates a second vacancy to fill**; external → **may not fit the team, may lack the knowledge, wastes time** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the brief includes the hotel's culture, not just the job description** |
+| **Objective** | Select a suitable method for a new position in Premier Inn’s worldwide hotels. |
+| **AO2 / AO3** | Internal employee may know hotel operations and their own skills; agency can widen the field and potentially bring marketing skills. |
+| **AO4 comparison** | Internal promotion may create another vacancy; external hire may not fit the team. |
+| **Evaluation** | Match the vacancy’s duties to internal knowledge versus needed external capability; role details are not supplied. |
 
-**On Kraft Heinz the answer is internal, for the reason the scheme gives first: "Kraft Heinz know that the person they appoint will understand how the production of sauces works"** — **the knowledge is product-specific and cannot be bought in a candidate's first week.** **Its condition is about the vacancy the appointment creates: backfill the original post, or the department is short of two people rather than one.**
+**Available report/exemplar:** no item-specific scored candidate script or linked examiner-report commentary for this November 2024 P2 item is mapped in the local archive.
 
-> ⭐ **The decisive question: does the role need MORE of what the business already has, or SOMETHING it does not have?** **More of the same, and product knowledge matters → internal. A capability the business lacks → external.** **And both options cost something you did not plan for — the extra vacancy, or the settling-in risk.**
+**Alternative chain:** internal recruitment may be preferable if an employee already has the right skills to organise the hotel reception area; familiarity could reduce induction time, while the old job may still need backfilling.
 
+> ⭐ **Premier Inn takeaway:** the MS gives examples, not a definitive job description. Do not claim the role must be marketing or that external recruitment always adds a capability.
+
+### Kraft Heinz — November 2023 P2 Q3(e): promote internally vs advertise externally
+
+**QP wording:** *"Kraft Heinz will need to recruit more managers to take responsibility for new production lines. It is considering two options: Option 1: promote existing employees. Option 2: advertise managerial positions externally. (e) Justify which one of these two options Kraft Heinz should choose."* (printed p.16; identifier P74635A01624.)
+
+**MS (p.21, 3/3/3):** internal candidates may understand sauce production, reducing search time for a person with relevant skills/knowledge. External recruitment requires CV review/interviews for a Production Line Manager for Mac&Cheese and takes time. Risks: promotion creates another vacancy; an external manager may lack suitable knowledge/experience when starting. Level 3 needs detailed application, analysis and clear, thorough evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would promote an existing employee if Kraft Heinz needs the new manager to understand sauce production quickly.** An internal candidate may already know how the business makes sauces, and Kraft Heinz may spend less time finding a person with the relevant skills and knowledge. Advertising externally could produce a wider choice for the new Mac&Cheese production line manager. However, reviewing CVs and interviewing takes time, and an external appointee may still lack the needed experience when starting. Internal promotion also creates another vacancy that Kraft Heinz may need to fill. I would choose internal promotion if the employee has management ability as well as production knowledge; if no suitable internal candidate can lead the new line, external recruitment may justify the extra time. The QP gives no information about the internal candidate pool.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Recruit managers to take responsibility for new production lines. |
+| **AO2 / AO3** | Internal candidate may understand sauce production and reduce search time; external recruitment uses CV/interview stages for the Mac&Cheese line manager. |
+| **AO4 comparison** | Promotion creates another vacancy; external hire may lack knowledge/experience and recruitment takes time. |
+| **Evaluation** | Decide whether a suitable internal manager exists; no candidate-pool or appointment-time evidence is given. |
+
+**Available ER/exemplar:** local `2023-11_P2_Kraft_Heinz.md` contains examiner commentary and cohort performance for Q3(e), including the need to justify rather than describe; it does not provide a scored candidate script for this 9-mark item.
+
+**Alternative chain:** external advertising may be preferable if Kraft Heinz cannot identify an internal employee with the skills to manage a new production line; it then accepts recruitment time and possible lack of product familiarity.
+
+> ⭐ **Kraft Heinz takeaway:** internal promotion offers product knowledge but may displace someone; external hiring widens choice but does not guarantee fit. Use the new-line staffing objective, not a generic recruitment slogan.
 ---
 
 ## 222. COMMUNICATION — a written channel versus a face-to-face meeting
@@ -5370,7 +5579,30 @@ The decision reasoning below is item-specific; no method has a universal advanta
 
 **On Rabanne the pair is email against meetings, and the scheme gives email the reach — "used by everyone and can be sent from one location to another" — with the counter that "if there is no internet signal then sending messages and receiving them would be difficult", and meetings the discussion — "people … give their opinion" — with the counter that "meetings are very time consuming and not everyone can make the meeting because of the distance between departments."** **Here the geographic spread is the deciding fact: departments that are far apart cannot meet weekly, so a relevant consideration may be the same shape as above but the answer flips — email, provided that anything requiring a decision is followed by a meeting for those who can attend.**
 
-> ⭐ **The decisive question: does the information need to be RECEIVED, or ACTED ON?** **Information people just need to have → write it down. Information people have to change what they do about → say it, and take questions.** **Attendance and updatability are possible considerations when choosing a channel.**
+> ⭐ **Rabanne takeaway:** email’s reach and meetings’ discussion function both fit some communication tasks; test the actual connectivity and attendance constraints. This does not make written communication or meetings universally superior.
+
+
+### Rabanne — May–June 2025 P2R Q2(f): messages/email vs weekly meetings
+
+**QP wording:** *"Rabanne is finding that communicating with its employees around the world is becoming more difficult. Employees are also finding problems in communicating with each other. Rabanne is considering the following two options to help improve communication within the business: Option 1: communicate all information through text messaging/email. Option 2: hold weekly meetings. (f) Justify which one of these two options Rabanne should choose."* (printed p.10; identifier P78797A01020.)
+
+**MS (p.12, 3/3/3):** email can reach employees across locations and keep them updated about packaging a new aftershave/production changes; meetings allow face-to-face views on Lady Million adverts and discussion of amendments. Risks: no internet signal can prevent messages; meetings take time and distance may prevent attendance. Level 3: detailed application, logical development, clear judgement/thorough evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose text messaging/email for Rabanne’s stated communication problem across employees around the world.** A written message can be sent between locations and may keep staff updated about production changes, such as packaging for a new aftershave. Weekly meetings could let employees discuss and give opinions on a new Lady Million advert, which is useful when a decision needs discussion. However, a lack of internet signal can interrupt messages, while meetings take time and staff may be too far apart to attend. Email is therefore preferable for routine information that all locations need to receive; meetings may be better for a smaller group when discussion is essential and attendance is practical. The QP gives no signal-coverage or travel-time data, so neither channel is guaranteed to reach everyone.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Improve communication among Rabanne employees in different locations. |
+| **AO2 / AO3** | Email can distribute production information across locations; meetings support face-to-face views and discussion about an advert. |
+| **AO4 comparison** | Signal failure interrupts messages; meetings consume time and distance limits attendance. |
+| **Evaluation** | Match channel to routine distribution versus discussion; consider connectivity and distance, for which the QP provides no data. |
+
+**Available exemplar/report:** `2025-06_Second_Pass_Addendum.md` contains a verified 9/9 response for this exact Rabanne item. It is a scored candidate example, not a required structure. The document separately reports on the other Rabanne Justify question, but does not state its score.
+
+**Alternative chain:** weekly meetings may be preferable for a decision that needs employees to explain or debate different views, if the locations can attend without excessive travel/time.
+
+> ⭐ **Takeaway:** this is internal communication across a global workforce. Preserve email’s distribution advantage and meetings’ discussion advantage, while testing both connectivity and attendance risks.
 
 ---
 
@@ -5400,25 +5632,25 @@ The decision reasoning below is item-specific; no method has a universal advanta
 
 ## 224. PLACE — choosing between two new locations
 
-**Asked:** *"Option 1: open coffee shops in supermarkets · Option 2: open coffee shops in hospitals."* — **June 2025 P2, 3(e)**, Starbucks
+**QP wording:** *"Starbucks is continually looking at different locations to open its new coffee shops. It is considering the following two options: Option 1: open coffee shops in supermarkets. Option 2: open coffee shops in hospitals. (e) Justify which one of these two options Starbucks should choose."* — **May–June 2025 P2, 3(e)** (printed p.14; identifier P78796A01420).
 
 > **Note that both options ARE viable — so the question is which location's customers will actually stop.** **The scheme's counter-arguments for both are worded almost identically, which tells you what the decision turns on.**
 
 **The AO2 anchors:** supermarkets offer **customers who want a coffee after finishing their shopping**; hospitals offer **friends and relatives who have travelled a distance to get there**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Starbucks should open in supermarkets.** The decisive fact is **what the two sets of customers are doing when they arrive. A supermarket shopper has completed a task and is leaving with time they chose to spend — the scheme's phrasing is customers "who want to have a coffee after finishing their shopping", which is a decision they have made themselves.** **A hospital visitor has not chosen to be there, and the scheme's point follows: "there is no guarantee that visitors to the hospital would want to stay and have a drink if their time was limited."** **People in a hospital are focused on somebody else, and a coffee is something they buy when they are already free to sit down.** **However, the supermarket option has its own objection, and it is a mild but real one: "there is no guarantee that customers will want to stop and have a coffee after shopping — they may prefer to go home."** **Shopping is tiring and carrying bags is not a coffee moment.** **I would still choose the supermarkets, on the condition that the shop is placed by the exit with seating, not in the middle of the aisles — because a supermarket coffee shop competes with the door, and it has to be easier to sit down than to leave.**
+> **I would choose a supermarket location if Starbucks expects shoppers to stop for coffee after completing their shopping.** The MS also suggests they may buy cake, creating a possible additional sale. A hospital can serve friends and relatives who have travelled a distance, and some may take their relative for a drink. But supermarket customers may prefer to go home, while hospital visitors may have limited time. I would favour supermarkets where shoppers have time and the coffee shop is accessible on their route; a hospital may be better where visitors are waiting or can take a break. The QP gives no information about customer numbers, available space or time spent at either location, so the MS’s possible visits are not guaranteed.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Supermarkets** — first sentence |
-| **2. AO2 + AO3** | Shoppers **finish a task and choose to spend time**; hospital visitors **are there for someone else and are time-limited** |
-| **3. Counter-arguments** | Supermarket → **shoppers may just go home**; hospital → **visitors' time may be limited** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it is placed by the exit with seating** |
+| **Objective** | Choose a location for new Starbucks coffee shops. |
+| **AO2 / AO3** | Shoppers may buy coffee/cake after shopping; hospital visitors may want a drink after travelling and might take a relative. |
+| **AO4 comparison** | Shoppers may go home; hospital visitors may have limited time. |
+| **Evaluation** | Compare actual opportunity to stop, access and customer flow; no location data is provided. |
 
-**Second acceptable chain:** hospitals **have a captive audience who are there for hours, and a coffee is the one comfort available on site** → the footfall is guaranteed even if the spend is not → **but the scheme is explicit that the time is the constraint, and a person waiting on news does not sit down for a latte.**
+**Alternative chain:** hospital sites may be preferable where visitors have a long wait or have travelled far, but that does not apply to every visitor and the QP gives no dwell-time evidence.
 
-> ⭐ **Two location questions in the tier, and both turn on the same thing: will the customer have TIME and REASON to stop where you put the shop?** **Footfall is not custom — the supermarket and the hospital both have footfall, and only one of them has customers with time they chose to spend.**
+> ⭐ **Item-specific takeaway:** compare the two customer situations without presuming that either group has time or appetite for coffee; the QP supplies no location/customer-flow data.
 
 ---
 
@@ -5442,7 +5674,30 @@ The decision reasoning below is item-specific; no method has a universal advanta
 
 **On Rabanne the pair is a local trial against worldwide advertising, and the scheme's objection to the trial is the one to learn: "because product trials are based in a limited location, the results may not be representative of all locations in all countries."** **A test that only samples one city cannot justify a global launch** — whereas the objection to advertising is distribution: **"if they cannot find the perfume in a shop, then they will not be able to purchase it."**
 
-> ⭐ **The decisive question: does the new product ADD customers, or does it move the existing ones?** **A cookbook, a cheaper version, a product that competes with your own — transferred revenue.** **An entirely new audience — added revenue.** **And check whether the business can test the idea somewhere representative before committing.**
+> ⭐ **Rabanne takeaway:** for this item, keep the MS’s men’s aftershave trial separate from advertising a women’s perfume. Decide based on product feedback/representativeness versus worldwide reach and store availability; no universal trial-or-advertising rule follows.
+
+
+### Rabanne — May–June 2025 P2R Q3(e): product trials vs advertising
+
+**QP wording:** *"Over the past few years a number of new aftershave and perfume businesses have opened and may compete with Rabanne. To keep up with its competitors Rabanne is reviewing its marketing strategies. It is considering the following two options: Option 1: increasing the number of product trials. Option 2: increasing advertising. (e) Justify which one of these two options Rabanne should choose."* (printed p.14; identifier P78797A01420.)
+
+**MS (p.16, 3/3/3):** trials let men test a variety of aftershaves and state opinions; amendments can be made before full production. Advertising a new women’s perfume can reach a wider worldwide customer base and may encourage purchase. Risks: trial locations may not represent all markets; a perfume unavailable in shops cannot be bought. Level 3 requires detailed application, developed analysis and thorough choice-relevant evaluation.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would increase product trials if Rabanne’s main competitive need is to improve a product before wider launch.** The MS says men can test different aftershaves and give opinions, allowing Rabanne to amend a product before full production. Increasing advertising has a different role: promotion of a new women’s perfume could reach a wider worldwide customer base and encourage more women to buy it. Trials may be less representative if they are limited to one location, while advertising will not convert interest into sales if the perfume is unavailable in shops. I would choose trials when feedback can guide product changes and is drawn from customers relevant to the intended market; if the women’s perfume is ready and widely stocked, advertising may better reach new customers. The QP gives no distribution or trial-sample information.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective/context** | Keep up with new aftershave/perfume competitors; options apply to different products/market examples in the MS. |
+| **AO2 / AO3** | Trials collect opinions and permit pre-production amendments; advertising may reach women worldwide and encourage purchase. |
+| **AO4 comparison** | Trial location may not represent all markets; advertising cannot convert demand if the perfume is not stocked. |
+| **Evaluation** | Product uncertainty supports trials; ready product plus availability supports advertising. |
+
+**Available exemplar/report:** no item-specific scored candidate response is mapped in the local linked archive for this question. `2025-06_Second_Pass_Addendum.md` includes the other Rabanne Justify (Q2(f)); it does not establish this item’s score.
+
+**Alternative chain:** advertising may be preferable for the new women’s perfume if Rabanne has completed product development and can supply shops; broad reach without availability risks lost sales.
+
+> ⭐ **Takeaway:** keep trial quality and advertising reach distinct, and note that the MS examples concern aftershave for men versus a new perfume for women. Do not assume one option automatically applies identically to both products.
 
 ---
 
@@ -5452,21 +5707,25 @@ The decision reasoning below is item-specific; no method has a universal advanta
 
 **The AO2 anchors (M&M):** increasing promotion **means more people will know about M&M and the vehicles it has on sale**; introducing new features such as automatic door locking **may interest customers**.
 
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on M&M)*
-> **M&M should introduce the new features.** The decisive fact is **what a vehicle is and what decides a purchase: a car is bought after it has been driven or after someone has recommended it, and the scheme states the consequence of that — "there is no guarantee that people will buy the vehicles unless they have driven them or been recommended to buy one."** **Promotion makes people aware; awareness is not the step at which a car is chosen.** **A new feature, such as automatic door locking, gives the salesperson and the owner something to talk about and something to compare** — and it works on the customer who has already walked in, which is the customer who actually buys. **The scheme's own reason is blunter, and it is the AO3 line to use: "customers may prefer to have the latest technology available."** **A feature is a reason to buy from one dealer rather than another; promotion is only a reason to know that the dealer exists.** **However, "designing this feature could be expensive and customers may not wish to buy the vehicle because of the increase in price."** **A feature that costs money to add and more money to sell is a feature that can reduce sales.** **I would still choose the new features, on the condition that they are added to the models where the competition already offers them — because a feature that a rival also has is a cost of staying in the market, while a feature no rival has is the only kind that can be charged for.**
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(M&M, May 2023 P2R, 2(f); constructed)*
+> **I would improve M&M’s vehicles if customers need a product reason to remain interested in them.** The MS gives automatic door locking as an example of a feature that may attract customers who prefer the latest technology. Increasing promotion could make more people aware of M&M’s cars, vans and tractors and may bring them to showrooms to test or buy. But awareness alone may not lead to a purchase unless people drive or are recommended the vehicles. Improvements also carry a risk: design costs may raise prices and make customers less willing to buy. I would choose improvements if the feature is valued enough to justify its design cost and price effect; if awareness is the main barrier and customers respond to showroom visits, promotion may be better. The QP gives no demand, price or feature-preference data to settle the choice.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **The new features** — first sentence |
-| **2. AO2 + AO3** | Cars are **bought after driving or recommendation** → awareness is the wrong stage |
-| **3. Counter-arguments** | Features → **expensive to design and raise the price**; promotion → **no guarantee people buy, only that they know** |
-| **4. Possible evaluative consideration** | ⭐ **Provided they go on the models where rivals already offer them** |
+| **Objective** | Keep customers interested while M&M seeks to remain the world’s largest manufacturer of cars, vans and tractors. |
+| **AO2 / AO3** | Promotion can raise awareness and showroom interest; features such as automatic locking may appeal to customers seeking current technology. |
+| **AO4 comparison** | Promotion does not guarantee purchase without driving/recommendation; improvements may increase design costs and selling price. |
+| **Evaluation** | Compare awareness as a barrier with the appeal/cost of the specific feature; no evidence is supplied. |
+
+**Alternative chain:** promotion may be preferable where customers are unaware of M&M’s range; awareness could encourage a showroom visit and test drive, although the MS cautions that this does not guarantee purchase.
+
+> ⭐ **Item-specific takeaway:** do not turn the MS’s “unless driven or recommended” risk into a universal claim about how every vehicle is bought. Compare product appeal and purchase cost with awareness and test-drive interest.
 
 **On Can Culleretes the pair is advertising against extending the offer, and the scheme's objections are both cost-based: advertising "can be expensive, so although revenue may improve it will be a cost for the business"; opening for breakfast means "as it is only a small restaurant they may need to employ more staff as well, but this could lead to an increase in costs."** **The deciding fact there is the customer: "an increase in advertising can reach new customers and tourists visiting Barcelona", whereas breakfast "can attract existing and new customers."** **New tourists cannot be reached by breakfast — only by being found — so the answer is advertising, provided the channel is one a visitor would actually see.**
 
 **On Four Fitness the pair is a USP against a website upgrade, and the scheme's objection to the USP is the one that decides it: "if customers do not want access to this service as part of their membership they may feel they are being overcharged and the gym could be at risk of losing customers to its competitors, therefore decreasing its market share."** **An unwanted USP is a price rise with a label on it.** **The website, by contrast, is "currently for information only" and adding to it is a low-risk change — with the caveat that "advertising costs will increase to widely draw in customers", because a feature nobody visits the site to find does nothing.**
 
-> ⭐ **The decisive question: is the business unknown, or is its product unremarkable?** **Unknown → promotion, and the problem is that awareness is not desire.** **Known but unremarkable → improve the product.** **And watch for the option that raises price without adding value — the scheme calls it feeling overcharged.**
+> ⭐ **M&M takeaway:** choose from the item-specific balance between awareness, the value of the proposed vehicle feature, and their respective cost/purchase risks. Do not transfer the Can Culleretes or Four Fitness decision to M&M.
 
 ---
 
