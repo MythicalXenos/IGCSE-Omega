@@ -2279,18 +2279,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** it would have allowed them to **share their ideas on technology and work through solutions together**; and **as the partners had dropped out of college and had to work from a garage, it is likely they had few funds** to develop the technology.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A partnership lets two people pool what they each bring, and **for Jobs and Wozniak that meant combining a creative mind with a technological one on the same problem**. **Because they had dropped out of college and were working from a garage with few funds, neither could have developed the technology alone** — one partner's idea could be tested against the other's technical judgement the same day. **A partnership also shares the money and the risk between them**, so the cost of components or a failed design does not fall entirely on one person. **The measurable end is survival in a new market:** the sharing of funds and risk **gave them a better chance of succeeding in the electronics market** than either would have had on their own.
+> Starting as a partnership let Jobs and Wozniak **share their ideas and work through technology problems together**. Their different creative and technical strengths could help them develop more innovative Apple products. They had dropped out of college and were working from a garage, so they were likely to have **few funds**; sharing funds and risk meant neither person bore the whole cost alone. This gave the new business a better chance of succeeding in the electronics market.
 
-| Step | The move |
-|---|---|
-| **1. Point** | A partnership **pools different strengths** — creative and technical |
-| **2. Strand A** | Few funds → **shared money and shared risk** → the firm can afford to try |
-| **3. Strand B** | Two minds on one problem → **faster solutions, better products** |
-| **4. Measurable end** | **A better chance of success** in a new and competitive market |
+**Possible reasoning routes (not a required sequence or checklist):** pooling creative and technical strengths can support innovative products; sharing funds and risk can improve the start-up’s prospects in the electronics market.
 
-**Second acceptable chain:** a partner covers the work the other cannot → **expertise without employing a specialist** → costs stay low **while** the business is too small to pay salaries.
-
-> ⭐ **This is the question where a bare definition of "partnership" is most tempting.** It earns nothing here. Use **the garage, the lack of funds, and the college drop-out** — the scheme's own AO2 — and the answer becomes unanswerable-generic-proof.
+**Teaching note:** The scheme illustrates advantages through idea-sharing/combined strengths and sharing funds/risk in the specific start-up context. This is not a required two-chain structure; select and develop relevant reasoning in response to the prompt. A standalone definition names the ownership form but does not yet analyse an advantage in this context.
 
 ---
 
@@ -2299,25 +2292,20 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Asked:** *"Analyse the advantages for Apple of being a multinational company (MNC)."* — **June 2026 P2R, 3(d)**
 **Also asked:** *"Analyse the benefits for LEGO of being a multinational business."* — June 2022 P2 1(g) · *"Analyse the benefits for Saha of becoming a multinational business."* — Nov 2024 P1 4(b) · *"Analyse two benefits to Rabanne of being a global business."* — June 2025 P2R 1(g)
 
-> **This topic has come up four times in four years, on four different businesses. Learn it once and it answers all four.**
+> Related multinational questions recur, but their wording, requested scope and case evidence differ. Reapply the concept to the named business and answer the precise prompt; this Apple model is not a universal template.
 
 **The AO2 anchors (Apple):** access to **lower labour and production costs in China and Vietnam** for manufacturing its laptops; and a **larger consumer market** for its smartphones and smartwatches.
 
 **The other paper's own anchors — verbatim from the scheme (LEGO,** June 2022 P2 1(g)**):** LEGO **can sell its Harry Potter toys around the world**; and **the arts and craft materials can be produced in the most cost-effective location for LEGO**. **The scheme's chain runs through the rival —** *"this means that LEGO's global market will increase compared to rivals"* → *"thus reducing the average total cost and leading to a larger profit margin."* **Note the second half: the advantage is not only cheaper inputs, it is a bigger market than the competition's, which is what makes the average total cost fall.**
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Manufacturing in China and Vietnam lets Apple pay **lower labour and production costs than it would in the US**, so the cost of building each laptop falls. **That cost saving is not passed entirely to the customer — it is kept as margin**, which is what allows Apple to **fund the continued updating of its products and stay ahead on innovation**. **The second half of the same advantage is reach:** selling into many countries gives Apple a **far larger consumer market for its smartphones and smartwatches**, and high global sales volumes let it **mass-produce the iPhone and drive the unit cost down further**. **The measurable end is a cycle, not a single gain** — lower unit costs and larger volumes reinforce each other, so Apple stays profitable while competing on specification rather than on price.
+> Manufacturing in China and Vietnam lets Apple pay **lower labour and production costs than it would in the US**, so the cost of building each laptop falls. **That cost saving is not passed entirely to the customer — it is kept as margin**, which is what allows Apple to **fund the continued updating of its products and stay ahead on innovation**. **The second half of the same advantage is reach:** selling into many countries gives Apple a **far larger consumer market for its smartphones and smartwatches**, and high global sales volumes let it **mass-produce the iPhone and drive the unit cost down further**. **This can support profitability and reinvestment in product updates.** Keep the explanation tied to the cost and market advantages Apple is given; no separate judgement is required.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Being an MNC **cuts unit costs** — cheaper labour and production abroad |
-| **2. Strand A** | Saving retained as margin → **funds innovation / product updating** |
-| **3. Strand B** | Global sales → **volume → economies of scale → lower unit cost** |
-| **4. Measurable end** | **Unit cost falls while quality rises** — profitable at a global scale |
+**Possible reasoning routes (not a required sequence or checklist):** lower production costs in China/Vietnam can support profit and reinvestment in updates; a larger market for iPhones and smartwatches can support mass production and economies of scale, lowering unit costs.
 
 **Second acceptable chain:** spreading sales across many countries → **a downturn in one market is cushioned by the others** → revenue is more stable, so planning and investment are safer.
 
-> ⭐ **What changes between the four papers is only the AO2.** Use **the businesses' own facts**: Apple's China and Vietnam plants; LEGO's factories and global brand; Saha's robots for hotels; Rabanne's cosmetics sold worldwide. **The chain is identical.**
+> ⭐ **The case evidence and scope are not interchangeable.** The LEGO scheme’s own content differs from Apple’s. Where another paper asks for a specified number of benefits, answer that requested scope rather than treating this Apple answer as a universal one-point template; verify the other paper’s exact prompt and MS before reusing any example.
 
 ---
 
@@ -2330,16 +2318,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
 > Flow production is a continuous line, so **Apple must buy the machinery and robotics for that line up front, at very high cost**, and those costs are committed before a single laptop is sold. **The line is also built to produce one design**, which is a problem for a business that **constantly updates its iPhones** — because the equipment cannot simply be re-set for a new model. **The measurable end comes in two places.** First, the cost of the line and the disruption of changing it **push up the unit cost of the goods**, which makes it harder for Apple to compete with businesses such as **Oppo selling cheaper smartphones**. Second, **every time a new model arrives Apple may have to change machinery, which causes delays in production** — and a delayed launch is lost sales in a market where the new model is the reason people buy.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Flow production needs **expensive, single-purpose machinery** |
-| **2. Strand A** | High fixed cost + re-tooling → **unit cost rises → harder to compete on price** |
-| **3. Strand B** | The line is not flexible → **constant updates mean changing machinery → delays** |
-| **4. Measurable end** | **Higher unit cost** and **late launches** — both cost sales |
+**Possible reasoning routes (not a required sequence or checklist):** expensive machinery can raise unit costs and make competition with cheaper Oppo smartphones harder; limited flexibility in the context of frequent iPhone updates can require machinery changes and cause production delays.
 
 **Second acceptable chain:** a continuous line **cannot be paused** → a fault anywhere stops the whole line → **output falls sharply** for as long as the fault lasts.
 
-> ⚠️ **"Flow production makes boring, repetitive jobs"** is the standard textbook answer and **it is not what this scheme marks.** The scheme marks **cost and inflexibility**, because Apple's problem is a product that keeps changing.
+> The June 2026 MS illustrates **cost and inflexibility** in its indicative content for Apple. This is not an exhaustive list: assess any relevant, developed response against this item’s AO2/AO3 descriptors rather than treating other plausible disadvantages as automatically unacceptable.
 
 ---
 
@@ -2352,16 +2335,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
 > As a private limited company Nando's can **sell shares to family and friends**, which raises capital in a way a partnership cannot — and that money can go straight into **building new restaurants in Canada and Asia**. **The same change gives the two owners limited liability**, so if the business fails they stand to lose only what they invested rather than their personal possessions. **That protection is not a small administrative detail; it changes who is willing to put money in.** **The measurable end is the flow of investment:** because an investor's personal assets are protected, **more investors are attracted to the business**, which funds the continued building of restaurants — and each new restaurant is another source of revenue.
 
-| Step | The move |
-|---|---|
-| **1. Point** | An Ltd can **sell shares** — capital a partnership cannot raise |
-| **2. Strand A** | The capital raised **funds new restaurants in Canada and Asia** |
-| **3. Strand B** | Limited liability **protects the owners' personal possessions** |
-| **4. Measurable end** | Protection → **more willing investors** → more restaurants → more revenue |
+**Possible reasoning routes (not a required sequence or checklist):** share sales to family and friends can raise funds for restaurants in Canada and Asia; limited liability protects the founders’ personal possessions and may attract investors.
 
 **Second acceptable chain:** the business becomes a separate legal entity → it **continues trading even if an owner leaves or dies** → the expansion plans are not put at risk by one person's circumstances.
 
-> ⭐ **"Nando's will have limited liability" on its own is a definition, and definitions do not score.** The mark is for **what the protection causes** — investors willing to put money in.
+> A standalone definition of limited liability is not yet a developed benefit explanation. In this item, connect the protection of the founders’ personal possessions to the scheme’s investor-attraction example, or develop another relevant consequence in context.
 
 ---
 
@@ -2375,12 +2353,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
 > Induction training happens before a new employee starts the job, so at Nando's it will cover **health and safety in the kitchens** — which means **a new recruit knows what to do when something goes wrong on their first shift, rather than finding out at the moment it happens**. **The scheme's second anchor is the social one: being introduced to other Nandocas before serving customers means the new starter already feels part of the team.** **That feeling is not sentiment — it decides how they behave in front of paying customers.** **The measurable end is service quality:** a new recruit who feels comfortable and knows the kitchen rules **serves customers better from day one**, and better service in a restaurant chain is what brings people back — so the cost of the induction is recovered through repeat custom rather than through fewer accidents alone.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Induction happens **before** the first shift → the recruit is prepared |
-| **2. Strand A** | Health and safety covered → **can deal with emergencies when they arise** |
-| **3. Strand B** | Introduced to the team → **feels part of the team → more confident** |
-| **4. Measurable end** | **Better customer service** → repeat custom |
+**Possible reasoning routes (not a required sequence or checklist):** health-and-safety induction can prepare recruits to handle emergencies; meeting other Nandocas before serving customers can help new employees feel part of a team and support better customer service.
 
 **Second acceptable chain:** a prepared new starter **needs less supervision** from an experienced Nandoca → existing staff are not taken off their own work → **the restaurant runs at full capacity from day one**.
 
@@ -2393,23 +2366,18 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Asked:** *"Analyse how the Malaysian economy may benefit from Nando's expansion."* — **June 2026 P2, 4(b)**
 **Also asked:** *"Analyse the benefits to countries where Kraft Heinz is located."* — Nov 2023 P2 4(b) · *"Analyse the benefits for India of these plans."* — Nov 2024 P2 1(g)
 
-> **Note the party.** This is the only June 2026 question where the **beneficiary is a country, not the business.** Candidates who analyse Nando's profits here have answered a different question — and **a contextualised answer about the wrong party scores zero** (five recorded instances in this qualification).
+> **Note the beneficiary:** the question asks how the Malaysian economy may benefit, not how Nando’s may benefit. Keep analysis focused on economy-wide effects. Do not infer a blanket zero-mark rule from this distinction; apply the holistic descriptors to the response actually given.
 
 **The AO2 anchors:** more people **recruited by Nando's in Malaysia** to work in the restaurants; and **more people paying taxation to the Malaysian government** as chefs or waiters.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Nando's expansion means it **recruits more chefs and waiters in Malaysia**, and every one of those jobs is a person moved out of unemployment. **Because those workers now earn a wage, they pay income tax to the Malaysian government** — so the benefit to the economy is not only the jobs themselves but **the tax revenue that comes with them**. **The measurable ends are two and both are national, not corporate.** Falling unemployment means **more money being spent in Malaysian shops and services**, which supports other businesses entirely unconnected to Nando's. And **the additional tax the government collects can be spent on schools and hospitals**, which raises the standard of living in Malaysia over the long term.
+> Nando's expansion may mean it **recruits more chefs and waiters in Malaysia**. If these jobs are filled by people who were unemployed, the unemployment rate may fall and spending in the economy may increase. The new employees may also pay tax to the Malaysian government; that extra revenue could be spent on **schools and hospitals**, potentially improving living standards. The effects depend on who is recruited and how the government uses the revenue.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Expansion → **Nando's recruits staff in Malaysia** |
-| **2. Strand A** | Wages paid → **income tax collected** → government revenue |
-| **3. Strand B** | Unemployment falls → **higher spending in the wider economy** |
-| **4. Measurable end** | Tax spent on **schools and hospitals → standard of living rises** |
+**Possible reasoning routes (not a required sequence or checklist):** hiring local workers may reduce unemployment and support spending; income tax from employees adds government revenue that can be used for public services such as schools and hospitals.
 
 **Second acceptable chain:** Nando's needs local suppliers → **Malaysian farmers and food producers gain a customer** → their income and their employees' income also rise.
 
-> ⚠️ **The whole answer must stay on Malaysia.** The moment a sentence is about Nando's profitability, you have left the question. **Read who the beneficiary is before you write a word.**
+**Scope check:** keep the developed benefit directed to the Malaysian economy, as the question specifies; the scheme does not set a blanket zero-mark rule for every sentence about Nando's.
 
 ---
 
