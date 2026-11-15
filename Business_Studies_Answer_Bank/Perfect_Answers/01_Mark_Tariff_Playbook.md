@@ -49,7 +49,7 @@ The old figures **152/114/76/38** and claims that each tariff always maps to one
 | Command word | AO | What earns the mark |
 |---|---|---|
 | **Define** | AO1 | Correct definition. Nothing else. |
-| **State** | Varies by the item and information supplied | Give the requested fact; check the exact question and mark scheme for whether context or calculation is needed. |
+| **State** | AO2 — contextual response | Give the requested fact in the context supplied. The business name alone may not provide context; use a relevant product, service, location or other case detail. |
 | **Identify** | Read the graph/table as directed | Select the correct answer; see the item’s mark scheme. |
 | **MCQ / Select** | AO1 recall or calculation from given information | Select the correct answer; check the actual item. |
 

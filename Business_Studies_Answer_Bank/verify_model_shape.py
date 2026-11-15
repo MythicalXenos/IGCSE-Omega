@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
-"""Audit mapped model presence and selected causal-link features.
+"""Audit non-empty model-text presence and selected causal-link features.
 
 Only the 3-/6-mark entries use causal-link audit checks. The 9-/12-mark tiers
-are checked for mapped model presence, with no fixed answer architecture:
+are checked only for mapped, non-empty model text, with no fixed answer architecture or length quota:
 
     3-mark Explain   check for a causal mechanism step (an audit aid grounded in
                      the examined exemplar and the sampled schemes).
     6-mark Analyse   check for developed causal links (an audit aid, not a quota
                      for paragraph count or number of ideas).
-    9-mark Justify   no fixed answer shape is imposed; confirm mapped models exist.
+    9-mark Justify   confirm the mapped model has answer text; no fixed shape is imposed.
                      A condition, comparison, or separate conclusion is not mandatory.
-    12-mark Evaluate no fixed word count, paragraph architecture, or conclusion
-                     format is imposed; confirm mapped models exist.
+    12-mark Evaluate confirm the mapped model has answer text; no word count,
+                     paragraph architecture, or conclusion format is imposed.
 
 This script reads the blockquote that IS the model (never the entry's own
-commentary about it). Run from
+commentary about it). A presence check rejects empty and label-only blocks; the
+causal-link heuristics do not certify answer quality. Run from
 `Business_Studies_Answer_Bank/`; prints one RESULT per tier.
 
   python3 verify_model_shape.py
@@ -92,6 +93,28 @@ def models(text: str, tier: int):
     return out
 
 
+def has_answer_text(block: str) -> bool:
+    """Reject empty/label-only model blocks without applying a length quota."""
+    lines = []
+    for line in block.splitlines():
+        line = re.sub(r"^\s*>\s?", "", line)
+        # Model markers and labels are metadata, not answer content.
+        if re.search(r"\bModel answer\b", line, re.I):
+            continue
+        line = re.sub(r"\[\s*(?:CONSTRUCTED GRADE 9 TARGET|VERIFIED CANDIDATE EXEMPLAR)[^]]*\]", " ", line, flags=re.I)
+        line = re.sub(r"^\s*#+\s*", "", line)
+        line = re.sub(r"\*{1,3}", " ", line)
+        lines.append(line)
+    text = " ".join(lines)
+    text = re.sub(r"CONSTRUCTED GRADE 9 TARGET|VERIFIED CANDIDATE EXEMPLAR", " ", text, flags=re.I)
+    words = re.findall(r"[A-Za-z]+", text.lower())
+    metadata = {"model", "answer", "constructed", "grade", "target", "verified",
+                "candidate", "exemplar", "option", "mark", "marks"}
+    # A genuine answer word must remain after removing marker/option labels.
+    # This is a presence test, not a minimum answer length or quality standard.
+    return any(word not in metadata for word in words)
+
+
 def main() -> int:
     sp = importlib.util.spec_from_file_location(
         "anchors", HERE / "verify_chain_bank_anchors.py")
@@ -107,9 +130,9 @@ def main() -> int:
          lambda m: len(CAUSAL.findall(m)) >= 2,
          "at least two chain links (one point, developed strands)"),
         (9, "layer_c_9mark_coverage.py", None,
-         "a complete model (no mandated condition, option count, or conclusion format)"),
+         "non-empty mapped model text (no mandated condition, option count, or conclusion format)"),
         (12, "layer_c_12mark_coverage.py", None,
-         "a complete model (no mandated word count or paragraph/conclusion format)"),
+         "non-empty mapped model text (no word-count or paragraph/conclusion quota)"),
     )
 
     problems = []
@@ -129,8 +152,11 @@ def main() -> int:
                 continue
             total += len(ms)
             for m in ms:
+                if not has_answer_text(m):
+                    thin.append((e, "empty or label-only model block"))
+                    break
                 if test is not None and not test(m):
-                    thin.append((e, " ".join(m.split())[:170]))
+                    thin.append((e, "causal-link audit flag: " + " ".join(m.split())[:170]))
                     break
         print(f"  models parsed: {total}")
         if not mapped:
@@ -141,13 +167,13 @@ def main() -> int:
             problems.append(f"{tier}-mark entry {e}")
         if mapped and not thin:
             if test is None:
-                print(f"  all {len(mapped)} entries have at least one complete model; no answer-shape quota applied.")
+                print(f"  all {len(mapped)} entries have non-empty model text; no answer-shape or length quota applied.")
             else:
-                print(f"  all {len(mapped)} entries pass.")
+                print(f"  all {len(mapped)} entries meet this causal-link audit heuristic; not a quality certification.")
         print()
 
     print("=" * 74)
-    print("RESULT:", "OK - all mapped models are present; only the 3-/6-mark causal-link checks impose a shape test."
+    print("RESULT:", "OK - mapped model text is non-empty and 3-/6-mark causal-link heuristics ran; this is not a quality certification."
           if not problems else f"FAIL - {len(problems)} entry/entries to read.")
     return 0 if not problems else 1
 

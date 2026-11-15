@@ -43,7 +43,7 @@ These are optional prompts for reviewing practice work, not a validated ordering
 |---|---|---|
 | **Define** | **AO1** — knowledge, and nothing else | 1 |
 | **State / Give / Identify** | **AO1 + AO2** — one fact, applied | 1 |
-| **Outline** | **AO2** — application, briefly | 2 |
+| **Outline** | **AO2** — develop the point in the context supplied (two linked contextual points) | 2 |
 | **Explain** *(why / one reason)* | **AO1** — and *"no marks are awarded for a definition"* (rule 119) | 3 |
 | **Explain** *(how / one way / method)* | **AO1**, and a DIFFERENT technique from why (rule 62) | 3 |
 | **Analyse** | **AO2 + AO3** — no AO1 marks at all (rule 95) | 6 |
@@ -60,8 +60,8 @@ These are optional prompts for reviewing practice work, not a validated ordering
 
 **Three calibration points:**
 
-- **One reference is enough on a state question** — *"Just one reference to the context of the business is enough for a 'state' question"* *(rule 111)*.
-- **And one is REQUIRED to get paid at all on Explain — yet the tier's failure is never knowledge:** success rates across reports run **10–20%** *(rule 108)* — *"Candidates were able to identify a reason… but **not relate it to the business**."*
+- **State requires a contextual response.** One relevant case reference can be enough; the business name by itself is not application *(rule 111)*.
+- **Explain does not require contextual application.** The current specification defines Explain as a fact with two further expansion points; do not add case references as a compulsory step. Check the item’s exact MS for content and development.
 - **Context where AO2 is assessed:** use relevant facts from the case at the depth required by the level descriptor. The quoted “all paragraphs/variety” comment is specific to its report and is not a fixed context quota.
 
 ⚠️ **The generic test, from a real examiner ruling:** *"could apply to any business."* **Run every chain through it.** If the sentence would be true of any firm in any country, it has not been applied. **One chain aimed at the wrong thing** — the P2R Q3(b) 0/2 whose benefit flowed to the transport bill instead of the labour force — fails exactly this test.
@@ -86,7 +86,7 @@ These are optional prompts for reviewing practice work, not a validated ordering
 
 ### **2 marks — OUTLINE and CALCULATE**
 
-**What the examiner pays, in order:** for **Outline**, one applied point — **no development needed, and one context reference is enough** *(rule 111)*. For a **calculation**, the **substitution** and the **final answer**.
+**What the command requires:** for **Outline**, develop a point with linked contextual detail — the specification describes two linked points about the concept or issue, in context. Use the item’s exact MS to confirm accepted content and mark allocation. For a **calculation**, follow the method and answer allocation in that item’s MS.
 
 **60-second check — the calculation rules, all five of them**
 - [ ] **Answer line** — *"examiners are advised to take the answer provided by candidates on the **final answer line**"*: **if it is not to 2 d.p. you do not gain the full marks even if the correct answer is in your working** *(rule 59)*.
