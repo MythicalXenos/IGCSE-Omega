@@ -9,9 +9,9 @@ Built 2026-10-13 from the Paperlords archive (38 QPs + mark schemes) and officia
 
 ## What this bank is
 
-A benchmark library of **what a top-band answer actually looks like** for every 4BS1 question type, so you can compare your own work against real, examiner-confirmed grade-9-level scripts instead of guessing.
+A benchmark library of answers and marking evidence for the 4BS1 question types. It distinguishes published candidate work and official awarded marks from constructed answer models, which are not scored.
 
-It follows the collection method: gather verified top-tier answers from real exam series for each distinct question type and mark pattern; where genuine candidate scripts are unavailable, construct clearly labelled targets from the official mark scheme and examiner guidance.
+The method is to trace each review to the question paper and context, then the correctly matched mark scheme and level descriptors; use relevant examiner reports or exemplars where available. Missing reports are recorded rather than invented and do not block a QP/MS-based review. Where candidate scripts are unavailable, constructed answers are clearly labelled and left unscored.
 
 ## Two specifications — do not mix them
 
@@ -64,6 +64,7 @@ Three labels, because there are three kinds of source. Constructed answers are n
 | `06_External_Source_Library.md` | Web-harvested Pearson examiner reports: further `[VERIFIED CANDIDATE EXEMPLAR]` scripts, the full source catalogue, and collected examiner rules. |
 | **`10_Chain_Bank.md`** | ⭐⭐ **THE MODELS.** 252 entries — a full-mark-shaped answer for every governed topic in the qualification, plus the scaffolds (entry 228 = the universal 12-mark shape, 175 = the universal 9-mark shape). **This is where you look up a question you have been set.** |
 | **`08_Completion_Map.md`** | ⭐ **What "complete" means here, what is finished, and the five things that are not** — each one a fact about what Pearson publishes. Also the full list of the bank's checks. |
+| **`17_P2_12mark_substantive_review.md`** | Substantive P2/P2R review of all 17 usable Q4(c) items in the accepted corpus, with matched QP/MS/levels, available ER/exemplar evidence, unscored constructed answer spines, rationale, and 2020 quarantine notes. |
 | **`09_Verified_Tally.md`** | The per-script register: one row per verified full-mark script, citing file and line. Counts are a property of the register, never hand-typed. |
 | **`12_Grade_9_Marks_Budget.md`** | ⭐ **What a 9 costs, in arithmetic.** 160 marks, 133 for a 9, **27 you may lose**; the identical 12/4/4/3/2/1 tariff of every paper; the fixed AO split of the six long questions (**AO4 is only 9 marks a paper**); and the measured cost of each documented fault. Checked by `../verify_grade_budget.py`. |
 | **`13_Paper_Craft_and_Timing.md`** | ⭐ **The 90 minutes, measured.** Pearson's cover page says *"use [the marks] as a guide as to how much time to spend"* — this is that arithmetic: **1.125 min per mark**, a 22½-minute budget per question, and where five spare minutes buy the most. Checked by `../verify_paper_craft.py` against all 38 QPs. |

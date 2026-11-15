@@ -5,8 +5,8 @@
 >
 > **Source:** `qualifications.pearson.com/content/dam/pdf/International-GCSE/Business/2017/Exam-materials/4bs1-02r-pef-20240822.pdf` — *Examiners' Report, June 2024, Int GCSE Business 4BS1 02R*, Publications Code `4BS1_02R_2406_ER`.
 
-> ### ⚠️ RETRIEVAL LIMIT — STATED, NOT PAPERED OVER
-> **The PDF prints 51 pages. The web fetcher parses a maximum of 30.** Everything below is verbatim from the text layer the fetcher returned; **the report's tail — `Q3(d)`, `Q3(e)`, `Q4(a)`, `Q4(b)` and `Q4(c)`, which would carry this paper's 6-, 9- and 12-mark scripts — is NOT in this file and is explicitly MISSING.** Nothing here substitutes for it: **no paraphrase of an unretrieved script appears anywhere in this file.** The missing pages are recorded in `08_Completion_Map.md` as an open retrieval item.
+> ### ⚠️ RETRIEVAL LIMIT — SCRIPT BODIES MISSING, VERDICTS RETAINED
+> **This transcription includes examiner commentary and mark/level verdicts through Q4(c), including the 6/12 and 9/12 outcomes.** The handwritten candidate script bodies for `Q3(d)`, `Q3(e)`, `Q4(a)`, `Q4(b)` and `Q4(c)` are not transcribed here; the Q4(c) script text is explicitly unavailable. The commentary and verdicts below are attributed to the examiner, not reconstructed as candidate scripts. `08_Completion_Map.md` records this remaining script-body retrieval gap. The earlier 30-page text-fetch limit explains why the original harvest was incomplete, but does not mean the later-transcribed examiner commentary is absent from this file.
 
 > ### ⚠️ ON THE TRANSCRIPTIONS
 > Pearson prints the candidate responses as **scans**; the text layer behind them is machine-read. **Where that layer is obviously garbled (*"Jimmy Chod's"*, *"trading moc"*, *"meese"*, *"trenas"*) the reading is preserved as extracted, because the point of this file is the examiner's verdict on the script — not a cleaned-up version of it.** The examiner comments and cohort figures below are typeset text and are verbatim without qualification.

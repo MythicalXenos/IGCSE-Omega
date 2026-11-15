@@ -12,9 +12,9 @@ So complete means **four things, all achievable**:
 
 | # | Layer | Definition of done |
 |---|---|---|
-| **A** | **Evidence** | Every 4BS1 examiners' report that Pearson has published **and that is retrievable** is held and read in full — text layer *and* script pages. |
+| **A** | **Evidence** | Every retrievable 4BS1 examiner report is reviewed to the extent its text and pages are accessible; missing scanned script bodies or inaccessible pages are explicitly recorded, never reconstructed or treated as candidate evidence. |
 | **B** | **Exemplars** | Every question type × tariff × paper has the best available **verified** exemplar captured verbatim, with session, paper, question, exact mark and page. |
-| **C** | **Models** | Every remaining governed item has a clearly labelled `[CONSTRUCTED GRADE 9 TARGET]` answer built from QP + MS + ER. |
+| **C** | **Models** | Every remaining governed item has a clearly labelled constructed answer built from its QP + matched MS/levels; use relevant ER/exemplar evidence when available and record unavailable evidence rather than inventing it. |
 | **D** | **Integrity** | Files 00–08 contain **no stale or unverified claims**, no duplicates, and every rule traces to a cited source. |
 
 **Layers A and B are finite and closeable. Layer C is the long one. Layer D is housekeeping that must accompany both.**
@@ -38,7 +38,7 @@ So complete means **four things, all achievable**:
 | **Jun 2022** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
 | **May/Jun 2023** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
 | **Nov 2023** | ✅ **new** | — | ✅ | — | **COMPLETE** |
-| **Jun 2024** | ✅ | ✅ | ✅ | ⛔ | **COMPLETE** — P2R report confirmed non-existent |
+| **Jun 2024** | ✅ | ✅ | ✅ | ✅ **commentary/verdicts held; Q3(d), Q3(e), Q4(a–c) script bodies unavailable** | **COMPLETE with recorded script-body retrieval gap** |
 | **Nov 2024** | ✅ | — | ✅ **new** | — | **COMPLETE** |
 | **Jun 2025** | ✅ | ✅ | ✅ | ✅ | **COMPLETE** |
 | **Nov 2025** | ⛔ | — | ⛔ | — | **NOT RETRIEVABLE** — five publication dates tried, no third-party copy; see below |
@@ -144,6 +144,10 @@ Currently held (verbatim, with award):
 > | **TOTAL** | **380** | ✅ **252 entries** | all four print **0 remaining** |
 >
 > **The file is also now in strict numerical order, `## 1.` → `## 252.`** — it was not before this batch closed (entries 205–227 had been inserted before `## 196.`), and that is why every one of those checks reads `min`/`max` and not `entries[-1]`.
+
+### Substantive review status — Paper 2 / 2R, 12 marks
+
+The first substantive tier review is complete for the current 2019–2026 P2/P2R corpus: **17 usable Q4(c) questions were traced to their QP/context and matched MS/level descriptors**, and all item-specific ER/exemplar evidence found was recorded in [`17_P2_12mark_substantive_review.md`](17_P2_12mark_substantive_review.md). Missing item-level ER/script evidence did not block QP/MS review. The two May/June 2020 P2/P2R Q4(c) pairings remain **quarantined** and are not counted as reviewed. Several overclaims in the existing constructed answers were corrected; these answers remain **unscored**, and official candidate awards are separately attributed to their source. This is a new substantive-review status, not a change to the Layer C coverage count above. Next tier sequence: 9 → 6 → 3 → 2 → 1.
 
 > **6-mark coverage is verified by script, never by hand:** `python3 layer_c_6mark_coverage.py` prints 114 in the tier, **114 covered, 0 remaining**, and flags any entry reference that does not exist.
 
