@@ -253,11 +253,9 @@ This is the mechanical meaning of *"identify + 2 further marks for explaining"*.
 | **AO3** | • Option 1 – Tata Motor Company knows that if the cars are selling well it is making money, which means more profit for the business.<br>• Option 2 – The lower price from the promotional price will result in higher sales. |
 | **AO4** | • Option 1 – Although this type of pricing method guarantees a profit on the cost of manufacturer it does not guarantee that sales are going to be made, especially if a competitor is cheaper, therefore selling more vehicles.<br>• Option 2 – Even though the sales may be higher, the profit per vehicle will be lower. |
 
-### ⭐⭐ The mark scheme shows you the AO4 sentence
+### AO4: this item’s comparative evaluation
 
-**Look at the AO4 row.** Every item begins with a **concession**: *"Although…"*, *"Even though…"*. Pearson's own indicative content writes evaluation as **"yes, but…"**.
-
-**This is what AO4 physically looks like on paper.** It is not a summary. It is not a restatement. It is a **concession followed by the downside** — and it is written that way in the mark scheme itself.
+The two AO4 illustrations in this particular MS each weigh a benefit against a risk: cost-plus may cover manufacturing cost but does not guarantee a sale against a cheaper competitor; promotional pricing may raise sales but lower profit per vehicle. The wording offers useful evaluation for this item, not a required “yes, but” opening or a universal AO4 sentence pattern. A supported decision may be affirmative, negative or qualified; assess it against the item’s level descriptors.
 
 ### Exemplar response A — **Level 3 – 7 marks** (out of 9)
 
@@ -371,7 +369,7 @@ Response B is nearly as long as response A. It has **three** chains:
 | **AO3** | • Option 1 – this helps Tata Motor Company gather information that is relevant and can help in designing and pricing the next cars to be manufactured.<br>• Option 2 – and will not take Tata Motor Company as long to gather the information it requires. |
 | **AO4** | • Option 1 – although gaining this information is important for Tata Motor Company it is very costly in time and man power.<br>• Option 2 – the data it collects may not provide the information it requires. |
 
-**Again the AO4 row is written as a concession:** *"although gaining this information is important… it is very costly".*
+**The AO4 illustration here weighs primary research’s value against its time and manpower cost.** This is a source-specific counterbalance, not a required concession formula.
 
 ### Exemplar response A — **Level 2 – 6 marks** (out of 9)
 
@@ -403,7 +401,7 @@ Response B is nearly as long as response A. It has **three** chains:
 Two diagnostic failures:
 
 1. **The chains explode into generalities.** *"monopoly power → retained profits → further market research"* — this is not about **Tata**; it is a generic economics story. The examiner calls the genuinely Tata-specific moments "application" and lets the rest go.
-2. **The evaluation arrives as one undeveloped clause.** *"primary research sometimes gives misleading results"* is a **concession with no destination** — it is not followed by what Tata should therefore do, or why the choice still stands. Compare the mark scheme's AO4: *"although… it is very costly in time and man power"*. There is a specific cost named.
+2. **The response’s evaluation is described by the examiner as relevant but could be developed further and tied to the effects on Tata, or used to explain why secondary research was not chosen.** This is a comment on that response and item, not a fixed conclusion format.
 
 > **The Level-2 ceiling on a 9-marker:** chains that could belong to any business, plus evaluation that concedes but does not conclude.
 
@@ -500,7 +498,7 @@ The examiner literally writes the upgrade for the candidate. Note the mechanism:
 
 **This mark scheme confirms the tariff table exactly:** 3 + 3 + 3 + 3 = 12, equally weighted, AO1 included.
 
-**And again, AO4 is a concession.** *"By locating near a skilled labour force, the cost of land/infrastructure **may be higher**"* — the benefit is immediately turned against itself. *"Infrastructure is **one of many** factors"* — the factor is ranked against others.
+**In this item, the AO4 illustrations include weighing a location benefit against a possible higher cost and comparing location with other factors.** These are source-specific evaluation examples, not a required concession pattern.
 
 ### Exemplar response A — **Level 2 – 8 marks** (out of 12)
 
@@ -643,7 +641,7 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 > ### ✅ FOLDED — 14 October 2026. Do not fold these in again.
 > **All twelve `E`-rules below were matched against the numbered rule sequence and ALL TWELVE were already carried there.** They are therefore folded **by reference**: **`06_External_Source_Library.md` rule 125 is the concordance**, mapping each of `E1`–`E12` to the numbered rule that holds it, with the June 2019 evidence it adds.
 >
-> **Nothing here is a new rule. The table is kept because the EVIDENCE is the value** — two of the rows (`E6` length-vs-marks, `E3` all three AO4 questions opening with a concession) are findings in their own right and are cited on the rules they belong to.
+> **This table records source observations, not universal response rules.** The AO4 examples show one way the selected mark schemes express counterarguments; they do not require a concession opening.
 >
 > ⚠️ **The reason this note exists: left un-folded, the next pass could have entered these as rules 125–136** — eight duplicates and two competing numbering schemes for the same twelve ideas. **Match before you fold.**
 
@@ -651,7 +649,7 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 |---|---|---|
 | **E1** | **The listing cap.** *"Answers that list three [points] with no explanation will get a maximum of 1 mark."* | Official mark schemes, Q1(f) and Q2(d) |
 | **E2** | **No marks for a definition.** *"NB No marks are awarded for a definition."* | Official mark scheme, Q2(d) |
-| **E3** | **AO4 is written as a concession.** Every AO4 item in these mark schemes begins *"Although…"* / *"Even though…"* / *"By… may be higher"*. | Q2(f), Q3(e), Q4(c) mark schemes |
+| **E3** | **AO4 examples in this selected booklet use counterbalancing considerations.** This does not require “yes, but” wording or a concession formula. | Q2(f), Q3(e), Q4(c) mark schemes |
 | **E4** | **Knowledge that is merely correct and relevant can still earn nothing.** *"that secondary research could be outdated, cannot be awarded marks"*; *"comments about how the research is collected"*. | Q3(e) response B |
 | **E5** | **A fluent, chained answer with no case-study fact is bottom-of-Level-2.** | Q1(g) response B, 3/6 |
 | **E6** | **Length is not marks.** 400 words → 8/12. 110 words → 7/12. | Q4(c) responses A and B |

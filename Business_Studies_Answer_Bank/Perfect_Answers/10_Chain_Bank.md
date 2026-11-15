@@ -4421,23 +4421,23 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 191. PROMOTION — targeted online advertising vs e-newsletters
 
-**Asked:** *"Option 1: targeted online advertising, sending information only to customers who have purchased furniture or signed up to the website · Option 2: e-newsletters, a cost-effective way of sending information to interested customers."* — **May–June 2021 P2, 2(f)**, NEXT
+**QP wording:** *"NEXT already uses a range of promotional methods to encourage customers to buy its products. It is now considering the following two methods as a way of increasing customer awareness of its brand and products: Option 1: targeted advertising online. Option 2: e-newsletters. (f) Justify which one of these two options NEXT should choose."* — **May–June 2021 P2, 2(f)**.
 
-**The AO2 anchors:** targeted online advertising **reaches only those customers who have bought furniture or signed up**; e-newsletters are **a cost-effective way of sending information, and can include details of the wedding list service**.
+**MS illustrations (not additional QP wording; MS PDF p.12):** targeted ads may go to customers who bought furniture or signed up to the website, and can test whether the target audience buys the advertised furniture. E-newsletters are described as cost-effective after setup and can be distributed to all customers; the MS gives a wedding-list service as possible content. Its counterpoints are that targeted ads do not reach every customer who might buy furniture, while NEXT cannot be certain recipients read the newsletter.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **NEXT should use the e-newsletters.** The decisive fact is **what is being promoted: the wedding list service, which is not a product on a shelf but a service that a customer has to be told about at a moment when they are planning a wedding.** **An e-newsletter goes to everyone who has asked to hear from NEXT, so it reaches customers as they are planning rather than only when they are shopping.** **Targeted online advertising narrows the audience the other way — and the narrowing is its weakness: "it does not reach all the customers of NEXT who might wish to purchase furniture."** **It is aimed at people who have already bought furniture or signed up, so a customer about to marry who has not yet bought anything from NEXT never sees it.** **However, the newsletter has its own limitation, stated plainly: "NEXT cannot be certain that all its customers who want to receive the wedding list service will read the newsletter, as there is no guarantee or way of checking that they have seen it."** **I would still choose the e-newsletter, on the condition that the subject line and the content make the wedding service the reason to open it — because with both methods the message reaching the inbox is only the first step, and the newsletter at least reaches the whole list.**
+> **I would choose e-newsletters to increase awareness of NEXT’s brand and products among its customers.** The MS describes them as a cost-effective way to send information to customers and says a newsletter could include text, illustrations and special offers—for example, information about a wedding-list service. This gives NEXT a channel to communicate several products or services, rather than only targeting people who have already bought furniture or signed up to its website. Targeted online advertising has a useful advantage: NEXT can test whether the customers selected are buying the furniture being advertised. However, the MS notes that this method will not reach every NEXT customer who might want to purchase furniture. An e-newsletter has a different limitation: NEXT cannot be sure that customers will read it. I would prefer newsletters if broad customer awareness is the priority and the content is relevant; targeted advertising may be preferable for testing interest in a specific furniture offer among the selected audience. The QP gives no readership or response data to establish which channel produces more awareness or sales.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **The e-newsletters** — first sentence |
-| **2. AO2 + AO3** | A wedding list is **a planning decision, not a shopping one** → the newsletter reaches the customer **before** they buy |
-| **3. Counter-arguments** | Targeting → **misses customers who have not bought yet**; newsletter → **no guarantee it is read or opened** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the content makes the wedding service the reason to open it** |
+| **Objective** | Increase awareness of NEXT’s brand and products, not exclusively promote the wedding-list service. |
+| **AO2 / AO3** | Newsletter can distribute multiple kinds of product information to customers after setup; targeted ads can test response among selected furniture buyers/site sign-ups. |
+| **AO4 comparison** | Targeting misses other potential furniture customers; newsletter distribution does not establish that recipients read it. |
+| **Possible evaluation** | Choose by whether the aim is broader customer awareness or testing a specific offer, and by actual readership/response, which the QP does not provide. |
 
-**Second acceptable chain:** targeted advertising **wastes nothing, because every recipient has already bought furniture and is therefore a proven customer** → the click-through rate is higher → **but NEXT's growth depends on customers who have NOT bought yet, and targeting deliberately excludes them.**
+**Alternative chain:** targeted advertising may suit NEXT if it wants to test a specific furniture message with customers who have bought furniture or signed up. The MS supports the ability to test response, but also warns that this targeting does not reach every potential furniture customer.
 
-> ⭐ **This pair is not really about cost or reach — it is about WHERE IN THE CUSTOMER'S LIFE each method speaks.** **Targeting catches the customer after they have started buying; a newsletter can catch them before.** **For a service tied to a life event — a wedding, a new baby, a move — the before matters more.**
+> ⭐ **Item-specific takeaway:** follow the QP’s stated awareness objective. Treat the wedding list as an MS example of possible newsletter content, not as the whole QP objective; compare distribution potential with actual engagement rather than assuming recipients read the message.
 
 ---
 
@@ -4580,51 +4580,46 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 196. PRICING — an introductory/low price vs another tactic
 
-**Asked:** *"Option 1: charge a low price for its meals when it first opens a new restaurant · Option 2: offer a half-priced drink when a person orders a meal on their first visit."* — **June 2026 P2, 2(f)**, Nando's
+**QP wording:** *"Nando’s is opening new restaurants in Europe. To remain competitive, Nando’s needs to consider its pricing strategy. Nando’s is considering the following two options: Option 1: penetration pricing. Option 2: promotional pricing. (f) Justify which one of these pricing strategies Nando’s should choose to remain competitive."* — **June 2026 P2, 2(f)**. The specific meal/drink examples below are from the MS, not the QP stem.
 
 > **The QP pairs penetration pricing (Option 1) with promotional pricing (Option 2).** Option 1 lowers Nando’s meal prices when a new restaurant opens; Option 2 offers a half-price drink with a meal on the customer’s first visit. The distinction is whether to set a low opening price for the meal or attach a limited offer to the first purchase.
 
-**The AO2 anchors:** Nando's **may charge a low price for its meals when it first opens**; or it **could offer a half-priced drink when a person orders a meal on their first visit.**
+**MS illustrations (not additional QP wording):** Option 1 may mean a low meal price when a new restaurant opens; Option 2 may mean a half-priced drink with a meal on the first visit. The MS suggests the lower price could attract customers compared with nearby restaurants, while the drink offer could persuade people to try the new restaurant if they see a good deal. Its counterpoints are that a low price may signal low-quality food, and customers may stop visiting after the promotion ends.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Nando's should offer the half-priced drink rather than discounting the meals.** The decisive fact is **what the two options do to the price the customer learns.** **Opening with low meal prices teaches customers what a Nando's meal is worth — and the scheme warns that "some customers may associate a low price with low-quality food and may not visit the new restaurant".** **Once that impression is set, raising the price to its normal level reads as a price rise rather than as a return to normal.** **The half-priced drink avoids that entirely, because the meal keeps its real price and the customer has simply been given something extra on the first visit.** **However, the drink offer has its own weakness: "customers may not continue dining at Nando's once the promotional offer ends"** — because the incentive was the drink, not the restaurant. **I would still choose the half-priced drink, on the condition that the first visit is good enough to earn the second — because a chicken restaurant lives on repeat custom, and the offer only works if what it is promoting is worth coming back for.**
+> **I would choose promotional pricing for Nando’s new restaurants, using a half-priced drink with a meal on the first visit.** The MS suggests this could give customers a reason to try the restaurant if they consider the offer good value, which may help Nando’s compete with other restaurants in Europe. A low meal price could also attract customers if it is below nearby competitors’ prices, but some customers may associate a low price with lower-quality food and decide not to visit. The drink offer does not remove every perception or pricing risk: customers may see it as a temporary bargain, and the discount may reduce the revenue from the first order. The MS’s specific concern is that customers may not continue dining at Nando’s after the offer ends. I would still choose the drink offer if Nando’s can use the first visit to demonstrate food and service that give customers a reason to return; if its main competitive problem is that meal prices are above local rivals, the lower opening meal price may instead be more effective.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **The half-priced drink** — first sentence |
-| **2. AO2 + AO3** | Discounting meals **teaches a low price → reads as "cheap quality" → then a rise reads as a price rise**; the drink offer **protects the meal's real price** |
-| **3. Counter-arguments** | Low meal price → **low-quality association**; drink offer → **customers may not return once it ends** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the first visit earns the second** — because this business runs on repeat custom |
+| **Choice** | Promotional pricing via the QP’s Option 2; a qualified alternative is possible if local meal prices are the main competitive issue. |
+| **AO2 / AO3** | A first-visit drink offer may make trying a new Nando’s restaurant seem like a good deal; a lower meal price may attract customers versus nearby restaurants. These are possibilities in the MS, not guaranteed sales. |
+| **AO4 comparison** | Lower meal prices may be associated with lower food quality; the drink promotion may fail to create repeat visits after it ends and may discount the first order without changing later choices. |
+| **Possible evaluation** | Choose based on the competitive problem and whether the first visit gives customers a reason to return; neither option eliminates pricing or perception risks. |
 
-**Second acceptable chain:** a low opening price **fills the restaurant and builds a reputation through word of mouth** → a full restaurant is its own advertisement → **but the customers who arrive are price-sensitive ones, and they are the hardest group to raise prices on.**
+**Alternative chain:** if the main obstacle to trial is that Nando’s meal price is above nearby restaurants, the low opening price may be more directly competitive; this remains conditional because the case gives no local price comparisons or customer research.
 
-> ⭐ **The comparison in this question is between discounting the PRODUCT and discounting the ADD-ON.** **Protecting the main price preserves what customers think the product is worth** — that is the whole argument, and it transfers to any pair shaped this way.
+> ⭐ **Item-specific takeaway:** compare the two actual pricing strategies against the stated aim of remaining competitive. Do not assume an add-on offer preserves perceived value, guarantees trial, or eliminates the risks of a low main-product price.
 
 ---
 
 ## 197. PRICING — cost plus vs promotional or lower pricing
 
-**Asked:** *"Option 1: cost plus pricing · Option 2: promotional pricing."* — **May–June 2019 P2, 2(f)**, Tata Motor Company ($£$*new vehicles*)
-**Also asked:** *"Option 1: a price comparable to other travel agents · Option 2: a cheaper price to attract customers from rivals."* — **June 2024 P2, 2(f)**, TUI
-**Also asked:** *"Option 1: a realistic price · Option 2: a cheaper price to switch customers from their present brand."* — **Nov 2021 P2, 3(e)**, Huawei
+**QP wording (Tata):** *"Tata Motor Company uses different pricing strategies. It is considering two options for the launch of a new vehicle: Option 1: cost plus. Option 2: promotional. (f) Justify which one of these two options Tata Motor Company should use."* — **May–June 2019 P2, 2(f)**.
+The TUI (June 2024 P2, 2(f)) and Huawei (November 2021 P2, 3(e)) questions are separate cases with their own QP options, objectives and MS illustrations; do not treat them as extensions of Tata’s answer. Their item-level review is recorded separately in the progress note.
 
-> **Three papers, three businesses, the same decision shape: a price that covers the cost against a price that wins the sale.** **The scheme's counter-arguments are near-identical every time**, which is why one entry answers all three.
-
-**The AO2 anchors:** with cost plus **the company knows the cost of making the vehicle has been covered**; promotional pricing **is a good strategy for selling new vehicles**.
+**MS illustrations (not additional QP wording; Tata, MS PDF p.11):** cost-plus pricing means Tata knows the vehicle’s manufacturing cost is covered; if cars sell well, it knows it is making money, which may increase profit. Promotional pricing is presented as a way to sell new vehicles and its lower price may increase sales. The MS’s counterpoints are that cost plus does not guarantee a sale if a competitor is cheaper, while promotional pricing may generate more sales at lower profit per vehicle.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Tata should use cost plus pricing for its new vehicles.** The decisive fact is **what is being sold: a vehicle is a high-cost product, and a single model sold below its manufacturing cost loses money that no volume of sales recovers unless the price is above cost.** **Cost plus guarantees the cost is covered on every unit** — and **that certainty is what allows a manufacturer to plan production, order components and pay a workforce before a single car is sold.** **Promotional pricing would generate sales faster, and for a new model that matters, because dealers want cars that move.** **However, "even though the sales may be higher, the profit per vehicle will be lower"** — and on a vehicle, **the profit per unit is where the whole business model sits.** **However, the scheme also cautions that cost plus "does not guarantee that sales are going to be made, especially if a competitor is cheaper, therefore selling more vehicles"** — so the price is safe but the volume is not. **I would still choose cost plus, on the condition that the price is checked against the closest competitor's model before launch — because a price that covers the cost of a car nobody buys covers nothing at all.**
+> **I would use cost-plus pricing for Tata Motor Company’s new vehicle if the priority is to protect the amount earned over its manufacturing cost on each vehicle sold.** Cost plus lets Tata include the cost of making the vehicle when setting its price; if customers buy it at that price, Tata can see whether it is making money on the sale. Promotional pricing may lower the price and increase sales, which could help a new vehicle reach more customers. However, the MS warns that higher sales may come with lower profit per vehicle. Cost plus has the opposite risk: it does not ensure that customers will buy the car, especially if a competitor offers a cheaper vehicle. I would choose cost plus only if the resulting price remains competitive with alternatives; if Tata needs to stimulate sales at launch and can accept lower profit per vehicle, promotional pricing may be preferable. The QP gives no cost, price or competitor data to settle that trade-off numerically.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Cost plus** — first sentence |
-| **2. AO2 + AO3** | A vehicle is **high-cost per unit** → cost plus **protects the margin on every car** → funds components and wages **before any sale** |
-| **3. Counter-arguments** | Promotional pricing → **lower profit per vehicle**; cost plus → **may sell nothing if a rival is cheaper** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the price is checked against the closest competitor before launch** |
+| **Objective** | Select a pricing strategy for launching a new Tata vehicle; the QP does not state a separate sales or profit target. |
+| **AO2 / AO3** | Cost plus covers manufacturing cost in the set price; if sales occur, the business can earn a margin. Promotional pricing lowers price and may raise sales. |
+| **AO4 comparison** | Cost plus may not sell against a cheaper competitor; promotional pricing may increase sales but lower profit per vehicle. |
+| **Possible evaluation** | Compare launch demand and competitors’ prices with the margin Tata needs; the QP supplies no figures, so do not assert cost-plus guarantees a sale or total profit. |
 
-**Second acceptable chain (Huawei or TUI):** a **cheaper price switches customers from the brand they currently own** → the switch is the hardest thing to buy in a mature market → **but "promotional pricing may generate sales for the length of the promotion, and once the price reverts to normal it may reduce sales"** — so the switch has to be made permanent by the product, not the price.
-
-> ⚠️ **The sentence *"once the price reverts to normal, sales may reduce"* appears in the scheme for TUI and for Huawei, word for word.** **It is the single most repeated counter-argument in the pricing cluster — use it every time promotional pricing appears.**
+**Do not reuse Tata’s alternative chain for TUI or Huawei without checking those items’ exact QP objective, option wording and MS.** Their source-specific models and rationale are handled separately.
 
 ---
 
@@ -4654,27 +4649,25 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 199. PRICING — cost plus vs price skimming
 
-**Asked:** *"Option 1: cost plus pricing · Option 2: price skimming on release."* — **June 2022 P2, 2(f)**, LEGO ($£$*the new Princess Leia toy*)
-**Also asked:** *"Option 1: price skimming to charge a high price for its new home robots · Option 2: cost plus to ensure all costs are considered."* — **Nov 2024 P1, 3(e)**, Saha
+**QP wording (LEGO):** *"LEGO is constantly introducing new toys to the market to keep its customers buying. It is planning to introduce a new Star Wars Princess Leia toy. It is considering the following two pricing strategies to launch the toy. Option 1: cost plus. Option 2: skimming. (f) Justify which one of these two options LEGO should choose."* — **May–June 2022 P2, 2(f)**.
 
-> **The two questions put the options in opposite orders — and they point at OPPOSITE answers, which is the point.** LEGO sells **a collectible character toy**; Saha sells **a household robot**. **Same pair, different product, different decision.**
-
-**The AO2 anchors (LEGO):** cost plus is **easy to apply and LEGO will know the cost of manufacturing the Princess Leia toy is covered when sold**; price skimming means **the toy is sold at a high price when it is released**.
-**The AO2 anchors (Saha):** skimming **enables Saha to charge a high price for its new home robots**; cost plus **ensures all costs such as metal and assembly are considered**.
+**MS illustrations (not additional QP wording; MS PDF p.13):** cost plus is easy to apply and covers the manufacturing cost when the toy sells; LEGO earns profit on each sale. Skimming sets a high release price; the MS says the high margin may still yield high profits if only a few sell because Star Wars toys are popular. The counterpoints are that customers may wait for cost-plus prices to fall, while skimming’s high price may limit potential customers.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **LEGO should use price skimming on the Princess Leia toy.** The decisive fact is **the product: a licensed character toy launched to a fan base that wants it on release day, before anyone else has it.** **That audience will pay a premium for being first, and the premium is only available in the weeks around launch** — after that, the same toy sits in the same shops as every other set. **Price skimming takes the money that willingness to pay creates, while it exists.** **Cost plus would leave that on the table, because as the scheme notes it "does not account for what the customer is willing to pay" — it prices from LEGO's costs, not from the customer's desire, so a toy fans would have paid double for goes out at cost plus a fixed markup.** **However, "this strategy might limit the number of potential customers wanting to buy the product as the price is too high"** — and a licensed toy that sells too few units **may not justify the licence fee at all.** **I would still choose skimming, on the condition that the price is cut deliberately once the launch window closes — because LEGO has a fan base that will wait if the price never falls, and a collector's market is worth less than a mass market over the life of the set.**
+> **I would choose cost-plus pricing for the Princess Leia toy if LEGO’s priority is to keep a broad group of customers buying its new toys.** The MS says LEGO will know that “the cost of manufacturing the Princess Leia toy is covered when sold,” and that it can identify a profit on each sale. Price skimming means the toy is sold at a high price when released; the MS notes the high margin may still produce high profits if fewer units sell because Star Wars toys are popular. However, the high price may limit the number of potential customers, which could work against LEGO’s stated aim of keeping customers buying. Cost plus also has a risk: customers may wait until its price falls, delaying sales. I would favour cost plus if its price is one intended buyers will accept while covering costs; if demand at launch is strong enough for customers to accept a high release price, skimming could instead raise margin. The QP provides no price, cost or demand figures to settle that condition.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Price skimming** — first sentence |
-| **2. AO2 + AO3** | **Launch-window willingness to pay exists only briefly** → skim while it does |
-| **3. Counter-arguments** | Skimming → **may limit customers because the price is too high**; cost plus → **does not account for what the customer will pay** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the price is cut once the launch window closes** |
+| **Objective** | Launch a new toy as part of LEGO’s stated aim of keeping customers buying. |
+| **AO2 / AO3** | Cost plus covers manufacturing cost on each sale; skimming sets a high release price and may yield high margin on fewer sales, with popularity as an MS illustration. |
+| **AO4 comparison** | Customers may wait for the cost-plus price to fall; skimming may exclude potential customers because the price is too high. |
+| **Possible evaluation** | Compare likely demand at the release price with the aim of maintaining purchases; no numerical evidence is supplied. |
 
-**The Saha answer runs the other way — and the reason is the product.** Saha's robots are **a metal-and-assembly manufactured good sold into homes, against named rivals (Zoox, Vention)**, and the scheme warns that **"if the price is considered too high for its target audience it may lose sales to competitors"**. **A household robot is not a collectible: it competes on price with alternatives, so cost plus — which "ensures all costs such as metal and assembly are considered" — is the safer route**, with the caveat that **it may "limit revenue/profit" because it ignores willingness to pay.**
+**Alternative chain:** if LEGO’s evidence shows strong demand among customers willing to pay the high launch price, skimming may yield higher margin while the Star Wars toy is popular. If the high price is likely to deter many buyers, that same feature conflicts with the QP’s “keep its customers buying” objective.
 
-> ⭐ **The transferable test for skimming: is there a group who will pay a premium to be FIRST?** **Characters, launches, new technology that nobody else has — yes. A commodity sold against named rivals — no.** **Notice how the scheme's own counter-argument ("may limit the number of potential customers as the price is too high") is the SAME in both papers, and it is decisive in one and survivable in the other.**
+**Saha (November 2024 P1) is a separate case and remains pending its own review; do not transfer this LEGO model or conclusion to it.**
+
+> ⭐ **Item-specific takeaway:** connect the price choice to LEGO’s stated customer-purchase objective. The MS’s popularity point supports a possible skimming case, but neither fan willingness to pay nor a launch-price window is quantified in the QP.
 
 ---
 
@@ -4728,23 +4721,25 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 202. PROMOTION — a free giveaway vs mass advertising
 
-**Asked:** *"Option 1: a TV advert promoting its phones and laptops · Option 2: free headphones with a laptop."* — **June 2026 P2R, 2(f)**, Apple
+**QP wording:** *"Apple wants to increase its sales in India. Apple is considering the following two options: Option 1: increase its spending on TV advertisements. Option 2: offer university students free AirPods (wireless headphones) when purchasing a MacBook laptop. (f) Justify which one of these two options Apple should choose to increase sales in India."* — **June 2026 P2R, 2(f)**.
 
-**The AO2 anchors:** a TV advert **will target a large audience**; the free headphones **may encourage some young people to buy a laptop**.
+**MS illustrations (not QP wording):** the MS says a TV advert may target a large audience and create awareness of Apple products/brand throughout India; the AirPods offer may encourage some young people or students to buy an Apple laptop rather than a competitor. Its counterpoints are that many people, especially young people, may not listen to or be interested in TV ads, and that students may not value the promotional product or may prefer cheaper competitors such as Huawei.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Apple should use the free headphones.** The decisive fact is **who the laptop is being sold to: younger buyers, and the scheme warns that "many people, especially young people, no longer listen to or have any interest in TV advertisements", so a TV campaign "may not be cost effective and reach Apple's target audience".** **A television advert pays for a very large audience and delivers a very small share of it — and the share Apple needs is the one that is not watching.** **The headphones do the opposite: they reach nobody who is not already looking at the laptop, and they create the reason to complete the purchase at the moment of decision.** **However, "students may not be interested in promotional products, and the offer may not be a sufficiently good deal to persuade them to buy" — particularly as they may prefer cheaper alternatives to an Apple laptop in the first place.** **I would still choose the headphones, on the condition that they are a product this buyer actually wants — because a free accessory nobody values does not shift a laptop, it just gives away stock and reduces the effective price for people who would have bought anyway.**
+> **I would choose the free AirPods offer for university students buying a MacBook.** The question is about increasing Apple’s sales in India. The MS suggests the offer may persuade some students to choose an Apple laptop rather than a competitor, so it can link the promotion directly to a purchase. TV advertising could also raise awareness of Apple products across India and encourage sales, but the MS warns that many people—especially young people—may not listen to or be interested in TV advertisements, so the campaign may not reach its intended audience cost-effectively. The AirPods offer is not certain to work: some students may not value the headphones, may consider the offer insufficient, or may prefer cheaper products such as Huawei. I would favour the offer if university students are a significant target segment and value AirPods; if Apple needs broader awareness among customers across India, TV advertising may be more suitable. The QP and MS provide no audience-size figures, so the relative reach or sales effect cannot be quantified.
 
 | Move | The answer |
 |---|---|
-| **1. Choice** | **The free headphones** — first sentence |
-| **2. AO2 + AO3** | **Young buyers do not watch TV ads** → mass reach is wasted; headphones **act at the point of decision** |
-| **3. Counter-arguments** | TV → **not cost-effective for this audience**; giveaway → **students may not value it or may buy cheaper anyway** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it is an accessory this buyer actually wants** |
+| Move | Item-specific reasoning |
+|---|---|
+| **Choice / objective** | AirPods with a MacBook for university students, as a possible route to higher sales in India. |
+| **AO2 / AO3** | TV could raise awareness across India; the AirPods offer may persuade some students to choose an Apple laptop over a competitor. Neither effect is guaranteed. |
+| **AO4 comparison** | TV may miss some of its intended young audience and be cost-ineffective; students may not value the AirPods offer or may prefer a cheaper competitor. |
+| **Possible evaluation** | Compare the intended segment and likely customer preferences. The source gives no audience size or sales data to prove which promotion reaches more likely buyers. |
 
-**Second acceptable chain:** the TV advert **builds the brand beyond the people buying this year** → brand advertising works over years, while a giveaway only works in the week it runs → **but a laptop is a considered purchase bought on specification and price, so brand awareness alone does not close it.**
+**Alternative chain:** if Apple’s immediate sales objective depends on awareness among customers beyond university students, TV advertising could be preferable because the MS says it can target a large audience and create awareness across India. That is a conditional option, not evidence that a particular audience size watches the advertisements.
 
-> ⚠️ **The scheme's counter-argument for mass advertising is THE SAME POINT that makes it strong: the large audience.** *"Target a large audience"* is not a benefit if **the audience is not the customer.** **That reversal — a strength that is a weakness for this particular business — is worth 3 AO4 marks, and it appears in this cluster more than once.**
+> ⭐ **Item-specific takeaway:** connect the choice to sales in India and the relevant buyers. Keep the MS’s “large audience” and “some young people” as illustrative possibilities; do not turn them into claims that all young buyers ignore TV or that TV’s effective audience is a known size.
 
 ---
 
@@ -4800,7 +4795,7 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 **Asked five times in six years:**
 - *"Option 1: questionnaires to existing and potential customers face to face · Option 2: the internet, to gain wider sources of information about the area it wishes to expand into."* — **May–June 2019 P1R, 3(e)**, Lavender
-- *"Option 1: obtain the information directly from the people about the cars they want and the price they are prepared to pay · Option 2: secondary research, easier to collate from other car manufacturing websites and reports."* — **May–June 2019 P2, 3(e)**, Tata Motor Company
+- **Tata Motor Company, May–June 2019 P2, 3(e), QP wording:** *"Tata Motor Company gathers data to help it promote its vehicles. It is considering two options: Option 1: primary research. Option 2: secondary research. Justify which one of these two options Tata Motor Company should use."* The direct-information and car-manufacturer-websites wording below comes from that item’s MS, not the QP stem.
 - *"Option 1: questionnaires, approaching potential customers face to face to see what will attract them to visit the farm · Option 2: view a large selection of websites to look at other farms."* — **May–June 2021 P1, 3(e)**, NOF
 - *"Option 1: the internet, to view a wide variety of customers' comments about their experiences · Option 2: customers complete a form at their leisure, giving details of the experiences they received."* — **June 2024 P2, 3(e)**, TUI
 - *"Option 1: hand out questionnaires to customers that visit the shop · Option 2: using the internet to research new flower trends."* — **May 2023 P1R, 3(e)**, Aude Rose
@@ -4820,6 +4815,22 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 | **3. Counter-arguments** | Internet → **gives trends but nothing about this shop's customers → may waste time**; questionnaires → **customers may know nothing about the trends** |
 | **4. Possible evaluative consideration** | ⭐ **Provided customers are shown the range rather than asked to imagine it** |
 
+### Tata Motor Company — item-specific constructed answer (May–June 2019 P2, 3(e))
+
+**QP wording:** *"Tata Motor Company gathers data to help it promote its vehicles. It is considering two options: Option 1: primary research. Option 2: secondary research. (e) Justify which one of these two options Tata Motor Company should use."* QP p.12.
+
+**MS illustrations (PDF p.15, not QP wording):** primary research can obtain information directly from people about cars they want and the price they would pay; secondary research is easier to collate from car-manufacturer websites and reports. The MS links primary research to relevant information for designing/pricing future cars, and secondary research to faster collection. Its AO4 cautions are primary research’s time/manpower cost and secondary data possibly not answering Tata’s needs.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose primary research if Tata needs evidence from potential customers to shape how it promotes its vehicles.** Asking people directly about the cars they want and the prices they are prepared to pay could give Tata information relevant to designing and pricing future models, which may help it present vehicles that buyers are more likely to consider. Secondary research from car-manufacturer websites and reports may be quicker to gather, but the information may not answer Tata’s particular questions about its intended customers. Primary research has a real cost in time and manpower, so Tata should keep the questions focused and target people who could buy the vehicle. I would prefer primary research when customer preferences and willingness to pay are central to the promotion decision; if Tata needs broad background information quickly, secondary research may be the more practical first step. The QP gives no budget, time limit or target-customer profile, so it does not establish that one method is always superior.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Gather data to help promote Tata vehicles. |
+| **AO2 / AO3** | Direct research can reveal desired cars and prices; that information may guide design/pricing. Secondary sources can be collated faster but may be less specific. |
+| **AO4 comparison** | Primary research costs time and manpower; secondary data may not answer Tata’s actual question. |
+| **Possible evaluation** | Match the research method to the decision, sample and time/budget available; none are supplied in the QP. |
+
 **The same decision, five different case-specific considerations — useful examples, not required answer ingredients:**
 
 | Business | What the research is FOR | So a relevant consideration may be |
@@ -4832,7 +4843,7 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 > ⭐ **Five blocks, one decision, five different evaluative considerations.** These examples show how case-linked evaluation can vary; they do not establish a required condition formula. **Ask: what is this research FOR, and what would have to be true for it to actually work?**
 
-**Second acceptable chain for any of the five:** secondary research **costs almost nothing and can be done today** → for a business with **no budget for research**, something is better than nothing → **but if the trend it reveals is not what this business's customers want, the whole exercise is wasted — and secondary research cannot tell you that.**
+**Alternative research route (apply only where the item’s MS supports it):** secondary research can be quicker or easier to collate (for example, Tata’s car-manufacturer websites/reports). It may help when broad background is needed promptly, but its usefulness still depends on relevance and currency. Do not assume that it is free, current, customer-specific, or appropriate to every one of these cases.
 
 **The scheme's own NOF chains (May–June 2021 P1, 3(e))** — *the source PDF is character-fragmented, and the wording below is repaired by spacing only, per rule 124:* *"Questionnaires will let NOF approach potential customers face to face to see what will attract them to visit the farm"* → *"NOF can ask specific questions which will give it detailed feedback that it can use to help attract more customers to its farm"* → AO4 *"NOF may not get all of the information it requires or people may not want to fill in the questionnaires whilst they are shopping so it might not be very helpful /limited feedback"*; against the internet: *"NOF can view a large selection of websites to look at other farms and gather information"* → *"It will be less time consuming /costly as it can see what other farms offer already and compare it to its own to see if it can improve based on this information"* → AO4 **"NOF may end up spending a lot of time looking at feedback or outdated information which will not be very useful for it and it is not gaining specific feedback on its own farm"**. **Read the two AO4s together and the decision is a case-linked evaluative consideration: the questionnaire fails when the shopper will not stop to fill it in, and the internet fails when the feedback is not about the farm.** The scheme's own AO3 for the internet is the one candidates miss — **"less time consuming /costly"** is a *cost* argument, not an information one.
 
@@ -4977,58 +4988,68 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 210. JOB DESIGN — job rotation, job enrichment and added tasks
 
-**Asked in three different pairings:**
-- *"Option 1: adding additional tasks, such as supervising newly recruited employees · Option 2: employees could rotate between the store and the stock room."* — **May–June 2019 P2R, 3(e)**, Yellow
-- *"Option 1: job rotation, moving from the stock room to the shop floor · Option 2: job enrichment, using their skills in displaying furniture and clothes in the shop windows."* — **May–June 2021 P2, 3(e)**, NEXT
-- *"Option 1: moving to different jobs on or off the production line · Option 2: a bonus if car manufacturing targets are met."* — **May 2023 P2R, 3(e)**, M&M
+**Three distinct QP prompts and objectives (keep the options in their printed order):**
+- **Yellow, May–June 2019 P2R, 3(e):** *"Yellow is considering using non-financial rewards to help retain its employees. It is considering two options: Option 1: job enrichment. Option 2: job rotation. (e) Justify which one of these two options Yellow should use."*
+- **NEXT, May–June 2021 P2, 3(e):** *"NEXT understands that some employees are motivated by non-financial methods and these may help with employee retention. To do this NEXT is considering the following two options: Option 1: job rotation. Option 2: job enrichment. (e) Justify which one of these two options NEXT should choose."*
+- **M&M, May 2023 P2R, 3(e):** the QP compares job rotation with a bonus to retain employees; see the M&M case-specific notes below. [This block remains pending its own item-level source review.]
 
-> **Three blocks sharing one family of methods.** **The scheme's counter-arguments are the ones to learn, because they are specific to each method and they recur:**
+> These questions share job-design terms, but their objectives and MS reasoning are case-specific. The excerpts below are MS illustrations from the named papers, not universal strengths, weaknesses or marking rules.
 
-| Method | What it does | Its fixed weakness |
+| Method | MS illustration in the named item | Item-specific caveat |
 |---|---|---|
-| **Adding tasks** | Widens the job — supervision, extra duties | ⭐ *"There may come to a point where they demand more pay"* |
-| **Job rotation** | Moves people between different jobs | ⭐ *"These new experiences and skills may mean that employees could decide to look for other jobs instead"* / *"may not be interested in job rotation as it may not increase their wages"* |
-| **Job enrichment** | Gives more responsibility and autonomy | ⭐ *"This could incur additional costs of time and training"* / *"some employees may resent not being chosen"* |
+| **Adding tasks** | Yellow (2019 P2R): additional tasks such as supervising newly recruited employees | Yellow’s MS says the employee may later demand more pay. |
+| **Job rotation** | NEXT (2021 P2): move from stock room to shop floor; M&M (2023 P2R) has a separate production-line context | NEXT’s MS notes the employee may seek other jobs; M&M’s MS notes rotation may not increase wages. |
+| **Job enrichment** | Yellow (2019 P2R): greater responsibility; NEXT (2021 P2): use display skills | The MS caveats differ: Yellow may face a pay demand; NEXT may incur time/training costs. |
 
-**The AO2 anchors (NEXT):** job rotation lets employees **experience different jobs, moving from the stock room to the shop floor**; job enrichment lets them **utilise their skills of displaying furniture and children's clothes in the shop windows**.
+**MS illustrations (not QP wording):** For NEXT, the MS illustrates rotation with moving from the stock room to the shop floor; it says those skills may be used within NEXT. It illustrates enrichment with employees using display skills in the furniture and children’s-clothes windows. The MS says rotation may prompt staff to seek other jobs, while enrichment may require time and training. For Yellow, the MS illustrates enrichment with added tasks such as supervising new recruits, and rotation between customer-facing store work and the stock room; it links enrichment to appreciation/commitment and rotation to reduced boredom and busy-period flexibility.
 
-> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on NEXT)*
-> **NEXT should use job enrichment.** The decisive fact is **what NEXT sells and what its stores depend on: furniture and children's clothing have to be displayed to sell, and the skill of arranging a window or a showroom is exactly the skill the business needs more of.** **Job enrichment puts an employee's existing ability to use rather than moving them somewhere it is not needed** — and the scheme states the payoff as *"employees may find they utilise their skills of displaying the furniture and children's clothes in their shop windows."* **Job rotation does something different: it moves people around the store so nobody is stuck on one job all day.** **That relieves boredom, but it also means the person arranging the window this month is on the stock room the next.** **However, "this could incur additional costs for NEXT of time and training of the employees"** — enrichment is not free; giving someone more responsibility takes someone else's time to set up. **However, rotation has the more serious risk of the two: "these new experiences and skills may mean that employees could decide to look for other jobs other than remaining employed by NEXT."** **I would still choose job enrichment, on the condition that the responsibility given is genuinely theirs and not a manager's task passed down — because responsibility without authority is the version of enrichment that annoys people, and the scheme already warns that employees who are not chosen will resent it.**
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(May–June 2019 P2R, 3(e); constructed)*
+> **Yellow should use job enrichment to support its aim of retaining employees.** Giving an employee additional tasks such as supervising new recruits may help them gain experience and feel appreciated, which the MS links to greater commitment to Yellow. Job rotation could also make work less repetitive by moving staff between customers in the store and stock work, and it may help managers cover busy periods. However, Yellow’s MS warns that an enriched employee may later demand more pay, while rotation takes time and training and the employee may use the new skills to seek another job. On balance, enrichment is more closely linked in this MS to feeling appreciated and staying with the business, provided Yellow can recognise the added responsibility fairly. If Yellow’s immediate need is flexible cover at busy times rather than retention, rotation may be preferable.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Job enrichment** — first sentence |
-| **2. AO2 + AO3** | **Windows and showrooms sell the products** → use the skill the business depends on |
-| **3. Counter-arguments** | Enrichment → **extra training cost, resented by those not chosen**; rotation → **trained staff may leave for other jobs** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the responsibility is genuinely theirs, not borrowed from a manager** |
+| **Objective** | Yellow wants to retain employees, not simply cover busy periods. |
+| **AO2 / AO3** | Added supervisory tasks may build experience and appreciation, supporting commitment; rotation can relieve boredom and provide cover. |
+| **AO4 comparison** | Enrichment may prompt a pay demand; rotation needs training/time and may give employees skills they use to leave. |
+| **Evaluation** | Weigh retention against the cost of added responsibility; rotation remains plausible if operational cover is the priority. |
 
-**On Yellow the answer is rotation, for a specific reason: the shop and the stock room are two jobs that must both be covered, and the scheme notes rotation "helps the managers if staff are able to move from one job to another at busy times."** **The benefit there is operational flexibility, not motivation.** **On M&M the answer is likely rotation too — but the bonus is the option it is paired against, and the scheme warns employees "may not be interested in job rotation as it may not increase their wages", which makes the evaluation about pay: rotation only works if it is not simply more work for the same money.**
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(May–June 2021 P2, 3(e); constructed)*
+> **I would choose job rotation for NEXT’s stated aim of employee retention, if the new roles create development opportunities within the business.** Moving from the stock room to the shop floor may give employees additional skills and knowledge they can use at NEXT, as the MS illustrates. Job enrichment also has a case-specific benefit: staff may use their display skills in the windows for furniture and children’s clothes. However, NEXT’s MS notes that rotation experiences may lead employees to seek other jobs; enrichment has a different cost, taking time and training, and its display skills may also support applications elsewhere. Neither method guarantees retention. I would choose rotation if NEXT can use the acquired skills in its own roles and make that pathway visible; if it cannot, the training cost of enrichment or the risk of either method making employees more employable elsewhere may outweigh the retention benefit.
 
-> ⭐ **The decisive question for this family: is the business short of FLEXIBILITY or of EXPERTISE?** **Flexibility — cover for busy times and absence → rotation.** **Expertise — a skill the business's product depends on → enrichment.** **Motivation is a by-product either way, not the reason.**
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | NEXT is considering non-financial methods to help retain employees. |
+| **AO2 / AO3** | Rotation offers experience from stock room to shop floor and skills usable within NEXT; enrichment uses employees’ display skills. |
+| **AO4 comparison** | Rotation may lead employees to seek other jobs; enrichment may require additional time and training. |
+| **Evaluation** | The choice depends on whether NEXT can offer internal use/progression for the new skills; do not treat either method as automatically retaining staff. |
+
+**Alternative for NEXT:** job enrichment may be preferable if NEXT can use employees’ window-display skills and give them worthwhile responsibility; weigh that against the MS’s time/training cost and possibility that employees use the skills in applications elsewhere.
+
+**M&M (May 2023 P2R, 3(e)) remains a separate case-specific item pending review.** Its objective and bonus alternative should not be inferred from the Yellow/NEXT blocks above.
+
+> ⭐ **Item-specific takeaway for these reviewed blocks:** start from the stated objective. Yellow and NEXT ask about retention, so the answer must connect job design to commitment and possible departure; a busy-period coverage benefit alone does not settle either question. Conditional judgement is appropriate where staff preferences and internal opportunities are not supplied.
 
 ---
 
 ## 211. MOTIVATION — extra holiday versus a bonus
 
-**Asked:** *"Option 1: offer managers an extra five days' paid holiday a year · Option 2: pay a bonus to the managers whose restaurants achieve the highest levels of profit."* — **June 2026 P2, 3(e)**, Nando's
+**QP wording:** *"Nando’s plans to offer restaurant managers a reward to try to retain them in the business. Nando’s is considering two types of reward: Option 1: offer the managers an extra five days’ paid holiday a year. Option 2: pay a bonus to the managers whose restaurants achieve the highest levels of profit. (e) Justify which one of these two options Nando’s should choose to retain managers."* — **June 2026 P2, 3(e)**.
 
-> **Both options target the same people — restaurant managers — and the question is what a manager is short of: time, or money.**
-
-**The AO2 anchors:** extra holiday **will help provide the managers with a better work–life balance**; a bonus **will encourage the managers to attempt to sell more chicken, salad and wraps**.
+**MS illustrations (not additional QP wording):** the MS links the extra holiday to work–life balance and possible retention; the bonus to attempts to sell more chicken, salad and wraps and retention of financially motivated managers. It notes that managers may already have enough holiday, or may doubt their restaurant can achieve the highest profit levels and therefore not be persuaded to stay.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Nando’s should offer the extra five days’ paid holiday.** The QP’s audience is the restaurant managers Nando’s wants to retain. The bonus is conditional on their restaurants achieving the highest levels of profit; the mark scheme notes that managers who doubt they can reach that level may not be persuaded to stay. By contrast, the additional paid holiday offers managers a direct improvement in work–life balance, which the MS identifies as a possible reason to remain. The bonus could still motivate managers who value financial rewards, particularly if selling more chicken, salad and wraps helps their restaurant meet the profit target. **However, "managers may already have enough holidays to take and might not be persuaded to stay with the business for this reward"** — time off only motivates someone who does not already have enough of it. **I would still choose the extra holiday, on the condition that it can be taken in a block rather than scattered as single days — because a manager who cannot leave the restaurant for a week has not been given a holiday, only paperwork.**
+> **I would choose the extra five days’ paid holiday to help Nando’s retain restaurant managers.** The benefit is available to the managers as a retention reward and may improve work–life balance, which the MS identifies as a possible reason for them to stay. A bonus could also help retention: managers who value financial rewards may try to sell more chicken, salad and wraps. However, the bonus depends on their restaurant achieving the highest levels of profit, and a manager who doubts that target is attainable may not see it as a reason to remain. The holiday is not certain to retain managers either; the MS notes that some may already have enough holiday. On balance, I would offer the additional paid days if managers value time away from work; if the managers are more responsive to financial rewards and can influence their restaurant’s profit result, the bonus could be more effective. The QP and MS do not say that profit must grow, that only one manager can qualify, or how the bonus is calculated.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **The extra holiday** — first sentence |
-| **2. AO2 + AO3** | The bonus is **a contest most managers cannot win** → **only a few are motivated**; holiday is **available to all and suits the long hours of the job** |
-| **3. Counter-arguments** | Holiday → **managers may already have enough**; bonus → **may be seen as unachievable and not worth staying for** |
-| **4. Possible evaluative consideration** | ⭐ **Provided it can be taken in a block, not as single days** |
+| **Choice / objective** | Additional paid holiday as the retention reward; alternative choice depends on what the Nando’s managers value. |
+| **AO2 / AO3** | Holiday may improve work–life balance and support staying; a bonus may motivate sales efforts and appeal to financially motivated managers. These are possible effects, not guaranteed results. |
+| **AO4 comparison** | Holiday may be insufficient if managers already have enough time off; a bonus may not retain a manager who doubts the restaurant can achieve the stated highest-profit condition. |
+| **Possible evaluation** | Compare managers’ preferences and whether they can influence the restaurant’s result. Do not convert “highest levels of profit” into “profit growth,” assume only one winner, or call the bonus self-funding without evidence about its terms and cost. |
 
-**Second acceptable chain:** the bonus **directly links pay to the profit the manager produces, so it costs Nando's nothing unless the restaurant has already earned more** → it is self-funding in a way holiday never is → **but a prize for the highest profit also creates competition between managers, which can make them unwilling to share staff or best practice.**
+**Alternative chain:** if the managers place greater value on financial rewards and regard the profit condition as achievable, the bonus may support retention by rewarding sales efforts; if not, extra holiday may be the more credible benefit. This is conditional on manager preferences and the bonus criteria, which the QP does not specify.
 
-> ⚠️ **This is the clearest "unachievable target" AO4 in the tier, and it recurs.** **Whenever a scheme says a reward is for the HIGHEST or the BEST, the counter-argument writes itself: most people cannot win it, so most people are not motivated by it.** **Compare entry 209's Backyard Shoez block, where the same logic decides the question.**
+> ⭐ **Item-specific takeaway:** answer the stated retention objective, and evaluate the actual reward conditions. “Highest profit” is not the same as profit growth, and the question does not establish a winner count, bonus formula or automatic link between bonus expense and profit.
 
 ---
 
@@ -5082,21 +5103,23 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 214. CONTRACTS — full-time versus part-time staff
 
-**Asked:** *"Option 1: full-time staff, meaning fewer employees in each store · Option 2: part-time staff, offering flexibility in the hours they work."* — **May–June 2019 P2R, 2(f)**, Yellow
+**QP wording:** *"Yellow needs to recruit more sales assistants for its stores. It is considering two options: Option 1: employ only full-time staff. Option 2: employ only part-time staff. (f) Justify which one of these two options Yellow should use."* — **May–June 2019 P2R, 2(f)**.
 
-**The AO2 anchors:** full-time staff means **fewer employees in each store**; part-time staff **offer flexibility in the hours they work**.
+**MS illustrations (not additional QP wording):** full-time staffing means fewer employees in each store and may provide consistency, commitment and loyalty. Part-time staffing offers flexibility in hours and can cover longer shop hours or busy periods. The MS weighs fixed pay regardless of demand against potentially higher recruitment costs if part-time staff are less committed.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Yellow should employ part-time staff.** The decisive fact is **what a clothes shop's demand does: it rises at weekends, at lunchtimes and in the run-up to holidays, and almost nowhere in between.** **Part-time contracts let Yellow put staff on the floor exactly when customers are there**, and the scheme's framing — *"flexibility in the hours they work in each store"* — is the whole argument in six words. **Full-time contracts buy certainty of who is on shift, and "fewer employees in each store" means fewer people to manage and to train.** **However, "costs may be increased because they have to be paid regardless of demand in the stores"** — a full-time wage is paid in a quiet week exactly as it is in a busy one, which for a fashion retailer with a quiet season is the risk that matters most. **However, the part-time route has its own cost: "higher recruitment costs because part-time staff may be less committed to Yellow."** **I would still choose part-time staff, on the condition that the hours offered are enough that the good staff stay — because the recruitment cost the scheme warns about is a repeat cost, paid again every time a part-timer leaves.**
+> **I would use part-time staff for Yellow’s sales-assistant vacancies if the stores need extra cover at busy times or across longer opening hours.** Part-time hours could let Yellow match the number of sales assistants on duty to customer demand, whereas full-time staff may provide more consistency and loyalty and require fewer employees in each store. The MS’s key risk for full-time staff is that their wages are paid regardless of demand, so the store may carry labour costs during quieter periods. Part-time staffing has a counter-risk: if those employees are less committed, Yellow may face higher recruitment costs. Since the QP gives no sales pattern or wage figures, the best choice depends on whether flexible cover saves enough labour cost to outweigh possible staff turnover. I would choose part-time staff for variable or extended-hours demand, but full-time staff may be preferable where consistent staffing and commitment matter more.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Part-time staff** — first sentence |
-| **2. AO2 + AO3** | Retail demand **peaks and troughs** → hours match the customers |
-| **3. Counter-arguments** | Full-time → **paid regardless of demand**; part-time → **higher recruitment costs, less committed** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the hours are enough to keep good staff** |
+| **Objective** | Recruit sales assistants for Yellow’s stores; compare staffing flexibility with consistency and commitment. |
+| **AO2 / AO3** | Part-time hours can cover busy periods/longer shop hours; full-time staffing involves fewer employees per store and may improve continuity. |
+| **AO4 comparison** | Full-time wages may be paid irrespective of demand; part-time staff may be less committed and cost more to recruit. |
+| **Possible evaluation** | The QP gives no demand pattern or costs. Choose according to actual store-hour coverage and the cost of turnover; do not invent weekend peaks or assume part-time is automatically cheaper. |
 
-**Second acceptable chain:** full-time staff **know the stock, the customers and the systems better** → fewer errors and better service → **but a store cannot be staffed to a peak all week simply to have experienced people on a Tuesday morning.**
+**Alternative chain:** if Yellow’s shops need reliable continuity more than variable-hour cover, full-time staff may be better because the MS identifies consistency, commitment and loyalty as potential strengths. That choice still needs to weigh wages paid in periods of lower demand.
+
+> ⭐ **Item-specific takeaway:** keep the question’s objective—recruiting sales assistants—distinct from a retention question. Use the MS’s flexible-hours and commitment illustrations, then evaluate costs against Yellow’s actual demand, which the QP does not quantify.
 
 ---
 
@@ -5124,23 +5147,23 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 216. CONTRACTS — part-time working versus job share
 
-**Asked:** *"Option 1: part-time working, to provide flexibility for employees · Option 2: job share, so that if one employee is absent through illness the other can take their place."* — **May–June 2022 P2R, 2(f)**, Cadbury
+**QP wording:** *"Cadbury wants to retain its skilled employees. To do this it is looking to offer them different ways of working. It is considering the following two options: Option 1: allowing employees to work part-time. Option 2: allowing employees to job share. (f) Justify which one of these two options Cadbury should choose."* — **May–June 2022 P2R, 2(f)**.
 
-> **Both options reduce hours — so the difference is COVER.** A part-timer's hours are theirs alone; a job share has two people who know the same role.
-
-**The AO2 anchors:** part-time working **provides flexibility for employees**; with a job share, **if one employee is absent through illness the other members may be able to take their place**.
+**MS illustrations (not additional QP wording; MS PDF p.14):** part-time work offers employee flexibility and may help meet seasonal demand such as Christmas. A job share may cover design of chocolate wrappers when one employee is ill and gives Cadbury two people’s ideas and enthusiasm. The MS risks are possible added employment costs from legal benefits for part-time staff and the need for job sharers to work as a team and liaise effectively.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Cadbury should use job sharing.** The decisive fact is **what the roles being covered actually are: designing chocolate wrappers is skilled work that cannot be picked up by whoever is free that morning.** **A job share puts TWO people in the same role, so when one is ill, the other knows the work, the software, the brief and the deadlines.** **That is cover, not just flexibility** — and the scheme's own phrasing, that the other member "may be able to take their place", is a benefit no single part-timer can offer. **Part-time working gives the individual flexibility, which is what it is for** — and it is far simpler to arrange, with one contract and one set of hours. **However, "it may increase employment costs because of legal benefits that have to be offered to part-time employees"** — part-time is not free. **However, the job-share route carries the harder risk: "the two people job sharing will have to work as a team and liaise effectively."** **If they do not, the role has two owners and no accountability.** **I would still choose job sharing, on the condition that the two sharers are given overlapping hours to hand over — because a handover that happens by email at midnight is where job shares fail.**
+> **I would choose job sharing if it is the arrangement Cadbury’s skilled employees prefer, because the question’s objective is to retain them.** Sharing a role may make the working arrangement more manageable for employees while keeping their skills available to Cadbury; the MS also illustrates that if one person is absent, the other may cover the design of chocolate wrappers, and that two people can contribute ideas and enthusiasm. Part-time work offers flexibility too and could help Cadbury respond to seasonal demand such as Christmas. However, part-time arrangements may bring extra employment costs, while a job share only works well if the two people can coordinate and communicate. I would favour job sharing where the employees value shared hours and can work together; if individual flexibility is more important to them, part-time work may better support retention. The QP gives no employee-preference or cost data, so neither arrangement is guaranteed to retain staff.
 
-| Move | The answer |
+| Move | Item-specific reasoning |
 |---|---|
-| **1. Choice** | **Job sharing** — first sentence |
-| **2. AO2 + AO3** | **Skilled design work needs continuous cover** → two people who both know the role |
-| **3. Counter-arguments** | Part-time → **higher employment costs and benefits**; job share → **the two must liaise and work as a team** |
-| **4. Possible evaluative consideration** | ⭐ **Provided they get overlapping hours for a handover** |
+| **Objective** | Retain Cadbury’s skilled employees; do not let the coverage benefit replace the retention question. |
+| **AO2 / AO3** | Part-time work may offer flexibility and help with Christmas demand; job share may maintain wrapper-design cover during absence and combine two employees’ ideas. |
+| **AO4 comparison** | Part-time may increase employment costs; job share requires effective teamwork and liaison. |
+| **Possible evaluation** | Judge by employee preferences and ability to coordinate; the QP gives no evidence to make either retention effect certain. |
 
-**Second acceptable chain:** part-time working **is easy to offer and easy to withdraw, so it can be used across the whole workforce rather than one role** → the flexibility is available to hundreds of staff → **but it solves absence by hiring someone new each time, which the job share solves with the person already there.**
+**Alternative chain:** part-time work may be the better retention choice if the skilled employees value individual flexibility. The MS also connects it to seasonal demand, but that operational benefit alone does not prove that employees will stay.
+
+> ⭐ **Item-specific takeaway:** answer Cadbury’s stated retention objective. Use the MS’s cover and seasonal-demand examples as supporting business effects, but evaluate how each arrangement may suit employees and Cadbury; do not treat absence cover as the whole decision.
 
 ---
 
@@ -5216,9 +5239,23 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 | **3. Counter-arguments** | Off-the-job → **costly, employee absent; course may not match the job**; on-the-job → **no one available to train to standard** |
 | **4. Possible evaluative consideration** | ⭐ **Provided the course is short and specific to chocolate-making** |
 
-**On LEGO the balance tips the other way, and the reason is the 15 factories.** The scheme gives on-the-job the advantage that **"the cost of training is reduced as employees remain on the premises producing the Princess Leia toy whilst being trained"** — and a business with **fifteen factories can always find a skilled person in one of them to train the next.** Its cost is that **"this can be time consuming and prevents the skilled employees from carrying out their job efficiently."** **Off-site brings in "new production methods not seen in the 15 LEGO factories" — but the scheme's objection is decisive: "the new employees may not gain the specific skills and knowledge which are needed for designing the new Star Wars toys for LEGO."** **General excellence is the wrong kind of excellence for a licensed product.** **So LEGO: on-the-job, provided the trainer's own output is backfilled while they teach.**
+**LEGO — May–June 2022 P2, 3(e): QP wording:** *"Ensuring that all employees are fully trained is important to LEGO. LEGO makes sure that all employees are fully trained and skilled to carry out the work. All employees have induction training when they start at LEGO. Additional training is undertaken by employees as they progress through the business. LEGO is considering the following two options to carry out this additional training. Option 1: on-the-job training. Option 2: off-the-job training. Justify which one of these two options LEGO should choose."*
 
-> ⭐ **The deciding fact is THE SIZE OF THE BUSINESS, and it points opposite ways.** **Too few staff to spare a trainer → off-the-job. Enough staff to have a trainer somewhere → on-the-job.** **Nothing about the method itself makes it better — it is whether this business can staff it.**
+**MS illustrations (not additional QP wording; MS PDF p.17):** on-the-job training lets employees stay on the premises producing the Princess Leia toy and may build confidence with familiar staff; off-the-job training gives access to experts and new production methods, which the MS links to fewer errors and more toys per factory. Risks: on-the-job training can take time from skilled employees; off-site training may not teach the specific skills needed to design LEGO’s new Star Wars toys.
+
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose on-the-job training for LEGO’s additional training when employees need skills specific to the work they will carry out, including designing new Star Wars toys.** Staff can remain at LEGO while training and continue producing the Princess Leia toy, and the MS suggests that learning from familiar employees may build confidence. Off-the-job training has a genuine advantage: experts can introduce methods not used in LEGO’s factories, and the MS links those skills to fewer errors and increased output. However, the MS warns that an external course may not develop the specific knowledge needed to design LEGO’s new Star Wars toys. On-the-job training also has a cost: experienced employees may spend time training instead of doing their own work efficiently. I would choose on-the-job training where the required skills are specific to LEGO’s products and an experienced employee is available; off-site training may be preferable when an expert method is needed and can be matched to the work. The QP/MS gives no information about trainer availability or course content, so factory count alone does not settle the choice.
+
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Provide the additional training LEGO says employees need to be fully trained and skilled for their work. |
+| **AO2 / AO3** | On-the-job keeps employees on-site producing the Princess Leia toy and may build confidence; off-site experts offer new methods that may reduce errors and increase output. |
+| **AO4 comparison** | On-the-job takes skilled employees’ time; off-site may not provide the specific skills needed to design new Star Wars toys. |
+| **Possible evaluation** | Match training to the skill required and compare trainer time with course content; the QP does not establish a trainer shortage or course suitability. |
+
+**Alternative chain:** off-the-job training may be better if LEGO needs a method not currently available in its factories and the course is relevant to the employees’ work; its value would then depend on transferring that expertise to the design/production of new toys.
+
+> ⭐ **Item-specific takeaway:** decide based on training-skill fit and the stated learning objective, not the size of LEGO or an assumption that fifteen factories guarantee a trainer. The MS’s method and risk illustrations are not a universal training rule.
 
 **The scheme's own Jimmy Choo chains (May–June 2024 P2R, 3(e)) — induction against off-site:** induction — *"If all employees have induction training it gives them the opportunity to become familiar with their working environment in the production of shoes"* → *"This training enables them to feel part of the business and have a better understanding of how the business works"* → AO4 **"However, induction training does not always benefit because they may not work in that specific department, they had their induction training in"**; off-site — *"By training employees off site they are trained by experts in the various areas such as well as making the handbags and shoes but also how to display them"* → *"Employees can gain up to date skills from experts, resulting in fewer errors when they commence making handbags"* → AO4 **"However, the cost of training an employee off-site can be expensive, and the training is not guaranteed that it will match the job"**. **This pair is not the same choice as LEGO's or Irsi's, and the scheme shows why: BOTH options here can miss the job.** Induction can be given "in that specific department" the employee never works in; an off-site course "is not guaranteed that it will match the job". **So a useful evaluation is about match, not cost — and the answer can weigh the relevant mismatch if it supports the decision.**
 
@@ -5226,9 +5263,12 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 219. PRODUCTION — job, batch and flow production
 
-**Asked three times:** Lavender *(tailor each outlet vs flow production for all)* — **May–June 2019 P1R, 2(f)** · Cadbury *(batch Dinky Deckers so production can be stopped vs a method ensuring enough supply)* — **June 2022 P2R, 3(e)** · Irsi Chocolatier *(batch for variety of shapes vs job for personalisation)* — **May 2023 P1, 2(f)**
+**Three QP items use production-method choices; keep their case objectives and pairs distinct.**
+- **Lavender, May–June 2019 P1R, 2(f):** local product range at each outlet vs flow production across all outlets (separate case).
+- **Cadbury, May–June 2022 P2R, 3(e), exact QP wording:** *"Cadbury introduces new products on a regular basis, such as Dinky Deckers. The aim of this is to maintain customer loyalty by offering new products. Before releasing Dinky Deckers for sale to the public, Cadbury had to decide the method of production it would use. It considered the following two options: Option 1: batch production. Option 2: flow production. (e) Justify which one of these two options Cadbury should choose."*
+- **Irsi Chocolatier, May 2023 P1, 2(f):** batch production vs job production for personalised lollipops (separate case).
 
-> **The three blocks compare three different pairs of the same three methods. The transferable skill is knowing what each method costs and what it buys.**
+The decision reasoning below is item-specific; no method has a universal advantage.
 
 **The AO2 anchors (Irsi):** batch production **allows different flavours and shapes of chocolate lollipops**; job production **allows Irsi to give customers the option of personalised lollipops**.
 
@@ -5242,11 +5282,23 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 | **3. Counter-arguments** | Batch → **costly if demand for shapes is low**; job → **customers will not wait for a small item** |
 | **4. Possible evaluative consideration** | ⭐ **Provided the range of shapes is small enough to keep each batch big** |
 
-**On Cadbury the answer is batch, and the reason is RISK not variety.** The scheme gives batch the advantage that **"if Dinky Deckers is not popular, they can limit or stop production"** — an exit that a continuous line cannot offer. Its cost is that **"this method can be more expensive because of time spent changing the machines."** **The rival option — one that guarantees "sufficient Dinky Deckers available for all its customers" — carries the risk the scheme names: "there is no guarantee on how popular the Dinky Deckers will be; Cadbury could be left with a large quantity of unsold chocolate."** **For an untested product, being able to stop matters more than being able to supply.**
+**MS illustrations (Cadbury, MS PDF p.19; not QP wording):** batch production lets Cadbury limit or stop making Dinky Deckers if they are not popular and limited output may encourage customers to buy. Its cost is machine-changeover time. Flow production may ensure enough bars for customers and a continuous supply to shops/supermarkets; its risk is unsold stock if demand is weak.
 
-**On Lavender the answer is job/bespoke, because the scheme's objection to flow is that it is "very difficult to change and cannot take into account regional tastes" — and Lavender is expanding across regions.** **Its rival, matching each outlet to local demand, keeps the products relevant but costs consistency, which the scheme notes "will make the movement of employees difficult."**
+> **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> **I would choose batch production for Dinky Deckers if Cadbury is uncertain how well this new product will sell.** Cadbury’s stated aim is to maintain customer loyalty by offering new products. Batch production would let the business limit or stop output if customers do not respond, and limited availability may encourage some customers to try the bar. Flow production could give shops a continuous supply and reduce the risk that interested customers cannot find Dinky Deckers, which could also support loyalty. However, batch production takes time to change machines, while flow production could leave Cadbury with a large amount of unsold chocolate if the product is unpopular. I would begin with batch production if demand is uncertain, accepting the changeover cost to limit exposure to unsold stock. If customer demand is already strong enough to justify a continuous supply, flow production may better support availability and repeat purchases. The QP provides no forecast or quantity data to settle that choice.
 
-> ⭐ **The three questions to ask about any production method: can the product be made ahead? can it be made to vary? and can the business STOP if it does not sell?** **Impulse goods → batch. Personalised goods with a patient buyer → job. Untested products → whichever can be halted cheapest.**
+| Move | Item-specific reasoning |
+|---|---|
+| **Objective** | Maintain customer loyalty by offering new products, including Dinky Deckers. |
+| **AO2 / AO3** | Batch can limit/stop production and may encourage trial; flow can supply shops continuously and make enough bars available. |
+| **AO4 comparison** | Batch changeovers take time; flow risks unsold stock if demand is weak. |
+| **Possible evaluation** | Weigh demand uncertainty against the need for reliable availability; no sales forecast is supplied. |
+
+**Alternative chain:** if Cadbury has evidence that Dinky Deckers will sell steadily, flow production may support loyalty by keeping the product available in shops. That depends on demand; the QP/MS does not guarantee popularity.
+
+**On Lavender, the linked MS reasoning is different:** the choices involve local preferences across outlets versus a more uniform flow-produced range; do not transfer Cadbury’s launch-demand judgement to it. Irsi’s batch-versus-job choice likewise turns on variety versus personalisation for small chocolate lollipops.
+
+> ⭐ **Item-specific takeaway:** for Cadbury, production choice serves both the new-product loyalty objective and the risk of uncertain demand. Balance changeover time against continuous availability and possible unsold stock; do not treat stopping production as automatically more important than customer availability.
 
 ---
 
@@ -5324,23 +5376,25 @@ The June 2025 P2R Rabanne script includes a clear choice, a comparison with the 
 
 ## 223. PLACE — physical stores versus online sales
 
-**Asked:** *"Option 1: more customers can visit the stores to view the smartwatches · Option 2: online purchases provide convenience for customers wishing to buy a laptop."* — **June 2026 P2R, 3(e)**, Apple
+**QP wording:** *"Apple wants to increase its market share in Mexico, Turkey and Saudi Arabia and is considering its methods of distribution. It is considering the following two options: Option 1: open more retail stores in these countries. Option 2: improve its e-commerce in these countries. (e) Justify which one of these two options Apple should choose to increase its market share."* — **June 2026 P2R, 3(e)**.
 
-**The AO2 anchors:** stores let **more customers view the smartwatches**; online purchases **provide convenience for customers wishing to buy a laptop**.
+**MS illustrations (not additional QP wording):** the MS says more customers may visit stores to view smartwatches and may receive advice about apps/technology, possibly improving loyalty. Improved e-commerce may be convenient for laptop buyers with busy lives. Its counterpoints are the cost of building/staffing stores, which may raise prices or reduce demand, and that some customers may prefer to hold or view an expensive smartphone/smartwatch before buying.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Apple should open more retail stores in Mexico, Turkey and Saudi Arabia rather than improve e-commerce in those markets.** The decisive fact is **what the products cost and how they are chosen: Apple’s smartwatches and other premium devices are expensive goods, and the scheme names the hesitation exactly — "people may want to hold/look at the smartphone/smartwatch and may not feel at ease buying an expensive product online without seeing it first."** **The store removes that hesitation, and it does so for the products where the hesitation is largest.** **Online convenience is real — it removes the journey and the queue, and it is the reason a customer completes a purchase they might otherwise postpone.** **However, the scheme's objection to stores is a cost one: "it is costly to have/build stores and pay for sales staff within the stores, which may increase the price of the goods or reduce demand."** **I would still choose the stores, on the condition that the high-value products are the ones stocked for viewing — because a physical shop earns its cost on the items a customer will not buy unseen, and costs money on the items they would have bought online anyway.**
+> **I would choose opening more retail stores in Mexico, Turkey and Saudi Arabia if Apple’s target customers in those markets value seeing and getting advice about its products before buying.** The MS suggests customers can view smartwatches in stores and may receive advice about apps and technology, which could improve loyalty and support Apple’s market-share objective. Improving e-commerce offers a different benefit: convenience for customers with busy lives who would rather buy a laptop online than visit a store. However, opening and staffing more stores is costly; if those costs raise prices or reduce demand, the stores could work against gaining share. Online shopping also will not suit every customer: some may want to hold or view an expensive smartphone or smartwatch before purchase. I would choose stores where customer preference for inspection and advice is strong enough to justify the cost; if convenience is more important to Apple’s target customers in these three countries, improved e-commerce may gain share more effectively. The QP/MS gives no data about local preferences, current coverage, or relative costs, so the choice is conditional rather than certain.
 
 | Move | The answer |
 |---|---|
-| **1. Choice** | **The stores** — first sentence |
-| **2. AO2 + AO3** | **Expensive goods are not bought unseen** → the store removes the hesitation where it is biggest |
-| **3. Counter-arguments** | Stores → **building and staffing them raises the price or reduces demand**; online → **customers hesitate to buy expensive items unseen** |
-| **4. Possible evaluative consideration** | ⭐ **Provided the high-value products are the ones put on display** |
+| Move | Item-specific reasoning |
+|---|---|
+| **Choice / objective** | More stores across the three named markets if local customers value inspection and advice enough to justify the investment. |
+| **AO2 / AO3** | Viewing smartwatches and getting advice may support customer loyalty; convenient e-commerce may suit busy laptop buyers and make online purchases easier. |
+| **AO4 comparison** | Stores incur construction and staffing costs that may raise prices or reduce demand; e-commerce may deter customers who prefer to inspect expensive devices first. |
+| **Possible evaluation** | The relative choice depends on customer preferences, current retail coverage and the cost of establishing stores in Mexico, Turkey and Saudi Arabia; the QP/MS supplies no comparative data on these factors. |
 
-**Second acceptable chain:** online sales **reach customers in countries where Apple has no store at all** → the market is every country rather than a list of cities → **but for a premium product, a customer who cannot try it is a customer who buys the cheaper rival instead.**
+**Alternative chain:** improved e-commerce may be the stronger route to market share if customers in the three countries prioritize convenience and can assess Apple products online; it avoids the specified cost of opening/staffing stores. This does not assume that Apple currently has no stores or that every customer prefers online shopping.
 
-> ⭐ **The decisive fact in any place question: can the customer judge the product WITHOUT seeing it?** **Clothing, watches, cars, furniture, anything fitted → the store wins, because the sale is decided by touching it.** **Standardised goods the customer already knows → online wins, because the store adds cost without adding information.**
+> ⭐ **Item-specific takeaway:** compare inspection/advice with e-commerce convenience, weigh both against store costs, and make the judgement conditional on customer preferences in Mexico, Turkey and Saudi Arabia. The QP/MS provides no local preference or cost data.
 
 ---
 
