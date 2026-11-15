@@ -1,14 +1,6 @@
-# Is the answer bank accurate? — the full check, 9 November 2026
+# Accuracy claims — audit status updated 10 November 2026
 
-This is the answer to one question: **can this bank be trusted as it stands?**
-
-Three passes were run on it. The first checked its structure and its counts. The second checked the
-148 model scripts it claims to hold against the examiner reports. This one checks the **content** —
-every answer, every question it claims to answer, every figure in it, and every mark scheme behind
-it.
-
-**Short answer: the answers are accurate. Three things around them are not, and all three are now
-either fixed or listed at the foot of the answer they affect.**
+> **This file records earlier audit claims, not a current independent verification.** The P2 source audit did not check every answer, every figure, every mark scheme or all 148 claimed exemplar scripts. Do not rely on the earlier “answers are accurate” conclusion as a finding of this audit. See [`P2_Preparation_Handoff.md`](P2_Preparation_Handoff.md) for verified items, source mismatches, known limits and required follow-up.
 
 ---
 

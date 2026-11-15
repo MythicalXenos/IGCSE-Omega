@@ -1,6 +1,6 @@
 # 01 — MARK TARIFF PLAYBOOK
 
-Every rule below is taken from the actual 4BS1 mark schemes in the archive, principally `4BS1_Business_Studies_May_2023_P1_MS.txt`. Nothing here is general advice.
+**Audit status (10 Nov 2026):** this is a legacy teaching draft, not an official Pearson document. Some examples and mark-scheme excerpts are useful, but claims/counts below have not all been independently verified. The current specification and exact question’s identity-matched QP/MS take precedence; see [`P2_Preparation_Handoff.md`](../P2_Preparation_Handoff.md). Do not treat a sample response or one examiner comment as a universal quota or marking rule.
 
 > ### 🧭 WHAT IS IN THIS FILE
 > 1. **The tariff playbook, by command word** — what each tariff is worth and what shape of answer earns it (above the line below).
@@ -27,21 +27,18 @@ From the official June 2019 Paper 1/1R exemplar booklet, p. 2:
 
 ---
 
-## ⭐⭐ THE FINGERPRINT — verified on all 988 items
+## Legacy tariff fingerprint (corpus-derived; not independently reconciled here)
 
-**`15_Tariff_Fingerprint.md` derives, from all 38 mark schemes, what each tariff is *made of*.** The
-short version, because it changes how you answer:
+`15_Tariff_Fingerprint.md` reports an automated classification of archived mark schemes. Its counts and claims require item-level source checking before use as a complete tariff map. Use the exact question and mark scheme; do not infer a future paper structure from archive frequencies. The broad command/AO pattern below is a navigation aid only:
 
-| Tariff | AO composition (every paper) | What it means for you |
+| Tariff / command (examples, not a guarantee) | Scope checked here | What to do |
 |---|---|---|
-| **3** | **AO1 only** | no context needed; **no marks for a definition** |
-| **6** | **AO2 + AO3** — no AO1, **no AO4** | **a conclusion earns nothing** |
-| **9** | **AO2 + AO3 + AO4** — **no AO1** | **no knowledge marks**; 3 of 9 are the judgement |
-| **12** | AO1 + AO2 + AO3 + AO4 | the **only** question that pays for knowledge |
+| **3 / Explain** | Current specification: one fact plus two expansion points; no case context required. Sampled item schemes commonly allocate AO1. | Explain the requested point; no opening definition or fixed sentence count is required. |
+| **6 / Analyse** | Sampled schemes assess application and analysis (AO2/AO3). | Develop the issue in the business context and follow the item’s level descriptors. |
+| **9 / Justify** | Sampled schemes assess AO2/AO3/AO4. | Make and support the requested recommendation; one-option and two-option routes can both work in examples. |
+| **12 / Evaluate** | May 2023 P2 Q4(c) MS allocates AO1/AO2/AO3/AO4, 3 each. | Use the exact MS; this allocation is not asserted for all future items. |
 
-**And the command word is the tariff's name:** 152/152 3-markers say *Explain*, 114/114 6-markers
-*Analyse*, 76/76 9-markers *Justify*, 38/38 12-markers *Evaluate*. **The bracket tells you the shape
-before you read the stem.**
+The old figures **152/114/76/38** and claims that each tariff always maps to one command word are legacy generated counts, not independently reconciled here. The specification does not promise a fixed tariff-command mapping.
 
 ---
 
@@ -52,8 +49,9 @@ before you read the stem.**
 | Command word | AO | What earns the mark |
 |---|---|---|
 | **Define** | AO1 | Correct definition. Nothing else. |
-| **State / Identify** | AO1 or AO2 | One correct point. One. |
-| **MCQ / Select one** | AO2 | The right letter. |
+| **State** | AO2 (contextual answer under the current specification) | Give the requested point in the context supplied. |
+| **Identify** | Read the graph/table as directed | Select the correct answer; see the item’s mark scheme. |
+| **MCQ / Select** | AO1 recall or calculation from given information | Select the correct answer; check the actual item. |
 
 Mark scheme wording, verbatim:
 
@@ -73,12 +71,12 @@ Note the AO can flip even at 1 mark. A *define* is AO1. A *state one method **fo
 | Command word | AO | Structure |
 |---|---|---|
 | **Outline one** | AO2 | Identify **(1)** + link to the business context **(1)** |
-| **Calculate** | AO2 | Method/workings **(1)** + correct answer **(1)** |
+| **Calculate** | Apply mathematical skill to given data | The method/answer allocations vary; follow the exact MS. |
 
 > `3 (b)  A02 - 2 marks`
 > `Award 1 mark for identifying a way Irsi Chocolatier could keep customer loyalty, plus 1 further mark for linking it to the context of the business.`
 
-**The second mark is a context mark.** It is not a second idea. If you give two generic points you get **1 mark**. You must attach the point to the named business.
+For this cited Outline item, the second mark is awarded for linking the point to the business context. Check the exact question’s scheme rather than assuming every two-mark item uses the same allocation.
 
 > `1 (e)  Award full marks for correct numerical answer without working.`
 
@@ -88,7 +86,7 @@ For a calculation: show the substitution anyway. It is worth a mark if you slip 
 
 ### 3 marks — EXPLAIN
 
-**AO1 = 3 marks.** (Verified: `1 (f)  A01 - 3 marks`)
+The cited mark scheme allocates AO1=3 for that Explain item. The current specification describes Explain as a fact with two further expansion points; check the exact item’s mark scheme.
 
 > `Award 1 mark for identification of a benefit for a business that uses test marketing, plus 2 further marks for explaining the benefit, for a maximum of 3 marks.`
 >
@@ -104,7 +102,7 @@ That is **one idea, three linked steps**:
 IDENTIFY (1)  →  BECAUSE… (1)  →  WHICH MEANS / LEADING TO… (1)
 ```
 
-**Literal opening sentence:**
+**One possible opening (not required wording):**
 
 > "One benefit of test marketing is that the risk of failure is reduced, because…"
 
@@ -131,11 +129,7 @@ Read the upgrade pattern in the descriptors — it is mechanical:
 | AO2 word | Limited | Sound | **Detailed, throughout** |
 | AO3 word | Limited connections | Interconnected | Detailed, **logical** chains |
 
-**What this means in practice:**
-- "**throughout**" — context cannot be one mention of the business name in the opening line. Weave the context through every chain.
-- "logical chains" — each step must follow from the one before it.
-
-**No conclusion needed or rewarded.** AO4 is worth zero here. Save the judgement for 9 and 12 marks.
+**How to use the descriptors:** AO2 requires relevant application and AO3 requires analysis; at the top level application is described as detailed throughout. This does not set a fixed number of case references or require every chain to contain a different noun. A separate AO4 judgement is not assessed in this Analyse tariff; a relevant final sentence may still contribute to application or analysis if it does that work.
 
 ---
 
@@ -161,17 +155,7 @@ And from the May 2023 P2 examiner report on Q3(e):
 
 **So: do not spend your words defining or describing the two options.** Assume the examiner knows what crowdfunding is. Everything you write must be doing AO2 (context), AO3 (chains) or AO4 (judgement) work.
 
-**Structure that matches the descriptors:**
-
-```
-1. STATE THE CHOICE IMMEDIATELY
-   "Backyard Shoez should choose Option 1, because…"
-2. JUSTIFY with applied chains (AO2 + AO3)
-3. COUNTER-ARGUE — acknowledge the weakness of the option you chose
-4. FINAL JUDGEMENT, still in context (AO4)
-```
-
-Note step 3. In the verified 9/9, the candidate turns against their own choice mid-answer — *"However, if the retailer uses crowdfunding then every investor would own a share of the business. This could result in a loss of control…"* — and then resolves it in the conclusion. That balance is what builds the AO4 marks.
+**One possible planning route (not a required sequence):** identify the recommendation; develop relevant case-based reasons and consequences; evaluate the choice using the question’s options/information; make a supported recommendation. Evaluation can include a drawback of the recommended option or a contrast with the alternative, where relevant. The exact route and placement of the judgement are not prescribed; the matching QP/MS criteria govern.
 
 ---
 
@@ -206,7 +190,7 @@ transcripts and the 8/9 side by side: `External_Exemplars/2025-06_P1R_CCT.md`.
 
 ### 12 marks — EVALUATE
 
-**AO1 = 3, AO2 = 3, AO3 = 3, AO4 = 3.** *The only tariff that pays AO1 separately.*
+In sampled 12-mark mark schemes (including May 2023 P2 Q4(c)) the AO split is **AO1 = 3, AO2 = 3, AO3 = 3, AO4 = 3**. Confirm the allocation printed in the exact question’s MS; do not infer it solely from tariff. This is not the only tariff that assesses AO1.
 
 | Level | Marks | Band |
 |---|---|---|
@@ -222,31 +206,28 @@ And from the May 2023 P2 examiner report:
 
 > *"Some candidates have used bullet points or numbered items, this will not allow them to gain the higher levels."*
 
-**Two hard rules:**
-1. **Write prose. Never bullet points.** The report says bullets cap you below the higher levels.
-2. **You must conclude.** A well-balanced, justified conclusion is what the level 3 descriptor rewards.
-
-**The one 12-marker that is different.** The June 2024 P1 Q4(c) examiner comment notes the 12/12 used *"the 'it depends rule'"*. Weaker responses assert flatly; the top response says it depends on X and Y, then commits anyway. See the verified 12/12 in `02_Verified_Exemplars.md` for exactly how that reads.
+This is a report comment about candidates on that particular question; it is not a universal ban on bullets for every 4BS1 question. The specification requires Evaluate to reach a supported conclusion, but it does not prescribe a separate concluding paragraph or a fixed “balanced” structure. Use the question’s level descriptors. The June 2024 P1 example’s conditional judgement (“it depends”) is one effective response, not required wording.
 
 ---
 
 ## The command-word → tariff map
 
-| Command word | Tariff | AO focus | Seen in |
-|---|---|---|---|
-| Which one of the following… | 1 | AO1 or AO2 | 198 |
-| Define | 1 | AO1 | 114 |
-| State / Give / What is the… | 1 | AO1 or AO2 | 144 |
-| Outline | 2 | AO2 (identify + context) | 38 |
-| Calculate | 2 | AO2 (working + answer) | 104 |
-| **Explain** | 3 | **AO1** (identify + develop) | **152 — every single 3-marker** |
-| **Analyse** | 6 | **AO2 + AO3** — no evaluation | **114 — every single 6-marker** |
-| **Justify which…** | 9 | **AO2 + AO3 + AO4** — must choose | **76 — every single 9-marker** |
-| **Evaluate…** | 12 | **AO1 + AO2 + AO3 + AO4** — must conclude | **38 — every single 12-marker** |
+| Specification command word | Requirement (Appendix 2 summary) | Mark/AO details |
+|---|---|---|
+| Multiple-choice | Select one or more correct answers; recall or calculation | Check the item and its mark value. |
+| Define | Define a specification term | AO1 in sampled items; check MS. |
+| Give | Recall knowledge | Check mark scheme. |
+| State | Answer in context from the information given | AO2 in sampled items. |
+| Identify | Select from graph or table | Check the data/mark scheme. |
+| Calculate | Use mathematical skills on given data; workings should be given | No fixed tariff or method-mark split is assumed. |
+| Complete the table | Work out missing data values | Follow the presented data and MS. |
+| Outline | Give two linked points about a concept/issue, in context | See item-specific tariff. |
+| Explain | Give a fact plus two expansion points; no case context is required | AO1 in the current taxonomy; MS governs awarded marks. |
+| Analyse | Extended answer with expansion/exploration in context | Commonly AO2/AO3; verify the question’s AO split. |
+| Justify | Extended answer recommending one of two options using the information | Commonly AO2/AO3/AO4; use the exact MS. |
+| Evaluate | Extended answer reaching a supported conclusion about a business situation | AO4; use exact MS allocation/levels. |
 
-**The tariff is not a hint — it is the command word.** All 988 items were checked against their
-bracket in `15_Tariff_Fingerprint.md`: the 3-mark is **always** *Explain*, the 6 **always** *Analyse*,
-the 9 **always** *Justify which…*, the 12 **always** *Evaluate*.
+The historical archive-to-tariff mapping below is generated from bank files and is not a rule for future papers. The specification does not guarantee a fixed tariff by command word.
 
 **This mapping is 4BS1 only.** 4EC1 Economics uses a different set — 6 *Analyse*, 9 *Assess*, 12
 *Evaluate* — and, unlike 4BS1, its 12-marker carries **no AO1**. Do not carry this table across
@@ -279,7 +260,7 @@ that was wrong and has been corrected.
 | 49 | Justify — two accepted routes; you do NOT have to discuss both options |
 | 50 | the State rule, with a marked 1/0 pair |
 | 51 | the decimal-place rule, proven on a real script |
-| 52 | a full-marks 6-mark Analyse is three sentences |
+| 52 | a concise 6-mark Analyse example (not a sentence quota) |
 | 53 | the 3-mark Explain — three rungs, third one is the business outcome |
 | 54 | definitions — four rules, all proven on marked scripts |
 | 55 | language is not marked — verified on scripts |
@@ -294,60 +275,34 @@ that was wrong and has been corrected.
 
 ---
 
-## 41. ⭐⭐⭐ THE COMMAND WORD TAXONOMY — recovered from the reports themselves
+## 41. Command-word taxonomy — from the current specification
 
-For the whole project this was recorded as *"unreachable"*: the taxonomy sits on **page 32 of the Getting Started Guide / page 31 of the Specification**, past the fetcher's content limit. **It is no longer needed from there.** The Summer 2019 reports give its location, its purpose, and three of its rows outright:
+The current official specification (Issue 2, February 2026, Appendix 2) defines what each command requires. Use that taxonomy rather than this file’s previous reconstructed AO/command table.
 
-> *"on **page 32 of the Teacher's Guide** and **page 31 of the Specification**, are examples of the **command words** used that **indicate which of the AO's are being tested**."* (Summer 2019 P2R)
->
-> *"Centres are advised to look at the **command words outlined on page 31 of the specification** as many learners are losing marks through their lack of understanding of these words, in particular the **'State' questions**."* (Summer 2019 P1)
+| Command word | What the specification says learners do |
+|---|---|
+| Multiple choice | Select one or more correct answers; may test recall or require a calculation. |
+| Define | Define a term from specification content. |
+| Give | Give a recall answer. |
+| State | Give an answer no longer than a sentence, referring to contextual information. |
+| Identify | Select the correct answer from a graph or table. |
+| Calculate | Use mathematical skills on given data; workings should be given. |
+| Complete the table | Work out missing values in the presented data. |
+| Outline | Give two linked points about a concept/issue, in context. |
+| Explain | Give a fact with two further expansion points; context is not required. |
+| Analyse | Extended response expanding/exploring a business concept or issue in context. |
+| Justify | Recommend one of two options using the information provided. |
+| Evaluate | Use specification knowledge to reach a supported conclusion about the business situation. |
 
-**And the AO percentage breakdown** — repeatedly mis-quoted in the bank as being on the same page — is elsewhere:
-
-> *"The breakdown for each AO can be seen on **page 7 of the Getting Started** guide"* / *"**page 22 in the Specification**"*
-
-### The table, reconstructed from examiner statements and mark scheme tariffs
-
-| Command word | AOs tested | Knowledge marks? | Context needed? |
-|---|---|---|---|
-| **Define** | AO1 | **yes — pure recall** | **no** |
-| **State** | AO1 + **AO2** | yes | ⭐ **MANDATORY** |
-| **Outline (2)** | **AO2** | **no** | **yes** |
-| **Explain (3)** | **AO1** | **yes (3/3)** | **optional — never penalised** |
-| **Analyse (6)** | **AO2 + AO3** | ⭐ **NO** | **yes, or L2 caps** |
-| **Justify (9)** | ⭐ **AO2 + AO3 + AO4** | ⭐ **NO** | **yes** |
-| **Evaluate (12)** | ⭐ **AO1 + AO2 + AO3 + AO4, equally — 3 each** | yes (3 of 12) | **yes** |
-| **Calculate** | AO2 | n/a | n/a |
-
-**The three rows stated verbatim by Pearson:**
-
-> **Justify** — *"there are **no AO1 marks available for these questions** and they are being tested on **application (AO2), analysis (AO3) and evaluation (AO4)** skills to be able to successfully **recommend one of the options**"* (Summer 2019 P1)
->
-> **Analyse** — *"an **analyse** question is looking for **application and analysis as opposed to knowledge**"* (Summer 2019 P2R)
->
-> **Evaluate** — *"with **all four of the Assessment Objectives** being covered"* / *"the only level-based question in the paper which is **equally weighted across all four assessment objectives**"* (Summer 2019 P1)
-
-### ⭐ THE ACTIONABLE SUMMARY
-
-> **AO1 is tested on only FOUR command words: Define, State, Explain, Evaluate.**
->
-> **On Outline, Analyse and Justify — 17 of the paper's 80 marks — knowledge earns exactly nothing.**
->
-> **The single biggest self-inflicted loss on the paper is writing a definition where a development was asked for.**
+The specification defines tasks, not a fixed tariff for every command. For AO allocation, marks, formula provision and level descriptors, inspect the exact item’s MS. The former claims that AO1 applies to State, that Define/Explain are compulsory openings, and that context applies at every tariff are withdrawn.
 
 ---
 
-## 42. ⭐⭐ THE 12-MARKER IS 3 / 3 / 3 / 3 — and it is the ONLY one
+## 42. A sampled 12-mark Evaluate allocation
 
-> *"centres are reminded that this is **the only level-based question in the paper which is equally weighted across all four assessment objectives**."* (Summer 2019 P1 Q4(c))
+> *"centres are reminded that this is the only level-based question in the paper which is equally weighted across all four assessment objectives."* (Summer 2019 P1 Q4(c))
 
-**AO1 3 · AO2 3 · AO3 3 · AO4 3.** No other question on the paper is weighted that way.
-
-**Implication for answer shape — a quarter of the marks are AO4.** Since ~80% of candidates stop at Level 2, and the two recorded causes are *no application* and *no thorough judgement*, the practical split is:
-
-> **~3 sentences of textbook-correct knowledge · ~4 sentences of applied chain · a paragraph of both sides · a conclusion that DECIDES and RANKS.**
->
-> **The conclusion is worth up to 3 marks on its own.** It is not an optional flourish.
+This identifies that item’s AO1/AO2/AO3/AO4 allocation; it is not a blanket rule for every question or proof that no other item is equally weighted. Check the exact QP/MS. Use its AO allocation and level descriptors to develop relevant knowledge, application, analysis and a supported judgement. This is not a sentence, paragraph or word-count quota; a conclusion is assessed as part of the response, not as an isolated fixed-mark block.
 
 ---
 
@@ -370,7 +325,7 @@ For the whole project this was recorded as *"unreachable"*: the taxonomy sits on
 
 **⚠️ Neither route is the marking criterion.** The marks turn on **evaluate vs describe**, and the same report says it in one line: *"many candidates described both methods, which is knowledge"* — two options **described** is Level 2, one option **evaluated** is Level 3, and **two options evaluated with a conclusion** is also Level 3. **Teaching "never mention the other option" is wrong**; so is teaching "you must do both".
 
-**Which to choose, in practice:** Route A if one option has more chains in *this* case; Route B if the two options mirror each other (meetings vs email, rotation vs bonus) so the contrasts *are* the evaluation. Every 9/9 in the register does one or the other and **none of them does it half-way.**
+**Which route is useful depends on the options and case.** The examples registered here illustrate both routes but have not all been independently verified in this audit; they do not establish a universal answer pattern.
 
 **Why candidates still fail:** not because they chose the "wrong" route, but because covering both options **shallowly** produces **two descriptions instead of one argument**. *"The response is mainly for the option chosen"* is recorded by the examiner as a **neutral-to-positive** observation — it is a comment on proportion, not a rule.
 
@@ -424,7 +379,7 @@ June 2022 P2R Q1(e), *calculate the selling price of a chocolate cake* (**2 mark
 
 ---
 
-## 52. ⭐⭐ A FULL-MARKS 6-MARK ANALYSE IS THREE SENTENCES
+## 52. A concise full-mark Analyse example (not a sentence template)
 
 June 2022 P2R Q1(g) — *Analyse two factors that could influence Cadbury when locating a new factory.* **Awarded 6/6:**
 
@@ -441,15 +396,15 @@ June 2022 P2R Q1(g) — *Analyse two factors that could influence Cadbury when l
 
 > *"the response did not gain full marks because **it lacked the logical chains of reasoning**. Perhaps the candidate could have **linked the two factors together**…"*
 
-> **On a two-part Analyse: do not write two disconnected mini-answers. Finish with one sentence that JOINS them.**
+> **For a multi-part Analyse, answer each part and make the relevance of your reasoning clear.** The source comment about linked responses applies to its cited question; there is no universal requirement to add exactly one joining sentence.
 
-**Also from this question:** *"there are **no marks available for knowledge**, and the response **must be in context**"* · *"Examiners will look at the response **'holistically'**"*.
+The cited question’s MS assessed application and analysis, without separate knowledge marks. For any other question, check its AO split and MS.
 
 ---
 
-## 53. ⭐ THE 3-MARK EXPLAIN — three rungs, and the third one is the business outcome
+## 53. Explain: develop the fact as the specification requires
 
-Four Explain questions on June 2022 P2R, each with a **2/3 and a 3/3** answer.
+The June 2022 P2R scripts provide examples of points with development; they are illustrative, not sentence or chain quotas.
 
 | Rung | Earns | Q2(c) example |
 |---|---|---|
@@ -459,10 +414,7 @@ Four Explain questions on June 2022 P2R, each with a **2/3 and a 3/3** answer.
 
 **The examiner's 2-mark verdict, verbatim:** *"the response was **not further developed to gain the extra mark available**."*
 
-> **The third rung is almost always one of: productivity · costs · quality · customer satisfaction · revenue · survival · loyalty.**
-> **If your answer ends on "this motivates them" or "this improves cash flow", you are one rung short.**
->
-> **And: *"the question asked for one advantage not several advantages."*** The listing cap, again.
+These are one response’s three credited steps, not a prescribed endpoint. The specification allows the two expansion points to extend one another or both develop the same fact; the relevant business outcome depends on the question. In the cited Q2(c), the examiner noted that the lower response lacked further development. Answer the requested single advantage rather than listing unrelated advantages.
 
 ---
 
@@ -659,5 +611,5 @@ Before you hand anything over, run this:
 - [ ] **6-markers:** Have I written any conclusion or judgement? (It earns nothing — that time was better spent on another chain.)
 - [ ] **6-markers:** Is the context sustained "throughout", or just in sentence one?
 - [ ] **9-markers:** Did I state a clear choice and defend it — or did I describe both options?
-- [ ] **12-markers:** Am I in continuous prose, with no bullets?
+- [ ] **12-markers:** Is my reasoning and supported judgement clear and easy to assess, in whatever clear format I choose?
 - [ ] **12-markers:** Do I have a real conclusion, ideally weighing "it depends on…" before committing?

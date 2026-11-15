@@ -1,23 +1,23 @@
 # 11 — THE SELF-MARKING PROTOCOL
 
-**What this file is for.** Everything else in this folder tells you what a perfect answer looks like. **This one is the sheet you run over your own answer to find out whether it already is one** — for the ninety minutes in the exam hall you cannot consult anything, so what you actually need is a marking routine small enough to hold in your head.
+> **Audit status (10 Nov 2026):** this self-review checklist contains legacy rules whose source claims have not all been rechecked. Read [`../P2_Preparation_Handoff.md`](../P2_Preparation_Handoff.md) and the relevant specification/QP/MS first. It is a practice aid, not an assessment of readiness or an official score prediction.
 
-**Where every line comes from.** Nothing here is new evidence. **Each rule is evidence already banked in this folder**, cited by its rule number: **rules 41–63 live in `01_Mark_Tariff_Playbook.md`, rules 1–48 and 64–126 in `06_External_Source_Library.md`.** Where a rule comes from a script or a report, the pointer says so. **If you want the proof, the rule number takes you to it; if you want the rule, this page is enough.**
+**Purpose.** Use the prompts below to review a practice response against the actual command word and mark scheme. The bank’s example answers are not a universal template, and the cited rule numbers are not proof that each interpretation is correct.
 
-> ⚠️ **One thing this file does NOT do: tell you what you would have scored.** It tells you where marks are lost. **No one except Pearson marks a script**, and the bank never claims a score for an answer that was not examiner-marked.
+**Evidence limits.** Earlier versions presented the rule index as proof for every statement; that overclaimed what indexing and automated checks establish. Verify any rule you plan to teach against its primary source.
 
 ---
 
 ## THE FIVE PASSES — run them in this order, on every answer
 
-**The order is the point.** Each pass is cheaper than the one after it, and the earlier ones kill more marks. **A candidate who runs only passes 1–3 usually beats a candidate who writes more and runs none.**
+These are optional prompts for reviewing practice work, not a validated ordering or evidence that one review routine yields a particular mark.
 
 | Pass | Question you ask | Why it is first |
 |---|---|---|
 | **1. RELEVANCE** | *Did I answer the question that was SET?* | A perfect answer to a different question scores zero (rules 68 · 102 · 106 · 126) |
 | **2. THE COMMAND WORD** | *What does the verb owe — knowledge, application, analysis, judgement?* | The tariff card below is built on it (rules 41 · 42) |
 | **3. CONTEXT** | *Is the BUSINESS in the sentence — its people, its products, its numbers?* | Applying is where the most marks are lost, and the cause is never knowledge (rule 108) |
-| **4. THE TARIFF** | *Does it have the shape my tariff card requires?* | The five shapes are fixed; the topics are not (rules 110 · 88 · 82) |
+| **4. THE TARIFF** | *Does it meet the exact item’s tariff and level descriptors?* | Check the question-specific MS; do not assume a fixed response shape. |
 | **5. THE ARITHMETIC** | *Is the answer line right, at the required precision?* | The examiner reads the answer line, not your working (rules 59 · 51 · 107 · 113) |
 
 ---
@@ -62,7 +62,7 @@
 
 - **One reference is enough on a state question** — *"Just one reference to the context of the business is enough for a 'state' question"* *(rule 111)*.
 - **And one is REQUIRED to get paid at all on Explain — yet the tier's failure is never knowledge:** success rates across reports run **10–20%** *(rule 108)* — *"Candidates were able to identify a reason… but **not relate it to the business**."*
-- **Context must be woven, with variety** — *"woven throughout the entire response, appearing in all paragraphs… variety rather than mere repetition"* *(rule 117)*, followed by the warning **not to simply repeat the information given.**
+- **Context where AO2 is assessed:** use relevant facts from the case at the depth required by the level descriptor. The quoted “all paragraphs/variety” comment is specific to its report and is not a fixed context quota.
 
 ⚠️ **The generic test, from a real examiner ruling:** *"could apply to any business."* **Run every chain through it.** If the sentence would be true of any firm in any country, it has not been applied. **One chain aimed at the wrong thing** — the P2R Q3(b) 0/2 whose benefit flowed to the transport bill instead of the labour force — fails exactly this test.
 
@@ -107,7 +107,7 @@
 - [ ] **Three rungs present, and the third one names a result?** — *increased sales*, *less waste*, *positive cashflow*; **"save a bit of money" is where a 2-mark chain stops** *(the 2/3 at `2023-05_Series_P2_and_P2R_Two_Mark_Explain.md`)*.
 - [ ] **Did the question say `one`?** — then exactly one reason, one chain, one method *(Pass 1, above)*.
 - [ ] **"why" or "how"?** — advantage/disadvantage questions need a different technique from method/way questions *(rule 62)*.
-- [ ] **Have I written a definition first?** — it earns nothing here *(rule 119)*.
+- [ ] **Have I answered the command word directly?** Add a definition only where the prompt asks for one or it helps explain the point; it is not a compulsory opening.
 - [ ] **Length is not the variable.** The four June 2026 3/3s run **35–70 words**; the shortest full-mark answer in the bank is **35** *(08_Completion_Map.md)*.
 
 ### **6 marks — ANALYSE**
@@ -122,7 +122,7 @@
 - [ ] **Does every connective have a mechanism behind it?** — *"limited interconnected points"* is the examiner's name for **a connective with no mechanism** *(rule 97)*; **connectives alone are not analysis** *(rule 63)*.
 - [ ] **Would the chain survive on any business?** — rule 81's *"generic analysis"* is context-free.
 - [ ] **A full-marks answer can be three sentences** *(rule 52)* — 6/6 is a shape, not a length.
-- [ ] **Context in all paragraphs, and varied** *(rule 117)*.
+- [ ] **Where AO2 is assessed, have I applied relevant case information at the depth the question’s level descriptor requires?** Do not enforce a fixed context/paragraph quota.
 
 ### **9 marks — JUSTIFY**
 
@@ -135,7 +135,7 @@
 
 **60-second check**
 - [ ] **Is there a clear choice, stated?** *(rule 88, requirement 1)*
-- [ ] **Is the conclusion three sentences doing three jobs?** *(rule 92)*
+- [ ] **For justify/evaluate, is my recommendation or conclusion supported by the relevant case and reasoning?** There is no prescribed sentence count.
 - [ ] **⭐ Is there a NAMED CONDITION?** — *"could be limited because it depends on factors such as **natural**…"* is the 12/12's shape; **the condition is the band** *(rule 91)*.
 - [ ] **AO4 ladder:** the four verdicts across three sessions reduce to one rule *(rule 75)*.
 - [ ] **Named people and named materials are the CEILING of AO2** *(rule 94)* — *Gianni Polvani's 14 employees*, not *"the staff"*.

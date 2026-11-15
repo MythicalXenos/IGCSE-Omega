@@ -91,7 +91,7 @@
 **P2R (M&M):**
 > *"**Some candidates are using bullet points or a numbering format which will not allow them to gain the higher levels.** A number of candidates **confused a cash flow forecast with statement of comprehensive income**, which limited them gaining the higher levels. **Well over half of the cohort were able to gain a Level 2 mark.**"*
 
-⭐ **Bullet points are now confirmed as disqualifying for the top levels in two separate 2023 reports** — and the June 2025 rule (*"never bullets"*) is the same rule, three years on.
+**Scope caution:** these are examiner comments about candidates’ responses to the cited 2023 level-based questions. They show that, in those cases, bulleting was associated with insufficient analysis/evaluation; they do not establish a universal format ban across every Business question or paper. The mark scheme assesses the response’s relevant application, reasoning and judgement.
 
 ---
 

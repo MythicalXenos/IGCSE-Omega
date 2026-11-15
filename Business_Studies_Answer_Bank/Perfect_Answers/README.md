@@ -1,5 +1,7 @@
 # 4BS1 — PERFECT ANSWERS BANK
 
+> **Audit status (10 Nov 2026):** this README and its coverage/label assurances predate the P2 primary-source audit. Its claims about completeness, verification, score evidence, counts and script checks are not audit findings. Read [`../P2_Preparation_Handoff.md`](../P2_Preparation_Handoff.md); only the examples explicitly marked as source-checked there have been independently verified in this audit.
+
 **Pearson Edexcel International GCSE Business (4BS1)**
 Built 2026-10-13 from the Paperlords archive (38 QPs + mark schemes) and official Pearson exemplar/examiner-report materials.
 

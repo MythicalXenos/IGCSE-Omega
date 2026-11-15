@@ -1,6 +1,8 @@
 # 10 — THE CHAIN BANK
 
-**Every answer here is labelled, and the label matters.** Three kinds appear:
+> **Audit status (10 Nov 2026):** This is a generated teaching/navigation collection, not a fully source-verified answer bank. Labels, counts, quotes and coverage claims below are legacy claims and have not all been independently checked against original pages. Before relying on an entry, verify its exact prompt/page, identity-matched mark scheme and applicable report. The current authority and known gaps are in [`../P2_Preparation_Handoff.md`](../P2_Preparation_Handoff.md).
+
+**Entries use labels to distinguish provenance; a label alone is not evidence that source verification is complete.**
 
 | Label | What it is | What it is NOT |
 |---|---|---|
@@ -90,7 +92,7 @@ This file supplies both halves:
 - **`01_Mark_Tariff_Playbook.md`** already holds the framings — the structure and mark allocation for each tariff.
 - **This file holds the topics** — the actual causal chains that earn the marks, one entry per topic.
 
-**A topic done once here covers every paper it has ever appeared on, and every paper it will appear on next.**
+A topic example can help with transfer, but a prompt’s framing, case context and AO demands vary. Check each new question and its own mark scheme; one model does not certify coverage of future variants.
 
 ---
 
@@ -103,11 +105,9 @@ Every entry gives you:
 3. **The chain, broken out** — so you can rebuild it under pressure rather than memorise prose.
 4. **A second acceptable chain**, because the mark scheme accepts *"any other appropriate response"*.
 
-> ### ⭐ THE ONE RULE FOR EVERY 3-MARK ANSWER
-> **Point + two development steps. Nothing more can score.**
-> Pearson's own words: *"from the mark scheme they can **only gain 2 further marks** for explaining the reason. **Do not waste time in the examination with longer responses than necessary.**"*
-> **Three sentences. That is the whole answer.**
-> ⚠️ **And the third mark is lost by repeating, not by running out of ideas:** *"their second strand of development often involved **merely restating the initial point**."* Each step must be a **new** link.
+> ### A useful 3-mark explain approach — not a sentence quota
+> Many 3-mark explain schemes award a mark for identifying a point and further credit for relevant development. Read the exact item’s MS: the assessed content and allocation can differ. Develop the point clearly; there is no universal requirement to write exactly three sentences, and additional relevant content is not automatically penalised. Avoid repeating the same idea as if it were a new development.
+> The examiner comment quoted in the legacy draft (“only gain 2 further marks …”) concerns its cited question and supports concise, relevant explanation, not a fixed length rule.
 
 > ### ⭐ AND THE COMMAND-WORD NOTE THAT APPLIES TO EVERY ENTRY BELOW
 > **Explain assesses AO1 — Knowledge. Context is NOT required.**
@@ -444,17 +444,7 @@ REMAINING                :    0 topics  ·    0 blocks
 
 # WHAT BATCH 1 ESTABLISHES
 
-Read the sixteen answers above side by side and the pattern is visible. **Every one is three sentences doing three jobs**, and they never vary:
-
-| Sentence | Its job |
-|---|---|
-| **1** | **Define or identify the thing** — often built into the point itself |
-| **2** | **The mechanism** — *this means / because / therefore* + a cause |
-| **3** | **The business consequence** — profit, cost, sales, cash, reputation |
-
-> ### ⭐ AND THE CONSEQUENCE IS ALWAYS ONE OF SIX THINGS
-> **Lower costs · more sales · higher profit · more cash · better reputation · reduced risk.**
-> If your third sentence does not land on one of those six, it is not a consequence yet. **Land it.**
+The answers above illustrate recurring reasoning moves: identify a relevant point, explain how it matters, and connect it to a plausible business effect. This is a flexible way to check whether an explanation is developed, not a required three-sentence form. The consequence depends on the question and may concern costs, sales, cash flow, quality, staff, customers, reputation, risk or another relevant outcome; the list is illustrative, not exhaustive.
 
 ---
 
@@ -475,7 +465,7 @@ Read the sixteen answers above side by side and the pattern is visible. **Every 
 
 # BATCH 2 — Spec 3.1 (Business activity) and the 3.2 structure cluster
 
-**33 entries.** The clusters are merged into one entry each — partnership appears four times in the papers, the HR function three — **because the chain that earns the marks is identical and only the wording moves.** That deduplication is what makes the bank tractable.
+**33 entries.** Related prompts (including partnership and HR-function questions) are grouped by recurring business reasoning to support transfer. Their wording, context, mark tariff and AO demand can differ; this thematic grouping does not mean the exact same response fits every instance. Check each question’s source and mark scheme.
 
 ---
 
@@ -971,10 +961,8 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 >
 > **Every entry below states which of its chains come from the scheme and which are mine.** Where a chain is labelled *scheme*, the (1) markers are Pearson's, and the route is one the scheme explicitly accepts. **This still does not make it a marked script** — it is the scheme's own model, which is the strongest thing that exists for a 3-mark question, but it is a different kind of evidence and it is labelled as such.
 
-> ### ⭐⭐ THE 3-MARK MARKETING RULE, AND IT IS NEW
-> **`NB No marks are awarded for a definition.`**
-> This line appears in the mark schemes for **May/June 2020 P2R, May/June 2022 P2, May 2023 P2R, Nov 2024 P1, Nov 2024 P2 and June 2026 P2** — six series, and it is in none of them by accident.
-> **Do not open these answers by defining the term.** *"E-newsletters are electronic newsletters"* scores **0**. *"Above-the-line promotion is promotion through the media"* scores **0**. The first mark is for a **method / reason / benefit**, not for a definition — so start with the thing itself and spend all three sentences on **what it does and what follows**.
+> ### Scope note: definitions in particular Explain mark schemes
+> Some of the cited MSs explicitly state “No marks are awarded for a definition” for the question at hand. In those items, a bare definition does not answer the task; explain the requested method, reason or benefit. Do not turn these item-specific notes into a rule that definitions are never useful, that an opening definition is forbidden, or that the response must contain exactly three sentences. Follow the exact command word and MS.
 
 ---
 
@@ -3082,7 +3070,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Second acceptable chain:** an economic factor — a recession, or a fall in disposable income — **moves parents from premium toys towards cheaper ones**, so TBTS must decide whether to **cut prices, narrow the range or accept lower sales**.
 
-> ⚠️ **"External factors" is a category, not an answer.** You must **name the factor** (social, technological, economic, legal, environmental) and **then show what it does to this business**. A list of five factors with no chains scores in the bottom level — **and bullets disqualify the top levels outright.**
+> ⚠️ **"External factors" is a category, not an answer.** You must **name the factor** (social, technological, economic, legal, environmental) and **then show what it does to this business**. A bare list with no relevant reasoning will not meet the higher-level analysis descriptors. The cited reports’ comments about bullet-point answers are paper-specific, not a universal ban; organise the response clearly enough for its reasoning to be assessed.
 
 ---
 
@@ -3419,7 +3407,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Second acceptable chain:** a **live booking and availability system on the website** → customers book without waiting for an email reply → **CCT captures the booking that a slower response would have lost** to a competitor.
 
-> ⭐ **Do not answer "technology" with a list.** *Website, social media, e-newsletter, app, text, online chat* — **each reaches a different audience at a different cost, and the mark is in that match.** A list of five with no chains scores in the bottom level, and **bullets disqualify the top levels outright.**
+> ⭐ **Do not answer "technology" with a list.** *Website, social media, e-newsletter, app, text, online chat* — **each reaches a different audience at a different cost, and the mark is in that match.** A bare list without relevant development will not satisfy the higher-level reasoning descriptors. The report comments about bullet-point answers apply to the questions cited; no universal format ban is established.
 
 ---
 
@@ -4058,13 +4046,15 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **So end on the specific fact or number that would have to hold.** *"This works **provided the €7 500 is genuinely available in savings**"* · *"This depends on **whether the electric bicycles at £550 each are actually cheaper than repairing the tour route**"* — **the number and the case fact are what make it un-pasteable.**
 
-### The 9/9 conclusion — three sentences, and they do three jobs
+### An example conclusion from a 9/9 script (not a length/sequence template)
 
-The verified full-mark conclusions are all **three sentences long** and run in this order:
+The cited full-mark response contains a choice, a comparative reason and a condition:
 
-1. **The choice, and the reason** — *"Rabanne should hold weekly meetings as it gives employees this sense of belonging as their opinions are physically heard."*
-2. **The other option, dismissed** — *"Whereas communication via messages can get lost in inboxes which leads to manufacturers missing important business objectives announcements."*
-3. **The named condition** — *"However, the success of this depends on how much employees get to voice their own concerns in business."*
+1. **Choice and reason** — *"Rabanne should hold weekly meetings as it gives employees this sense of belonging as their opinions are physically heard."*
+2. **Comparison** — *"Whereas communication via messages can get lost in inboxes which leads to manufacturers missing important business objectives announcements."*
+3. **Condition** — *"However, the success of this depends on how much employees get to voice their own concerns in business."*
+
+This illustrates one successful response, not a required three-sentence conclusion or required order.
 
 ### ⚠️ THE FIVE WAYS THIS QUESTION IS LOST
 
@@ -4072,9 +4062,9 @@ The verified full-mark conclusions are all **three sentences long** and run in t
 2. **Deciding at the end** (or not at all). AO4 needs a choice, visibly.
 3. **Writing two mini-essays with no comparison.** The marks are for **choosing**, so the analysis of each option exists to support a decision.
 4. **A generic conclusion** — see the pastability test above.
-5. **Bullets.** They **disqualify the top levels** outright, on every tariff.
+5. **Organisation.** The response must make its reasoning and judgement clear enough to assess. Some reports comment that bullet-pointed responses limited candidates on particular level-based questions; there is no universal no-bullets rule for every question or tariff.
 
-> ⭐ **One more structural fact worth knowing:** across all 76 blocks, **2(f) is almost always a marketing or finance choice** (promotion, pricing, research, sources of finance) and **3(e) is almost always an operations or HR choice** (job design, training, recruitment, production, contracts). **If you are running short of time, that tells you what the question is likely to be about before you read it.**
+> **Do not use the partial archive to predict topics.** Question numbering and subject area may vary by paper; read the whole prompt before planning. No frequency ranking or topic prediction has been established by this audit.
 
 ---
 

@@ -1,6 +1,6 @@
-# 02 — VERIFIED CANDIDATE EXEMPLARS
+# 02 — CANDIDATE EXEMPLAR TRANSCRIPTIONS (AUDIT STATUS: PARTIAL)
 
-Every answer on this page is a **`[VERIFIED CANDIDATE EXEMPLAR]`**: a real student script, reproduced by Pearson, with the awarded mark printed in the official document.
+The entries below are intended to represent real Pearson-published student scripts and printed marks, but **this audit has not independently checked every script, score, transcription, source identity or page reference**. Do not treat the `VERIFIED` labels or harvest summary as proof. The only P2 candidate example independently cross-checked here is May 2023 P2 Q4(c), IKEA, 10/12; see [`../P2_Preparation_Handoff.md`](../P2_Preparation_Handoff.md). Use exact primary-source PDFs before teaching any other example.
 
 Transcriptions are faithful to the candidate's handwriting, including their spelling and punctuation errors, so you can see that a grade-9 answer does **not** require perfect English. Minor illegible words are marked `[?]`.
 
@@ -381,7 +381,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 ---
 
-## ⭐⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **6/6 in three sentences**
+## `[CANDIDATE EXEMPLAR — SOURCE CHECK PENDING]` — 6/6 (legacy transcription claim)
 
 **June 2022 P2R, Question 1(g)** — *Analyse **two** factors that could influence Cadbury when locating a new factory.* (6)
 
@@ -394,17 +394,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 
 **Level 3 – 6 marks**
 
-> ### 🔴 This is the most important exemplar in the bank. Read it twice.
->
-> **A FULL-MARKS 6-mark Analyse answer is THREE SENTENCES — 43 words.**
->
-> No introduction. No definition. No listing. No conclusion. Just:
-> **factor → why it cuts costs → what that does for Cadbury.**
->
-> *"Proximity to employees" → "would reduce Cadbury's costs that would be used for transport" → "they are able to save time… Cadbury would increase their efficiency."*
->
-> **Copy this skeleton exactly:**
-> `[Factor] → This is because [mechanism, applied to the business] → This leads to [business outcome] → therefore [Business] would [result].`
+> **Source-review pending:** this is a transcription and commentary in the legacy bank. The purported three-sentence 6/6 response illustrates one way a candidate developed a location point; it is not a required length or template. Do not teach the following constructed causal summary as Pearson wording: proximity to employees may reduce commuting/transport costs and time and support efficiency, depending on the business and evidence in the case.
 
 ### ⚠️ Awarded **5 marks** — the better-informed answer that still lost a mark
 
@@ -419,7 +409,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 >
 > **The examiner's own fix: "linked the two factors together."**
 >
-> **On a two-part Analyse, do not write two disconnected mini-answers. Finish with one sentence that JOINS them.**
+> When a question asks about more than one factor, address what it asks and explain relevant connections where supported. The cited examiner suggestion is specific; it does not prescribe one joining sentence.
 > **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
 > *"…however, siting the factory near the cocoa supply may make it hard to recruit skilled workers, so Cadbury would need to weigh cheap transport against a shortage of labour."*
 
@@ -428,7 +418,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > *"Candidates must be aware that **there are no marks available for knowledge**, and that the response **must be in context of Cadbury**."*
 > *"Examiners will look at the response **'holistically'**."*
 
-## ⭐⭐⭐ `[VERIFIED CANDIDATE EXEMPLAR]` — **two more full-mark 6/6 answers, both three sentences**
+## Two more legacy full-mark 6/6 script transcriptions (source verification pending)
 
 **June 2025** — the newest series, and two Analyse questions with published full-mark scripts.
 
@@ -456,7 +446,7 @@ Also note: the candidate names the business **five times** (Backyard Shoes, Back
 > *Moreover, CCT may be worried whether the app is feasible for its customers to download and use. If the app isn't user-friendly… They may write **bad reviews** of CCT's newly introduced app on the internet, leading to having the **bad reputation** of having bad services. This would make **CCT suffer from bad reputation and will need time to recover, decreasing the sales** of bicycle tour tickets."*
 
 **Examiner:** *"two well developed points, **consistently supported by strong contextual evidence**. Level 3 – 6 marks."*
-**Standing guidance attached:** *"Context must be **woven throughout the entire response, appearing in all paragraphs**, and should demonstrate **variety rather than mere repetition**."*
+**Context note:** the cited Pearson comment is specific to its source question. Read the current specification and that item’s level descriptors; do not convert the wording into a paragraph quota.
 
 > ### 🔬 What both have in common
 > | | Starbucks | CCT |
@@ -859,7 +849,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 
 ⭐ **The concession is the strongest move of the three.** That candidate argues against their own choice and still scores 9. **It is the exact opposite of the restate-your-argument fault that caps answers at 8.**
 
-### 🏆 THE 9/9 CONCLUSION — THREE SENTENCES, THREE JOBS
+### 9/9 conclusion example — illustrative, not a sentence-count rule
 > **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"**Personally, I would choose to use Bonuses** as money can be a key motivator to people, it also helps increase your sales. **A disadvantage of job rotation is that people may not be qualified for every job** in a company/business. **In the long term, job rotation may be better as it gives employees a sense of value.**"*
 >
@@ -889,7 +879,7 @@ The bank now holds **forty-four verified 3/3 Explain scripts** *(see `09_` — 4
 **ResultsPlus Examiner Tip (verbatim):**
 > *"Context can be a range of statements as shown here: **fashion, handbags, costume design, perfumes**."*
 
-### 🔬 THE CONCLUSION — the three-sentence template, for the sixth time
+### 🔬 A conclusion example — not a required sentence template
 
 | Move | Text |
 |---|---|

@@ -2,26 +2,21 @@
 
 **Source:** [International GCSE Business assessment support page](https://qualifications.pearson.com/en/news-policy/subject-updates/business/international-gcse-business-assessment-support-page.html) — Pearson Qualifications, page dated **26 August 2026**.
 
-**This is Pearson's own published guidance for 4BS1, organised by command word.** It is the most authoritative document in this bank: it is the awarding body telling candidates exactly how its own papers are marked. Where anything else in this bank disagrees with this page, **this page wins.**
+**Audit status (10 Nov 2026): this is a legacy compilation, not a Pearson-issued rulebook.** It quotes and paraphrases Pearson pages and examiner commentary; source passages and interpretations have not all been checked in this audit. Its broad claims are not automatically rules. The official Issue 2 specification, the exact QP and identity-matched MS take precedence; see [`../P2_Preparation_Handoff.md`](../P2_Preparation_Handoff.md). In particular, the current specification says an Explain question does not require context, so the old blanket claim that naming a business always makes context compulsory is withdrawn.
 
-Everything in quotation marks below is Pearson's wording, verbatim.
-
----
-
-## Why this page matters
-
-Everything else in this bank — exemplars, examiner reports, calibration — is *evidence* of how marking works. **This page is the rule.** It:
-
-- states the AO allocation for every command word
-- states what earns and loses marks, per tariff
-- confirms (independently) several rules this bank had inferred from examiner comments
-- corrects one rule the bank had stated only partially
+Quoted passages are intended as Pearson wording, but each quotation’s source/page should be checked before reuse. Commentary from one paper must not be generalised into a universal rule without corroboration.
 
 ---
 
-# THE PAPER — what is actually on it, derived from all 38 mark schemes
+## How to use this legacy compilation
 
-**Before any rule about a command word, know the population it applies to.** These figures are **derived**, not counted from question papers: every part of every one of the 38 archived papers is reconstructed from its **mark scheme**, and each paper is required to sum to **80 marks**. **38 of 38 do.**
+This file is a locator for claims and source excerpts, not the rule itself. For current scope and command-word requirements, use Pearson’s specification. For a particular answer, use that exact question paper and identity-matched mark scheme. The statements below were edited where this audit found overreach; unreviewed passages remain unverified.
+
+---
+
+# Legacy archive tariff summary — corpus-derived, not independently reconciled
+
+The table below is a script-generated historic count, not a description guaranteed for every current or future paper. It has not been visually reconciled item-by-item in this audit.
 
 | Tariff | Parts | Marks | Per paper | Where it sits |
 |---|---|---|---|---|
@@ -33,9 +28,9 @@ Everything else in this bank — exemplars, examiner reports, calibration — is
 | **12 marks — Evaluate** | **38** | 456 | **1** | **4(c)** |
 | **TOTAL** | **988** | **3040** | **26** | **38 × 80 ✅** |
 
-> **The skeleton never varies.** Twelve one-mark items, four two-mark items, four Explain, three Analyse, two Justify, one Evaluate — **on every paper, in the same question positions.** 1(f)=3 · 1(g)=6 · 2(c)(d)(e)=3 · 2(f)=9 · 3(d)=6 · 3(e)=9 · 4(b)=6 · 4(c)=12.
+> **This is a generated corpus summary, not a prescribed paper template.** Its tariff and question-position counts are not a future-paper guarantee and must not guide prediction. The official specification requires 80 marks and four compulsory questions of 20 marks each; it does not promise this internal item breakdown. Use the printed paper in front of you for its exact tariff and AO requirements.
 >
-> **The four governed tariffs carry 60 of the 80 marks (75%)**, and the 1- and 2-mark tiers carry the other 20. **Those 380 governed blocks are what this bank models; for the 608 parts of 1 and 2 marks the mark scheme itself is the perfect answer.**
+> The legacy archive count of 988 tariff items / 3040 marks across 38 papers is a script-derived corpus statistic. It has not been independently reconciled item-by-item in this audit and should not be used as a coverage or frequency claim.
 >
 > **Reproduce it:** `python3 build_layer_c_tariffs.py` prints the full distribution and the 80-mark check.
 
@@ -126,7 +121,7 @@ Pearson is explicit that a State answer should be **one sentence**. This is a 1-
 >
 > **Examiner Tip (verbatim):** *"Always round to the required number of decimal places otherwise full marks cannot be attained."*
 
-**Note:** the formulae sheet is printed at the front of every paper. Pearson notes *"some formulas are provided at the front of the paper"* — but **not all**. Break-even and percentage change must be recalled.
+**Formula provision:** the current specification Appendix 4 states that its listed formulae are provided in Paper 1 and Paper 2 examinations. Do not assume that every useful relationship or calculation is printed as a formula, but also do not teach learners to memorise formulas that Pearson provides. Apply the figures and interpret the result.
 
 ---
 
@@ -155,13 +150,9 @@ Pearson is explicit that a State answer should be **one sentence**. This is a 1-
 > *Candidates should then add some development to their answer to gain two or three marks.*
 > *Candidates should **not repeat the question at the start of their answer**. It wastes time."*
 
-### ⚠️ The over-writing rule — confirmed authoritatively
+### Concise development, without a sentence quota
 
-> **Examiner Tip (verbatim):** *"There is no need to overelaborate when answering questions. 'Explain' questions, for instance, **should only require three sentences to answer the question. Anything more is not required and wastes time.**"*
-
-**This confirms the finding from three marked scripts in the June 2022 series**, where candidates scoring **3/3** were told they had *"explained this benefit with more than two links of reasoning so has wasted some time when there are only 3 marks available."*
-
-**Three sentences = identify + two developments. Then stop.**
+The quoted examiner advice against over-elaboration is useful time-management guidance for its cited Explain questions, not a rule that answers must contain exactly three sentences. The specification asks for a fact with two further expansion points; these can expand one another or develop the same fact. Match the actual response to the MS and stop when the required reasoning is complete.
 
 ### A distinction the bank did not previously hold
 
@@ -184,18 +175,15 @@ This is why the June 2022 P2R response that named "job rotation" for a *method* 
 
 > *"candidates who provide an extended answer but do not apply this answer to the context are **not allowing themselves to move into the top of level 2**… **Unless responses for 'analyse' questions are in the context of the given business scenario candidates will find it difficult to access to higher marks.**"*
 
-### ⭐ Examiner Tip — the best single sentence on context in the entire bank
+### Examiner commentary on context (apply to its cited paper/question)
 
 > *"**Context must be woven throughout the entire response, appearing in all paragraphs, and should demonstrate variety rather than mere repetition.**"*
 
-Two requirements, both easy to fail:
+This is a Pearson examiner comment recorded for a particular series/question, not a universal paragraph-count or context-placement rule. For any response, apply the exact QP/MS descriptors: relevant application is needed where AO2 is assessed, and its depth/consistency matters to the level. Do not infer that every paragraph needs a distinct case noun, or that a fixed number of chains is required.
 
-| Requirement | Failure mode |
-|---|---|
-| **throughout** — in *all* paragraphs | naming the business once in the opening sentence |
-| **variety** — not the same anchor repeated | using the word "toys" in every paragraph |
+> *"**Listing many reasons, without the development, will not achieve the higher levels.**"*
 
-**And:** *"**Listing many reasons, without the development, will not achieve the higher levels.**"* — for a 6-marker, two well-developed, **linked** chains beat four undeveloped points.
+That comment supports developing relevant reasoning; it does not set a universal required number of points.
 
 ---
 
@@ -204,15 +192,9 @@ Two requirements, both easy to fail:
 > *"The 'Justify' questions are marked in the same way as the 'Analyse' questions, but candidates now have to include **'Evaluative' (Assessment Objective 4)** comments…*
 > *Some learners show clear knowledge of the two options but are unaware **there are no AO1 marks available** for these questions. Candidates who simply show knowledge of one or both options with no application, analysis or evaluation would gain **no marks**."*
 
-### ✅ The both-options question — settled definitively
+### Whether to address one option or both
 
-> *"**Candidates do not have to consider both options in their response. Candidates can achieve the full marks only considering the one option.**"*
-
-> *"There is **no requirement** for candidates to discuss both options. Often when they do this they are **not able to justify each option in depth** in the time allocated for the question."*
-
-> *"The **May 2024 Paper 1 and Paper 1R** Examiners' Reports include two full[-]mark candidate answers. One has achieved full marks by considering **both** options, and the other has achieved full marks by considering **just one** option. Candidates can take **either** route."*
-
-**Both routes score 9/9. Pick one and go deep.**
+Pearson reports from some series state that both options need not be discussed and a full-mark response can focus on one; the May 2024 P1/P1R reports also include full-mark responses taking both routes. This confirms both approaches can work in those papers, not that a fixed route is required for every question. Follow the exact QP/MS, make the required recommendation, and ensure the response earns the assessed AO4 through supported evaluation.
 
 ### ⭐ How to earn AO4 without covering both options
 
@@ -252,24 +234,13 @@ If your sentences are not joined by these words, you are likely **listing**, not
 > *Firstly, candidates provide a **generic answer with no application to the case study**.*
 > *Secondly, candidates do not provide a **thorough judgment relating back to any issues that may occur for the business in the case study**, or they **do not balance their conclusion**, therefore limiting their evaluation."*
 
-**Both are execution failures, not knowledge failures.** Pearson is explicitly saying the 12-marker is lost on context and judgement, not content.
+These are examples of weaknesses described for the cited paper; they do not establish that knowledge is irrelevant to every 12-mark question. Use that question’s AO allocation and level descriptors.
 
 ### ⭐⭐ The single most actionable 12-mark tip in the bank
 
 > **Examiner Tip (verbatim):** *"It is recommended that the points of evaluation (AO4) should be **as detailed as the AO3 points**. Too often, candidates write **far too much for AO3 and leave insufficient space for a sound judgement**."*
 
-**Read that as a word budget.** AO3 = 3 marks, AO4 = 3 marks. They are **equal**. If you have written four paragraphs of analysis and one line of conclusion, you have allocated your marks wrongly — even if everything you wrote was good.
-
-**The practical target:**
-
-| Component | Marks | Share of the answer |
-|---|---|---|
-| AO1 knowledge | 3 | ~25% |
-| AO2 application | 3 | throughout (context in every paragraph) |
-| AO3 analysis | 3 | ~35% |
-| **AO4 evaluation** | **3** | **~35–40%** |
-
-**Most candidates write AO3 and AO1, and treat AO4 as the closing sentence. That is where the 10/12 lives.**
+This is advice about balancing development and judgement in the cited report, not a word/paragraph budget. The mark scheme allocates marks by assessment objective and judges the response against its descriptors; it does not prescribe a word share or number of paragraphs. A supported judgement may be integrated or separately stated if it answers the question.
 
 ### Other rules (verbatim)
 
@@ -281,14 +252,13 @@ If your sentences are not joined by these words, you are likely **listing**, not
 
 ---
 
-# APPLICATION (AO2) — Pearson's own summary
+# APPLICATION (AO2) — apply the specification and item-specific mark scheme
 
-> *"**If the question contains a business name then the response always requires context.***
-> *Context is crucial to gain the top marks… Any question which refers to a specific business should give answers that are in the context of that business. This should be remembered when answering **the one mark 'state' questions**…*
-> *Candidates can choose to name the **products/services** the business offers, they could choose to name **competitors** in the same industry or they could **state the industry** the business operates in…*
-> *The high tariff questions ('analyse', 'justify' and 'evaluate') **also** require context."*
+The quoted commentary below is Pearson guidance from a particular source; its broad phrasing must not override the qualification specification’s command-word definitions. In the current specification, **State** asks for a contextual response and **Outline** requires two linked contextual points; **Explain** is expressly not contextual. Define, give, identify and calculate follow their respective command definitions. Extended questions should use business context when AO2 is assessed, at the depth described by that question’s MS.
 
-**Universal rule: if a business is named in the question, context is required — at every tariff, including 1 mark.**
+> *"If the question contains a business name then the response always requires context."*
+
+Use the current command word, AO allocation and matching MS as the authority. Do not apply a blanket “business name means context at every tariff” rule.
 
 ---
 
@@ -298,7 +268,7 @@ If your sentences are not joined by these words, you are likely **listing**, not
 > *Students **must always provide a balanced assessment. Failing to provide developed counterbalance means it is extremely unlikely the candidate can reach the top level** in the mark scheme. **The counterbalance should be as equally developed as the points of analysis.***
 > *It is advised that centres give guidance to candidates on **how to write a justification**… **Too few students are satisfying AO4 criteria in the longer questions**."*
 
-**Note "counterbalance should be as equally developed as the points of analysis"** — the same 50/50 principle restated.
+The quoted “balanced assessment” language is examiner guidance in its source context, not a prescribed 50/50 word or paragraph split. For each response, read the relevant QP and MS: evaluation is awarded for the supported judgement the task requires, not a fixed counterpoint quota.
 
 ---
 
@@ -471,7 +441,7 @@ Since 2019 these have been **linear**, set on the total of both papers out of **
 > 3. **The November series runs Papers 01/02 only** — no regional versions — so an R-entered candidate has no November fallback on the standard papers.
 >
 > ### ⚠️ THE ONE SENTENCE THAT MATTERS MOST
-> **The grade-9 boundary is around 133/160 on the standard route and 137/160 on the regional route** — and the two routes do not divide the same way. **June 2026, component by component: Paper 01 = 68, Paper 01R = 68, Paper 02 = 65, Paper 02R = 69.** So a standard candidate needs **68 + 65 = 133**, and a regional candidate needs **68 + 69 = 137** — the same 01-style paper on both routes, and **a Paper 02R worth 4 marks MORE than the Paper 02 it is a variant of.** **A "comfortable 8" performance — say 120/160 — is 13 marks short of a 9, and those 13 marks live almost entirely in AO4 evaluation.** That is why `10_Chain_Bank.md` spends its largest tier on 9- and 12-mark evaluation and why the 3-mark answers are capped at three sentences: **the marks that separate 8 from 9 are won in the last two tariffs, not in the first two.**
+> Grade boundaries are published by Pearson for each series and route; consult the official boundary document for the relevant sitting. Do not infer a student’s likely grade from a generic mark budget, nor attribute a boundary difference to one AO or tariff without evidence. The item-level resource audit is not a learner-readiness or grade prediction.
 
 ### Sources (Pearson publications, all `qualifications.pearson.com`)
 
@@ -489,23 +459,18 @@ Since 2019 these have been **linear**, set on the total of both papers out of **
 
 ---
 
-# Summary of what this page establishes
+# Safe takeaways from the current specification and bounded source checks
 
-| # | Rule | Status |
-|---|---|---|
-| 1 | State = AO2; **one sentence**; context mandatory; **naming the business is not context** | Official |
-| 2 | Four context routes: products/services · competitors · industry · type of business | Official |
-| 3 | **Only the answer line is marked** on calculations; workings are only consulted if the line is wrong | Official |
-| 4 | 2 decimal places is a hard requirement, and the answer **line** must show it | Official |
-| 5 | The formula in words earns nothing — don't write it | Official |
-| 6 | Outline = State + development; **one** context reference suffices | Official |
-| 7 | Explain needs **no** context (no AO2 marks); **three sentences**; more wastes time | Official |
-| 8 | Explain needs a **different technique** for advantage/disadvantage vs method/way | Official |
-| 9 | Analyse = AO2+AO3, **no AO1 marks** | Official |
-| 10 | Context must be **woven throughout, in all paragraphs, varied** | Official |
-| 11 | Justify: **both options not required**; both routes score full marks | Official |
-| 12 | **AO4 can be earned by drawbacks to your own chosen option** | Official |
-| 13 | Use linking words — *thus, therefore, because, this leads to* | Official |
-| 14 | 12-mark: **AO4 must be as detailed as AO3** | Official |
-| 15 | 12-mark: no bullets; don't repeat the question; allow the most time | Official |
-| 16 | Grade 9 ≈ **65–68/80** per paper | Official |
+This compilation formerly called a long list of derived statements “Official”. That label was too strong. The following are grounded in the current specification and/or the specific sources checked in this audit; each individual QP/MS still takes precedence:
+
+| Command/demand | Safe guidance |
+|---|---|
+| State | Give a response in the context of the information supplied. Mentioning only the business name from the prompt may not provide meaningful application. No universal sentence count. |
+| Outline | Two linked points about the concept/issue, placed in context. |
+| Explain | A fact with two further expansion points; the current specification says this does not require case context. No fixed sentence count. |
+| Calculate | Calculate from the given data; workings should be given. Some MSs award full marks for a correct answer without working; check the item’s scheme and requested precision. |
+| Analyse | Extended response exploring/developing a concept in context. The sampled level-based schemes assess application and analysis; follow the exact AO split/levels. |
+| Justify | Recommend one of the two options using the information. Reports show full-mark routes discussing one or both options; neither format is compulsory. |
+| Evaluate | Extended response using specification knowledge to reach a supported conclusion about the business situation. A distinct conclusion paragraph, word share, “it depends” phrase or bullet rule is not prescribed by the specification. |
+
+Pearson report comments about context, bulleting, answer length and balance are specific to their cited paper/questions unless independently confirmed. Never translate them into a universal quota.
