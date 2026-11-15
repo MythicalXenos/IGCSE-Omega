@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
-"""Check every governed model against the SHAPE its tariff requires.
+"""Audit mapped model presence and selected causal-link features.
 
-There are four governed tariffs and each has a shape the mark schemes and the
-examiner reports state, not a style preference:
+Only the 3-/6-mark entries use causal-link audit checks. The 9-/12-mark tiers
+are checked for mapped model presence, with no fixed answer architecture:
 
-    3-mark Explain   identify (1) -> MECHANISM (1) -> consequence (1)
-                     Four June 2026 P1R 0/3 answers all fail by naming a correct
-                     consequence and omitting the mechanism.
-    6-mark Analyse   one developed point with interconnected strands (AO2+AO3).
-    9-mark Justify   a choice, both sides, and a NAMED CONDITION (rule 91).
-                     Every 8/9 in the bank fails on the condition, not the prose.
-    12-mark Evaluate AO1/AO2/AO3/AO4 at 3 marks each - the evaluation is woven
-                     through, and a 10/12 is "limited judgements" (rule 83).
+    3-mark Explain   check for a causal mechanism step (an audit aid grounded in
+                     the examined exemplar and the sampled schemes).
+    6-mark Analyse   check for developed causal links (an audit aid, not a quota
+                     for paragraph count or number of ideas).
+    9-mark Justify   no fixed answer shape is imposed; confirm mapped models exist.
+                     A condition, comparison, or separate conclusion is not mandatory.
+    12-mark Evaluate no fixed word count, paragraph architecture, or conclusion
+                     format is imposed; confirm mapped models exist.
 
 This script reads the blockquote that IS the model (never the entry's own
-commentary about it) and checks that shape. Run from
+commentary about it). Run from
 `Business_Studies_Answer_Bank/`; prints one RESULT per tier.
 
   python3 verify_model_shape.py
@@ -72,15 +72,6 @@ CAUSAL = re.compile("|".join((
     r"builds", r"building", r"otherwise", r"rather than", r"instead",
 )), re.I)
 
-# The 9-mark gate, rule 91 — the named condition.
-CONDITION = re.compile(
-    r"\b(condition|provided|as long as|only if|unless|assuming|so long as|"
-    r"depends on|depend on|if it|if the|if they|if this)\b", re.I)
-
-# The 12-mark gate, rules 82/83 — a woven judgement.
-JUDGEMENT = re.compile(
-    r"\b(however|depends|although|on the other hand|whereas|judgement|"
-    r"overall|unless|provided|balance|but if|limited|extent|likely)\b", re.I)
 
 
 def models(text: str, tier: int):
@@ -115,12 +106,10 @@ def main() -> int:
         (6, "layer_c_6mark_coverage.py",
          lambda m: len(CAUSAL.findall(m)) >= 2,
          "at least two chain links (one point, developed strands)"),
-        (9, "layer_c_9mark_coverage.py",
-         lambda m: bool(CONDITION.search(m)),
-         "a NAMED CONDITION in the judgement (rule 91)"),
-        (12, "layer_c_12mark_coverage.py",
-         lambda m: len(JUDGEMENT.findall(m)) >= 3 and len(m.split()) >= 120,
-         "a woven judgement - >=3 evaluation markers and >=120 words (rules 82-83)"),
+        (9, "layer_c_9mark_coverage.py", None,
+         "a complete model (no mandated condition, option count, or conclusion format)"),
+        (12, "layer_c_12mark_coverage.py", None,
+         "a complete model (no mandated word count or paragraph/conclusion format)"),
     )
 
     problems = []
@@ -128,7 +117,7 @@ def main() -> int:
         cov = a.load_map(mapfile)
         mapped = sorted(set(cov.values()))
         print("=" * 74)
-        print(f"{tier}-MARK MODELS - must carry {what}")
+        print(f"{tier}-MARK MODELS - {what}")
         print("=" * 74)
         print(f"  blocks: {len(cov)}   distinct entries: {len(mapped)}")
 
@@ -140,7 +129,7 @@ def main() -> int:
                 continue
             total += len(ms)
             for m in ms:
-                if not test(m):
+                if test is not None and not test(m):
                     thin.append((e, " ".join(m.split())[:170]))
                     break
         print(f"  models parsed: {total}")
@@ -151,11 +140,14 @@ def main() -> int:
             print(f"  !! entry {e}: {txt}")
             problems.append(f"{tier}-mark entry {e}")
         if mapped and not thin:
-            print(f"  all {len(mapped)} entries pass.")
+            if test is None:
+                print(f"  all {len(mapped)} entries have at least one complete model; no answer-shape quota applied.")
+            else:
+                print(f"  all {len(mapped)} entries pass.")
         print()
 
     print("=" * 74)
-    print("RESULT:", "OK - every governed model has the shape its tariff requires."
+    print("RESULT:", "OK - all mapped models are present; only the 3-/6-mark causal-link checks impose a shape test."
           if not problems else f"FAIL - {len(problems)} entry/entries to read.")
     return 0 if not problems else 1
 

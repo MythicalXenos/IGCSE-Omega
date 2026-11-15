@@ -956,16 +956,11 @@ Summer 2019 P1 Q1(f), a 3-mark Explain on **one way to increase gross profit mar
 
 ---
 
-## 72. ⭐ THE 7/9 JUSTIFY — the gap is always the conclusion
+## 72. ⭐ ONE JUNE 2025 P2 7/9 — an examiner-identified judgement weakness
 
-**June 2025 P2**, a published 7-mark Justify, on the examiner's own diagnosis:
+The June 2025 P2 Starbucks Justify response earned 7/9. The report praised knowledge, context, impact analysis and an attempted counterbalance, but said it **“fails to provide a sound judgment”** for the higher AO4 description.
 
-> ✅ *"good knowledge"* · *"well contextualised"* · *"gives the impact on employee retention"* · *"attempts counterbalance"*
-> ❌ *"**fails to provide a sound judgment to provide a clear justification based on a thorough evaluation** of the issues made and so remains at the bottom of level 3"*
-
-**This is the same verdict recorded in `03_Calibration_Below_Full_Marks.md` for the May 2023 IKEA 10/12** (*"limited judgements"*). **Across every tariff and every year, the marks that candidates leave behind are AO4 marks.**
-
-> **A 7/9 answer is an answer without a verdict.** The last paragraph often lists a drawback and then simply stops. **One sentence fixes it:** name your choice, give the decisive reason, and concede the condition under which the other option would win.
+This is evidence about that response, not proof that every 7/9 is missing a conclusion or that the final paragraph alone determines AO4. The specification's relevant standard is a clear, justified judgement based on evaluation. A judgement can be stated at the end or made clear through the response; its support and relevance matter more than a fixed sentence pattern.
 
 ---
 
@@ -1024,22 +1019,16 @@ Summer 2019 P1 Q1(f), a 3-mark Explain on **one way to increase gross profit mar
 
 ---
 
-## 75. ⭐⭐⭐ THE AO4 LADDER — four verdicts from three sessions, one rule
+## 75. ⭐⭐⭐ AO4 comments from four selected verdicts — possible strengths and weaknesses
 
 | Mark | Session & paper | The examiner's exact words |
 |---|---|---|
-| **7/9** | June 2025 P2 (Starbucks) | *"**fails to provide a sound judgment** to provide a clear justification based on a thorough evaluation"* |
-| **8/9** | June 2025 P1R (CCT) | *"To achieve higher AO4 marks, it could incorporate something more complex, like the **'it depends' rule**"* |
-| **8/9** | June 2026 P1R (Spud Bros) | *"There is a judgement made that **repeats the financial implication that was argued previously in the answer**"* |
-| **9/9** | June 2025 P2R (Rabanne) | *"a **reasonable judgement** about their final choice"* + *"**the success of this depends on** how much employees get to voice their own concerns"* |
+| **7/9** | June 2025 P2 (Starbucks) | *“fails to provide a sound judgment”* for a clear justification based on thorough evaluation |
+| **8/9** | June 2025 P1R (CCT) | *“could incorporate something more complex, like the ‘it depends’ rule”* |
+| **8/9** | June 2026 P1R (Spud Bros) | The judgement *“repeats the financial implication that was argued previously in the answer”* |
+| **9/9** | June 2025 P2R (Rabanne) | *“a reasonable judgement about their final choice”* and *“the success of this depends on how much employees get to voice their own concerns”* |
 
-> ### 🎯 **A conclusion earns marks only if it contains something that is NOT already on the page.**
-> Three valid moves, all evidenced above:
-> 1. **Weigh it** — *"Although it causes a huge cost… the increase in sales may over the cost in long term."* (the 11/12)
-> 2. **Condition it** — *"The success of this depends on…"* (the 9/9)
-> 3. **Decide it** — name the choice and the one decisive reason.
->
-> **The failure mode is not "no conclusion". It is a conclusion that summarises your own three paragraphs back at the examiner.** Two of the four verdicts above are that exact fault.
+These examples show that an unsupported or repetitive judgement may be weaker and that a relevant condition can be effective. They do **not** establish that a judgement must add a new fact or use an “it depends” formula. A conclusion may synthesize earlier reasoning if it reaches and supports a clear decision.
 
 ---
 
@@ -1228,36 +1217,28 @@ Verbatim, from the closing *Paper Summary* page of three of the four 2023 report
 
 ---
 
-## 88. ⭐⭐⭐ THE 9/9 JUSTIFY — SIX REQUIRED FEATURES, from four full-mark verdicts
+## 88. ⭐⭐⭐ SIX FEATURES PRAISED IN FOUR MAY 2023 9/9 JUSTIFY VERDICTS
 
-May 2023 produced **four verified 9/9 Justify answers** (P1 Q2(f), P1 Q3(e), P1R Q2(f), P1R Q3(e)). The examiner's own checklist, assembled from the verdicts:
+May 2023 produced four verified 9/9 Justify answers (P1 Q2(f), P1 Q3(e), P1R Q2(f), P1R Q3(e)). The examiner comments praised these features across the scripts:
 
-| # | Requirement | The examiner's words |
-|---|---|---|
-| 1 | **A clear choice** | *"make a clear choice out of the two options"* |
-| 2 | **Detailed understanding of that choice** | *"shown detailed understanding of the choice they have made"* |
-| 3 | **Context throughout** | *"included context throughout their response"* |
-| 4 | **Logical chains of reasoning** (AO3) | *"with logical chains of reasoning"* |
-| 5 | **Balance** | *"balance out their response as to why the business should **or should not** choose that option"* |
-| 6 | **A clear overall judgement** (AO4) | *"made a good judgement about their choice with a thorough evaluation"* |
+| Feature praised | Examiner wording |
+|---|---|
+| Clear choice | *“make a clear choice out of the two options”* |
+| Understanding of the choice | *“shown detailed understanding of the choice they have made”* |
+| Context | *“included context throughout their response”* |
+| Logical chains | *“with logical chains of reasoning”* |
+| Evaluation/balance | *“balance out their response as to why the business should or should not choose that option”* |
+| Overall judgement | *“made a good judgement about their choice with a thorough evaluation”* |
 
-**Absent from all four verdicts:** length · number of points · definitions · **discussing both options.** Two of the four 9/9s discussed one option; two discussed both.
+These are observations from four high-scoring examples, not a mandatory six-part checklist. The exact level descriptor and mark scheme remain authoritative. The four examples vary: two discuss one option and two compare both; neither option count nor a fixed number of points is prescribed by this evidence.
 
 ---
 
-## 89. ⭐⭐ LEVEL 2 IS THE DEFAULT ON A JUSTIFY QUESTION
+## 89. ⭐⭐ COHORT REPORTS ON JUSTIFY — context, not an individual default
 
-> *"**Nearly two thirds of the cohort gained a Level 2 mark**"* (P2 Q3(e)) · *"the **majority**… Level 2"* (P2R Q2(f)) · *"The **large majority**… Level 2"* (P2R Q3(e)) · *"**Around half** of candidates accessed level 2"* (P1R Q2(f))
+Several checked reports say many candidates were awarded Level 2 (for example, P2 Q3(e), P2R Q2(f) and P2R Q3(e)). Other cohorts and questions differ. These cohort summaries do not mean Level 2 is a default mark for an individual answer.
 
-**The examiners name the two causes of a Level 2, and they are the same in every report:**
-> *"Candidates accessed level 2 by **expanding on their answers but often missed balance and a conclusion** of their thoughts."* (P1 Q2(f))
-> *"…but often missed balance and a conclusion to their thoughts."* (P1R Q2(f))
-> *"**the response is not developed and there is limited evaluative comments**"* (P2 Q3(e))
-
-⭐ **And the remedy, repeated word-for-word in two reports:**
-> *"It may help candidates to gain the higher level if they gave **evaluative comments as to the chosen option and why it would be more suitable**."*
-
-**The 7→9 gap on a Justify is exactly two things: chains you have actually built, and a conclusion that evaluates.**
+The reports identify limited development or evaluation in some Level 2 work. A separate concluding paragraph is not a universal requirement: what matters is whether the response demonstrates the evaluation and justified judgement in the actual level descriptors. Use the examiner's exact item-specific feedback where available.
 
 ---
 
@@ -1276,78 +1257,32 @@ May 2023 produced **four verified 9/9 Justify answers** (P1 Q2(f), P1 Q3(e), P1R
 
 ---
 
-## 91. ⭐⭐⭐⭐⭐ THE NAMED CONDITION — the single rule that explains every mark band
+## 91. ⭐⭐⭐ A SPECIFIC CONDITION IS ONE EFFECTIVE WAY TO EVALUATE—NOT A UNIVERSAL RULE
 
-Five full-mark (9/9) Justify scripts from May 2023, read verbatim, plus every below-full-mark verdict in the bank. Set the evaluation sentences side by side and one mechanism appears.
+Several of the May 2023 full-mark Justify scripts name a case-specific condition, and some below-full-mark reports praise or recommend a more specific evaluation. That makes a relevant condition a useful technique, not a compulsory formula. The 9-mark Level 3 descriptor requires a clear justification based on thorough evaluation; it does not prescribe “it depends,” a named condition, a clause that cannot be reused, or a conclusion position.
 
-| Mark | The evaluation sentence | Condition named? |
-|---|---|---|
-| **12/12** | *"could be limited because it depends on factors such as **nature of employee**"* | ✅ named + outside knowledge |
-| **9/9** | *"it depends on **the quality of training that the chocolate makers will be provided with**"* | ✅ |
-| **9/9** | *"this entirely depends on **the success of the local event**… if **the number of attendants is low**"* | ✅ |
-| **9/9** | *"this depends on **the size of the bonus and how the system to get a bonus works**"* | ✅ |
-| **9/9** | *"(considering that **the business was opened in 1989 and may want to keep their traditional production methods**)"* | ✅ |
-| **9/9** | *"the internet is also generalised… they **won't find trends about flowers**"* | ✅ |
-| **8/9** | 2026 P1R Q3(e) — *"it depends on **how much they have spent in these expenditure sample**"* | ⚠️ words present, condition vague |
-| **8/9** | 2025 P1R Q2(f) CCT — *"**it much depends on the objectives set by the owner for CCT**"* | ⚠️ **words present, condition unnamed** |
-| **8/9** | 2026 P1R Q2(f) — judgement that *"**repeats the financial implication argued previously**"* | ❌ recycled |
-| **8/9** | 2023 P2R Q2(f) | ❌ no evaluative dimension |
-| **7/9** | *no judgement at all* | ❌ |
-
-> ## 🎯 **THE RULE: an evaluation earns marks only when the condition is NAMED and SPECIFIC to this business and this option.**
->
-> ### THE TEST — could your condition clause be pasted onto a different question?
-> - ❌ *"it depends on how much they spent"* → fits anything. **Generic. Scored 8.**
-> - ✅ *"it depends on the size of the bonus and how the system works"* → only a bonus scheme. **Specific. Scored 9.**
->
-> ### THREE VALID MOVES — you do not need the phrase "it depends"
-> | Move | Example (all scored 9/9 or 12/12) |
-> |---|---|
-> | **Named condition** | *"it depends on the quality of training the chocolate makers will be provided with"* |
-> | **Specific drawback of the chosen option** | *"the internet is generalised… they won't find trends about flowers"* |
-> | **Concede against your own choice** | *"In the long term, job rotation may be better as it gives employees a sense of value"* |
->
-> ⭐ **THE CONCESSION IS THE STRONGEST MOVE.** The M&M 9/9 names the case against its own choice and still gets full marks. **A judgement that concedes something is stronger than one that does not** — and it is the direct opposite of the restate-your-own-argument fault that caps answers at 8.
+A judgement can also weigh a cost against a benefit, compare options, identify a case-specific risk or explain why one choice is more suitable. Do not infer from a small set of scripts that the wording alone caused the mark: the examiner judges the whole response against the band descriptors.
 
 ---
 
-## 92. 🏆 THE 9/9 JUSTIFY CONCLUSION — three sentences, three jobs
+## 92. 🏆 ONE THREE-SENTENCE 9/9 CONCLUSION — an example, not a required shape
 
-From the M&M 9/9:
-> *"**Personally, I would choose to use Bonuses as money can be a key motivator to people, it also helps increase your sales.** **A disadvantage of job rotation is that people may not be qualified for every job in a company/business.** **In the long term, job rotation may be better as it gives employees a sense of value.**"*
+The M&M 9/9 includes this conclusion:
+> *“Personally, I would choose to use Bonuses as money can be a key motivator to people, it also helps increase your sales. A disadvantage of job rotation is that people may not be qualified for every job in a company/business. In the long term, job rotation may be better as it gives employees a sense of value.”*
 
-1. **Decides** — names the choice and the decisive reason.
-2. **Names the other option's drawback** — attacks the alternative on a specific point.
-3. **Concedes the long-run case against its own choice.**
-
-**Copy this shape.** It is short, it uses AO2 vocabulary from the case (*cars/vehicles*, *bonuses*, *employees*), and it is the only conclusion in the bank that reaches 9/9 in the same three sentences.
-
-⭐ **Compare the failing conclusions:** *"the social objectives could bring more benefits…"* (6/12) · *"I believe that Spud Bros should use crowdfunding because they won't have to pay anyone in return"* (8/9 — restates) · *"if M&M takes their customer opinions… they will be able to increase in sales"* (10/12 — summarises).
+This example makes a choice, gives a reason and then weighs a drawback and a longer-term consideration. It is one successful conclusion, not the only 9/9 route, not a three-sentence requirement and not proof that every candidate must discuss both options. A concise, supported judgement that fits the question can take another form.
 
 ---
 
-## 93. ⭐ THE P2R 9/9 JUSTIFY USES AO2 AS DEPARTMENTAL IMPACT
+## 93. ⭐ ONE P2R 9/9 EXAMPLE USES FUNCTIONAL AREAS FOR APPLICATION
 
-The M&M answer does something unusual and effective: it traces one effect through **four functional areas** —
-> *"This would affect the **finance department** as they would have to track how much each employee is getting and deserves as a bonus. It would also affect the **marketing department** as they will have a better brand image. It could also affect the **HR department** as they can use the bonuses system to attract new employees…"*
-> and later: *"This would affect the **production department** as not as many cars will be manufactured. This would also affect the **HR department** as they may have to start looking to recruit new employees…"*
-
-> ### 🔬 A REUSABLE AO2 TECHNIQUE
-> **Trace your chain through the business's functions** — finance, marketing, HR, production, operations. Each is a **different piece of applied knowledge**, so it demonstrates breadth of AO2 in a few words, and it keeps the answer anchored in the business rather than the theory.
-> **This is not the only route, but it is the cheapest way to widen application without padding.**
+The M&M response traces effects through finance, marketing, HR and production departments. This is one way to apply a decision to a business. It can be useful where the case and option make those functions relevant, but it is neither necessary nor sufficient by itself for AO2. Use the context that best supports the reasoning; do not add departments just to widen application.
 
 ---
 
-## 94. ⭐⭐ NAMED PEOPLE AND NAMED MATERIALS — the ceiling of AO2
+## 94. ⭐⭐ CASE-SPECIFIC DETAILS CAN STRENGTHEN APPLICATION—NO FIXED CEILING
 
-From the May 2023 P1 Q4(b) 6/6 Analyse on the importance of place:
-> *"**If they were to locate far away from suppliers, Flacent Corne and the other directors** would have to find a way to **increase cash inflows to make up for the increased transportation costs**."*
-
-**Named people from the case study. Named raw materials. The founding year. The country.** *"cocoa powder or jelly"* · *"since 1989"* · *"Belgium, which is the most famous place for chocolate businesses."*
-
-> ### 🎯 THIS IS THE HIGHEST FORM OF CONTEXT IN THE BANK
-> Every other context rule in `06_` escalates to this one. **You cannot write that sentence about any other business, and you cannot write it from the question paper alone — it requires having read the scenario closely enough to know the directors' names.**
-> **Practical use:** when you read a case study, note **who** the people are and **what** the specific inputs/products are called. Those are the words that make an answer ungeneralisable.
+A May 2023 P1 6/6 Analyse response refers to named directors and suppliers while explaining transport costs. Those details help make its reasoning specific to that case. This example does not establish that proper nouns or named materials are the “ceiling” of AO2: detailed application may also come from relevant products, operations, figures, customers, locations or relationships. Use whichever case information genuinely develops the point.
 
 ---
 
@@ -1987,12 +1922,12 @@ The archive holds only **selected pages** of Pearson's Paper 2/2R exemplar bookl
 |---|---|---|---|---|
 | **Analyse (6)** | ✅ held | ✅ held | ✅ held | ✅ held |
 | **Justify (9)** | ✅ held | ✅ held | ❌ **still none** | ✅ held *(2)* |
-| **Evaluate (12)** | ✅ held *(3)* | ✅ **held (1)** — Jun 2022 P1R *Can Culleretes*; next best 11/12 (Jun 2026 P1R) | ❌ none published | ❌ none published |
+| **Evaluate (12)** | ✅ held *(3)* | ✅ held *(2)* — Jun 2022 *Can Culleretes* and Jun 2024 *Café Pinch* | no 12/12 located in checked reports | no 12/12 located in checked reports |
 
-**So there are exactly three open cells, and two of them may never close:**
+**The checked register currently has three open full-mark cells:**
 1. **Paper 02 Justify — no verified 9/9, on that paper.** **The best held on Paper 02 is 7/9 — three times, and all three are Q2(f):** **June 2019 P2 Q2(f)** (Tata, cost plus vs promotional pricing) · **May 2023 P2 Q2(f)** (IKEA, above-the-line vs below-the-line promotion) · **June 2025 P2 Q2(f)** (Starbucks, financial vs non-financial methods — the script is at `02_Verified_Exemplars.md:643`). **The examiner's complaint is the same on the last of them as on the first:** *"it fails to provide a sound judgment… and so remains at the bottom of level 3."* — the Justify structure is identical on all four papers, so the 9/9 models in `10_Chain_Bank.md` already cover the *technique*; what is missing is a **Paper 02** example of it. **Paper 02R is NOT a gap: it is held twice** (May 2023 M&M · June 2025 Rabanne), which the table directly above already states. *(This bullet previously read "no verified 9/9 **in any series**", which contradicted the row above it, and cited the May 2023 script as Q3(e) — that question scored 5/9; the 7/9 was Q2(f).)*
 2. ~~**Paper 1R Evaluate — the best held is 11/12**~~ **CLOSED 12 NOV 2026.** A **12/12 on Paper 1R** has been held since the transcripts folder was created — **June 2022 P1R, *Can Culleretes*, venture capital** — and was listed only in `../audits/corpus/transcripts/README.md`, where no check reads. Registered as row 3. **The 11/12 is still the best held from June 2026** (Spud Bros — `External_Exemplars/2026-06_P1R_SpudBros.md`, banked at `02_Verified_Exemplars.md:712`), and that is a different claim from "the best held on Paper 1R".
-3. **Paper 2 / 2R Evaluate — no full-mark example is published**, which Pearson's own road map confirms. **This one is permanent**, and it is recorded as a limitation rather than a target in `08_Completion_Map.md`.
+3. **Paper 2 / 2R Evaluate — no 12/12 script was located in the 2019–2026 reports and exemplar sources checked for this bank.** This is a bounded evidence gap, not a permanent claim about all publications. The constructed models remain clearly labelled and unscored in `08_Completion_Map.md`.
 
 ## Progress
 

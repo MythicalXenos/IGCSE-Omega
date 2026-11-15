@@ -47,7 +47,7 @@ These are optional prompts for reviewing practice work, not a validated ordering
 | **Explain** *(why / one reason)* | **AO1** — and *"no marks are awarded for a definition"* (rule 119) | 3 |
 | **Explain** *(how / one way / method)* | **AO1**, and a DIFFERENT technique from why (rule 62) | 3 |
 | **Analyse** | **AO2 + AO3** — no AO1 marks at all (rule 95) | 6 |
-| **Justify** | **AO2 + AO3 + AO4** — a choice, and a condition | 9 |
+| **Justify** | **AO2 + AO3 + AO4** — a choice supported by reasoning and evaluation | 9 |
 | **Evaluate** | **3 / 3 / 3 / 3** — knowledge, application, analysis, judgement (rule 42) | 12 |
 
 **⚠️ The one that surprises candidates: on a 3-mark Explain, a definition earns nothing** — Pearson prints *"NB No marks are awarded for a definition"* in the scheme box itself, confirmed on six series *(rule 119)*. **And on a 6-mark Analyse there are no AO1 marks either (rule 95)** — so an answer made of definitions and description can be entirely accurate and score zero.
@@ -126,33 +126,29 @@ These are optional prompts for reviewing practice work, not a validated ordering
 
 ### **9 marks — JUSTIFY**
 
-**What the examiner pays, in order: a choice, both sides, and a NAMED CONDITION.** Six required features, assembled from four verified 9/9 verdicts, are listed in **rule 88**; the single rule that explains every mark band is **rule 91 — *the named condition***.
+The checked 9-mark Justify schemes allocate AO2, AO3 and AO4 (3 marks each); use the exact question’s scheme and level descriptors. Level 3 calls for detailed contextual application and connected reasoning, plus a clear, justified decision based on thorough evaluation. A relevant condition can make a judgement precise, but it is one useful way to evaluate—not a required phrase or a universal pass/fail test.
 
-**The things candidates believe that are not true:**
-- **You do NOT have to discuss both options.** *"Candidates can achieve the full marks only considering the one option"* *(rules 49 · 71 — four confirmations)*. ⚠️ **Discussing the second option BADLY costs you:** *"the counterbalance should be as equally developed as the points of analysis"* *(rule 105)* — a one-sided answer done well beats a two-sided answer done shallowly. The 5/9 one-sided script makes the trade visible *(rule 114)*.
-- **"It depends" is not enough.** An **8/9** used the phrase and still lost a mark *(rule 80)* — **what is missing is the CONDITION: what it depends ON.**
-- **Level 2 is the default** *(rule 89)* — the tier is designed so a competent description lands mid-band.
+**The things the checked examiner examples support:**
+- **Either one-option or two-option reasoning can work.** The June 2022 P2R guidance expressly says candidates need not discuss both; other reports and examples show that weighing both is also acceptable. Follow the task and develop the reasoning rather than forcing an option count.
+- A **clear choice** and a **supported judgement** matter to Justify. A condition, comparison, trade-off or other case-linked evaluative reasoning may help, depending on the question. No one conclusion format guarantees a mark.
+- A literal *“it depends”* is not sufficient by itself, but not because the phrase is forbidden: the examiner's assessment is of the evaluation and justification it conveys.
+- Some checked reports say many candidates reached Level 2; that is cohort information, not a default score for an individual answer.
 
 **60-second check**
-- [ ] **Is there a clear choice, stated?** *(rule 88, requirement 1)*
-- [ ] **For justify/evaluate, is my recommendation or conclusion supported by the relevant case and reasoning?** There is no prescribed sentence count.
-- [ ] **⭐ Is there a NAMED CONDITION?** — *"could be limited because it depends on factors such as **natural**…"* is the 12/12's shape; **the condition is the band** *(rule 91)*.
-- [ ] **AO4 ladder:** the four verdicts across three sessions reduce to one rule *(rule 75)*.
-- [ ] **Named people and named materials are the CEILING of AO2** *(rule 94)* — *Gianni Polvani's 14 employees*, not *"the staff"*.
-- [ ] **The 7/9's gap is ALWAYS the conclusion** *(rule 72)*, and **two routes to zero** exist on this tier *(rule 87)*.
+- [ ] Is my choice clear and responsive to the actual stem?
+- [ ] Have I used relevant case information and developed logical consequences?
+- [ ] Does my judgement follow from the reasoning and evaluate the relevant trade-off? A specific condition may help, but is not mandatory.
+- [ ] Have I avoided asserting an inferred outcome as a case fact or as certain when it is only possible?
 
 ### **12 marks — EVALUATE**
 
-**What the examiner pays, in order: 3 / 3 / 3 / 3** *(rule 42)* — knowledge, application, analysis, **judgement** — and **the judgement is woven through the answer, not bolted on at the end** *(rules 82 · 83)*.
+For the 38 Paper 4(c) questions in the checked corpus, the matched schemes allocate AO1/AO2/AO3/AO4 at 3 marks each. Verify the exact question’s allocation. The Level 3 descriptor asks for accurate knowledge, detailed contextual application, detailed connected reasoning, and a clear, justified judgement based on thorough evaluation. These are whole-response qualities, not one paragraph per AO.
 
 **60-second check**
-- [ ] **Bullet points or numbered items?** — *"this will not allow them to gain the higher levels"* — **confirmed three times** *(rule 84)*. **Prose only.**
-- [ ] **Is the counterbalance developed as fully as the analysis?** *(rule 105)*
-- [ ] **Two routes to AO4, stated outright by the examiner** *(rule 79)* — use both.
-- [ ] **10/12 means "limited judgements" and nothing else** *(rule 83)*; **the 4/12 diagnosis names four missing points** *(rule 85)*.
-- [ ] **Context woven, not repeated** *(rule 117)* — and **do not restate the stem** as your opening line.
-
----
+- [ ] Have I answered the exact evaluative task and used accurate, relevant business knowledge?
+- [ ] Are case facts distinct from my reasoned possibilities? Do my explanations connect the context to plausible business consequences?
+- [ ] Have I evaluated the important trade-offs and supported a clear judgement?
+- [ ] Is the response clear enough to follow? There is no universal paragraph count, word target, opening definition, conclusion format or formula such as “it depends”. Examiner comments about bulleting or structure apply to the question/report cited; do not infer an automatic mark ceiling unless the exact official guidance states one.
 
 ## PASS 5 — THE LAST THIRTY SECONDS
 
@@ -162,7 +158,7 @@ These are optional prompts for reviewing practice work, not a validated ordering
 2. **Significant figures** if the question asked for them *(rule 107)*.
 3. **Units** — SEK, £, %, units of output.
 4. **Nothing rounded mid-way** *(rule 113)*.
-5. **The last sentence of a 9- or 12-marker names a condition** *(rule 91)*.
+5. **The judgement is supported by the reasoning and relevant case evidence.** A specific condition can be useful, but no required sentence position or formula applies.
 
 ---
 
@@ -176,8 +172,8 @@ These are optional prompts for reviewing practice work, not a validated ordering
 | **2** | **The 3-mark mechanism gap** — four 0/3s, one fault *(rule 126)*; a second reason on a `one` question *(Pass 1)* | **152 parts** |
 | **3** | **Calculations: answer line, precision, the discount error** *(rules 59 · 101 · 113)* | **152 two-mark parts** |
 | **4** | **Analyse as a list** instead of one developed chain *(rules 96 · 97 · 110)* | **114 parts** |
-| **5** | **Justify without a named condition** — the whole band hangs on it *(rule 91)* | **76 parts** |
-| **6** | **Evaluate without woven judgement** — and bullets disqualify the top levels *(rules 82 · 84)* | **38 parts — one per paper, 12 of that paper's 80 marks** |
+| **5** | **Justify without developed evaluative reasoning** — a choice alone is not a justified answer *(rules 75 · 88)* | **76 parts** |
+| **6** | **Evaluate without a clear, supported judgement** — a report-specific comment cautions against bulleting *(rules 82 · 84)* | **38 parts — one per paper, 12 of that paper's 80 marks** |
 
 ⚠️ **Note the arithmetic of the paper:** every one of the 38 papers carries exactly **one** 12-mark question — `4(c)` — and on its own paper it is worth **12 of the 80 marks**. **One weak 12-marker can cost more than ten state questions.**
 

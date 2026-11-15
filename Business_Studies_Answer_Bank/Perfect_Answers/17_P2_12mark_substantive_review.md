@@ -72,7 +72,7 @@ Missing item-specific ER or candidate scripts are explicitly recorded below; the
 
 **Answer spine — constructed, unscored:** connect variety and different price ranges to one-stop family shopping; connect quick response to fashion demand and ready-to-sell supplier stock to timely availability; connect low manufacturing cost to reasonable prices. Balance this against different tastes within families and customers who prefer durable clothing over fashion changes. Judge how far the claimed advantage depends on customer segment and whether the cost/speed offer is maintained.
 
-**Marking rationale:** the question asks how Yellow *may have gained* advantage; the four prompt bullets are not enough by themselves. Each needs an outcome for Yellow and a limit. The ER commentary says many candidates used the bullets but did not develop them or justify their answer. Source: `Perfect_Answers/External_Exemplars/2019-06_P2R_Yellow.md`, Q4(c). No candidate score or script is claimed from that commentary.
+**Marking rationale:** the question asks how Yellow *may have gained* advantage. The QP's four features are useful case evidence, not a requirement to write one separate paragraph for each or attach a limitation to every feature. Develop relevant links from one or more features to competitive advantage, then evaluate the overall claim using a relevant counterpoint or other supported judgement. The ER says many candidates used the prompt bullets but did not develop or justify their answers; it does not require an individual limitation for every feature. Source: `Perfect_Answers/External_Exemplars/2019-06_P2R_Yellow.md`, Q4(c). No candidate score or script is claimed from that commentary.
 
 #### May–June 2022 P2 — LEGO
 

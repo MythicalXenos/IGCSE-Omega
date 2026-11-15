@@ -67,7 +67,7 @@ So complete means **four things, all achievable**:
 | Item | Detail |
 |---|---|
 | **A 10th verified 6/6 Analyse** | June 2025 P1 Q1(g) — *Four Fitness*, wide span of control. **"1 point with developed strands"** — one idea, six links, ~140 words. |
-| **A 7th verified 9/9 Justify** | June 2025 P2R Q2(f) — *Rabanne*, weekly meetings vs email. The named condition in full. |
+| **A 7th verified 9/9 Justify** | June 2025 P2R Q2(f) — *Rabanne*, weekly meetings vs email. The script gives a clear choice, comparison and employee-voice consideration. |
 | **The State minimum, quantified** | *"**Just one reference to the context of the business is enough for a 'state' question.**"* |
 | **The 3-mark anatomy, proved** | 1 point + **2** developed steps = 3 · 1 point + **1** step = 2. Same question, same cohort. |
 | **Premature rounding** | New calculation trap — *"rounded their figures up or down prematurely."* |
@@ -122,10 +122,10 @@ Currently held (verbatim, with award):
 | **State / Define** | 1 | 1/1 vs 0/1 pairs |
 | **Outline** | 2 | 2/2 |
 
-### ⚠️ The one structural gap that cannot be closed by more searching
-> **No verified 12/12 exists for Paper 2 or Paper 2R.** The bank holds two 12/12s, both on Paper 1. Pearson's own support page states the 12-mark exemplars are in the **June 2022 and June 2024 Paper 1** reports — precisely the two papers already harvested. **Best verified for Paper 2 is 10/12 (IKEA, M&M).**
+### ⚠️ Current full-mark evidence gaps in the checked register
+> **Among the 2019–2026 examiner reports and exemplar sources checked for this bank, the verified register contains no 12/12 candidate script for P2 or P2R.** It currently holds five 12/12 scripts across P1 and P1R. Pearson names June 2022 and June 2024 Paper 1 reports as 12-mark exemplar sources; the checked reports also include June 2022 P1R and June 2024 P1R. The best located P2 and P2R scripts are 10/12 (IKEA and M&M, May 2023). This is a bounded source finding, not a permanent claim about all or future publications.
 >
-> **Consequence:** every Paper 2 12-mark model must remain `[CONSTRUCTED GRADE 9 TARGET]` **unless** the June 2026 P2/P2R reports prove otherwise. **That is the whole reason Layer A still matters.**
+> **Consequence:** keep P2/P2R 12-mark models labelled `[CONSTRUCTED GRADE 9 TARGET]` and unscored unless and until a source-verified candidate script is added to the register.
 
 ---
 
@@ -301,10 +301,10 @@ REMAINING                  :   0 blocks
 
 **Batch 8 closed in three parts:** **8a** (228–233) the universal scaffold, quality, TQM, location and research · **8b** (234–242) marketing, promotion, changing markets, competitive advantage, success measures, objectives, PR and market orientation · **8c** (243–252) the ten topics that appear **once** in the whole qualification — demographic segmentation · legal structure · organisation structure · franchise · venture capital · financial documents · cash flow forecasting · interest rates · motivation · communication.
 
-**Entry 228 is the tier's scaffold and the most reusable page in the bank:** five command forms, one four-way AO split (3 · 3 · 3 · 3), and the **four official AO4 routes** — *(1) the drawback of the same thing (2) a more important factor (3) the named condition (4) argue against the premise.*
+**Entry 228 summarises guidance for the checked Evaluate items:** consult the actual question and descriptors. The examples show varied possible evaluations, not an official fixed set of routes or required architecture.
 
 **Tracked by `layer_c_12mark_coverage.py`** — block→entry, checked both ways; `--audit` prints each block's own stem beside the entry claiming it, and the script **separates *planned* from *covered by a written entry*** so a forward claim can never pass as an answer.
-⚠️ **Permanent limitation: no verified 12/12 exists for Paper 2 or Paper 2R** — Pearson's 12-mark exemplars are Paper 1 scripts, so **every model in this tier is `[CONSTRUCTED GRADE 9 TARGET]` and none claims a score.** The tier's one verified anchor is **Irsi, May 2023 P1 Q4(c) — 12/12**, held verbatim in `02_Verified_Exemplars.md` and dissected in rule 82.
+⚠️ **Checked-corpus evidence gap:** no verified P2 or P2R 12/12 script was located in the examiner reports and exemplar sources reviewed for the 2019–2026 corpus. The models remain `[CONSTRUCTED GRADE 9 TARGET]` and unscored. The five verified 12/12 anchors are recorded in `09_Verified_Tally.md` and `16_Five_Verified_Twelve_Markers.md`.
 
 ### ✅ LAYER C, 9-MARK TIER — CLOSED at 76/76, verified 0 remaining
 
@@ -394,7 +394,7 @@ python3 verify_ms_point_coverage.py     # every awarded MS point is at least nam
 python3 verify_coverage_claims.py       # the grids, the absolutes, the stated totals and the retired figures
 python3 verify_boundaries.py            # both boundary tables agree with Pearson
 python3 verify_rule_index.py            # rules 1-126 defined once; every citation resolves
-python3 verify_model_shape.py           # 3/6/9/12 models carry their tariff's shape
+python3 verify_model_shape.py           # 3/6 causal-link audit; 9/12 model presence only
 python3 verify_paper_coverage.py        # every governed part of every PAPER resolves to its entry
 python3 layer_c_1_2mark_coverage.py     #  24. the 1-/2-mark tier: printed vs transcribed, session-aware keys
 python3 audit_er_fullmarks.py           #  23. every full-mark script the archived reports PRINT is in the register
@@ -445,7 +445,7 @@ All of them now state their claims as assertions, print one `RESULT:` line, and 
 | `verify_stem_quotes.py` | every `**Asked:**` / `**Also asked:**` citation in the bank against the mark-scheme stem | **380 blocks known · 310 print a stem · 273 citations = 150 by question number + 18 the scheme does not print + 5 duplicates folded + 100 by paper** (70 of those proven, 30 on the nine papers printing no 3-mark wording) · **0 unresolved · 0 misattributed** · **29 near-miss quotes, every one read by hand and explained**. The 151→150 and 4→5 moves are one event: two citations of the same question that differed by one word became identical when the word was corrected Prints the citation count first, because a version of it that parsed nothing reported OK |
 | `verify_block_tiers.py` | the four block dumps | **152 / 114 / 76 / 38 blocks, every one printing its own tier's mark value and its own part label.** Written after nine 9-mark blocks turned out to contain 3(d) content and nine 12-mark blocks 4(b) content |
 | `verify_ms_point_coverage.py` | every indicative point in the mark schemes against the entry mapped to it | **1,316 points tested; 0 absent from their entry.** Closed 14 Oct 2026 from 9 absent across 7 entries — see below |
-| `verify_model_shape.py` | every governed model against the shape its tariff requires | **3-mark: 97 entries, 98 models — all carry an explicit mechanism step.** **6-mark: 74 entries — all carry two or more chain links.** **9-mark: 49 entries — all carry a NAMED CONDITION (rule 91).** **12-mark: 24 entries, 25 models — all carry a woven judgement (≥3 evaluation markers, ≥120 words). 246 models across four tiers.** Reads only the blockquote, so an entry's commentary can never satisfy it. Its first version, for the 3-mark tier alone, **passed on a model replaced with the report's own 0/3 wording** — see below. Every tier sabotage-tested |
+| `verify_model_shape.py` | 3-/6-mark causal-link audit checks and presence of mapped 9-/12-mark models | **3-mark: 97 entries, 98 models — all carry an explicit mechanism step.** **6-mark: 74 entries — all carry two or more chain links.** **9-mark: 49 entries — mapped models present, with no mandated named condition or conclusion format.** **12-mark: 24 entries, 25 models — mapped models present, with no word-count or paragraph-architecture gate. 246 models across four tiers.** Reads only the blockquote, so an entry's commentary can never satisfy it. Its first version, for the 3-mark tier alone, **passed on a model replaced with the report's own 0/3 wording** — see below. Every tier sabotage-tested |
 | `verify_paper_coverage.py` | **coverage by PAPER, not by tier** — all 380 governed parts of all 38 papers resolved down to the entry that answers each, using the tier maps **imported, never re-typed** | **380 parts → 244 entries; all 38 papers carry the same 4 / 3 / 2 / 1 shape; all four inventories agree on the same 38 session/paper keys.** The tier checks prove each *tier* is covered; none of them asked *"I have June 2026 P2R in front of me — is every question on it answered?"* — a tier can be 100% covered while one paper is missing a part, if a block was folded into another row of a hand-kept map. Sabotage-tested both ways: a map entry pointed at a nonexistent rule prints **DANGLING entry 9999** and fails; a deleted map key prints **`May-June 2019 P1R 1(g) (6 marks) — block 13 has no entry`** and fails. It also prints the newest paper in full, so the claim is visible rather than asserted |
 | `verify_rule_index.py` | the rule index — every number 1–126 defined exactly once across `01_` and `06_`, and every `rule N` cited anywhere in the bank | **126 rules, 126 definitions, 0 duplicates, 0 gaps; 41 distinct rule numbers cited across 75 files, every one resolving.** Written because `10_Chain_Bank.md` numbers its 252 entries in the **same `## N. Title` format** as the rules — the two domains are indistinguishable to a grep, which is how a duplicate would hide |
 | `verify_boundaries.py` | the two boundary tables in `00_` against Pearson's published figures, and the additivity rule against the numbers | **all 12 notional rows and all 16 trend rows agree; 17 additivity pairs checked — 13 exact, 4 not.** Written because two numbers in the new section (*"18 pairs"*, *"14 of 14"*) were typed rather than derived, and both were wrong |
@@ -491,10 +491,10 @@ Four June 2026 P1R **0/3** answers fail identically — each names a correct **c
 |---|---|---|
 | **3-mark Explain** | identify → **mechanism** → consequence | **97 entries · 98 models · all pass** |
 | **6-mark Analyse** | one point with **developed strands** (rule 110) | **74 entries · all pass** |
-| **9-mark Justify** | a choice, both sides, and a **named condition** (rule 91) | **49 entries · all pass** |
-| **12-mark Evaluate** | **woven judgement** — ≥3 evaluation markers, ≥120 words (rules 82–83) | **24 entries · 25 models · all pass** |
+| **9-mark Justify** | model presence only; no required option count, condition or conclusion format | **49 entries · models present** |
+| **12-mark Evaluate** | model presence only; no required word count or paragraph/conclusion format | **24 entries · 25 models present** |
 
-**246 models, four tiers, every one carrying the shape its tariff requires.** Five 6-mark entries were flagged on the first pass and **all five were false positives of a narrow marker list** — read by hand, each is a full chain (*"otherwise it is only a feeling"*, *"and that cannot be written down"*). That is the same lesson as entries 72, 100 and 93: **the screen must accept what the examiner accepts, or it teaches the wrong thing.**
+**246 mapped models across four tiers.** The 3-/6-mark causal-link checks remain; no fixed response-shape gate is applied to the 9-/12-mark models. Five 6-mark entries were flagged on the first pass and **all five were false positives of a narrow marker list** — read by hand, each is a full chain (*"otherwise it is only a feeling"*, *"and that cannot be written down"*). That is the same lesson as entries 72, 100 and 93: **the screen must accept what the examiner accepts, or it teaches the wrong thing.**
 
 **The models were then read by size, which is where a weak one would hide** — the shortest model in each tier, against the verified benchmark for that tier:
 
@@ -648,7 +648,7 @@ The same sweep over the 9-mark tier's advisory band — 8 mappings — found **t
 |---|---|
 | **42** (Jimmy Choo, induction vs off-site) | **the whole induction half.** The entry's "asked three times" list named Jimmy Choo and the model covered LEGO and Irsi only. The scheme's own Jimmy Choo pair has a different shape from the other two: **both options can miss the job** — induction *"does not always benefit because they may not work in that specific department"*, and off-site *"is not guaranteed that it will match the job"* |
 | **44** (TUI, internet vs questionnaire) | the AO4s, which are the point of the pair: the internet wastes time **three ways** (*"not relevant to them or is out of date, or even places they do not offer holidays to"*) and the questionnaire **starves the sample** (*"not all customers may want to complete the questionnaires so there may be less data to use"*) |
-| **26** (NOF, questionnaires vs internet) | the AO3 the candidates miss — the internet's advantage is **cost and time**, not information (*"less time consuming /costly"*) — and both AO4s that make the named condition obvious |
+| **26** (NOF, questionnaires vs internet) | the AO3 the candidates miss — the internet's advantage is **cost and time**, not information (*"less time consuming /costly"*) — and the two scheme-listed AO4 considerations |
 
 **All three now carry their block's chains, quoted verbatim.** Block 26's PDF is **character-fragmented** (`questionna ires`, `t o`, `feedba c k`); the quotes are repaired **by spacing only**, and the repair is machine-verified — each quote is byte-identical to the source once whitespace is removed, so no word was altered. Both blocks 42 and 44 have left the band.
 
@@ -801,7 +801,7 @@ Both are now corrected, and the corrected position is stronger than either versi
 | # | Open item | Why it cannot be closed |
 |---|---|---|
 | ~~**0**~~ | ✅ **CLOSED 14 Oct 2026 — all eleven banked.** Nine 3/3 Explain and two 6/6 Analyse, transcribed in full into `External_Exemplars/2023-05_Series_Remaining_FullMarks.md`; register rows 36–44 and 24–25. **`audit_er_fullmarks.py` is now check 23 and the expected gap is zero.** | **It was work, not a wall — and it is done.** The eleven had been invisible to every sweep because May 2023 phrases the score as *"This response scored N marks."* |
-| 1 | **No verified 12/12 on Paper 2 or on Paper 2R.** | **Permanent.** Pearson's own support page names the **June 2022** and **June 2024 Paper 1** reports as its 12-mark exemplar sources, and both are harvested. **Every Paper 2 / 2R Evaluate model in the bank must therefore stay `[CONSTRUCTED GRADE 9 TARGET]`.** Best held on those papers: **10/12 on each** (IKEA and M&M, May 2023), both docked for *"limited judgements"*. |
+| 1 | **No verified P2 or P2R 12/12 located in the checked 2019–2026 corpus.** | This is limited to the reports and exemplar sources reviewed, not a claim about all publications. Keep the P2/P2R constructed models labelled and unscored. Best located: **10/12 on each** (IKEA and M&M, May 2023), with examiner comments about limited judgements. |
 | 2 | **One marked script per question.** | **Permanent.** Pearson prints one or two examples per question and some questions none. **So the bank can show that a full-mark answer exists and what it does — it can never show every route to one.** This is the gap the Chain Bank exists to fill: it generalises from the scripts that exist to the questions that have none. |
 | 3 | **Jun 2026 P1 / P2 / P2R examiner reports.** | **Release scope, verified three ways** — the sibling filenames 404, the third-party archive that holds the June 2026 **P1R** report holds no P1/P2/P2R report, and its bucket refuses listings. **The P1R report circulating alone is the signal.** |
 | 4 | **Nov 2025 P1 / P2 examiner reports.** | **Not retrievable yet** — five publication dates tried across two sessions, all 404, and absent from the third-party hosts that carry the November 2020 equivalents. **Worth one re-check after January 2027.** |

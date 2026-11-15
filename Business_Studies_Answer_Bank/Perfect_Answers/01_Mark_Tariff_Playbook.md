@@ -49,7 +49,7 @@ The old figures **152/114/76/38** and claims that each tariff always maps to one
 | Command word | AO | What earns the mark |
 |---|---|---|
 | **Define** | AO1 | Correct definition. Nothing else. |
-| **State** | AO2 (contextual answer under the current specification) | Give the requested point in the context supplied. |
+| **State** | Varies by the item and information supplied | Give the requested fact; check the exact question and mark scheme for whether context or calculation is needed. |
 | **Identify** | Read the graph/table as directed | Select the correct answer; see the item’s mark scheme. |
 | **MCQ / Select** | AO1 recall or calculation from given information | Select the correct answer; check the actual item. |
 
@@ -62,7 +62,7 @@ Mark scheme wording, verbatim:
 
 Note the AO can flip even at 1 mark. A *define* is AO1. A *state one method **for this business*** is AO2.
 
-**Trap:** don't waste time. One line. Move on.
+**Keep it concise, but do not treat one line as a rule:** give enough to answer the item accurately, then move on.
 
 ---
 
@@ -80,7 +80,7 @@ For this cited Outline item, the second mark is awarded for linking the point to
 
 > `1 (e)  Award full marks for correct numerical answer without working.`
 
-For a calculation: show the substitution anyway. It is worth a mark if you slip on the arithmetic.
+For a calculation, show a clear method where practical, but follow the item's allocation: some schemes award full marks for the correct answer without working, and working is not guaranteed to earn a mark after an incorrect answer.
 
 ---
 
@@ -145,7 +145,7 @@ Verified: `2 (f)  AO2 = 3 marks  AO3 = 3 marks  AO4 = 3 marks` · `3 (e)` identi
 | 2 | 4–6 | Makes a judgement, providing a justification based on *sound* evaluation … |
 | 3 | 7–9 | Makes a judgement, providing a **clear** justification based on a **thorough** evaluation of business information and issues relevant to the choice made. |
 
-**The examiners' most repeated complaint — there are no knowledge marks here.** From the June 2019 booklet, on a 3/9 response:
+**The examiners' most repeated complaint — there are no knowledge marks here.** A supported choice requires evaluated reasoning tied to the case; the exact band descriptor governs, and no single conclusion formula or named-condition clause is prescribed. From the June 2019 booklet, on a 3/9 response:
 
 > *"A number of responses seen have demonstrated knowledge of both options; there are no knowledge marks available for this question."*
 

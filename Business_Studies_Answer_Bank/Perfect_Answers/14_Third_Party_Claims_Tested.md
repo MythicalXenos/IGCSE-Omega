@@ -27,7 +27,7 @@ from, and tests it against the evidence in this bank.**
 | 2 | "You **must** write a conclusion for both the 9- and the 12-marker" | r/GCSE thread | ⚠️ **Half true** — a *judgement* is required in AO4; a *separate conclusion paragraph* is not |
 | 3 | "12-markers need **five** linked, developed strands" | a lecture-note site (GCSE) | ❌ **Contradicted** |
 | 4 | "3-mark Explain needs **no case-study application**" | a 4BS1-specific tutoring page | ✅ **Supported** |
-| 5 | "Say **'it depends on…'** and give a factor (cost, location, size, demand, objectives)" | the same 4BS1 page; general advice | ⚠️ **Half true, and the half that is false is the half people copy** |
+| 5 | "Say **'it depends on…'** and give a factor (cost, location, size, demand, objectives)" | the same 4BS1 page; general advice | ⚠️ **A possible technique, not a required formula** |
 | 6 | "The 12-mark conclusion must **weigh** the arguments" | Save My Exams (labelled **GCSE 1BS0**) | ⚠️ **True of 1BS0's wording; for 4BS1 it is one of three routes** |
 
 ---
@@ -54,22 +54,17 @@ them.
 
 ## 2. "You must write a conclusion" — **half true, and the useful half is not the one quoted**
 
-| What Pearson pays | What it does not pay |
+| What the checked Pearson guidance assesses | What it does not prescribe |
 |---|---|
-| an **AO4 judgement** — a decision, a weighing, or a named condition. On a 9-marker that is 3 of the 9 marks | a paragraph that *begins* "In conclusion" |
+| For Justify, a clear, justified decision based on evaluation; for Evaluate, a clear judgement based on thorough evaluation. Use the exact tariff's descriptors. | a separate paragraph that begins "In conclusion," or any fixed conclusion placement |
 
 **The proof that the paragraph is optional:** the **second 12/12** in this bank **has no conclusion
 paragraph at all.** Its last paragraph decides — *"the effectiveness … could be limited because it
 depends on factors such as nature of employee"* — and stops.
 
-**The proof that a conclusion is not sufficient:** the **8/9** whose conclusion merely repeats what
-was argued (*"a judgement made that repeats the financial implication that was argued previously"*),
-and the **8/9** that writes *"it much depends on the objectives set by the owner"* and is still asked
-for the *'it depends' rule*.
+**A conclusion alone does not guarantee a top mark:** one examiner comment on an 8/9 script says its judgement repeats an earlier point, while another comment on an 8/9 script asks for the “it depends” rule. These are observations about those scripts, not a universal requirement to use a named condition or fixed conclusion formula.
 
-> **The rule to carry:** **a conclusion earns marks only for what it adds that is not already on the
-> page.** If your last paragraph could be deleted without changing the answer's judgement, it was not
-> a conclusion.
+A separate conclusion may clarify or reinforce a judgement, but it is not mandatory. Evaluation can be made clear elsewhere in the response; assess the reasoning as a whole against the exact level descriptors.
 
 ---
 
@@ -99,25 +94,13 @@ definition is not the mechanism.** The 3 marks are one chain: **cause → effect
 
 ---
 
-## 5. "Say 'it depends on…'" — **half true, and the false half is what gets copied**
+## 5. "Say 'it depends on…'" — **one possible evaluative technique, not a formula**
 
-**Supported:** a **named condition** is one of the three moves that reaches the top band. Every 9/9 in
-this bank that uses the phrase names something specific to that business and that option.
+A relevant condition can make evaluation precise, and several full-mark scripts in the checked set use one. That observation does not establish a required phrase or pass/fail test. The Level 3 Justify descriptor requires a clear, justified decision based on thorough evaluation; it does not specify that evaluation must take the form of a named condition.
 
-**Contradicted:** *"give a factor (cost, location, size, demand, objectives)"* — a list of **generic**
-factors is exactly what the 8/9s do. The evidence:
+A generic factor may contribute little if it is not connected to the decision, but the question is whether the reasoning supports a clear judgement in context—not whether a formula is present. Examiner comments about a particular script should be read in their own context and do not create a universal condition clause.
 
-- **8/9:** *"it depends on **how much they have spent in these expenditure sample**"* — vague.
-- **8/9:** *"it **much depends** on the objectives set by the owner for CCT"* — present, unnamed, and
-  Pearson still asks for *"the 'it depends' rule"*.
-- **10/12:** the script Pearson says **uses** the rule is asked to use it *"earlier and throughout"*.
-- **11/12:** the script that **does not** use the rule is praised for *"a clear judgement"* and asked
-  for *"more sophisticated application"*.
-- **12/12:** no phrase, but a condition — *"nature of employee"* — with knowledge from outside the case.
-
-> **The test:** *could your condition clause be pasted onto a different question?* If yes, it is worth
-> nothing. **"It depends on cost" fails. "It depends on whether the Shanghai customers return after the
-> price rise" passes.**
+> **Useful self-check:** is the evaluation connected to this case and does it help explain the decision? A condition is one possible route; a comparison, trade-off or other supported evaluation may also work.
 
 ---
 

@@ -329,7 +329,7 @@
 
 ⭐⭐ **A 12-MARK PAIR WHERE THE 9 IS TOLD EXACTLY WHY IT IS NOT 12 — *"no thorough evaluation"* — and the two scripts are separated by DEVELOPMENT of the same two points (*cost of renting, distance* vs *skilled labour, proximity to workers*).** ⚠️ **The 9-mark comment is the bank's clearest single sentence on the 12-marker: a Level 3 answer can have accurate knowledge, developed points, and still be docked for limited *"business concepts and issues"* and absent evaluation.** **It also re-states the bullet-point rule (bank rule 84) for a fourth series — *"not to label their paragraphs or use bullet points"* — and the Evaluate-marked-like-Justify rule.**
 
-⛔ **AND THE BANK'S PERMANENT WALL STANDS: this paper's own top 12-mark script is a 9/12.** Read with `00_`'s scope note — **no verified 12/12 exists for Paper 2 or Paper 2R in any series**, and this newly-read report does not change that. **Best printed: 9/12 here, 10/12 in the two banked cases.**
+**On this paper, the highest 12-mark verdict transcribed here is 9/12.** In the 2019–2026 reports and exemplar sources checked for the bank, no P2/P2R 12/12 was located; the best located scripts remain 10/12 on P2 and P2R (May 2023 IKEA and M&M). This report-specific result does not establish an absence beyond the checked corpus.
 
 ---
 

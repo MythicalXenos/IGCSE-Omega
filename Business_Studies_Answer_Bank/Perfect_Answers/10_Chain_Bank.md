@@ -46,15 +46,15 @@ Across 38 papers the qualification asks **governed** questions — anything need
 
 > ✅ **THE 6-MARK TIER IS CLOSED.** All **114 blocks** are carried by entries **101–174** — verified by `layer_c_6mark_coverage.py`, which prints **114 covered / 0 remaining** and flags any dangling entry reference. **It was 74 entries for 114 blocks**, because **40% of the tier was a repeat of a topic already answered**: *multinational* and *motivating employees* **six times each**, *break-even* **five**, and *cash*, *SoCI*, *interest rates*, *branding*, *robotics*, *induction* and *host-economy benefit* **three or four times each**.
 
-> ✅ **THE 9-MARK TIER BEHAVED DIFFERENTLY FROM THE OTHER TWO.** All **76** questions use **one framing** (*"justify which one of these two options…"*) with **one AO split** (AO2 3 · AO3 3 · AO4 3), so **the scaffolding in entry 175 is used 76 times**. But the tier holds **58 distinct option pairs across 76 blocks** — **it barely repeats its content**, unlike the 3-mark tier (152 → 97) and the 6-mark tier (114 → 74). **What repeats is the DECISION TYPE**: sources of finance is one decision type carrying **13 pairs**, and promotion + pricing together are two decision types carrying **21 blocks in 17 pairs**. **Every decision type is now closed** — see the tier summary below.
->
-> ✅ **FOUR decision types were closed first, and the ordering is the point** — **sources of finance** (13 pairs · 14 blocks) · **promotion + pricing** (17 pairs · 21 blocks) · **market research + measuring success** (4 pairs · 9 blocks) · **job design, motivation and contracts** (9 pairs · 14 blocks). **That was 55 of the 76 blocks — 72% of the tier — and every one of the four largest decision types in the qualification is carried in full.**
+> ✅ **THE 9-MARK TIER USES A CONSISTENT ARCHIVE FRAMING, WITH DISTINCT QUESTION PAIRS.** In the checked 2019–2026 inventory, all **76** questions use a Justify framing and matched schemes allocate AO2 = 3, AO3 = 3 and AO4 = 3. The inventory records **76 distinct ordered option pairs**; entries **175–227** group related decision topics while retaining each question's own options, case and scheme. The scaffold and groupings are navigation aids, not prescribed answer structures.
 
-> ✅ **THE 9-MARK TIER IS CLOSED.** All **76 blocks** are carried by entries **175–227** — verified by `layer_c_9mark_coverage.py`, which prints **76 planned / 76 covered / 0 remaining**. **It was 53 entries for 76 blocks across 58 distinct option pairs**, so this tier compresses far less than the other two **(3-mark 152 → 97 · 6-mark 114 → 74 · 9-mark 76 → 58)** — because **the option pair genuinely varies.** **What repeats is the decision type**, and all fifteen are now closed: sources of finance · promotion · pricing · market research · success measures · job design · motivation · contracts · training · production · operations · recruitment · communication · place · product · structure.
+> ✅ **THE 9-MARK TIER IS CLOSED.** All **76 blocks** are carried by entries **175–227** — verified by `layer_c_9mark_coverage.py`, which prints **76 planned / 76 covered / 0 remaining**. The **53 entries** group related themes; consult each mapped question and scheme when using an entry.
+
+> ✅ **The topic groupings cover the full checked inventory:** sources of finance · promotion · pricing · market research · success measures · job design · motivation · contracts · training · production · operations · recruitment · communication · place · product · marketing · structure.
 
 > ✅ **THE 12-MARK TIER IS CLOSED.** All **38 blocks** are carried by entries **228–252** — verified by `layer_c_12mark_coverage.py`, which prints **38 planned / 38 covered / 0 remaining** and separates *planned* from *covered by a written entry* so that a claim made in advance can never masquerade as an answer. **It was 25 entries for 38 blocks, across 22 distinct topics** — a much smaller compression gain than the other tiers, because **the 12-mark stem usually names one topic and one business, and Pearson does not repeat them.** Three topics do carry two or three papers each (**quality → competitive advantage**, **location**, **the market**), and those entries hold a per-paper comparison table rather than three separate essays.
 >
-> **Entry 228 is the scaffold for the whole tier** — five command forms, one four-way AO split (3 · 3 · 3 · 3), and the **four official AO4 routes**: *(1) the drawback of the same thing (2) a more important factor (3) the named condition (4) argue against the premise.*
+> **Entry 228 summarises the shared guidance for the checked Evaluate items.** The exact task and level descriptors govern; examples of evaluation across these schemes include trade-offs, alternative factors, conditions and challenges to an assumption. These are possible approaches, not a fixed set of routes or a required answer architecture.
 
 **Progress against those 380 blocks:**
 
@@ -75,7 +75,7 @@ Across 38 papers the qualification asks **governed** questions — anything need
 > |---|---|---|---|
 > | 3-mark Explain | 152 | **97** | the topic repeats constantly — the same topic answers several papers |
 > | 6-mark Analyse | 114 | **74** | 40% of the tier repeats a topic already answered |
-> | 9-mark Justify | 76 | **53** | **the option pair** is the unit — 58 distinct pairs, and the decision type repeats even when the pair does not |
+> | 9-mark Justify | 76 | **53** | **the entry groups related decision types**; the inventory has 76 distinct exact option pairs |
 > | 12-mark Evaluate | 38 | **25** | the **topic** is the unit again — 22 topics, three of them on two or three papers |
 > | **Total** | **380** | **252** | **one entry per topic, never one entry per question** |
 >
@@ -4008,65 +4008,32 @@ REMAINING                     :    0 topics  ·    0 blocks
 **1 scaffold entry + 11 option-pair entries, covering every sources-of-finance question in the qualification.**
 
 > ### ✅ THE 9-MARK TIER IS THE MOST UNIFORM IN THE QUALIFICATION — AND THE LEAST REPETITIVE
-> All **76** nine-mark questions use **one framing and one framing only**: *"Justify which one of these two options X should choose."* There is no variation in the command, the AO split (**AO2 = 3 · AO3 = 3 · AO4 = 3**) or the level descriptors. **So the scaffolding below is worth learning once and using 76 times.**
+> In the **checked 2019–2026 corpus**, all **76** nine-mark questions use a Justify framing, and the matched schemes allocate AO2 = 3, AO3 = 3 and AO4 = 3. This is an archive finding, not a rule for future papers. The prompts below are not a script or answer architecture.
 >
-> **But unlike the 3-mark and 6-mark tiers, the nine-mark tier barely repeats its content.** In the option pairs there are **55 distinct combinations across 76 blocks** — the same business decision (a source of finance) is set with **eleven different pairs**. **What repeats is the DECISION TYPE, not the pair.** That is why this batch is organised by decision type, and why the entries below are grouped: *sources of finance* is one decision type with eleven pairs inside it.
+> The inventory records **76 distinct exact option pairs across 76 blocks**. Recurring decision types can help identify relevant reasoning, but each response still depends on its own question, case and matched scheme.
 
 ---
 
-## 175. ⭐ THE UNIVERSAL 9-MARK SCAFFOLD — read this before any Justify answer
+## 175. ⭐ THE 9-MARK JUSTIFY — use the exact question and level descriptors
 
-**The framing, in full, is always:** *"Option 1: … Option 2: … **Justify which one of these two options X should choose.**"* Sometimes the stem adds *"You should use the information provided as well as your own knowledge of business."* — **that sentence is a instruction, not a formality: it is telling you the AO2 mark cannot be earned from general knowledge.**
+In the 2019–2026 corpus checked for this bank, the 76 nine-mark questions use the command word **Justify**, and their matched schemes allocate AO2, AO3 and AO4 (3 marks each). Check the exact question paper and mark scheme rather than assuming future items will follow this pattern.
 
-### What the three AO marks are actually for
+For a Justify response, the level descriptors assess application and analysis together with a clear, justified decision based on evaluation. The assessment is holistic. There is no required order, paragraph count, word count, opening sentence, comparison of both options, named-condition clause or fixed conclusion format. Pearson's June 2022 P2R guidance expressly says both options need not be discussed; the June 2024 P2 guidance says comparison is acceptable. Either route can work when the chosen decision is supported by relevant context and reasoning.
 
-| AO | Marks | What it means in a Justify answer |
-|---|---|---|
-| **AO2** — application | **3** | **Case facts used as evidence for the option you favour.** Not the business's name — the *facts*. |
-| **AO3** — analysis | **3** | **A chain of reasoning** from the option to a consequence for this business. |
-| **AO4** — evaluation | **3** | **The judgement, the counter-argument, and a NAMED CONDITION.** |
+### A practical check—not a template
 
-### ⭐⭐ THE STRUCTURE THAT SCORES — four moves, in this order
+- Have I identified the choice I support, if that is what the question asks?
+- Have I applied useful case information to the selected option or options?
+- Does the reasoning explain plausible consequences for this business rather than just list points?
+- Is the final or integrated judgement supported by those reasons and responsive to the decision?
 
-| Move | What you do | Why it earns the mark |
-|---|---|---|
-| **1.** | **State your choice immediately.** *"CCT should sell the unused equipment."* | AO4 needs a decision. **Do not leave it to the end** — an answer that only decides in the last line leaves the examiner hunting for it. |
-| **2.** | **Give the case-specific reason for it** — the fact from the case that makes *this* option right *for this business*. | AO2. The fact must be from the case, **not the business's name**. |
-| **3.** | **Dismiss the other option with the scheme's own counter-argument** — *"however, …"*. | **This is the AO4 the mark schemes print for every single block.** Every AO4 bullet in all 76 questions begins *"However…"*. |
-| **4.** | **Name the CONDITION your judgement depends on.** | ⭐ **The single mark most candidates miss, and the reason a 9/9 looks different from a 7/9.** |
+A relevant condition, comparison or concession can strengthen evaluation when it fits the case. None is a universal formula. Treat mark-scheme indicative content as guidance, not a closed list: additional accurate, relevant business reasoning may be creditworthy. Distinguish facts stated in the case from inferences; present an inference as a possibility where its outcome is uncertain. The constructed answers below combine scheme-listed facts with illustrative reasoning; invented examples or consequences are not additional case facts and should be framed as possibilities unless the QP establishes them.
 
-### ⭐⭐ THE NAMED CONDITION — the one thing that separates 9 from 7
+Some examiner reports advise candidates on bulleting or response organization for a particular paper. Such comments are useful in their source context, but do not establish an automatic mark ceiling across all Justify questions.
 
-**The rule, proved from the verified 9/9s:** *a top-band evaluation scores only on a condition specific to **this business** and **this option**.* The test is simple —
+### One 9/9 conclusion as an example
 
-> **Could your final condition be pasted onto a different question without changing a word? If yes, it is not a condition — it is a platitude, and it scores nothing.**
-
-**A platitude:** *"This depends on whether the business can afford it."* — **worthless.**
-**A named condition:** *"**However, the success of this depends on how much employees get to voice their own concerns in business.**"* — Rabanne, 9/9, and it is a condition because **it could only be written about weekly meetings.**
-
-**So end on the specific fact or number that would have to hold.** *"This works **provided the €7 500 is genuinely available in savings**"* · *"This depends on **whether the electric bicycles at £550 each are actually cheaper than repairing the tour route**"* — **the number and the case fact are what make it un-pasteable.**
-
-### An example conclusion from a 9/9 script (not a length/sequence template)
-
-The cited full-mark response contains a choice, a comparative reason and a condition:
-
-1. **Choice and reason** — *"Rabanne should hold weekly meetings as it gives employees this sense of belonging as their opinions are physically heard."*
-2. **Comparison** — *"Whereas communication via messages can get lost in inboxes which leads to manufacturers missing important business objectives announcements."*
-3. **Condition** — *"However, the success of this depends on how much employees get to voice their own concerns in business."*
-
-This illustrates one successful response, not a required three-sentence conclusion or required order.
-
-### ⚠️ THE FIVE WAYS THIS QUESTION IS LOST
-
-1. **Analysing the wrong party** — several stems ask what is best for the *owners*, the *employees* or the *country*. **Check who benefits.**
-2. **Deciding at the end** (or not at all). AO4 needs a choice, visibly.
-3. **Writing two mini-essays with no comparison.** The marks are for **choosing**, so the analysis of each option exists to support a decision.
-4. **A generic conclusion** — see the pastability test above.
-5. **Organisation.** The response must make its reasoning and judgement clear enough to assess. Some reports comment that bullet-pointed responses limited candidates on particular level-based questions; there is no universal no-bullets rule for every question or tariff.
-
-> **Do not use the partial archive to predict topics.** Question numbering and subject area may vary by paper; read the whole prompt before planning. No frequency ranking or topic prediction has been established by this audit.
-
----
+The June 2025 P2R Rabanne script includes a clear choice, a comparison with the other option and a specific consideration about employee voice. It illustrates one successful way to support a decision; it does not prescribe three sentences, a condition or a fixed sequence.
 
 ## 176. SOURCES OF FINANCE — venture capital vs a bank loan
 
@@ -4076,6 +4043,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors (Ocean Vibes):** the owners may **appeal to an individual who wishes to invest in a business concerned with the welfare of birds and dolphins**; a loan would let them **buy new boats to offer more boat tours**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> *The table below analyses this constructed example; it is not a required sequence or checklist.*
 > **The owners of Ocean Vibes should take the venture capital.** The decisive fact is **what the investor brings beyond money: this is a business whose whole appeal is the welfare of birds and dolphins**, and an investor who has chosen it *for that reason* is **someone who will fund the boats and support the positioning rather than pushing the business towards whatever makes the fastest return**. **A loan would do the opposite in one important respect.** It arrives with **interest to be paid on top of the amount borrowed, which raises costs and reduces profitability** — and a boat tour business **carries fixed costs whatever the weather or the season does**, so a repayment schedule is a cost that must be met in the months when tours cannot run. **However, the venture capitalist may wish to take some control of the business, which may cause disagreement within it** — and for **owners who built a business around a conservation principle, that control is the real price being paid.** **For that reason I would still choose the venture capital, but only as long as the investor's interest genuinely matches the tours' welfare focus — because the moment the investor wants to cut the wildlife spend to protect the return, the business has lost the thing that makes anyone book it.**
 
 | Move | The answer |
@@ -4083,11 +4051,11 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Venture capital** — stated in the first sentence |
 | **2. AO2 + AO3** | Investor **chosen the business for its welfare focus** → funds the boats **without forcing a return at the cost of the positioning** |
 | **3. Counter-argument** | The loan **adds interest → higher costs → lower profitability**, on a business with fixed costs out of season |
-| **4. Named condition** | ⭐ **Provided the investor's interest genuinely matches the welfare focus** — not "provided it is affordable" |
+| **4. Possible evaluative consideration** | ⭐ **Provided the investor's interest genuinely matches the welfare focus** — not "provided it is affordable" |
 
 **Second acceptable chain:** a bank loan **leaves the owners in full control of the tours they designed** → no disagreement over direction → **but the interest is a cost the tours must cover in every season.**
 
-> ⚠️ **The AO4 for both options is in the scheme and both must appear.** The venture capitalist **"may take a percentage of the business in return for the capital, which gives the owners less independence or control"**; the loan **"will incur interest rates that have to be paid in addition to the loan amount which will increase costs and possibly reduce profitability."** **An answer that only criticises the option it rejects has used half the AO4.**
+> ⚠️ **The mark scheme lists considerations about both options; candidates may discuss either or both where relevant. Neither option-count nor particular AO4 point is universally required.** The venture capitalist **"may take a percentage of the business in return for the capital, which gives the owners less independence or control"**; the loan **"will incur interest rates that have to be paid in addition to the loan amount which will increase costs and possibly reduce profitability."** A response should make its chosen recommendation clear and support it; the examiner assesses it against the exact descriptors.
 
 ---
 
@@ -4098,18 +4066,18 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors:** Saha may **appeal to the public for funding to expand its sale of robots into all continents**; a loan could **build new factories to manufacture the new robots for homes**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Saha should use the loan capital.** The reason is the scale of what the money has to do: **the plan is to expand robot sales into all continents**, and that requires **factories — bricks, machinery and a build programme** — not a single popular product. **Crowdfunding raises money in exchange for interest and enthusiasm, not collateral, and it suits a defined, attractive, single purpose.** A factory programme is **neither** — it is expensive, staged and unglamorous — so **crowdfunding is the wrong shape of finance for it. A loan is the right shape because it can be sized and repaid over the life of the asset it buys.** **However, crowdfunding carries no interest at all**, and Saha would keep **every penny of the profit from the expansion** rather than paying a lender for the privilege. **However, the loan will incur interest rates that have to be paid in addition to the loan amount, which will increase costs and reduce profitability** — and **for a business whose robots are priced against rivals such as NIO, a permanent interest cost is a permanent disadvantage on price.** **I would still choose the loan, provided the factory programme is staged so that each stage generates sales before the next is funded — because if Saha borrows the whole amount before the first factory is earning, the interest falls due on assets that are not producing yet.**
+> **Saha should use the loan capital.** The reason is the scale of what the money has to do: **the plan is to expand robot sales into all continents**, and that requires **factories — bricks, machinery and a build programme** — not a single popular product. **A public crowdfunding appeal could help Saha raise money from supporters, but its success and the amount raised are uncertain. A loan could provide a more defined amount for the factory programme, although interest adds to costs and repayments must be met.** If Saha can demonstrate the scale of investment and manage the repayments, a loan may fit its plans better; the right choice still depends on the amount required, the finance terms and the risks the owners will accept. **However, the loan will incur interest rates that have to be paid in addition to the loan amount, which will increase costs and reduce profitability** — and **for a business competing with rivals such as NIO, additional interest costs could make its products less competitive if those costs affect prices or margins.** **I would still choose the loan, provided the factory programme is staged so that each stage generates sales before the next is funded — because if Saha borrows the whole amount before the first factory is earning, the interest falls due on assets that are not producing yet.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **Loan capital** — first sentence |
-| **2. AO2 + AO3** | **Factories across continents** = large, staged, unglamorous → **matches a loan, not a public appeal** |
-| **3. Counter-arguments** | Crowdfunding = **no interest, keep all profit**; loan = **interest on top of capital → higher costs → lower profitability** |
-| **4. Named condition** | ⭐ **Provided the build is staged so each factory earns before the next is funded** |
+| **2. AO2 + AO3** | **Factory expansion** creates a substantial funding need; a loan may offer a more defined amount, while crowdfunding depends on the response to a public appeal |
+| **3. Comparison** | A crowdfunding appeal may not raise enough; loan interest increases costs and repayments must be serviced |
+| **4. Possible evaluative consideration** | ⭐ **Provided the build is staged so each factory earns before the next is funded** |
 
 **Second acceptable chain:** crowdfunding **also markets the business to the public who funded it** → they become customers and advocates → but **"there is no guarantee that sufficient funds would be raised … to allow Saha to pursue its ambitious expansion plans"**, and **a campaign that misses its target can leave the business with nothing at all.**
 
-> ⭐ **The shape test is the transferable skill: match the SIZE, the STAGING and the ASSET to the source of finance.** Crowdfunding suits **a defined, attractive, one-off purpose**; a loan suits **a sized, staged, resaleable asset**. **Learn the test, not the answer.**
+> ⭐ **A useful comparison is how the amount, timing and terms of each source fit the finance need.** Do not assume that a particular source always suits one type of asset; check the case and the terms offered.
 
 ---
 
@@ -4131,7 +4099,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Personal savings** — first sentence |
 | **2. AO2 + AO3** | **CCTV and kennels earn nothing alone** → they enable the existing business → **speed matters more than cost** |
 | **3. Counter-arguments** | Savings: **may not be enough, and leaves no surplus for emergencies**; loan: **interest adds to costs** |
-| **4. Named condition** | ⭐ **Provided a stated reserve is kept back and any shortfall funded separately** |
+| **4. Possible evaluative consideration** | ⭐ **Provided a stated reserve is kept back and any shortfall funded separately** |
 
 **Second acceptable chain (Violet Cakes):** Claire is **an established, successful business since 2010** → **the bank will lend at a LOW FIXED RATE** → the interest cost is therefore predictable and cheap → **and the savings stay intact for the café's first quiet months, which is exactly when a new site needs a cushion.**
 
@@ -4153,7 +4121,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The overdraft** — first sentence |
 | **2. AO2 + AO3** | Stock **sells and returns to cash in weeks** → matches a **temporary revolving facility** |
 | **3. Counter-arguments** | Crowdfunding **may raise nothing if the target is missed**; the overdraft is **repayable on demand at high rates** |
-| **4. Named condition** | ⭐ **Provided the stock turns over fast enough to clear the balance within the season** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the stock turns over fast enough to clear the balance within the season** |
 
 **Second acceptable chain:** crowdfunding **brings customers as well as cash** — the people who fund a small shoe shop become shoppers → but **a mall shop's customers must be local**, and **an online campaign reaches people who will never walk into the three shops.**
 
@@ -4170,14 +4138,14 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors:** retained profits let TBTS **buy the toys immediately to sell in its toy shops**; with the bank loan **TBTS will have to wait for a decision before buying the toys from new suppliers**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **TBTS should use the retained profits.** The decisive fact is **timing against a seasonal trade: toys are bought to be sold, and a toy shop that cannot stock a new line by the season has lost that line's whole year.** **Retained profit is the only one of the two that is available the same day, because it is already in the business** — there is no application, no credit assessment and no waiting for a decision. **A bank loan, by contrast, means TBTS waits for the bank before it can buy from the new suppliers at all**, and **the interest has to be paid back on top, which adds an additional cost.** **However, TBTS can only use retained profits if there are any in the first place, and building them up takes time** — so if the shop has had a poor year, the option does not exist. **I would still choose the retained profits, but only if they cover the stock order without emptying the reserve — because a toy shop that spends every penny of its past profit on this year's line has nothing left to buy next year's, and the loan it takes then will be at a worse rate for having no cushion.**
+> **TBTS should use the retained profits.** The decisive fact is **timing against a seasonal trade: toys are bought to be sold, and a toy shop that cannot stock a new line by the season has lost that line's whole year.** **Retained profit is the only one of the two that is available the same day, because it is already in the business** — there is no application, no credit assessment and no waiting for a decision. **A bank loan could require an application and approval before TBTS can access the funds, potentially delaying the purchase from new suppliers**, and **the interest has to be paid back on top, which adds an additional cost.** **However, TBTS can only use retained profits if there are any in the first place, and building them up takes time** — so if the shop has had a poor year, the option does not exist. **I would still choose the retained profits, but only if they cover the stock order without emptying the reserve — because a toy shop that spends every penny of its past profit on this year's line has nothing left to buy next year's, and the loan it takes then will be at a worse rate for having no cushion.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **Retained profits** — first sentence |
 | **2. AO2 + AO3** | Toys are **seasonal stock** → **available the same day beats waiting for a decision** |
 | **3. Counter-arguments** | Retained profit **may not exist / takes time to build**; the loan **adds interest as an extra cost** |
-| **4. Named condition** | ⭐ **Provided it covers the stock order without emptying the reserve** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it covers the stock order without emptying the reserve** |
 
 **Second acceptable chain:** the loan **can be repaid over a long period, so TBTS can budget for the interest** → that certainty is worth something → **but the shop still pays more in total than if it had funded the stock itself.**
 
@@ -4196,24 +4164,24 @@ This illustrates one successful response, not a required three-sentence conclusi
 > The only full-mark script on this question is transcribed in
 > `External_Exemplars/2025-06_P1R_CCT.md`, and it never mentions the £550.
 
-> **Note how the two papers put the SAME two options in opposite orders — and how the named condition differs completely between them, because the numbers do.** This is the clearest illustration in the bank that **the condition must come from the case.**
+> **Note how the two papers put the SAME two options in opposite orders — and how a case-linked evaluative consideration differs completely between them, because the numbers do.** This is one illustration in the bank that **case-specific evaluation can strengthen the reasoning.**
 
 **The AO2 anchors (HRMW):** the retained profit **could be used straight away to pay for the R&D**; selling assets the business **owns and no longer uses makes good business sense**.
 **The AO2 anchors (CCT):** selling unused equipment **can provide cash to buy the bicycles**; retained profit gives **immediate access to the funds**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **HRMW should use the retained profit.** The decisive fact is **what the money is for: research and development of new tennis racquets.** **R&D does not produce anything saleable while it is being done, so the business must be able to fund it without a deadline hanging over it — and retained profit is money that has no repayment date attached.** **Selling assets has the appearance of good sense, because the assets are no longer used, but the timing is not in HRMW's control: there is no guarantee it can sell them in time**, which means **it may have to find alternative funding anyway, having wasted the weeks the R&D needed.** **However, there may be insufficient retained profit, and HRMW would then have to take out a loan, which could be expensive** — so the option is only as good as the balance. **I would still choose the retained profit, on the condition that it covers the full R&D programme for one racquet rather than part of it — because a racquet that is half-developed earns nothing, while a racquet that is finished earns from the first sale.**
+> **HRMW should use the retained profit.** The decisive fact is **what the money is for: research and development of new tennis racquets.** **R&D does not produce anything saleable while it is being done, so the business must be able to fund it without a deadline hanging over it — and retained profit is money that has no repayment date attached.** **Selling assets has the appearance of good sense, because the assets are no longer used, but the timing is not in HRMW's control: there is no guarantee it can sell them in time**, which means **it may have to find alternative funding anyway, having wasted the weeks the R&D needed.** **However, there may be insufficient retained profit, and HRMW would then have to take out a loan, which could be expensive** — so the option is only as good as the balance. **I would still choose the retained profit, particularly if it covers the full R&D programme for one racquet rather than part of it — because a racquet that is half-developed earns nothing, while a racquet that is finished earns from the first sale.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **Retained profit** — first sentence |
 | **2. AO2 + AO3** | **R&D sells nothing while it is happening** → needs money **with no repayment date** |
 | **3. Counter-arguments** | Retained profit **may be insufficient → then a loan, which is expensive**; asset sales **may not complete in time** |
-| **4. Named condition** | ⭐ **Provided it covers the full R&D for one racquet, not part of it** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it covers the full R&D for one racquet, not part of it** |
 
 **The same pair on CCT's numbers — and a different condition.** For CCT the AO4 is quantified: **the electric bicycles cost £550 each, so CCT "may not have many surplus assets to sell off that will cover the cost for all of the bicycles, leaving them less competitive"**; and **"if CCT uses all of its retained profit to purchase the bicycles, it will not have any funding to cover any unforeseen circumstances or emergencies."** **So the CCT condition is the reserve, and the HRMW condition is completing the development.** **Same options, different condition, because £550 per bicycle is a number and R&D is a process.**
 
-> ⭐ **This is the entry to reread if you want to see how the named condition actually works.** Neither conclusion could be pasted onto the other question, and both are built from a fact in the case.
+> ⭐ **This is the entry to reread if you want to see how a case-linked evaluative consideration actually works.** Neither conclusion could be pasted onto the other question, and both are built from a fact in the case.
 
 ---
 
@@ -4224,14 +4192,14 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors:** crowdfunding is **a quick way to raise finance for new art sets**; the owner **could invest his own retained profits earned from previous years**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Tay Hui Jae should use the retained profits.** The decisive fact is **the size and identity of the business: Artify Studio is a small studio, and it is his.** **Crowdfunding works on reach — it raises money from people who have never been to the studio — and a small business in one area "may not have enough presence to gain the funding needed".** **Worse, a crowdfunding campaign is all-or-nothing on a target: if the target is not met, the business "may end up with nothing" at all** — so it spends the campaign's effort and ends with no art sets. **Retained profits, by contrast, are certain: they are already earned, already in the business, and involve no campaign to lose.** **However, there is no guarantee the new art sets will sell — customers may prefer their children to attend the studio sessions instead** — which means **the owner's own money is the money at risk.** **I would still choose the retained profits, on the condition that Tay Hui Jae tests the art sets in the studio's own sessions first — because the risk of the product not selling is the real risk here, and it can be reduced for the price of a few weeks of classes rather than the whole cost of the stock.**
+> **Tay Hui Jae should use the retained profits.** The decisive fact is **the size and identity of the business: Artify Studio is a small studio, and it is his.** **Crowdfunding works on reach — it raises money from people who have never been to the studio — and a small business in one area "may not have enough presence to gain the funding needed".** **Worse, a crowdfunding campaign is all-or-nothing on a target: if the target is not met, the business "may end up with nothing" at all** — so it spends the campaign's effort and ends with no art sets. **Retained profits, by contrast, are funds already earned and held by the business if they are available in sufficient amount; they avoid a campaign, though using them reduces cash reserves.** **However, there is no guarantee the new art sets will sell — customers may prefer their children to attend the studio sessions instead** — which means **the owner's own money is the money at risk.** **I would still choose the retained profits, on the condition that Tay Hui Jae tests the art sets in the studio's own sessions first — because the risk of the product not selling is the real risk here, and it can be reduced for the price of a few weeks of classes rather than the whole cost of the stock.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **Retained profits** — first sentence |
 | **2. AO2 + AO3** | A **small local studio has no crowdfunding reach**, and a missed target raises **nothing** |
 | **3. Counter-arguments** | Retained profit **puts the owner's own money at risk if the sets do not sell** |
-| **4. Named condition** | ⭐ **Provided the sets are tested in the studio's own sessions first** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the sets are tested in the studio's own sessions first** |
 
 **Second acceptable chain:** crowdfunding **markets the studio at the same time as raising the money** — backers learn its name → **but that audience is online and the studio's customers walk in from the neighbourhood**, so **the marketing reach is not the reach the business needs.**
 
@@ -4249,7 +4217,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 **When it is the wrong answer:** the need is **large and staged** *(factories, as in Saha)* · the need is **unglamorous and urgent** *(stock on the shelf today, as in Backyard Shoez)* · or the business **has no reach to draw on** *(a small local studio, as in Artify).*
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(template, for any crowdfunding pair)*
-> **The business should [choose / not choose] crowdfunding, and the decisive fact is [the purpose and the audience the case gives you].** **Crowdfunding's strength is that it converts an attractive idea into capital from people who want it to exist — and those people then buy the product**, so the money and the first customers arrive together. **Against that, "there is no guarantee that sufficient funds would be raised", and a campaign that misses its target raises nothing — so the business has spent the effort and still has no finance.** **However, [the other option's counter-argument from the scheme].** **I would [choice], provided [the named condition drawn from the case's own figure].**
+> **The business should [choose / not choose] crowdfunding, and the decisive fact is [the purpose and the audience the case gives you].** **Crowdfunding's strength is that it converts an attractive idea into capital from people who want it to exist — and those people then buy the product**, so the money and the first customers arrive together. **Against that, "there is no guarantee that sufficient funds would be raised", and a campaign that misses its target raises nothing — so the business has spent the effort and still has no finance.** **However, [the other option's counter-argument from the scheme].** **I would [choice], provided [a case-linked evaluative consideration drawn from the case's own figure].**
 
 > ⭐ **This is the only entry in the bank that is a template rather than a worked answer, and it is here because crowdfunding is the source of finance most likely to appear in a pair this bank has not yet seen.** **Use it with the case facts in front of you, never on its own.**
 
@@ -4295,7 +4263,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Venture capital** — first sentence |
 | **2. AO2 + AO3** | **International expansion into unfamiliar markets** → the investor brings **advice and market experience**, not just money |
 | **3. Counter-arguments** | Crowdfunding = **no repayment and backers become customers**, but **may raise insufficient funds for international expansion**; VC = **gives up a percentage and independence** |
-| **4. Named condition** | ⭐ **Provided the brothers keep a controlling share** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the brothers keep a controlling share** |
 
 **Second acceptable chain:** crowdfunding's backers **found the brand through TikTok, so they are already the audience** → they buy as well as fund → **but "small investments from many people" scale to a UK roll-out, not to a US and Canada launch.**
 
@@ -4319,7 +4287,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Venture capital to open its own stores** — first sentence |
 | **2. AO2 + AO3** | The product **is** the Icelandic identity → **owning the shops protects it**; and the investor **knows Icelandic customers** |
 | **3. Counter-arguments** | VC = **takes control and interferes with objectives**; franchising = **AWG relies on the franchisee not damaging the brand** |
-| **4. Named condition** | ⭐ **Provided AWG keeps decisions on product and brand** |
+| **4. Possible evaluative consideration** | ⭐ **Provided AWG keeps decisions on product and brand** |
 
 **Second acceptable chain:** franchising **turns AWG's fee income into revenue that arrives without AWG funding a single shop** → the growth is fast and the capital risk is the franchisee's → **but every new franchisee is a new person whose mistakes carry AWG's name.**
 
@@ -4401,7 +4369,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The free charity-shop posters** — first sentence |
 | **2. AO2 + AO3** | Posters are **free, using shops Loaf already supports**; sampling **costs a wage and the food** |
 | **3. Counter-arguments** | Posters → **may not reach Loaf's kind of customer**; sampling → **staff taken off selling, food given away** |
-| **4. Named condition** | ⭐ **Provided the charity shops' own customers already buy bread and cakes** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the charity shops' own customers already buy bread and cakes** |
 
 **Second acceptable chain:** sampling **lets a customer taste the product, and taste is what a bakery sells** → it converts far better than a poster among people who are interested → **but only if the person handing out samples is not needed at the counter, which in a small bakery they usually are.**
 
@@ -4423,7 +4391,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The cookery courses** — first sentence |
 | **2. AO2 + AO3** | Uses **the kitchen and space Loaf already has**, with customers paying in advance |
 | **3. Counter-arguments** | Pop-ups → **costs may exceed revenue → negative net cash flow**; courses → **half-empty classes cost the same as full ones** |
-| **4. Named condition** | ⭐ **Provided bookings are taken in advance so a class only runs when paid for** |
+| **4. Possible evaluative consideration** | ⭐ **Provided bookings are taken in advance so a class only runs when paid for** |
 
 **Second acceptable chain:** pop-ups **take the products to places where nobody knows the bakery at all** → that reach is the only way to grow beyond the local area → **but a business that is not known cannot rely on a crowd turning up to buy.** The scheme's own phrasing is the giveaway: *"as Loaf may not be known"*.
 
@@ -4443,7 +4411,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The special offers** — first sentence |
 | **2. AO2 + AO3** | Seats are **chosen on price against other airlines on the same route** → an offer acts at the point of booking |
 | **3. Counter-arguments** | Social media → **no control over what users say**; offers → **service, not price, is what builds the airline's standing** |
-| **4. Named condition** | ⭐ **Provided they fill seats that would otherwise fly empty** |
+| **4. Possible evaluative consideration** | ⭐ **Provided they fill seats that would otherwise fly empty** |
 
 **Second acceptable chain:** social media **reaches passengers Emirates could never have afforded to advertise to individually** → and an airline's reputation travels far on it → **but that is exactly the problem: reputation travels equally far when it is damaged.**
 
@@ -4465,7 +4433,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The e-newsletters** — first sentence |
 | **2. AO2 + AO3** | A wedding list is **a planning decision, not a shopping one** → the newsletter reaches the customer **before** they buy |
 | **3. Counter-arguments** | Targeting → **misses customers who have not bought yet**; newsletter → **no guarantee it is read or opened** |
-| **4. Named condition** | ⭐ **Provided the content makes the wedding service the reason to open it** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the content makes the wedding service the reason to open it** |
 
 **Second acceptable chain:** targeted advertising **wastes nothing, because every recipient has already bought furniture and is therefore a proven customer** → the click-through rate is higher → **but NEXT's growth depends on customers who have NOT bought yet, and targeting deliberately excludes them.**
 
@@ -4489,7 +4457,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The vegan range** — first sentence |
 | **2. AO2 + AO3** | A discount **brings back the same customers, cheaper**; a new range **adds customers permanently** |
 | **3. Counter-arguments** | New range → **must be researched, or it will not sell**; discount → **small café may not cope with the demand it creates** |
-| **4. Named condition** | ⭐ **Provided the research comes before the menu** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the research comes before the menu** |
 
 **Second acceptable chain:** the discount **fills the café at the hours when it is empty, and an empty table earns nothing** → the margin lost is only lost on sales that were not going to happen → **but a 7.5% discount is small enough that customers may not notice it at all, in which case it costs margin and changes nothing.**
 
@@ -4511,7 +4479,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The event** — first sentence |
 | **2. AO2 + AO3** | Flowers are **visual and bought on sight** → an event is **the closest thing to sampling the product** |
 | **3. Counter-arguments** | Event → **expensive, no guarantee profit rises**; leaflets → **take the serving staff off the shop floor** |
-| **4. Named condition** | ⭐ **Provided it is built from stock the shop already holds** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is built from stock the shop already holds** |
 
 **Second acceptable chain:** leaflets **reach tourists who are walking past anyway, so the audience is already in the right place** → distribution is targeted by geography alone → **but a leaflet is thrown away, whereas a display is remembered and photographed — and for a Paris flower shop, being photographed is free promotion.**
 
@@ -4533,7 +4501,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The social media advertising** — first sentence |
 | **2. AO2 + AO3** | Furniture is **visual** → the range advertises itself; a blanket coupon **discounts sales that would have happened** |
 | **3. Counter-arguments** | Social media → **not everyone uses it**; coupons → **no guarantee they are used; distribution costs incurred first** |
-| **4. Named condition** | ⭐ **Provided the posts lead to a measurable route to purchase** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the posts lead to a measurable route to purchase** |
 
 **Second acceptable chain:** a coupon **brings customers into the store, where they buy more than the discounted item** → the bedroom furniture is the bait and the basket is the profit → **but furniture is a considered purchase, and a 10% saving rarely decides one that was not going to happen.**
 
@@ -4555,7 +4523,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Local sponsorship** — first sentence |
 | **2. AO2 + AO3** | A studio **sells to people who can come to it** → a wider reputation **cannot be converted** |
 | **3. Counter-arguments** | Sponsorship → **may cost more than the business can afford**; exhibition → **takes time and may be poorly attended** |
-| **4. Named condition** | ⭐ **Provided the cost is capped at a show small enough for the studio's name to be prominent** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the cost is capped at a show small enough for the studio's name to be prominent** |
 
 **Second acceptable chain:** the exhibition **connects Artify with other artists, which builds its standing in the art world** → that standing attracts students and teachers alike → **but standing is earned over years, while rent is paid monthly, so the local audience converts faster.**
 
@@ -4626,7 +4594,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The half-priced drink** — first sentence |
 | **2. AO2 + AO3** | Discounting meals **teaches a low price → reads as "cheap quality" → then a rise reads as a price rise**; the drink offer **protects the meal's real price** |
 | **3. Counter-arguments** | Low meal price → **low-quality association**; drink offer → **customers may not return once it ends** |
-| **4. Named condition** | ⭐ **Provided the first visit earns the second** — because this business runs on repeat custom |
+| **4. Possible evaluative consideration** | ⭐ **Provided the first visit earns the second** — because this business runs on repeat custom |
 
 **Second acceptable chain:** a low opening price **fills the restaurant and builds a reputation through word of mouth** → a full restaurant is its own advertisement → **but the customers who arrive are price-sensitive ones, and they are the hardest group to raise prices on.**
 
@@ -4652,7 +4620,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Cost plus** — first sentence |
 | **2. AO2 + AO3** | A vehicle is **high-cost per unit** → cost plus **protects the margin on every car** → funds components and wages **before any sale** |
 | **3. Counter-arguments** | Promotional pricing → **lower profit per vehicle**; cost plus → **may sell nothing if a rival is cheaper** |
-| **4. Named condition** | ⭐ **Provided the price is checked against the closest competitor before launch** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the price is checked against the closest competitor before launch** |
 
 **Second acceptable chain (Huawei or TUI):** a **cheaper price switches customers from the brand they currently own** → the switch is the hardest thing to buy in a mature market → **but "promotional pricing may generate sales for the length of the promotion, and once the price reverts to normal it may reduce sales"** — so the switch has to be made permanent by the product, not the price.
 
@@ -4669,14 +4637,14 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors:** an introductory price **could entice shoppers in the farm shop to try the popcorn**; customers **might recognise the farm's name so will buy the popcorn when comparing to its competition**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **NOF should use the introductory price.** The decisive fact is **what the popcorn is: a product the farm has never sold before, sitting on a shelf beside brands that shoppers already know.** **NOF's name is recognised for the FARM — for its honey and its rooms — and "as they do not have an established brand of popcorn, customers may choose to buy a more popular branded popcorn they know".** **Recognition of the business does not transfer automatically to a new product category**, which is the assumption option 2 makes. **An introductory price gives the shopper a reason to take the risk on the unfamiliar bag**, and **trying it is the only thing that can convert the farm's reputation into popcorn sales.** **However, "the profit on each bag of popcorn will be low even though sales may increase, so in the short term profits might suffer"** — and that is a real cost, paid before any benefit arrives. **I would still choose the introductory price, on the condition that it is time-limited to the season the popcorn launches in — because a permanent low price on popcorn would simply become the price of popcorn, while a temporary one ends once the farm's reputation has done the work.**
+> **NOF should use the introductory price.** The decisive fact is **what the popcorn is: a product the farm has never sold before, sitting on a shelf beside brands that shoppers already know.** **NOF's name is recognised for the FARM — for its honey and its rooms — and "as they do not have an established brand of popcorn, customers may choose to buy a more popular branded popcorn they know".** **Recognition of the business does not transfer automatically to a new product category**, which is the assumption option 2 makes. **An introductory price gives the shopper a reason to take the risk on the unfamiliar bag**, and **trying it could help convert the farm's reputation into popcorn sales.** **However, "the profit on each bag of popcorn will be low even though sales may increase, so in the short term profits might suffer"** — and that is a real cost, paid before any benefit arrives. **I would still choose the introductory price, on the condition that it is time-limited to the season the popcorn launches in — because a permanent low price on popcorn would simply become the price of popcorn, while a temporary one ends once the farm's reputation has done the work.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **The introductory price** — first sentence |
 | **2. AO2 + AO3** | The farm's **name is not a popcorn brand** → recognition **does not transfer to a new category** → a reason to try is needed |
 | **3. Counter-arguments** | Introductory price → **low profit per bag, short-term profits suffer**; brand route → **customers may choose a known brand instead** |
-| **4. Named condition** | ⭐ **Provided it is time-limited to the launch season** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is time-limited to the launch season** |
 
 **Second acceptable chain:** an introductory price **brings shoppers into the farm shop where the honey and rooms are also sold** → **the loss on the popcorn is recovered on the rest of the basket** → which is why a farm shop can afford a loss-leader a standalone popcorn brand could not.
 
@@ -4702,7 +4670,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Price skimming** — first sentence |
 | **2. AO2 + AO3** | **Launch-window willingness to pay exists only briefly** → skim while it does |
 | **3. Counter-arguments** | Skimming → **may limit customers because the price is too high**; cost plus → **does not account for what the customer will pay** |
-| **4. Named condition** | ⭐ **Provided the price is cut once the launch window closes** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the price is cut once the launch window closes** |
 
 **The Saha answer runs the other way — and the reason is the product.** Saha's robots are **a metal-and-assembly manufactured good sold into homes, against named rivals (Zoox, Vention)**, and the scheme warns that **"if the price is considered too high for its target audience it may lose sales to competitors"**. **A household robot is not a collectible: it competes on price with alternatives, so cost plus — which "ensures all costs such as metal and assembly are considered" — is the safer route**, with the caveat that **it may "limit revenue/profit" because it ignores willingness to pay.**
 
@@ -4726,7 +4694,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Cost plus** — first sentence |
 | **2. AO2 + AO3** | **Sustainable materials cost more than rivals'** → matching the competition **may price below cost** |
 | **3. Counter-arguments** | Cost plus → **ignores what the customer will pay, losing potential revenue**; competition pricing → **may not be feasible at AWG's cost base** |
-| **4. Named condition** | ⭐ **Provided the sustainability is made the reason to pay more** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the sustainability is made the reason to pay more** |
 
 **Second acceptable chain:** competition pricing **removes price as a reason for a shopper to choose a rival** → AWG competes on the product instead → **but only if the rival's price is above AWG's cost, which is exactly what the sustainable materials prevent.**
 
@@ -4750,7 +4718,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Price matching** — first sentence |
 | **2. AO2 + AO3** | Hotels are **compared on a screen** → matching **removes price as the reason to go elsewhere** and applies to **all** bookings |
 | **3. Counter-arguments** | Matching → **guests may prefer another hotel's facilities anyway**; discount → **bookings up but profit may not be** |
-| **4. Named condition** | ⭐ **Provided it applies to like-for-like rooms in the same location** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it applies to like-for-like rooms in the same location** |
 
 **Second acceptable chain:** the 3-night discount **lifts occupancy midweek, when hotels are emptiest** → an empty room earns nothing, so **any price is better than none** → **whereas matching every night gives away margin on nights that would have sold at full price anyway.**
 
@@ -4772,7 +4740,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The free headphones** — first sentence |
 | **2. AO2 + AO3** | **Young buyers do not watch TV ads** → mass reach is wasted; headphones **act at the point of decision** |
 | **3. Counter-arguments** | TV → **not cost-effective for this audience**; giveaway → **students may not value it or may buy cheaper anyway** |
-| **4. Named condition** | ⭐ **Provided it is an accessory this buyer actually wants** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is an accessory this buyer actually wants** |
 
 **Second acceptable chain:** the TV advert **builds the brand beyond the people buying this year** → brand advertising works over years, while a giveaway only works in the week it runs → **but a laptop is a considered purchase bought on specification and price, so brand awareness alone does not close it.**
 
@@ -4796,7 +4764,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The free games** — first sentence |
 | **2. AO2 + AO3** | **Young buyers choose on capability** → games make the phone worth more **in the product** |
 | **3. Counter-arguments** | Celebrity → **fee paid, association temporary**; games → **cost on every unit, narrowing margin** |
-| **4. Named condition** | ⭐ **Provided it is attached to the models this buyer can afford** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is attached to the models this buyer can afford** |
 
 **Second acceptable chain:** a celebrity endorsement **generates press coverage and social media attention that is not paid for directly** → the reach goes far beyond the advert → **but it is the celebrity the audience remembers, not the specification, which does not help a phone competing on features.**
 
@@ -4820,7 +4788,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The special offers** — first sentence |
 | **2. AO2 + AO3** | Offers act **at the shelf, where the decision is made** |
 | **3. Counter-arguments** | Sponsorship → **no guarantee people will buy**; offers → **cost that may not be recovered** |
-| **4. Named condition** | ⭐ **Provided they are timed to when the product is genuinely being contended for** |
+| **4. Possible evaluative consideration** | ⭐ **Provided they are timed to when the product is genuinely being contended for** |
 
 **Second acceptable chain (PPS):** sponsoring a **dog show** puts the products in front of **owners who already buy dog food and collars** — a targeted audience at a moment they are thinking about their dog → **but "it does cost to sponsor an event so PPS would need to incur cost upfront before they gain an increase in revenue", which a small business may not be able to carry.**
 
@@ -4843,18 +4811,18 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors (Aude Rose):** questionnaires give **feedback straight away from customers buying flowers in the shop**; the internet lets it **view a large selection of flower-based websites**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on Aude Rose; the structure transfers, the case facts do not)*
-> **Aude Rose should use the questionnaires.** The decisive fact is **what the business is trying to find out and from whom: whether customers will buy a new range, which only its own customers can answer.** **Its customers are standing in the shop, buying flowers** — the scheme's own point is that this gives **"feedback straight away from customers when buying flowers"**, so the research and the customers are in the same place at the same time, at no travel cost. **The internet reaches a vast amount of flower information, but none of it is about Aude Rose's customers.** **The scheme's objection is decisive here: "whilst this research can give information about up-and-coming trends, it gives no specific information on the demand for the new trends by its existing customers, so could be a waste of time."** **Trends that exist in general may not be wanted by the people who actually walk into the shop.** **However, the questionnaire has its own weakness and it is a serious one: "customers may not know about the new trends, so cannot give any constructive feedback on the purpose of the research being conducted."** **Asking someone about something they have never considered produces an opinion, not evidence.** **I would still choose the questionnaires, on the condition that they are shown the new range rather than asked to imagine it — because the method only works if the customer has something real to react to.**
+> **Aude Rose should use the questionnaires.** The decisive fact is **what the business is trying to find out and from whom: whether customers will buy a new range, which only its own customers can answer.** **Its customers are standing in the shop, buying flowers** — the scheme's own point is that this gives **"feedback straight away from customers when buying flowers"**, so the research and the customers are in the same place at the same time, at no travel cost. **Internet research may provide broad information about flowers and trends, but it may be less specific to Aude Rose's own customers than asking them directly.** **The scheme's objection is decisive here: "whilst this research can give information about up-and-coming trends, it gives no specific information on the demand for the new trends by its existing customers, so could be a waste of time."** **Trends that exist in general may not be wanted by the people who actually walk into the shop.** **However, the questionnaire has its own weakness and it is a serious one: "customers may not know about the new trends, so cannot give any constructive feedback on the purpose of the research being conducted."** **Asking someone about something they have never considered produces an opinion, not evidence.** **I would still choose the questionnaires, on the condition that they are shown the new range rather than asked to imagine it — because the method only works if the customer has something real to react to.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **The questionnaires** — first sentence |
 | **2. AO2 + AO3** | The customers are **in the shop, buying flowers** → **immediate, relevant feedback** on **whether they will buy the new range** |
 | **3. Counter-arguments** | Internet → **gives trends but nothing about this shop's customers → may waste time**; questionnaires → **customers may know nothing about the trends** |
-| **4. Named condition** | ⭐ **Provided customers are shown the range rather than asked to imagine it** |
+| **4. Possible evaluative consideration** | ⭐ **Provided customers are shown the range rather than asked to imagine it** |
 
-**The same decision, five different named conditions — and this is the entry to study if you want to see what a named condition really is:**
+**The same decision, five different case-specific considerations — useful examples, not required answer ingredients:**
 
-| Business | What the research is FOR | So the condition is |
+| Business | What the research is FOR | So a relevant consideration may be |
 |---|---|---|
 | **Lavender** | expanding into **other parts of Malaysia** | *provided the questions are pitched at customers in the area being considered, not the ones already served* |
 | **Tata** | designing and **pricing the next cars** | *provided the sample covers the buyers of the segment the new car is aimed at* |
@@ -4862,11 +4830,11 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **TUI** | **improving a day trip** | *provided the form is handed out on the trip itself, while the experience is fresh* |
 | **Aude Rose** | a **new range** | *provided the customers are shown the range* |
 
-> ⭐ **Five blocks, one decision, five different conditions — and not one of them could be pasted onto another.** **That is the proof that the named condition is not a phrase to memorise, it is a fact to find.** **Ask: what is this research FOR, and what would have to be true for it to actually work?**
+> ⭐ **Five blocks, one decision, five different evaluative considerations.** These examples show how case-linked evaluation can vary; they do not establish a required condition formula. **Ask: what is this research FOR, and what would have to be true for it to actually work?**
 
 **Second acceptable chain for any of the five:** secondary research **costs almost nothing and can be done today** → for a business with **no budget for research**, something is better than nothing → **but if the trend it reveals is not what this business's customers want, the whole exercise is wasted — and secondary research cannot tell you that.**
 
-**The scheme's own NOF chains (May–June 2021 P1, 3(e))** — *the source PDF is character-fragmented, and the wording below is repaired by spacing only, per rule 124:* *"Questionnaires will let NOF approach potential customers face to face to see what will attract them to visit the farm"* → *"NOF can ask specific questions which will give it detailed feedback that it can use to help attract more customers to its farm"* → AO4 *"NOF may not get all of the information it requires or people may not want to fill in the questionnaires whilst they are shopping so it might not be very helpful /limited feedback"*; against the internet: *"NOF can view a large selection of websites to look at other farms and gather information"* → *"It will be less time consuming /costly as it can see what other farms offer already and compare it to its own to see if it can improve based on this information"* → AO4 **"NOF may end up spending a lot of time looking at feedback or outdated information which will not be very useful for it and it is not gaining specific feedback on its own farm"**. **Read the two AO4s together and the decision is the named condition: the questionnaire fails when the shopper will not stop to fill it in, and the internet fails when the feedback is not about the farm.** The scheme's own AO3 for the internet is the one candidates miss — **"less time consuming /costly"** is a *cost* argument, not an information one.
+**The scheme's own NOF chains (May–June 2021 P1, 3(e))** — *the source PDF is character-fragmented, and the wording below is repaired by spacing only, per rule 124:* *"Questionnaires will let NOF approach potential customers face to face to see what will attract them to visit the farm"* → *"NOF can ask specific questions which will give it detailed feedback that it can use to help attract more customers to its farm"* → AO4 *"NOF may not get all of the information it requires or people may not want to fill in the questionnaires whilst they are shopping so it might not be very helpful /limited feedback"*; against the internet: *"NOF can view a large selection of websites to look at other farms and gather information"* → *"It will be less time consuming /costly as it can see what other farms offer already and compare it to its own to see if it can improve based on this information"* → AO4 **"NOF may end up spending a lot of time looking at feedback or outdated information which will not be very useful for it and it is not gaining specific feedback on its own farm"**. **Read the two AO4s together and the decision is a case-linked evaluative consideration: the questionnaire fails when the shopper will not stop to fill it in, and the internet fails when the feedback is not about the farm.** The scheme's own AO3 for the internet is the one candidates miss — **"less time consuming /costly"** is a *cost* argument, not an information one.
 
 **The scheme's own TUI chains (May–June 2024 P2 3(e)):** internet — *"TUI could use the internet to view a wide variety of customers comments made about their experiences and service received whilst on holiday in Greece"* → *"By using the internet it does reduce the time spent researching and is less costly than other methods available"* → AO4 **"TUI could spend a great deal of time looking at information which is not relevant to them or is out of date, or even places they do not offer holidays to"**; questionnaire — *"Customers can take their time completing the form giving details of the experiences/services they received whilst taking part in a day trip around Rome"* → *"Thus giving TUI detailed information of their trip and possible ways to improve it"* → AO4 **"not all customers may want to complete the questionnaires so there may be less data to use"**. **The internet's AO4 names three separate ways it wastes the researcher's time — irrelevant, out of date, and destinations TUI does not sell — and the questionnaire's names one way it starves the sample. Say which risk you are accepting.**
 
@@ -4883,18 +4851,18 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors (TBTS):** questionnaires **get feedback directly from the customers who buy the toys on behalf of children**; focus groups **let TBTS observe children playing with the new range**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]` *(written on TBTS)*
-> **TBTS should hold the focus groups.** The decisive fact is **who the real user of the product is and who does the buying.** **A toy is bought by a parent and used by a child — and a parent cannot accurately describe what a child will pick up, play with and want again.** **A focus group lets TBTS "observe children playing with the new range of toys", which produces the one thing a questionnaire never can: evidence of what the child actually does.** **The questionnaire only collects what the parent says.** **However, "the responses from the children may not be valid as they are in a new setting and may find other things more interesting"** — children in a strange room behave differently from children at home, so **observed behaviour is not automatically real behaviour.** **And the questionnaire's weakness compounds the problem: "as TBTS have shops in busy locations like airports, people may not have the time to fill in the questionnaires or may rush it, therefore not giving them accurate feedback."** **I would still choose the focus groups, on the condition that the toy is taken home and observed there for a week — because a focus group that tells you what a child does in an unfamiliar room has replaced one uncertain answer with another.**
+> **TBTS should hold the focus groups.** The decisive fact is **who the real user of the product is and who does the buying.** **A toy may be bought by a parent and used by a child, so asking only the purchaser may not reveal how the child responds.** A focus group lets TBTS "observe children playing with the new range of toys", which could provide evidence about how children use the product. A questionnaire can still provide parents' views and feedback from customers; the methods answer related but not identical questions. **However, "the responses from the children may not be valid as they are in a new setting and may find other things more interesting"** — children in a strange room behave differently from children at home, so **observed behaviour is not automatically real behaviour.** **And the questionnaire's weakness compounds the problem: "as TBTS have shops in busy locations like airports, people may not have the time to fill in the questionnaires or may rush it, therefore not giving them accurate feedback."** **I would still choose the focus groups, on the condition that the toy is taken home and observed there for a week — because a focus group that tells you what a child does in an unfamiliar room has replaced one uncertain answer with another.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **The focus groups** — first sentence |
-| **2. AO2 + AO3** | **Parents buy, children use** → observing children **produces evidence a parent cannot describe** |
+| **2. AO2 + AO3** | The purchaser and user may differ; observing children could add evidence about how they respond to the toy |
 | **3. Counter-arguments** | Children **behave differently in a new setting**; questionnaires at airport shops **are rushed and inaccurate** |
-| **4. Named condition** | ⭐ **Provided the toy is taken home and observed there** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the toy is taken home and observed there** |
 
-**On Emirates the balance tips the other way, and the reason is the population.** **Focus groups can only include "a certain number of passengers and therefore might not give a true cross section of all classes of passengers"** — and an airline needs to know about **first class and economy, long-haul and short-haul**. **A small group cannot represent that spread.** So for Emirates: **questionnaires, on the condition that they are handed out to a genuinely mixed set of passengers across cabin classes** — with the scheme's warning that **"often they are not filled in correctly and do not give the information about flights needed"**, which is exactly what a badly designed form produces.
+**On Emirates the balance tips the other way, and the reason is the population.** **Focus groups can only include "a certain number of passengers and therefore might not give a true cross section of all classes of passengers"** — and an airline needs to know about **first class and economy, long-haul and short-haul**. A small group may not represent that spread. So for Emirates: **questionnaires, on the condition that they are handed out to a genuinely mixed set of passengers across cabin classes** — with the scheme's warning that **"often they are not filled in correctly and do not give the information about flights needed"**, which is exactly what a badly designed form produces.
 
-> ⭐ **The deciding question for this pair: does the business need DEPTH on a few people, or a CROSS-SECTION of many?** **A product decision about how something will be used → depth. A service decision about a whole customer base → cross-section.** **TBTS is testing a toy; Emirates is testing an airline.**
+> ⭐ **One potentially useful comparison for this pair is depth versus breadth of feedback.** Which method is preferable depends on the information the business needs and how representative or reliable the responses are.
 
 ---
 
@@ -4907,14 +4875,14 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors:** questionnaires **allow people to provide quantitative and qualitative feedback on the new toppings**; free samples **may encourage more people to taste the food**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Spud Bros should offer the free samples.** The decisive fact is **what is being researched: taste — and taste cannot be reported, it has to be experienced.** **A customer who has not eaten the new topping is guessing, and a questionnaire then records that guess as data.** **Free samples "encourage more people to taste the food", so the opinion collected is a reaction to the actual product rather than to a description of it.** **The questionnaire does one thing the samples cannot: it collects "quantitative and qualitative feedback", meaning the answers can be counted and the reasons behind them captured — which matters if the brothers need to compare three new toppings against each other.** **However, "many people do not have the time to fill in a questionnaire and the response rate may be low for Spud Bros"** — a questionnaire with too few responses decides nothing. **However, giving free samples "will be costly" and will "take time to record participants' responses", which for a small family business is money and hours it cannot easily spare.** **I would still choose the samples, on the condition that the customers are asked their view immediately after tasting, before they walk away — because the taste is the research, and the opinion only has value while it is fresh.**
+> **Spud Bros should offer the free samples.** The decisive fact is **what is being researched: taste — and taste cannot be reported, it has to be experienced.** **A customer who has not eaten the new topping may find it harder to judge its taste in a questionnaire, so stated preferences may not match reactions after sampling.** **Free samples "encourage more people to taste the food", so the opinion collected is a reaction to the actual product rather than to a description of it.** **The questionnaire does one thing the samples cannot: it collects "quantitative and qualitative feedback", meaning the answers can be counted and the reasons behind them captured — which matters if the brothers need to compare three new toppings against each other.** **However, "many people do not have the time to fill in a questionnaire and the response rate may be low for Spud Bros"** — a questionnaire with too few responses decides nothing. **However, giving free samples "will be costly" and will "take time to record participants' responses", which for a small family business is money and hours it cannot easily spare.** **I would still choose the samples, on the condition that the customers are asked their view immediately after tasting, before they walk away — because the taste is the research, and the opinion only has value while it is fresh.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **The free samples** — first sentence |
 | **2. AO2 + AO3** | **Taste must be experienced, not described** → samples produce **real reactions, not guesses** |
 | **3. Counter-arguments** | Questionnaires → **low response rate**; samples → **costly for a small business, and recording responses takes time** |
-| **4. Named condition** | ⭐ **Provided the opinion is captured immediately after tasting** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the opinion is captured immediately after tasting** |
 
 **Second acceptable chain:** a free sample **is also a promotion, not just research** → the customer tastes, likes, and buys → **so the cost of the research is partly recovered in sales on the day**, which no questionnaire can do.
 
@@ -4938,7 +4906,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Customer satisfaction** — first sentence |
 | **2. AO2 + AO3** | **The experience IS the product** → satisfaction measures what was bought, **and predicts future bookings** |
 | **3. Counter-arguments** | Satisfaction → **hard to measure; relies on reviews and honesty**; profit → **distorted by short-term market fluctuations** |
-| **4. Named condition** | ⭐ **Provided feedback comes from every tour, not only from reviews** |
+| **4. Possible evaluative consideration** | ⭐ **Provided feedback comes from every tour, not only from reviews** |
 
 **Second acceptable chain:** profit **is the measure the owner can act on directly**, because it is a number in the accounts rather than an opinion → **but a tour business that is profitable this season and disliked by its customers will not be profitable next season.**
 
@@ -4997,13 +4965,13 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The bonus** — first sentence |
 | **2. AO2 + AO3** | Factory work is **measured in units**, and output is the problem → **the bonus rewards the exact thing needed** |
 | **3. Counter-arguments** | Bonus → **requires more effort, may not be wanted**; enrichment → **not everyone wants non-financial rewards** |
-| **4. Named condition** | ⭐ **Provided it is paid on output the individual controls, not the whole line's** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is paid on output the individual controls, not the whole line's** |
 
 **Backyard Shoez runs the other way — and the reason is that the bonus is a COMPETITION.** The scheme says it is for *"the person who has achieved the highest shoe sales"*, and warns that **"if an employee cannot continually achieve the highest sales then they may become demotivated and this could have the opposite effect."** **A prize that only one person can win demotivates everyone else by design.** **So for Backyard Shoez: job enrichment, provided the extra responsibility is offered to everyone rather than to a chosen few** — because the scheme's objection to enrichment is *"some employees may resent not being chosen."* **Both options in this pair fail in the same way — by excluding people — and the fix is the same.**
 
 **Second acceptable chain (Huawei or Starbucks):** non-financial rewards **cost the business less and stay with the employee** — the skills cannot be taken to a rival the way a bonus can → **but they only work where the workforce is not primarily there for the money, which the case has to tell you.**
 
-> ⭐ **The transferable test: does the reward EXCLUDE anyone?** **A prize for one winner demotivates the rest; enrichment offered to a few creates resentment among the others.** **The named condition for this entire pair is almost always about who gets it.**
+> ⭐ **The transferable test: does the reward EXCLUDE anyone?** **A prize for one winner demotivates the rest; enrichment offered to a few creates resentment among the others.** **A useful evaluative question for this pair is who receives the incentive; it is not a required conclusion formula.**
 
 ---
 
@@ -5032,9 +5000,9 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Job enrichment** — first sentence |
 | **2. AO2 + AO3** | **Windows and showrooms sell the products** → use the skill the business depends on |
 | **3. Counter-arguments** | Enrichment → **extra training cost, resented by those not chosen**; rotation → **trained staff may leave for other jobs** |
-| **4. Named condition** | ⭐ **Provided the responsibility is genuinely theirs, not borrowed from a manager** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the responsibility is genuinely theirs, not borrowed from a manager** |
 
-**On Yellow the answer is rotation, for a specific reason: the shop and the stock room are two jobs that must both be covered, and the scheme notes rotation "helps the managers if staff are able to move from one job to another at busy times."** **The benefit there is operational flexibility, not motivation.** **On M&M the answer is likely rotation too — but the bonus is the option it is paired against, and the scheme warns employees "may not be interested in job rotation as it may not increase their wages", which makes the named condition about pay: rotation only works if it is not simply more work for the same money.**
+**On Yellow the answer is rotation, for a specific reason: the shop and the stock room are two jobs that must both be covered, and the scheme notes rotation "helps the managers if staff are able to move from one job to another at busy times."** **The benefit there is operational flexibility, not motivation.** **On M&M the answer is likely rotation too — but the bonus is the option it is paired against, and the scheme warns employees "may not be interested in job rotation as it may not increase their wages", which makes the evaluation about pay: rotation only works if it is not simply more work for the same money.**
 
 > ⭐ **The decisive question for this family: is the business short of FLEXIBILITY or of EXPERTISE?** **Flexibility — cover for busy times and absence → rotation.** **Expertise — a skill the business's product depends on → enrichment.** **Motivation is a by-product either way, not the reason.**
 
@@ -5056,7 +5024,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The extra holiday** — first sentence |
 | **2. AO2 + AO3** | The bonus is **a contest most managers cannot win** → **only a few are motivated**; holiday is **available to all and suits the long hours of the job** |
 | **3. Counter-arguments** | Holiday → **managers may already have enough**; bonus → **may be seen as unachievable and not worth staying for** |
-| **4. Named condition** | ⭐ **Provided it can be taken in a block, not as single days** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it can be taken in a block, not as single days** |
 
 **Second acceptable chain:** the bonus **directly links pay to the profit the manager produces, so it costs Nando's nothing unless the restaurant has already earned more** → it is self-funding in a way holiday never is → **but a prize for the highest profit also creates competition between managers, which can make them unwilling to share staff or best practice.**
 
@@ -5080,7 +5048,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The commission** — first sentence |
 | **2. AO2 + AO3** | The problem is **too few pupils, not too few hours** → pay for the result the business lacks |
 | **3. Counter-arguments** | Commission → **one-off; the teacher's ongoing rate is unchanged**; hourly rate → **costs more with no more pupils, and may not be affordable** |
-| **4. Named condition** | ⭐ **Provided it is paid on pupils who stay, not on sign-ups** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is paid on pupils who stay, not on sign-ups** |
 
 **Second acceptable chain:** a higher hourly rate **rewards the teachers who are already good and therefore keeps them**, which matters in a school whose product is the quality of its teaching → **but it rewards loyalty rather than growth, and the scheme is clear that the enrolment problem is the one that would cost TADS its teachers.**
 
@@ -5104,7 +5072,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Reduce the commission** — first sentence |
 | **2. AO2 + AO3** | **The guides ARE the tours** → part-time risks the product and the staff | 
 | **3. Counter-arguments** | Part-time guides → **less committed, likely to leave**; commission cut → **sales team demotivated → revenue falls** |
-| **4. Named condition** | ⭐ **Provided the cut is a stated amount, not a target the team cannot influence** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the cut is a stated amount, not a target the team cannot influence** |
 
 **Second acceptable chain:** wage cost is **fixed and paid whether or not a single tour runs** → in a season with bad weather, part-time guides are the difference between a loss and a surplus → **but saving a fixed cost by removing the people who deliver the service is a saving taken from the product itself.**
 
@@ -5126,7 +5094,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Part-time staff** — first sentence |
 | **2. AO2 + AO3** | Retail demand **peaks and troughs** → hours match the customers |
 | **3. Counter-arguments** | Full-time → **paid regardless of demand**; part-time → **higher recruitment costs, less committed** |
-| **4. Named condition** | ⭐ **Provided the hours are enough to keep good staff** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the hours are enough to keep good staff** |
 
 **Second acceptable chain:** full-time staff **know the stock, the customers and the systems better** → fewer errors and better service → **but a store cannot be staffed to a peak all week simply to have experienced people on a Tuesday morning.**
 
@@ -5146,11 +5114,11 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The temporary contract** — first sentence |
 | **2. AO2 + AO3** | **The dessert range is untested** → defer the irreversible decision until there is evidence |
 | **3. Counter-arguments** | Temporary → **a skilled chef may go elsewhere**; permanent → **a commitment the family business may regret** |
-| **4. Named condition** | ⭐ **Provided the contract states what makes it permanent** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the contract states what makes it permanent** |
 
 **Second acceptable chain:** a permanent contract **secures commitment from the chef, who then invests in the restaurant's menu rather than just executing it** → **but a family restaurant that has traded for generations does not need to gamble its payroll on an untested dessert.**
 
-> ⭐ **The decisive question: can the decision be UNDONE?** **Untested product, uncertain demand, a small business → temporary. Proven need, scarce skill, a role the business cannot function without → permanent.** **And the named condition is always the same: say what converts one into the other.**
+> ⭐ **The decisive question: can the decision be UNDONE?** **Untested product, uncertain demand, a small business → temporary. Proven need, scarce skill, a role the business cannot function without → permanent.** **A useful judgement explains what would make one option preferable in this case; no fixed condition clause is required.**
 
 ---
 
@@ -5170,7 +5138,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Job sharing** — first sentence |
 | **2. AO2 + AO3** | **Skilled design work needs continuous cover** → two people who both know the role |
 | **3. Counter-arguments** | Part-time → **higher employment costs and benefits**; job share → **the two must liaise and work as a team** |
-| **4. Named condition** | ⭐ **Provided they get overlapping hours for a handover** |
+| **4. Possible evaluative consideration** | ⭐ **Provided they get overlapping hours for a handover** |
 
 **Second acceptable chain:** part-time working **is easy to offer and easy to withdraw, so it can be used across the whole workforce rather than one role** → the flexibility is available to hundreds of staff → **but it solves absence by hiring someone new each time, which the job share solves with the person already there.**
 
@@ -5185,14 +5153,14 @@ This illustrates one successful response, not a required three-sentence conclusi
 **The AO2 anchors:** some employees **like the option of being on call**; students **wanting to work during the summer holidays would be grateful for the opportunity**.
 
 > **Model answer — 9 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> **Jimmy Choo should employ the students.** The decisive fact is **what the work is and when it is needed: producing handbags and clothes in the summer holidays is seasonal demand, and students are available in exactly that window, wanting exactly that work.** **The scheme captures the fit in one phrase — they "would be grateful for the opportunity" — and a worker who wants the hours in the weeks the business wants them is a worker who turns up.** **On-call staff look more convenient because they are existing employees who already know the work.** **However, the scheme's objection to them is fundamental: "casual employees do not get any guarantee of work from Jimmy Choo and this may make them lack commitment to do their work when they are employed."** **A worker with no guaranteed hours has no reason to answer the phone on the day they are needed** — and the moment they are needed is by definition an emergency, which is the worst time to find out. **However, "there is no guarantee that the part-time employees can work the hours or have the skills that Jimmy Choo needs"** — students are unskilled and will leave in September. **I would still choose the students, on the condition that a core of experienced staff remains to supervise and train them — because student labour is seasonal by definition, and the skills have to leave with them.**
+> **Jimmy Choo should employ the students.** The decisive fact is **what the work is and when it is needed: producing handbags and clothes in the summer holidays is seasonal demand, and students are available in exactly that window, wanting exactly that work.** **The scheme captures the fit in one phrase — they "would be grateful for the opportunity" — and a worker who wants the hours in the weeks the business wants them is a worker who turns up.** **On-call staff look more convenient because they are existing employees who already know the work.** **However, the scheme's objection to them is fundamental: "casual employees do not get any guarantee of work from Jimmy Choo and this may make them lack commitment to do their work when they are employed."** **A worker with no guaranteed hours has no reason to answer the phone on the day they are needed** — and the moment they are needed is by definition an emergency, which is the worst time to find out. **However, the scheme notes that part-time employees may not have the skills or hours Jimmy Choo needs. Students may also be unavailable after the summer period, depending on their studies and availability; the case does not establish that every student is unskilled or will leave in September.** **I would still choose the students, on the condition that a core of experienced staff remains to supervise and train them — because student labour is seasonal by definition, and the skills have to leave with them.**
 
 | Move | The answer |
 |---|---|
 | **1. Choice** | **The students** — first sentence |
 | **2. AO2 + AO3** | Seasonal production demand **matches the summer holiday exactly** → and they want the hours |
 | **3. Counter-arguments** | On-call → **no guaranteed hours, so no commitment**; students → **no guarantee of skills or availability** |
-| **4. Named condition** | ⭐ **Provided experienced staff stay to supervise and train them** |
+| **4. Possible evaluative consideration** | ⭐ **Provided experienced staff stay to supervise and train them** |
 
 **Second acceptable chain:** on-call staff **need no recruitment, no induction and no training, because they already work for the business** → the costs of taking on students are avoided → **but a workforce that is only called when there is a crisis will not plan around Jimmy Choo's needs, only its own.**
 
@@ -5246,13 +5214,13 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Off-the-job training** — first sentence |
 | **2. AO2 + AO3** | **Three employees → nobody can be spared to teach** |
 | **3. Counter-arguments** | Off-the-job → **costly, employee absent; course may not match the job**; on-the-job → **no one available to train to standard** |
-| **4. Named condition** | ⭐ **Provided the course is short and specific to chocolate-making** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the course is short and specific to chocolate-making** |
 
 **On LEGO the balance tips the other way, and the reason is the 15 factories.** The scheme gives on-the-job the advantage that **"the cost of training is reduced as employees remain on the premises producing the Princess Leia toy whilst being trained"** — and a business with **fifteen factories can always find a skilled person in one of them to train the next.** Its cost is that **"this can be time consuming and prevents the skilled employees from carrying out their job efficiently."** **Off-site brings in "new production methods not seen in the 15 LEGO factories" — but the scheme's objection is decisive: "the new employees may not gain the specific skills and knowledge which are needed for designing the new Star Wars toys for LEGO."** **General excellence is the wrong kind of excellence for a licensed product.** **So LEGO: on-the-job, provided the trainer's own output is backfilled while they teach.**
 
 > ⭐ **The deciding fact is THE SIZE OF THE BUSINESS, and it points opposite ways.** **Too few staff to spare a trainer → off-the-job. Enough staff to have a trainer somewhere → on-the-job.** **Nothing about the method itself makes it better — it is whether this business can staff it.**
 
-**The scheme's own Jimmy Choo chains (May–June 2024 P2R, 3(e)) — induction against off-site:** induction — *"If all employees have induction training it gives them the opportunity to become familiar with their working environment in the production of shoes"* → *"This training enables them to feel part of the business and have a better understanding of how the business works"* → AO4 **"However, induction training does not always benefit because they may not work in that specific department, they had their induction training in"**; off-site — *"By training employees off site they are trained by experts in the various areas such as well as making the handbags and shoes but also how to display them"* → *"Employees can gain up to date skills from experts, resulting in fewer errors when they commence making handbags"* → AO4 **"However, the cost of training an employee off-site can be expensive, and the training is not guaranteed that it will match the job"**. **This pair is not the same choice as LEGO's or Irsi's, and the scheme shows why: BOTH options here can miss the job.** Induction can be given "in that specific department" the employee never works in; an off-site course "is not guaranteed that it will match the job". **So the named condition is about match, not cost — and the answer must say which mismatch it is accepting.**
+**The scheme's own Jimmy Choo chains (May–June 2024 P2R, 3(e)) — induction against off-site:** induction — *"If all employees have induction training it gives them the opportunity to become familiar with their working environment in the production of shoes"* → *"This training enables them to feel part of the business and have a better understanding of how the business works"* → AO4 **"However, induction training does not always benefit because they may not work in that specific department, they had their induction training in"**; off-site — *"By training employees off site they are trained by experts in the various areas such as well as making the handbags and shoes but also how to display them"* → *"Employees can gain up to date skills from experts, resulting in fewer errors when they commence making handbags"* → AO4 **"However, the cost of training an employee off-site can be expensive, and the training is not guaranteed that it will match the job"**. **This pair is not the same choice as LEGO's or Irsi's, and the scheme shows why: BOTH options here can miss the job.** Induction can be given "in that specific department" the employee never works in; an off-site course "is not guaranteed that it will match the job". **So a useful evaluation is about match, not cost — and the answer can weigh the relevant mismatch if it supports the decision.**
 
 ---
 
@@ -5272,7 +5240,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Batch production** — first sentence |
 | **2. AO2 + AO3** | **Lollipops sell on impulse** → variety to display, made ahead in batch |
 | **3. Counter-arguments** | Batch → **costly if demand for shapes is low**; job → **customers will not wait for a small item** |
-| **4. Named condition** | ⭐ **Provided the range of shapes is small enough to keep each batch big** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the range of shapes is small enough to keep each batch big** |
 
 **On Cadbury the answer is batch, and the reason is RISK not variety.** The scheme gives batch the advantage that **"if Dinky Deckers is not popular, they can limit or stop production"** — an exit that a continuous line cannot offer. Its cost is that **"this method can be more expensive because of time spent changing the machines."** **The rival option — one that guarantees "sufficient Dinky Deckers available for all its customers" — carries the risk the scheme names: "there is no guarantee on how popular the Dinky Deckers will be; Cadbury could be left with a large quantity of unsold chocolate."** **For an untested product, being able to stop matters more than being able to supply.**
 
@@ -5298,7 +5266,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Kaizen** — first sentence |
 | **2. AO2 + AO3** | **Thousands of parts per unit → late defects waste everything already spent**; the line workers see the waste |
 | **3. Counter-arguments** | Kaizen → **training costs and time in the short term**; JIT → **smaller deliveries cost more and depend on suppliers** |
-| **4. Named condition** | ⭐ **Provided it is piloted on one line before roll-out** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is piloted on one line before roll-out** |
 
 **On HRMW the pair is framed differently — employee involvement against JIT — and the scheme's caveats are worth learning because they are the two things that go wrong with each:** for employee involvement, **"there is no guarantee that the employees are willing to help improve the production of sports products, thereby saving the business money"**; for JIT, **"JIT can only work provided employees making footballs work at the same rate and that the supplier delivers the leather on time."** **Both methods depend on somebody else doing their part.**
 
@@ -5322,7 +5290,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **External recruitment** — first sentence |
 | **2. AO2 + AO3** | The role needs **marketing skills the business lacks** → internal moves a chair, external changes capability |
 | **3. Counter-arguments** | Internal → **creates a second vacancy to fill**; external → **may not fit the team, may lack the knowledge, wastes time** |
-| **4. Named condition** | ⭐ **Provided the brief includes the hotel's culture, not just the job description** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the brief includes the hotel's culture, not just the job description** |
 
 **On Kraft Heinz the answer is internal, for the reason the scheme gives first: "Kraft Heinz know that the person they appoint will understand how the production of sauces works"** — **the knowledge is product-specific and cannot be bought in a candidate's first week.** **Its condition is about the vacancy the appointment creates: backfill the original post, or the department is short of two people rather than one.**
 
@@ -5346,11 +5314,11 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The weekly staff meeting** — first sentence |
 | **2. AO2 + AO3** | Chefs and waiters **work different shifts** → a notice is read by whoever passes; a meeting **reaches everyone and allows questions** |
 | **3. Counter-arguments** | Noticeboard → **depends on staff reading it and on daily updating**; meeting → **out of hours, so attendance fails** |
-| **4. Named condition** | ⭐ **Provided it is held at the shift changeover** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is held at the shift changeover** |
 
-**On Rabanne the pair is email against meetings, and the scheme gives email the reach — "used by everyone and can be sent from one location to another" — with the counter that "if there is no internet signal then sending messages and receiving them would be difficult", and meetings the discussion — "people … give their opinion" — with the counter that "meetings are very time consuming and not everyone can make the meeting because of the distance between departments."** **Here the geographic spread is the deciding fact: departments that are far apart cannot meet weekly, so the condition is the same shape as above but the answer flips — email, provided that anything requiring a decision is followed by a meeting for those who can attend.**
+**On Rabanne the pair is email against meetings, and the scheme gives email the reach — "used by everyone and can be sent from one location to another" — with the counter that "if there is no internet signal then sending messages and receiving them would be difficult", and meetings the discussion — "people … give their opinion" — with the counter that "meetings are very time consuming and not everyone can make the meeting because of the distance between departments."** **Here the geographic spread is the deciding fact: departments that are far apart cannot meet weekly, so a relevant consideration may be the same shape as above but the answer flips — email, provided that anything requiring a decision is followed by a meeting for those who can attend.**
 
-> ⭐ **The decisive question: does the information need to be RECEIVED, or ACTED ON?** **Information people just need to have → write it down. Information people have to change what they do about → say it, and take questions.** **And the named condition is always attendance or updatability — the two ways each channel fails.**
+> ⭐ **The decisive question: does the information need to be RECEIVED, or ACTED ON?** **Information people just need to have → write it down. Information people have to change what they do about → say it, and take questions.** **Attendance and updatability are possible considerations when choosing a channel.**
 
 ---
 
@@ -5368,7 +5336,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The stores** — first sentence |
 | **2. AO2 + AO3** | **Expensive goods are not bought unseen** → the store removes the hesitation where it is biggest |
 | **3. Counter-arguments** | Stores → **building and staffing them raises the price or reduces demand**; online → **customers hesitate to buy expensive items unseen** |
-| **4. Named condition** | ⭐ **Provided the high-value products are the ones put on display** |
+| **4. Possible evaluative consideration** | ⭐ **Provided the high-value products are the ones put on display** |
 
 **Second acceptable chain:** online sales **reach customers in countries where Apple has no store at all** → the market is every country rather than a list of cities → **but for a premium product, a customer who cannot try it is a customer who buys the cheaper rival instead.**
 
@@ -5392,7 +5360,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **Supermarkets** — first sentence |
 | **2. AO2 + AO3** | Shoppers **finish a task and choose to spend time**; hospital visitors **are there for someone else and are time-limited** |
 | **3. Counter-arguments** | Supermarket → **shoppers may just go home**; hospital → **visitors' time may be limited** |
-| **4. Named condition** | ⭐ **Provided it is placed by the exit with seating** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it is placed by the exit with seating** |
 
 **Second acceptable chain:** hospitals **have a captive audience who are there for hours, and a coffee is the one comfort available on site** → the footfall is guaranteed even if the spend is not → **but the scheme is explicit that the time is the constraint, and a person waiting on news does not sit down for a latte.**
 
@@ -5414,7 +5382,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The vegan range** — first sentence |
 | **2. AO2 + AO3** | A cookbook **teaches customers to replace the café**; a vegan range **adds customers who currently have nothing to buy** |
 | **3. Counter-arguments** | Cookbook → **customers make their own → sales fall**; vegan range → **research and production costs, pricing risk** |
-| **4. Named condition** | ⭐ **Provided it starts with three or four products, not a full counter** |
+| **4. Possible evaluative consideration** | ⭐ **Provided it starts with three or four products, not a full counter** |
 
 **On TADS the pair is a wider range against a wider delivery, and the schemes give range the revenue — "teaching other musical instruments will bring in new music students and revenue" — against the cost that it "would need to find and pay additional teachers", while online lessons reach "more students" against "technical issues that might lead to lessons being interrupted and not delivered, giving TADS a bad reputation."** **For a drumming school, the online route's failure mode is reputation: a lesson that drops out mid-way is worse than no lesson, because the customer paid and watched it fail.**
 
@@ -5438,7 +5406,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The new features** — first sentence |
 | **2. AO2 + AO3** | Cars are **bought after driving or recommendation** → awareness is the wrong stage |
 | **3. Counter-arguments** | Features → **expensive to design and raise the price**; promotion → **no guarantee people buy, only that they know** |
-| **4. Named condition** | ⭐ **Provided they go on the models where rivals already offer them** |
+| **4. Possible evaluative consideration** | ⭐ **Provided they go on the models where rivals already offer them** |
 
 **On Can Culleretes the pair is advertising against extending the offer, and the scheme's objections are both cost-based: advertising "can be expensive, so although revenue may improve it will be a cost for the business"; opening for breakfast means "as it is only a small restaurant they may need to employ more staff as well, but this could lead to an increase in costs."** **The deciding fact there is the customer: "an increase in advertising can reach new customers and tourists visiting Barcelona", whereas breakfast "can attract existing and new customers."** **New tourists cannot be reached by breakfast — only by being found — so the answer is advertising, provided the channel is one a visitor would actually see.**
 
@@ -5464,7 +5432,7 @@ This illustrates one successful response, not a required three-sentence conclusi
 | **1. Choice** | **The private limited company** — first sentence |
 | **2. AO2 + AO3** | The proposed partners **are his own employees** → authority and ownership would collide; limited liability protects his assets |
 | **3. Counter-arguments** | Partnership → **the employees lack business experience and would share decisions**; Ltd → **hard to find shareholders for a small business** |
-| **4. Named condition** | ⭐ **Provided Gianni keeps a controlling shareholding** |
+| **4. Possible evaluative consideration** | ⭐ **Provided Gianni keeps a controlling shareholding** |
 
 **Second acceptable chain:** a limited company **can raise capital by selling shares, which a partnership cannot** → the gyms can be expanded without personal borrowing → **but a small business offering shares is asking people to buy into something with no market to sell out of, so the shareholders have to be found one at a time.**
 
@@ -5478,10 +5446,10 @@ This illustrates one successful response, not a required three-sentence conclusi
 |---|---|
 | **Blocks in the tier** | **76** — derived from the 38 mark schemes, validated at 80 marks per paper |
 | **Blocks carried by an entry** | **76 · 100%** |
-| **Distinct option pairs** | **58** |
+| **Distinct exact option pairs in the inventory** | **76** |
 | **Entries used** | **53** — numbered 175–227 |
 
-**What the compression means.** **58 different option pairs across 76 blocks, carried by 53 entries** — this tier compresses far less than the 3-mark (152 → 97) and the 6-mark (114 → 74) tiers, because **the option pair genuinely varies.** **But 1 question in 4 was still a repeat**, and the repeats cluster where you would expect: **a bonus against job enrichment four times · the source-of-finance questions fourteen times across thirteen pairs · primary against secondary research five times.**
+**What the compression means.** The inventory lists **76 distinct exact option pairs across 76 blocks**, carried by 53 entries. The entries group recurring decision themes, but each mapped question still needs its own case and scheme. The theme groupings are navigation aids, not substitutes for the individual option pair.
 
 **Every decision type in the qualification is closed:** sources of finance · promotion · pricing · market research and success measures · job design and motivation · contracts · training · production · operations · recruitment · communication · place · product · marketing · structure.
 
@@ -5491,50 +5459,41 @@ This illustrates one successful response, not a required three-sentence conclusi
 > ### ⭐ AND THE THREE THINGS THAT DECIDE ANY JUSTIFY ANSWER — the whole tier in three questions
 > **1. WHO BENEFITS?** The business, its owners, its employees, its customers, or a country. **Several questions in this tier name a party that is not the business, and a contextualised answer about the wrong party scores zero.**
 > **2. WHAT IS THE FAILURE MODE?** Every mark-scheme counter-argument in this tier is one: *interest you must pay anyway · a campaign that raises nothing · a facility repayable on demand · a reward most people cannot win · training the customer to replace you · a feature that raises the price and adds nothing.*
-> **3. WHAT WOULD HAVE TO BE TRUE?** The named condition, drawn from a case fact or a figure — and **if it could be pasted onto another question, it is not a condition.**
+> **3. WHAT EVALUATION FITS THIS DECISION?** A condition, comparison, trade-off or other supported inference may help where relevant; none is compulsory. Keep case facts distinct from possibilities.
 
 ---
 # BATCH 8 — THE 12-MARK TIER (entries 228–252)
 
-> **38 blocks — one `4(c)` on every paper.** The bank's last tier. **This is the tier with a permanent limit: there is no verified 12/12 for Paper 2 or Paper 2R** (Pearson's 12-mark exemplars are Paper 1 scripts; see `09_Verified_Tally.md`). Everything here is therefore a `[CONSTRUCTED GRADE 9 TARGET]` unless labelled otherwise.
+> **38 blocks — one `4(c)` on every paper in the checked archive.** No verified P2/P2R 12/12 script was located in the examiner reports and exemplars reviewed for the 2019–2026 corpus; the five verified 12/12 scripts currently held are from P1/P1R. The P2/P2R models below remain `[CONSTRUCTED GRADE 9 TARGET]` and unscored; this is not a claim about unreviewed or future publications.
 >
 > **The unit is the TOPIC, as in every other tier** — 38 blocks collapse to **22 topics carried by 25 entries**, because *location* alone appears on four papers and *quality* on four. **One essay per topic, with every paper's own markscheme anchors printed**, is what makes the tier complete; writing 38 separate essays would repeat the same chains a dozen times.
 
-## 228. ⭐⭐ THE UNIVERSAL 12-MARK SCAFFOLD — what every Evaluate has in common
+## 228. ⭐⭐ THE 12-MARK EVALUATE — use the exact question and level descriptors
 
-**Asked:** all 38 papers, question **4(c)**, `AO1 = 3 · AO2 = 3 · AO3 = 3 · AO4 = 3`.
+**Asked:** all 38 papers in the checked 2019–2026 corpus have a Paper 4(c) Evaluate item. Each matched mark scheme reviewed for this corpus allocates AO1 = 3, AO2 = 3, AO3 = 3 and AO4 = 3; always verify the actual paper and scheme rather than treating that historical finding as a rule for future papers.
 
-**The framing varies; the shape does not.** Across 38 papers the command sits in five forms — *"Evaluate the **extent to which**…"* · *"the **importance** of…"* · *"the **impact** of…"* · *"the **benefits** for…"* · *"Evaluate **how / why / whether**…"* — and **all five are marked with the same four-way split.** So there is one architecture, and it is the architecture of the verified 12/12 (May 2023 P1, Irsi — rule 82).
+The command word appears in different forms—extent, importance, impact, benefits, how, why, whether. There is no single required paragraph architecture, opening definition, conclusion format, word count or sequence. Organise the answer clearly in whatever way lets you address the actual task and develop relevant, accurate reasoning.
 
-```
-PARA 1   The concept, in today's words + your answer in the same breath        AO1 + AO2
-PARA 2   Applied to THIS business — a chain, not a claim                       AO2 + AO3
-PARA 3   "However…" — turn against what you just argued                        AO3 (+AO2)
-PARA 4   Decide, and NAME THE CONDITION                                        AO4
-```
+### What the top level asks for
 
-**Continuous prose only.** *"Some candidates are using bullet points or a numbering format which will not allow them to gain the higher levels."* (May 2023 P2 **and** P2R). **A bulleted 12-marker cannot reach Level 3, however good the content.**
+Across the checked corpus, Level 3 descriptors call for accurate knowledge, detailed contextual application, detailed connected reasoning, and a clear, justified judgement based on thorough evaluation. These are qualities of the response as a whole, not a checklist assigning one paragraph or three marks to each AO. Use the exact question's AO allocation and level descriptors.
 
-### The four routes to AO4 — all four are official, and you need one
+The indicative content in a mark scheme is guidance, not a closed list. Relevant, accurate business knowledge and case-linked reasoning beyond its printed examples may be creditworthy. Keep the evidence types distinct: a case fact is what the QP states; a consequence inferred from it is reasoning, and should be presented as a possible outcome where it is not guaranteed.
 
-| Route | What it sounds like | Where the scheme shows it |
-|---|---|---|
-| **1. The drawback of the same thing** | *"However, [the option] also means…"* | **Every one of the 38 schemes** has an AO4 bullet opening *"However"* |
-| **2. A more important factor** | *"…but other factors may matter more, such as…"* | Crumb: *"other factors such as **location of the cafe and the price** may be more important"* |
-| **3. The named condition** | *"…and this depends on **X**, because…"* | Irsi 12/12: *"could be limited because it **depends on factors such as nature of employee**"* |
-| **4. Argue against the premise** | *"…in fact the opposite may be true, because…"* | Pearson, on a 4/12: *"…**or if other factors should be taken into account as well**"* — stated outright as a route to Level 3 |
+### Evaluation without a prescribed formula
 
-> ### ⭐ THE CONDITION TEST — the same test as the 9-mark tier
-> **"It depends" is worth nothing. "It depends on whether customers in its area value quality over price" is AO4.** Ask: *could this condition be pasted onto another question?* If yes, it scores nothing.
+A supported judgement may weigh benefits against costs or risks, compare relevant factors, identify when an outcome is more or less likely, or explain why an alternative may be preferable. A condition can strengthen a judgement when it is relevant, specific and supported, but no particular phrase or named-condition formula is universally required. Nor does a conclusion have to sit in a separate paragraph or at the end if evaluation is made clear elsewhere in the response.
 
-> ### ⭐⭐ THREE THINGS THE TOP BAND REQUIRES, ALL CONFIRMED IN THE REPORTS
-> **1. No separate "In conclusion" paragraph.** The 12/12's last paragraph *decides* — *"the effectiveness of using financial methods of motivation could be limited because…"*. **A summary paragraph is the ceiling**, at 12 marks as it was at 9 (rule 83).
-> **2. AO2 must be woven, not stamped.** *"The name of the business does not provide context"* (June 2024 P1R). Naming Crumb in a sentence that would work for any business is not application.
-> **3. ≈330–400 words in 12–14 minutes.** The 12/12 is ≈330 words in two and a half paragraphs. **Written lines are printed to size** — overrunning earns nothing and costs the time the answer needs.
+Pearson reports sometimes comment that bullet points or numbering did not help candidates reach higher levels on the particular paper discussed. Treat such comments as report-specific guidance, not as proof of an automatic mark ceiling across all questions or a substitute for the level descriptors. No independent fixed mark cap follows from format alone in this shared scaffold.
 
-**AO checkpoint before you move on:** *Have I said what the thing **is** (AO1) · applied it with a **chain** (AO2/AO3) · given the **other side** (AO3) · **decided and named a condition** (AO4)?* Four ticks, four AOs.
+### A useful self-check—not a mark quota
 
----
+- Have I addressed the exact wording and decision in the question?
+- Is my knowledge accurate and relevant?
+- Have I applied case facts and developed logical consequences, distinguishing stated facts from possible outcomes?
+- Have I evaluated the relevant choice and supported my judgement with reasons from this case?
+
+These are prompts for checking substance, not a required sentence, paragraph, word-count or conclusion pattern.
 
 # ---- THE FAMILY THAT APPEARS MOST: QUALITY -------------------------------
 
@@ -5580,7 +5539,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, TQM involves disruption to the manufacturing facility as new processes are introduced, which could cause delays and late deliveries of robots to the hotel and hospital customers — and those are customers on contracts, not one-off buyers. The cost of training all employees in TQM also takes time and is costly, which could reduce profitability in the short term and increase the price of the robots, making Saha uncompetitive in the robot market against manufacturers who have not taken on the same costs.
 >
-> Overall, TQM will benefit Saha, but only in the long term. This depends on whether its customers buy on reliability or on price, and on how long the hotel and hospital contracts can tolerate disruption during the changeover. In the short term the disruption and the training cost will hurt profit, but in the long term zero-defect manufacturing is the only way a robot-maker protects the reputation its orders depend on.
+> Overall, TQM could benefit Saha if improved reliability and customer response outweigh the training cost and changeover disruption. The outcome depends on how the process is implemented and whether its hotel and hospital contracts can tolerate delays. In the short term, costs or delivery disruption may affect profit; over time, fewer defects could support reputation and repeat orders, but TQM is not the only possible way to protect them.
 
 | Move | The scheme's content |
 |---|---|
@@ -5616,7 +5575,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, locating near skilled labour may be more expensive if wages are higher, increasing overall costs. Infrastructure is not automatically the decisive factor: the business should compare its importance with other considerations, especially delivery to and from the factory. The answer should weigh the specific labour and accessibility factors rather than assume one site is best.
 >
-> Overall, labour is the most important factor for Jimmy Choo, but only if the wage cost does not consume the saving the skills create. This depends on whether the business competes on craftsmanship or on cost, and on how many skilled machinists are actually available in the area it is considering. In the short term the higher wages will raise costs, but in the long term a factory near genuinely skilled labour is what protects the quality the brand is built on.
+> Overall, access to skilled labour may be important to Jimmy Choo, particularly if the factory needs machinists and financial staff, but its priority depends on labour availability, wage levels and the site's other costs. Higher wages could offset some benefits, while suitable skills may support production quality. The decision should weigh these factors with the accessibility and delivery needs identified in the question and mark scheme.
 
 ⭐ **"Nearest to the market" is not on any of the four mark schemes.** What appears on all four is **labour** and **a second, business-specific factor** (transport · competition · materials). **Learn the spine, then learn each paper's second leg.**
 
@@ -5645,7 +5604,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, it can be time-consuming to find out what customers' needs are, and if these are already being met by competitors in the local area then no amount of market research will help Backyard Shoez to target its new audience. Research tells it what customers want; it cannot make those wants unserved. In addition, without doing secondary market research as well, Backyard Shoez cannot find out wider information such as what its competitors are charging or which suppliers could offer it better terms — both of which are cheaper to look up than to survey for.
 >
-> Overall, primary research is important to Backyard Shoez, but it is not sufficient, and this depends on whether the business is trying to serve a need nobody currently meets or to compete with the shops already in the mall. In the short term a questionnaire costs time and may confirm what the owners already suspect, but in the long term designing shoes around what local customers actually ask for is the cheapest way to avoid unsold stock.
+> Overall, primary research may help Backyard Shoez test its specific customers’ views, but it is not sufficient on its own. Its usefulness depends on the business's research objective and whether responses are relevant and reliable. A questionnaire takes time and may not reveal needs customers have not considered; combining it with secondary information about competitors or suppliers could inform the decision. Research may reduce some uncertainty, but it cannot guarantee demand or eliminate unsold stock.
 
 ⭐ **Café Pinch adds the third leg the four-mark version never has: data overload.** *"There might be too much information and this could make decision making harder and possibly less accurate"* — **the argument against research is not only its cost, it is the quality of the decision it produces.** Keep it for any question that offers the internet as an option.
 
@@ -5672,7 +5631,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, a negative result from some trial customers does not prove that a product would never become popular, and a positive result does not guarantee wider-market purchases. Customer tastes and the wider market may differ from the trial sample. More fundamentally, no matter how much research is done on a new product, there is no guarantee customers will buy it, so product trials can reduce—but not remove—the risk.
 >
-> Overall, product trials are worthwhile for Starbucks, but only as risk reduction rather than risk removal. This depends on how similar the trial customers are to the wider market and on how costly a full launch would be if the product failed. In the short term the trial costs money and slows the launch, but in the long term a chain that tests first wastes far less on the drinks customers quietly stop ordering.
+> Overall, product trials may reduce Starbucks’ risk of committing to a full rollout of a product that receives a poor response, especially if the trial customers resemble the wider target market. Their value depends on how representative the feedback is and on the cost and scale of the launch. Trials also use time and money, and actual demand after launch may differ from trial results; they inform the decision but cannot guarantee sales or prevent all wasted expenditure.
 
 ⭐ **Huawei's AO4 contains the rarest move in the whole bank: the scheme argues *against* its own question.** *"Producing a watch that no other business is offering could mean that it sells more of the products and gains a competitive advantage"* — **research can talk a business out of its best idea.** Pearson's own advice on a 4/12 (*"if other factors should be taken into account as well"*) confirms this is a route, not a risk.
 
@@ -5703,7 +5662,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, it can be time-consuming to market the business, as PPS will need to approach the customers that come in store or provide detailed information on their website to keep it competitive. This may not work either: some of its customers may still try the new pet business if it is charging a lower price than PPS, because no amount of awareness makes a customer pay more for the same service.
 >
-> Overall, marketing is very important to PPS, but only if it is used on the right customers. This depends on whether its customers choose on service — where its reputation protects it — or on price, where a cheaper rival wins regardless. In the short term the research and the website take time that the staff could spend on pets, but in the long term knowing exactly what its customers want is what keeps them from trying the new business at all.
+> Overall, marketing could help PPS retain customers if it reaches people who value its services, but its effect depends on what customers prioritise and how they respond. Research and website activity also use staff time; a competitor's lower price may still attract some customers. Better knowledge of customer needs can inform marketing, but it cannot ensure that customers will not try a rival.
 
 ⭐ **The two papers ask the same AO1 in opposite directions.** Cadbury's marketing is *about a gap in the market*; PPS's is *about a relationship already held*. **Use the question to pick the direction: "introducing a new product" → research and trial; "keep its market share" → awareness and retention.**
 
@@ -5728,7 +5687,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, Lavender would need to have employees with the necessary technological skills in order to use this as a method of promotion, and that is a cost and a delay. Some people ignore emails or banners on websites and may not pay attention to the promotion at all, and it could be difficult to reach the new customers in the new areas, as it does not yet know who they are. A lot of time might be spent using technology when some people prefer traditional methods such as leaflets inside the bakery: handing them out directly gives more of a personalised service and the chance to speak to customers face to face and gain feedback — which a newsletter cannot do.
 >
-> Overall, technology is beneficial to Lavender, but only as one part of its promotion. This depends on whether its customers are already online and already know the brand, and on whether it has the staff to run the channels properly. In the short term the skills and the time are a cost, but in the long term a bakery that can personalise what it sends will get repeat orders from customers it would otherwise have to keep winning back.
+> Overall, digital promotion may benefit Lavender if its customers use those channels and the bakery can manage them effectively. Staff time and skills have an opportunity cost, while direct contact or other promotion may be more suitable for some customers. Personalised messages could encourage repeat orders, but that outcome depends on the offer and customer response and is not guaranteed.
 
 ⭐ **The best AO4 in this entry is not "it costs money" — it is the *comparison*.** Pearson's own wording puts leaflets **head to head** with email: *you get the chance to speak to them face to face to gain feedback.* **When the question offers "a different method", the counter-argument is what the other method does better.**
 
@@ -5782,7 +5741,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, there is no guarantee that customers will buy some of the products, because they are expensive and they may want a cheaper product. Customers may choose a cheaper alternative rather than pay LEGO’s higher price. If the film is not a success, then the toys may not sell and LEGO may not recover the time and investment involved in producing them.
 >
-> Overall, LEGO has maintained its competitive advantage well, but it depends on two things outside its control. This depends on the quality of the films it ties its sets to, and on whether parents continue to value the brand over a cheaper equivalent. In the short term the film tie-ins bring spikes of revenue, but in the long term it is the reliability of the brick itself, and the reputation that rests on it, that keeps customers coming back.
+> Overall, LEGO’s reputation and product quality may support a durable advantage, while film-linked sets could attract fans when a film is successful. The extent of that advantage depends on customers’ willingness to pay LEGO’s price and on demand for each licensed range; if a film is unsuccessful, the QP/MS identify a risk of unsold toys and unrecovered investment. Over time, the established brand and reliable products may continue to matter even when an individual tie-in does not.
 
 ⚠️ **Single-word meanings matter here.** "Gained" (Yellow) invites an *origin* answer — low costs, quick response, wide range. "Maintained" (LEGO) invites a *sustainability* answer — reputation, quality, staying current. **Answer the verb you were given.**
 
@@ -5872,7 +5831,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, not everyone is interested in Rabanne's donations: some customers may focus more on the perfumes and aftershaves. The mark scheme also cautions that environmentally responsible behaviour does not guarantee a positive change in sales volume. The effect therefore depends on whether Rabanne's target customers value these actions and whether the products themselves remain attractive.
 >
-> Overall, working on public relations has a positive effect for Rabanne, but it is a supporting factor rather than a deciding one. This depends on whether its customers are buying the scent or the story, and on whether rivals' environmental records are visibly worse. In the short term the donations and the refillable packaging add cost, but in the long term, for a brand whose price depends on desirability, a good reputation is what keeps customers willing to pay it.
+> Overall, Rabanne's public-relations activity could support its image if target customers value the charitable and environmental actions. The effect depends on customer priorities and the appeal of the fragrances themselves; the QP/MS do not establish that rivals have weaker records or that the actions maintain a price premium. Donations and packaging changes may involve costs, while any effect on sales or willingness to pay remains uncertain.
 
 ⚠️ **This paper's AO1 looks like social objectives — and its question does not.** The mark scheme's own AO1 is *donating funds as public relations* and *reducing environmental impact through packaging*: the subject is **reputation management**, not ethics. **Answer the question on the paper in front of you, even when the case facts are the same.**
 
@@ -5890,9 +5849,9 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, researching trends and preferences takes time, and other restaurants may respond more quickly to changes in food trends. A delay could mean Nando's misses a timely opportunity, though the case does not establish that a particular rival would launch first. Nando's may also prefer a product-orientated approach and focus on developing dishes based on its own view of quality and innovation rather than primarily on customer preferences or market trends. The judgement should weigh responsiveness against the risk of losing the distinctive offer its customers value.
 >
-> Overall, market orientation will help Nando's to a large extent, but it cannot guarantee future success. This depends on how quickly trends shift in its market and on whether it can act on its research faster than its rivals can. In the short term the research adds cost and delay to every launch, but in the long term a menu built on what customers actually order is a safer bet than one built on what the business believes is best.
+> Overall, market orientation may support Nando's future success, but it cannot guarantee it. Its value depends on whether research reflects changing customer preferences and whether Nando's can act on those findings before they become outdated; the mark scheme notes that other restaurants may respond faster, but the case does not establish that Nando's is currently slower than a named rival. Research takes time and may use resources, while a customer-informed menu could reduce the risk of an unpopular dish if the findings are reliable. Actual demand remains uncertain, so the benefit is possible rather than assured.
 
-⭐ **The word *guarantee* is the marker's instruction to argue a limit.** The scheme's AO4 gives two: research is **too slow** to be a promise, and the **product-orientated alternative may be better**. **Whenever a question says "guarantee" or "will", the answer must contain something that could still go wrong.**
+⭐ **For this prompt, the absolute word *guarantee* makes uncertainty central.** The MS gives two relevant counter-considerations: research takes time while other restaurants may respond faster, and Nando's may prefer a product-orientated approach. These are case-specific routes for evaluating this question, not a fixed formula for every Evaluate item.
 
 ---
 
@@ -5919,7 +5878,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, not all families fit into a category, and therefore IKEA needs to provide for all different demographics no matter where they are located. A single customer may be a young parent with a low income and a taste for design, and a range built strictly on one segment would lose them. There is also no guarantee that IKEA's customers will buy what is expected of them: people do not buy predictably, and a shopper segmented as a budget buyer may spend the most in the store on the day.
 >
-> Overall, demographic segmentation is important to IKEA, but it is a starting point rather than a guarantee. This depends on whether its customers are shopping for a home, where income and family size decide the purchase, or for an individual taste that cuts across every group. In the short term it makes the ranges and the warehouses more efficient, but in the long term the retailer that also watches how customers behave, and not only who they are, is the one whose ranges keep selling.
+> Overall, demographic segmentation may help IKEA choose products and ranges for customer groups, but it cannot guarantee purchases. Its usefulness depends on how well the categories reflect actual customer needs; people within one segment may differ, and income or family circumstances alone may not explain choices. Combining demographic information with observed behaviour could improve decisions, but the effect on range efficiency and sales would depend on how IKEA uses the information.
 
 ⚠️ **The four AO4s in this tier that begin "there is no guarantee" all mean the same thing — human behaviour is not determined.** Where the scheme prints it (IKEA, Cadbury, Starbucks, Kraft Heinz, M&M), **write it as the customer's choice, not as the business's failure.**
 
@@ -5971,7 +5930,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > However, a lack of authority lower in the organisation may demotivate managers, leading to lower productivity or employees leaving their jobs, resulting in higher costs and lower profit levels. A manager with a title but no decisions is not a manager for long. Local managers in the factories and offices outside South Korea may also have a better understanding of local needs and be in a better position to attract more customers — a marketing message written in Seoul may not travel, and a product designed for one market may be wrong in another.
 >
-> Overall, a centralised structure will benefit Samsung, but not everywhere and not equally. This depends on whether the product is genuinely the same worldwide, as with a flagship smartphone, or whether it has to adapt to local taste and local competition. In the short term centralising keeps standards and costs in line, but in the long term the business that lets its local managers decide what their customers need is the one that keeps them.
+> Overall, centralisation may benefit Samsung where global consistency or coordinated decisions are important, while local managers may be better placed to respond to differences in customer needs. Which matters more depends on the product and market; centralisation could support consistency or scale, but it may also reduce local responsiveness and manager authority. These effects are possible, not guaranteed, so the balance depends on which decisions need global coordination and which require local knowledge.
 
 ⭐ **The AO4 here is not financial — it is motivational.** *Lack of authority demotivates managers.* **The same fact is also the AO1 of the motivation and job-design entries (209–217)** — a decision taken away is a motivator removed. **Cross-reference the tiers: the same syllabus point scores in different places.**
 
@@ -6053,13 +6012,13 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 >
 > A cash flow forecast estimates expected cash inflows and outflows over a future period and the resulting net cash flow. M&M can use it to assess the timing and affordability of decisions such as adding features or employing specialist staff; it informs a decision but does not itself create funds or ensure a project will earn a return.
 >
-> Using their cash flow forecast, M&M can predict net cash flow for the future, and if M&M predict that the cash inflow will be high then they may decide to invest in other areas of the business. Depending on whether there is sufficient funds, they could introduce additional features on the tractors, or the funds could be used to employ specialist staff who have skills in developing electronic devices on the new cars being produced. That is the forecast's real use: it tells the business not whether an idea is good, but whether this is the month it can afford it.
+> If M&M expects cash inflows to be sufficient, it may choose to invest in other areas of the business. Depending on its forecast, it could consider adding features to its tractors or employing specialist staff to develop electronic devices for its cars. The forecast helps managers estimate when cash may be available; it does not establish that an idea is commercially worthwhile or that the forecasted cash will arrive as predicted.
 >
-> If there are not sufficient funds, then M&M may decide to wait until they have the funds available, and this would then maintain their image of introducing new and innovative features to the cars. Waiting deliberately is a decision the forecast makes possible — without it, a business finds out it could not afford the investment only when a supplier's invoice arrives.
+> If forecast cash is insufficient, M&M may decide to delay the investment until funds are expected to be available. This could help it avoid committing to costs at a time of a predicted cash shortage, while a long delay could also slow product development. The value of waiting therefore depends on the expected timing of receipts and the business's priorities.
 >
-> However, a cash flow forecast is only a prediction and does not guarantee that the funds will be there in the future. Sales may fall short, a customer may pay late, or a machine may break down, and none of those appear in the forecast until they happen. There is also no guarantee that there will be sufficient cash to cover all the costs of employing the staff, or that the new features will be liked by customers — the forecast can tell M&M whether it can afford to build the feature, but not whether anyone will buy the tractor because of it.
+> A forecast can anticipate delayed customer receipts, weaker sales or repair costs if these are included in its assumptions, and may show how they affect the amount and timing of available cash. But these are estimates: actual payment dates, sales and repair costs may differ from assumptions, and unexpected events can still create a shortfall. Nor does a forecast guarantee that M&M will have enough cash to cover staff or feature-development costs, or that customers will like the resulting products.
 >
-> Overall, M&M can use cash flow forecasting to inform the timing and affordability of decisions, not to guarantee their success. Its usefulness depends on how accurate the estimates are and what reserves or alternative finance are available if actual cash flows differ. In the short term it may help managers anticipate a cash shortage and respond; in the longer term, the investments it informs may support sales if customers want the resulting products.
+> Overall, M&M can use cash flow forecasting to inform the timing and affordability of decisions, not to guarantee their success. Its usefulness depends on the quality of the estimates, how often they are updated, and what reserves or alternative finance are available if actual flows differ. In the short term it may help managers anticipate a cash shortage and respond; in the longer term, investments it informs may support sales if customers want the resulting products.
 
 ⚠️ **"Cash flow ≠ profit" is the syllabus point this paper is built on.** The forecast may show a healthy month while the business is making a loss, or the reverse. **Say what the forecast is *for* — timing — and the AO1 looks after itself.**
 
@@ -6114,7 +6073,7 @@ PARA 4   Decide, and NAME THE CONDITION                                        A
 > ## 🏆 What the 12/12 actually did — and it is about 330 words
 > **The examiner's words:** *"a strong response and indicative of a level 3 response… been able to bring in their own business knowledge to support their response. There is good context throughout the response as well as a balanced argument with a clear evaluation."*
 > **It has no conclusion paragraph.** Its last paragraph *decides* — *"the effectiveness of using financial methods of motivation could be limited because it depends on factors such as nature of employee"* — and then it stops.
-> **It brings in knowledge the case never mentions** (job rotation, job enrichment, "given more responsibilities and trust") to support that condition, and it gives **both official AO4 routes in one answer**: the drawback of the same option (*"it could compromise quality of products and lead to higher defects / spoiled chocolates"*) and the named condition.
+> **It brings in knowledge the case never mentions** (job rotation, job enrichment, "given more responsibilities and trust") to develop its evaluation. It also includes the same-option drawback (*"it could compromise quality of products and lead to higher defects / spoiled chocolates"*) and an employee-related consideration; these are features of this script, not mandatory ingredients for every response.
 
 ⚠️ **This is the one paper in the tier where a verified full-mark script exists — use it as the template.** The three things to copy are: **short**, **applied throughout**, and **the condition is named**.
 
@@ -6164,12 +6123,12 @@ entry, 0 remaining, 0 dangling.**
 | **Finance** (venture capital · documents · cash flow · interest rates) | 4 | 247 · 248 · 249 · 250 |
 | **People** (motivation · communication) | 2 | 251 · 252 |
 
-> ## ⚠️ THE TIER'S PERMANENT LIMIT — STATE IT, NEVER HIDE IT
-> **There is no verified 12/12 for Paper 2 or Paper 2R, in any series.** Pearson publishes 12-mark exemplars from **Paper 1** reports; both full-mark scripts in this bank are Paper 1. **Everything in this tier is a `[CONSTRUCTED GRADE 9 TARGET]`** — engineered from the mark scheme's own indicative content, the level descriptors, and the examiner reports. **No score is claimed for any of them.**
+> ## ⚠️ CHECKED-CORPUS EVIDENCE GAP — KEEP IT IN SCOPE
+> **No verified P2 or P2R 12/12 script was located in the sources checked for the 2019–2026 corpus.** The five verified 12/12s held are on P1/P1R. The models in this tier are `[CONSTRUCTED GRADE 9 TARGET]` answers derived from the relevant question paper and matched scheme/levels, and are unscored; they are not candidate evidence.
 >
-> ## ⭐ THE TWO ANCHORS EVERY MODEL ABOVE IS BUILT TO IMITATE
-> **1. The verified 12/12 — Irsi, May 2023 P1 Q4(c)** (entry 251's paper). **≈330 words, no bullets, and NO conclusion paragraph** — its last paragraph decides (*"the effectiveness … could be limited because it depends on factors such as nature of employee"*) and stops. **It uses both official AO4 routes in one answer:** the drawback of the same option (*"it could compromise quality of products and lead to higher defects / spoiled chocolates"*) and the named condition.
+> ## ⭐ TWO VERIFIED EXAMPLES FOR COMPARISON — NOT TEMPLATES
+> **1. The verified 12/12 — Irsi, May 2023 P1 Q4(c)** (entry 251's paper). **≈330 words, no bullets, and NO conclusion paragraph** — its last paragraph decides (*"the effectiveness … could be limited because it depends on factors such as nature of employee"*) and stops. It includes a drawback of the same option (*"it could compromise quality of products and lead to higher defects / spoiled chocolates"*) and a case-related consideration. These are observations about this script, not a required two-route formula.
 >
-> **2. The verified 11/12 — Spud Bros, June 2026 P1R Q4(c)** (entry 240's paper). **The highest-marked 12-mark script the bank holds for a regional paper — and the best 12-mark model in it** *(the two 12/12s above are both Paper 1; no 12-mark script above 11/12 exists anywhere on Paper 1R or 2R)*, because it is the closer of the two to the situation you will actually face. **It DOES end with an explicit "In conclusion" paragraph — which balances rather than summarises** (*"Although it causes a huge cost to provide free meal, the increase in sales due to support of customers may over the cost in long term"*). **So the rule is not "never write a conclusion". The rule is: a conclusion must WEIGH, never repeat.** The examiner's own words: *"They offer balance in their argument with appropriate levels of context throughout the response."*
+> **2. The verified 11/12 — Spud Bros, June 2026 P1R Q4(c)** (entry 240's paper). **One high-mark script in the checked regional-paper set.** It illustrates another way a candidate can evaluate; it is not asserted to be the closest model for every paper or case. **It DOES end with an explicit "In conclusion" paragraph — which balances rather than summarises** (*"Although it causes a huge cost to provide free meal, the increase in sales due to support of customers may over the cost in long term"*). This script uses a weighing conclusion; other responses may place evaluation elsewhere. This example does not establish a required conclusion format. The examiner's own words: *"They offer balance in their argument with appropriate levels of context throughout the response."*
 >
-> **And on the same two pages Pearson printed the 6/12** — the same chains, the same case, **not one drawback on the page**. **That pair is the clearest demonstration in the whole bank of where the marks live in this tier: the second half of the argument.**
+> **On the same two pages Pearson printed a 6/12 response** using the same case. The report's comments on that script illustrate how the examiner assessed its treatment of the task; they do not establish a required two-part or paragraph architecture for other answers.

@@ -28,24 +28,17 @@
 | **6** | Nov 2025 P1 4(c) — *operating as a franchise* (Ocean Vibes) | **entry 246** | the two AO4s that both concern **the other party** — the franchisee's incentives |
 
 > ### ✅ WHAT THIS PAGE IS FOR, NOW
-> **Use `10_Chain_Bank.md` to write the answer, and use this page to see the scaffold on its own** — the four-paragraph shape (Knowledge + answer · However · Alternatively · Overall + "depends") with the case stripped down, which is easier to hold in your head than the long versions.
+> **Use `10_Chain_Bank.md` as the maintained version of each shared topic.** This earlier file preserves the original examples and their development history; its paragraphing and phrasing are illustrations, not a required answer architecture.
 >
-> **They do not disagree. The Chain Bank versions are these, expanded.** If you ever find the two contradicting each other on a fact or a judgement, **the Chain Bank is right and this page is wrong** — it is the maintained one.
+> Both this file and the Chain Bank models are constructed and unscored. If their case details differ, follow the question paper and matched mark scheme for the question you are answering.
 
 ---
 
-## The 12-mark architecture (recap)
+## What the selected 12/12s illustrate—not a prescribed architecture
 
-Recall from the verified 12/12 that the top-band structure is:
+The five scripts compared in `16_Five_Verified_Twelve_Markers.md` differ in length, paragraph count, whether they define a term, and whether they use a separate conclusion. They illustrate possible ways to combine relevant knowledge, contextual reasoning and evaluation; none establishes a mandatory order, paragraph count, opening or conclusion formula.
 
-```
-PARA 1  Knowledge + immediate answer to the question  (AO1 + AO2)
-PARA 2  "However" — turn against your own argument    (AO3)
-PARA 3  "Alternatively" — a second line of reasoning  (AO2 + AO3)
-PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
-```
-
-**Continuous prose only.** The May 2023 P2 examiner report states bullets *"will not allow them to gain the higher levels."*
+The May 2023 P2 report comments on bullet points for that paper. Treat that as report-specific advice, not a universal mark cap or a substitute for the question's levels. Check the exact prompt, mark scheme and available examiner guidance.
 
 ---
 
@@ -83,7 +76,7 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 >
 > However, researching trends and preferences takes time, and other restaurants may respond more quickly to changes in food trends. If a rival launches a similar dish first, Nando's has paid the research cost without gaining the advantage. Nando's may also prefer to use a product-orientated approach and focus on developing and improving dishes based on what it believes is superior quality and innovation, rather than primarily on customer preferences or market trends. This matters because Nando's built its reputation on a distinctive flavour that customers came to it for, and chasing every customer preference could weaken that identity.
 >
-> Overall, market orientation will help Nando's remain competitive to a large extent. This depends on how quickly trends change in its market and on whether Nando's can act on its research faster than its rivals. In the short term market research adds cost, but in the long term it should keep the menu aligned with what customers are willing to pay for.
+> Overall, market orientation may support Nando's future success, but it cannot guarantee it. Its value depends on whether research reflects changing customer preferences and whether Nando's can act on the findings before they become outdated. Research takes time and may use resources; a customer-informed menu could reduce the risk of an unpopular dish if the findings are reliable, but actual demand and competitors' responses remain uncertain.
 
 **Mark scheme content used:** AO1 (market orientation definition) · AO2 (understand tastes; assess new dish success) · AO3 (meals suiting tastes → repeat purchases; changes to menu) · AO4 (research takes time, rivals respond faster; product-orientated alternative based on superior quality/innovation)
 
@@ -103,7 +96,7 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 >
 > However, this could also be a threat to Four Fitness that it would have to address in order to keep its customers. One response would be to introduce its own online videos, charging a small amount to encourage customers to watch them and offer an alternative to free platforms. This protects revenue from customers who would otherwise stop attending altogether. There are a lot of fast-paced changes in customer needs, though, and as Four Fitness is only a small business it may not have the funds to keep up with all of them. Bigger gyms offering more services at a more reasonable price may outcompete Four Fitness as they may offer more choice, and Gianni cannot match them on either scale or price.
 >
-> Overall, Four Fitness must respond, and the most effective response is a combination of updating its equipment and instructors and offering its own low-cost online content. This depends on how much Gianni can invest and on how many members prefer home workouts. In the short term the investment in new equipment will reduce profit, but in the long term it is the only way for a small gym to stay credible against both larger gyms and free online alternatives.
+> Overall, Four Fitness may need to adapt if members are switching to home workouts or competitors offer facilities it lacks. The best response depends on members' preferences and the resources Gianni can commit. Equipment, instructor development or online content may help retain particular customers, but each has costs and none is established as the only viable route; actual uptake would determine whether the investment pays off.
 
 **Mark scheme content used:** AO1 (changes in customer needs; changes in spending patterns) · AO2 (up-to-date equipment/instructor knowledge; online videos as lower-cost alternative) · AO3 (growing industry draws health-conscious individuals; threat requiring response; online videos at a small charge) · AO4 (fast-paced change, small business lacks funds; bigger gyms outcompete on price and choice)
 
@@ -143,7 +136,7 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 >
 > However, TQM involves disruption to the manufacturing facility as new processes are introduced, which could cause delays and late deliveries of robots to the hotel and hospital customers. A hospital that is let down may not order again, so the disruption itself carries a commercial risk. The cost of training all employees in TQM takes time and is costly, which could reduce profitability in the short term and increase the price of the robots, making Saha uncompetitive in the robot market. Saha is therefore trading an immediate fall in profit for a longer-term gain in quality and reputation.
 >
-> Overall, introducing TQM would have a positive effect on Saha in the long term, despite the short-term cost and disruption. This depends on how quickly the new processes are embedded and on whether Saha's customers value reliability over price. In the short term profitability and delivery may suffer, but in the long term defect-free robots should secure both reputation and repeat orders.
+> Overall, TQM could benefit Saha if the quality gains and customer response outweigh the training cost and changeover disruption. Reliability may support reputation and repeat orders, but neither is guaranteed; the effect depends on how the process is implemented and whether contracts can tolerate any delay. Managers would need to weigh these possible longer-term gains against short-term costs and delivery risk.
 
 **Mark scheme content used:** AO1 (TQM ensures fault-free manufacture; trains all employees to reduce waste and cost) · AO2 (quality checks throughout → no defects on delivery; training → less waste in home robots) · AO3 (improved reputation → more customers → increased revenue) · AO4 (disruption → delays/late deliveries to hotels and hospitals; training cost and time → lower short-term profitability, higher prices, less competitive)
 
@@ -170,7 +163,7 @@ PARA 4  "Overall" + "This depends on…" + short vs long term  (AO4)
 >
 > However, Ocean Vibes risk the chance of their reputation being damaged if the franchisees do not operate the boat tours in a responsible manner. Because wildlife tours depend on the environment, a careless operator elsewhere could harm the very thing the brand is built on, and the damage would fall on Ocean Vibes rather than on the franchisee. There are also many competitors in the boat tour market, and Alfred and Pedro may fail to find franchisees who are willing to pay the franchise fees to Ocean Vibes. Without franchisees there is no fee income, only the cost of preparing the franchise offer.
 >
-> Overall, becoming a franchisor would benefit Ocean Vibes to a large extent. This depends on how carefully franchisees are selected and how much demand exists among potential investors. In the short term Ocean Vibes must invest in setting up the franchise, but in the long term the fee income and wider brand recognition should grow the business far faster than opening new sites alone.
+> Overall, franchising could help Ocean Vibes expand without directly owning and managing every new site, if suitable franchisees can be recruited and standards maintained. It may generate fees and wider recognition, but the pace and financial benefit are uncertain and some control is transferred. The decision depends on the founders' growth aims, the terms offered and the risks to the brand.
 
 **Mark scheme content used:** AO1 (franchise definition; set-up/royalty fees) · AO2 (franchisees grow the business in other resorts; revenue from franchisees in Portugal) · AO3 (brand extended, loyalty encouraged; fees fund wildlife research fulfilling Alfred and Pedro's goal) · AO4 (reputation damaged if franchisees operate irresponsibly; many competitors and possible failure to find franchisees willing to pay fees)
 

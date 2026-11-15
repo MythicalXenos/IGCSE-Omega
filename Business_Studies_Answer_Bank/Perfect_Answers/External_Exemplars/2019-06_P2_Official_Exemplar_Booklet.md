@@ -675,4 +675,4 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 
 **Total: 17 official exemplar responses**, every one with verbatim question, official mark scheme, verbatim candidate response, awarded mark, and the examiner's own line-by-line reasoning.
 
-**Note what is still missing across the whole 4BS1 bank:** a verified **9/9** on Paper 2 *or* Paper 2R Justify, and a verified **12/12** on any Paper 2 Evaluate. Pearson's own road map records **no full-mark 12-mark exemplar for Paper 2 or 2R in any series**.
+**Historical scope note:** this June 2019 booklet itself contains no 9/9 Justify or 12/12 Evaluate script for P2/P2R. Later 2019–2026 sources checked for the current bank do include P2R 9/9 Justify scripts and 10/12 P2/P2R Evaluate scripts. No P2/P2R 12/12 was located in that checked corpus, but this booklet cannot establish an absence across all series.
