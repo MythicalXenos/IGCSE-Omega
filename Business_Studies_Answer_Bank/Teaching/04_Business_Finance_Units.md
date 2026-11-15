@@ -12,7 +12,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.1.1 — Why a business needs finance
 
-**Requirement:** finance for short-term needs, long-term needs, starting up and expanding.
+**Requirement (Pearson specification §3.1.1, printed p.14):** finance for short-term needs, long-term needs, starting up and expanding.
 
 **Teach it.** Finance supplies cash to meet expenditure before or while the related receipts arrive. Short-term need is usually a temporary working-capital timing gap (for example, paying suppliers before customers pay); long-term finance supports assets/projects whose benefits extend over years (premises, equipment, product development). Start-up finance funds initial setup and early operations before stable receipts; expansion finance pays for increased capacity, premises, stock, systems or market entry. These labels describe *purpose and time horizon*, not an automatic best source: an overdraft can bridge timing; a long-lived asset should not normally depend on a continuously renewed overdraft. Forecast scale, timing, repayment capacity, cost and risk before choosing. A profitable plan can still fail if cash is unavailable at the due date.
 
@@ -24,7 +24,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.1.2 — Internal sources of finance
 
-**Requirement:** personal savings, retained profit, sale of assets.
+**Requirement (Pearson specification §3.1.2, printed p.14):** personal savings, retained profit, sale of assets.
 
 **Teach it.** Internal finance comes from the owner/business rather than a new outside lender or investor. Personal savings are owner funds introduced at start-up, common for an unincorporated start-up; the amount is limited by personal wealth and is at risk. Retained profit is profit kept in the business rather than distributed; it avoids contractual interest and a new outside owner but is available only if the business has generated profit and retained cash. Accounting profit is not automatically cash. Selling assets converts an existing resource into cash; selling idle/unneeded assets can release funds without new debt, but selling productive assets can reduce capacity and future income. “Internal” identifies origin, not zero cost: using retained profit or an asset has an opportunity cost.
 
@@ -36,7 +36,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.1.3 — External sources of finance
 
-**Requirement:** overdraft and trade payables; loan capital and share capital, including stock-market flotation by public limited companies; venture capital; crowdfunding.
+**Requirement (Pearson specification §3.1.3, printed p.14):** overdraft and trade payables; loan capital and share capital, including stock-market flotation by public limited companies; venture capital; crowdfunding.
 
 **Teach it.** External funds come from another party. An overdraft lets a bank customer temporarily withdraw beyond its balance up to an agreed limit; it is flexible for short cash gaps but can be repayable on demand, variable-rate and expensive if used permanently. Trade payables/trade credit mean suppliers allow payment after delivery; this preserves cash temporarily but is short term, may forfeit a prompt-payment discount, and can damage supplier relations if late. Loan capital is borrowed for an agreed period and normally incurs interest and repayment obligations; it does not normally dilute ownership, but adds fixed commitments/security risk. Share capital exchanges ownership rights for investment; a public limited company can raise shares by flotation on a stock market, but issue costs, disclosure and dilution of existing ownership/control matter. Venture capital is investment from specialist investors, often for higher-growth businesses; it may bring expertise/network as well as money, in return for an ownership stake and influence. Crowdfunding raises funds from many people through a platform; success is uncertain and campaigns can require fees, effort, delivery promises or equity/reward obligations. Match source to amount, duration, risk, control, cost, stage and repayment ability.
 
@@ -48,7 +48,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.2.1 — Why cash matters; cash is not profit
 
-**Requirement:** cash pays suppliers, overheads and employees; helps prevent insolvency; distinguish cash from profit.
+**Requirement (Pearson specification §3.2.1, printed p.14):** cash pays suppliers, overheads and employees; helps prevent insolvency; distinguish cash from profit.
 
 **Teach it.** Cash is money available now. Businesses need it to settle wages, rent/other overheads, suppliers and debts when due. Inability to pay debts as they fall due can create insolvency and threaten survival even when sales and accounting profit look healthy. Profit is revenue less relevant costs over an accounting period; it may include credit sales not yet collected and non-cash expenses, so profit is not the bank balance. Conversely, borrowing can increase cash without being revenue/profit, and buying equipment may reduce cash before the cost is fully recorded as an expense. Cash management and profitability are related but answer different questions.
 
@@ -60,7 +60,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.2.2 — Calculate and interpret a cash-flow forecast
 
-**Requirement:** cash inflows, cash outflows, net cash flow, opening and closing balances.
+**Requirement (Pearson specification §3.2.2, printed p.14):** cash inflows, cash outflows, net cash flow, opening and closing balances.
 
 **Teach it.** A cash-flow forecast predicts cash receipts and payments over future periods. Inflows are cash received (e.g. customer receipts, loan proceeds); outflows are cash paid (e.g. suppliers, wages, rent). Net cash flow for a period = total inflows − total outflows; closing balance = opening balance + net cash flow, and becomes next period’s opening balance. A positive net flow does not guarantee a positive closing balance; a negative net flow can be manageable if opening cash is sufficient, though repeated deficits need action. Forecasts are estimates and depend on timing/accuracy. Borrowing is a cash inflow but not sales revenue; credit sales enter the forecast when cash is expected, not just when invoiced.
 
@@ -72,7 +72,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.3.1 — Revenue, costs, profit and loss
 
-**Requirement:** concepts/calculations of revenue, fixed and variable costs, total costs, profit and loss.
+**Requirement (Pearson specification §3.3.1, printed p.14):** concepts/calculations of revenue, fixed and variable costs, total costs, profit and loss.
 
 **Teach it.** Revenue is sales income: selling price × quantity sold. Fixed costs do not vary directly with output over the relevant range/time (e.g. monthly rent); variable costs change with output (e.g. material cost per item × units). Total costs = total fixed costs + total variable costs. Profit = revenue − total costs; a negative result is a loss. “Fixed” does not mean never changes: rent can change when a lease renews, and step-fixed costs may rise when capacity thresholds are crossed. Do not confuse variable cost per unit with total variable cost.
 
@@ -80,35 +80,39 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 **Answer / recalculation.** Revenue = 500 × £18 = **£9,000**. Variable costs = 500 × £6 = **£3,000**. Total costs = £2,500 + £3,000 = **£5,500**. Profit = £9,000 − £5,500 = **£3,500 profit** (not £3,500 per unit). At 100 boxes, revenue = £1,800, variable costs = £600, total costs = £3,100, so £1,800−£3,100 = **−£1,300**, i.e. a £1,300 loss. Rationale: distinguish per-unit from total variable cost; show each step, recognise a negative profit as a loss, and label pounds. No score assigned.
 
-**Official P2 link and review.** May 2023 P2 Q1(a)(vi), QP p.5, tests that revenue and total costs are equal at break-even, which depends on these concepts; MS PDF p.4 gives D. It does not provide a full revenue/cost/profit computation, so the arithmetic exercise is constructed. Specification §3.3.1, p.14.
+**Official P2 link and review.** May 2023 P2 Q1(a)(vi), QP p.5, tests that revenue and total costs are equal at break-even, which depends on these concepts; MS PDF p.5 gives D. It does not provide a full revenue/cost/profit computation, so the arithmetic exercise is constructed. Specification §3.3.1, p.14.
 
 ## 3.3.2 — Break-even concept and calculation
 
-**Requirement:** break-even output from a formula or diagram.
+**Requirement (Pearson specification §3.3.2, printed p.14):** break-even output from a formula or diagram.
 
 **Teach it.** Break-even is the output at which total revenue equals total costs; profit is zero there. Contribution per unit = selling price − variable cost per unit. Break-even output = total fixed costs ÷ contribution per unit. Units must be whole units in a physical-output problem (if the result is fractional, round up to the next unit to reach or exceed break-even). In a diagram, locate the intersection of total-revenue and total-cost lines, then read its output from the horizontal axis. Do not treat fixed costs crossing revenue as break-even: variable costs are included in total costs.
 
-**Practice — constructed, unscored.** Fixed costs are £12,000; price is £30 per unit; variable cost is £18 per unit. Calculate break-even output. A second chart shows the total-revenue and total-cost lines crossing at output 1,000; identify what is equal there.
+**Labelled chart — constructed for this unit:** fixed costs £12,000; selling price £30/unit; variable cost £18/unit. The axes are output (units) and revenue/costs (£); blue is total revenue, red is total costs; the dotted guide reads the break-even output.
 
-**Answer / recalculation.** Contribution = £30 − £18 = **£12 per unit**. Break-even = £12,000 ÷ £12/unit = **1,000 units**. At the chart intersection, total revenue equals total costs (not profit). Units cancel correctly: pounds ÷ pounds per unit = units. Rationale: calculate contribution before dividing; apply the diagram definition. No invented official mark.
+![Labelled break-even chart: total revenue and total costs intersect at 1,000 units and £30,000.](assets/break_even_chart.svg)
 
-**Official practice and checked answer.** May 2023 P2 Q1(a)(vi), QP p.5/MS PDF p.4, asks what is equal at break-even on a graph; official answer is total costs and revenue. It is an identity/interpretation item, not the calculation method, so the calculation above is constructed and unscored. Specification §3.3.2, p.14.
+**Practice — constructed, unscored.** (a) Calculate break-even output from the figures above. (b) Read the graph: state the fixed-cost intercept; read the break-even output and money value; at 1,500 units, read total revenue and total costs and calculate the profit/loss. (c) Explain why the fixed-cost line alone does not define break-even.
+
+**Answer / recalculation.** (a) Contribution = £30 − £18 = **£12 per unit**. Break-even = £12,000 ÷ £12/unit = **1,000 units**. (b) Fixed-cost intercept = **£12,000**. Break-even is **1,000 units, £30,000**. At 1,500 units, revenue = 1,500×£30 = **£45,000**; total costs = £12,000 + (1,500×£18) = **£39,000**; profit = **£6,000**. (c) Fixed costs do not include variable costs; only where total revenue meets total costs is profit zero. Units cancel correctly: pounds ÷ pounds per unit = units. Rationale: read each line at the same output and subtract total costs from revenue. No invented official mark.
+
+**Official practice and checked answer.** May 2023 P2 Q1(a)(vi), QP p.5/MS PDF p.5, asks what is equal at break-even on a graph; official answer is total costs and revenue. It is an identity/interpretation item, not the calculation method, so the calculation above is constructed and unscored. Specification §3.3.2, p.14.
 
 ## 3.3.3 — Interpret break-even charts; changes and limitations
 
-**Requirement:** interpret effects of revenue/cost changes and limitations of break-even charts.
+**Requirement (Pearson specification §3.3.3, printed p.14):** interpret effects of revenue/cost changes and limitations of break-even charts.
 
 **Teach it.** On a standard chart, output is horizontal; money values are vertical. A higher selling price steepens/raises total revenue for a given output, increasing contribution and—if other assumptions hold—lowering break-even output. A higher variable cost per unit steepens total costs, reduces contribution and raises break-even output. Higher fixed costs raise the total-cost line and increase break-even. A chart simplifies reality: it often assumes constant selling price and unit variable cost, fixed costs within a relevant range, all output sold, one product or stable product mix, and known values. Demand may fall after a price rise; capacity, quality, waste and uncertainty may alter costs. Break-even is a planning aid, not a guaranteed forecast.
 
-**Practice — constructed, unscored evaluation.** Use the figures in 3.3.2 (fixed £12,000, price £30, variable £18, BE 1,000 units). (i) Recalculate BE if price rises to £33 and all else stays constant. (ii) Recalculate if instead variable cost rises to £20. (iii) Recalculate if fixed costs rise to £15,000 while price and variable cost stay unchanged. (iv) Advise a manager whether a price rise is certain to reduce the business’s actual risk of loss.
+**Practice — constructed, unscored interpretation/evaluation.** Use the chart in §3.3.2 (fixed £12,000, price £30, variable £18, BE 1,000 units). (i) Recalculate BE if price rises to £33 and all else stays constant; describe how the total-revenue line changes. (ii) Recalculate if instead variable cost rises to £20; describe how the total-cost line changes. (iii) Recalculate if fixed costs rise to £15,000 while price and variable cost stay unchanged; describe the graph shift and new intersection. (iv) Advise whether a price rise is certain to reduce actual risk of loss.
 
-**Answer / recalculation and rationale.** (i) Contribution = £33−£18=£15; £12,000÷£15=**800 units**. (ii) Contribution = £30−£20=£10; £12,000÷£10=**1,200 units**. (iii) Contribution remains £12; £15,000÷£12=**1,250 units**. (iv) Not certain: the model’s ceteris-paribus result is lower BE at unchanged volume/costs, but a higher price may reduce demand; if sales fall below 800 units, the price change may not improve the outcome. Check capacity, actual demand elasticity and other costs before deciding. Credit correct calculations, interpretation of revenue/cost shifts and a qualified judgement tied to assumptions. No official score claimed.
+**Answer / recalculation and graph-reading rationale.** (i) Contribution = £33−£18=£15; £12,000÷£15=**800 units**. At each output the revenue line is steeper/higher; the new intersection moves left, assuming demand and all other costs unchanged. (ii) Contribution = £30−£20=£10; £12,000÷£10=**1,200 units**. The total-cost line becomes steeper while its £12,000 intercept stays fixed; the intersection moves right. (iii) Contribution remains £12; £15,000÷£12=**1,250 units**. The total-cost line shifts vertically up by £3,000 in the relevant range (same variable-cost slope); the revenue line stays put and the intersection moves right. (iv) Not certain: the model gives a lower BE at unchanged sales/costs, but a higher price may reduce demand; if sales fall below 800 units, the price change may not improve the outcome. Check demand, capacity and other costs. Credit correct line movement, arithmetic and qualified interpretation; no official score claimed.
 
 **Checked record / anchor.** Current spec §3.3.3 p.14. The May 2023 P2 Q1(a)(vi) item checks the graph’s equality at break-even only; it does not check cost/revenue shifts or limitations. This constructed exercise intentionally supplies the missing practice and was recalculated. Do not attribute the older P1 SAM Q2(f) break-even option choice to P2.
 
 ## 3.4.1 — Statement of comprehensive income
 
-**Requirement:** purpose and main features (sales, cost of sales, gross profit, expenses, operating profit); use in decisions; nature/importance of profit. Learners are **not required to construct** an income statement.
+**Requirement (Pearson specification §3.4.1, printed p.15):** purpose and main features (sales, cost of sales, gross profit, expenses, operating profit); use in decisions; nature/importance of profit. Learners are **not required to construct** an income statement.
 
 **Teach it.** A statement of comprehensive income summarises financial performance over a period. Sales/revenue less cost of sales gives gross profit; subtract other operating expenses to obtain operating profit. Gross profit indicates what remains from sales after the direct cost of goods/services sold; operating profit reflects operating expenses as well. Profit is revenue exceeding costs for the period and rewards business risk; retained profit can finance future activity, but accounting profit is not identical to cash. Managers can compare periods, investigate cost/revenue changes and decide whether to change prices, product range or expenses. Context and other evidence matter: one period or one profit figure alone does not prove overall success. The exam requires interpretation, not construction of the statement.
 
@@ -120,7 +124,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.4.2 — Statement of financial position
 
-**Requirement:** purpose and main features—current/non-current assets, current/non-current liabilities, capital employed—and interpretation; learners are **not required to construct** the statement.
+**Requirement (Pearson specification §3.4.2, printed p.15):** purpose and main features—current/non-current assets, current/non-current liabilities, capital employed—and interpretation; learners are **not required to construct** the statement.
 
 **Teach it.** The statement of financial position is a snapshot at a date, unlike an income statement’s period. Assets are resources controlled: current assets are expected to be realised/used within the operating cycle or short term (e.g. cash, receivables, inventory); non-current assets support operations longer term (e.g. premises/equipment). Liabilities are obligations: current liabilities fall due soon (e.g. trade payables/short-term borrowing); non-current liabilities are due later (e.g. long-term loans). Capital employed represents long-term capital committed to the business; in a balanced simplified statement it can be expressed as equity plus non-current liabilities, equivalently total assets less current liabilities. Treat classifications and date carefully. A high asset figure is not automatically good: assets may be illiquid, obsolete or financed by debt. No statement construction is required by the specification; interpret a supplied extract.
 
@@ -132,7 +136,7 @@ The earlier figures **−200,000 Tks** and **15,500 Tks** are from **P1 Q1(a)(v�
 
 ## 3.5.1 — Calculate and analyse six accounting ratios
 
-**Requirement:** gross profit margin; operating profit margin; markup; ROCE; current ratio; acid test ratio. Pearson’s specified formulae are provided in the examination (Appendix 4, p.30).
+**Requirement (Pearson specification §3.5.1, printed p.15):** gross profit margin; operating profit margin; markup; ROCE; current ratio; acid test ratio. Pearson’s specified formulae are provided in the examination (Appendix 4, p.30).
 
 **Teach it.** Margins express profit as a share of revenue; markup expresses profit as a share of cost, so do not use the same denominator. ROCE relates operating profit to capital employed and indicates return on long-term funds invested. Current and acid-test ratios compare short-term assets to current liabilities; acid test removes inventory because inventory may not convert quickly to cash. Profitability percentages and liquidity ratios answer different questions; compare over time/with similar businesses and explain business-specific causes rather than declaring a ratio universally “good.”
 
@@ -155,7 +159,7 @@ All currency values are pounds; pounds cancel in ratios. Profit per unit is £40
 
 ## 3.5.2 — Liquidity and comparisons
 
-**Requirement:** concept/importance of liquidity; compare with previous years and/or other organisations.
+**Requirement (Pearson specification §3.5.2, printed p.15):** concept/importance of liquidity; compare with previous years and/or other organisations.
 
 **Teach it.** Liquidity is the ability to meet current liabilities as they fall due. Current ratio includes inventory; acid test excludes it. Compare the business with itself across years and/or similar organisations, using consistent accounting periods and business models. A fall in either ratio may signal less cover, but the cause matters: expansion, seasonal timing, a deliberate inventory reduction or improved cash collection can alter the figure. A very high ratio is not automatically efficient if cash or inventory is idle. Ratios use a date’s balances and cannot show exact payment timing, asset quality, supplier terms or future inflows; use the wider evidence.
 
@@ -167,7 +171,7 @@ All currency values are pounds; pounds cancel in ratios. Profit per unit is £40
 
 ## 3.5.3 — Use financial documents to assess performance and inform decisions
 
-**Requirement:** use financial documents to assess business performance and inform decisions.
+**Requirement (Pearson specification §3.5.3, printed p.15):** use financial documents to assess business performance and inform decisions.
 
 **Teach it.** Do not read an income statement, position statement or ratios in isolation. A statement of comprehensive income shows performance over a period (sales, costs, profit); a statement of financial position shows resources and obligations at a date (assets, liabilities, capital employed). Ratios support comparisons but need context and valid, consistent figures. Link evidence to a decision: e.g. falling margin may prompt investigation of cost/price, while weak liquidity may justify delaying expansion or arranging working capital. State uncertainty and what further evidence is needed. A decision should consider objective, cash timing, risk, non-financial effects and whether a trend is temporary. Profitability is not the same as liquidity or overall success.
 
@@ -182,7 +186,7 @@ All currency values are pounds; pounds cancel in ratios. Profit per unit is £40
 ## Batch review record and coverage boundary
 
 - Checked all 13 codes and nested points against the current specification: §3.1–3.3 printed p.14, §3.4–3.5 p.15, Appendix 4 p.30.
-- Official P2 practice checked in identity-matched May 2023 4BS1/02 QP/MS: Q1(a)(ii) venture capital (QP p.3, MS PDF p.4); Q1(a)(iii) currency conversion (QP p.4, MS PDF p.4); Q1(a)(iv) markup (QP p.4, MS PDF p.5); Q1(a)(vi) break-even chart identity (QP p.5, MS PDF p.5); Q1(e) gross profit margin (QP p.6, MS p.7); Q2(c) cash-flow forecast importance (QP p.9, MS p.11); Q3(a) overdraft (QP p.13, MS p.16); Q4(a) percentage fall in inventory (QP p.17, MS p.21; not itself a ratio); Q4(b) income statement use (QP p.18, MS p.22). The reviewed QP/MS files identify P72953A and May 2023 4BS1/02. The May 2023 sources provide sample anchors, not complete specification coverage.
+- Official P2 practice checked in identity-matched May 2023 4BS1/02 QP/MS: Q1(a)(ii) venture capital (QP p.3, MS PDF p.4); Q1(a)(iii) currency conversion (QP p.4, MS PDF p.4); Q1(a)(iv) markup (QP p.4, MS PDF p.5); Q1(a)(vi) break-even chart identity (QP p.5, MS PDF p.5); Q1(e) gross profit margin (QP p.6, MS p.7); Q2(c) cash-flow forecast importance (QP p.9, MS p.11); Q3(a) overdraft (QP p.13, MS p.16); Q4(a) percentage fall in inventory (QP p.17, MS p.21; not itself a ratio); Q4(b) income statement use (QP p.18, MS p.22). The reviewed QP/MS files identify P72953RA and May 2023 4BS1/02. The May 2023 sources provide sample anchors, not complete specification coverage.
 - Corrected the 2016 SAM P1/P2 contamination: P1 Q1(a)(v–vi), QP p.8, contains −200,000 Tks and 15,500 Tks. P2 examples are distinct: markup and GPM in P2 Q1, and funding choice in P2 Q3(e), with the exact P2 page anchors above. Do not claim the P1 cash-flow/exchange questions as P2.
 - Constructed exercises are clearly labelled and not assigned Pearson scores. Each arithmetic example above was recomputed; ratios/percentages carry explicit denominators and units/rounding. Source-derived mark rationale is labelled only for the identified official questions.
 - This Finance batch does not finish the other four specification sections, the rest of the answer bank, 2020 identity resolution, or the full historical archive review. Do not change the overall completion verdict on the basis of this batch alone.
