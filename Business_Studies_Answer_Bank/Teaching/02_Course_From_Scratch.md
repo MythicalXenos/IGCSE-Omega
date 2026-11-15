@@ -143,7 +143,7 @@ vocabulary.**
    marked down for using 330 000 when the scheme used **330 606** — the scheme outranks your mental
    arithmetic.
 
-**The formula sheet — memorise all nine.** (Derived from the 2-mark items in all 19 papers.)
+**Quick formula reference — distinguish supplied exam formulae from relationships to learn.** Pearson provides the Appendix 4 accounting-ratio formulae in the examination; practise selecting inputs, calculating and interpreting them. The other basic relationships below are teaching aids, not a claim that a fixed question number or sequence is guaranteed.
 
 | Formula | |
 |---|---|
@@ -154,7 +154,7 @@ vocabulary.**
 | Margin of safety | actual sales − break-even sales |
 | Gross profit | revenue − cost of sales |
 | **Gross profit margin** | (gross profit ÷ revenue) × 100 |
-| Operating profit | gross profit − other expenses |
+| Operating profit | gross profit − other operating expenses |
 | **Operating profit margin** | (operating profit ÷ revenue) × 100 |
 | **ROCE** | (operating profit ÷ capital employed) × 100 |
 | Mark-up | ((selling price − cost) ÷ cost) × 100 |
@@ -164,9 +164,7 @@ vocabulary.**
 | **Acid test** | (current assets − stock) ÷ current liabilities |
 | Retained profit | profit − dividends (or drawings) |
 
-> **Exam habit:** the four calculations are **1(e), 3(b), 3(c), 4(a)** — always. When a table of
-> figures is printed (Figure 1, Figure 2), the 2-mark question after it is the calculation and the
-> 6-mark is usually *"how useful is this information"*. Read the table's row and column headings first.
+> **Exam habit:** calculation locations and sequencing are not fixed across every series. Read the command word, table headings, unit and requested rounding; show a method and interpret what the result means. See [`04_Business_Finance_Units.md`](04_Business_Finance_Units.md) for the current-spec, source-checked finance explanations and practice.
 
 ---
 
@@ -505,14 +503,14 @@ only as a multiple-choice or a one-line definition — learn the sentence, not a
 |---|---|---|
 | **Sources — internal** | Theme 3 + Lesson 4 | retained profit, sale of assets, personal savings (for a sole trader/partnership) |
 | **Sources — external** | Theme 3 + Lesson 4 | bank loan, overdraft, venture capital, crowdfunding, share capital, leasing, trade credit |
-| Short vs long term | 1-mark | overdraft/trade credit are short; loan/venture capital/shares are long |
-| **Cash and cash flow** | Theme 3 + 6-mark | cash vs profit; forecast; net cash flow; opening and closing balance; why shortages are fatal |
+| Short vs long term | Finance unit §3.1.1–3.1.3 | overdrafts/trade payables are normally short term; loan duration is agreed; shares and venture investment are generally longer-horizon but bring ownership/control considerations |
+| **Cash and cash flow** | Finance unit §3.2.1–3.2.2 | cash vs profit; supplier/overhead/payroll payments; forecast inflows/outflows/net flow/opening/closing balances; why shortages threaten solvency |
 | **Costs, revenue, profit** | Theme 3 + Lesson 1 | fixed vs variable; total cost; revenue; gross vs operating profit; retained profit |
 | **Break-even** | Theme 3 + 6-mark | the calculation, the chart, margin of safety, and **its assumptions** |
 | **Budgets** | Theme 3 | planning and control; variance; who owns the budget |
 | **Statement of comprehensive income** | Theme 3 | revenue − cost of sales = gross profit − expenses = operating profit |
-| **Statement of financial position** | Theme 3 | assets, liabilities, equity — what it owns and owes |
-| **Ratios** | Theme 3 + Lesson 1 | gross profit margin, operating profit margin, ROCE, current ratio, acid test |
+| **Statement of financial position** | Finance unit §3.4.2 | current/non-current assets and liabilities; capital employed; snapshot of what the business controls and owes |
+| **Ratios** | Finance unit §3.5.1–3.5.2 | gross profit margin, operating profit margin, markup, ROCE, current ratio, acid test; calculate with supplied formulae and interpret/compare carefully |
 | Financial documents | Theme 3 | invoices, statements, receipts — and why a bank or shareholder reads them |
 
 ### Theme 4 — Marketing
