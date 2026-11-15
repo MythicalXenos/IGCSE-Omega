@@ -27,7 +27,8 @@ NOTES = {
     ("MayJune 2020", "P2"): "QP prints 2 June 2020 and P62427A; paired MS cover says November 2020 / 4BS1_02_2011_MS. Sampled Q1(a)(i), Q1(a)(ii), Q1(a)(iii) content aligns. Preserve the session/publication-label discrepancy; administration/cancellation status not established here.",
     ("MayJune 2020", "P2R"): "QP prints 2 June 2020 and P62429A; paired MS cover says November 2020 / 4BS1_02R_2011_MS. Session/publication-label discrepancy preserved; administration/cancellation status not established here.",
     ("MayJune 2022", "P2R"): "QP log P70350A; MS cover text extracts P70350 (suffix A omitted) and uses Paper 02/R cover wording. Session/case sequence registered; keep the printed-code anomaly visible.",
-    ("June 2026", "P2"): "QP and MS printed log P79460A and 4BS1/02, Summer 2026.",
+    ("Nov 2021", "P2"): "QP and MS identify November 2021 4BS1/02; sampled Q1 question/answer content aligns. This is a sample check, not a full-paper pairing audit.",
+    ("June 2026", "P2"):  "QP and MS printed log P79460A and 4BS1/02, Summer 2026.",
     ("June 2026", "P2R"): "QP and MS printed log P79461A and 4BS1/02R, Summer 2026.",
 }
 
@@ -42,7 +43,7 @@ LOCAL_ERS = {
 }
 SAMPLED_CONTENT = {
     ("MayJune 2020", "P2"): "SAMPLED Q1(a)(i-iii) QP/MS content aligns; session identity unresolved",
-    ("November 2021", "P2"): "SAMPLED Q1 content aligns; cover identity/session read",
+    ("Nov 2021", "P2"): "SAMPLED Q1 content aligns; cover identity/session read",
     ("May 2023", "P2"): "Q4(c) QP/MS/ER prompt, mark and script cross-checked; ER pp.56-58",
     ("June 2026", "P2"): "QP/MS covers and codes match; no full item content audit",
     ("June 2026", "P2R"): "QP/MS covers and codes match; no full item content audit",
@@ -107,7 +108,7 @@ for r in sorted(rows, key=lambda x: (x["Session"], x["Paper"])):
         "ms_read_review_status": "HELD_READABLE; cover/page-count opened; full mark scheme not reviewed",
         "qp_ms_identity_status": qcode_mcode_status,
         "qp_ms_content_sample_status": SAMPLED_CONTENT.get((r["Session"], r["Paper"]), "NO_ITEM_LEVEL_CONTENT_COMPARISON_RECORDED"),
-        "SAM_status": "NO_OFFICIAL_4BS1_SAM_PDF_LOCATED_IN_LOCAL_BANK; online availability not verified",
+        "SAM_status": "OFFICIAL_PEARSON_PAPER_SAM_REVIEWED_ONLINE_2026-11-10; not retained locally; see Source_Notes/2026-11-10_Substantive_Sample_Review.md",
         "Pearson_exemplar_status": "Exemplar inventory exists; no per-session completeness or source mapping claimed here",
         "identity_or_session_note": NOTES.get((r["Session"], r["Paper"]), "Cover/session text extracted; use the original printed pages and item-level sources before teaching. This inventory is not a content audit."),
         "source_material_status": "Business case/data are included in the QP PDF; no separate P2/P2R source-material PDF is listed by the pairing register.",

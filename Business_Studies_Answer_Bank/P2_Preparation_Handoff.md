@@ -1,7 +1,24 @@
 # 4BS1/02 Business Paper 2 — source and preparation-bank audit
 
 **Audit snapshot:** 10 November 2026 (UTC)  
-**Verdict:** **Yes — an essential preparation-resource gap remains.** The repository has broad indexed practice and a useful collection of official materials, but no fully source-verified P2 preparation bank has been established by this audit. Do not represent the answer bank as comprehensively reviewed, fully verified, or a readiness measure.
+**Current decision: NOT COMPLETE.** This handoff now points to a specification-clause matrix and a bounded source-backed sample review. They do **not** satisfy the full requested verification task; do not represent the answer bank as comprehensively reviewed, fully verified, or a readiness measure.
+
+## Latest continuation update — 10 November 2026
+
+The source-backed sample review is retained at [`Source_Notes/2026-11-10_Substantive_Sample_Review.md`](Source_Notes/2026-11-10_Substantive_Sample_Review.md). The spec-linked matrix is [`Source_Notes/P2_Bullet_Coverage_Matrix.csv`](Source_Notes/P2_Bullet_Coverage_Matrix.csv): **59 numbered subject-content clauses** from the February 2026 specification plus **7 cross-cutting skill rows**. Of 66 rows, **19 are partial source/practice samples and 47 have no sample recorded; 0/59 subject-content clauses have substantively checked teaching content mapped alongside suitable checked practice**. “Partial” is not coverage. The matrix groups nested sub-bullets inside each numbered specification clause; a future complete pass must verify each sub-bullet, not just each clause heading.
+
+The May 2023 P2 sample cross-checks six tariffs (1, 2, 3, 6, 9 and 12 marks), but only one or a few items per tariff. Pearson-scored examples: 1/1, 2/2, 3/3, 6/6, 5/9 and 10/12; exact sources and limits are in the review note. **There is no reviewed 9/9 or 12/12 candidate in this continuation sample.** These marks are not invented and do not verify the bank's other answers.
+
+The official Pearson paper-based SAM URL was read through fetched PDF text extraction. P2 starts at printed p.35 and its MS at p.51. Sample calculations/content were checked, but OCR/layout artifacts limit exact quotation; the PDF was **not retained locally**, so this is not a locally held source. It is a 2016 SAM and has not been checked item-by-item against the 2026 specification. The inventory now records this accurately and the online review note is durable. Do not treat the SAM sample as a current-spec coverage map.
+
+November 2021 key normalization is preserved in the generator and regenerated inventory: the `Nov 2021` P2 row receives its Q1 sample annotation after a rebuild. That is evidence of sampled Q1 alignment, not full QP/MS identity/content verification. The 2020 archive/session identity conflicts remain unresolved and must remain quarantined pending positive identity evidence.
+
+### Independent verdicts (do not conflate)
+
+- **Complete trusted preparation coverage:** **NO.** 0/59 subject-content clauses currently have a substantively checked teaching-content mapping paired with suitable checked practice. The 19 partial samples are not verified coverage. The largest specific gaps include the unreviewed teaching answer set; objectives/ownership/sector/location/international trade/government/external factors; communication; most recruitment and training; motivation theories and methods; structures/functions; sources of finance; many cash-flow/cost/break-even and ratio calculation/interpretation variants; market research; most marketing mix and segmentation; production/productivity/lean/robotics/factors of production/quality; and complete AO/command-word skill coverage. See every row in the CSV for finer gaps.
+- **Verification of the entire historical bank:** **NO.** 19/19 P2/P2R pairs have readable QPs and MSs, but only bounded sampled identity/content checks exist. Not all historical QPs, MSs, ERs, scripts, answer-bank guidance or pairings have been fully reviewed. The 2020 identity discrepancy is unresolved. Readability or an archive pairing is not historical-bank verification.
+
+**Next work remains substantive:** systematically review teaching answers against the February 2026 spec and matched Pearson MS/ER; turn each nested specification sub-bullet into checked content plus practice; retain the SAM PDF locally if access permits and complete the current-spec item comparison; source-check/resolve or quarantine every historical identity anomaly; continue the paper/MS/ER and answer-bank audit; then replace these verdicts only when counts are supported by completed evidence.
 
 ## 1. Scope, evidence standard and limits
 
