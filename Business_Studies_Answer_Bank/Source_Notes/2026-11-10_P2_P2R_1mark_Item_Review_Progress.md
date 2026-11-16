@@ -71,7 +71,7 @@ Source pairs are in `Paperlords_Archive/IGCSE/4BS1_Business_Studies/June_2026/`.
 
 ## Corrections to earlier audit-note details
 
-The earlier two-mark progress record has been corrected: November 2021 Huawei operating-profit margin is `73,287 ÷ 721,202 × 100 = 10.161785…%` (displayed to two decimal places as 10.16%, not 10.159…%). May–June 2025 P2R Q1(e)'s exchange rate is **US$0.93 per €1**, so converting €1,590 into US dollars requires dividing by dollars per euro. These corrections do not change the prior two-mark review count or official source wording.
+The earlier two-mark progress record has been corrected: November 2021 Huawei operating-profit margin is `73,287 ÷ 721,202 × 100 = 10.161785…%` (displayed to two decimal places as 10.16%, not 10.159…%). May–June 2025 P2R Q1(e)'s QP rate is **€0.93 per US$1** (euros per dollar); converting €1,590 into US dollars requires dividing by euros per dollar. These corrections do not change the prior two-mark review count or official source wording.
 
 ## Batch 2 — May–June 2019 P2/P2R and May–June 2021 P2 (36/36 reviewed)
 
@@ -185,7 +185,55 @@ The matched QPs/MSs and all 48 by-paper one-mark items were checked. MCQs were a
 
 **Running total: 156/204 reviewed; 48 pending (24 MCQ, 12 Define, 12 State).**
 
-## Remaining batches / review procedure
+## Batch 5 — November 2024 P2, May–June 2025 P2/P2R and November 2025 P2 (48/48 reviewed)
+
+The four matched QP/MS pairs and their 48 one-mark items—November 2024 P2, May–June 2025 P2, May–June 2025 P2R, and November 2025 P2—were checked. All 48 one-mark items and matching by-paper entries were checked. Each MCQ was independently solved from the QP before comparing the exact MS; a wrong distractor rationale is recorded as a source anomaly, not allowed to displace a correct key.
+
+### November 2024 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **D, B, A, D, C, C.** Break-even is total costs=total revenue; franchisee receives franchisor support; job production can improve worker motivation; UAE room price= AED325×1.25=**AED406.25 (D)**; revenue increase=(£772.8m−£249.6m)/£249.6m×100=**209.62% (C)**; personal savings is the keyed internal source. MS/bank keys agree. |
+| 1(b), 1(c), 3(a) — Define | Job description lists tasks/duties/roles/responsibilities for a named job; public corporation is government/state-owned and controlled; net cash flow is the difference between cash in and out over a period. Matched MS meanings and bank transcription agree. |
+| 1(d), 2(a), 2(b) — State | Premier Inn-specific examples: an application form helps assess reception skills/knowledge and may reduce training; marketing can set room prices or advertise hotels; seasonal staff cover summer room demand or holiday student availability. MS demands Premier Inn context; answer-bank examples comply. |
+
+### May–June 2025 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **B, D, C, B, A, D.** Engineering is secondary sector; bank loan is external; latte discount percentage=(5.90−5.35)/5.90×100=**9.32% (C)**; partnership minimum is two; £4.49×92.09 INR/£=**INR413.4841→413.48 (A)**; overdraft is external and appropriate for immediate cash flow. MS/bank keys agree. |
+| 1(b), 1(c), 3(a) — Define | Social enterprise: business aiming to improve human or environmental wellbeing; tertiary sector provides services to consumers/other sectors; crowdfunding: many individuals invest through an online platform. Checked with matched MS/bank; no added universal word or element rules. |
+| 1(d), 2(a), 2(b) — State | Starbucks context: retaining trained baristas can avoid retraining or support progression; good customer communication can encourage repeat purchases or ensure coffee/food orders are understood; safety compliance includes tongs/gloves for food or safe coffee-machine use. MS context filters and bank examples match. |
+
+### May–June 2025 P2R
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **D, C, B, C, B, A.** Raw materials vary with output; age is protected; combined £85+£86 with 12% discount = **£150.48 (B)**; primary research is more current; closing balance €76,000+€54,000−€34,000=**€96,000 (B)**; US interest rate rise 4.5%→6.0% can raise loan repayments. Keys match. MS source annotations: (i) calls insurance “a one-off payment” (overgeneralized; insurance is often recurring/fixed); (iii) says option A is £129.96 under 24% discount while QP option A is £129.65; (v) says B is not correct while describing €88,000, although B is the keyed €96,000 and €88,000 is option A. Each official line remains unchanged; separate teaching notes retain the correct concept/calculation. |
+| 1(b), 1(c), 3(a) — Define | Autonomy: authority for employees to make choices about how they work; qualitative data: attitudes, beliefs and intentions; JIT: goods made/inventory received when needed, reducing inventory held. Matched MS/bank meaning checked. |
+| 1(d), 2(a), 2(b) — State | Rabanne-context examples: test-market a new perfume to see whether customers will buy/adjust before launch; job enrichment can make perfume/aftershave production work more interesting; measure success by Invictus sales growth or comparison of market share. MS contextual requirements and bank entries match. |
+
+**Exchange-rate label correction (applies to the earlier two-mark audit too):** the May–June 2025 P2R QP states **€0.93 = US$1**, i.e. **€0.93 per US$1 (euros per dollar)**. Thus €1,590÷(€0.93/US$1)=$1,709.677…→$1,709.68. The previously published “US$0.93 per €1”/“dollars per euro” label was reversed; the correct label is now recorded in the two-mark and one-mark progress notes. The independent calculation and final amount do not change.
+
+### November 2025 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **A, D, D, C, B, A.** Survival is a financial aim; shipbuilder works in secondary sector; daily remuneration=(210+125+140)×€120=**€57,000 (D)**; hierarchy can provide promotion opportunities; net cash flow=€59,000−€34,000=**€25,000 (B)**; Taylor links motivation to money. Keys match MS/bank. |
+| 1(b), 1(c), 3(a) — Define | Job rotation moves employees between roles/tasks; interest rate is a percentage charged for borrowing or earned on saving; exporter sells products/services to another country. Matched MS meanings retained. |
+| 1(d), 2(a), 2(b) — State | Samsung-context responses: a production role can be assembly/quality control; long-term finance can fund factories/equipment/technology; quality control can reduce defects or protect Samsung’s product reputation. Checked against exact MS context requirements and by-paper examples. |
+
+**Batch 5 scope:** no candidate script/ER award claims were made. QP/MS distractor text anomalies are distinguished from answer-key correctness and from the separately labelled teaching explanations.
+
+**Final total: 204/204 reviewed; 0 pending (0 MCQ, 0 Define, 0 State).**
+
+## Completion and retained limitations
+
+- **Substantive review complete: 204/204; 0 pending.** Each part was checked against the actual QP, same-session MS and answer-bank entry. MCQs were independently solved first, with graph/table interpretation checked from the source page where relevant.
+- The actual one-mark prompts comprise 102 MCQs, 51 Define and 51 State items across 17 usable P2/P2R papers. The May–June 2020 papers remain quarantined; P1/P1R remains out of scope.
+- Definitions were judged by meaning and the precise MS accepted content; no universal element count or word-reuse ban was imposed. State was checked for the item-specific contextual requirement; Define, State, Give and Identify were not merged into a universal rule. The reviewed inventory has no written one-mark Give/Identify prompts.
+- Source wording anomalies and teaching clarification remain separately labelled. There is no evidence of candidate marks for the five reviewed one-mark batches; none are inferred from indicative MS examples or general ER comments. Broader historic repository, other marks/tier contents, unreviewed ERs and candidate-script awards remain outside this limited review.
+
 
 - 180 parts remain across the other 15 usable QPs. Work through each MCQ independently from the source figures/graph/table/options, then compare exact MS key and by-paper entry.
 - For written definitions, inspect the exact MS's accepted concept/example and any accepted alternatives. Do not invent universal element counts or ban reuse of the term where the item does not say so.

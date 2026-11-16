@@ -26,6 +26,10 @@ The only correct answer is D Raw materials
 
 A – is not the correct answer as insurance is a one-off payment
 
+**Source wording note:** the MS's description of insurance as a one-off payment is overgeneralized; insurance is often a recurring fixed cost. This does not change the keyed variable-cost option D.
+
+**Teaching clarification (not Pearson wording):** a variable cost changes with output; raw materials are the clear variable-cost choice here. Insurance may be fixed when paid periodically.
+
 B - is not the correct answer as rent is also a fixed cost for a period of
 
 time
@@ -85,6 +89,10 @@ AO1 - 1 mark
 The only correct answer is B – £150.48
 
 A – is not the correct answer as £129.96 is the cost with 24% discount
+
+**Apparent MS distractor arithmetic anomaly — official wording preserved:** the QP option A is £129.65, whereas the MS's 24%-discount calculation is £129.96. From the QP's £85+£86 price and 12% discount, the independently calculated correct price is £171×0.88=£150.48 (B); the source distractor line is not silently amended.
+
+**Teaching clarification (not Pearson wording):** subtract a 12% discount from the combined £171 price: £171×0.12=£20.52 discount; £171−£20.52=£150.48.
 
 C - is not the correct answer as £160.80 is the cost with the discount
 
@@ -147,6 +155,10 @@ The only correct answer is B – €96 000
 B – is not the correct answer as €88 000 is cash inflow plus cash
 
 outflow
+
+**Apparent MS distractor-letter typo — preserve source:** B is the keyed €96,000 answer, but the following rationale says B is not correct and describes €88,000; in the QP, €88,000 is option A. The key is consistent with the QP figures.
+
+**Teaching clarification (not Pearson wording):** closing balance = opening balance + inflows − outflows = €76,000+€54,000−€34,000=€96,000 (B). €88,000 is inflow + outflow (option A).
 
 C – is not the correct answer as €110 000 is opening balance plus
 
