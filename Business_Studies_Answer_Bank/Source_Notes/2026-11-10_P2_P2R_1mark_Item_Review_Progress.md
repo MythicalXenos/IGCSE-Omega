@@ -105,6 +105,46 @@ Matched QPs and MSs in the corresponding `Paperlords_Archive/IGCSE/4BS1_Business
 
 **Running total: 60/204 reviewed; 144 pending (72 MCQ, 36 Define, 36 State).**
 
+## Batch 3 — May–June 2022 P2/P2R and May 2023 P2/P2R (48/48 reviewed)
+
+The four QPs, exact-session MSs and all corresponding one-mark by-paper entries were checked. Each MCQ was independently answered from the given concept, table, rate or figures before comparing the key; definitions and contextual State items were checked individually against their own MS wording.
+
+### May–June 2022 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **C, A, C, B, D, B.** Cash coming in/out is cash flow; an applicant completes an application form; supplier costs are 1,150,000+4,250,000=5,400,000 versus 4,850,000 revenue, hence **550,000 loss (C)**; franchisees sell an established brand; revenue rose by 2.31/38.5×100=6% (D); wage issue belongs to finance. Keys match MS/bank. |
+| 1(b), 1(c), 3(a) — Define | Break-even: costs and revenue are equal (MS accepts costs/revenue or total costs/total sales); public corporation: owned by state/central government; delegation: passing work from superior to subordinate. These accepted meanings are retained; no extra universal element/word rule. |
+| 1(d), 2(a), 2(b) — State | Contextual LEGO examples: short span may improve communication between managers at 15 factories/HQ or let 18,000 staff suggest products; objective examples include market-share/financial security; reason not to recruit casual workers links commitment to LEGO’s product standards or skills for Harry Potter product packing. Bank examples and context restrictions match. |
+
+### May–June 2022 P2R
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **B, A, C, C, D, B.** Two solicitors commonly form a partnership; forecast shows inflows/outflows; 2×£9.99×20.58 ZAR/£=**ZAR411.1884→411.19 (C)**; machinist works in production; (0.95−0.87)/0.95×100=**8.42% (D)**; a market report is secondary research. Keys match MS/bank. |
+| 1(b), 1(c), 3(a) — Define | Personal savings belong to an individual rather than a business; sole trader is a business owned by one person; public relations is building/maintaining a favourable image for the business/products. Matched MS examples and bank agree. |
+| 1(d), 2(a), 2(b) — State | Cadbury-context responses: above-minimum pay may retain employees against Rowntree’s or reduce absence; CV content can show food-factory/health-and-safety experience or appropriate referees; supervisor job-description content can include supervising chocolate production-line staff. MS requires the described Cadbury context; bank examples match. |
+
+### May 2023 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **C, D, D, C, D, D.** Survival is a financial objective; venture capital may bring expert advice; 1,000 loads×C$19.75×6.58 SEK/C$=**SEK129,955 (D)**; markup=(4,400−3,800)/3,800×100=**15.79% (C)**; Phase 3 is maturity; break-even is total costs=total revenue. Keys match MS/bank. |
+| 1(b), 1(c), 3(a) — Define | Person specification: qualifications/experience/details of the person required; overdraft: agreement to draw more money from the account than it contains. The official Q1(c) *quality control* answer (“a product or service that meets the standard set by the business”) is preserved but flagged as an apparent conceptual/definition anomaly; separate teaching clarification describes checking/testing output against standards. |
+| 1(d), 2(a), 2(b) — State | IKEA-context reasons: induction introduces furniture/products or how flat-packs are assembled; temporary staff can cover a furniture-sale busy period or an absent delivery driver; financial-objective examples include increasing furniture market share or survival in home-goods competition. Bank examples match contextual requirements. |
+
+### May 2023 P2R
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **B, D, B, A, C, B.** Maslow level 3 is social; venture capital is external; closing cash=£20,000+£28,000−£56,000=**−£8,000 (B)**; government raises taxes to fund revenue/expenditure; 288,302×1.12=322,898.24 tractors, so **322,898 (C)**; shop owner needs primary research with prospective customers. Keys match MS/bank. |
+| 1(b), 1(c), 3(a) — Define | Public corporation is state/government-owned; qualitative market research concerns attitudes, beliefs and intentions; autonomy gives workers authority to choose how to work. MS examples agree with bank. |
+| 1(d), 2(a), 2(b) — State | M&M-context examples: motivation may lead staff to work harder/pride in building tractors or accept robotics; non-financial objectives include tree planting/environment or supporting schools for disadvantaged children; dismiss for repeated lateness on a tractor line or sales absence causing lost orders. Exact contextual restrictions retained. |
+
+**Batch 3 scope:** no ER/candidate marks were used for these one-mark decisions. The May 2023 P2 definition anomaly is attributed to the MS and not passed off as Pearson-approved teaching wording.
+
+**Running total: 108/204 reviewed; 96 pending (48 MCQ, 24 Define, 24 State).**
+
 ## Remaining batches / review procedure
 
 - 180 parts remain across the other 15 usable QPs. Work through each MCQ independently from the source figures/graph/table/options, then compare exact MS key and by-paper entry.
