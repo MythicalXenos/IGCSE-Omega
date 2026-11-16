@@ -8,7 +8,7 @@ The 17 usable source papers are June 2026 P2/P2R; May–June 2019 P2/P2R; May–
 
 Matched QP/MS pairs and corresponding `Perfect_Answers/By_Paper/` items are the primary evidence. MCQ subparts are counted and independently solved separately (including arithmetic, exchange-rate direction, graph/table reading) before the keyed MS answer is compared. Define is checked for meaning and the exact MS's accepted content; no universal element count or word-reuse prohibition is imposed. State is checked against the item's actual contextual application criterion; it is not merged with Define, Give or Identify.
 
-**Formal progress: 24/204 reviewed; 180 pending (90 MCQ, 45 Define, 45 State).** The review covers only completed batches below; an inventory/tariff crosswalk is not itself substantive item completion.
+**Formal status: 204/204 reviewed; 0 pending (0 MCQ, 0 Define, 0 State).** Every item in the defined scope is checked against its QP, same-session MS and by-paper entry; the batch sections below retain review provenance.
 
 ## Item/tariff crosswalk
 
@@ -67,8 +67,6 @@ Source pairs are in `Paperlords_Archive/IGCSE/4BS1_Business_Studies/June_2026/`.
 
 **Batch 1 source limits:** no candidate scripts or ER pages were reviewed for this batch. The source anomalies are MS distractor wording, not changes to the MCQ keys. No awarded-candidate response is inferred.
 
-**Running total: 24/204 reviewed; 180 pending (90 MCQ, 45 Define, 45 State).**
-
 ## Corrections to earlier audit-note details
 
 The earlier two-mark progress record has been corrected: November 2021 Huawei operating-profit margin is `73,287 ÷ 721,202 × 100 = 10.161785…%` (displayed to two decimal places as 10.16%, not 10.159…%). May–June 2025 P2R Q1(e)'s QP rate is **€0.93 per US$1** (euros per dollar); converting €1,590 into US dollars requires dividing by euros per dollar. These corrections do not change the prior two-mark review count or official source wording.
@@ -115,7 +113,7 @@ The four QPs, exact-session MSs and all corresponding one-mark by-paper entries 
 |---|---|
 | 1(a)(i)–(vi) | **C, A, C, B, D, B.** Cash coming in/out is cash flow; an applicant completes an application form; supplier costs are 1,150,000+4,250,000=5,400,000 versus 4,850,000 revenue, hence **550,000 loss (C)**; franchisees sell an established brand; revenue rose by 2.31/38.5×100=6% (D); wage issue belongs to finance. Keys match MS/bank. |
 | 1(b), 1(c), 3(a) — Define | Break-even: costs and revenue are equal (MS accepts costs/revenue or total costs/total sales); public corporation: owned by state/central government; delegation: passing work from superior to subordinate. These accepted meanings are retained; no extra universal element/word rule. |
-| 1(d), 2(a), 2(b) — State | Contextual LEGO examples: short span may improve communication between managers at 15 factories/HQ or let 18,000 staff suggest products; objective examples include market-share/financial security; reason not to recruit casual workers links commitment to LEGO’s product standards or skills for Harry Potter product packing. Bank examples and context restrictions match. |
+| 1(d), 2(a), 2(b) — State | Contextual LEGO examples: the MS links short span with communication around its 15 factories/HQ and employee suggestions; it also gives market-share/financial-security objectives and reasons not to recruit casual staff tied to LEGO’s product standards/packing. The 1(d) source wording appears to conflate span of control with chain of command (annotated separately in the By_Paper entry): do not infer that a narrow span means fewer management levels. Other bank examples and context restrictions match. |
 
 ### May–June 2022 P2R
 
@@ -195,7 +193,7 @@ The four matched QP/MS pairs and their 48 one-mark items—November 2024 P2, May
 |---|---|
 | 1(a)(i)–(vi) | **D, B, A, D, C, C.** Break-even is total costs=total revenue; franchisee receives franchisor support; job production can improve worker motivation; UAE room price= AED325×1.25=**AED406.25 (D)**; revenue increase=(£772.8m−£249.6m)/£249.6m×100=**209.62% (C)**; personal savings is the keyed internal source. MS/bank keys agree. |
 | 1(b), 1(c), 3(a) — Define | Job description lists tasks/duties/roles/responsibilities for a named job; public corporation is government/state-owned and controlled; net cash flow is the difference between cash in and out over a period. Matched MS meanings and bank transcription agree. |
-| 1(d), 2(a), 2(b) — State | Premier Inn-specific examples: an application form helps assess reception skills/knowledge and may reduce training; marketing can set room prices or advertise hotels; seasonal staff cover summer room demand or holiday student availability. MS demands Premier Inn context; answer-bank examples comply. |
+| 1(d), 2(a), 2(b) — State | Premier Inn-specific examples: delegation may free a manager to greet guests or give employees responsibility (for example, restocking vending machines); marketing can set room prices or advertise hotels; seasonal staff cover summer room demand or holiday student availability. MS demands Premier Inn context; the By_Paper 1(d) delegation answer already matches the QP/MS. |
 
 ### May–June 2025 P2
 

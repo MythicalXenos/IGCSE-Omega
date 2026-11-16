@@ -4,7 +4,7 @@
 **Source:** `Paperlords_Archive/IGCSE/4BS1_Business_Studies/.../4BS1_Business_Studies_May-June_2019_P2_MS.pdf`  
 **Mark scheme:** `.../4BS1_Business_Studies_May-June_2019_P2_MS.pdf` (text index: `4BS1_Business_Studies_May-June_2019_P2_MS.txt`)
 
-> All answer content below is the **official mark scheme** content, reproduced verbatim. For 1- and 2-mark items the mark scheme answer **is** the perfect answer. For 3/6/9/12-mark items it is the official *accepted content* — a full-mark response must assemble it into developed chains; see `../01_Mark_Tariff_Playbook.md`.
+> The entries below are based on the session-matched official mark scheme (MS), with question prompts/options where shown. Official keyed answers, accepted content and item-specific allocations are kept distinct from bank commentary and separately labelled teaching clarifications/corrections. An MS entry is not a universal “perfect answer” or a guarantee that every source statement is error-free; documented source anomalies are preserved as source wording. For constructed-response tasks, MS indicative content is not a single required model response.
 
 ---
 
