@@ -2299,11 +2299,25 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The other paper's own anchors — verbatim from the scheme (LEGO,** June 2022 P2 1(g)**):** LEGO **can sell its Harry Potter toys around the world**; and **the arts and craft materials can be produced in the most cost-effective location for LEGO**. **The scheme's chain runs through the rival —** *"this means that LEGO's global market will increase compared to rivals"* → *"thus reducing the average total cost and leading to a larger profit margin."* **Note the second half: the advantage is not only cheaper inputs, it is a bigger market than the competition's, which is what makes the average total cost fall.**
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Manufacturing in China and Vietnam lets Apple pay **lower labour and production costs than it would in the US**, so the cost of building each laptop falls. **That cost saving is not passed entirely to the customer — it is kept as margin**, which is what allows Apple to **fund the continued updating of its products and stay ahead on innovation**. **The second half of the same advantage is reach:** selling into many countries gives Apple a **far larger consumer market for its smartphones and smartwatches**, and high global sales volumes let it **mass-produce the iPhone and drive the unit cost down further**. **This can support profitability and reinvestment in product updates.** Keep the explanation tied to the cost and market advantages Apple is given; no separate judgement is required.
+> Apple’s manufacturing in China and Vietnam may give it **lower labour and production costs** for its laptops than manufacturing in a higher-cost location. This can help reduce the cost of producing each laptop and may support profitability; the information does not establish whether Apple passes any savings to customers, retains them as margin or allocates them to particular spending. Separately, being an MNC gives Apple a **larger market** for its smartphones and smartwatches. Higher sales volumes may allow mass production of iPhones and economies of scale, lowering unit costs. These are two potential business advantages; no separate judgement is required.
 
-**Possible reasoning routes (not a required sequence or checklist):** lower production costs in China/Vietnam can support profit and reinvestment in updates; a larger market for iPhones and smartwatches can support mass production and economies of scale, lowering unit costs.
+**Possible reasoning routes (not a required sequence or checklist):** lower production costs in China/Vietnam may support profitability; Apple’s larger consumer market can support higher sales volumes and economies of scale. Do not claim how Apple allocates any savings unless the source provides evidence.
 
-**Second acceptable chain:** spreading sales across many countries → **a downturn in one market is cushioned by the others** → revenue is more stable, so planning and investment are safer.
+**Rabanne (June 2025 P2R, 1(g)) — separate case-specific model.** The question asks for two benefits of being a global business. The MS identifies selling perfume throughout the world and access to employees with different skills and knowledge to create fragrances for men and women.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> As a global business, Rabanne can sell its perfume throughout the world, giving more people access to its products. A wider potential customer base may increase sales if customers in those markets choose Rabanne, supporting revenue. Global operations can also give Rabanne access to employees with different skills and knowledge, which may help it create a wider range of fragrances for men and women and serve more customer preferences. These are two potential benefits; the case does not establish that sales or profits will automatically rise.
+
+**Possible reasoning routes (not a required sequence or checklist):** world-wide perfume sales widen potential customer reach; access to a variety of employees’ skills may support fragrance development for men and women. Keep the two benefits tied to the Rabanne case and avoid asserting guaranteed sales growth.
+
+**LEGO (June 2022 P2, 1(g)) — separate case-specific model.** The scheme’s application includes selling Harry Potter toys around the world and sourcing arts-and-crafts materials from a cost-effective location.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> As a multinational, LEGO can sell its Harry Potter toys around the world, giving it access to a larger market than if it sold only in one country. If this raises sales volumes, LEGO may benefit from economies of scale, reducing average total cost and supporting a larger profit margin. It can also produce arts-and-crafts materials in a location where they can be made cost-effectively, helping control input costs. These are potential advantages; the exact cost savings and their use are not given.
+
+**Possible reasoning routes (not a required sequence or checklist):** global sales may expand LEGO’s market relative to rivals and support lower average costs; selecting cost-effective locations for materials may also lower production costs. This is not the Apple model and does not require any particular savings allocation.
+
+**Alternative reasoning to assess in context:** sales in multiple countries may diversify revenue and reduce dependence on any one market; the extent of this protection depends on how markets perform. This is an additional possible idea, not a claim made in Apple’s cited MS content.
 
 > ⭐ **The case evidence and scope are not interchangeable.** The LEGO scheme’s own content differs from Apple’s. Where another paper asks for a specified number of benefits, answer that requested scope rather than treating this Apple answer as a universal one-point template; verify the other paper’s exact prompt and MS before reusing any example.
 
@@ -2316,13 +2330,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** the **machinery and robotics to make the laptops is expensive**; and **the method may not be flexible enough**, because Apple is **constantly updating its iPhones**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Flow production is a continuous line, so **Apple must buy the machinery and robotics for that line up front, at very high cost**, and those costs are committed before a single laptop is sold. **The line is also built to produce one design**, which is a problem for a business that **constantly updates its iPhones** — because the equipment cannot simply be re-set for a new model. **The measurable end comes in two places.** First, the cost of the line and the disruption of changing it **push up the unit cost of the goods**, which makes it harder for Apple to compete with businesses such as **Oppo selling cheaper smartphones**. Second, **every time a new model arrives Apple may have to change machinery, which causes delays in production** — and a delayed launch is lost sales in a market where the new model is the reason people buy.
+> Flow production uses machinery and robotics, and the MS notes that these are expensive for Apple’s laptop manufacture. The investment and other production costs may raise unit costs, making it harder to compete with lower-priced rivals such as Oppo. A flow line is not impossible to pause or adapt, but changing its set-up for a new product may take time and incur costs. That could be a disadvantage for Apple because its iPhones are constantly updated: reconfiguration or a pause during changeover may delay production. If supply is delayed when a new model is launched, Apple could miss some sales, although the scale of that effect is not given.
 
-**Possible reasoning routes (not a required sequence or checklist):** expensive machinery can raise unit costs and make competition with cheaper Oppo smartphones harder; limited flexibility in the context of frequent iPhone updates can require machinery changes and cause production delays.
+**Possible reasoning routes (not a required sequence or checklist):** machinery and robotics costs may contribute to higher unit costs, making it harder to compete with cheaper Oppo smartphones; if Apple needs to adapt a line for an updated product, the changeover may involve time, cost or temporary downtime and could delay output.
 
-**Second acceptable chain:** a continuous line **cannot be paused** → a fault anywhere stops the whole line → **output falls sharply** for as long as the fault lasts.
-
-> The June 2026 MS illustrates **cost and inflexibility** in its indicative content for Apple. This is not an exhaustive list: assess any relevant, developed response against this item’s AO2/AO3 descriptors rather than treating other plausible disadvantages as automatically unacceptable.
+> The June 2026 MS illustrates **cost and limited flexibility** in its indicative content for Apple. This is not an exhaustive list: assess any relevant, developed response against this item’s AO2/AO3 descriptors rather than treating other plausible disadvantages as automatically unacceptable. Flow production can be paused or reconfigured; do not teach inability to stop or reset a line as a general rule.
 
 ---
 
@@ -2351,13 +2363,25 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors (Nando's):** induction training is likely to cover **health and safety in its kitchens**; and new employees are **introduced to other Nandocas before they start serving customers**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Induction training happens before a new employee starts the job, so at Nando's it will cover **health and safety in the kitchens** — which means **a new recruit knows what to do when something goes wrong on their first shift, rather than finding out at the moment it happens**. **The scheme's second anchor is the social one: being introduced to other Nandocas before serving customers means the new starter already feels part of the team.** **That feeling is not sentiment — it decides how they behave in front of paying customers.** **The measurable end is service quality:** a new recruit who feels comfortable and knows the kitchen rules **serves customers better from day one**, and better service in a restaurant chain is what brings people back — so the cost of the induction is recovered through repeat custom rather than through fewer accidents alone.
+> Nando’s induction is likely to include kitchen health and safety. This can help a new employee understand safe procedures and may prepare them to respond more appropriately if an emergency arises, reducing the risk of avoidable mistakes. New recruits are also introduced to other Nandocas before serving customers. This may help them feel more comfortable as part of a team and support better customer service. The extent of these benefits depends on the quality of the induction and how employees apply what they learn; the source does not establish that recruits are fully prepared from their first shift or that induction costs are recovered through repeat custom.
 
-**Possible reasoning routes (not a required sequence or checklist):** health-and-safety induction can prepare recruits to handle emergencies; meeting other Nandocas before serving customers can help new employees feel part of a team and support better customer service.
+**Possible reasoning routes (not a required sequence or checklist):** health-and-safety induction may help recruits understand safe procedures and respond to emergencies; meeting other Nandocas before serving customers may help new employees feel part of a team and support better service. Another possible benefit is that clearer initial guidance could reduce the need for repeated instructions, freeing experienced staff for other tasks; this depends on the recruit and workplace and does not guarantee full capacity or immediate independence.
 
-**Second acceptable chain:** a prepared new starter **needs less supervision** from an experienced Nandoca → existing staff are not taken off their own work → **the restaurant runs at full capacity from day one**.
+> **Scope note:** keep induction distinct from later on-the-job or off-the-job skills training, but do not assume every induction occurs before an employee’s first day or guarantees competence. For this item, follow the QP/MS anchors: kitchen health and safety and introductions to other Nandocas before customer service.
 
-> ⭐ **Induction is not on-the-job training.** Induction is **before they start** — rules, safety, meeting the team. If your chains would still work for "training", you have answered a different question. *(See entries on the training cluster for on-the-job, off-the-job and external recruitment.)*
+**Tata Motor Company (May–June 2019 P2, 4(b)) — separate case-specific model.** The MS AO2 anchors are that staff become familiar with their environment, whether on a production line or in an office, and meet the colleagues they will work with.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A detailed induction can make new Tata Motor Company employees familiar with their workplace, whether they are joining a production line or an office. Knowing the environment and being introduced to colleagues may help them feel part of the company and more settled. Employees who feel welcome may become productive more readily, which could help their team carry out its work effectively. The outcome depends on the quality of the induction and the employee; it is not guaranteed by attending the programme alone.
+
+**Possible reasoning routes (not a required sequence or checklist):** workplace familiarisation and introductions may help staff feel part of Tata and more settled; feeling welcome may support productivity. This is a different case from the Nando’s kitchen-safety/customer-service anchors above.
+
+**TUI (June 2024 P2, 1(g)) — separate case-specific model.** The matched MS refers to travel-agency employees, loose computer wires and the location of the first-aid kit.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Including health-and-safety guidance in induction may make TUI travel-agency employees aware of hazards such as loose computer wires and how to secure them. This could reduce the chance of someone tripping and being injured. If an employee does fall, knowing where the first-aid kit is may help colleagues respond more quickly. These steps may reduce the likelihood or seriousness of some accidents and associated claims, but training cannot guarantee that no accident or claim will occur.
+
+**Possible reasoning routes (not a required sequence or checklist):** identify and secure trip hazards; knowing first-aid equipment locations may support a timely response to an injury. The MS presents these as possible benefits, not guaranteed accident prevention.
 
 ---
 
@@ -2431,7 +2455,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Second acceptable chain:** comparing this year's statement with **last year's** → shows whether performance is improving or worsening → the expansion is timed to a good year **or postponed out of a bad one**.
 
-> ⚠️ **The Statement of Comprehensive Income is the *profit* statement — income and expenses over a period.** It is **not** the Statement of Financial Position (assets, liabilities, what the business owns and owes on one day). Mixing the two up loses the application mark. *Examiner-named content gap in multiple reports.*
+> ⚠️ **The Statement of Comprehensive Income is the profit statement**—income and expenses over a period—not a statement of cash or the Statement of Financial Position. Do not claim it proves that cash is available; treat profit information as one input to the funding decision.
+
+**LEGO (June 2022 P2, 3(d)) — separate case-specific model.** The question concerns a new Star Wars Princess Leia toy; the MS says LEGO gathers information from its 15 worldwide factories and considers development and production costs before the toy goes on sale.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> LEGO could use its Statement of Comprehensive Income to review the income, expenses and profit reported across its 15 factories. It could compare its profit margin with toy makers such as Disney and consider whether pricing should change. Developing and producing the new Star Wars Princess Leia toy will involve costs before sales begin, so the statement’s profit information could help LEGO assess the financial risk of the launch. However, the statement does not itself show cash available; LEGO would need other financial information before concluding it can fund the development.
+
+**Possible reasoning routes (not a required sequence or checklist):** use the statement to examine profit margin relative to Disney and consider pricing; account for the design, development and production costs incurred before launch. Do not equate accounting profit with available cash.
 
 ---
 
@@ -2478,7 +2509,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 > ⭐ **Compare this with entry 113.** Both are "customer satisfaction" questions, but **Lavender's answer turns on multiple outlets and Backyard Shoez's turns on being surrounded by competitors.** *The chain is the same shape; the AO2 is completely different.* That is the whole skill at this tariff.
 
-**The scheme's own chains for the negative framing (May–June 2024 P2R, 1(g) — *"Analyse two problems for Jimmy Choo if customer needs are not satisfied."*):** *"Customers may be disappointed with their shoes and will go elsewhere to buy their next pair • Revenue may fall if a new perfume does not meet the standard that customer need and want"* → *"*"This could have a large impact on Jimmy Choo’s sales and profits"* **"This could incur a loss of revenue and may impact further upon Jimmy Choo’s expansion plans"**. **Read the end of that chain: lost revenue does not stop at profit — it starves the plans to grow.** Note the second AO2 bullet: the scheme's own example is a **product line** (perfume) failing the standard customers need and want, **not only the shoes** — so an answer that says "customers buy elsewhere" and stops has used one of the two bullets it was given.
+**Also asked:** *“Analyse two problems for Jimmy Choo if customer needs are not satisfied.”* — **May–June 2024 P2R, 1(g)**
+
+**Jimmy Choo — separate case-specific model.** The prompt explicitly asks for **two problems** if customer needs are not satisfied. The case identifies shoes and perfume among Jimmy Choo’s products.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> If Jimmy Choo’s shoes do not meet customer needs, disappointed buyers may go elsewhere for their next pair. This could reduce the sales and profits Jimmy Choo makes from shoes. A second problem could arise if its new perfume does not meet the standard customers want: revenue from that product may fall, reducing the income available and potentially affecting Jimmy Choo’s expansion plans. These are two possible product-related problems; they are not inevitable outcomes.
+
+**Possible reasoning routes (not a required sequence or checklist):** unmet needs for shoes may send buyers to other sellers and reduce sales/profit; a perfume that fails to meet customers’ desired standard may lose revenue and affect expansion plans. This item asks for two problems; answer that scope without treating it as a universal two-chain structure for all six-mark Analyse items.
 
 ---
 
@@ -2543,18 +2581,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** the **quality of the T-shirts will be better**; and there will be a **reduction in the costs of making the T-shirts**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Kaizen means **continuous improvement — small changes made all the time by the people doing the work**, rather than one large redesign. Applied at Yellow's clothing manufacturers, those small changes **raise the quality of the T-shirts**, because the faults that recur on the line are found and fixed by the staff who see them every day. **Yellow's reputation is built on the clothes it puts its name to**, so **better T-shirts protect the brand and lead to higher sales**. **The second effect is on cost.** Continuous improvement **reduces wasted cloth, wasted time and rejected garments**, and **fewer faulty T-shirts means fewer returns** — which cuts the cost of making each T-shirt and **increases the manufacturer's profitability**. **The measurable end is that Yellow gains on both sides at once:** it pays less per T-shirt and sells more of them, and its supplier keeps more of the price as profit — which is why the supplier has a reason to keep improving.
+> Yellow might encourage its clothing manufacturers to use Kaizen because continuous improvements could make the T-shirts better, supporting Yellow’s reputation and potentially increasing sales. The improvements could also lower the manufacturer’s costs; if fewer faulty T-shirts are returned, the manufacturer may become more profitable. These are benefits to different parties: the scheme links improved reputation and sales to Yellow, and fewer returns and increased profitability to the manufacturer. The information does not establish that Yellow itself pays less per T-shirt.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Kaizen = **continuous small improvements by the workforce** |
-| **2. Strand A** | Better quality → **Yellow's reputation improves → higher sales** |
-| **3. Strand B** | Less waste and fewer faults → **lower cost per T-shirt** |
-| **4. Measurable end** | **Lower cost and higher sales at once** |
+**Possible reasoning routes (not a required sequence or checklist):** improved T-shirt quality may enhance Yellow’s reputation and sales; lower manufacturing costs and fewer returns may benefit the clothing manufacturer. The item’s case application and consequences matter more than reproducing a definition; the published 2019 P2R exemplar commentary states that no separate knowledge marks were available for this item.
 
-**Second acceptable chain:** Kaizen gives the line workers **a say in how the work is done** → they are more motivated → **labour productivity rises** → more T-shirts from the same hours.
-
-> ⚠️ **Kaizen is not quality control and not TQM.** Quality control *inspects faults out* at the end; Kaizen *improves the process continuously* so there are fewer faults to find. **An examiner-named content gap — the vocabulary is expected and often absent.**
+**Pearson’s selected June 2019 P2R exemplars:** response A received 5/6 (printed p.28); response B received 4/6 (printed p.29). The commentary emphasizes answering from Yellow’s perspective and develops quality, waste/cost, brand image and customer satisfaction. These are scored examples, not a template or mark guarantee.
 
 ⭐ **WHEN THE BUSINESS RUNS KAIZEN ITSELF — AWG (Nov 2023 P1 4(b)).** The question there is *"Analyse how this could affect **its** business"*, and the scheme's own anchors are these: **employees in the clothing workshop will be able to discuss different manufacturing techniques and designs for the jumpers**, and **"a major advantage of Kaizen is efficiency" — it may improve the quality of children's clothing** (AO2). The chains then run to **innovative ideas that help AWG stand out from other competitors selling clothing**, and **attracting more customers who are seeking sustainable and long-lasting items of clothing** (AO3). **Note where the two cases differ, because the examiners do: Yellow is told what its suppliers should do; AWG is told what its own workshop will do. Same mechanism, different actor — and the actor is what the mark scheme marks.**
 
@@ -2641,11 +2672,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 | **3. Strand B** | Far from rivals → **the small, specialised market is not split** |
 | **4. Measurable end** | **Demand is higher and defended** at the business's chosen site |
 
-**Second acceptable chain (Cadbury's factory):** locate where **raw materials and labour are available** → lower transport and wage costs → **the chocolate can be produced more cheaply** → a better margin on every bar.
+**Cadbury (June 2022 P2R, 1(g)) — separate case-specific model.** The exact QP asks for **two factors**. The MS illustrations are access to skilled employees (cake designers and biscuit bakers) and access to motorways/railways for cocoa deliveries.
 
-**Second acceptable chain (Huawei):** factories **near the labour sources** → workers arrive without relocating → **the business gets the skills it needs without paying relocation costs** → lower unit cost.
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> One factor Cadbury could consider is whether skilled employees, such as cake designers and biscuit bakers, are available near the factory. If the required workers do not have to travel far, they may be more willing to work for Cadbury, helping it recruit the skills it needs. A second factor is access to motorways or railways. These routes give Cadbury different ways to transport cocoa to the factory; reliable delivery may mean the cocoa arrives in time for production, reducing the risk of delays. These are two possible location factors, as requested, and neither outcome is guaranteed.
 
-> ⚠️ **Location questions always have two directions — pull towards customers, push away from rivals or towards materials.** An answer that only says "close to customers" answers half the question. **The mark scheme's second AO2 bullet is always the one candidates miss.**
+**Possible reasoning routes (not a required sequence or checklist):** skilled labour near the site may support recruitment; access to motorways or railways may help cocoa arrive in time for production. This prompt explicitly requests two factors; do not generalise that number to all location questions.
+
+**Second acceptable chain (Huawei):** factories **near the labour sources** → workers arrive without relocating → **the business gets the skills it needs without paying relocation costs** → lower unit cost. This is a separate paper’s cited example, not a verified benefit for Cadbury.
 
 **The scheme's own Huawei chains (Nov 2021 P2, 1(g)), point by point:** *"By locat*"By locating a factory in an area where there is a skilled labour force it could reduce training costs"*i may*"Huawei may need certain skills to operate manufacturing machinery for its products e.g. smartphones"*ey sa*"The money saved could then be used for other purposes within Huawei"* skills are available the factory may become more productive and efficient in manufacturing smartphones"**. **A labour-side chain from end to end — training costs avoided, the saving redeployed, productivity rising — and none of it is about customers.** An answer built only on customers and footfall has answered the wrong half of a *"near its labour sources"* question.
 
@@ -2751,18 +2785,18 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors (Emirates):** it gets **the opportunity to employ only those pilots with the skills it wants**; and **Emirates' staff can ask the pilots questions to judge whether they meet the airline's needs**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A CV or application form shows **what a candidate has done**, but a pilot's job depends on **how they behave under pressure and how they work with a crew** — and that cannot be written down. **The interview is where Emirates' own staff ask the questions that test it**, drawing out how a candidate would react rather than taking their word for it. **That questioning matters more in this job than in most: choosing wrongly is not a wasted salary, it is a safety and reputational risk** that no amount of later training fully removes. **The measurable end is the quality of the crew Emirates ends up with** — pilots who meet the airline's needs serve passengers better, and **better service wins market share** from rival airlines flying the same routes.
+> Emirates staff can interview pilot applicants and ask questions to judge whether each candidate has the skills the airline needs. This can help Emirates select pilots who are better suited to the role and may enable them to serve the airline effectively. If this leads to better service for passengers, it may help Emirates attract customers and increase market share. The interview supports selection, but cannot guarantee performance or market-share growth.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Paper shows **what** a candidate did; an interview shows **how** they behave |
-| **2. Strand A** | Emirates' own staff probe with questions → **judge fit beyond the CV** |
-| **3. Strand B** | A wrong hire in a safety-critical job is **not recoverable by training** |
-| **4. Measurable end** | **Better service → greater market share** |
+**Possible reasoning routes (not a required sequence or checklist):** staff questions help assess whether pilots meet Emirates’ needs; suitable pilots may serve the airline effectively, and good service may contribute to market share. Keep the final outcome conditional.
 
-**Second acceptable chain:** seeing the candidate in person reveals **attitude and communication** → the recruiter can judge whether they fit the airline's culture → **new staff settle faster and stay longer**, which cuts repeated recruitment costs.
+**Starbucks (June 2025 P2, 4(b)) — separate case-specific model.** The question asks why Starbucks considers interviewing applicants important. The MS identifies checking applicants’ skills to serve customers the correct coffee drink, asking questions about making sandwiches customers require, and selecting employees who can serve well and fit into its shops.
 
-> ⭐ **The scheme's phrase is "only those pilots with the skills it wants".** *Selection* is the point of an interview — **not "the business gets to know the candidate"**, which is a description rather than a consequence.
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> An interview gives Starbucks the opportunity to meet prospective employees and check whether they have the skills to serve customers the correct coffee drink. Staff can also ask questions about preparing the sandwiches customers require. This helps Starbucks judge whether applicants can meet the needs of work in its shops; selecting suitable employees may help them serve customers well and fit into the shop team. An interview supports this judgement but cannot guarantee an applicant’s performance.
+
+**Possible reasoning routes (not a required sequence or checklist):** meet applicants and assess coffee-service skills; ask about sandwich preparation; use responses to judge fit and likely service. Keep the analysis tied to Starbucks’ stated products and avoid unsupported claims about safety, staff retention or market share.
+
+> ⭐ **Selection is the purpose:** explain how the interview helps assess a candidate for the specified work, rather than merely defining an interview or asserting that meeting applicants automatically makes them better employees.
 
 ---
 
@@ -2792,18 +2826,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 > **Note the framing.** The question asks *why* — so the answer is the **business reason for targeting everyone**, not a description of mass marketing.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Selling to every demographic means **Yellow does not have to decide who its customer is** — T-shirts are bought by teenagers, by parents buying for children, and by adults buying for themselves, so **one design and one production run serves all of them**. **That has a direct cost consequence: the range does not have to be split into sizes of market, so each line is made in far larger volumes.** **Higher volume per line is what lets Yellow buy materials in bulk and keep the unit cost down** — which is what makes its prices competitive enough to sell to everyone in the first place. **The measurable end is reach and cost reinforcing each other:** selling to all demographics gives the volume that lowers unit cost, and the low unit cost is what allows it to keep selling to all demographics rather than retreating to a niche.
+> Yellow’s clothing is priced so that people across demographics can afford it. Selling to all demographics gives Yellow access to a larger potential customer base, which may increase sales. It also spreads the risk across different clothing ranges: if children’s clothing sells less well, sales of teenage clothing could help compensate. This can make Yellow less dependent on demand from any one group.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Targeting everyone → **no market to choose and no customer to exclude** |
-| **2. Strand A** | One design serves all buyers → **larger volumes per line** |
-| **3. Strand B** | Volume → **bulk buying → lower unit cost** |
-| **4. Measurable end** | **Competitive prices → wider reach still** |
-
-**Second acceptable chain:** mass appeal **spreads the risk** — a fashion trend that fails to sell in one segment still sells in another → **the business is less exposed to a single taste changing**.
-
-> ⭐ **Compare with the niche/segmentation material.** Entry on **market segmentation** (3-mark tier) is the opposite strategy. **Both are legitimate** — the mark is for the *reason*, not for preferring one.
+**Possible reasoning routes (not a required sequence or checklist):** serving clothing buyers across age groups and other demographics can increase Yellow’s potential customer base; a range of clothing can spread demand risk, so weaker sales in one range may be offset by another. The scheme’s examples are indicative, not mandatory wording.
 
 ---
 
@@ -2812,21 +2837,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Asked:** *"Analyse the disadvantage for Yellow of customers using social media."* — **May–June 2019 P2R, 4(b)**
 **Also asked:** *"Analyse the impact of customers using social media to review Can Culleretes."* — June 2022 P1R 3(d) · *"Analyse the disadvantages to M&M of using social media."* — May 2023 P2R 1(g)
 
-**The AO2 anchors (Can Culleretes):** social media **can increase the number of reviews** of its meals and services; **negative reviews of the food served could be left**.
+**The AO2 anchors (Yellow):** customers may make **negative comments about clothes they have purchased**; customers **may not want to buy clothes because of reviews posted**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Social media gives every customer **a public voice, whether or not they know anything about the business** — so the reviews multiply, and **most of them will be written by people who had a problem rather than by the satisfied majority**. **Can Culleretes is exposed in a particular way because it depends on tourists.** A visitor choosing where to eat in an unfamiliar city **has no experience of their own to rely on, so the reviews are the only evidence they have** — and **a few bad ones can send them to another restaurant, which is a sale lost before the customer ever walked past the door.** **The measurable end is also a trap in the other direction:** the positive reviews exist too, but **when both are present the doubt spreads, and tourists begin to doubt the good reviews as well**, so the damage is not limited to the bad ones.
+> Customers can post negative comments about Yellow’s clothes on social media, and those comments may influence other potential buyers before they see the garments for themselves. Some customers may decide not to buy the reviewed type of clothing, reducing its sales and leaving Yellow with excess stock. If negative comments also lead customers to choose another retailer, Yellow could lose sales even before shoppers visit one of its stores. The extent of the effect depends on the content and reach of the reviews; the question does not establish that all customers see or believe them.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Social media gives **every customer a public voice** |
-| **2. Strand A** | Tourists have **no experience of their own** → reviews become the deciding evidence |
-| **3. Strand B** | A few bad reviews → **customers go elsewhere before arriving** |
-| **4. Measurable end** | **Sales lost at the decision stage**, and doubt spread to the good reviews |
+**Possible reasoning routes (not a required sequence or checklist):** negative comments about purchased clothes may deter buyers of that type, lowering sales and potentially creating excess stock; online comments may also cause some customers to choose another retailer without seeing the clothing.
 
-**Second acceptable chain:** a negative review is **permanent and searchable** → it is seen by customers for years, unlike a complaint made privately → **one bad night keeps costing sales long after the problem is fixed**.
-
-> ⚠️ **The question almost always says "disadvantage" or "impact" — read which.** An *impact* question wants **both directions**, because the scheme's AO2 lists the extra reviews *and* the negative ones. A *disadvantage* question wants you to drive the negative chain hard. **The same facts, used differently.**
+**Other cited questions require their own source and case check.** The Can Culleretes “impact” item is a different P1R question and is out of scope here; do not carry its case facts into the Yellow model. The May 2023 P2R M&M item remains in the current six-mark review queue.
 
 ---
 
@@ -2834,21 +2852,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Asked:** *"Analyse the importance of good public relations for Tata Motor Company."* — **May–June 2019 P2, 1(g)**
 
-> **Public relations is not advertising and not sponsorship.** PR is **managing how the business is seen** — the press, the public, the reputation — and it is the only promotion method that **cannot be bought outright**.
+> Public relations concerns how a business communicates with and is regarded by its publics. It is distinct from paid advertising and sponsorship, but it is not necessarily cost-free.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Public relations is how a business **manages what the public and the press think of it**, and for a car manufacturer **that is not a marketing side-issue: what people believe about a car affects whether they will sit in one**. **Tata's reputation is built or damaged in the press rather than in its own advertising**, and the difference shows up hardest when something goes wrong — **a recall, an accident, or a safety concern reaches the public through journalists, and a business with good PR is given a fair hearing while one without it is judged guilty in the coverage.** **The measurable end is that good PR protects sales that a rival's bad headline would destroy**, and it does so more cheaply than any advertising campaign: a favourable article **costs nothing to place and is believed more than a paid advertisement**, because it is written by someone with no money in the outcome.
+> Tata Motor Company highlights its work building schools, helping the local community and protecting the environment, and it invests in health and welfare. Communicating this work through public relations may lead the public to think more highly of Tata because it is using some of its business resources to benefit communities. A stronger reputation may support customers’ willingness to consider Tata’s vehicles. Good public relations may also matter if the vehicles receive bad publicity: negative stories could harm public opinion and reduce demand, so clear communication and a positive reputation may help Tata maintain trust. The outcome depends on how the public responds; positive PR cannot guarantee sales.
 
-| Step | The move |
-|---|---|
-| **1. Point** | PR shapes **what the public and press believe**, not what they are told |
-| **2. Strand A** | A crisis reaches the public **through journalists** — PR decides how it lands |
-| **3. Strand B** | Favourable coverage is **free and more credible than paid advertising** |
-| **4. Measurable end** | **Sales protected in a crisis**, at no media cost |
+**Possible reasoning routes (not a required sequence or checklist):** communicating community, environmental and welfare work may improve public opinion; reputational damage from negative vehicle publicity could harm demand, making responsible public relations important to protecting trust. Do not treat PR as the same thing as customer loyalty or assert that favourable publicity is free.
 
-**Second acceptable chain:** good PR **attracts and keeps staff and investors**, because people prefer to be associated with a business that is well regarded → recruitment and funding both get easier.
-
-> ⭐ **Keep the three apart for the exam.** **Sponsorship** = paying to be linked to an event (entry 101). **Advertising** = paying for space (entries on above/below-the-line). **Public relations** = **earning** favourable coverage; you influence it, you do not buy it.
+**Pearson’s selected June 2019 P2 exemplars:** response A for this question received 5/6 (printed p.6) and response B received 3/6 (printed p.7). The comments praise the contextual school/community point and note that response B confused public relations with customer loyalty and lacked sufficient development. These are scored examples, not a required answer format or mark guarantee.
 
 ---
 
@@ -2857,21 +2868,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Asked:** *"Analyse how Tata Motor Company could use the financial information in Figure 2."* — **May–June 2019 P2, 3(d)**
 **Also asked:** *"Analyse how useful the information in Figure 2 is to Loaf."* — May–June 2020 P1R 3(d) · *"Analyse the likely benefits to Emirates of using financial information when making business decisions."* — May–June 2020 P2 1(g) · *"Analyse how Artify Studio could use the information in Figure 1 to assess the performance of the business."* — Nov 2021 P1 3(d) *(profitability ratios — see **entry 118**)*
 
-> **These four questions all say "the information in Figure N". That is a signal:** the figures **must be quoted**, and the mark scheme's AO2 bullets are built on them.
+> Figure 2 shows Tata Motor Company’s revenue rising at each reported point, from **US$18,441 million in 2011 to US$42,839 million in 2017**. Tata could compare this trend with other vehicle manufacturers to assess its performance. If the comparison suggests its revenue is growing well, it could use the information when deciding whether to invest in designing and manufacturing new cars. It could also consider pricing changes to increase yearly revenue, while checking how these affect demand. Revenue alone does not show costs or profit, so the figures cannot by themselves establish how much money is available for investment.
 
-> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> The figures turn a decision from an opinion into **something that can be measured and compared**. Taken on its own, **a number tells Tata nothing useful** — what makes it information is the comparison, **against last year, or against a rival, or against the target the business set itself**. **That comparison is what identifies a problem before it becomes a crisis.** If a margin is falling while sales are rising, **the figures show that costs are running ahead of revenue — which no glance at the bank balance would reveal**, because the business is still taking more money each month. **The measurable end is the decision that follows:** Tata can see whether a route or a model **should be continued, re-priced or dropped**, and it can judge whether it needs to take action in the coming year rather than discovering the problem afterwards.
-
-| Step | The move |
-|---|---|
-| **1. Point** | A figure only becomes information **when compared** — last year, a rival, or a target |
-| **2. Strand A** | Comparison **reveals a trend before it becomes a crisis** |
-| **3. Strand B** | It shows problems **the bank balance hides** — margins falling while sales rise |
-| **4. Measurable end** | A decision to **continue, re-price or cut**, made on evidence |
-
-**Second acceptable chain:** the figures tell Tata **whether it needs short-term finance** — and by how much — so an application to the bank is for **a calculated amount rather than a guess**, which is more likely to be approved.
-
-> ⚠️ **Quote the figures.** A candidate who writes *"the information helps them make decisions"* without ever naming **the ratio, the percentage or the year** has answered nothing. **The AO2 mark lives in the number.**
+**Possible reasoning routes (not a required sequence or checklist):** compare the year-on-year revenue trend with other vehicle manufacturers; use that comparison to inform investment in new car design/production or pricing decisions intended to increase revenue. The QP asks how Tata could use these data; there is no requirement to quote every figure or calculate a ratio not shown.
 
 ---
 
@@ -2904,18 +2903,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** if NEXT trained all its employees, **they are trained in a consistent fashion so they can operate in the same way across 70 countries**; and employees attending these sessions **gain customer service skills they can use in NEXT shops**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> The word that carries this question is **"all"**. Training *every* employee means the standard is **consistent — so a customer who walks into a NEXT in one of the 70 countries gets the same experience as one at home**, which is the whole basis of a brand that trades internationally. **Inconsistency is what damages a chain: a good shop and a poor shop under one name cost the brand the trust the good shop earned.** **The second benefit is what the training actually puts into the staff.** Customer service skills **let an assistant do more than hand over a product — they can advise, suggest and sell**, which is where sales technique turns a browsing customer into a buying one. **The measurable end is higher sales at the existing wage bill:** the same employees, serving better, **selling more from the same stock and the same hours** — which is why training is an investment rather than a cost.
+> Training all NEXT employees could help staff in its shops work to consistent standards across the 70 countries in which the retailer operates. This may give customers a more consistent service experience wherever they shop. Training sessions can also develop customer-service skills that employees use in NEXT shops. Better sales techniques may help staff convert more visits into purchases, potentially increasing NEXT’s sales. The scale of any improvement depends on the training and customer response; a higher sales outcome is possible, not guaranteed.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Training **all** staff → **one consistent standard across 70 countries** |
-| **2. Strand A** | Consistency protects the brand; inconsistency **costs it the trust it has built** |
-| **3. Strand B** | Customer service skills → **staff can sell, not just serve** |
-| **4. Measurable end** | **Higher sales from the same payroll** |
+**Possible reasoning routes (not a required sequence or checklist):** company-wide training can support consistent standards across NEXT’s international stores; customer-service training may improve sales techniques and thereby support higher sales. Do not assume the same payroll, stock turnover or outcomes without evidence.
 
-**Second acceptable chain:** trained staff **handle complaints without escalating them** → fewer problems reach head office and fewer customers leave → **the cost of fixing mistakes falls** as well.
-
-> ⭐ **Command-word discipline:** this says *benefits*, so you may stop at the gain. Compare entry **111 (induction)** — induction is **before** the job; training is **an ongoing investment in someone already doing it**. **Do not write one answer for both.**
+> **Command-word scope:** explain benefits of training all employees in this NEXT context. Induction is a separate question type; do not make the timing or purpose of induction interchangeable with this training prompt.
 
 ---
 
@@ -2926,18 +2918,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** as NEXT **trades in different countries it needs employees to speak the language of that country**; and **if NEXT has long chains of command, messages from head office could take too long to reach shop assistants**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A communication barrier is **anything that stops a message arriving intact** — and in a business trading in different countries there are two of them stacked on top of each other. **The first is language.** If staff in a store cannot speak the language of the customers around them, **the shop cannot serve them at all**; and if head office and the store do not share a language, **instructions arrive either late or wrong**. **The second is the chain of command.** A message from head office **passes through every layer on the way down to a shop assistant**, and **each layer is a chance for it to be delayed or to become unclear and inaccurate** — so the instruction the assistant finally receives is not the one that was sent. **The measurable end is fewer errors and more sales:** staff who understood the instruction **do the right thing the first time**, and staff who can speak to the customer **make the sale that an incomprehensible conversation would have lost**.
+> NEXT operates in 70 countries, so staff who can speak the language used by customers in a particular country may communicate with them more effectively. This could make it easier for shoppers to ask questions and may support sales. The company may also have long chains of command: a message from head office can take a long time to reach shop assistants, and may become unclear or inaccurate as it passes through the organisation. Removing these barriers could help staff receive more timely, accurate information and reduce resulting errors. Neither better sales nor error-free communication is guaranteed.
 
-| Step | The move |
-|---|---|
-| **1. Point** | A barrier = **anything that stops a message arriving intact** |
-| **2. Strand A** | Language → **cannot serve the local customer, cannot receive instructions** |
-| **3. Strand B** | Long chain of command → **delay and distortion at every layer** |
-| **4. Measurable end** | **Errors avoided and sales completed** |
+**Possible reasoning routes (not a required sequence or checklist):** language skills suited to local markets can help NEXT staff communicate with customers; shorter or clearer communication routes may reduce delay and distortion between head office and shop assistants.
 
-**Second acceptable chain:** removing barriers lets **information flow upwards too** — shop assistants tell head office what customers are asking for → **decisions are made on what is really happening** rather than on head-office assumption.
-
-> ⚠️ **Name the barrier, then break it.** *"Communication is important"* earns nothing. **Language, chain of command, noise, jargon, too many layers** — pick the ones the case supports and show what each one costs.
+> **Context note:** use the barriers identified or supported by this item—language needs across countries and long command chains. Do not add noise, jargon or other barriers as case facts when the prompt does not establish them.
 
 ---
 
@@ -2951,22 +2936,20 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors (NEXT, rates rise):** consumers will **spend less on items such as clothing**; and consumers are **less likely to purchase NEXT furniture on credit**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> An interest-rate rise reaches NEXT through **two routes, and only one of them is about NEXT's own borrowing**. The first and larger effect is on **the customer's wallet**: higher rates mean **higher repayments on a mortgage or a loan**, so **households have less left to spend, and clothing is one of the first things they cut** — NEXT loses sales it did not do anything to lose. **The second effect is on credit specifically.** Furniture bought on credit becomes **more expensive to finance**, so **customers postpone those purchases altogether**, which is why the effect hits the big-ticket lines hardest. **The measurable end is unsold stock and lower profit:** reduced sales leave NEXT **holding inventory it bought in advance of demand that did not arrive**, and stock sitting in a warehouse costs money without earning any.
+> An increase in UK interest rates may leave some consumers with less disposable income, so they may spend less on clothing from NEXT. This could reduce sales and affect NEXT’s profits. Higher rates may also make it more expensive for customers to finance furniture purchases, so some may be less likely to buy NEXT furniture on credit. If demand falls, NEXT may be left with inventory it cannot sell as quickly. These are possible effects identified by the question’s context and mark scheme, not guaranteed outcomes.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Higher rates → **higher repayments → less household income to spend** |
-| **2. Strand A** | Discretionary spending is cut first → **clothing sales fall** |
-| **3. Strand B** | Credit becomes dearer → **big-ticket items postponed** |
-| **4. Measurable end** | **Unsold inventory and lower profit** |
+**Possible reasoning routes (not a required sequence or checklist):** less consumer spending may reduce NEXT’s clothing sales and profits; more expensive credit may deter furniture purchases, possibly leaving inventory unsold.
 
-**Second acceptable chain (if the question is about the business's own borrowing):** NEXT pays **more interest on any variable-rate loan** → costs rise **without any change in sales** → the profit margin narrows on exactly the same turnover.
+**Conditional alternative only if the case gives evidence of NEXT’s own borrowing:** higher rates could increase interest costs on variable-rate borrowing. This is not established by this question’s case, so do not present it as an actual effect on NEXT.
 
-**Second acceptable chain (TUI's customers):** higher rates make **borrowing for a holiday dearer**, so **customers choose a cheaper destination or postpone the trip** → TUI fills fewer seats and must discount to fill them.
+**TUI customers (June 2024 P2, 3(d)) — separate case-specific model.** The prompt asks for the effect **on customers**, though the MS also develops consequences for TUI.
 
-**The scheme's own TUI chain, point by point (June 2024 P2 3(d)) —** customers **"may have less to spend on holidays and cruises if interest rates increase"** → *"some customers on holiday may not book additional trips or excursions offered by TUI"* → *"this could lead to a reduction in customers booking holidays **or going to travel agencies of TUI competitors**"* → *"this could lead to TUI having to reduce or cancel trips, which reduces its income."* **Two things to take from it: the loss is to RIVALS, not merely to lower spending, and the end of the chain is CAPACITY — trips reduced or cancelled — not just lower revenue.** **The question names the customers, so write it from their side.**
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> An increase in interest rates may leave some TUI customers with less money available for holidays and cruises. Customers already on holiday may decide not to book additional TUI trips or excursions, while some people considering a future holiday may book with a competitor instead. If fewer customers book, TUI may need to reduce or cancel some trips, which could reduce its income. These are possible effects, not inevitable outcomes for every customer or trip.
 
-> ⚠️ **Direction matters, and the question sets it.** *"An **increase**"* and *"a **decrease**"* are opposite answers — the Nov 2021 Artify question is about a **decrease**, where **the cost of borrowing falls and demand rises**. Getting the direction wrong makes every chain you write wrong, and **an answer built on a reversed premise scores nothing.**
+**Possible reasoning routes (not a required sequence or checklist):** reduced disposable spending may lead customers to cut holiday extras; some may book with a TUI competitor; if bookings fall enough, TUI may reduce/cancel trips and lose income. Keep the customer effect central while developing the MS’s possible business consequence. Do not assume customers borrow specifically to pay for holidays, that seats must be discounted, or that capacity changes are certain.
+
+> **Direction matters:** an increase and a decrease in rates can have different effects, so use the direction stated in the prompt and check whose spending or borrowing is being analysed. A reversed premise may make the reasoning irrelevant, but apply the item’s descriptors to the response as a whole rather than assuming a fixed zero-mark rule.
 
 ---
 
@@ -3076,18 +3059,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** legislation to reduce sugar **would reduce the sugar levels for its customers**; and it **would help reduce the demand on, and impact on, the health service** as fewer customers need its services.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A government legislates when **industry will not do it voluntarily**, and the target here is a product that is cheap, popular and eaten habitually. **Reducing the sugar in chocolate lowers the sugar its citizens consume without needing them to change what they choose** — and that is the point of legislating rather than campaigning: **it works on people who ignore the advice.** **The second reason is the cost to the country.** Consuming too much sugar contributes to being **overweight**, which brings **diabetes and other illnesses** with it — and those **cost the health service money that then cannot be spent elsewhere**. **The measurable end is on the public finances:** fewer health-related illnesses **reduce the cost of treating them**, and the country's overall health improves, which raises **productivity and the standard of living** as well as easing the strain on hospitals.
+> Reducing the amount of sugar in chocolate may reduce the sugar level in products eaten by Cadbury’s customers. If customers continue to buy the products, this may reduce their sugar intake from chocolate; the effect on total intake will depend on what else they consume. The legislation may also be intended to reduce pressure on the health service. The MS notes that consuming too much sugar can contribute to people becoming overweight; if lower sugar intake reduces related health problems, the country may face lower health-service costs and improved public health. Legislation alone does not guarantee these outcomes.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Government acts because **industry will not act voluntarily** |
-| **2. Strand A** | Legislation reaches people **who ignore advice and campaigns** |
-| **3. Strand B** | Sugar → obesity → illness → **cost to the health service** |
-| **4. Measurable end** | **Lower health costs and better public health** |
+**Possible reasoning routes (not a required sequence or checklist):** lower-sugar chocolate may reduce sugar intake from these products; if this reduces sugar-related health problems, demand on health services and associated costs may fall, benefiting the country’s health.
 
-**Second acceptable chain:** a government also protects **children**, who cannot judge the long-term consequences of what they eat → the legislation **reduces harm to people who did not consent to the risk**.
-
-> ⭐ **The same "who benefits" logic as entry 112 (Malaysia).** This qualification repeatedly sets questions where the business is **not** the beneficiary. **Check who the question names before writing the first sentence.**
+> **Scope reminder:** this prompt asks why governments introduced the legislation. Keep the reasoning on public health and health-service effects rather than explaining only how Cadbury complies.
 
 ---
 
@@ -3098,18 +3074,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** an overdraft allows Cadbury **to withdraw temporary funds from its bank account to pay suppliers for an unexpected delivery of cocoa**; and **if Cadbury needs to pay an unexpected bill to keep the factory working**. Also: **it is flexible as Cadbury will only pay interest on the amount they are overdrawn**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> An overdraft is **a facility, not a loan** — the business may draw on it when it needs to and repay when it can, and **it only pays interest on the amount actually overdrawn**. **That structure is what suits the problem Cadbury has: an unexpected delivery of cocoa, or a bill that must be paid to keep the factory running.** **Neither is planned, which is exactly why a fixed loan would be the wrong tool** — Cadbury would be paying interest on money it was not yet using, for a cost it did not expect to incur. **The measurable end is that production never stops.** The suppliers are paid on time, **the cocoa arrives and the factory keeps working**, which means **revenue keeps coming in while Cadbury sorts out its cash flow** — and the relationship with the supplier survives, which matters for the next delivery.
+> Cadbury may have needed an overdraft to pay suppliers for an unexpected cocoa delivery or to meet an unexpected bill needed to keep its factory working. An overdraft facility provides temporary access to funds, and interest is charged only on the amount by which the account is overdrawn. This flexibility may help Cadbury make the payment while its cash flow improves, allowing production to continue. It does not guarantee that production will never be interrupted, and the need to borrow may still involve interest and repayment.
 
-| Step | The move |
-|---|---|
-| **1. Point** | An overdraft is **flexible** — draw when needed, pay interest only on the amount used |
-| **2. Strand A** | The cost is **unexpected** → a fixed loan would be the wrong shape |
-| **3. Strand B** | Paying the supplier on time **keeps the factory running** |
-| **4. Measurable end** | **Production and revenue continue** while cash flow recovers |
+**Possible reasoning routes (not a required sequence or checklist):** temporary funds may cover an unexpected supplier payment or factory bill; interest charged only on the amount overdrawn can make this flexible for a short-term cash-flow need; the funds may help production continue while cash flow improves.
 
-**Second acceptable chain:** an overdraft can be arranged **at short notice** → Cadbury can respond to an opportunity — **a discounted bulk purchase of cocoa** — that a loan application would take too long to fund.
-
-> ⚠️ **Match the source of finance to the *timing* of the need.** **Short-term** (overdraft, trade credit) suits **unexpected, temporary gaps**. **Long-term** (loan, share capital, retained profit) suits **assets and expansion**. Choosing a long-term source for a temporary problem **costs interest unnecessarily** — and that reasoning is the difference between a 4 and a 6.
+> **Scope reminder:** the case/MS identifies unexpected costs. Do not invent a discounted bulk-purchase opportunity, promise instant approval, or claim that an overdraft is “not a loan.”
 
 ---
 
@@ -3121,18 +3090,18 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** increasing the use of robotics **reduces human error** in production; and robotics **increases the number of units that can be made**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A robot does the same operation **the same way every time**, so the two things a production line loses to people — **variation and error — largely disappear**. **Fewer faults means fewer toys rejected**, and rejected toys are **the most expensive kind: the materials, the machine time and the labour have all been spent and there is nothing to sell.** **The second gain is speed. A robot does not tire, so it can run at a rate a human cannot hold for a full shift**, which means **more units come off the line in the same hours**. **The measurable end is manufacturing cost per toy falling** — because the waste falls and the fixed costs of the factory are spread over more units. And for a toy that must fit together with other toys, **consistency is not just cheaper, it is what makes the product work at all.**
+> LEGO says quality is a central value and that its toys should help children learn and develop. In the case of the Princess Leia toys, increased use of robotics may reduce human error, leading to fewer faults and rejected toys. That could support LEGO’s quality aims and reduce wasted production. Robotics can also increase the number of pineapple pencil holders made; a higher production rate may lower manufacturing costs. The exact effect depends on the process and demand, so more output does not by itself guarantee more sales or profit.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Robots are **consistent** — no variation, no human error |
-| **2. Strand A** | Fewer faults → **less rejected stock** — the costliest waste there is |
-| **3. Strand B** | No fatigue → **higher output from the same hours** |
-| **4. Measurable end** | **Lower manufacturing cost per unit**, and a product that fits |
+**Possible reasoning routes (not a required sequence or checklist):** fewer production errors may mean fewer faulty/rejected toys; increased output of pencil holders may raise the production rate and reduce manufacturing costs. These are examples from the scheme, not a prescribed pair of chains.
 
-**Second acceptable chain:** robots allow **production to continue overnight and at weekends** without a night-shift wage bill → capacity rises **without a proportional rise in labour cost**.
+> The MS’s indicative content illustrates reduced human error and increased output. Avoid claiming that robots eliminate variation, never tire, operate unattended overnight, or automatically make the product fit or sell; those outcomes are not established by this case.
 
-> ⚠️ **This is the "robotics benefits" question — the counter-argument (high set-up cost, job losses, inflexibility) is a different question.** Compare entry **109 (flow production disadvantages)**, which is exactly that reverse. **The scheme's own two AO2 bullets here are `human error` and `number made` — hit both and you have the level 3 answer.**
+**Rabanne (June 2025 P2R, 4(b)) — separate case-specific model.** The MS identifies fewer errors in manufacturing 1 Million perfume and 24/7 production of Pour Homme aftershave; fewer faults mean fewer rejected bottles, while continuous production may increase output and reduce the cost of additional labour.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Using robotics to make 1 Million perfume may reduce manufacturing errors. If there are fewer faults, fewer bottles may be rejected, reducing waste and the cost of replacing or remaking them. Robotics can also allow production of Pour Homme aftershave to continue 24/7. This may increase the quantity produced and reduce the need for additional labour, lowering manufacturing costs. The actual gains depend on the production process and demand; continuous operation does not by itself guarantee that all output will be sold.
+
+**Possible reasoning routes (not a required sequence or checklist):** fewer errors in 1 Million production may mean fewer faulty bottles rejected; 24/7 Pour Homme production may raise output and reduce the need for extra labour. These are case-specific possibilities, not claims that robots eliminate all defects or require no human oversight.
 
 ---
 
@@ -3235,18 +3204,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** a completed application form gives **important details of each applicant, such as address and previous employment**; and an applicant for **sales manager can include all their experience of selling handbags**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> The value of a standard application form is **the word "all": every candidate answers the same questions, so the answers can be put side by side.** **Jimmy Choo has 30 candidates and needs one appointment**, and comparison is only possible if the information is in the same order and covers the same ground. **That structure is what makes the form a selection tool rather than a formality.** It captures **address — which matters for a role that may involve travel or shifts — and previous employment**, including **the specific experience of selling handbags that the sales manager role needs**. **The measurable end is a shorter, better interview list:** Jimmy Choo can **compare the forms, see which applicant is more suited, and call only those in** — which saves the interviewing time that would have been spent on the candidates the form has already ruled out.
+> Requiring all candidates for a Jimmy Choo vacancy to complete an application form gives the business comparable information about each person. The form can record their address and previous employment; for a sales-manager vacancy, applicants can include experience of selling handbags. Jimmy Choo can compare the information and identify applicants who appear more suitable for interview. This could make the selection process more focused, although the form alone cannot establish who will perform best.
 
-| Step | The move |
-|---|---|
-| **1. Point** | **All candidates answer the same questions** → the answers are comparable |
-| **2. Strand A** | Captures **the specifics the role needs** — experience of the product |
-| **3. Strand B** | Captures **the practical facts** — address, employment history |
-| **4. Measurable end** | **A shortlist to interview**, and the time saved on the rest |
+**Possible reasoning routes (not a required sequence or checklist):** the form gathers comparable information from applicants; job-specific experience such as selling handbags may help Jimmy Choo assess suitability and decide whom to invite for interview. Do not add unsupported candidate counts or infer travel/shift requirements from an address unless the case provides them.
 
-**Second acceptable chain:** the form **provides a written record** of what each applicant claimed → a shortlisted candidate can be **questioned on what they wrote** at interview → the business **tests the claims rather than accepting them**.
-
-> ⭐ **Know the recruitment document family, because they are asked together.** **Job description** — what the role involves. **Person specification** — what the person must have. **Job advert** — how it is communicated to the market. **Application form / CV** — what the candidate offers. **Each question asks about one of them; do not answer about another.**
+> **Scope reminder:** this prompt is about application forms. Keep them distinct from job descriptions, person specifications and job advertisements; use another recruitment document only where it genuinely answers the question.
 
 ---
 
@@ -3257,18 +3219,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** as a **large multinational**, it might be **easier to raise the large amounts of share capital** needed to fund further expansion; and **as an established multinational** it should have **existing and new shareholders wanting to buy the shares**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Share capital is **money from selling part-ownership of the company**, and the amount it can raise **has no ceiling set by a lender's appetite**. **That is what makes it the right tool for rapid growth: a business expanding its clothing factories needs a large sum at once, which a single bank may be unwilling to lend against a plan.** **Jimmy Choo's position as an established multinational makes the route easier than it would be for anyone else** — there are **existing shareholders who already know the brand and new ones willing to buy in**, so the shares can actually be sold. **The measurable end is speed and cost together:** the funds arrive **fast enough to take advantage of increased demand for its products**, and **because it is share capital and not a loan, Jimmy Choo incurs no interest charges** — so more of the profit from the expansion stays inside the business.
+> As a large multinational, Jimmy Choo may be able to raise the large amount of share capital it needs to expand its clothing factories, especially if existing and new shareholders are willing to buy shares. If the share issue raises the required funds, Jimmy Choo could expand more quickly and respond to increased demand for its products. Unlike borrowing, share capital does not require interest payments, so the business avoids that cost. Raising capital still depends on investors buying the shares and involves issuing part-ownership; it is not an unlimited or guaranteed source of finance.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Share capital has **no lender's ceiling** — suit a large, single sum |
-| **2. Strand A** | Established multinational → **shareholders willing to buy** |
-| **3. Strand B** | Funds arrive fast → **can seize increased demand** |
-| **4. Measurable end** | **Growth funded with no interest to pay** |
+**Possible reasoning routes (not a required sequence or checklist):** Jimmy Choo’s established multinational status may help attract existing/new shareholders; successful share sales could fund faster factory expansion to meet increased product demand; unlike a loan, the funds do not incur interest charges.
 
-**Second acceptable chain:** money raised by shares **does not have to be repaid** → a bad year does not put the business in breach of a repayment schedule → **the expansion can be allowed time to become profitable**.
-
-> ⚠️ **The cost of share capital is not interest — it is ownership.** **Dividends and a reduced share of the profit for the original owners** is the counter-argument, and it belongs in a 9-mark or 12-mark answer. **This question asks for the benefit**, so lead with the amount, the speed and the absence of interest.
+> **Scope reminder:** this question asks for a benefit of share capital, not a compulsory evaluation of alternatives. Share finance has no loan interest or fixed repayment obligation, but do not claim unlimited funds, guaranteed speed or assured investor demand.
 
 ---
 
@@ -3279,18 +3234,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** TUI can use the **"Star" to decide which are the most profitable holidays in Turkey**; and it **will keep a "Cash Cow" such as a 14-day cruise** because it **generates a steady flow of income**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> The Boston Matrix takes **one product range and sorts it by market growth and market share**, and its value to TUI is that **it turns a long list of holidays into four groups with four different answers.** **The "Cash Cow" is the cruise: it sells steadily and needs little investment, so TUI keeps it on the books precisely because it generates a reliable flow of income** — that money is what funds everything else. **The "Star" is the holiday in Turkey that is growing and profitable: it is where the investment goes**, because a star today is the cash cow of the next few years. **The measurable end is a stopping decision, which is the hardest one for any business to make.** If some hotels in parts of Turkey are **less profitable than others**, the Matrix identifies them **as the place to stop** — so TUI can **move that hotel off the programme and find another**, and **use the revenue released to expand into different holiday experiences** rather than propping up a product that is not working.
+> The Boston Matrix classifies products using **market growth and relative market share**, which could help TUI review its range of holidays and decide where to focus resources. For example, TUI could use the Star category when reviewing holidays in Turkey and its profitability, but the Matrix itself does not calculate profit. It could also keep a Cash Cow such as a 14-day cruise because the MS says it generates a steady flow of income. If some Turkish holidays or hotels are not profitable, TUI could stop using a hotel and find another, potentially freeing resources to offer different experiences. The final decision would depend on the performance data and the costs of changing provision, not the category alone.
 
-| Step | The move |
-|---|---|
-| **1. Point** | The Matrix sorts a range into **four groups with four different actions** |
-| **2. Strand A** | **Cash cow (the cruise)** → keep it, it funds the rest |
-| **3. Strand B** | **Star (Turkey)** → invest, it is the next cash cow |
-| **4. Measurable end** | **A stopping decision** — drop the weak hotel, fund the new experience |
+**Possible reasoning routes (not a required sequence or checklist):** classify holiday products using growth and relative share; consider the steady income from the 14-day cruise; review less-profitable Turkey hotels and possible alternatives, then decide whether resources can support different experiences.
 
-**Second acceptable chain:** the remaining two boxes **identify the problem products** — low growth and low share — so TUI **knows which holidays to withdraw deliberately** rather than continuing to sell them out of habit.
-
-> ⚠️ **Name the axes and the four boxes correctly.** **Market growth (high/low) against market share (high/low):** **Star** = high growth, high share · **Cash cow** = low growth, high share · **Question mark / problem child** = high growth, low share · **Dog** = low growth, low share. **Calling a dog a cash cow loses the application mark — and this is a named content gap in the examiners' reports.**
+> **Teaching note:** use the Matrix’s actual axes (market growth and relative market share) and connect a category to TUI’s holiday decisions. Do not treat a Star as automatically the most profitable or a Matrix label alone as proof that a hotel should be dropped; use the context and relevant performance data.
 
 ---
 
@@ -3433,18 +3381,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** Rabanne uses resources effectively by **not wasting packaging material** for its handbags and accessories; and by **developing higher quality packaging** for its fragrances.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Resources used effectively are **resources that do not have to be bought twice** — so the effect of avoiding waste is **an immediate cost saving**, because **packaging material that is used well is material that does not have to be replaced**. **For a luxury brand the saving is not the whole story, and the second half of the answer is the one that matters most.** **Higher-quality packaging** does two things at once: it **reduces the number of damaged bottles and accessories that must be replaced, which cuts cost**, and it **makes the product look like what it is** — a prestige item — which is **why a customer is willing to pay the price at all**. **The measurable end runs in three directions:** lower costs, fewer replacements, and a stronger brand image — **and using resources effectively turns out to be as much about reputation as about money.** Wasting less **also makes the business more environmentally friendly**, which matters to the customers luxury brands sell to.
+> Rabanne wants to reduce packaging for its handbags and accessories, so using only the material needed can reduce waste and the cost of packaging. This may also reduce the amount sent for disposal, supporting its effort to reduce waste. For fragrances, Rabanne can use higher-quality packaging to protect bottles in delivery. If fewer bottles are damaged, it will need to replace fewer products, reducing replacement costs. Effective use of packaging resources therefore matters both for controlling costs and for delivering fragrances in good condition.
 
-| Step | The move |
-|---|---|
-| **1. Point** | No waste = **materials not bought twice → direct cost saving** |
-| **2. Strand A** | Better packaging → **fewer damaged bottles needing replacement** |
-| **3. Strand B** | Presentation **is** the luxury product → **the price the brand charges** |
-| **4. Measurable end** | **Lower cost, stronger image, greener reputation** |
-
-**Second acceptable chain:** using resources effectively includes **labour and machine time** — shorter changeovers and less rework **release capacity without buying another machine** → **output rises with no rise in fixed cost**.
-
-> ⭐ **"Resources" is wider than "materials":** people, machines, time, money and materials. **The case decides which one to reach for** — and Rabanne's case points at packaging, which is why the scheme's bullets are about packaging and not about staff.
+**Possible reasoning routes (not a required sequence or checklist):** avoid wasting packaging for handbags/accessories to save money and reduce waste; improve fragrance packaging so fewer bottles are damaged and need replacement, reducing costs. The question concerns effective use of resources in Rabanne’s packaging context; avoid adding unsupported claims about luxury pricing, customers’ willingness to pay, or labour/machine productivity.
 
 **The scheme's own Kraft Heinz chains (Nov 2023 P2, 3(d)):** *"The environmen*"The environmental reputation of Kraft Heinz could be improved by its reduction in waste to landfill from 2019 to 2021"*ess w*"By having less waste Kraft Heinz can reduce its production costs for the tins of baked beans"*as a *"Kraft Heinz has a good reputation for reducing its energy, to save the environment, which may prove attractive to people and thus they will purchase more of Kraft Heinz’s products"*e cost of production of baked beans can reduce the price to customers thereby selling more and increasing revenue"**. **Two ends, and the second is the one candidates miss: the saving can come back as a LOWER PRICE that sells more, not only as retained profit.** The reputation route names **landfill** and **energy**, so say what the waste was.
 
@@ -3457,18 +3396,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** batch production means Starbucks **can produce cakes at a lower cost per unit**; and it **maximises the use of kitchen equipment and reduces waste of ingredients** for sandwiches.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Batch production makes **a set quantity of one item, then switches to another** — and for a food business that shape fits the job exactly. **Making cakes in batches lowers the cost of each one, because the equipment is set up once and used to capacity** before it is changed, **so the kitchen and the ovens are never sitting idle between jobs**. **The second gain is on ingredients.** Producing in planned quantities means **less waste — the sandwich fillings are prepared for a known number, not guessed at** — and **ingredient waste is money that has been bought and then thrown away**. **The measurable end is the one that matters most to Starbucks: uniformity.** Because each batch is made to the same recipe in the same way, **the cakes and sandwiches taste the same in every location**, and **a customer who buys the same item in a different shop is not disappointed** — which is what makes a chain a chain rather than a collection of shops.
+> Starbucks uses batch production for cakes and sandwiches. The mark scheme states that making cakes in batches can lower cost per unit; spreading production costs over output may help explain this benefit. Batch production also maximises use of kitchen equipment and reduces ingredient waste for sandwiches. Less waste can lower costs, while efficient equipment use may reduce production time. The mark scheme links batch production with uniform taste and quality across locations, which can help Starbucks offer a consistent product range. These are possible benefits in this case; the precise savings and effects depend on how Starbucks organises production.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Batch = **one item at a time, in a set quantity** |
-| **2. Strand A** | Set-up amortised over the batch → **lower cost per unit** |
-| **3. Strand B** | Planned quantities → **less ingredient waste** |
-| **4. Measurable end** | **Identical products everywhere** — the basis of a chain |
+**Possible reasoning routes (not a required sequence or checklist):** lower cake cost per unit; equipment use and less sandwich-ingredient waste may reduce time/costs; consistent batch output may support uniform taste and quality across Starbucks locations. These are illustrative pathways, not a required chain or fixed answer structure.
 
-**Second acceptable chain:** batches can be **timed to demand** — cakes made in the morning for the lunch rush → **fresher stock and less unsold at the end of the day** than a single huge production run.
-
-> ⚠️ **Batch is neither job nor flow.** **Job** = one bespoke item (a wedding cake). **Batch** = a set quantity, then switch. **Flow** = continuous, one standard product. **Starbucks makes cakes in batches; it does not make one bespoke cake, and it does not run a continuous line.** Getting the method wrong makes every chain in your answer wrong.
+> **Scope reminder:** apply batch production to Starbucks’ stated cakes and sandwiches. Do not assume a particular recipe, setup process, demand schedule, identical output in every batch, or reduced unsold stock unless supported by the question context.
 
 ---
 
@@ -3479,18 +3411,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** promoting its own employee to **Assistant Manager means they remain loyal to Starbucks**; and it **reduces the cost of advertising for new employees** who have experience of coffee shops.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Filling a vacancy from inside means **the person appointed already knows the business**, so the first benefit is **what Starbucks does not have to buy: the advertising, the shortlisting and the induction that a new manager from outside would need**. **The second is what the promotion does to everyone else.** An employee who is **promoted to Assistant Manager** has a career in front of them, and **that is what loyalty is built on — the visible proof that working well is rewarded here**. **It reaches past the individual as well.** **Every other member of staff watches how the promotion was decided**, so promoting from within **tells the whole team that effort is noticed**, and demotivation and resignations come down with it. **The measurable end is on the payroll and the training budget:** Starbucks **fills a management post without recruiting**, **keeps a manager who is already familiar with how it works and what it aims for**, and **saves the time and money of training someone who has never made a Starbucks coffee.**
+> Starbucks may promote an existing employee to Assistant Manager of a coffee shop because the employee is familiar with the business and how it works. This can save time and money that would otherwise be spent training a new employee in Starbucks’ ways. Promotion may also encourage the employee to remain loyal to Starbucks. Advertising costs may be lower than when seeking an external candidate with coffee-shop experience. These are potential reasons; promotion does not remove the need to select or prepare the employee for the new role.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Inside appointment → **no advertising, shortlisting or induction to pay for** |
-| **2. Strand A** | A visible career → **loyalty** |
-| **3. Strand B** | The rest of the team sees it → **motivation across the shop** |
-| **4. Measurable end** | **A manager who already knows the aims of the business**, at no recruitment cost |
-
-**Second acceptable chain:** the promoted employee is **already familiar with how the business works**, so **they become effective in the role sooner** than an outsider → **the shop is not weakened during a management change**.
-
-> ⚠️ **The scheme's bullets here are `loyalty` and `reduced cost of advertising` — both advantages.** An answer built on the *drawbacks* of internal promotion — no new ideas from outside, possible resentment among those not chosen — **would be answering the opposite question.** **Note that entry 150 (recruiting externally) is its mirror image: the same business decision, and the exam has asked about both sides in the same session.**
+**Possible reasoning routes (not a required sequence or checklist):** an existing employee already knows Starbucks’ aims and procedures, reducing some training time/cost; promotion may support loyalty; advertising for an external, experienced employee may be avoided or reduced. Do not claim no recruitment costs, guaranteed retention, or a guaranteed effect on all staff.
 
 ---
 
