@@ -575,16 +575,16 @@ This model follows one route; the alternative MS route is wider consumer choice.
 
 ## 24. Business failure — one **reason**
 
-**Asked:** *"Explain one reason why businesses fail."* — May–June 2021 P2, 2(c)
+**Asked:** *"Explain one reason why businesses fail."* — May–June 2021 P2 2(c) · *"Explain one reason why some businesses fail."* — May–June 2025 P2R 2(c). Both are AO1 Explain (3), but their matched MS examples differ.
 
-**Official MS route (AO1, 3 marks):** cash-flow problems (1) → outflow exceeds inflow (1) → potential problems paying employees or suppliers (1).
+**Official MS route (May–June 2021 P2):** cash-flow problems → outflow exceeds inflow → potential difficulty paying employees/suppliers.
 
-> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
-> One reason businesses fail is cash-flow problems. A business may have a greater cash outflow than inflow. It may then have difficulty paying its employees or suppliers.
+**Official MS routes (May–June 2025 P2R):** poor cash flow can lead to failure → lack of finance → inability to pay suppliers/other debtors; or prices are too high/not competitive → demand falls → revenue is lacking. MS says no marks for a definition on these items.
 
-**Guidance:** develop one relevant reason with two expansions. The 2021 MS gives cash flow as an example; it does not make this the only possible reason. Do not require a profit endpoint.
+> **MS-aligned model — May–June 2025 P2R 2(c)** `[MS-ALIGNED MODEL ANSWER]`
+> If a business’s prices are too high to compete with other businesses, customers may buy fewer of its products. This can reduce demand. The business may then lack the revenue it needs to continue operating.
 
-> **Scope note:** this section previously linked a May 2023 P1R prompt and constructed material. That P1R item is outside the present P2/P2R review and has not been assessed here; do not treat it as support for the 2021 P2 answer.
+**Pearson-awarded 2025 response:** the P2R ER p.15 awards 3 marks to a candidate identifying failure to innovate, then developing that old products are no longer what people want and that products/profits decline. Script, comment and score were visually checked; see `External_Exemplars/2025-06_P2_P2R_Explain_3mark.md`. This is an accepted alternative candidate route, not an MS bullet or a required profit endpoint. Keep the P1R item mentioned elsewhere in legacy material outside this P2/P2R review.
 
 ---
 
@@ -623,9 +623,16 @@ The customer-spending route is an alternative official example. These routes ans
 > **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > If a business has taken out a loan, lower interest rates may reduce its monthly repayments. It will then have more funds available for other business expenses.
 
-> The question asks for an advantage **for businesses**. The MS also permits a customer-spending route, linked to business turnover; no fixed profit endpoint is required.
+> The 2022 prompt asks for an advantage for businesses when banks reduce rates. The MS also permits a customer-spending route linked to business turnover; no fixed profit endpoint is required.
 >
 > **Pearson ER evidence (May–June 2022 P2R, p.12; transcribed script/verdict visually checked against the local report):** one candidate response was awarded 3 marks for paying less to the bank, saving money and using it to improve the business. The ER says many candidates confused advantage and disadvantage and warns against answering about customers instead of businesses. Keep that cohort comment distinct from the MS, which separately accepts a route through customers' additional spending and increased business turnover.
+
+**Related but distinct item (May–June 2025 P2, 2(e)):** *“Explain one effect on a business if interest rates are decreased.”* Its own MS routes are cheaper business borrowing → cheaper finance for new projects/expansion → improved profitability; or increased consumer spending → consumers buy additional items sold by the business → increased sales income.
+
+> **MS-aligned model — May–June 2025 P2 2(e)** `[MS-ALIGNED MODEL ANSWER]`
+> A decrease in interest rates can reduce the cost of borrowing for a business. It may then be cheaper to finance a new project or expansion. This could improve the business’s profitability.
+
+**Pearson ER evidence (May–June 2025 P2, p.17):** a candidate says a business may be more likely to take out bank loans but does not develop the point to explain consequences for the business; the report says 2025 candidates discussed lower borrowing costs or higher customer disposable income. The page was visually checked. This is item-specific feedback, not a requirement to describe both routes or end all Explain answers with profit.
 
 ---
 
@@ -768,14 +775,14 @@ The customer-spending route is an alternative official example. These routes ans
 
 ## 37. Using a **letter** to communicate with an employee — one reason
 
-**Asked:** *"Explain one reason why an **employer might use a letter** to communicate with an employee."* — June 2025 P2R
+**Asked:** *"Explain one reason why an employer might use a letter to communicate with an employee."* — May–June 2025 P2R 1(f).
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A letter is a **formal, written message that can be kept on file**. **Some matters must be recorded in writing** — a change to someone's contract, a warning, a promotion or a redundancy — because the employee and the business may later need proof of what was said. **This gives the business a dated record it can rely on in a tribunal or dispute**, which a verbal message cannot.
+**Official MS routes (AO1, 3 marks):** letters are a private way to communicate (1) a job offer/promotion/suspension/redundancy (1) to confirm the next stage (1); or letters are formal communication (1) → portray a professional business image (1) → are personal to an employee (1). The MS says no marks are awarded for a definition on this item.
 
-**Second chain:** a letter is **delivered to a named person and read privately** → a sensitive message is not overheard by others → **confidentiality is preserved**, which protects the employee's dignity and the business's professionalism.
+> **MS-aligned model — May–June 2025 P2R 1(f)** `[MS-ALIGNED MODEL ANSWER]`
+> An employer may use a letter to communicate a promotion to an employee. A letter is a private way to communicate this change. It can confirm the next stage of the process to the employee.
 
-> ⚠️ **The mark is the *formal record* — not "letters are old-fashioned" or "letters are clear".** The examiner is asking you to match **the channel to the message**: formal and confidential subjects need a written, private channel.
+**Pearson ER evidence:** on printed p.8 the report reproduces a candidate using a letter for sensitive/personal information and saying it may not be appropriate to share by text or other communication. The examiner says this identifies and develops one reason but has no further development for the third mark. The script/comment were visually checked; see `External_Exemplars/2025-06_P2_P2R_Explain_3mark.md`. This is item-specific evidence; a letter need not be framed as a tribunal record or as the only appropriate channel.
 
 ---
 
@@ -814,6 +821,13 @@ The ER's 2-mark script on p.20 uses team meetings to identify and fix issues; th
 
 The fine and reputation route is the official example; the final effect is a constructed elaboration. A definition of equal opportunities is not required for this question.
 
+**Also asked:** *"Explain one reason why businesses comply with equal opportunities legislation."* — May–June 2024 P2R 1(f). This is a separate legal-compliance reason prompt, not the May 2023 method prompt.
+
+**Official MS routes (2024 P2R 1(f); AO1, 3 marks):** compliance with the legal requirement → cannot discriminate on grounds such as gender/race/age → business could be taken to court/sued; or non-compliance with legislation → employers may be liable to be sued. The MS says no definition marks on this item.
+
+> **MS-aligned model — May–June 2024 P2R 1(f)** `[MS-ALIGNED MODEL ANSWER]`
+> Businesses must comply with equal opportunities law. This means they cannot discriminate against employees on grounds such as gender, race or age. A business that does not comply could be taken to court and sued.
+
 ---
 
 ## 40. Supporting employees with disabilities — one way
@@ -826,6 +840,9 @@ The fine and reputation route is the official example; the final effect is a con
 > A business can make reasonable adjustments to its premises for an employee with limited mobility. For example, it could adapt access to the workplace. This can help the employee carry out their work without being disadvantaged by the premises.
 
 **Official MS routes — May–June 2024 P2 2(c), reason to employ (AO1, 3 marks):** employing people with disabilities gives them an equal opportunity to work (1) → improves their lifestyle (1) → develops their skills (1); or the business must follow government legislation (1) → if not, it may fail to comply with the law (1) → it can be sued (1). This is a different task from supporting current employees.
+
+> **MS-aligned model — May–June 2024 P2 2(c)** `[MS-ALIGNED MODEL ANSWER]`
+> Employing people with disabilities gives them an equal opportunity to work. This may improve their lifestyle. It can also help them develop their skills.
 
 **Pearson-awarded P2 evidence:** the June 2024 P2 ER p.20 gives 3/3 to a candidate who says employing someone with a disability can improve the business’s public image, attract customers willing to support it, and increase sales. The script/comment/score were visually checked against the local ER. This is a candidate’s accepted answer, distinct from both MS routes and the constructed P2R model.
 
@@ -1334,9 +1351,12 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 > **MS-aligned model — May/June 2019 P2R** `[MS-ALIGNED MODEL ANSWER]`
 > A business can use targeted advertising online to reach a wider audience. Its advertising can be accessed worldwide and at any time of day. Compared with traditional advertising, this may be a relatively cheap way to reach those people.
 
-**May/June 2025 P2R has a separate prompt and two MS routes:** send information to past customers (1) → they may be more likely to purchase again (1) → improved customer loyalty (1); or promote to a specific demographic (1) → use different online activities (1) → increased brand awareness (1). These are not substituted for the 2019 P2R route.
+**May–June 2025 P2R 2(d) asks a different task:** *“Explain one reason why a business would use targeted advertising online to promote itself.”* Official routes: send information to previous customers (1) → they may be more likely to purchase again (1) → improved customer loyalty (1); or target a specific demographic (1) → use different online activities (1) → increased brand awareness (1). These routes are not substituted for the 2019 P2R advantage prompt.
 
-> The routes differ by item. Do not state that a particular phrase or audience type is compulsory for every targeted-advertising question; follow the exact prompt and its MS. A cost comparison is part of the 2019 route, not a universal rule.
+> **MS-aligned model — May–June 2025 P2R 2(d)** `[MS-ALIGNED MODEL ANSWER]`
+> A business could use targeted online advertising to reach a particular demographic. It can choose online activities that are likely to reach that group. This may increase awareness of the business’s brand among those potential customers.
+
+**Pearson-awarded evidence:** the 2025 P2R ER p.16 gives 3 marks to a candidate who identifies relevant people/demographics, develops this through purchase likelihood and more sales. The script/comment were visually checked. The examiner's wording “guarantee” is that candidate’s development, not a general factual certainty or MS requirement. The routes differ by item; no particular audience phrase, cost comparison, fixed answer length or endpoint applies to every targeted-advertising question.
 
 ---
 
@@ -1611,8 +1631,8 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one way in which the JIT method of stock control might benefit a business."* — May/June 2020 P1R · *"Explain one reason why many manufacturing businesses use just-in-time (JIT)."* — May/June 2025 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> JIT **reduces the amount of inventory held by the business** (1) — materials arrive as they are needed rather than being stockpiled. **This reduces the costs associated with over-ordering** (1) and, because far less space is needed for storage, **overall costs for the business may be reduced** (1).
+> **MS-aligned model — May–June 2025 P2 2(c)** `[MS-ALIGNED MODEL ANSWER]`
+> JIT **reduces the amount of inventory held by the business** (1) — materials arrive as they are needed rather than being stockpiled. **This reduces the costs associated with over-ordering** (1), so **overall costs for the business may be reduced** (1).
 
 **The chain, broken out**
 1. **Less stock is held** — the defining feature of JIT.
@@ -1625,8 +1645,9 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **A third** *(scheme, May/June 2020 P1R)*
 **Less space needed for buffer stock** (1) → **a reduction in storage costs** (1) → **stock arrives as and when it is needed** (1).
 
-> ⚠️ **`No marks are awarded for a definition`** — printed on both of these. Do not write *"JIT means stock arrives just in time"* and stop there.
-> 🚩 **JIT has a matching DISADVANTAGE, and you should be able to produce it too:** there is **no buffer stock**, so if a supplier is late **production stops entirely** — orders cannot be fulfilled and sales are lost. **On a "benefit" or "reason" question keep to the upside; on an evaluate or analyse question the stoppage risk is the strongest counter-argument you have.**
+> The May–June 2025 P2 MS says no marks are awarded for a definition on this item. This is item-specific. The P2 ER p.14 prints a zero-mark response that treats JIT as making goods faster; the examiner clarifies that JIT concerns inventory management/control. The script, comment and score were visually checked and are recorded in `External_Exemplars/2025-06_P2_P2R_Explain_3mark.md`. This report comment concerns the JIT item; it does not invalidate an appropriate inventory-management answer.
+>
+> **Related concept:** JIT has a possible disadvantage if a supplier is late and there is no buffer stock. This is a separate route for questions asking about drawbacks; it is not needed to answer this “reason” prompt.
 
 ---
 
@@ -1748,8 +1769,8 @@ The MS's no-definition instruction is item-specific. The P2 examiner report p.15
 
 **Asked:** *"Explain one disadvantage for a business of training its employees."* — May/June 2025 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **Training employees takes a great deal of time** (1) — the training has to be delivered, and someone has to deliver it. **It needs existing employees to carry it out** (1), so experienced staff are taken off the work they are paid to do. **This can reduce the productivity of the business** (1) in the short term, even though the training should raise it later.
+> **MS-aligned model — May–June 2025 P2 1(f)** `[MS-ALIGNED MODEL ANSWER]`
+> Training employees takes time and requires existing employees to deliver it. This may take staff away from their usual work. As a result, the business’s productivity may fall during training.
 
 **The chain, broken out**
 1. **Training costs time and money** — the disadvantage.
@@ -1759,8 +1780,9 @@ The MS's no-definition instruction is item-specific. The P2 examiner report p.15
 **A second acceptable route** *(scheme, same question)*
 **Existing employees have to be taught how to train others** (1) → **which incurs additional expense** (1) → **and there is no guarantee they are trained efficiently** (1).
 
-> ⭐ **Read this beside entry 11 (on-the-job training — advantage).** An advantage question and a disadvantage question on the same topic need **different chains**, not one chain reversed. Here the chain is **time → staff diverted → productivity falls.**
-> 🚩 **One further constructed disadvantage route (not the scheme’s only possible development):** training may make employees more employable elsewhere, so competitors could recruit them after the business has paid to train them. Check the exact question and MS; this is not a required closing point or sentence.
+**Pearson ER evidence (May–June 2025 P2, printed p.8):** a candidate says a trained employee may leave for a rival business and receives 1 mark; the examiner says this point was not developed to show a consequence for the business. The script/comment were visually checked. This shows the status of this response, not that employee departure is never acceptable if developed.
+
+> ⭐ **Read this beside entry 11 (on-the-job training — advantage).** Advantage and disadvantage prompts on the same topic ask for distinct, task-specific routes. Here the MS offers time/diverted staff/productivity or the cost and efficiency of training trainers. The rival-employer point is an additional possible route, not a required closing point.
 
 ---
 
@@ -1955,22 +1977,16 @@ These are one way to develop the point, not a compulsory sequence; the separate 
 
 ## 97. The **statement of comprehensive income** — one reason it is used
 
-**Asked:** *"Explain one reason why businesses use statements of comprehensive income when making decisions."* — May/June 2025 P2R
+**Asked:** *"Explain one reason why businesses use statements of comprehensive income when making decisions."* — May–June 2025 P2R 2(e).
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **A business can see how the business is performing** (1) over the period — whether it is heading in the right direction. **It can calculate the profit margin** (1), because the statement holds revenue, cost of sales and expenses together. **Along with other calculations, if the performance has deteriorated** (1) — which is what turns the statement into a decision.
+**Official MS routes (AO1, 3 marks):** a business can see how it is performing (1) → calculate its profit margin (1) → use other calculations if performance has deteriorated (1); or compare itself to similar businesses (1) → judge its performance against competitors (1) → get an indication of how well it is doing (1). The MS says no marks are awarded for a definition on this item.
 
-**The chain, broken out**
-1. **It shows performance over a period** — the statement's function.
-2. **It allows ratios to be calculated** — profit margin, and what has changed.
-3. **A decision is taken** — cut costs, raise prices, change the product mix.
+> **MS-aligned model — May–June 2025 P2R 2(e)** `[MS-ALIGNED MODEL ANSWER]`
+> A statement of comprehensive income helps a business see how it is performing over a period. It can calculate its profit margin and compare that with previous performance. If the results have worsened, managers can investigate costs or sales when making decisions.
 
-**A second acceptable route** *(scheme, same question)*
-**Businesses can use it to compare themselves with similar businesses** (1) → **which lets them judge their performance against competitors** (1) → **giving an indication of how well the business is doing** (1).
+**Pearson-awarded evidence (printed ER p.18):** a 3/3 candidate says the statement shows profits, identifies where costs are too high and uses that information to decide to lower costs or increase sales. The examiner warns that only two further marks are available for developing the reason, so longer answers are unnecessary. The script, comment and score were visually checked and transcribed in `External_Exemplars/2025-06_P2_P2R_Explain_3mark.md`. This is one awarded response, not a fixed answer length or required sequence.
 
-> 🚨 **KNOW WHAT IS ON IT — this is a named content gap.** The **statement of comprehensive income** shows, for a **period**: **revenue** − **cost of sales** = **gross profit**; then minus **expenses** = **profit (net)**. It is the answer to *"how did the business do?"*
-> ⚠️ **`No marks are awarded for a definition`** — printed here. Write what the statement is **for**, not what it is.
-> ⭐ **The contrast to hold in your head:** the statement of comprehensive income is the **video** (a period, what happened); the statement of financial position is the **photograph** (one moment, what the business owns and owes). That one sentence has carried many candidates through this pair.
+> **Document distinction (background, not a compulsory answer addition):** the statement of comprehensive income reports performance over a period; the statement of financial position reports assets, liabilities and capital at a date. Read the named document in the exact prompt; do not substitute a cash-flow or statement-of-financial-position answer.
 
 ---
 
@@ -2018,21 +2034,14 @@ These are one way to develop the point, not a compulsory sequence; the separate 
 
 ## 100. **Paying suppliers on time** — why it is important
 
-**Asked:** *"Explain one reason why it is important that businesses pay their suppliers on time."* — May/June 2025 P2
+**Asked:** *"Explain one reason why it is important that businesses pay their suppliers on time."* — May–June 2025 P2 2(d).
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **Paying suppliers on time establishes a good relationship with them** (1). **If the business needs goods urgently from them** (1) at some point, **they would be more likely to help, knowing they would be paid on time** (1).
+**Official MS routes (AO1, 3 marks):** paying suppliers on time establishes a good relationship (1) → if goods are needed urgently (1) suppliers may be more likely to help because they know they will be paid on time (1); or on-time payment gives better negotiating power (1) → a trusted supplier may offer better prices (1) → keeping business costs down (1). The MS says no definition marks on this item.
 
-**The chain, broken out**
-1. **The relationship is maintained** — the immediate benefit.
-2. **Because the supplier trusts the business** — the mechanism.
-3. **Better terms, priority treatment, or continued supply** — the consequence.
+> **MS-aligned model — May–June 2025 P2 2(d)** `[MS-ALIGNED MODEL ANSWER]`
+> Paying suppliers on time can establish a good relationship with them. If the business urgently needs goods later, the supplier may be more willing to help because the business has paid on time before. This can support continuity of supply.
 
-**A second acceptable route** *(scheme, same question)*
-**Paying on time gives the business better negotiating power with the supplier** (1) → **so if the supplier trusts them, they may negotiate better prices** (1) → **thus keeping the business's costs down** (1).
-
-> ⭐ **Note what the scheme does NOT say: there is no legal or moral argument here.** The mark is purely commercial — **a supplier who trusts you helps you in a crisis, and gives you better terms.** That is why payment terms are a **cash-flow decision, not just an accounting one**: the business is trading a short-term cash advantage (holding on to the money longer) against a long-term relationship (entry 89 on cash flow).
-> 🚩 **The mirror question — a known trap — is the opposite one:** *"Which one of the following would be a benefit to a business of **delaying** paying its suppliers?"* (May/June 2024 P2, 1 mark). **Delaying payment keeps cash in the business longer** — that is a genuine short-term cash-flow benefit, and the exam has asked for it. **Know both sides; the syllabus expects you to see the trade-off.**
+**Pearson-awarded evidence:** the P2 ER p.16 awards 3 marks to a concise response: paying on time establishes a healthy supplier relationship, leads to possible discounts and reduces raw-material costs. The script/comment/score were visually checked; see `External_Exemplars/2025-06_P2_P2R_Explain_3mark.md`. It is an awarded example, not a required route. The related May–June 2024 P2 one-mark question about the benefit of delaying payment is a distinct prompt; do not invert or transfer its route here.
 
 ---
 
