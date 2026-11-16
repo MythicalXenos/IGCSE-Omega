@@ -157,7 +157,7 @@ residual risk. **They are now enumerated rather than guessed at:**
 |---|---|
 | Long script quotes not present in any report's text layer — i.e. transcribed by eye from a scan | **52** (`audits/corpus/quotes_not_in_textlayer.json`) |
 | June 2022 Paper 1R scripts | **0 remaining** — all 8 are transcribed and checked |
-| June 2024 P2R (Jimmy Choo) scripts | not stored; only the marks were read, never the wording |
+| June 2024 P2R (Jimmy Choo) scripts | Q1(g) response snippets are transcribed from scans in `Perfect_Answers/External_Exemplars/2024-06_P2R_Jimmy_Choo.md`, with explicit warnings that they are not text-layer copies and should be checked against print. Q3(d), Q3(e), Q4(a), Q4(b) and Q4(c) candidate script bodies are not transcribed there; examiner comments/verdicts are retained. Do not clean, infer or reconstruct any script wording. |
 | June 2019 booklet exemplars | scans of a booklet, not a report |
 
 **How to close them:** for each entry in that JSON, run

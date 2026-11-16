@@ -1867,7 +1867,7 @@ June 2026 P1R prints **four 3/3 Explain scripts, one for each of the paper's fou
 | Jun 2023 P1R (Aude Rose) | `International-GCSE/Business/2017/Exam-materials/4bs1-01r-pef-20230824.pdf` |
 | Jun 2023 P2 (IKEA) | `International-GCSE/Business/2017/Exam-materials/4bs1-02-pef-20230824.pdf` |
 | Nov 2024 P1 (Saha) | `International-GCSE/Business/2017/Exam-materials/4bs1-01-pef-20250123.pdf` |
-| **Jun 2024 P2R (Jimmy Choo)** | `International-GCSE/Business/2017/Exam-materials/4bs1-02r-pef-20240822.pdf` — **51pp, harvested 16 Oct 2026 by both routes; tail scripts unobtainable, stated in the harvest file** |
+| **Jun 2024 P2R (Jimmy Choo)** | `International-GCSE/Business/2017/Exam-materials/4bs1-02r-pef-20240822.pdf` — **51pp, harvested 16 Oct 2026 by both routes; the retained file includes Q1(g) scan transcriptions with explicit warnings plus commentary/verdicts through Q4(c). Candidate-script bodies for Q3(d), Q3(e), Q4(a), Q4(b) and Q4(c) are not transcribed; do not reconstruct them.** |
 
 ## 📋 Confirmed to exist, NOT yet harvested
 

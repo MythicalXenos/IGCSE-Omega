@@ -2403,6 +2403,20 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Scope check:** keep the developed benefit directed to the Malaysian economy, as the question specifies; the scheme does not set a blanket zero-mark rule for every sentence about Nando's.
 
+**Kraft Heinz (November 2023 P2, 4(b)) — separate host-country model.** The MS identifies employment on baked-bean production lines and tax revenue from employees and Kraft Heinz; these may support lower skilled-worker migration and public services/infrastructure.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A Kraft Heinz factory can provide jobs for local people on its baked-bean production lines. If these jobs are taken by people who would otherwise be unemployed, unemployment in the host country may fall. Employees and Kraft Heinz may also pay tax in that country, increasing government revenue that can help fund public services and infrastructure. Jobs with prospects may also give skilled workers more reason to remain in their home country instead of migrating to find work. The size of these benefits depends on hiring and tax arrangements.
+
+**Possible reasoning routes (not a required sequence or checklist):** factory jobs may reduce local unemployment; employee and corporation taxes may add revenue for public services/infrastructure; local skilled jobs may reduce pressure to migrate.
+
+**India (November 2024 P2, 1(g)) — separate case-specific model.** The exact prompt concerns Premier Inn’s plans to open more hotels in India; the MS names local jobs, roles such as chefs and waiters, tax/revenue and possible unemployment reduction.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> If Premier Inn opens more hotels in India, they will need employees with different skills, including chefs and waiters. Hiring local people may create job opportunities and could reduce unemployment in the areas where the new hotels open. These employees may pay tax, while the hotels may generate revenue for India; the additional tax/revenue could support the Indian economy. The effects depend on where the hotels are built and who is employed.
+
+**Possible reasoning routes (not a required sequence or checklist):** new hotels need local employees for varied roles, creating opportunities and potentially reducing unemployment; jobs and hotel activity may contribute tax/revenue to India. Do not assume every job goes to a previously unemployed person or that all revenue remains in India.
+
 ---
 
 # BATCH 5b — 6-MARK ANALYSE, PART 2
@@ -2464,7 +2478,12 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Possible reasoning routes (not a required sequence or checklist):** use the statement to examine profit margin relative to Disney and consider pricing; account for the design, development and production costs incurred before launch. Do not equate accounting profit with available cash.
 
----
+**IKEA (May 2023 P2, 4(b)) — separate case-specific model.** The exact question asks why IKEA uses statements of comprehensive income to assess its performance. The MS links profit changes since new beds were introduced and reviewing expenses such as employee bonuses to decisions about continuing the range and whether bonuses raised production enough to cover their costs.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> IKEA can review its statement of comprehensive income to see whether annual profit has increased or remained stable since it introduced new beds. If the figures show a change, IKEA can use that information when deciding whether to expand or discontinue the range, while recognizing that the statement alone may not prove what caused the change. It can also review expenses such as employee bonuses and compare their cost with production: if production has not increased enough to cover the bonus costs, IKEA may reconsider continuing them. The statement therefore supports performance and spending decisions, but profit figures do not by themselves show cash available.
+
+**Possible reasoning routes (not a required sequence or checklist):** review profit since the new beds entered the range and use the figures to consider whether to expand or discontinue; compare employee bonus costs with any production increase when considering whether to continue the bonus. Avoid claiming the statement proves causation or cash availability.
 
 ## 115. INTERNAL SOURCES OF FINANCE — the benefits
 
@@ -2679,9 +2698,12 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Possible reasoning routes (not a required sequence or checklist):** skilled labour near the site may support recruitment; access to motorways or railways may help cocoa arrive in time for production. This prompt explicitly requests two factors; do not generalise that number to all location questions.
 
-**Second acceptable chain (Huawei):** factories **near the labour sources** → workers arrive without relocating → **the business gets the skills it needs without paying relocation costs** → lower unit cost. This is a separate paper’s cited example, not a verified benefit for Cadbury.
+**Huawei (November 2021 P2, 1(g)) — separate case-specific model.** The question asks about locating factories near labour sources. The MS identifies access to a skilled labour force, training costs, skills needed to operate smartphone-manufacturing machinery, and potential productivity/efficiency benefits.
 
-**The scheme's own Huawei chains (Nov 2021 P2, 1(g)), point by point:** *"By locat*"By locating a factory in an area where there is a skilled labour force it could reduce training costs"*i may*"Huawei may need certain skills to operate manufacturing machinery for its products e.g. smartphones"*ey sa*"The money saved could then be used for other purposes within Huawei"* skills are available the factory may become more productive and efficient in manufacturing smartphones"**. **A labour-side chain from end to end — training costs avoided, the saving redeployed, productivity rising — and none of it is about customers.** An answer built only on customers and footfall has answered the wrong half of a *"near its labour sources"* question.
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Locating a Huawei factory near a skilled labour force may reduce the training needed for workers to operate machinery used to manufacture smartphones. Lower training costs could leave Huawei with more funds for other business purposes. Having workers with the required skills available may also help the factory produce smartphones more productively and efficiently. These benefits depend on the skills available locally and the factory’s needs; they are not guaranteed by proximity alone.
+
+**Possible reasoning routes (not a required sequence or checklist):** skilled labour nearby may reduce training costs; suitable skills for smartphone machinery may support factory productivity and efficiency, while any training saving may be used elsewhere in Huawei.
 
 ---
 
@@ -2844,7 +2866,12 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Possible reasoning routes (not a required sequence or checklist):** negative comments about purchased clothes may deter buyers of that type, lowering sales and potentially creating excess stock; online comments may also cause some customers to choose another retailer without seeing the clothing.
 
-**Other cited questions require their own source and case check.** The Can Culleretes “impact” item is a different P1R question and is out of scope here; do not carry its case facts into the Yellow model. The May 2023 P2R M&M item remains in the current six-mark review queue.
+**M&M (May 2023 P2R, 1(g)) — separate case-specific model.** The prompt asks for disadvantages to M&M of using social media. The MS identifies potentially negative comments about tractor quality (which may be untrue) and the fact that not everyone uses social media to see advertisements for M&M’s new cars.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Customers can post negative comments on social media about the quality of M&M’s tractors. Even if some comments come from a disgruntled customer and are not true, potential customers may still be influenced by them and become less willing to buy M&M vehicles, harming sales. Social media advertising also may not reach everyone, because some potential buyers do not use these platforms; they may therefore miss information about M&M’s new cars and not consider buying them. The effect depends on the comments and the intended customers’ use of social media.
+
+**Possible reasoning routes (not a required sequence or checklist):** untrue or negative tractor comments may still influence buyers and sales; non-users may miss ads for new cars, limiting reach. The distinct Can Culleretes P1R prompt asks about the impact of customers using social media to review a restaurant; do not import its case facts here.
 
 ---
 
@@ -3030,7 +3057,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 **Asked:** *"Analyse the importance of TBTS motivating its employees."* — **June 2022 P1, 3(d)**
 **Also asked:** *"Analyse the importance to Kumaran, the owner of Café Pinch, of having motivated employees."* — June 2024 P1R 1(g) · *"Analyse the importance to Aude Anglaret of motivating her employees."* — May 2023 P1R 1(g) · *"Analyse the benefits for Premier Inn of motivating its employees."* — Nov 2024 P2 3(d)
 
-> **This topic has been asked on four separate papers — TBTS, Café Pinch, Aude Rose and Premier Inn. It is the most repeated topic in the 6-mark tier. Learn the chain once and it answers all four.**
+> **Motivation recurs across several papers, but the requested benefit and case evidence differ. Reapply the analysis to each business rather than transferring a fixed model.**
 
 **The AO2 anchors (TBTS):** motivated employees **can better meet the needs of customers who want to buy toys**; **if TBTS does not have motivated employees it could lead to lower sales**.
 
@@ -3046,7 +3073,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Second acceptable chain:** motivated staff **stay** → TBTS avoids the cost of recruiting and retraining a replacement → **the skills stay in the business and the wage bill stays stable**.
 
-> ⚠️ **Do not list Herzberg, Taylor or Maslow here.** Those are for the 3-mark "motivating employees" question, where the mark is for the **method**. **This question asks what motivation does for the business**, so the mark is in the **consequences** — retention, productivity, service, sales.
+> ⚠️ **Do not list Herzberg, Taylor or Maslow here.** Those are for the 3-mark "motivating employees" question, where the mark is for the **method**. **This question asks what motivation does for the business**, so connect it to relevant consequences such as retention, productivity or service when the case supports them.
+
+**Premier Inn (November 2024 P2, 3(d)) — separate case-specific model.** The MS gives hotel-service quality and room-booking errors as possible application routes, with willingness to carry out additional duties and repeat use/targets as analysis routes.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Motivated Premier Inn employees may be more likely to provide good service to hotel guests, which could encourage them to return and support bookings. Motivation may also matter when employees allocate guests to rooms: less motivated staff may make booking errors, creating problems for guests and potentially discouraging repeat visits. Employees who are happy at work may be more willing to carry out additional duties when required, helping the hotel respond to its workload. These outcomes depend on the employees and circumstances; motivation does not guarantee error-free service or that every guest will return.
+
+**Possible reasoning routes (not a required sequence or checklist):** motivation may support better guest service and return visits; less motivated employees may make room-allocation errors; happy staff may be more willing to take on additional duties. Do not treat any one route as compulsory or promise achievement of targets.
 
 ---
 
@@ -3208,9 +3242,14 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Possible reasoning routes (not a required sequence or checklist):** the form gathers comparable information from applicants; job-specific experience such as selling handbags may help Jimmy Choo assess suitability and decide whom to invite for interview. Do not add unsupported candidate counts or infer travel/shift requirements from an address unless the case provides them.
 
-> **Scope reminder:** this prompt is about application forms. Keep them distinct from job descriptions, person specifications and job advertisements; use another recruitment document only where it genuinely answers the question.
+> **Scope reminder:** the Jimmy Choo prompt is about application forms. Keep them distinct from job descriptions, person specifications and job advertisements; for the separate Samsung prompt below, recruitment documents explicitly include CVs and a person specification.
 
----
+**Samsung (November 2025 P2, 1(g)) — separate case-specific model.** The question asks how recruitment documents may help Samsung hire its best employees. The MS identifies CV evidence of design-engineer experience and a person specification stating the education/skills needed to design and manufacture TVs and smartphones.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Samsung can review a design engineer applicant’s CV to see their previous experience and compare it with the requirements for the job. A person specification can set out the education and skills Samsung needs to design and manufacture TVs and smartphones. This gives Samsung criteria for assessing whether applicants’ experience and skills match its vacancies. Identifying applicants who appear to have the required skills may help Samsung recruit employees able to contribute in the competitive electronics market. The documents support selection but cannot by themselves guarantee who will be the best performer.
+
+**Possible reasoning routes (not a required sequence or checklist):** use CVs to examine applicants’ design-engineer experience; use the person specification to define needed education/skills for TV and smartphone design/manufacture; compare applicants with role requirements to inform selection. Avoid claiming that documents guarantee a successful hire.
 
 ## 147. SHARE CAPITAL — the benefit of using it to grow
 
@@ -3219,7 +3258,7 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** as a **large multinational**, it might be **easier to raise the large amounts of share capital** needed to fund further expansion; and **as an established multinational** it should have **existing and new shareholders wanting to buy the shares**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> As a large multinational, Jimmy Choo may be able to raise the large amount of share capital it needs to expand its clothing factories, especially if existing and new shareholders are willing to buy shares. If the share issue raises the required funds, Jimmy Choo could expand more quickly and respond to increased demand for its products. Unlike borrowing, share capital does not require interest payments, so the business avoids that cost. Raising capital still depends on investors buying the shares and involves issuing part-ownership; it is not an unlimited or guaranteed source of finance.
+> Share capital is finance raised by issuing shares, giving investors part-ownership of the company. As a large multinational, Jimmy Choo may be able to raise the large amount it needs to expand its clothing factories, especially if existing and new shareholders are willing to buy shares. If the share issue raises the required funds, Jimmy Choo could expand more quickly and respond to increased demand for its products. Unlike borrowing, share capital does not require interest payments, so the business avoids that cost. Raising capital still depends on investors buying the shares; it is not an unlimited or guaranteed source of finance.
 
 **Possible reasoning routes (not a required sequence or checklist):** Jimmy Choo’s established multinational status may help attract existing/new shareholders; successful share sales could fund faster factory expansion to meet increased product demand; unlike a loan, the funds do not incur interest charges.
 
@@ -3385,7 +3424,12 @@ REMAINING                     :    0 topics  ·    0 blocks
 
 **Possible reasoning routes (not a required sequence or checklist):** avoid wasting packaging for handbags/accessories to save money and reduce waste; improve fragrance packaging so fewer bottles are damaged and need replacement, reducing costs. The question concerns effective use of resources in Rabanne’s packaging context; avoid adding unsupported claims about luxury pricing, customers’ willingness to pay, or labour/machine productivity.
 
-**The scheme's own Kraft Heinz chains (Nov 2023 P2, 3(d)):** *"The environmen*"The environmental reputation of Kraft Heinz could be improved by its reduction in waste to landfill from 2019 to 2021"*ess w*"By having less waste Kraft Heinz can reduce its production costs for the tins of baked beans"*as a *"Kraft Heinz has a good reputation for reducing its energy, to save the environment, which may prove attractive to people and thus they will purchase more of Kraft Heinz’s products"*e cost of production of baked beans can reduce the price to customers thereby selling more and increasing revenue"**. **Two ends, and the second is the one candidates miss: the saving can come back as a LOWER PRICE that sells more, not only as retained profit.** The reputation route names **landfill** and **energy**, so say what the waste was.
+**Kraft Heinz (November 2023 P2, 3(d)) — separate case-specific model.** The QP asks how Kraft Heinz could benefit from reducing waste. The MS identifies reduced waste to landfill from 2019 to 2021, production-cost reductions for baked-bean tins, and the possibility of lower prices increasing sales/revenue or an improved environmental reputation attracting customers.
+
+> **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> Kraft Heinz’s reduction in waste sent to landfill between 2019 and 2021 may improve its environmental reputation. The mark scheme also notes that using less material to make its baked-bean tins could reduce production costs. If Kraft Heinz passes some of that saving to customers through lower prices, it may sell more tins and increase revenue. Alternatively, its environmental reputation may attract customers to its products. The results depend on the size and source of the waste reduction and how customers respond.
+
+**Possible reasoning routes (not a required sequence or checklist):** less waste to landfill may support environmental reputation; reducing production waste for baked-bean tins may lower costs, which could allow lower prices and increased sales/revenue. Do not claim a guaranteed price reduction or guaranteed sales growth.
 
 ---
 
@@ -3490,18 +3534,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** M&M can **compare its sales of cars with other businesses such as the Ford Motor Company**; and **if Fiat introduces different models of tractors, M&M may consider changing the design of its own**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A figure on its own **cannot tell a business whether it is doing well — only a comparison can**. Comparing its car sales with **Ford** tells M&M **whether it is gaining or losing ground**, which is information that its own accounts cannot supply no matter how detailed they are. **The second reason is that competitors show what is coming.** If **Fiat introduces a new model of tractor, M&M learns what customers in the market are being offered**, and **it may decide to change the design of its own tractors** — either to match it or to attack the gap Fiat has left. **The measurable end is the action that follows the comparison.** If M&M's figures are **not as good as Ford's, it can respond — offering discounts or other incentives to customers** — and it can do so **before the gap becomes a loss**, rather than after. **The scheme adds the caution: there is no guarantee that M&M's new tractor will compete with Fiat's** — because a rival's success **cannot simply be copied**.
+> M&M can compare its car sales with those of the Ford Motor Company to assess how its performance compares with a competitor. If M&M’s sales are lower, it could consider discounts or other incentives to encourage customers to buy its cars. It can also monitor changes in competitors’ products: if Fiat introduces different tractor models, M&M may consider changing its own tractor design. This could help it respond to competition, although a redesign would not guarantee that M&M’s tractor will compete successfully. The comparison gives M&M information to inform decisions; the right response depends on the results and costs.
 
-| Step | The move |
-|---|---|
-| **1. Point** | A figure is meaningless **without a comparison** |
-| **2. Strand A** | Rival sales → **shows whether M&M is gaining or losing ground** |
-| **3. Strand B** | Rival products → **shows what customers are being offered** |
-| **4. Measurable end** | **A response — discounts, incentives or a redesign — before the loss** |
-
-**Second acceptable chain:** comparing against rivals **tests whether M&M's own costs are competitive** → a manufacturer with higher unit costs **cannot match a rival's price without losing money** → so the comparison **decides whether M&M can compete on price at all**.
-
-> ⭐ **There is a naming trap here and the bank has a rule for it: M&M's own case mixes vehicle manufacturers, and the scheme names FORD for cars and FIAT for tractors.** Use the right name for the right product — **a wrong business name is not application, it is a mistake.**
+**Possible reasoning routes (not a required sequence or checklist):** compare M&M’s car sales with Ford’s and consider incentives if its sales lag; monitor Fiat’s tractor models and decide whether to change M&M’s design, while recognizing that success is not guaranteed. These are examples, not a mandatory two-chain structure.
 
 ---
 
@@ -3513,18 +3548,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** planting trees is **good for M&M's image, its customers and the sale of its cars**; and it **would improve the environment and air quality in countries where M&M has factories**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A vehicle manufacturer has **a credibility problem that planting trees addresses directly: it pollutes, and everyone knows it**. **Paying for trees is a visible answer to that — it improves the environment and the air quality in the countries where M&M's factories are**, so the benefit is felt **where the business is actually operating rather than somewhere convenient**. **The second reason is what the trees are for commercially.** The scheme's bullets are explicit that this is **good for the image, for the customers and for the sale of the cars** — because **customers who care about the environment are more likely to buy from a company they can see is trying** to reduce the damage it does. **The measurable end is a defence rather than a gain:** M&M **still pollutes when it makes vehicles**, and no amount of tree planting changes that — but **the business can show that it is reducing the damage rather than ignoring it**, which protects it from the customers, and eventually the rules, that would otherwise turn against it.
+> M&M is a vehicle manufacturer, and the mark scheme notes that manufacturing cars and tractors pollutes the atmosphere. Continuing to plant trees may help reduce some environmental damage and improve air quality in countries where M&M has factories. This may support a more positive image of M&M among customers and could encourage some to buy its cars, supporting sales. Tree planting does not remove the pollution caused by manufacturing, and the effect on customer choices is not certain.
 
-| Step | The move |
-|---|---|
-| **1. Point** | A vehicle maker **pollutes, and everyone knows it** |
-| **2. Strand A** | Trees planted **where the factories are** → a visible, local improvement |
-| **3. Strand B** | Green image → **customers more willing to buy** — the scheme's own link |
-| **4. Measurable end** | **Damage reduced and defended against**, not eliminated |
-
-**Second acceptable chain:** planting trees **builds goodwill with the governments and communities of the countries M&M operates in** → the business is **less likely to face tighter regulation or local opposition** to its factories.
-
-> ⚠️ **Never claim the environmental action makes the business clean.** The scheme's own bullet says it plainly: *"even though the manufacture of vehicles and tractors does pollute the atmosphere, M&M are trying to reduce the amount of damage done."* **An answer that overstates the benefit is less accurate than the mark scheme — and accuracy is what is being marked.**
+**Possible reasoning routes (not a required sequence or checklist):** tree planting may improve the environment and air quality in countries where M&M operates; this environmental action may benefit its image with customers and support car sales. Keep both effects qualified and do not claim that planting trees makes M&M pollution-free or guarantees customer demand.
 
 ---
 
@@ -3537,18 +3563,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** franchises **allow IKEA to sell its flat-pack products throughout the world**; and **all franchisees pay a percentage of their profit to IKEA for the use of its name and furniture**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Franchising lets IKEA **grow without paying for the growth**. The franchisee **funds the store, the staff and the stock**, so IKEA can **have its flat-pack furniture sold all over the world without raising the money to build each shop itself**. **The second benefit is the income that comes back without any of that risk.** **Every franchisee pays a percentage of its profit for the use of the IKEA name and furniture** — so IKEA **earns from stores it does not run, and from regions it has never had to learn**. **The measurable end is scale without capital:** many retail stores selling IKEA furniture **create wealth for the business and revenue from every franchised store**, which **makes IKEA more successful on its own balance sheet than a chain of company-owned shops of the same size could** — because the money that would have been tied up in buildings is free.
+> Because all IKEA stores are franchises, franchisees can sell its flat-pack tables and wardrobes throughout the world. This gives more customers access to IKEA products and may help increase sales of its furniture. The franchisees also pay IKEA a percentage of their profits for using its name and furniture. As a result, IKEA can receive revenue from each successful franchise store, helping create wealth for the business. The amount it receives depends on the franchises’ profits, so the income is not guaranteed.
 
-| Step | The move |
-|---|---|
-| **1. Point** | The franchisee **pays for the shop** — IKEA does not |
-| **2. Strand A** | Royalty on every franchisee's profit → **income from stores IKEA does not run** |
-| **3. Strand B** | Global reach **without IKEA learning each market alone** — locals run it |
-| **4. Measurable end** | **Growth without capital tied up in property** |
+**Possible reasoning routes (not a required sequence or checklist):** global franchise stores sell IKEA’s flat-pack range to customers in many countries; franchisees pay a percentage of profit for the IKEA name and furniture, providing revenue that may increase with successful stores.
 
-**Second acceptable chain:** franchisees **know their own local market** better than a head office in Sweden would → sites and ranges **suit local demand** → more of the stores succeed, and **IKEA's royalty income rises with them**.
-
-> ⚠️ **The franchisee's answer is "a tried and tested business, advice and training, lower risk of failure" (entry 10). The franchisor's answer is "growth without capital, and a royalty on someone else's profit."** **They are mirror images — and writing the wrong one wastes the whole question.**
+> **Scope reminder:** this item asks about benefits to IKEA as franchisor, not benefits to the franchisees. Keep the parties distinct. The MS identifies worldwide sales and franchise-profit payments; do not imply that royalties or higher income are guaranteed.
 
 ---
 
@@ -3560,16 +3579,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** shortlisting **saves IKEA time by only calling applicants for interview if they have the experience or qualifications**; and IKEA **will shortlist candidates that match the job description** of a carpenter in its factories.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A vacancy at IKEA can draw **far more applications than it can interview**, so the shortlist exists to **cut the pile down to the people worth spending time on**. **The test applied is the job description** — for a factory carpenter that means **the experience or the qualifications to work with flat-pack furniture** — and **anyone who does not match it is not called in**. **That is where the saving is realised.** **Only the matching applicants are interviewed, so the time IKEA's Human Resources team spends filling one factory post falls sharply** — and their time is a cost the business pays whether it is recruiting or not. **The measurable end is a better use of management time, and a better appointment.** Shortlisting also **checks that what the applicant wrote on the form actually matches the job they applied for** — which is how an application **that reads well but does not fit the role** is caught **at the desk rather than in the interview room**.
+> IKEA can shortlist factory applicants by checking whether their experience or qualifications match the job description. For a carpenter in an IKEA factory, this could include experience relevant to working with or packaging flat-pack furniture. Applicants who appear to meet the requirements can then be invited to interview, while IKEA need not arrange interviews for every applicant. This can save the Human Resources team time when filling a factory vacancy. Checking an application against the job for which the person applied may also help identify whether the candidate appears suitable, although shortlisting alone cannot establish who will perform best.
 
-| Step | The move |
-|---|---|
-| **1. Point** | More applicants than can be interviewed → **the pile must be cut** |
-| **2. Strand A** | The **job description is the test** — experience and qualifications |
-| **3. Strand B** | Only matching candidates interviewed → **HR time saved** |
-| **4. Measurable end** | **Faster, cheaper appointment — and the right one** |
-
-**Second acceptable chain:** shortlisting **makes the interviews comparable**, because every candidate called in has already been tested against the same requirements → the decision is **made on fit for the role rather than on who interviewed well**.
+**Possible reasoning routes (not a required sequence or checklist):** compare applications with the factory job description and relevant experience/qualifications; interview candidates who match, reducing HR time spent arranging interviews. Do not assume a specific number of applicants or that shortlisting guarantees the best appointment.
 
 > ⚠️ **Shortlisting is a *filter*, not a *search*.** It happens **after** the advert and the applications, and **before** the interview. **The application form collects the information (entry 146); shortlisting is what is done with it.** Two different questions — the exam has asked both.
 
@@ -3627,18 +3639,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** this **involves new employees being trained outside Huawei at an external college by tutors and experts in modern technology**; and **employees can learn at their own pace the detail and requirements of producing smartphones and tablets**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Off-the-job training sends the employee **away from the workplace to learn from people whose job is teaching**, and Huawei's design department is exactly the case that needs it. **The technology inside smartphones and tablets changes faster than any single business can keep ahead of, so the expertise has to be bought in from tutors and specialists** — Huawei's own designers can teach how it works today, not what is coming next. **The second benefit is the freedom the classroom gives the learner.** Away from the production line, **an employee can learn at their own pace and get to grips with the detail**, instead of picking up whatever they can between tasks. **The measurable end is on both the trainee and the team they leave behind.** Because the new employee is not on the shop floor, **Huawei's existing staff can concentrate on their own work and do not have to supervise or train anyone** — and the trainee **does not have to worry about making mistakes that would cost Huawei money while they are still learning.**
+> Huawei may send new design-department employees to an external college, where tutors or other experts can teach modern technology used in smartphones and tablets. Learning outside the workplace may allow recruits to study the detail and requirements of producing these devices at their own pace. Meanwhile, Huawei’s existing employees can concentrate on their work rather than supervising or training recruits. When new employees later apply what they have learned, the training may also help reduce the risk of mistakes that could cost Huawei money. The benefit depends on the training’s relevance and how well employees use it.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Away from the workplace, taught by **people whose job is teaching** |
-| **2. Strand A** | Specialist tutors know **the newest technology**, not just Huawei's current method |
-| **3. Strand B** | No pressure of production → **learn at their own pace, mistakes cost nothing** |
-| **4. Measurable end** | **Existing staff undisturbed + trainee fully competent** |
-
-**Second acceptable chain:** off-the-job training **often leads to a recognised qualification** → the employee gains something that is theirs, which **motivates them to stay** and makes Huawei more attractive to future recruits.
-
-> ⚠️ **The scheme's third bullet is the one candidates miss: it is not just about the trainee.** *"Huawei's present employees concentrate on their work, and do not have to supervise or train new employees"* — **the productivity of the existing team is protected.** That is a cost saving, and it earns a mark.
+**Possible reasoning routes (not a required sequence or checklist):** external tutors can teach modern smartphone/tablet technology; learners may study production requirements at their own pace; existing staff need not supervise/train recruits during that period; relevant learning may reduce costly mistakes when applied later. Do not claim that off-site training is free, guarantees competence, or automatically gives a recognized qualification.
 
 ---
 
@@ -3651,18 +3654,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** if Huawei **gains a reputation for good quality products, more customers are likely to purchase its smartphones**; and **to repair faulty smartphones would be expensive**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Quality control means **checking the product before it reaches the customer and stopping the faulty ones going out**, and for a smartphone maker it guards two things at once. **The first is money.** **Repairing or replacing a faulty phone is expensive, and the cost lands twice** — the customer is sent a working phone, and the faulty one is scrapped, so **the business has paid to make the same product twice**. **The second is the reputation, and it is the larger of the two.** If the standard slips, **customers stop trusting the reliability of Huawei's phones and switch to another brand** — and in a market where a phone is judged over two years of use, **that trust is the whole product**. **The measurable end is what a repair costs in patience:** **customers who have to wait for a phone to be repaired tell other people about the wait as well as the fault**, so a single bad unit **does more damage to the brand than the repair itself costs.**
+> Huawei may use quality control to identify faults in smartphones before they reach customers. This could reduce the expense of repairing faulty phones. If Huawei develops a reputation for good-quality products, more customers may be likely to buy its smartphones. Conversely, if quality is unreliable, customers may lose trust and switch to other brands; delays while phones are repaired could also harm Huawei’s reputation. Good quality control may therefore protect both costs and customer confidence, although it cannot eliminate every fault.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Quality control **stops faults reaching the customer** |
-| **2. Strand A** | A faulty unit is **paid for twice** — made, then replaced |
-| **3. Strand B** | Loss of trust in reliability → **customers switch brand** |
-| **4. Measurable end** | **A damaged reputation costs more than the repair** |
-
-**Second acceptable chain (Premier Inn — quality of *service*):** helpful reception staff and the amenities a guest expects **make a guest return** → **repeat bookings raise profit** → and guests **tell friends and family**, which is promotion the hotel did not pay for.
-
-> ⚠️ **"Quality is important" is not an answer.** The scheme gives you **the cost of repair** and **the reputation effect** — **use both, and drive each to something measurable.**
+**Possible reasoning routes (not a required sequence or checklist):** detecting faults may reduce costly repairs; reliable Huawei smartphones may support reputation and sales; poor standards or repair delays could reduce trust and encourage customers to choose other brands. These are possible effects, not guaranteed outcomes.
 
 ---
 
@@ -3721,18 +3715,11 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** social media is **widely used around the world and enables Kraft Heinz to collect global data quickly** about a new variety of tomato sauce; and it can **set up links with a variety of people to collect their views on changes made to Mac & Cheese**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Social media gives Kraft Heinz **a panel of consumers it never had to recruit** — the data comes **from people already talking about food in public, at global scale, and it arrives quickly** rather than after a research agency's timetable. **That speed is worth real money on a new product.** A tomato sauce in test **can be judged by consumers in several countries within days**, which means Kraft Heinz **learns whether to carry on with it or stop it before the tooling and the marketing spend are committed**. **The second advantage is the variety of the sample.** By **setting up links with many different people**, Kraft Heinz hears from **far more kinds of customer than it could interview in person** — and the reaction to a change in **Mac & Cheese** is only useful if it comes from the people who actually buy it. **The measurable end is a cheaper, faster research cycle:** the business can **analyse the views and adjust the product while it is still cheap to change**, instead of discovering the problem after launch.
+> Social media is used widely around the world, so Kraft Heinz can collect information quickly about its new variety of tomato sauce. This may help the business assess customers’ responses and decide whether to continue selling the product. It can also create links with a variety of people to collect views on the changes made to Mac&Cheese. Kraft Heinz can analyse these responses quickly and, if the feedback indicates a need, adjust the product. The information may help it make decisions using customer views rather than guesswork, although the usefulness depends on whose views are collected and how representative they are.
 
-| Step | The move |
-|---|---|
-| **1. Point** | A **ready-made global panel** — no recruitment, and fast |
-| **2. Strand A** | Test a product with consumers **in days, across countries** |
-| **3. Strand B** | A **wide range of customers**, not a small in-person sample |
-| **4. Measurable end** | **Adjust or stop the product before the money is committed** |
+**Possible reasoning routes (not a required sequence or checklist):** wide social-media use may let Kraft Heinz collect global views quickly on its new tomato sauce; links with different people can gather opinions on Mac&Cheese changes; timely analysis may inform whether to continue a product or adjust it. Do not assume all respondents buy the products, that the sample is representative, or that the research is cheaper than other methods unless supported by evidence.
 
-**Second acceptable chain:** social media research is **far cheaper than commissioning face-to-face interviews or surveys** → the money saved goes into the product rather than into finding out about it → **more research can be done for the same budget**, so fewer decisions are made blind.
-
-> ⚠️ **"Social media" questions come in three flavours and the exam sets all three:** as **promotion** (entry 129's reverse), as a **reputational risk** (entry 129), and as **a research tool** (this entry). **Read the verb and the object — here it is "collect market research data".**
+> **Scope reminder:** this is social media as a means of collecting market research data, not just advertising. Other questions in entry 129 concern social-media promotion/reputational disadvantages and have separate case-specific models.
 
 ---
 
@@ -3789,18 +3776,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** if the **reception staff are helpful and accommodating**, guests are **more likely to return**; and if the **room has all the amenities guests require, such as tea and coffee facilities**, that matters too.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> In a hotel, **the service is the product** — a guest cannot take the room home and inspect it later, so **their judgement is formed in the hours they are there, and it is formed about people as much as furniture**. **Two things decide it, and they are both in the scheme's bullets.** The first is **the room itself: whether the amenities the guest expects, such as tea and coffee, are actually there** — because a missing kettle is not a small thing at eleven at night, it is **the difference between a hotel that thought about them and one that did not**. **The second is the staff: helpful, accommodating reception staff are what turn an ordinary stay into one a guest remembers well**, and **only one of the two has to go wrong for the whole stay to be judged badly**. **The measurable end is repeat business and free promotion:** guests who were looked after **book again and raise the number of bookings and the profit**, and they **tell friends and family about the service they received** — which is the cheapest marketing a hotel chain will ever get.
+> Helpful and accommodating reception staff may make a guest more likely to return to Premier Inn. If this increases repeat bookings, it could support the hotel’s revenue and potential profit. The quality of the room also matters: providing amenities guests require, such as tea and coffee facilities, may contribute to a satisfactory stay. Guests may tell friends and family about good facilities and service, potentially encouraging further bookings. These are possible outcomes; service quality does not guarantee a return visit or recommendation.
 
-| Step | The move |
-|---|---|
-| **1. Point** | In a hotel **the service is the product** — judged as it is delivered |
-| **2. Strand A** | The room's **amenities** — what the guest expects to find |
-| **3. Strand B** | The **staff** — helpful and accommodating |
-| **4. Measurable end** | **Repeat bookings + word of mouth** |
-
-**Second acceptable chain:** quality service **reduces complaints and refunds** → staff spend their time serving rather than resolving → **the hotel runs at a lower cost as well as a better reputation**.
-
-> ⭐ **A "quality of service" question wants you to break the service into its parts** — what the guest finds (the room, the amenities) and **how they are treated (the staff)**. **Naming both, from the scheme's own bullets, is the difference between a level 2 and a level 3 answer.**
+**Possible reasoning routes (not a required sequence or checklist):** helpful reception staff may encourage guests to return; having required amenities such as tea/coffee facilities may contribute to a good stay; guests may recommend Premier Inn to others. Develop relevant links rather than treating every bullet or a fixed number of strands as compulsory.
 
 ---
 
@@ -3835,18 +3813,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** Samsung **invests large amounts of funding to design and develop innovative electronic products**; and it **is a public limited company and the leading manufacturer of TVs**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> For a business like Samsung, **profit is not the reward at the end — it is the fuel at the start of the next product**. **Designing and developing innovative electronics takes enormous funding before anything can be sold**, and **every smartphone or TV in the shops was paid for by the profit from the model before it**. **That is why a fall in profit is more serious for Samsung than for a business selling a simpler product: the next generation gets funded out of this one.** **The second reason is what Samsung's ownership makes possible.** **As a public limited company, it can attract funds from investors — and investors are enticed by the possibility of high returns.** **Profit is the evidence that produces those returns, so strong profit draws in further funding on top of what Samsung earns itself.** **The measurable end is a cycle:** high profit **funds new technology, which keeps it competitive in the electronics market**, which **generates the next round of profit** — and a business that cannot turn that cycle **loses ground to rivals within one product generation.**
+> Samsung invests large amounts to design and develop innovative electronic products such as smartphones. Profit can provide a source of funds for reinvestment in new technology, which may help Samsung compete in the electronics market. As a public limited company, Samsung may also attract further funds from investors who hope for high returns. Those funds could support future product development. However, profit does not guarantee that Samsung will attract investors or remain competitive; outcomes depend on investment choices and market response.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Profit **funds the next product**, not just this one |
-| **2. Strand A** | Design and development are paid for **before any sale happens** |
-| **3. Strand B** | As a plc, **high returns attract investor funds** |
-| **4. Measurable end** | **Competitiveness in the next generation**, funded from this one |
-
-**Second acceptable chain:** profit **provides a cushion** for a product that fails → Samsung can **absorb a flop without cutting staff or development** → which **protects the long-term innovation the business depends on**.
-
-> ⚠️ **"Profit is the difference between revenue and costs" is a definition and earns nothing at this tariff.** The scheme's bullets are **reinvestment in innovation** and **attracting investors** — **both consequences, both forward-looking.** Compare the 3-mark tier, where the *method* of increasing profit **is** what is marked.
+**Possible reasoning routes (not a required sequence or checklist):** profits may be reinvested in technology for innovative products; a profitable public limited company may attract investors seeking returns, providing further funds for development. Do not imply every product is financed by the previous model’s profit or that profit alone assures investor demand or market success.
 
 ---
 
@@ -3860,16 +3829,9 @@ REMAINING                     :    0 topics  ·    0 blocks
 **The AO2 anchors:** Samsung is able to **identify and understand its customers' needs** in what they look for when buying a laptop or TV; and market research **will help Samsung identify potential gaps in the competitive smartphone market**.
 
 > **Model answer — 6 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Market research exists **to replace a guess about the customer with evidence**, and for Samsung the guess would be an expensive one. **Its first purpose is to identify and understand what customers actually look for when buying a laptop or a TV** — because **the features a design team finds impressive are not always the ones that sell**, and a product built around the wrong feature **cannot be fixed after launch**. **The second purpose is finding gaps.** Research lets Samsung **see what the competitive smartphone market is not offering**, and **a gap is a product the rivals have not built** — the cheapest kind of advantage there is, because **there is no competition to fight on price yet**. **The measurable end is a product that sells on purpose rather than by luck.** Knowing **which features customers prefer increases demand for the product**, and identifying a gap lets Samsung **build a unique selling point that attracts customers the others are not reaching** — which is what turns a research budget into a market position.
+> Samsung can use market research to identify and understand what customers look for when buying a laptop or television. It can use that information to consider which features customers prefer, potentially helping it develop products that appeal to them and increase demand. Research can also help Samsung identify possible gaps in the competitive smartphone market. If Samsung develops a product or feature to address a gap, it may create a USP that attracts customers. Market research informs these decisions but does not guarantee demand or establish that a gap has no competitors.
 
-| Step | The move |
-|---|---|
-| **1. Point** | Research **replaces a guess with evidence** — and guesses are expensive in electronics |
-| **2. Strand A** | **Customer needs identified** → features built around what sells |
-| **3. Strand B** | **Gaps in the market found** → a product with no direct rival |
-| **4. Measurable end** | **Higher demand + a USP that attracts new customers** |
-
-**Second acceptable chain:** research **tests a product or a price before launch** → Samsung can **find out whether it will sell without gambling the whole development budget** → so **the cost of being wrong falls from a failed product to a failed survey.**
+**Possible reasoning routes (not a required sequence or checklist):** identify needs when customers choose laptops/TVs and use preferred features to inform product choices; identify potential smartphone-market gaps and consider a USP. Avoid claiming customers’ preferences will necessarily increase demand, that competitors offer nothing similar, or that research alone guarantees a successful launch.
 
 > ⭐ **The three research questions side by side:** **purpose** = why do it at all · **reliability** = is the answer trustworthy · **method** = how do you collect it. **Each has a different answer, and the exam has now set all three.**
 
@@ -3885,12 +3847,12 @@ REMAINING                     :    0 topics  ·    0 blocks
 | **Blocks covered by an existing entry** | 46 |
 | **Entries used** | **74** — numbers 101–174 |
 
-**What that compression means.** 114 six-mark questions became **74 entries**, because **40% of them were repeats of a topic already answered** — *multinational* six times, *motivating employees* six times, *break-even* five times, *interest rates*, *cash*, *SoCI*, *branding* and *robotics* three times each. **No candidate ever sits six papers, but the topic they are examined on has been set six times, and the chain that earns the marks is the same every time.**
+**What that compression means.** 114 six-mark questions are represented by 74 topic entries, including recurring topics such as multinational business, motivation, break-even, interest rates, cash, Statements of Comprehensive Income, branding and robotics. The business context, wording and requested scope still vary; a previously banked topic is a starting point for checking, not a substitute for applying the specific QP and MS.
 
-**How to use this tier under pressure.** Read the **question stem** for two things before writing: **the direction** (*benefits* / *concerns* / *impact* / *effectiveness*) and **the party** (the business, its owners, its customers, a country). Half the errors recorded in this tier come from answering the wrong direction or **analysing the wrong party** — entry **112**, entry **140** and entry **135** are the three clearest cases.
+**How to use this tier under pressure.** Read the **question stem** for its direction (*benefits* / *concerns* / *impact* / *effectiveness*) and the party whose outcomes are asked about (the business, its owners, its customers, a country). Then select relevant case evidence and explain plausible consequences, keeping claims proportionate to the evidence.
 
-> ### THE ONE RULE FOR EVERY 6-MARK ANSWER, EARNED FROM THE 6/6 IN THE ARCHIVE
-> **One point, developed in strands, with application throughout — and end on something measurable.** *"The candidate has provided 1 point with developed strands… Candidates are reminded that there are no marks for knowledge in this question."* **Two points each developed once scored 5/6. Depth beats breadth, and every entry above is built in that shape.**
+> ### HOLISTIC AO2/AO3 BEST-FIT MARKING — NO FIXED ANSWER SHAPE
+> The six-mark Analyse schemes assess application (AO2) and analysis (AO3) against holistic Level 0–3 descriptors. Responses are placed at the level they best fit; they do not require a fixed number of points, chains, paragraphs or a measurable final sentence. The examiner’s comment that one particular candidate used “1 point with developed strands” describes that response, not a universal rule. Assess the quality and contextual development of the answer as a whole.
 
 ---
 
