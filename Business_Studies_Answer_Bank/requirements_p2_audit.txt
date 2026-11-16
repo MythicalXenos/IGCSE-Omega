@@ -1,0 +1,2 @@
+# Isolated source-audit dependency used in this task (tested in sandbox)
+pymupdf==2.1.0

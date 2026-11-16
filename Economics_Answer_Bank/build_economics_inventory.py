@@ -15,7 +15,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.worksheet.table import Table, TableStyleInfo
 
-ROOT=Path('/home/user')
+ROOT=Path(__file__).resolve().parent.parent
 BANK=ROOT/'Economics_Answer_Bank'
 INDEX_ZIP=ROOT/'Paperlords_Archive'/'Paperlords_Searchable_Text_Index.zip'
 PAIRINGS=ROOT/'Paperlords_Archive'/'Paperlords_QP_MS_ER_Pairings.csv'

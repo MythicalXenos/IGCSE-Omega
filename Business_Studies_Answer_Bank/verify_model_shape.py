@@ -1,0 +1,182 @@
+#!/usr/bin/env python3
+"""Audit non-empty model-text presence and selected causal-link features.
+
+Only the 3-/6-mark entries use causal-link audit checks. The 9-/12-mark tiers
+are checked only for mapped, non-empty model text, with no fixed answer architecture or length quota:
+
+    3-mark Explain   check for a causal mechanism step (an audit aid grounded in
+                     the examined exemplar and the sampled schemes).
+    6-mark Analyse   check for developed causal links (an audit aid, not a quota
+                     for paragraph count or number of ideas).
+    9-mark Justify   confirm the mapped model has answer text; no fixed shape is imposed.
+                     A condition, comparison, or separate conclusion is not mandatory.
+    12-mark Evaluate confirm the mapped model has answer text; no word count,
+                     paragraph architecture, or conclusion format is imposed.
+
+This script reads the blockquote that IS the model (never the entry's own
+commentary about it). A presence check rejects empty and label-only blocks; the
+causal-link heuristics do not certify answer quality. Run from
+`Business_Studies_Answer_Bank/`; prints one RESULT per tier.
+
+  python3 verify_model_shape.py
+
+WHY THE BLOCKQUOTE RULE IS IN HERE, NOT JUST IN THE CODE
+-------------------------------------------------------
+The first version of the 3-mark check read "everything from the marker to a
+stop-word", which ran through into the entry's own "Step | The move" table - and
+that table is full of causal vocabulary. It therefore PASSED on a model replaced
+with the report's own 0/3 wording, "Everyone can suggest ideas." Reading only the
+contiguous blockquote is what makes the check mean anything.
+"""
+import importlib.util
+import pathlib
+import re
+import sys
+
+HERE = pathlib.Path(__file__).resolve().parent
+
+# ---------------------------------------------------------------------------
+# The model, and only the model.
+# ---------------------------------------------------------------------------
+# 3-, 6- and 9-mark entries open a blockquote with "**Model answer — N marks**".
+# 12-mark entries open theirs with the label itself inside a blockquote heading.
+MARKERS = {
+    3: re.compile(r"Model answer[^\n]*3 marks"),
+    6: re.compile(r"Model answer[^\n]*6 marks"),
+    9: re.compile(r"Model answer[^\n]*9 marks"),
+    12: re.compile(r"CONSTRUCTED GRADE 9 TARGET"),
+}
+
+# Words that mark the step BETWEEN a point and its outcome. Wide on purpose, and
+# every widening was forced by a false positive on a real chain:
+#   * "then", "lead", "result in", "gives" were missing -> flagged entries
+#     15, 36, 55, 57, all chains.
+#   * a CONDITIONAL is a mechanism -> flagged entries 72 and 100, Pearson's own
+#     worked answers ("If customers are loyal they will shop only at that
+#     business (1) ...").
+#   * a PARTICIPLE is a mechanism -> flagged entry 93, also Pearson's own
+#     ("Giving it a greater chance of success (1)").
+CAUSAL = re.compile("|".join((
+    r"\bif\b", r"\bwould\b", r"\bprovided\b", r"\bunless\b", r"\bbecause\b",
+    r"\bso\b", r"so that", r"\bwhich\b", r"\btherefore\b", r"\bthus\b",
+    r"\bhence\b", r"leading to", r"leads? to", r"lead to", r"\bmeaning\b",
+    r"\bmeans\b", r"result(?:s|ing)? in", r"as a result", r"this means",
+    r"this gives", r"\bgives\b", r"allowing", r"allows", r"enabling",
+    r"enables", r"\bsince\b", r"thereby", r"\bthen\b", r"due to",
+    r"thanks to", r"\bdrives\b", r"driving", r"creating", r"creates",
+    r"that way", r"in turn", r"reduces", r"increases", r"raises", r"lowering",
+    r"raising", r"improving", r"cutting", r"saving", r"avoiding", r"causing",
+    r"causes", r"giving", r"given", r"brings", r"bringing", r"bring",
+    r"provides", r"providing", r"offers", r"offering", r"ensures",
+    r"ensuring", r"produces", r"producing", r"generating", r"lets",
+    r"letting", r"allows?", r"helps", r"helping", r"keeps", r"keeping",
+    r"builds", r"building", r"otherwise", r"rather than", r"instead",
+)), re.I)
+
+
+
+def models(text: str, tier: int):
+    """Every MODEL blockquote in an entry: contiguous '>' lines from its marker."""
+    lines = text.split("\n")
+    out, i = [], 0
+    while i < len(lines):
+        line = lines[i]
+        if line.lstrip().startswith(">") and MARKERS[tier].search(line):
+            body, k = [], i
+            while k < len(lines) and lines[k].lstrip().startswith(">"):
+                body.append(lines[k])
+                k += 1
+            out.append("\n".join(body))
+            i = k
+        else:
+            i += 1
+    return out
+
+
+def has_answer_text(block: str) -> bool:
+    """Reject empty/label-only model blocks without applying a length quota."""
+    lines = []
+    for line in block.splitlines():
+        line = re.sub(r"^\s*>\s?", "", line)
+        # Model markers and labels are metadata, not answer content.
+        if re.search(r"\bModel answer\b", line, re.I):
+            continue
+        line = re.sub(r"\[\s*(?:CONSTRUCTED GRADE 9 TARGET|VERIFIED CANDIDATE EXEMPLAR)[^]]*\]", " ", line, flags=re.I)
+        line = re.sub(r"^\s*#+\s*", "", line)
+        line = re.sub(r"\*{1,3}", " ", line)
+        lines.append(line)
+    text = " ".join(lines)
+    text = re.sub(r"CONSTRUCTED GRADE 9 TARGET|VERIFIED CANDIDATE EXEMPLAR", " ", text, flags=re.I)
+    words = re.findall(r"[A-Za-z]+", text.lower())
+    metadata = {"model", "answer", "constructed", "grade", "target", "verified",
+                "candidate", "exemplar", "option", "mark", "marks"}
+    # A genuine answer word must remain after removing marker/option labels.
+    # This is a presence test, not a minimum answer length or quality standard.
+    return any(word not in metadata for word in words)
+
+
+def main() -> int:
+    sp = importlib.util.spec_from_file_location(
+        "anchors", HERE / "verify_chain_bank_anchors.py")
+    a = importlib.util.module_from_spec(sp)
+    sp.loader.exec_module(a)
+    entries = a.bank_entries()
+
+    tiers = (
+        (3, "layer_c_coverage.py",
+         lambda m: CAUSAL.search(m) or "\u2192" in m,
+         "an explicit MECHANISM step (identify -> mechanism -> consequence)"),
+        (6, "layer_c_6mark_coverage.py",
+         lambda m: len(CAUSAL.findall(m)) >= 2,
+         "at least two chain links (one point, developed strands)"),
+        (9, "layer_c_9mark_coverage.py", None,
+         "non-empty mapped model text (no mandated condition, option count, or conclusion format)"),
+        (12, "layer_c_12mark_coverage.py", None,
+         "non-empty mapped model text (no word-count or paragraph/conclusion quota)"),
+    )
+
+    problems = []
+    for tier, mapfile, test, what in tiers:
+        cov = a.load_map(mapfile)
+        mapped = sorted(set(cov.values()))
+        print("=" * 74)
+        print(f"{tier}-MARK MODELS - {what}")
+        print("=" * 74)
+        print(f"  blocks: {len(cov)}   distinct entries: {len(mapped)}")
+
+        total, thin = 0, []
+        for e in mapped:
+            ms = models(entries.get(e, ""), tier)
+            if not ms:
+                thin.append((e, "no model blockquote found"))
+                continue
+            total += len(ms)
+            for m in ms:
+                if not has_answer_text(m):
+                    thin.append((e, "empty or label-only model block"))
+                    break
+                if test is not None and not test(m):
+                    thin.append((e, "causal-link audit flag: " + " ".join(m.split())[:170]))
+                    break
+        print(f"  models parsed: {total}")
+        if not mapped:
+            print("  NONE PARSED - check the parser, not the bank.")
+            problems.append(f"{tier}-mark: the map parsed nothing")
+        for e, txt in thin:
+            print(f"  !! entry {e}: {txt}")
+            problems.append(f"{tier}-mark entry {e}")
+        if mapped and not thin:
+            if test is None:
+                print(f"  all {len(mapped)} entries have non-empty model text; no answer-shape or length quota applied.")
+            else:
+                print(f"  all {len(mapped)} entries meet this causal-link audit heuristic; not a quality certification.")
+        print()
+
+    print("=" * 74)
+    print("RESULT:", "OK - mapped model text is non-empty and 3-/6-mark causal-link heuristics ran; this is not a quality certification."
+          if not problems else f"FAIL - {len(problems)} entry/entries to read.")
+    return 0 if not problems else 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

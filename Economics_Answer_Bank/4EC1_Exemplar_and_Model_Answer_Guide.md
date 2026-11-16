@@ -1,7 +1,7 @@
 # Pearson Edexcel International GCSE Economics (4EC1)
 ## Official candidate exemplars and constructed model answers
 
-**Scope:** the searchable archive’s **42 4EC1 question papers** (Papers 1 and 2, including R papers), May/June 2019 to June 2026. This guide combines Pearson’s 2019 exemplar booklets, examiner comments in the available 2023 reports, and clearly labelled models based on the exact question and mark scheme. It is for **4EC1 International GCSE Economics**.
+**Scope:** the searchable Paperlords archive’s **42 4EC1 question papers** (Papers 1 and 2, including R papers), May/June 2019 to June 2026. This archive-only count excludes the separately supplied January 2023 P1R QP/MS. The reconciled currently available corpus is 43 paper/variant documents, 1,022 parts and 3,440 marks; see `Whole_Bank_Reconciliation.md` and `Whole_Bank_Question_Manifest.csv`. This guide combines Pearson’s 2019 exemplar booklets, examiner comments in the available 2023 reports, and clearly labelled models based on the exact question and mark scheme. It is for **4EC1 International GCSE Economics**.
 
 ## Storage and evidence policy
 
@@ -20,7 +20,9 @@ The 2019 Pearson exemplar booklets show real scripts and exact scores, but their
 
 ## 1. Archive-wide question-pattern map
 
-The text index contains **671 standalone question-mark lines** across 42 usable QPs: **262 one-mark, 173 two-mark, 98 three-mark, 60 six-mark, 42 nine-mark and 36 twelve-mark items**. No other standalone mark values were found. The May/June 2022 P2R original in the archive is unreadable, so the inventory uses its verified 20-page recovered alternative paired with the original mark scheme. The filterable workbook `4EC1_Question_Type_Inventory.xlsx` contains a family map, a detailed prompt-pattern map, the item-level index with QP page and matching MS PDF path, official exemplar scores and source register.
+The workbook's question-type sheet contains **671 rows** (P1 225, P1R 128, P2 202, P2R 116). This is a partial/type-oriented inventory, not a complete question-part count; it is short by **351 parts** against the currently reconciled 1,022-part local/incoming corpus. Earlier line-based counts and mark-tariff breakdowns in this section are superseded and must not be used as the full-bank denominator.
+
+> **Scope correction — 10 Nov 2026:** Re-parsing and matching the available QP/MS sources gives **998 parts and 3,360 marks across the 42 archive pairs** (the archive-only fingerprint in `4EC1_Paper_Fingerprint.md`). Adding the separately supplied January 2023 P1R QP/MS gives the current local/incoming scope: **43 papers/variants, 1,022 parts and 3,440 marks**. Paper 1/P1R comprises 22 papers, 539 parts and 1,760 marks; Paper 2/P2R comprises 21 papers, 483 parts and 1,680 marks. The archive pairing register alone omits the January 2023 P1R pair. The workbook's 671 rows (P1 225, P1R 128, P2 202, P2R 116) are 351 short and are not a complete inventory. Use `Whole_Bank_Reconciliation.md` and `Whole_Bank_Question_Manifest.csv` for the current scope; the manifest's classification and whole-bank visual-source-check columns remain explicitly pending. The May/June 2022 P2R archive QP is unreadable to the parser; the manifest uses its verified recovered readable copy with the original MS.
 
 | Marks | Common command / family | What full-credit work generally does |
 |---:|---|---|
@@ -35,9 +37,10 @@ The text index contains **671 standalone question-mark lines** across 42 usable 
 
 Typical 4EC1 allocations in the selected mark schemes are:
 
-- **6 marks:** AO2 (application/understanding) + AO3 (analysis), commonly 3 marks each.
-- **9 marks:** AO2 + AO3 + AO4 (evaluation), commonly 3 marks each.
-- **12 marks:** AO2 + AO3 + AO4, commonly 4 marks each.
+- **6 marks:** AO2 (application/understanding) + AO3 (analysis) — **AO2 3 + AO3 3 in all 126 items**.
+- **9 marks:** AO2 + AO3 + AO4 (evaluation) — **AO2 3 + AO3 3 + AO4 3 in all 84 items**.
+- **12 marks:** AO2 + AO3 + AO4 — **AO2 4 + AO3 4 + AO4 4 in all 42 items**.
+- **There is no AO1 above 2 marks anywhere in 42 mark schemes.** Knowledge is bought only by 1- and 2-mark items.
 
 Use the **exact question’s mark scheme** if its allocation differs. These are level-based questions: Pearson judges the whole response against the level descriptors. A long list of points is not automatically better than a smaller number of developed chains.
 
