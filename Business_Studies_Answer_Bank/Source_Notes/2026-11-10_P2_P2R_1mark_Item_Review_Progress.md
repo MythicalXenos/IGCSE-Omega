@@ -145,6 +145,46 @@ The four QPs, exact-session MSs and all corresponding one-mark by-paper entries 
 
 **Running total: 108/204 reviewed; 96 pending (48 MCQ, 24 Define, 24 State).**
 
+## Batch 4 — November 2021/2023 P2 and May–June 2024 P2/P2R (48/48 reviewed)
+
+The matched QPs/MSs and all 48 by-paper one-mark items were checked. MCQs were answered independently from supplied definitions, options, numbers and graph before comparing the key. The source MS and bank examples were reviewed for each written Define/State part.
+
+### November 2021 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **A, B, C, B, C, D.** Primary research is more current; market share is a financial objective; 200 pottery bowls×£12=£2,400; partnership partner has unlimited liability; $7.6bn×1.14=$8.664bn→**$8.66bn (C)**; bank loan is long-term. The keyed answers agree. MS 1(a)(vi) distractor rationale says “C 0 … a bank loan is not long term finance”; QP option C is trade credit, so the rationale appears to mislabel the option and repeats the keyed D instrument. Source wording is preserved with a distinct clarification in the bank. |
+| 1(b), 1(c), 3(a) — Define | Sole trader = business owned exclusively by one person; demographics = a section of the population; revenue = income from sales of goods/services. Compared with exact MS entries. |
+| 1(d), 2(a), 2(b) — State | Huawei context: share capital need not be repaid and can fund salaries/new technology; paying above minimum wage may help retain staff versus Samsung or maintain commitment/attendance; loyalty can bring returning smartphone upgraders and sales of tablets. MS context rules and bank examples match. |
+
+### November 2023 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **D, B, C, A, C, D.** Focus groups are primary research; a customer offer is external communication; (36.55−35.06)/36.55×100=4.076…→**4.08%**; 12×$0.54×0.875=**$5.67**; personal savings are a sole trader’s long-term source; visually checked QP p.5 graph shows break-even at **D**, where total revenue and total costs intersect. MS keys and bank agree. Restored an explicit D/graph interpretation in the by-paper entry, which previously retained only the letter. |
+| 1(b), 1(c), 3(a) — Define | Labour-intensive production uses more labour than machinery/capital; trade bloc is a group of countries coordinating trade/protection; public limited company has shares freely traded on stock markets. MS and bank meanings match. |
+| 1(d), 2(a), 2(b) — State | Kraft Heinz context: on-the-job training teaches tomato-sauce ingredients/process or baked-bean production; HR may interview a graphic designer (MS also lists welfare); financial objective examples include profit from sauces or market share with new products. Context restrictions and bank examples match. |
+
+### May–June 2024 P2
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **B, A, B, C, C, D.** Personal satisfaction is non-financial; delayed supplier payment may improve cash flow; total monthly cost=240×€12+€600=**€3,480 (B)**; forecast may inform a bank lending decision; QP exchange rate is 40.91 THB/£, so £998×40.91=**40,828.18 THB (C)**; incorporation can increase access to finance. The MS’s option-A distractor states `24.20 is 998÷40.91`, but the QP option is 24.40 and the quotient is 24.395… (24.40 rounded). Correct key C is unchanged; the apparent source arithmetic typo and separately labelled teaching method are in the bank. |
+| 1(b), 1(c), 3(a) — Define | Franchise = business permits another operator to trade under its name; profit = revenue less all costs; multinational = business operating in multiple countries. Exact MS meanings match. |
+| 1(d), 2(a), 2(b) — State | TUI-context examples: above-minimum pay may retain travel/holiday knowledge; loyalty brings repeat hotel/cruise bookings and revenue; casual staff cover illness at a resort or busy holiday/tour periods. MS requires the TUI context; bank preserves relevant examples. |
+
+### May–June 2024 P2R
+
+| Item(s) | Independent result and check |
+|---|---|
+| 1(a)(i)–(vi) | **A, A, B, C, B, D.** Kaizen is continuous improvement; finance pays wages; 3,359.13 MYR÷5.65 MYR/£=**£594.54 (B)**; sole-trader benefit is owner independence; closing balance=£38,000+£27,000−£17,000=**£48,000 (B)**; primary research is more up to date. MS keys and bank agree. |
+| 1(b), 1(c), 3(a) — Define | E-newsletter = information sent electronically by a business to customers; minimum wage = lowest legal hourly pay; person specification = profile/characteristics needed for a job. Exact MS and bank meanings agree. |
+| 1(d), 2(a), 2(b) — State | Jimmy Choo context: repeat handbag/shoe purchases; non-financial aims include local-charity/community support or retaining control; health-and-safety compliance protects factory employees and may require training/protective clothing. MS requirements and bank examples match. |
+
+**Batch 4 source limits:** no candidate scripts or ER awards were reviewed. The November 2021 distractor wording and May–June 2024 arithmetic line are preserved as source anomalies; the corrections are explicitly teaching notes, not MS substitutions.
+
+**Running total: 156/204 reviewed; 48 pending (24 MCQ, 12 Define, 12 State).**
+
 ## Remaining batches / review procedure
 
 - 180 parts remain across the other 15 usable QPs. Work through each MCQ independently from the source figures/graph/table/options, then compare exact MS key and by-paper entry.

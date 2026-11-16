@@ -129,6 +129,10 @@ C 0 is incorrect as a bank loan is not long term
 
 finance.
 
+**Apparent MS distractor-rationale anomaly — preserve source:** option C in the QP is trade credit, but this rationale names a bank loan (the keyed D answer) and says it is not long-term finance. The keyed answer D remains consistent with the question; no correction to the official text is represented as Pearson wording.
+
+**Teaching clarification (not Pearson wording):** trade credit is generally short-term; a bank loan is the listed long-term source here.
+
 4BS1 02 November 2021
 
 

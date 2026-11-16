@@ -137,7 +137,9 @@ sole traders
 
 ### `1(a)(vi)` — 1 mark (AO1:1)
 
-**Question:** Which one of the following is the break-even point? A B C D Units $ Figure 1
+**Question:** Which one of the following is the break-even point? (Figure 1 labels the diagrammed lines/point A–D.)
+
+**Credited option:** **D — the intersection of total costs and total revenue**
 
 **Official mark scheme answer:**
 

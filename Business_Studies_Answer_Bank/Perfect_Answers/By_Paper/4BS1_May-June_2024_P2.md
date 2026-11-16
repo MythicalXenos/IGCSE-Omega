@@ -106,6 +106,10 @@ The only correct answer is C - 40 828.18
 
 A – is not the correct answer as 24.20 is 998 ÷ 40.91
 
+**Apparent MS distractor arithmetic typo — source wording preserved:** the QP's option A is 24.40, and 998÷40.91 = 24.395… (24.40 rounded), not 24.20. The keyed option C is independently correct; the distractor rationale is not silently rewritten.
+
+**Teaching clarification (not Pearson wording):** converting £998 at 40.91 THB per pound gives 998×40.91 = 40,828.18 THB (C); 998÷40.91 would be about £24.40, matching the rounded distractor A.
+
 B – is not the correct answer as 1038.91 is 998 + 40.91
 
 D - is not the correct answer as 40 869.09 is 998 x 40.91 + 40.91
