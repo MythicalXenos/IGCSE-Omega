@@ -104,6 +104,8 @@
 
 **Examiner comment:** *"From the response the candidate has clearly given **two** problems for Jimmy Choo if customers are not satisfied, by going to a competitor or giving negative reviews. **The comments on going to a competitor are not as detailed and justified.** Level 2 – 5 marks"*
 
+**Primary-source check (10 Nov 2026):** the official Pearson report PDF, `4BS1_02R_2406_ER` ([source](https://qualifications.pearson.com/content/dam/pdf/International-GCSE/Business/2017/Exam-materials/4bs1-02r-pef-20240822.pdf)), was fetched and its Q1(g) section checked. The available report text confirms the transcribed response, examiner comment and **“Level 2 – 5 marks”** verdict; no mismatch was found in that comparison. The full PDF/page image is not retained locally, so this does **not** replace a visual scan-to-transcript comparison. Keep the original scan-transcription warning. Do not use this single verdict to infer marking-band boundaries; the matched QP/MS level descriptors remain the authority.
+
 ### **Level 2 — 3 marks**
 > **[⚠️ not in any text layer held in this repo — a transcription, not a copy; re-check against the printed page before relying on it]**
 > *"It the need of customer are not satisfied the customer may leave Jimmy chod Need is the baset first and most needed things of the customer if the first thing can't done how can the customer get what the want"*

@@ -7,8 +7,10 @@
 | Label | What it is | What it is NOT |
 |---|---|---|
 | `[VERIFIED CANDIDATE EXEMPLAR]` | a real student script an official Pearson report scores at full marks (session, paper, question, page cited) | — |
-| `[OFFICIAL MARK-SCHEME WORKED ANSWER]` | **Pearson's own indicative content, quoted verbatim, carrying the scheme's own (1)(1)(1) allocation** | **not a candidate script · not examiner-marked** |
-| `[CONSTRUCTED GRADE 9 TARGET]` | engineered by me from the question paper, the mark scheme and the examiner reports | not official, not a student script, not examiner-marked |
+| `[OFFICIAL MARK-SCHEME WORKED ANSWER]` | Pearson's own indicative content, quoted verbatim with its printed mark allocation | not a candidate script · not examiner-marked |
+| `[MS-ALIGNED MODEL ANSWER]` | author-written response aligned to the cited official MS content and task | not the MS's wording · not a candidate script · not examiner-marked |
+| `[CONSTRUCTED; NOT AN AWARDED CANDIDATE SCRIPT]` | author-created response; the label states explicitly that it is not an awarded script | not official · not examiner-marked |
+| `[CONSTRUCTED GRADE 9 TARGET]` | author-created answer using the QP/MS and, where cited, examiner-report evidence | not official · not a student script · not examiner-marked |
 
 > ### 📌 HOW THE QUESTIONS ABOVE EACH ENTRY ARE CITED — checked 9 Nov 2026
 > Of **342** question quotations in this file, **264 are the exact words of the question paper**. The other 78 are catalogued in **`10a_Citation_Corrections.md`**, with the paper's own wording beside each. Two of those 78 matter to how you write: on a 9-mark *justify* question the paper prints only an option label and the mark scheme explains what it means, so a quotation that looks like the paper's may be the scheme's. **No wrong question was found in this file.**
@@ -105,14 +107,14 @@ Every entry gives you:
 3. **The chain, broken out** — so you can rebuild it under pressure rather than memorise prose.
 4. **A second acceptable chain**, because the mark scheme accepts *"any other appropriate response"*.
 
-> ### A useful 3-mark explain approach — not a sentence quota
-> Many 3-mark explain schemes award a mark for identifying a point and further credit for relevant development. Read the exact item’s MS: the assessed content and allocation can differ. Develop the point clearly; there is no universal requirement to write exactly three sentences, and additional relevant content is not automatically penalised. Avoid repeating the same idea as if it were a new development.
-> The examiner comment quoted in the legacy draft (“only gain 2 further marks …”) concerns its cited question and supports concise, relevant explanation, not a fixed length rule.
-
-> ### ⭐ AND THE COMMAND-WORD NOTE THAT APPLIES TO EVERY ENTRY BELOW
-> **Explain assesses AO1 — Knowledge. Context is NOT required.**
-> June 2025 P1 states it twice: *"No context/reference to the business in the exam paper is required in Explain questions."*
-> ⚠️ **But it is not penalised either.** If a topic phrase from the case study comes naturally, use it — it costs nothing.
+> ### A useful 3-mark Explain approach — one point, two expansions; no fixed answer shape
+> For Explain, identify **one relevant fact/point** and develop it with **two relevant expansions**. The expansions may follow one another (for example, a reason leads to an effect, which leads to a further effect), or may each develop the original point in a different relevant way. Use the exact item’s MS to check the content and the task. The same explanation need not end in profit: a valid development may concern customers, staff, costs, sales, quality, risk, cash, reputation, an operational effect or another relevant consequence. There is **no fixed sentence count**, no mandatory mechanism→profit chain, no compulsory opening definition and no judgement requirement. Do not repeat the point or count the same consequence twice as separate development.
+>
+> ### ⭐ Keep the task and beneficiary exact
+> Preserve the prompt’s requested **reason, advantage, disadvantage, method, purpose, effect** (or other task) and the named beneficiary. For example, a benefit **to a country** is not automatically a benefit **to a business**, and sponsorship benefits to the event recipient do not answer an advantage for the sponsoring business.
+>
+> ### ⭐ The Explain command word
+> **Explain assesses AO1 — Knowledge. Context is not required.** June 2025 P1 states: *"No context/reference to the business in the exam paper is required in Explain questions."* Context may be used where it helps explain the point, but it is not a compulsory mark or answer component.
 
 ---
 
@@ -403,12 +405,12 @@ REMAINING                :    0 topics  ·    0 blocks
 
 **Asked:** *"Explain one advantage to a business of **mass marketing**."* — Nov 2025 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Mass marketing means aiming one product at the whole market rather than at a segment. **Because the business makes one version for everyone, it produces at much larger volumes**, and large volumes bring economies of scale in production and in buying materials. **This lowers the unit cost, so the business can charge a low price and still profit**, which in turn wins it even more customers.
+> **Official MS worked route (Nov 2025 P2, 1(f); AO1, 3 marks):** more sales may be generated (1) because the product is promoted to a large number of people (1), which may improve the business’s profitability (1).
 
-**Second acceptable chain:** mass marketing → **one national advertising campaign instead of many targeted ones** → **marketing cost per customer falls** → the brand is recognised almost everywhere.
+> **Constructed model answer — 3 marks** `[CONSTRUCTED; NOT AN AWARDED CANDIDATE SCRIPT]`
+> Mass marketing promotes a product to a large number of people. This broad reach may generate more sales for the business. The additional sales may improve its profitability, although the result depends on customer response and the costs of promotion.
 
-> ⚠️ **The mirror image.** If the question had said *niche* marketing, the chain runs the opposite way: higher price, better fit, less competition. **Know both directions for the same topic** — this is exactly how the examiner creates a "State" trap.
+**Other possible development:** broader promotion may raise awareness; do not assume that every person in a mass market is interested or that lower unit costs automatically follow.
 
 ---
 
@@ -416,14 +418,13 @@ REMAINING                :    0 topics  ·    0 blocks
 
 **Asked:** *"Explain one advantage to a business of having a **social objective**."* — Nov 2025 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A social objective means the business aims to benefit society as well as make money — for example reducing its packaging or paying staff a living wage. **Customers who care about these issues will choose it over a rival that does not**, and are often willing to pay slightly more. **This gives the business a way to compete that does not rely on being the cheapest**, and it attracts employees who want to work somewhere they believe in.
+> **Official MS worked routes (Nov 2025 P2, 2(c); AO1, 3 marks):** a social objective may give the business a good reputation (1) through a positive impact on society (1), resulting in more potential customers (1); or it may attract employees (1) interested in environmental problems (1), widening the talent/skills available to the business (1).
 
-**Second acceptable chain:** a social objective → **better public relations and free positive press** → **cheaper marketing** and a stronger brand image → higher sales at the same price.
+> **Constructed model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A business with a social objective may create a positive impact on society. This could improve its reputation and attract more potential customers. Alternatively, an objective such as reducing environmental harm may attract employees with relevant interests or skills, widening the talent pool. These outcomes depend on how the business pursues its objective.
 
-> ### ⚠️ THE DEFINITION TRAP — rule 07
-> **A social objective is NOT a charity and the business is not government-owned.** A **social enterprise** is *independent* and *not government-owned*; the examiner has twice seen candidates lose marks on exactly this.
-> ⭐ **And do not confuse a social objective with a *survival* objective** — a survival aim is about staying in business, not about helping society.
+> ### ⚠️ Keep the task exact
+> The question asks for an **advantage to the business**. Do not replace the business’s benefit with a description of the social aim or an effect only on society. The MS-supported routes are reputation/customer interest or attracting employees; no opening definition or willingness-to-pay claim is required.
 
 ---
 
@@ -431,14 +432,13 @@ REMAINING                :    0 topics  ·    0 blocks
 
 **Asked:** *"Explain one **limitation** of a **break-even chart**."* — Nov 2025 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A break-even chart plots costs and revenue on straight lines, which assumes **every unit costs the same to make and every unit sells at the same price**. In reality, a business often discounts to shift unsold stock, and bulk buying lowers material costs as output rises, so the lines are not straight. **This means the chart's break-even point is only an estimate**, and an owner who relies on it precisely may set the wrong output or price.
+> **Official MS worked route (Nov 2025 P2, 2(d); AO1, 3 marks):** break-even is based on predictions (1), which may result in an incorrect forecast (1), leading to wasted resources (1).
 
-**Second acceptable chain:** a break-even chart shows costs and revenue but **not cash timing** → it cannot show that a profitable business still runs out of money before a debt falls due → **it gives a misleading picture of viability**.
+> **Constructed model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
+> A break-even chart is based on predicted costs, prices and output. If actual sales or costs differ from those predictions, the chart may give an inaccurate forecast of the output needed to break even. A business relying on that forecast could commit resources to a plan that is not viable.
 
-> ### ⚠️ READ THE COMMAND WORD — "limitation", not "disadvantage"
-> A **limitation** is about the **tool's accuracy or scope**. A **disadvantage** would be *"it takes management time to prepare"*. **Answering a limitation question with a cost/time disadvantage scores nothing.**
-> ⭐ And note: **this came up in a series where the examiner also said break-even diagrams are not required elsewhere** — *"a limitation of a chart"* is a knowledge question, not a drawing question.
+> ### ⚠️ Keep the task exact
+> This prompt asks for a **limitation of the chart**, not a general disadvantage of operating a business. An inaccurate forecast and the resulting risk of wasted resources follow the MS route; do not treat the chart as a guaranteed prediction.
 
 ---
 
@@ -537,7 +537,7 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Second chain:** operating inside another country **avoids the import tariffs and quotas** that a foreign exporter would pay → **goods reach customers more cheaply** than a competitor shipping them in.
 
-> ⚠️ **Measure the third sentence.** *"It makes more profit"* is not enough — say **why** profit is more secure: **spread demand across countries**, or **lower costs from cheaper inputs**. ⭐ And note Nov 2021 P2 Q2(d): *"A number of candidates mentioned that the business is world-wide **but then did not develop the comment**."*
+> ⚠️ **Develop the point rather than stopping at a claim.** *"It makes more profit"* is not enough on its own — explain a relevant reason, such as spreading demand across countries or lowering costs through cheaper inputs. These are possible routes, not a required chain or answer length. ⭐ The Nov 2021 P2 report says some candidates noted that a multinational is worldwide but did not develop the comment.
 
 ---
 
@@ -559,14 +559,21 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Asked:** *"Explain one advantage for **a country** of being **in a trading bloc**."* — Nov 2024 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A trading bloc is **a group of countries that agree to trade with each other without barriers such as tariffs**. **Businesses in a member country can export to the other members without paying import taxes**, so their goods cost less abroad and they win customers they otherwise could not reach. **This raises the country's exports, which creates jobs and brings money into the economy.**
+**Official MS worked route (Nov 2024 P2, 2(e); AO1, 3 marks):** businesses in a country can trade without tariff barriers (1) → there are no additional costs (1) → prices could be lower (1). The MS also accepts wider consumer choice from free movement of goods between countries.
 
-**Second chain:** being inside a bloc makes it **cheaper to move materials between members** → manufacturers locate there to serve the whole bloc → **the country attracts foreign investment**.
+> **Constructed model answer — 3 marks** `[CONSTRUCTED; NOT AN AWARDED CANDIDATE SCRIPT]`
+> Businesses in a member country can trade with other members without tariff barriers. This removes the additional tariff cost on those transactions, so businesses may be able to offer goods at lower prices. Consumers in the country may then have access to a wider choice of goods moving freely between members.
+
+**Also asked:** *"Explain one benefit to a business of being located within a trading bloc."* — Nov 2025 P2, 2(e). **Different beneficiary and application:** the MS allows a business to increase sales because the bloc encourages trade between member countries, widening its pool of customers; it also allows lower import-material costs if tariffs are reduced or removed.
+
+**Official MS worked routes (Nov 2025 P2, 2(e); AO1, 3 marks):** potential to increase sales (1) → bloc encourages trade between member countries (1) → wider pool of customers (1); or imported materials may cost less (1) → tariffs likely reduced/eliminated (1) → business may increase profit (1).
+
+> **Constructed model answer — 3 marks** `[CONSTRUCTED; NOT AN AWARDED CANDIDATE SCRIPT]`
+> A business located within a trading bloc may be able to sell to customers in other member countries. Because the bloc encourages trade between its members, the business has a wider potential customer base than in its home market alone. It may therefore increase sales. Alternatively, reduced tariffs on imported materials may lower its costs and potentially increase profit.
 
 > ### 🚨 RELEVANCE BY PARTY AND THE 2024 ERROR
-> **This question asks about the COUNTRY, not a business.** Writing *"the business can sell more"* is the wrong party.
-> ⚠️ **And the examiner recorded the exact misconception:** *"others **confused the term and wrote about protectionism** rather than **liberalising trade**."* **A trading bloc removes barriers between members — it is the opposite of protectionism.** Do not write about tariffs being *put up*.
+> Keep the two tasks distinct: the 2024 question asks for an advantage **to a country**; the 2025 question asks for a benefit **to a business located within a bloc**. Do not swap their beneficiaries or carry one answer over unchanged.
+> ⚠️ Elsewhere in the retained Nov 2024 P2 commentary, the examiner reports confusion of the term “trading bloc” with protectionism rather than liberalised trade. That is a paper-level concept warning, not a verdict specifically on this three-mark item. A bloc reduces/removes barriers between members; do not describe barriers being raised.
 
 ---
 
@@ -1006,7 +1013,7 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 **More disadvantages that chain properly:** closed questions **limit the answers** → the respondent cannot say what they really think → the business misses the real reason customers behave as they do · posted questionnaires get **a poor response rate** → the sample is too small to be representative → the findings cannot be trusted · people may **lie to appear sensible** → the business acts on false information.
 
-> ⭐ **Notice the shape: the flaw is in the *method*, and the third sentence is about the *information*.** A questionnaire disadvantage that ends on "it costs money" has stopped one link early — costs apply to every method and do not distinguish a questionnaire.
+> ⭐ **Keep the development relevant to the method and the information.** A questionnaire disadvantage that says only "it costs money" may be too general; explain a relevant limitation of questionnaire responses or data. There is no required sentence placement or count.
 
 ---
 
@@ -1014,7 +1021,7 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 **Asked:** *"Explain one benefit to a business of using the internet to carry out secondary market research."* — May/June 2020 P2R · *"Explain one benefit to a business of using secondary market research."* — May/June 2021 P1 · *"Explain one reason why secondary research would be used by a business."* — Nov 2021 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > Secondary research **already exists and is available** (1) — the business does not have to go out and gather it. **This saves the business a great deal of time and effort** (1) that would otherwise be spent collecting data itself. **The information can then be used to develop its products or to learn about other businesses** (1), so the saving converts into something useful rather than just being a saving.
 
 **The chain, broken out**
@@ -1029,7 +1036,8 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 **Access to a large volume of data** (1) → **they do not have to go out and collect it themselves** (1) → **it is much cheaper and quicker because someone else has already done it** (1).
 
 > ⚠️ **The distinction that must be right:** secondary = **data that already exists** (government statistics, competitor websites, reports, newspaper articles, internal sales records). Primary = **collected first-hand** (surveys, interviews, questionnaires, observation, focus groups). **Calling a questionnaire "secondary research" is the commonest error on this question** and it earns nothing.
-> ⚠️ **A weak secondary-research advantage: "it is more accurate."** It usually is not — it was collected for someone else's purpose, so it may be out of date or not quite fit. Use **cheaper · quicker · large volume**, which are the scheme's own points.
+> ⚠️ **A weak secondary-research advantage: "it is more accurate."** It may be out of date or poorly suited because it was collected for another purpose. Use a relevant MS-supported route such as time/effort savings or access to existing information.
+> 📄 **Retained Nov 2021 P2 examiner commentary:** some candidates described what secondary research was rather than how it would be used. Keep the definition-like point subordinate to the requested reason: develop the time/effort saving and say how the information can be used (for example, to develop products or learn about other businesses). The report commentary is recorded in `External_Exemplars/Advisory_Reports_Nov2023_Nov2024_Nov2021_2019P1R.md`; it is not a candidate-script exemplar.
 
 ---
 
@@ -1058,7 +1066,7 @@ Use the research to **set the price** → the business knows what customers are 
 
 **Asked:** *"Explain one advantage of using focus groups when carrying out market research."* — Nov 2024 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > Using a focus group means the researchers **talk directly to the people in the group** (1) rather than through a form. **This means they may get a more truthful answer** (1) — people say more in conversation than they write on a questionnaire. **This allows the researchers to gain in-depth insights into consumers' thoughts, feelings and motivations** (1), which is exactly what a business needs when a decision is finely balanced.
 
 **The chain, broken out**
@@ -1071,7 +1079,7 @@ Use the research to **set the price** → the business knows what customers are 
 
 > 🚨 **THE REPORTED ERROR — from the Nov 2024 report, on this exact question:**
 > *"Many candidates stated it was a **quick, easy or an unbiased** method which is **not correct**."*
-> A focus group is **not** quick (it must be arranged, run and written up), **not** easy (it needs a skilled moderator, and one loud voice can dominate it) and **not** unbiased (the group can be led by whoever runs it, and people may agree with the majority). **Never use any of those three.** Use **depth**, **honesty of response** or **the discussion itself**.
+> For this Nov 2024 P2 item, the retained report specifically records that claims that focus groups are quick, easy or unbiased were not accepted. Avoid relying on those claims here; use the matched MS routes—direct discussion may yield more truthful answers/in-depth insight, or group discussion can produce detailed notes for later analysis. This item-specific report comment is not a universal claim about every possible research setting.
 
 ---
 
@@ -1093,7 +1101,7 @@ Use the research to **set the price** → the business knows what customers are 
 **A third acceptable route** *(scheme, same question)*
 **The business develops a strong image for its product** (1) → **this can increase the price customers will pay** (1) → **the brand itself becomes worth a great deal of money** (1).
 
-> ⚠️ **`NB No marks are awarded for a definition.`** *"Branding is giving a product a name and a logo"* scores **0** on both series. **Never open with a definition.**
+> ⚠️ The cited mark schemes state that no marks are awarded for a definition on these specific branding items. Answer the requested advantage or reason; a separate definition is not required. This is item-specific, not a general ban on opening definitions where a definition is relevant to the task or included in the MS.
 > ⚠️ **And do not confuse branding with advertising.** Branding is the **identity** — name, logo, design, the associations customers hold. Advertising is **how it is communicated**. An answer about "putting adverts on television" belongs to entry 64, not here. **A strong brand is the asset; advertising is a cost.**
 
 ---
@@ -1158,7 +1166,7 @@ Use the research to **set the price** → the business knows what customers are 
 **A third acceptable route** *(scheme, May 2023 P2)*
 **Fashions constantly change** (1) → **if the business does not introduce new products, demand for its existing ones decreases** (1).
 
-> ⭐ **The strongest version of this answer is the "or else" version** — the scheme's third route is written as a **counterfactual**, and it is the most persuasive shape: *fashions change; if we stand still, demand falls.* Use it when you want the third sentence to land hard.
+> ⭐ **One strong way to develop this answer is a counterfactual:** fashions change; if the business does not introduce new products, demand for existing ones may fall. This is one useful route, not a required structure or sentence position.
 
 ---
 
@@ -1297,7 +1305,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **Which media are above the line:** television · radio · newspapers · magazines · cinema · outdoor (billboards, bus sides) · **increasingly, paid digital display**. **The test: the business pays a media owner to broadcast to a general audience.**
 
 > ⚠️ **`NB No marks are awarded for a definition`** (Nov 2024 P1, on this question). *"Above-the-line promotion is advertising in the media"* scores **0**.
-> 🚨 **THE ONE-LINK ERROR TO AVOID.** *"A business can use television advertising (1). This is advertising on television (1)."* — that is a **restatement**, not development, and it scores **1**. The second sentence must add something the first did not contain: **who sees it**, and **what changes as a result**.
+> 🚨 **THE RESTATEMENT ERROR TO AVOID.** *"A business can use television advertising (1). This is advertising on television (1)."* repeats the point rather than developing it. Further relevant explanation must add something new—for example who sees it, or what changes as a result. The extra content need not be in a particular sentence.
 
 ---
 
@@ -1327,7 +1335,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why a business would sponsor an event."* — May/June 2020 P2R · *"Explain one advantage for a business of using sponsorship."* — Nov 2021 P2 · *"Explain one reason why a business might use sponsorship."* — Nov 2024 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > By sponsoring an event **the business will gain publicity** (1) — its name appears alongside the event rather than inside an advert. **The event could be local, national or global** (1), so the business chooses how wide it wants the exposure to be. **This would mean the business covers a wide spectrum of people** (1), and those people associate the name with the event they already care about.
 
 **The chain, broken out**
@@ -1338,10 +1346,12 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **A second acceptable route** *(scheme, Nov 2021 P2 and Nov 2024 P2 — almost identical wording)*
 **Brand awareness will be increased** (1) → **this could encourage followers of the event to consider purchasing from the business** (1) → **leading to increased revenue or profits** (1).
 
+> 📄 **Retained November report commentary:** Nov 2021 P2 notes some candidates answered from the beneficiary/event’s side (“more money put into the business”) rather than the sponsoring business; Nov 2024 P2 likewise notes candidates described benefits of being sponsored instead of benefits to the business that sponsors. Preserve the requested beneficiary. The commentary is retained as report transcription in the advisory file, not a candidate script.
+
 **A third** *(scheme, May/June 2020 P2R)*
 **Sponsorship is making a financial contribution to an event** (1) → **this makes more people aware of the business's products** (1) → **this could in turn increase sales** (1).
 
-> ⚠️ **`NB No marks are awarded for a definition`** — Nov 2024 P2 says it on this exact question. But note the tension: **May/June 2020 P2R's own worked answer opens with a definition** *("Sponsorship is making a financial contribution to an event (1)")*. **The safe reading: a definition only counts when it is immediately made operational** — when it says what the sponsorship *buys*. **Definition-then-nothing is what the scheme refuses.**
+> ⚠️ The Nov 2024 P2 mark scheme says no marks are awarded for a definition on that item, so answer its requested reason/advantage. The separate May/June 2020 P2R MS includes “Sponsorship is making a financial contribution to an event” as an awarded point. Follow each item’s own MS; neither route creates a universal opening-definition rule.
 > ⭐ **The strongest sponsorship answers name the audience match** — sponsor the local flower show and you reach the people who buy flowers. **That is the one thing a repeat of "it raises awareness" can never do.**
 
 ---
@@ -1415,7 +1425,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why having good public relations is important to a business."* — Nov 2021 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > Good public relations means it is **likely to improve the business's brand image** (1) — how the public sees it, rather than what it says about itself. **This could lead to increased sales** (1), because customers prefer to buy from a business they trust. **And therefore to overall profitability** (1).
 
 **The chain, broken out**
@@ -1426,7 +1436,8 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **A second acceptable route** *(constructed — the resilience route, which is stronger)*
 **When a product fails or a mistake is made, the business is given the benefit of the doubt** → customers do not immediately leave → **a crisis does not become a collapse**.
 
-> ⭐ **Public relations is not advertising, and the difference is the marks.** Advertising **buys** attention; public relations **earns** it — through press coverage, charitable work, how the business treats customers and staff, and how it behaves when it is criticised. **If your answer could be rewritten as an advert, it is probably the wrong topic.**
+> 📄 **Retained November advisory note:** the file summarizes public relations as “understood but underused.” It does not provide a verbatim examiner quotation or a Q2(c)-specific script/verdict; keep this as a lower-specificity summary, not as a marking rule. The separate Q2(e) comment about describing secondary research is not about this PR item.
+> ⭐ **Public relations is distinct from advertising:** public relations builds/maintains relationships and reputation; advertising is a paid communication method. Use the exact prompt and MS rather than turning this distinction into a fixed answer structure.
 
 ---
 
@@ -1473,7 +1484,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **Loyal customers recommend the business to others** → new customers arrive without being advertised to → **the business grows without paying for that growth**.
 
 > ⭐ **This topic has a 1-mark State twin, and it is a different question.** *"State one advantage for PPS of keeping its customers loyal"* (May/June 2024 P1) · *"State one possible reason why TUI would want to keep its customers loyal"* (May/June 2024 P2) · *"State one possible reason why Huawei would want to keep its customers loyal to its brand"* (Nov 2021 P2).
-> **On State, one reference to the business is enough and no reasoning is needed. On Explain, you need the two steps.** Do not write three sentences for a one-mark State question.
+> **On State, one correct, relevant response is enough for its mark. On Explain, develop one relevant point with two relevant expansions.** Do not add analysis to a one-mark State question solely from habit; follow that item’s mark scheme.
 
 ---
 
@@ -1642,7 +1653,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why a business would use robotics in its production."* — Nov 2024 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > Using robots **reduces production errors** (1) — a machine does not tire or lose concentration. **Robots can be programmed to do the same thing time after time** (1), with no variation between items. **Products can therefore be made with greater consistency and higher quality** (1), which is what the customer actually experiences.
 
 **The chain, broken out**
@@ -1729,7 +1740,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why the quality of goods manufactured by a business is important to its success."* — Nov 2023 P2 · *"Explain one reason why businesses maintain the quality of their products."* — May 2023 P2R
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > **Manufacturing quality goods leads to a good reputation for the business** (1) — customers talk about it, and the name comes to stand for something. **This encourages more people to purchase the goods** (1), including people who would not previously have considered the business. **Which increases the sales for the business** (1).
 
 **The chain, broken out**
@@ -1740,8 +1751,9 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **A second acceptable route** *(scheme, May 2023 P2R)*
 **Consumers expect quality products** (1) → **and expect them to perform the function for which they were bought** (1) → **failure to do this could lose customers to competitors** (1).
 
-> ⚠️ **"Quality" does not mean "expensive", and it does not mean "luxury".** Quality means **fit for purpose** — the product does what the customer bought it to do. A cheap product can be high quality. **Use "fit for purpose" or "performs the function it was bought for" and you cannot be wrong.**
-> ⭐ **The strongest third sentence is the counterfactual** — *"if it does not, customers go to a competitor."* The scheme reaches for it in its own answer, and it lands the point without needing a number.
+> ⚠️ Quality is not synonymous with “expensive” or “luxury”. Fit for purpose is one relevant aspect, but quality can also concern other features the customer values; use the exact prompt and MS.
+> ⭐ One valid development is that poor quality may lead customers to choose competitors; the Nov 2023 scheme’s worked route is reputation → more purchases → higher sales. These are possible routes, not a mandatory sentence sequence.
+> 📄 The retained Nov 2023 Principal Examiner Feedback reports that well over half the cohort gained all three marks on this question. This is cohort commentary; the retained report does not supply an awarded script for it.
 
 ---
 
@@ -1820,7 +1832,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **Existing employees have to be taught how to train others** (1) → **which incurs additional expense** (1) → **and there is no guarantee they are trained efficiently** (1).
 
 > ⭐ **Read this beside entry 11 (on-the-job training — advantage).** An advantage question and a disadvantage question on the same topic need **different chains**, not one chain reversed. Here the chain is **time → staff diverted → productivity falls.**
-> 🚩 **The strongest third sentence available — mine, not the scheme's — is the poaching risk:** training employees makes them **more employable elsewhere**, so a competitor can hire them away and the business has paid to train its rival's workforce. **That is a real disadvantage, and it cannot be answered by "but they work better afterwards".**
+> 🚩 **One further constructed disadvantage route (not the scheme’s only possible development):** training may make employees more employable elsewhere, so competitors could recruit them after the business has paid to train them. Check the exact question and MS; this is not a required closing point or sentence.
 
 ---
 
@@ -1905,18 +1917,21 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one benefit to a business of using crowdfunding as a source of finance."* — May/June 2021 P1 · *"Explain one reason why some businesses use crowdfunding as a source of finance."* — Nov 2023 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **Crowdfunding can be a fast way to raise finance** (1) — the pitch goes online and the money can come in quickly. **It comes from many small investors** (1) rather than one lender or bank. **At a point when no other lender may be available** (1) — which is the reason a business with no trading history reaches for it at all.
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> **Crowdfunding can be a fast way to raise finance** (1), from many investors (1) who may support the business because they want it to succeed (1).
 
-**The chain, broken out**
-1. **It raises money fast, or from many people** — the benefit.
-2. **Because it is online, and open to anyone** — the mechanism.
-3. **When banks or investors would say no** — the consequence, and the strongest one.
+**One possible development, broken out**
+1. **Crowdfunding can raise finance quickly** — a reason for using it.
+2. **It draws contributions from many investors** — extending the source of finance beyond one lender.
+3. **Those investors may support the business because they want it to succeed** — one possible final expansion in the official scheme.
+
+These are one way to develop the point, not a compulsory sequence; the separate online/global-investor route below is also in the MS.
 
 **A second acceptable route** *(scheme, Nov 2023 P2)*
 **Crowdfunding is organised online** (1) → **and can come from anywhere in the world** (1) → **giving access to a wide number of investors** (1).
 
-> ⚠️ **`No marks are awarded for a definition`** — printed on the Nov 2023 question. *"Crowdfunding is raising money from lots of people online"* scores **0** on its own.
+> ⚠️ The Nov 2023 **mark scheme** says no marks are awarded for a definition. A bare definition such as “crowdfunding raises money from lots of people online” does not by itself explain a reason for using it.
+> 📄 The retained Nov 2023 report says candidates need not use context for Explain, just over a quarter scored no mark, and just under a fifth gained all three. Treat this as cohort commentary, not candidate-script evidence. It reinforces developing one reason rather than listing features.
 > 🚩 **The matching DISADVANTAGE, in case the question flips:** crowdfunding is **public**, so **competitors and customers see the idea** before it launches · the campaign **may fail and raise nothing at all** · the business may owe **rewards or equity** to its backers · and it takes **marketing effort** to succeed. **Use these on any evaluate or analyse question about finance.**
 
 ---
@@ -1995,7 +2010,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one disadvantage to a business of using retained profit to purchase goods and services."* — Nov 2023 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > **Using retained profit reduces the amount of funds available for the business to use** (1) — the reserve is spent. **If there is an emergency where funds are needed — a machine breaking down, for example** (1) — **the business may not have the funds to get it repaired** (1).
 
 **The chain, broken out**
@@ -2007,7 +2022,8 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **By using its retained profit to buy new machinery** (1) → **the business may not have the funds** (1) → **to pay the rent or the wages of its employees** (1).
 
 > ⭐ **The scheme's own vocabulary is the key: retained profit IS the financial cushion.** So the disadvantage is always, in one form or another, **"the cushion is gone"** — and the scheme's two examples (machine repair, rent and wages) are the ones to reuse.
-> ⚠️ **Do not say retained profit "has no cost".** It has **no interest and no ownership is given up** — that is its advantage — but it has a **very real opportunity cost**, because the money can only be spent once. **Say which one the question is asking about.**
+> ⚠️ **Do not answer with an unrelated share-capital point.** The retained Nov 2023 report says that “shareholders would not be happy” was irrelevant to using retained profit. The matched MS asks about funds no longer available for emergencies, machinery repair, rent or wages. Do not confuse this disadvantage with the separate advantage that retained profit incurs no interest or dilution.
+> 📄 This is cohort commentary from the retained report transcription, not a candidate script; see `External_Exemplars/2023-11_P2_Kraft_Heinz.md`.
 
 ---
 
@@ -2036,7 +2052,7 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one purpose for a business of the statement of financial position."* — Nov 2023 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
 > **By reviewing its financial position, a business can see how the business is performing** (1) — what it owns set against what it owes. **It may decide to expand further if it has the funds** (1), because the statement shows whether the money is there. **By introducing new products to sell** (1) — the decision the statement makes possible.
 
 **The chain, broken out**
@@ -2048,8 +2064,9 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 **If a business has liabilities** (1) → **it may want to find ways to reduce its expenditure** (1) → **by decreasing the amount of stock it holds** (1).
 
 > 🚨 **KNOW WHAT IS ON IT.** The **statement of financial position** records, **on one date**: **non-current assets** (buildings, machinery), **current assets** (stock, debtors, cash), **current liabilities** (creditors, overdraft), **non-current liabilities** (bank loans), and **capital / equity**. **Assets = liabilities + capital.**
-> ⚠️ **`No marks are awarded for a definition`** — printed here too. Say what it is **for**.
-> ⭐ **The one-sentence distinction, again:** the statement of comprehensive income is **for a period**; the statement of financial position is **on a date**. **Getting that backwards is the commonest error on this pair.**
+> ⚠️ The Nov 2023 mark scheme says no marks are awarded for a definition; answer the purpose asked, not only what the statement is.
+> 📄 **Task-word discrepancy to preserve:** the actual QP asks for one **purpose** of the statement of financial position, while the retained report transcription describes it as “one advantage as opposed to two.” Keep the QP's exact task as the authority; do not silently convert “purpose” into “advantage.” The report also says context was not required, candidates could have developed more, and nearly half gained 2 or 3 marks. This is cohort commentary, not candidate-script evidence; no awarded script for this item is transcribed in the retained file. Develop one purpose rather than listing separate purposes.
+> ⭐ **The one-sentence distinction, again:** the statement of comprehensive income is **for a period**; the statement of financial position is **on a date**. **Check which document the exact prompt names.**
 
 ---
 

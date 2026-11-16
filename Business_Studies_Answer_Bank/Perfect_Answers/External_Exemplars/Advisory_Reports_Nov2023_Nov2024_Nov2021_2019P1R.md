@@ -156,7 +156,7 @@ Examiners say plainly which concepts the cohort does not know. **Every one is a 
 | Nov 2024 P2 | **focus groups** | *"many stated it was a quick, easy or an **unbiased** method which is **not correct**"* |
 | Nov 2024 P2 | **job production** advantages | *"Question 1a(iii) saw only **half** of the candidates selecting the correct answer"* |
 | Nov 2021 P2 | **penetration pricing** | ⅓ *"showed a lack of knowledge"* (P1R) |
-| Nov 2021 P2 | **public relations** | *"a number of candidates, described what secondary research was"* / PR understood but underused |
+| Nov 2021 P2 | **public relations** | “PR understood but underused” is a summary in this advisory file, not a verbatim examiner quotation here; no item-specific script/verdict is supplied in this row. Keep it separate from Q2(e), whose distinct commentary is that candidates described what secondary research was rather than how it would be used. |
 | 2019 P1R | **diseconomies of scale** | *"**half** of the candidates demonstrated a lack of knowledge… often **confused this with economies of scale**. The most popular answer by candidates was '**the business gets too big**'."* |
 | 2019 P1R | **short span of control** | *"over one third of candidates gained no marks… due to a lack of knowledge of a short span of control"* |
 | 2019 P1R | **above the line promotion** | *"**Some candidates confused this with below the line promotion or an employee being promoted within a business** thus gaining no marks"* |

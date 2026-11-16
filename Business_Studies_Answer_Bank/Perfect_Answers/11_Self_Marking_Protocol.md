@@ -97,18 +97,17 @@ These are optional prompts for reviewing practice work, not a validated ordering
 
 ### **3 marks — EXPLAIN**
 
-**What the examiner pays, in order — three rungs** *(rules 53 · 65 · 73 · 112 · 126)*:
-
-> **identify** the reason → the **mechanism** (what it does) → the **business outcome** (what follows for the business)
-
-**And the newest evidence in the bank says the missing rung is always the same one:** four June 2026 P1R scripts scored **0/3 for four different questions with one identical fault — a missing mechanism**, not a short answer *(rule 126)*.
+The specification describes Explain as **one fact plus two expansion points**. Read the exact task and its MS. The two expansions may be consecutive effects, or each may develop the original fact in a different relevant way. This is not a required mechanism→business-outcome chain, sentence count, context step, definition opening or judgement.
 
 **60-second check**
-- [ ] **Three rungs present, and the third one names a result?** — *increased sales*, *less waste*, *positive cashflow*; **"save a bit of money" is where a 2-mark chain stops** *(the 2/3 at `2023-05_Series_P2_and_P2R_Two_Mark_Explain.md`)*.
-- [ ] **Did the question say `one`?** — then exactly one reason, one chain, one method *(Pass 1, above)*.
-- [ ] **"why" or "how"?** — advantage/disadvantage questions need a different technique from method/way questions *(rule 62)*.
-- [ ] **Have I answered the command word directly?** Add a definition only where the prompt asks for one or it helps explain the point; it is not a compulsory opening.
-- [ ] **Length is not the variable.** The four June 2026 3/3s run **35–70 words**; the shortest full-mark answer in the bank is **35** *(08_Completion_Map.md)*.
+- [ ] **One relevant fact/point, plus two distinct relevant expansions?** Make sure each adds something new rather than restating the point.
+- [ ] **Did the prompt specify `one`?** Answer one reason/advantage/disadvantage/method as asked; do not substitute a list of several unrelated points.
+- [ ] **Have I preserved the task and beneficiary?** “Why” and “how” prompts may ask for different content; follow the exact wording and matched MS.
+- [ ] **Have I answered Explain directly?** Add a definition only if the item asks for one or if it is relevant to the explanation; it is not a compulsory opening.
+- [ ] **Context is not compulsory for Explain.** Use it only where relevant/helpful; the current specification does not require an application step.
+- [ ] **No fixed sentence count.** The four June 2026 3/3 answers in the cited set vary in length; length alone is not the criterion *(08_Completion_Map.md)*.
+
+> **Item-specific evidence is not universal architecture.** A particular Examiner Report may criticize a missing mechanism or undeveloped point; apply that criticism to the item it discusses. Do not turn it into a rule that every valid Explain answer must name a mechanism or end with a business outcome.
 
 ### **6 marks — ANALYSE**
 

@@ -261,7 +261,7 @@ that was wrong and has been corrected.
 | 50 | the State rule, with a marked 1/0 pair |
 | 51 | the decimal-place rule, proven on a real script |
 | 52 | a concise 6-mark Analyse example (not a sentence quota) |
-| 53 | the 3-mark Explain — three rungs, third one is the business outcome |
+| 53 | the 3-mark Explain — an illustrative point and two expansions, not a fixed chain |
 | 54 | definitions — four rules, all proven on marked scripts |
 | 55 | language is not marked — verified on scripts |
 | 56 | the official AO weightings, from the Specification itself |
@@ -406,15 +406,15 @@ The cited question’s MS assessed application and analysis, without separate kn
 
 The June 2022 P2R scripts provide examples of points with development; they are illustrative, not sentence or chain quotas.
 
-| Rung | Earns | Q2(c) example |
-|---|---|---|
-| **1. The point** — named | 1 | *"job enrichment"* |
-| **2. The mechanism** — why it works | 1 | *"employees will be more challenged… feeling trusted and valuable"* |
-| **3. The business outcome** | 1 | *"the business would be increasing its **productivity**"* |
+| Content in this cited response | Credit in the cited MS | Candidate wording |
+|---|---:|---|
+| **Point** | 1 | *"job enrichment"* |
+| **Expansion of the point** | 1 | *"employees will be more challenged… feeling trusted and valuable"* |
+| **Further relevant expansion** | 1 | *"the business would be increasing its **productivity**"* |
 
 **The examiner's 2-mark verdict, verbatim:** *"the response was **not further developed to gain the extra mark available**."*
 
-These are one response’s three credited steps, not a prescribed endpoint. The specification allows the two expansion points to extend one another or both develop the same fact; the relevant business outcome depends on the question. In the cited Q2(c), the examiner noted that the lower response lacked further development. Answer the requested single advantage rather than listing unrelated advantages.
+This is one awarded response’s progression: the two expansions develop the point and happen to reach productivity. It is illustrative, not a required endpoint or order. The specification allows the two expansion points to extend one another or both develop the same fact; the appropriate development depends on the task and MS. In the cited Q2(c), the examiner noted that a lower response lacked further development. Answer the requested single advantage rather than listing unrelated advantages.
 
 ---
 
@@ -446,7 +446,7 @@ Every full-mark answer in the June 2022 P2R report contains **spelling and gramm
 
 > **Examiners mark business content. They do not deduct for spelling, grammar, or sentence structure.**
 >
-> **Consequence for technique: do not spend exam time proofreading for style.** Spend it on the third rung, on context, and on the conclusion. **Clarity matters because the examiner must be able to find the mark — nothing more.**
+> **Consequence for technique: do not spend exam time proofreading for style.** Spend it on answering the exact task clearly and adding relevant content/development. Include context only where the item requires it, and a conclusion only where the command word/task calls for one. **Clarity matters because the examiner must be able to find the mark.**
 
 ---
 
@@ -563,16 +563,18 @@ The same rule, stated three different ways, all with a worked alternative:
 
 ---
 
-## 62. ⭐ TWO DIFFERENT 3-MARK EXPLAIN TECHNIQUES
+## 62. Explain — preserve the task; examples are not a template
 
-> *"**Questions that ask to explain an advantage or disadvantage need a different technique to those that ask candidates to explain a method or way.**"* (June 2022 P2, LEGO)
+> *"Questions that ask to explain an advantage or disadvantage need a different technique to those that ask candidates to explain a method or way."* (June 2022 P2, LEGO)
 
-| Question asks for… | The three rungs | Example |
+The quoted report distinguishes the requested content: a method/way question asks how a method serves its purpose; an advantage/disadvantage question asks for the requested benefit or drawback and relevant development. These are task distinctions, not separate mandatory answer architectures.
+
+| Prompt type | One possible way to develop the point | Example from the cited response |
 |---|---|---|
-| **a method / a way** | name the method → how it works → **the business outcome** | *"job enrichment" → "employees feel trusted and valued" → "the business would be increasing its productivity"* |
-| **an advantage / a disadvantage** | name the effect → **why it arises** → **the consequence for the business** | *"customers might not be telling the truth" → "could cause a misunderstanding" → "creating a product people don't want"* |
+| **a method / a way** | Name a method and explain a relevant effect of using it | *"job enrichment" → employees feel trusted/valued → possible productivity improvement* |
+| **an advantage / a disadvantage** | State the requested advantage/disadvantage and add relevant expansion(s) | Questionnaire respondents might not be truthful → results may be misleading → product decisions may not meet customer needs |
 
-**Confusing the two is why candidates list methods on advantage questions and describe effects on method questions.**
+These examples illustrate plausible progressions only. Explain is one relevant fact/point plus two relevant expansions; the expansions may follow one another or each develop the original point. No fixed sentence count, mechanism→profit chain, context requirement, opening definition or judgement follows from this example. Preserve the exact beneficiary and item MS.
 
 **And the AO formula as a one-liner, from the same report:** **Analyse = application + analysis. Justify = application + analysis + evaluation.**
 
