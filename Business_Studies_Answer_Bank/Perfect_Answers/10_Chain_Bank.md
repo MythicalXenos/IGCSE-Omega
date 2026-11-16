@@ -551,12 +551,14 @@ A second MS-aligned route is that a multinational operates in multiple countries
 
 ## 23. Trading bloc — one **advantage for a country**
 
-**Asked:** *"Explain one advantage for **a country** of being **in a trading bloc**."* — Nov 2024 P2
+**Asked:** *"Explain one advantage to a country of being a member of a trading bloc."* — May–June 2024 P2R 2(c); related but different item: Nov 2024 P2 2(e), *"Explain one advantage for a country of being in a trading bloc."*
 
-**Official MS worked route (Nov 2024 P2, 2(e); AO1, 3 marks):** businesses in a country can trade without tariff barriers (1) → there are no additional costs (1) → prices could be lower (1). The MS also accepts wider consumer choice from free movement of goods between countries.
+**Official MS routes (May–June 2024 P2R 2(c); AO1, 3 marks):** membership gives access to other markets in the bloc (1) → prices between countries may be competitive (1) because no additional costs are involved (1); or consumers have wider choice (1) because goods move freely with limited trade restrictions (1) between countries (1). The November 2024 P2 MS is separate: trade without tariff barriers → no additional costs → prices could be lower, and also accepts wider consumer choice from free movement.
 
-> **Constructed model answer — 3 marks** `[CONSTRUCTED; NOT AN AWARDED CANDIDATE SCRIPT]`
-> Businesses in a member country can trade with other members without tariff barriers. This removes the additional tariff cost on those transactions, so businesses may be able to offer goods at lower prices. Consumers in the country may then have access to a wider choice of goods moving freely between members.
+> **Constructed model — May–June 2024 P2R 2(c)** `[MS-ALIGNED MODEL ANSWER]`
+> Membership gives a country access to the other markets in its trading bloc. With no additional trade costs between member countries, prices may be more competitive. Consumers in the country may benefit from the lower prices.
+
+This model follows one route; the alternative MS route is wider consumer choice. Both questions ask for an advantage to a country, not only to a business. Keep the distinct sessions and MS examples identified.
 
 **Also asked:** *"Explain one benefit to a business of being located within a trading bloc."* — Nov 2025 P2, 2(e). **Different beneficiary and application:** the MS allows a business to increase sales because the bloc encourages trade between member countries, widening its pool of customers; it also allows lower import-material costs if tariffs are reduced or removed.
 
@@ -601,14 +603,14 @@ A second MS-aligned route is that a multinational operates in multiple countries
 
 ## 26. Interest rates — an **increase**
 
-**Asked:** *"Explain one impact of an **increase in interest rates** on a business."* — June 2020 P1
+**Asked:** *"Explain one impact on a business of an increase in interest rates."* — May–June 2024 P2R 2(e); the same broad wording appears in June 2020 P1, a separate out-of-scope item.
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> An increase in interest rates raises the cost of borrowing. **A business with an overdraft or a loan must pay more interest each month for the same amount of debt**, and that extra payment is a cost that produces nothing. **This reduces profit without any change in sales**, and it may also stop the business investing, because new machinery now costs more to finance.
+**Official MS routes (May–June 2024 P2R 2(e); AO1, 3 marks):** financing costs rise (1) → profits may fall (1) → growth/expansion may be affected (1); or customers have less money to spend (1) → they may buy only essentials (1) → business revenue may fall (1).
 
-**Second chain:** higher rates mean customers pay more on their own mortgages and loans → **they have less spare income** → demand for non-essential goods falls → **the business sells less**.
+> **MS-aligned model — May–June 2024 P2R 2(e)** `[MS-ALIGNED MODEL ANSWER]`
+> An increase in interest rates can raise a business’s financing costs. Higher costs may reduce the business’s profit. With lower profit, the business may have less ability to grow or expand.
 
-> ⭐ **Two independent routes score 3 marks each — the business's own borrowing, or its customers' spending.** Either is a complete answer. ⚠️ Note the mirror for a **fall** in rates: cheaper borrowing, more investment, customers spend more.
+The customer-spending route is an alternative official example. These routes answer this business-impact task; the June 2020 P1 wording and answer are not used as evidence for the reviewed P2R item. No additional profit endpoint is compulsory beyond a relevant developed impact.
 
 ---
 
@@ -701,16 +703,14 @@ A second MS-aligned route is that a multinational operates in multiple countries
 
 ## 32. Short **chain** of command — one benefit
 
-**Asked:** *"Explain one benefit to a business of having a **short chain of command**"* — Summer 2019 P2 · *"…having a short chain of command"* — June 2024 P2
+**Asked:** *"Explain one benefit to a business of having a short chain of command."* — May–June 2019 P2 2(e) and May–June 2024 P2 2(d).
 
-**Official MS route (May/June 2019 P2, 2(e); AO1, 3 marks):** less communication between workers and managers (1) → lower chance of messages being mistaken (1) → managers are less remote and can resolve problems more quickly (1).
+**Official MS route (May–June 2024 P2 2(d); AO1, 3 marks):** communication is faster (1) because there are fewer levels to go through (1), so fewer mistakes may be made (1); or workers and managers work closely together (1) → managers are less remote (1) → queries can be answered quickly (1). The 2019 P2 MS route differs in wording: less communication between workers/managers → fewer mistaken messages → managers can resolve problems more quickly.
 
-> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
-> A short chain of command may reduce the chance of messages being mistaken between managers and workers. Managers are less remote from employees. If a problem occurs, they may be able to resolve it more quickly.
+> **MS-aligned model — May–June 2024 P2 2(d)** `[MS-ALIGNED MODEL ANSWER]`
+> A short chain of command can make communication quicker because messages pass through fewer levels. This may reduce the chance that messages are misunderstood. As a result, fewer mistakes may be made.
 
-**Another possible route:** fewer management layers may reduce management wage costs. This is a separate development, not a required profit endpoint.
-
-> ⭐ **This is the mirror of Batch 1 entry 1** (*the disadvantage of a **long** chain of command*). Learn the pair — the examiner asks both directions across series, and the chain simply reverses.
+**Awarded-script evidence:** the local June 2024 P2 ER p.22 shows a 3/3 candidate explaining faster communication through fewer hierarchy layers and quicker messages, with fewer mistakes as the consequence. Script, examiner comment and score were visually checked; see `External_Exemplars/2024-06_P2_TUI.md`. The model and script are examples, not a mandatory fixed chain or endpoint.
 
 ---
 
@@ -818,14 +818,18 @@ The fine and reputation route is the official example; the final effect is a con
 
 ## 40. Supporting employees with disabilities — one way
 
-**Asked:** *"Explain one way businesses **support employees with disabilities**."* — June 2024 P2R
+**Related prompts, kept distinct:** *"Explain one way businesses support employees with disabilities."* — May–June 2024 P2R 2(d); *"Explain one reason why businesses employ people with disabilities."* — May–June 2024 P2 2(c). The P2R item asks for a support method; the P2 item asks for a reason to employ.
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> One way is to **adapt the workplace and the work itself** — fitting a ramp, providing a modified keyboard or screen reader, or allowing a different shift pattern so someone can travel outside peak hours. **This lets the person do the job they were hired for without the disability becoming the obstacle**, so the business keeps an experienced employee instead of losing them. **It also widens the group of people the business can recruit from**, and it is often required by law, so acting early avoids tribunal claims.
+**Official MS routes — May–June 2024 P2R 2(d), support method (AO1, 3 marks):** avoid discrimination against disabled employees (1) → employ a person with limited mobility (1) → make reasonable adjustments to premises (1); or a disability should not affect promotion prospects (1) → an employee applies for internal promotion (1) → receive the same treatment as other candidates (1).
 
-**Second chain:** train managers and colleagues **so nobody treats the employee differently** → the person feels part of the team → **they stay longer and work more productively**.
+> **Constructed model — May–June 2024 P2R 2(d)** `[CONSTRUCTED; NOT A PEARSON WORKED ANSWER]`
+> A business can make reasonable adjustments to its premises for an employee with limited mobility. For example, it could adapt access to the workplace. This can help the employee carry out their work without being disadvantaged by the premises.
 
-> ⚠️ **As with entry 39, the command word is "one way" — a method.** And note the equality angle: **the business gains** (keeps skills, broader recruitment, legal protection). **Charity is not the answer; advantage is.**
+**Official MS routes — May–June 2024 P2 2(c), reason to employ (AO1, 3 marks):** employing people with disabilities gives them an equal opportunity to work (1) → improves their lifestyle (1) → develops their skills (1); or the business must follow government legislation (1) → if not, it may fail to comply with the law (1) → it can be sued (1). This is a different task from supporting current employees.
+
+**Pearson-awarded P2 evidence:** the June 2024 P2 ER p.20 gives 3/3 to a candidate who says employing someone with a disability can improve the business’s public image, attract customers willing to support it, and increase sales. The script/comment/score were visually checked against the local ER. This is a candidate’s accepted answer, distinct from both MS routes and the constructed P2R model.
+
+> ⚠️ Preserve the prompt's task and party: “way to support” is not interchangeable with “reason to employ.” Neither model nor candidate script creates a compulsory legal or commercial endpoint.
 
 ---
 
@@ -913,17 +917,14 @@ The fine and reputation route is the official example; the final effect is a con
 
 ## 47. Herzberg's motivational theory — one factor
 
-**Asked:** *"Explain one of the **factors in Herzberg's motivational theory**."* — June 2020 P2
+**Asked:** *"Explain one of the factors in Herzberg’s motivational theory."* — May–June 2024 P2 1(f); related June 2020 P2 item has the same broad prompt.
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Herzberg divided what affects workers into **hygiene factors** — pay, working conditions, job security — and **motivators** — achievement, recognition, responsibility and advancement. Take **recognition**: **praising an employee for work that was done well tells them their effort was noticed**, which is a reward it costs the business nothing to give. **The employee takes more pride in the work and repeats the standard**, whereas ignoring good work leaves them feeling taken for granted and they do only enough to get by.
+**Official MS routes (May–June 2024 P2 1(f); AO1, 3 marks):** a hygiene factor, such as pay (1) → gives employees security that they can pay bills (1) → further relevant explanation (1); or a motivator factor (1) → employees gain achievement at work (1) → this allows growth and development (1). The MS accepts any appropriate response and says no marks are awarded for a definition on this item.
 
-**Second chain — hygiene, e.g. job security:** an employee who fears redundancy **cannot concentrate on the work** → they look for another job → **the business loses them and pays to recruit a replacement**.
+> **MS-aligned model — May–June 2024 P2 1(f)** `[MS-ALIGNED MODEL ANSWER]`
+> Achievement is a motivator in Herzberg’s theory. An employee who achieves something at work may feel a greater sense of accomplishment. This can help them grow and develop in their role.
 
-> ### ⭐ THE ONE THING TO KNOW ABOUT HERZBERG FOR 4BS1
-> **Hygiene factors stop dissatisfaction; only motivators create motivation.** High pay on its own will not make someone work harder — it only prevents them resenting the job. **That single distinction is what the question is testing.**
-> ⚠️ **Do not write "Hertzberg" or "Maslow" and stop.** The examiner wants **one named factor, explained through to what the business gains**.
-> ⭐ **CONTENT GAP, NAMED BY THE EXAMINER:** Herzberg appears on the list of topics examiners say candidates do not know. **Learn three motivators and three hygiene factors by name.**
+The examiner report treats the two concepts as hygiene and motivational factors and says to explain one factor, not list them. A 2-mark hygiene-factor candidate response appears on p.11; a full-mark response with the report comment appears on p.12. The selected pages were visually checked; their page-specific evidence is transcribed in `External_Exemplars/2024-06_P2_TUI.md`. No business-profit endpoint, fixed sequence or sentence count is required by this item.
 
 ---
 
@@ -1732,21 +1733,14 @@ The MS's no-definition instruction is item-specific. The P2 examiner report p.15
 
 ## 87. **Job advertisement** — one important piece of information
 
-**Asked:** *"Explain one important piece of information that should be included in a job advertisement in a newspaper."* — May/June 2024 P2
+**Asked:** *"Explain one important piece of information that should be included in a job advertisement in a newspaper."* — May–June 2024 P2 2(e).
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> The advertisement should include **an address, telephone number or website** (1) for making contact. **This range gives the applicant a greater choice** (1) about how they apply. **Which means more of the right people apply** (1), rather than giving up at the first obstacle.
+**Official MS routes (May–June 2024 P2 2(e); AO1, 3 marks):** an address, telephone number or website (1) → can be used to make contact (1) → offers applicants more choice (1); or include salary (1) → people apply if the amount interests them (1) → saves applicants time and effort by helping them apply for a job they want (1). The MS says no marks are awarded for a definition on this item.
 
-**The chain, broken out**
-1. **Name the piece of information** — contact details · salary · job title and description · person specification · location · hours · closing date.
-2. **What it does for the applicant** — they can judge whether it is worth applying, and how to do it.
-3. **What that does for the business** — better applicants, fewer wasted applications, less time sifting.
+> **MS-aligned model — May–June 2024 P2 2(e)** `[MS-ALIGNED MODEL ANSWER]`
+> A job advertisement could include the salary. Applicants can see whether the pay is of interest to them before applying. This may save applicants time and effort by helping them focus on jobs they want.
 
-**A second acceptable route** *(scheme, same question)*
-**Including the salary** (1) → **people apply if the amount offered interests them** (1) → **saving applicants time and effort, so they apply for the job they actually want** (1).
-
-> ⭐ **The best answers to this question catch both sides in one sentence** — what the *applicant* gains, and what the *business* gains as a result. *"The salary is included so people know whether it is worth applying, which means the business does not waste time on applications from people who would refuse the pay."*
-> ⚠️ **`No marks are awarded for a definition.`** Do not write *"a job advertisement is an advert for a job."*
+**Pearson-awarded evidence:** the P2 examiner report p.24 gives 3/3 to a candidate mentioning working hours and explaining why the information matters to applicants. The script/comment/score were visually checked; the transcript is in `External_Exemplars/2024-06_P2_TUI.md`. This is one awarded alternative, not a requirement that every answer discuss both applicant and business or finish with a business outcome. “Newspaper” remains part of the actual task.
 
 ---
 
