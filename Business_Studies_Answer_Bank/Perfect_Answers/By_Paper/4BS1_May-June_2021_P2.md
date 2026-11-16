@@ -225,15 +225,15 @@ that a profit is made on each dress sold
 
 **Official mark scheme answer:**
 
-A02 - 2 marks   Award 1 mark for
+A02 - 2 marks
 
-correctly substituting
+727 000 000 × 1.032 (1)
 
-727 000 000 x 1.032 (1) numbers into formula.
+= 750 264 000 (1)
 
-= 750 264 000 (1)   Award full marks for
+Award 1 mark for correctly substituting numbers into formula.
 
-correct numerical
+Award full marks for a correct numerical answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -666,7 +666,7 @@ customers to purchase clothes (1). Once
 
 they have purchased dresses using a special
 
-offer they may return to purchase others
+offer they may return to purchase others (1)
 
 *NB Do not accept a reason that is not in the*
 
@@ -912,19 +912,11 @@ issues relevant to the choice made (AO4).
 
 A02 - 2 marks
 
-*Award 1 mark for*
+590 ÷ 4 221 × 100 (1) = 13.98 (1)
 
-590 ÷ 4 221 x 100 (1)   correctly substituting
+Award 1 mark for correctly substituting numbers into formula.
 
-numbers into formula.
-
-= 13.98
-
-*Award full marks for*
-
-correct numerical answer
-
-without working.
+Award full marks for a correct numerical answer without working.
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)

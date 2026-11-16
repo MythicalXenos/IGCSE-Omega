@@ -137,23 +137,19 @@ difficult in different countries (1).
 
 **Official mark scheme answer:**
 
-AO2 = 2 mark   Award 1 mark for
+AO2 = 2 marks
 
-correctly substituting
+252 × 0.17 (1) = 42.84
 
-252 x .17 (1) = 42.84   numbers into formula.
+252 + 42.84 = 294.84 (1)
 
-252 + 42.84 = 294.84 (1)   Award full marks for
+OR
 
-correct numerical
+252 × 1.17 (1) = 294.84 (1)
 
-OR   answer without
+Award 1 mark for correctly substituting numbers into the formula.
 
-working.
-
-252 x 1.17
-
-= 294.84
+Award full marks for a correct numerical answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -536,7 +532,7 @@ AO2 = 2 marks
 
 help out the other businesses in the group (1).
 
-   It could increase Yellow’s brand awareness
+   It could increase Yellow’s brand awareness (1)
 
 which as result more customers would be
 

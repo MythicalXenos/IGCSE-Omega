@@ -194,19 +194,19 @@ suggestions about the new products
 
 A02 - 2 marks
 
-148 x 0.85
+148 × 0.85 (1) = 125.80 (1)
 
-= 125.80 (1)   Award 1 mark for correctly
+OR
 
-substituting numbers into
+148 × 0.15 (1) = 22.20
 
-OR   formula.
+148 − 22.20 = 125.80 (1)
 
-148 x 0.15 (1) = 22.20   Award full marks for
+Award 1 mark for correctly substituting numbers into formula.
 
-correct numerical answer
+Award full marks for a correct numerical answer without working.
 
-148 – 22.20 = 125.80 (1)   without working.
+**Apparent MS calculation anomaly (source answer preserved):** The QP formula sheet defines markup as profit per item ÷ cost per item × 100. On that definition, a DKK 148 selling price with 15% markup on cost implies cost = 148 ÷ 1.15 = 128.6956… = **128.70 DKK** to the requested 2 d.p. The MS’s 125.80 comes from subtracting 15% of the selling price (148 × 0.85), which is not equivalent to 15% markup on cost. The QP wording/formula and original MS page were checked; the official MS answer/allocation above is quoted unchanged. **Teaching method (not MS wording):** cost = selling price ÷ (1 + markup rate) = 148 ÷ 1.15 = 128.70 DKK. Do not silently replace the official answer; teach the formula correctly and flag this discrepancy.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -533,16 +533,15 @@ A01 - 1 mark
 
 A02 - 2 marks
 
-*Award 1 mark for identifying a benefit for LEGOofbeing a family*
+*Award 1 mark for identifying a benefit for LEGO of being a family*
 
 owned business, plus 1 further mark for linking it to the context of
-
 the question.
 
 - This means that since 1932 the Kritiansen family have
-continuously run LEGOasaprivately owned business
+continuously run LEGO as a privately owned business (1),
 
-which gives LEGOstability and continuity
+which gives LEGO stability and continuity (1)
 
 *NB Do not accept a benefit that is not in the context of LEGO.*
 
@@ -557,23 +556,17 @@ which gives LEGOstability and continuity
 
 A02 - 2 marks
 
-150 000 x 0.045 = 6 750
+150 000 × 0.045 = 6 750 (1)
 
-150 000 + 6 750 =
+150 000 + 6 750 = 156 750 (1)
 
-156 750 (1)   Award 1 mark for correctly
+OR
 
-substituting numbers into   OR
+150 000 × 1.045 (1) = 156 750 (1)
 
-formula.
+Award 1 mark for correctly substituting numbers into formula.
 
-150 000 x 1.045
-
-*Award full marks for correct*
-
-= 156 750 (1)   numerical answer without
-
-working.
+Award full marks for a correct numerical answer without working.
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)

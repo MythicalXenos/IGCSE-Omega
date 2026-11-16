@@ -221,23 +221,17 @@ context of Kraft Heinz
 
 A02 - 2 marks
 
-15 750 x 0.14 (1) =
+15 750 × 0.14 (1) = 2 205
 
-2 205
+15 750 + 2 205 = 17 955 (1)
 
-*Award 1 mark for*
+OR
 
-15 750 + 2 205   correctly substituting
+15 750 × 1.14 = 17 955 (2)
 
-= 17 955 (1)   numbers into formula.
+Award 1 mark for correctly substituting numbers into formula.
 
-OR   Award full marks for
-
-correct numerical
-
-15 750 x 1.14 = 17 955   answer without
-
-(2)   working.
+Award full marks for a correct numerical answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -731,7 +725,7 @@ improvement in its efficiency (1) which
 
 could result in lower production costs for
 
-its tins of baked beans
+its tins of baked beans (1)
 
 *NB Do not accept a reason that is not in the*
 

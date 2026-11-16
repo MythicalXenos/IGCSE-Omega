@@ -436,7 +436,7 @@ plus 2 further marks for explaining the reason, for a maximum of 3
 marks.
 
 - Poor cashflow can lead to failure (1) from a lack of finance (1) to pay
-suppliers and other debtors
+suppliers and other debtors (1)
 
 - Prices could be too high and therefore not competitive (1) which
 could result in a fall in demand (1) leading to a lack of revenue
@@ -446,6 +446,10 @@ could result in a fall in demand (1) leading to a lack of revenue
 Answers that list three reasons with no explanation will get 1 mark only.
 
 *Accept any appropriate response.*
+
+**Terminology note — apparent MS anomaly (source wording preserved):** The May–June 2025 P2R MS p.10 says “suppliers and other debtors” (quoted verbatim in the first route above). In standard accounting usage, debtors generally owe the business; for amounts the business owes, “suppliers and other creditors/payables” is clearer. This appears to be a terminology anomaly in the MS, not a reason to alter its quotation or its award allocation.
+
+**Teaching clarification (not Pearson wording or a constructed candidate response):** When explaining the concept separately, say that poor cash flow may leave a business unable to pay suppliers and other creditors when due.
 
 Q. No.   Explain one reason why a business would use targeted advertising   Mark
 
@@ -651,7 +655,7 @@ methods to advertise job vacancies plus 1 further mark for linking it to
 the context of the business.
 
 - Rabanne could advertise to a larger audience (1) giving them
-access to a wider pool of skills designers/dress makers
+access to a wider pool of skills designers/dress makers (1)
 
 *NB Do not accept a reason that is not in the context of Rabanne.*
 
@@ -685,6 +689,8 @@ OR
 5 952 – 8 527 = -2 575 (1)   substituting numbers into
 
 -2 527/8 527 x 100 (1)   formula.
+
+**Apparent MS arithmetic typo (source wording preserved):** The MS p.14 alternative prints `5 952 − 8 527 = −2 575 (1)` followed by `−2 527/8 527 × 100 (1)`. The numerator in that second line does not match the preceding difference; the QP data give a decrease of 2,575. The MS’s direct full-answer route, 30.20%, agrees with the independently computed value: (8,527−5,952)÷8,527×100 = 30.198…% → 30.20%. **Teaching method (not verbatim MS):** decrease = (2021 value−2022 value)÷2021 value×100 = 2,575÷8,527×100 = 30.20%. Preserve the official alternative as printed and do not infer that its mistyped numerator earns the stated working mark.
 
 Q. No.   Analyse the importance for Rabanne of using its resources effectively.   Mark
 

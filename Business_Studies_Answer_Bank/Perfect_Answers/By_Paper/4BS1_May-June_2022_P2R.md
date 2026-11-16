@@ -179,19 +179,17 @@ Cadbury.
 
 A02 - 2 marks
 
-6.50 x .20 = 1.30
+6.50 × 0.20 = 1.30 (1)
 
-6.50 + 1.30 = 7.80 (1)   Award 1 mark for correctly
+6.50 + 1.30 = 7.80 (1)
 
-substituting numbers into
+OR
 
-OR   formula.
+6.50 × 1.20 (1) = 7.80 (1)
 
-6.50 x 1.20 (1)   Award full marks for correct
+Award 1 mark for correctly substituting numbers into formula.
 
-= 7.80 (1)   numerical answer without
-
-working.
+Award full marks for a correct numerical answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -582,12 +580,12 @@ interviews people that are shortlisted for a vacancy, plus 1
 
 further mark for linking it to the context of the question.
 
-- So that Cadburycan check that the applicants
+- So that Cadbury can check that the applicants
 interviewed match the details in their CV (1) and assess
 
 whether they are suitable to work in chocolate
 
-production line
+production line (1)
 
 *NB Do not accept a reason that is not in the context of*
 
@@ -604,25 +602,17 @@ Cadbury.
 
 A02 - 2 marks
 
-7 617 600 × 0.012
+7 617 600 × 0.012 = 91 411.20 (1)
 
-= 91 411.20
-
-7 617 600 – 91 411.20
-
-*Award 1 mark for*
-
-= 7 526 188.80 (1)   correctly substituting
-
-numbers into formula.
+7 617 600 − 91 411.20 = 7 526 188.80 (1)
 
 OR
 
-*Award full marks for   7 617 600 x 0.988*
+7 617 600 × 0.988 (1) = 7 526 188.80 (1)
 
-correct numerical
+Award 1 mark for correctly substituting numbers into formula.
 
-= 7 526 188.80 (1)   answer without
+Award full marks for a correct numerical answer without
 
 working.
 

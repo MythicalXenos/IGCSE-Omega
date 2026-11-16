@@ -195,17 +195,13 @@ technology
 
 A02 - 2 marks
 
-= 73 287 ÷ 721 202 x   Award 1 mark for
+73 287 ÷ 721 202 × 100 (1)
 
-100 (1)   correctly substituting
+= 10.16 (1)
 
-numbers into formula.
+Award 1 mark for correctly substituting numbers into formula.
 
-= 10.16
-
-*Award full marks for*
-
-correct numerical
+Award full marks for a correct numerical answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -667,11 +663,11 @@ for linking it to the context of the question.
 - Huawei could use robots to produce its
 smartphones because they are quicker
 
-and more accurate than employees
+and more accurate than employees (1)
 
 Robots do not need a break and can work
 
-24/7
+24/7 (1)
 
 *NB Do not accept a reason that is not in the*
 
@@ -688,25 +684,13 @@ context of Huawei.
 
 A02 - 2 marks
 
-*Award 1 mark for*
+69 941 000 000 × 4.5/100 (1)
 
-correctly
+= 3 147 345 000 (1)
 
-69 941 000 000 x 4.5/100   substituting
+Award 1 mark for correctly substituting numbers into formula.
 
-(1)   numbers into
-
-formula.
-
-= 3 147 345 000
-
-*Award full marks*
-
-for correct
-
-numerical answer
-
-without working.
+Award full marks for a correct numerical answer without working.
 
 4BS1 02 November 2021
 

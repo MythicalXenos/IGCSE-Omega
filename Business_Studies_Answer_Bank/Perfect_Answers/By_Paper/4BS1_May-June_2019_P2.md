@@ -137,19 +137,17 @@ could be dismissed in the context of the business.
 
 A02 - 2 marks
 
-89,841 x .23 (1) = 20,663.43
+89,841 × 0.23 (1) = 20,663.43
 
-89,841 + 20,663 = 110,504   Award 1 mark for
+89,841 + 20,663 = 110,504 (1)
 
-(1)   correctly substituting
+OR
 
-numbers into the
+123/100 × 89,841 (1) = 110,504 (1)
 
-OR   formula.
+Award 1 mark for correctly substituting numbers into the formula.
 
-123/100 x 89,841 (1)   Award full marks for
-
-= 110,504 (1)   correct numerical
+Award full marks for a correct numerical answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -569,6 +567,12 @@ A02 - 2 marks
 Company would want to use an overdraft, plus 1
 
 further mark for linking it to the context of the question.
+
+- Tata Motor Company would need an overdraft to overcome a shortfall in funds (1), which means if it needs funds to purchase additional tyres the money will be available (1).
+
+*NB Do not accept a reason that is not in the context of Tata Motor Company.*
+
+*Accept any other appropriate response.*
 
 
 ### `3(c)` — 2 marks (AO2:2)

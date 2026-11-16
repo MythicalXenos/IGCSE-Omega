@@ -851,6 +851,8 @@ OR
 
 76 000 / 30 000 (1)
 
+**Teaching method (grouped; clarification, not verbatim MS):** current ratio = (cash + inventory) ÷ current liabilities = (60 000 + 16 000) ÷ 30 000 = 2.53. The first one-mark substitution above is reproduced as the MS prints it; its lack of grouping parentheses should not be copied as the teaching formula.
+
 Q. No.   Analyse the disadvantages for Apple of using flow production   Mark
 
 when manufacturing products.

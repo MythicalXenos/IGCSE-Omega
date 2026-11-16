@@ -205,15 +205,21 @@ booking online.
 
 A02 - 2 marks
 
-*Award 1 mark for correctly*
+725.92 × 2 = 1 451.84
 
-725.92 x 2 = 1451.84   substituting numbers into
+1 451.84 × 0.125 = 181.48 (1)
 
-formula.   1451.84 x 0.125 = 181.48
+1 451.84 − 181.48 = 1 270.36 (1)
 
-1451.84 – 181.48 = 1270.36
+OR
 
-*Award full marks for correct   OR*
+725.92 × 0.875 = 635.18 (1)
+
+635.18 × 2 = 1 270.36 (1)
+
+Award 1 mark for correctly substituting numbers into formula.
+
+Award full marks for a correct answer with no working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -650,9 +656,13 @@ A02 - 2 marks
 
 *Award 1 mark for correctly*
 
-7 758 152 ÷ 5 654 468 (1)   substituting numbers into
+7 758 152 ÷ 5 654 468 (1)
 
-formula.   = 1.37
+= 1.37 (1)
+
+Award 1 mark for correctly substituting numbers into formula.
+
+Award full marks for a correct answer without working.
 
 *Award full marks for correct*
 
@@ -826,13 +836,15 @@ to 2022.
 
 A02 - 2 marks
 
-*Award 1 mark for correctly*
+57 498 − 39 631 = 17 867
 
-57 498 – 39 631 = 17 867   substituting numbers into
+17 867 ÷ 39 631 × 100 (1)
 
-formula.   17 867 ÷ 39 631 x 100
+= 45.08 (1)
 
-= 45.08 (1)   Award full marks for correct
+Award 1 mark for correctly substituting numbers into formula.
+
+Award full marks for a correct answer without working.
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)

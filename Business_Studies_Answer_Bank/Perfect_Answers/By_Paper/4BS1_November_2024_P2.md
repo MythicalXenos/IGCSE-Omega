@@ -248,23 +248,17 @@ context of Premier Inn
 **Question:** Calculate, to two decimal places, the price for the first night after the discount has been applied. You are advised to show your working.
 
 **Official mark scheme answer:**
+A02 - 2 marks
 
-A02 - 2 marks   Award 1 mark for
+78.09 (2)
 
-correctly substituting
+Or award 1 mark for workings if the final answer is incorrect:
 
-78.09 (2)   numbers into formula.
+89.25 × 0.125 = 11.16 (1)
 
-*Or   Award full marks for*
+Award 1 mark for correctly substituting numbers into formula.
 
-correct numerical
-
-1 mark for workings if   answer without
-
-final answer incorrect   working.
-
-89.25 x 0.125 = 11.16
-
+Award full marks for a correct numerical answer without working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
@@ -729,36 +723,30 @@ of time (1)
 **Question:** Outline one possible reason why prospective employees at Premier Inn complete an application form.
 
 **Official mark scheme answer:**
-
 A02 - 2 marks
 
-*Award 1 mark for identifying one possible reason*
+Award 1 mark for identifying one possible reason why prospective employees at Premier Inn complete an application form, plus 1 further mark for a point of development. For two marks the answer must be in the context of the business.
 
-why prospective employees at Premier Inn
+- Premier Inn can see if the employee has the skills and knowledge of working in the reception area (1), which will reduce the amount of training needed (1).
 
-complete an application form, plus 1 further
-
+Do not accept a reason not in the Premier Inn context. Accept any other appropriate response.
 
 ### `3(c)` — 2 marks (AO2:2)
 
 **Question:** Calculate, to two decimal places, what an employee would earn if they worked six hours of overtime. You are advised to show your working.
 
 **Official mark scheme answer:**
-
 A02 - 2 marks
 
-*Award 1 mark for*
+91.62 (2)
 
-91.62 (2)   correctly
+Or award 1 mark for workings if the correct answer is not given:
 
-substituting
+15.27 × 6 (1)
 
-*Or   numbers into*
+Award 1 mark for correctly substituting numbers into formula.
 
-formula.
-
-1 mark for workings if correct
-
+Award full marks for a correct numerical answer without working.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
@@ -983,17 +971,17 @@ issues relevant to the choice made
 **Question:** Calculate, to two decimal places, the current ratio in 2022. You are advised to show your working.
 
 **Official mark scheme answer:**
+A02 - 2 marks
 
-A02 - 2 marks   Award 1 mark for
+1.76 (2)
 
-correctly substituting
+Award 1 mark for workings if the correct answer is not given:
 
-1.76 (2)   numbers into formula.
+9 566/5 447 (1)
 
-1 mark for workings if   Award full marks for
+Award 1 mark for correctly substituting numbers into formula.
 
-correct answer not given   correct numerical
-
+Award full marks for a correct numerical answer without working.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 

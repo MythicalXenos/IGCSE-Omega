@@ -579,7 +579,7 @@ This model follows one route; the alternative MS route is wider consumer choice.
 
 **Official MS route (May–June 2021 P2):** cash-flow problems → outflow exceeds inflow → potential difficulty paying employees/suppliers.
 
-**Official MS routes (May–June 2025 P2R):** poor cash flow can lead to failure → lack of finance → inability to pay suppliers/other debtors; or prices are too high/not competitive → demand falls → revenue is lacking. MS says no marks for a definition on these items.
+**Official MS routes (May–June 2025 P2R):** “Poor cashflow can lead to failure (1) from a lack of finance (1) to pay suppliers and other debtors (1)”; alternatively, prices too high/not competitive (1) → demand falls (1) → lack of revenue (1). The quoted “other debtors” is preserved verbatim and is an **apparent MS terminology anomaly**: in standard accounting usage, debtors generally owe the business, while the business owes suppliers/creditors. **Teaching clarification (not Pearson wording):** for the concept, use “suppliers and other creditors/payables.” This clarification does not amend the source quotation or MS awards. MS says no marks for a definition on these items.
 
 > **MS-aligned model — May–June 2025 P2R 2(c)** `[MS-ALIGNED MODEL ANSWER]`
 > If a business’s prices are too high to compete with other businesses, customers may buy fewer of its products. This can reduce demand. The business may then lack the revenue it needs to continue operating.

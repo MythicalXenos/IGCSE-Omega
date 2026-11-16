@@ -262,13 +262,17 @@ advised to show your working
 **Question:** Calculate the factory’s productivity of smartphones per hour. You are advised to show your working.
 
 **Official mark scheme answer:**
-
 A02 - 2 marks
 
-*Award 1 mark for correctly*
+Award 2 marks for the correct answer: 50 (2).
 
-*Award 2 marks for the correct   substituting numbers into*
+Or award 1 mark for workings if the final answer is incorrect:
 
+1 000/20 (1)
+
+Award 1 mark for correctly substituting numbers into formula.
+
+Award full marks for a correct answer with no working.
 
 ### `1(f)` — 3 marks (AO1:3)
 
@@ -664,47 +668,28 @@ manufacturing its products.
 **Question:** Outline one advantage to Samsung of using flow production when manufacturing its products.
 
 **Official mark scheme answer:**
-
 A02 - 2 marks
 
-*Award 2 marks for linked points outlining an advantage to*
+Award 2 marks for linked points outlining an advantage to Samsung of using flow production when manufacturing its products. Award a maximum of 1 mark if points are not linked.
 
-Samsung of using flow production when manufacturing its
+- Samsung can produce a large number of smartphones on its production lines (1), allowing Samsung to lower its unit costs (1).
 
-products.
-
-*Award a maximum of 1 mark if points are not linked.*
-
-- Samsung can produce a large number of smartphones on
-its production lines (1) allowing Samsung to lower its unit
-
-costs
-
-*NB To award 2 marks there must be linked points and evidence of*
-
-application.
-
-*Accept any other appropriate response.*
-
-16
-
-Q. No.   Calculate the selling price of the   Additional Guidance   Mark
-
-laptop. You are advised to show
-
-your workings.
-
+To award 2 marks there must be linked points and evidence of application. Accept any other appropriate response.
 
 ### `3(c)` — 2 marks (AO2:2)
 
 **Question:** Calculate the selling price of the laptop. You are advised to show your workings.
 
 **Official mark scheme answer:**
-
 A02 - 2 marks
 
-*Award 2 marks for the correct   Award full marks for correct*
+Award 2 marks for the correct answer: 650 000 KRW (2).
 
+Or award 1 mark for workings if the final answer is incorrect:
+
+520 000 × 25% = 130 000 KRW (1)
+
+Award full marks for a correct answer with no working. Award 1 mark for correctly substituting numbers into formula.
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
 
@@ -897,11 +882,15 @@ advised to show your workings.
 **Question:** Calculate, to two decimal places, the operating profit margin. You are advised to show your workings.
 
 **Official mark scheme answer:**
-
 A02 - 2 marks
 
-*Award 2 marks for the correct   Award full marks for correct*
+Award 2 marks for the correct answer: 8.26% (2).
 
+Or award 1 mark for workings if the final answer is incorrect:
+
+112 000 − 94 000 = 18 000 (1)
+
+Award full marks for a correct answer with no working. Award 1 mark for correctly substituting numbers into formula.
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
 

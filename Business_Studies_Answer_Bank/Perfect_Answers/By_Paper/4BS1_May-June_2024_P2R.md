@@ -635,7 +635,7 @@ plus 1 further mark for linking it to the context of the question.
 - Branding ensures that customers recognise the JC logo on
 its handbags when it is sold (1) this differentiates Jimmy
 
-Choo from its competitors
+Choo from its competitors (1)
 
 *NB Do not accept a reason that is not in the context of Jimmy*
 

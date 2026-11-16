@@ -235,13 +235,13 @@ A02 - 2 marks
 
 *Award 1 mark for correctly*
 
-165.7 x 1.3825 (1)   substituting numbers into
+165.7 × 1.3825 (1)
 
-formula.
+= 229.08 (1)
 
-= 229.08
+Award 1 mark for correctly substituting numbers into formula.
 
-*Award full marks for correct*
+Award full marks for a correct answer without working.
 
 
 ### `1(f)` — 3 marks (AO1:3)
@@ -627,7 +627,7 @@ important to Starbucks plus 1 further mark for linking it to the context
 of the business.
 
 - It provides increased access to potential workers (1) to serve as
-baristas in the shop
+baristas in the shop (1)
 
 *NB Award a maximum of 1 mark if there is no context anywhere in the answer.*
 
@@ -642,11 +642,11 @@ A02 - 2 marks
 
 *Award 1 mark for correctly*
 
-21 000 x 0.91 (1)   substituting numbers into
+21 000 × 0.91 (1) = 19 110 (1)
 
-formula.   = 19 110
+Award 1 mark for correctly substituting numbers into formula.
 
-*Award full marks for correct*
+Award full marks for a correct numerical answer without working.
 
 
 ### `3(d)` — 6 marks (AO2:3, AO3:3)
@@ -811,11 +811,13 @@ A02 - 2 marks
 
 *Award 1 mark for correctly*
 
-15.50 x 0.30 = 4.65 (1)   substituting numbers into
+15.50 × 0.30 = 4.65 (1)
 
-formula.   15.50 – 4.65
+15.50 − 4.65 = 10.85 (1)
 
-*Award full marks for correct   = 10.85*
+Award 1 mark for correctly substituting numbers into formula.
+
+Award full marks for a correct answer without working.
 
 
 ### `4(b)` — 6 marks (AO2:3, AO3:3)
