@@ -524,14 +524,14 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 ## 21. Multinational — one **benefit**
 
-**Asked:** *"Explain one benefit of being a **multinational business**"* — Nov 2021 P2 · *"…one advantage of **becoming** a multinational business"* — May 2023 P2R
+**Asked:** *"Explain one benefit of being a **multinational business**"* — Nov 2021 P2 · *"Explain one advantage of **becoming** a multinational business"* — May 2023 P2R. These are related but distinct prompts; the P2R item is specifically about an advantage of becoming multinational.
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A multinational is a business that **operates in more than one country**. **Producing in a country where wages and land are cheaper lowers the cost of each unit**, so the business can cut its price or keep a larger margin. **And because it sells in several markets at once, a fall in demand in one country is absorbed by the others**, so its revenue is more stable than a business trading in only one place.
+**Official MS routes (May 2023 P2R 1(f); AO1, 3 marks):** global supplier base (1) → range of components/products (1) → possible higher revenue (1); or operating across countries (1) → easier movement of products (1) → reduced trade barriers (1). The MS says no marks for a definition on this item. **Awarded candidate evidence:** the local May 2023 P2R examiner report prints a 3/3 response on expanding the market, developing that to more customers, more sales and revenue; this is a Pearson-awarded response, not an MS route.
 
-**Second chain:** operating inside another country **avoids the import tariffs and quotas** that a foreign exporter would pay → **goods reach customers more cheaply** than a competitor shipping them in.
+> **Constructed model — May 2023 P2R 1(f)** `[MS-ALIGNED MODEL ANSWER]`
+> A multinational business may have access to suppliers in different countries. This can give it a wider range of components for its products. That wider supply base may help the business increase its revenue.
 
-> ⚠️ **Develop the point rather than stopping at a claim.** *"It makes more profit"* is not enough on its own — explain a relevant reason, such as spreading demand across countries or lowering costs through cheaper inputs. These are possible routes, not a required chain or answer length. ⭐ The Nov 2021 P2 report says some candidates noted that a multinational is worldwide but did not develop the comment.
+A second MS-aligned route is that a multinational operates in multiple countries, which can make products easier to move between them as trade barriers are reduced. These routes are examples, not required phrasing. The Nov 2021 P2 report's cohort comment about insufficient development is commentary on that separate prompt; it does not impose a fixed answer length or business outcome here.
 
 ---
 
@@ -796,12 +796,14 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Asked:** *"Explain one way businesses ensure that **all employees have equal opportunities**."* — May 2023 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> One way is to **use the same job description, person specification and selection criteria for every applicant**, and to record why each candidate was rejected against those criteria. **This means a decision can be shown to be based on the applicant's ability rather than their sex, race, age or religion**, and anyone who is passed over can be given a reason. **The business therefore avoids employment tribunal claims and the fines and bad publicity that follow, and it recruits from the whole pool of available talent rather than half of it.**
+**Official MS routes (May 2023 P2R 2(d); AO1, 3 marks):** employ both men and women (1) → make training open to everyone (1) → avoid disadvantaging anyone (1); or pay employees the same salary (1) when they do the same/similar work (1) → avoid discrimination (1). This prompt asks for one way all employees have equal opportunities; the separate June 2026 P2 question asks why a business must follow legal controls.
 
-**Second chain:** advertise vacancies **where all sections of the community will see them** → a wider range of people applies → **the business can choose the best person rather than the nearest one**.
+> **Constructed model — May 2023 P2R 2(d)** `[CONSTRUCTED; NOT A PEARSON WORKED ANSWER]`
+> A business could use the same job description and selection criteria for every applicant. That helps ensure decisions are based on relevant skills rather than personal characteristics. It may also help the business recruit from a wider pool of suitable applicants.
 
-> ⚠️ **"One way" means a method, not a reason for legal compliance.** Describe what the business does and why it matters; do not substitute this answer for the distinct legal-controls prompt below.
+The ER's 2-mark script on p.20 uses team meetings to identify and fix issues; the examiner says the additional promotion point is a second way, while the task asks for one. The transcription and examiner comment were visually checked against the local primary page. This example does not make team meetings the only acceptable method.
+
+> ⚠️ **"One way" asks for a method, not a reason for legal compliance.** Keep the requested task and beneficiary clear.
 
 **Also asked:** *"Explain one reason why a business needs to follow legal controls for equal opportunities."* — June 2026 P2, 2(e). This is a **reason**, not a method of ensuring equal opportunities.
 
@@ -1083,24 +1085,14 @@ Use the research to **set the price** → the business knows what customers are 
 
 **Asked:** *"Explain one advantage for a business of having a strong brand."* — June 2026 P2 · *"Explain one reason why branding is important to businesses."* — May 2023 P2R
 
-**Official MS worked route (June 2026 P2, 2(c); AO1, 3 marks):** the product/service is easily recognisable (1) → customers may choose the business over competitors (1) → high sales revenue (1).
+**Official MS routes (May 2023 P2R 2(c); AO1, 3 marks):** branding differentiates products from others (1) → helps customers identify their preferred brand (1) → maintains loyalty (1); or developing a strong image for a product (1) → may increase the price of products (1) → the brand may be worth a great deal (1). The June 2026 P2 route separately asks for an advantage of having a strong brand: recognisability → customer choice over competitors → high sales revenue.
 
-> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
-> A strong brand makes the product or service easily recognisable to customers. They may then choose it instead of a competitor’s product. This can lead to higher sales revenue for the business.
+> **MS-aligned model answer — May 2023 P2R 2(c)** `[MS-ALIGNED MODEL ANSWER]`
+> Branding can make a business’s products distinct from those of competitors. This helps customers identify the brand they want. As a result, existing customers may remain loyal to it.
 
-**The chain, broken out**
-1. **Recognisable / differentiated** — the customer can tell it apart.
-2. **Chosen over competitors** — the buying decision changes.
-3. **Revenue, loyalty, or the ability to charge more** — the commercial outcome.
+The report's awarded P2R 3/3 response follows a different valid route: branding helps customers identify a business; without branding it may not stand out, so it may be less likely to gain customers and sales. It was visually checked against the local ER p.18. These are examples, not a fixed sequence or endpoint. Both cited MSs state that no marks are awarded for a definition on those specific items; this is not a general ban on definitions in other Explain questions.
 
-**A second acceptable route** *(scheme, May 2023 P2R)*
-**Branding differentiates the products from others** (1) → **it helps customers identify the brand they want** (1) → **and it maintains loyalty** (1).
-
-**A third acceptable route** *(scheme, same question)*
-**The business develops a strong image for its product** (1) → **this can increase the price customers will pay** (1) → **the brand itself becomes worth a great deal of money** (1).
-
-> ⚠️ The cited mark schemes state that no marks are awarded for a definition on these specific branding items. Answer the requested advantage or reason; a separate definition is not required. This is item-specific, not a general ban on opening definitions where a definition is relevant to the task or included in the MS.
-> ⚠️ **And do not confuse branding with advertising.** Branding is the **identity** — name, logo, design, the associations customers hold. Advertising is **how it is communicated**. An answer about "putting adverts on television" belongs to entry 64, not here. **A strong brand is the asset; advertising is a cost.**
+> ⚠️ **Do not confuse branding with advertising.** Branding is the identity and associations customers recognise; advertising is one way it may be communicated. The related concepts are distinct.
 
 ---
 
@@ -1141,23 +1133,14 @@ Use the research to **set the price** → the business knows what customers are 
 
 ## 58. Continually introducing **new products** — one benefit
 
-**Asked:** *"Explain one benefit to a business of continually introducing new products."* — May/June 2020 P2R · *"Explain one reason why businesses continually design new products."* — May 2023 P2
+**Asked:** *"Explain one reason why businesses continually design new products."* — May 2023 P2 · related but distinct prompt: *"Explain one benefit to a business of continually introducing new products."* — May/June 2020 P2R.
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> A business introduces new products **to keep customers interested in the business and in the products it sells** (1) — attention moves to whatever is new. **It can replace an old product with a new one** (1) as the old one reaches the end of its life, so the business always has something current on the shelf. **This keeps it up with trends in the market** (1), so customers do not drift to a competitor who looks more modern.
+**Official MS routes (May 2023 P2 2(e); AO1, 3 marks):** designing new products keeps existing customers interested (1) → they may visit a store to see and buy new goods (1) → business profit may increase (1); or fashions change (1) → if a business does not introduce new products (1), demand for its products may decrease (1). The MS says no marks for a definition on this item.
 
-**The chain, broken out**
-1. **Customers stay interested** — the immediate benefit.
-2. **Old products are replaced** — the business maintains its range rather than watching it age.
-3. **The business keeps up with trends** — consequence: retained customers, protected sales.
+> **MS-aligned model — May 2023 P2 2(e)** `[MS-ALIGNED MODEL ANSWER]`
+> Designing new products may keep existing customers interested. They may visit the store to see and purchase the new products. This may increase the business’s profit.
 
-**A second acceptable route** *(scheme, May 2023 P2)*
-**Designing new products keeps existing customers interested** (1) → **they will visit the store to see and purchase the new goods** (1) → **increasing profit for the business** (1).
-
-**A third acceptable route** *(scheme, May 2023 P2)*
-**Fashions constantly change** (1) → **if the business does not introduce new products, demand for its existing ones decreases** (1).
-
-> ⭐ **One strong way to develop this answer is a counterfactual:** fashions change; if the business does not introduce new products, demand for existing ones may fall. This is one useful route, not a required structure or sentence position.
+**Awarded-script evidence, not MS text:** the P2 examiner report's 3/3 candidate says new products attract customers and satisfy needs/stimulate wants, which can build loyalty and repeat purchases. The script/comment are split across report pp.31–32 and were visually checked on both pages. The examiner says this response shows understanding and notes customer loyalty and repeat purchases. This is one Pearson-awarded route, not a fixed structure. The related May 2020 P2R item has a different task; keep its wording and evidence distinct.
 
 ---
 
@@ -1690,20 +1673,14 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why the quality of goods manufactured by a business is important to its success."* — Nov 2023 P2 · *"Explain one reason why businesses maintain the quality of their products."* — May 2023 P2R
 
-> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
-> **Manufacturing quality goods leads to a good reputation for the business** (1) — customers talk about it, and the name comes to stand for something. **This encourages more people to purchase the goods** (1), including people who would not previously have considered the business. **Which increases the sales for the business** (1).
+**May 2023 P2R MS routes (2(e); AO1, 3 marks):** consumers expect quality products (1) and expect them to perform their intended function (1), otherwise customers may be lost to competitors (1); or quality products (1) give the business a competitive edge (1), which may allow higher prices (1). This prompt asks why businesses maintain product quality.
 
-**The chain, broken out**
-1. **Quality builds reputation** — or: it prevents complaints and returns.
-2. **Customers choose it, and come back to it** — the behavioural effect.
-3. **Sales, profit, or the ability to charge more** — the commercial result.
+> **Constructed model — May 2023 P2R 2(e)** `[CONSTRUCTED; NOT A PEARSON WORKED ANSWER]`
+> Customers expect products to work as intended. If a business maintains their quality, customers are less likely to be disappointed and switch to competitors. Maintaining quality may therefore help the business retain customers.
 
-**A second acceptable route** *(scheme, May 2023 P2R)*
-**Consumers expect quality products** (1) → **and expect them to perform the function for which they were bought** (1) → **failure to do this could lose customers to competitors** (1).
+**Awarded-script evidence (kept distinct from MS content):** the 3/3 P2R ER response says that maintaining quality attracts interested customers, builds loyalty, and leads them to revisit and buy from the business. The examiner confirms attraction, loyalty and continued purchases. This script and comment were visually checked against printed p.23. The same report's p.22 script earned 1 mark; the examiner says the credited point was that a customer would only buy once. Both are item-specific examples, not a universal required sequence.
 
-> ⚠️ Quality is not synonymous with “expensive” or “luxury”. Fit for purpose is one relevant aspect, but quality can also concern other features the customer values; use the exact prompt and MS.
-> ⭐ One valid development is that poor quality may lead customers to choose competitors; the Nov 2023 scheme’s worked route is reputation → more purchases → higher sales. These are possible routes, not a mandatory sentence sequence.
-> 📄 The retained Nov 2023 Principal Examiner Feedback reports that well over half the cohort gained all three marks on this question. This is cohort commentary; the retained report does not supply an awarded script for it.
+**May 2023 P2 is a different item:** it asks why businesses continually design new products (entry 58). Do not substitute that prompt or its routes here. Quality is not synonymous with “expensive” or “luxury”; use the actual task and matched MS.
 
 ---
 
@@ -1711,18 +1688,25 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why businesses want to use resources effectively in manufacturing."* — May 2023 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **Being effective in the use of resources reduces waste** (1) — fewer materials thrown away, fewer items scrapped. **This could decrease the amount of inventory held** (1), because the business no longer has to over-order to cover for spoilage. **Thus lowering the expenses of the business** (1).
+**Official MS routes (May 2023 P2 1(f); AO1, 3 marks):** using resources effectively reduces waste (1) → this could reduce inventory (1) → lowering business expenses (1); or using fewer machines in manufacturing (1) → makes the business more efficient (1) → allows greater productivity (1).
 
-**The chain, broken out**
-1. **Waste is reduced** — the immediate effect.
-2. **Less material and less stock is needed** — the mechanism.
-3. **Costs fall, or output rises for the same input** — the consequence.
+> **MS-aligned model — May 2023 P2 1(f)** `[MS-ALIGNED MODEL ANSWER]`
+> Using resources effectively can reduce waste. This may mean a business needs to hold less inventory. Lower inventory can reduce the business’s expenses.
 
-**A second acceptable route** *(scheme, same question)*
-**Using fewer machines to manufacture goods** (1) → **makes the business more efficient** (1) → **allowing for greater productivity** (1).
+The MS's no-definition instruction is item-specific. The P2 examiner report p.15 says some candidates gave several reasons rather than developing one; a 2/3 response is printed on p.16. Its script/comment were visually checked: it links reusable leftover material to saving money, but the examiner says development was limited. This is cohort/script evidence for this item only. Either of the MS routes above is an example; no particular final endpoint is compulsory.
 
-> ⚠️ **Efficiency and effectiveness are different words — use the one the question gives you.** **Efficiency** = producing with the least input (cost per unit). **Effectiveness** = achieving the intended result (the right output). The scheme treats them together so either is safe — **but the chain must end on waste, cost or productivity.** "It is good for the environment" is not a scheme point here.
+---
+
+## 99. **Diseconomies of scale** — one reason they may occur
+
+**Asked:** *"Explain one reason why diseconomies of scale may occur."* — May 2023 P2, 2(d). The same broad topic appears in Jun 2023 P2, but that is a different session and is not the source for this item review.
+
+**Official MS routes (May 2023 P2, 2(d); AO1, 3 marks):** business becomes too large (1) → employees are demotivated (1) → productivity falls (1); or greater reliance on bureaucracy (1) → more time spent on administration (1) → slower decision-making (1). The MS states no marks are awarded for a definition on this item.
+
+> **MS-aligned model — May 2023 P2 2(d)** `[MS-ALIGNED MODEL ANSWER]`
+> As a business grows very large, employees may become demotivated. This can reduce their productivity. The business may then experience higher costs per unit as it loses the benefits of operating at a smaller scale.
+
+**Pearson-awarded response, kept distinct from the MS:** the May 2023 P2 ER prints a 3/3 script describing the business becoming too large or having too many employees, communication difficulties and misunderstandings that prevent orders being carried out; the examiner says this develops the reason by explaining increased communication and possible misunderstandings. The question/report score and the script/comment are printed on pp.29–30 and were visually checked against the local primary ER. The candidate script is transcribed in `External_Exemplars/2023-05_P2_Diseconomies.md`. This is one awarded response, not a compulsory answer route.
 
 ---
 
@@ -1792,31 +1776,25 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why cash flow forecasts are important for a business."* — May/June 2019 P2R · *"Explain one reason why cash flow forecasting is important to a business."* — May 2023 P2 · *"Explain one limitation of a cash flow forecast when making business decisions."* — May/June 2021 P1
 
-**Official MS route (May/June 2019 P2R, 2(e); AO1, 3 marks):** forecast future inflows and outflows (1) → assess whether the business can survive (1) → whether it has sufficient funds to keep trading (1).
+**Official MS route (May 2023 P2, 2(c); AO1, 3 marks):** forecast helps businesses plan for the future (1) → estimate cash/revenue coming in (1) and money going out (1); alternatively, identify periods of insufficient funds (1) → see what work may not be funded (1) → plan adjustments to enable survival (1). The May–June 2019 P2R item asks the same broad importance question but has a separate MS route: forecast inflows/outflows → assess whether the business can survive → check whether it has sufficient funds to keep trading.
 
-> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
-> A cash-flow forecast helps a business predict future inflows and outflows. It can use this forecast to assess whether it will be able to survive. It can also see whether it is likely to have sufficient funds to keep trading.
+> **MS-aligned model — May 2023 P2 2(c)** `[MS-ALIGNED MODEL ANSWER]`
+> A cash-flow forecast helps a business plan for the future by estimating the cash expected to come in and the money due to go out. It can help the business spot a period when there may be insufficient funds. The business can then make adjustments to help it survive.
 
-**The chain, broken out**
-1. **Inflows and outflows are predicted** — what the forecast does.
-2. **Shortfalls are visible in advance** — the point of looking.
-3. **The business acts before the crisis** — arrange a loan or overdraft, delay a payment, chase debtors.
-
-**A second acceptable route** *(scheme, May 2023 P2)*
-**Businesses can plan for the future** (1) → **by estimating the revenue coming in and the money going out** (1) → **and can identify periods of insufficient funds so they can plan for that situation and make adjustments to enable survival** (1).
+These are alternative item-specific routes, not a required sentence count or sequence. The May 2023 P2 MS says no marks are awarded for a definition on this item.
 
 **⭐ THE LIMITATION — and it is a different question, so it needs a different chain** *(scheme, May/June 2021 P1)*
 > **A limitation is that it is a forecast, not an actual figure** (1) — it is an estimate, and estimates can be wrong. **The forecast does not show what happens if goods are not sold** (1) — the sales figures in it are assumptions, not guarantees. **Nor does it provide a contingency plan if that occurs** (1).
 > **Other limitations that chain honestly:** it is only as good as the figures put into it · it cannot predict an unexpected event such as a machine breakdown or a lost customer · it shows cash, not profit, so a business can look healthy on one and be in trouble on the other.
 
-> 🚨 **CASH FLOW IS NOT PROFIT — this confusion is the single most expensive one in 3.5.**
+> **Related concept distinction (background, not a compulsory answer component):**
 > | | **Cash flow** | **Profit** |
 > |---|---|---|
-> | What it measures | money **actually moving** in and out | revenue **earned** minus costs **incurred** |
-> | A sale on 60-day credit | no cash yet — **already revenue** | revenue now, cash later |
-> | A loan received | **cash in — not revenue at all** | not profit |
-> | A machine bought for cash | cash out immediately | **depreciated over years**, not a one-off cost |
-> **A business can be profitable and still fail**, because the cash arrives too late to pay the wages. That sentence is worth memorising; it is the standard content of a 6- or 12-mark answer on cash.
+> | What it measures | cash moving into and out of the business | revenue earned minus costs incurred |
+> | A credit sale | revenue may be recorded before cash arrives | revenue now; cash later |
+> | A loan received | cash inflow | not revenue or profit |
+>
+> This distinction can help avoid confusing a forecast of cash movements with a profit statement. It is background guidance and need not be added unless relevant to the exact question.
 
 ---
 

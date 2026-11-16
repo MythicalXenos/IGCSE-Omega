@@ -384,3 +384,7 @@ They were invisible because **every sweep the bank owned searched for a phrasing
 5. **A question is only answered on its own angle.** P2R Q2(e) shows a candidate lose 2 marks for supplying a true consequence of the *opposite* condition.
 
 **Source files:** `Paperlords_Archive/IGCSE/4BS1_Business_Studies/May_2023/4BS1_Business_Studies_May_2023_{P1,P1R,P2,P2R}_ER.pdf`, report pages as marked above; mark schemes from the matching `_MS.pdf`. **The candidate scripts are scans — every transcription above was read from a 200 dpi render, and the ambiguous insertions and struck words in P1 Q2(e), P1R Q1(g) and P1R Q2(d) were confirmed at 400 dpi before being written down.**
+
+### Visual-check note for the P2/P2R items in the November 2026 review
+
+In addition to the existing transcription process, the selected primary ER pages relevant to the 3-mark review were visually compared with their text/transcriptions: P2R Q1(f) p.11, Q2(c) pp.18–19, Q2(d) p.20, Q2(e) pp.22–23; P2 Q1(f) p.16, Q2(d) pp.29–30 and Q2(e) pp.31–32. This confirms the cited score/comment/script pairings for those pages only; it does not upgrade the verification status of unrelated excerpts elsewhere in this file. The P2 diseconomies response and visual-check limits are separately recorded in `2023-05_P2_Diseconomies.md`.
