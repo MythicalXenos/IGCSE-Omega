@@ -573,16 +573,16 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 ## 24. Business failure — one **reason**
 
-**Asked:** *"Explain one reason why **businesses fail**"* — June 2021 P2 · *"…why a business **might fail**"* — May 2023 P1R
+**Asked:** *"Explain one reason why businesses fail."* — May–June 2021 P2, 2(c)
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Many new businesses **start without enough capital** to survive the first months, when they have costs but few customers yet. **They cannot afford to advertise properly or to hold enough stock**, so customers never find them or leave disappointed when items are unavailable. **Sales stay below what is needed to cover the rent and wages, and the business runs out of money and closes.**
+**Official MS route (AO1, 3 marks):** cash-flow problems (1) → outflow exceeds inflow (1) → potential problems paying employees or suppliers (1).
 
-**Second chain:** the business **misjudged demand** — it produced what the owner liked rather than what customers wanted → stock remains unsold → **no cash comes in and the business cannot pay its bills**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> One reason businesses fail is cash-flow problems. A business may have a greater cash outflow than inflow. It may then have difficulty paying its employees or suppliers.
 
-**Third chain (from Batch 1, entry 4):** **poor cash flow** — profitable on paper but no money in the bank when a debt falls due.
+**Guidance:** develop one relevant reason with two expansions. The 2021 MS gives cash flow as an example; it does not make this the only possible reason. Do not require a profit endpoint.
 
-> ⭐ **Three separate routes score here. Learn all three** — undercapitalisation, misjudged demand, and cash flow — because the same question appears in more than one series and only one is needed. ⚠️ **Never simply write "because it runs out of money"** — that restates failure instead of explaining it.
+> **Scope note:** this section previously linked a May 2023 P1R prompt and constructed material. That P1R item is outside the present P2/P2R review and has not been assessed here; do not treat it as support for the 2021 P2 answer.
 
 ---
 
@@ -590,12 +590,12 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Asked:** *"Explain one disadvantage for a business that **does not achieve its predicted growth**."* — June 2021 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A business that plans to grow **buys machinery, hires staff and takes on a bigger building in advance**, expecting the extra sales to pay for them. **If the growth does not happen, it is carrying costs sized for a business much larger than it actually is**, so each sale has to absorb more fixed cost. **This squeezes profit, and the business may have to make staff redundant or sell equipment it no longer needs** — losing money on assets it bought at full price.
+**Official MS routes (May–June 2021 P2, 1(f); AO1, 3 marks):** shareholders may be unhappy (1) → they may not receive dividends if predicted growth is missed (1) → they may invest in other businesses (1); or the business may not be able to expand (1) → it may lose market share (1) → customers could go elsewhere (1).
 
-**Second chain:** growth targets are often set to **satisfy investors or a bank** → missing them **damages confidence** → the bank may refuse further lending exactly when the business needs it most.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> If a business does not achieve its predicted growth, it may be unable to expand. It may then lose market share. Some customers could go elsewhere.
 
-> ⚠️ **This is the mirror image of the "economies of scale" entry (Batch 1, entry 3).** Expansion helps only if sales follow. **If they do not, fixed costs rise while revenue does not — diseconomies of scale.** Learn the pair together.
+> These are the official routes for this disadvantage prompt. Other consequences should not replace them as if they were the MS example, and an answer need not end with profit.
 
 ---
 
@@ -616,12 +616,14 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Asked:** *"Explain one advantage for **businesses** if **banks reduce their interest rates**."* — June 2022 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Cheaper interest means the cost of servicing existing debt falls. **A business paying a variable rate on its loan or overdraft hands over less each month for the same borrowing**, so more of its revenue is kept as profit. **That extra retained money can be spent on new equipment or extra staff to grow the business**, rather than being handed to the bank.
+**Official MS routes (May–June 2022 P2R, 1(f); AO1, 3 marks):** if a business takes out loans (1) → monthly repayments would be lower when rates fall (1) → leaving more funds for other business expenses (1); or customers may have more funds available (1) → to spend on goods/products (1) → increasing business turnover (1).
 
-**Second chain:** lower rates make **customers' borrowing cheaper too** → they have more disposable income and are more willing to buy on credit → **demand for the business's products rises**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> If a business has taken out a loan, lower interest rates may reduce its monthly repayments. It will then have more funds available for other business expenses.
 
-> ⚠️ **Answer to "advantage for businesses" — both routes are about the business.** Do not drift into describing the effect on the wider economy; the question names **businesses** as the party.
+> The question asks for an advantage **for businesses**. The MS also permits a customer-spending route, linked to business turnover; no fixed profit endpoint is required.
+>
+> **Pearson ER evidence (May–June 2022 P2R, p.12; transcribed script/verdict visually checked against the local report):** one candidate response was awarded 3 marks for paying less to the bank, saving money and using it to improve the business. The ER says many candidates confused advantage and disadvantage and warns against answering about customers instead of businesses. Keep that cohort comment distinct from the MS, which separately accepts a route through customers' additional spending and increased business turnover.
 
 ---
 
@@ -645,13 +647,12 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Asked:** *"Explain one reason why a business **complies with health and safety legislation**."* — June 2022 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Health and safety law sets **the minimum standards an employer must meet** to keep workers safe. **A business that ignores it faces fines, prosecution and possibly being ordered to stop operating**, which can destroy a small firm. **Complying therefore protects the business's licence to trade and its reputation**, and it reduces the cost of accidents — lost working days, compensation and higher insurance premiums.
+**Official MS routes (June 2022 P2, 2(e); AO1, 3 marks):** non-compliance may lead to a fine or lawsuit after an accident/injury (1) → the business could be fined or closed for not complying (1); or protect staff from injuries (1) → fewer days lost to illness (1) → reduced need for temporary cover and related costs (1).
 
-**Second chain:** a safe workplace **reduces accidents and sick leave** → output is not disrupted → **the business avoids the cost of replacing and retraining injured staff**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A business may comply with health and safety legislation to protect its staff from injuries. This may reduce the number of days lost to illness. The business may then need less temporary cover, saving costs.
 
-> ### ⚠️ REPEALING THE "BECAUSE IT'S THE LAW" TRAP
-> *"Because it is the law"* states the requirement, not the **reason**. The mark is for **what complying protects the business from** — fines, closure, compensation, reputational damage. **Always convert the legal duty into a business consequence.**
+> This is a **reason** prompt. Avoid turning “because it is the law” into a compulsory opening or assuming one route must end in reputation, compensation, or profit; use a relevant development.
 
 ---
 
@@ -702,10 +703,12 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Asked:** *"Explain one benefit to a business of having a **short chain of command**"* — Summer 2019 P2 · *"…having a short chain of command"* — June 2024 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A short chain of command means there are **few layers of management between the owner and the people doing the work**. **Instructions reach the staff who act on them without being passed down through several managers**, so messages are neither delayed nor altered on the way. **This lets the business respond to a customer request or a problem on the shop floor almost immediately**, which a taller structure cannot do.
+**Official MS route (May/June 2019 P2, 2(e); AO1, 3 marks):** less communication between workers and managers (1) → lower chance of messages being mistaken (1) → managers are less remote and can resolve problems more quickly (1).
 
-**Second chain:** fewer layers means **fewer managers' salaries** → **overheads are lower** → the business keeps more of each sale as profit.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A short chain of command may reduce the chance of messages being mistaken between managers and workers. Managers are less remote from employees. If a problem occurs, they may be able to resolve it more quickly.
+
+**Another possible route:** fewer management layers may reduce management wage costs. This is a separate development, not a required profit endpoint.
 
 > ⭐ **This is the mirror of Batch 1 entry 1** (*the disadvantage of a **long** chain of command*). Learn the pair — the examiner asks both directions across series, and the chain simply reverses.
 
@@ -854,12 +857,12 @@ The fine and reputation route is the official example; the final effect is a con
 
 **Asked:** *"Explain one benefit to a business of **retaining its employees**."* — Summer 2019 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Retention means **keeping existing staff rather than losing them and hiring replacements**. **Every leaver has to be recruited, inducted and trained again, and for a period they produce less than an experienced worker**, so holding on to someone avoids all of that spending. **The business keeps the skills and customer relationships that person built up**, which a replacement must start from scratch.
+**Official MS route (May/June 2019 P2R, 2(c); AO1, 3 marks):** retaining staff provides consistency (1) → employees gain knowledge of the products they sell (1) → they can pass this information to customers (1).
 
-**Second chain:** long-serving staff **know regular customers by name and understand what they want** → customers receive better service → **they return and spend more**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Retaining employees gives a business consistency. Employees who stay can build up knowledge of the products they sell. They can pass that knowledge on to customers.
 
-> ⚠️ **The temptation is to write "it saves money".** Say **what** the money would have been spent on — **advertising the vacancy, management time interviewing, induction and training, and the drop in output while the new person learns**.
+> A cost-saving or customer-service route may also be relevant when supported; neither is a compulsory endpoint for this prompt.
 
 ---
 
@@ -867,12 +870,14 @@ The fine and reputation route is the official example; the final effect is a con
 
 **Asked:** *"Explain one reason why a business has **fully trained employees**."* — June 2022 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A fully trained employee has **been taught the correct way to do every part of their job, including the equipment and the safety rules**. **Because they do not have to guess, they make fewer mistakes and produce less waste**, so less material is thrown away and less work has to be repeated. **This lowers the cost of each unit and raises the quality the customer receives**, which protects the business's reputation.
+**Official MS routes (May–June 2022 P2R, 2(d); AO1, 3 marks):** training increases employees' skills and knowledge (1) → they perform their job more effectively (1) → productivity increases (1); or training keeps employees up to date with new technology/machines (1) → they can use these effectively (1) → maximise output per hour (1).
 
-**Second chain:** trained staff **can cover for each other and take on more tasks** → the business needs fewer people to run the same operation → **labour costs per unit fall**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Training can increase employees' skills and knowledge. They may then perform their jobs more effectively. This can increase productivity.
 
-> ⚠️ **Do not answer with "so they can do their job"** — that is the definition of trained, not a reason. The mark is for **the business consequence of the training**: less waste, higher quality, lower cost, fewer accidents.
+> The task asks for a reason the business has fully trained employees. Use one relevant training benefit and two developments; the exact MS routes above are examples, not a required sentence pattern.
+>
+> **Pearson ER evidence (May–June 2022 P2R, pp.21–22; transcribed scripts/verdicts visually checked against the local report):** two separate candidate responses were awarded 3 marks. The examiner comments on avoiding mistakes/maintaining quality/customer satisfaction in one, and reduced safety risks, fewer mistakes and employee safety in the other. These are awarded script examples, not additional MS wording or a fixed answer template.
 
 ---
 
@@ -880,31 +885,27 @@ The fine and reputation route is the official example; the final effect is a con
 
 **Asked:** *"Explain one reason why **employees keep their curriculum vitae (CV) up to date**."* — June 2021 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A CV is **a written summary of a person's qualifications, skills and work history**. **If an employee loses their job at short notice they may need to apply for a new one within days**, and a CV that has not been updated for years will leave out the experience and training they have gained most recently. **Keeping it current means they can apply immediately and present their strongest case**, which matters most when they are competing against many other applicants.
+**Official MS route (May–June 2021 P2, 2(e); AO1, 3 marks):** an employee can apply for a job straight away (1) → without spending time updating a CV (1) → avoiding missed job opportunities (1).
 
-**Second chain:** updating a CV encourages an employee to **notice the skills they have gained** → they can see their own progress and use it to **ask for a promotion or a pay rise** inside the business.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Keeping a CV up to date means an employee can apply for a job straight away. They do not have to spend time updating it first. This may help them avoid missing out on job opportunities.
 
-> ### 🚨 READ WHO THE QUESTION IS ABOUT
-> **This asks why the EMPLOYEE keeps it up to date — not why the business benefits.** A single CV helps one person; a business does not benefit from an employee having a tidy CV. **Relevance by party — rule 102 — is the single most costly error in the qualification, documented five times.**
+> The prompt asks why **employees** keep their CVs current. Keep the explanation on the employee’s benefit; no particular job-loss scenario is required.
 
 ---
 
 ## 46. Motivating employees — one benefit
 
-**Asked:** *"Explain one benefit for a business of **motivating its employees**"* — June 2022 P1R · *"…one method a business could use to **motivate** its employees"* — June 2022 P2R
+**In-scope prompt:** *"Explain one method a business could use to motivate its employees."* — May–June 2022 P2R, 2(c). **Related but out-of-scope prompt:** *"Explain one benefit for a business of motivating its employees."* — June 2022 P1R; not reviewed here.
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> A motivated employee **wants to do the job well rather than merely avoid being told off**. **They work faster and take more care**, so the same number of staff produces more output of better quality — raising productivity and reducing waste at the same time. **This lowers the cost of each unit**, so the business earns a bigger profit on every sale, and motivated staff are far less likely to leave.
+**Official MS routes (May–June 2022 P2R, 2(c); AO1, 3 marks):** give employees fringe benefits (1) → for example discounts on the business's products (1) → employees feel their work is valued (1); or make bonus payments (1) → to individuals or teams (1) → when they meet specified targets (1).
 
-**Second chain:** motivated staff deal with customers **more helpfully and patiently** → customers return and recommend the business → **sales rise without extra advertising**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> One method is to give employees fringe benefits, such as discounts on the business's products. This can make employees feel that their work is valued.
 
-### ⭐ AND THE "METHOD" VARIANT
-The June 2022 P2R question asked for a **method**, not a benefit — so the answer must be an action:
-> **Model — 3 marks.** One method is **job rotation, where employees swap between different tasks on a rota**. **Doing the same job repeatedly becomes boring, and rotating gives variety and lets staff learn new skills**, which makes the work more interesting. **The business gains a more flexible workforce** that can cover for absences or move to whichever task is busiest, so it copes with change without hiring.
-
-> ### 🚨 BENEFIT vs METHOD — the command-word trap
-> **"Benefit of motivating" wants a consequence. "Method to motivate" wants an action taken.** ⚠️ And on the **Justify** questions about motivation the examiner states: ***"there are no knowledge marks"*** — listing Maslow or Herzberg adds nothing.
+> The question asks for a **method** of motivation, not a benefit of motivation. The separate June 2022 P1R prompt asks about a business benefit and is outside this P2/P2R review; it is not evidence for the P2R item's task or answer. No single method or sentence pattern is compulsory.
+>
+> **Pearson ER evidence (May–June 2022 P2R, pp.19–20; the transcribed scripts/verdicts were visually checked against the local report):** the report awards 2 marks to a job-rotation response, noting the method and change in workplace but insufficient further development; a separate job-enrichment response earns 3 marks, with comments on challenge and employees feeling trusted/valued. This candidate evidence is distinct from the MS's fringe-benefit/bonus routes and does not create a required “business outcome” endpoint for all Explain answers.
 
 ---
 
@@ -928,15 +929,15 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 **Asked:** *"Explain one reason why a business uses **fringe benefits**."* — Summer 2019 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Fringe benefits are **rewards given on top of wages** — a company car, free or subsidised meals, private health cover, gym membership. **They allow the business to offer a better overall package than rivals who pay the same wage**, so it can attract stronger applicants without permanently raising every salary it pays. **Staff who value the benefits stay longer**, which saves the cost of recruiting and training replacements.
+**Official MS route (May/June 2019 P2, 2(c); AO1, 3 marks):** employees will be motivated (1) → this could improve productivity (1) → and increase sales (1).
 
-**Second chain:** fringe benefits such as free meals or health cover **improve employees' wellbeing and attendance** → fewer days lost to sickness → **output is not disrupted and productivity rises**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A business may use fringe benefits to motivate its employees. Motivated employees may be more productive. This could help the business achieve higher sales.
 
-> ### 🚨 A REAL 0-MARK ANSWER FROM JUNE 2026
-> *"One impact of using fringe benefits to their employees is that **it reduces their salaries** which can demotivate the employees resulting in a loss for business…"*
-> **Examiner: "0 marks awarded as the candidate has attempted an impact on the employee rather than the business."**
-> **Two failures at once: a wrong premise (fringe benefits do not reduce salaries) and the wrong party (this was a "benefit to the business" question).**
+> The question asks why **a business** uses fringe benefits; connect the point to the stated business purpose. An effect on an employee alone does not complete the explanation.
+
+> **Separate, out-of-scope report excerpt:** the retained June 2026 P1R example below is not evidence for this May/June 2019 P2 item and was not used to assess it.
+> *"One impact of using fringe benefits to their employees is that it reduces their salaries which can demotivate the employees resulting in a loss for business…"* The retained transcription attributes 0 marks because it says the response attempted an employee-side impact. The quotation/verdict is not independently re-verified here.
 
 ---
 
@@ -944,14 +945,12 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 **Asked:** *"Explain one reason why a business **would pay its employees above the minimum wage**."* — June 2022 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> The minimum wage is **the legal floor an employer must pay**, so paying above it is a deliberate choice. **Offering more attracts a larger and better pool of applicants**, letting the business pick the most capable rather than whoever will accept the lowest pay. **It also makes existing staff less likely to leave for a rival**, saving the recruitment and training costs of replacing them, and better-paid staff tend to take more care in their work.
+**Official MS routes (May–June 2022 P2, 2(c); AO1, 3 marks):** paying above the minimum wage may encourage more employees to work for the business (1) → they could be paid more than at a competitor (1) → they may stay because of the payment (1); or employees feel more rewarded (1) → this may increase motivation (1) → and productivity (1).
 
-**Second chain:** pay above the minimum **signals that the business values its staff** → they work harder and co-operate more → **productivity rises** and the extra wage cost is covered by the extra output.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Employees may feel more rewarded when a business pays above the minimum wage. This could increase their motivation at work. Higher motivation may improve their productivity.
 
-> ### 🚨 THE STATE TRAP ON THIS EXACT TOPIC — A 10% QUESTION
-> ⚠️ **Do not confuse this 3-mark Explain with the 1-mark State version.** On **Examine** you explain; on **State** you must be **in context** — *"a reason why **Huawei** would pay above the minimum wage"* requires a Huawei-specific reason or phrase.
-> **Ideal answer (from the Nov 2024 report):** *"Many candidates stated it was a quick, easy or an **unbiased** method which is **not correct**"* — that is the focus-group trap, but the pattern is the same: **a plausible-sounding phrase that is simply untrue scores nothing.** **Only use a reason you can develop.**
+> This prompt asks for a reason to pay above the minimum wage. No context, definition, named motivational theory, or particular final business outcome is required by the question.
 
 ---
 
@@ -1003,20 +1002,14 @@ The June 2022 P2R question asked for a **method**, not a benefit — so the answ
 
 **Asked:** *"Explain one disadvantage of using questionnaires as a method of market research."* — May/June 2022 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **If the questionnaire is too long (1)** people may be **reluctant to complete it** (1) — they lose interest and stop part-way through. **They may then not give true answers** (1), so the business makes decisions on information that looks like data but is not accurate.
+**Official MS routes (May–June 2022 P2, 1(f); AO1, 3 marks):** if the questionnaire is too long (1) → people may be reluctant to complete it (1) → they may not give true answers (1); or too many questions (1) → people may not focus properly (1) → low return rate, so required information is not obtained (1).
 
-**The chain, broken out**
-1. **The questionnaire is too long** — this is the identification; a questionnaire-specific flaw.
-2. **People will not complete it / lose focus** — the behavioural consequence.
-3. **The data is wrong or too thin** — the consequence to the *business*.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> If a questionnaire is too long, people may be reluctant to complete it. They may then give less considered or untrue answers. A business could therefore receive inaccurate information from its research.
 
-**A second acceptable route** *(scheme, same question)*
-*Too many questions* → **people do not focus properly** (1) → **a low rate of return** (1) → **the business does not get the information it needed** (1).
+**Other possible limitations** such as closed questions restricting responses or a low response rate may be relevant in an answer, but are not the two cited routes above; treat them as constructed guidance, not confirmed wording from this item's MS.
 
-**More disadvantages that chain properly:** closed questions **limit the answers** → the respondent cannot say what they really think → the business misses the real reason customers behave as they do · posted questionnaires get **a poor response rate** → the sample is too small to be representative → the findings cannot be trusted · people may **lie to appear sensible** → the business acts on false information.
-
-> ⭐ **Keep the development relevant to the method and the information.** A questionnaire disadvantage that says only "it costs money" may be too general; explain a relevant limitation of questionnaire responses or data. There is no required sentence placement or count.
+> Develop a disadvantage that fits the questionnaire and its information. No fixed sentence placement or count is required.
 
 ---
 
@@ -1197,18 +1190,12 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why product trials are important to a business."* — May/June 2022 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> A trial **gains customer feedback on a new product** (1) before the business commits to a full launch. **It identifies the strengths and weaknesses of the product** (1) — what people liked and what they complained about. **These can then be addressed before the product goes into the wider market** (1), so the faults are fixed while they are still cheap to fix.
+**Official MS routes (May–June 2022 P2, 2(d); AO1, 3 marks):** gain feedback on a new product (1) → identify strengths, weaknesses or problems (1) → address them before wider-market launch (1); or offer customers a three-month trial of electronic games (1) → customers find out whether they like the games (1) → if they do, they may purchase the game console (1).
 
-**The chain, broken out**
-1. **Feedback is collected** — the purpose of a trial.
-2. **Strengths and faults are identified** — what the feedback reveals.
-3. **Corrections happen before the full launch** — the financial consequence: money is not wasted producing a flawed product at scale.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Product trials can give a business feedback on a new product. This feedback can identify strengths, weaknesses or problems. The business can then address these before the product enters the wider market.
 
-**A second acceptable route** *(scheme, same question)*
-**A customer is offered a three-month trial of the games** (1) → **they find out whether they like them** (1) → **if they do, they may buy the console** (1) — a trial that leads to a purchase.
-
-> ⚠️ **Trial vs test marketing — keep these apart.** A **product trial** is the customer using the product (a sample, a short free use, a taste). **Test marketing** is the business launching in one restricted area to see how the whole marketing mix performs. Both reduce risk; only test marketing is about *a region*. If the question says **trial**, write about the **customer using the product**.
+> Trial and test marketing are related but distinct: a product trial lets customers try the product; test marketing introduces the wider marketing mix in a limited area. This distinction is guidance, not an extra required part of the Explain answer.
 
 ---
 
@@ -1358,22 +1345,14 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one advantage for a business of using targeted advertising online."* — May/June 2019 P2R · *"Explain one reason why a business would use targeted advertising online to promote itself."* — May/June 2025 P2R
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> The business can **send information to customers who have purchased from it before** (1) — the online data tells it who those people are. **Those customers are more likely to purchase again** (1) than a random reader of an advert would be. **This can lead to improved customer loyalty** (1), at a far lower cost per sale than advertising to everyone.
+**Official MS route (May/June 2019 P2R, 2(d); AO1, 3 marks):** reach a wider audience (1) → online advertising is worldwide and available 24/7 (1) → relatively cheap compared with traditional advertising (1).
 
-**The chain, broken out**
-1. **The business can select its audience** — by previous purchase, by interest, by demographic, by location.
-2. **The audience is therefore more likely to want it** — the targeting does the work.
-3. **Better conversion — loyalty, awareness or revenue** — the commercial result.
+> **MS-aligned model — May/June 2019 P2R** `[MS-ALIGNED MODEL ANSWER]`
+> A business can use targeted advertising online to reach a wider audience. Its advertising can be accessed worldwide and at any time of day. Compared with traditional advertising, this may be a relatively cheap way to reach those people.
 
-**A second acceptable route** *(scheme, May/June 2019 P2R)*
-**The business can target a wider audience** (1) → **because it is worldwide and available 24/7** (1) → **and it is a relatively cheap method compared with traditional advertising** (1).
+**May/June 2025 P2R has a separate prompt and two MS routes:** send information to past customers (1) → they may be more likely to purchase again (1) → improved customer loyalty (1); or promote to a specific demographic (1) → use different online activities (1) → increased brand awareness (1). These are not substituted for the 2019 P2R route.
 
-**A third** *(scheme, May/June 2025 P2R)*
-**The business could promote to a specific demographic** (1) → **using different online activities** (1) → **which may lead to increased brand awareness** (1).
-
-> ⭐ **"Targeted" is the word that earns the second mark.** The scheme's own answers never just say "more people see it" — they say **the right people** see it: people who bought before, people in one demographic. **Say who is targeted, and why they are the right people.**
-> ⚠️ **And "cheap" needs the comparison.** *"It is cheap"* is weaker than the scheme's *"a relatively cheap method **compared with traditional advertising**"*. The comparison is what makes it an advantage rather than a claim.
+> The routes differ by item. Do not state that a particular phrase or audience type is compulsory for every targeted-advertising question; follow the exact prompt and its MS. A cost comparison is part of the 2019 route, not a universal rule.
 
 ---
 
@@ -1467,13 +1446,12 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one advantage for a business of having loyal customers."* — May/June 2019 P2R
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> An advantage will be **repeat custom** (1) — loyal customers come back and buy again. **If customers are loyal they will shop only at that business** (1) rather than comparing prices elsewhere. **This could increase market share or revenue** (1), and it costs the business nothing extra to sell to a customer it already has.
+**Official MS route (May/June 2019 P2R, 1(f); AO1, 3 marks):** repeat custom (1) → loyal customers shop only at that business (1) → this could increase market share/revenue (1).
 
-**The chain, broken out**
-1. **They return and buy again** — repeat custom.
-2. **They do not shop around** — competitors are shut out.
-3. **Revenue, market share, or lower cost of selling** — the commercial gain.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Loyal customers may provide repeat custom. Because they are loyal, they may shop only at that business. This could increase the business’s market share or revenue.
+
+**The route is illustrative, not a required three-sentence form.** Avoid adding a claim that each repeat sale costs nothing unless that is being supported separately.
 
 **A second acceptable route** *(constructed — the cost argument, which is the strongest)*
 **Winning a new customer costs money in advertising, while selling to an existing one does not** → the same revenue is earned at a lower marketing cost → **profit rises without sales having to rise**.
@@ -1567,19 +1545,14 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why a business would use job production."* — May/June 2019 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> Job production is used **to produce a unique piece of work** (1) — one item at a time, made to order. **It is made to meet the exact needs of the customer** (1), which the business could not do with standardised output. **This requires the time and the skills of the employees** (1), which is why job production suits businesses selling high-value, bespoke products.
+**Official MS route (May/June 2019 P2, 2(d); AO1, 3 marks):** produce a unique piece of work (1) → meet the customer's exact needs (1) → requires employee time and skills (1). The MS also says no marks are awarded for a definition on this item.
 
-**The chain, broken out**
-1. **Unique, made-to-order output** — the defining feature.
-2. **Exact customer requirements are met** — why a customer will pay for it.
-3. **It needs skilled labour, and allows a high price** — the consequence for the business.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A business may use job production to make a unique piece of work. This can meet the exact needs of a customer. Producing it requires time and skill from employees.
 
-**A second acceptable route** *(constructed — the pricing route)*
-**Each item is unique** → the customer cannot compare it with a rival's price → **the business can charge a premium**, which covers the high labour cost.
+**Constructed alternative:** a unique, made-to-order product may be priced to reflect its individual specification; use only if relevant to the task and supported, not as an official MS route.
 
-> ⚠️ **`NB No marks are awarded for a definition`** — printed on this exact question in 2019 P2. *"Job production makes one item at a time"* scores **0**.
-> 🚨 **JOB PRODUCTION HAS NOTHING TO DO WITH JOBS OR EMPLOYMENT.** This is a named word-collision in this bank. A candidate who writes *"job production means the business creates jobs for people"* has answered a **completely different question and scores zero.** Job production = **one bespoke item at a time** — a wedding cake, a tailored suit, a made-to-measure bridge.
+> The item-specific no-definition note is not a universal rule. A bare statement that job production is one-off may not explain a reason; avoid asserting a specific mark/verdict without candidate-script evidence. Job production here means making a unique product, not creating jobs for employees.
 
 ---
 
@@ -1587,24 +1560,14 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why a business would use batch production."* — May/June 2021 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> A business with **a wide range of products may need to produce them in smaller numbers** (1) — neither one at a time nor in one endless run. **It can then change the product easily — the colour or the size, for example** (1) — between one batch and the next. **And it does so without incurring too much cost** (1), because the same machinery and layout are reused for every batch.
+**Official MS route (May–June 2021 P2, 2(d); AO1, 3 marks):** a wide product range may require smaller production runs (1) → products can be changed easily, such as colour or size (1) → without incurring too much cost (1).
 
-**The chain, broken out**
-1. **Variety is needed, in moderate volumes** — the business's situation.
-2. **The line can be switched between batches** — the flexibility this gives.
-3. **Costs stay controlled** — or: it is cheaper than job production at this volume.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A business with a wide range of products may use batch production to make them in smaller quantities. It can change the product, such as its colour or size, between batches. This can be done without incurring too much cost.
 
-**A second acceptable route** *(constructed — the stock route)*
-**Producing in batches builds stock ahead of demand** → customers are served immediately → **the business does not lose sales while it waits for a new batch**.
+**Constructed alternative:** producing a batch in advance may allow immediate customer service from stock; this is not the cited 2021 MS route.
 
-> ⭐ **Batch production sits between the other two, and the exam expects you to place it.**
-> | | **Job** | **Batch** | **Flow** |
-> |---|---|---|---|
-> | Output | one unique item | groups of identical items | continuous, high volume |
-> | Labour | highly skilled | semi-skilled | low-skilled, often automated |
-> | Example | wedding cake | a bakery's batch of loaves | bottling a drink |
-> **Use volume and flexibility as the reason — never "it makes more products", which is the answer for flow production, not batch.**
+> Batch production is one way of organising output between one-off job production and continuous flow production. Variety and manageable production runs are relevant here; do not turn this comparison into a required answer format or rule out other relevant reasons.
 
 ---
 
@@ -1632,18 +1595,12 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one impact of technology on the manufacture of vehicles."* — May/June 2019 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **Fewer people are required in the factories to do repetitive jobs** (1), because machines can perform them instead. **People get bored doing these jobs and make mistakes** (1), so removing them also removes a source of error. **Fewer employees brings the cost of goods down** (1), through lower wage costs or fewer faulty items.
+**Official MS routes (May/June 2019 P2, 1(f); AO1, 3 marks):** fewer people required for repetitive factory jobs (1) → people become bored and make mistakes on these jobs (1) → fewer employees brings down the cost of goods (1); or more robots manufacture vehicles (1) → vehicles can be manufactured in any country (1) → business could move to a cheaper country (1).
 
-**The chain, broken out**
-1. **Technology replaces labour** — the impact itself.
-2. **The effect on the work or the product** — fewer errors, faster output, more consistent quality.
-3. **A cost consequence** — unit costs fall.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Technology can reduce the number of people needed for repetitive factory jobs. People doing repetitive work may become bored and make mistakes. With fewer employees, the cost of the goods may fall.
 
-**A second acceptable route** *(scheme, same question)*
-**More robots are manufacturing the vehicles than previously** (1) → **the vehicles can be manufactured in any country** (1) → **so the business could move to a cheaper country** (1).
-
-> ⚠️ **"Impact" is not the same word as "benefit".** An impact can be negative, and the scheme's own answer hedges — it notes that people **make mistakes** on dull jobs, so the technology is not simply good. **If the question says impact, a balanced answer is safe. If it says benefit, write only the upside.**
+> The prompt asks for **one impact**. The MS routes above are examples, not a requirement to compare positive and negative effects or reach a profit conclusion. Keep any extra effect clearly tied to the stated impact.
 
 ---
 
@@ -1693,19 +1650,14 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why many manufacturing businesses use Kaizen in their factories."* — May/June 2022 P2R
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **Kaizen means employees are involved in the process of improvement** (1) — the people doing the work are the ones who suggest the changes. **They suggest ways to improve the manufacturing process** (1), which is precisely what a manager sitting in an office cannot see. **This can lead to improved product quality** (1).
+**Official MS routes (May–June 2022 P2R, 2(e); AO1, 3 marks):** employees are involved in improvement (1) → suggest ways to improve the manufacturing process (1) → may improve product quality (1); or Kaizen reduces waste (1) → employees operate machinery more effectively (1) → overall business costs fall (1). The MS also says that no marks are awarded for a definition on this item.
 
-**The chain, broken out**
-1. **Everyone is involved in improvement** — the defining feature of Kaizen (continuous improvement).
-2. **Suggestions come from the people doing the job** — why those suggestions are worth having.
-3. **Quality improves, waste falls, costs fall** — the consequence.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Kaizen involves employees in the process of improvement. They can suggest ways to improve the manufacturing process. This may lead to better product quality.
 
-**A second acceptable route** *(scheme, same question)*
-**Kaizen helps reduce waste** (1) → **because employees understand how to operate the machinery more effectively** (1) → **resulting in lower overall costs for the business** (1).
-
-> ⚠️ **`No marks are awarded for a definition.`** *"Kaizen is continuous improvement"* scores **0** — and that is the exact trap here, because the definition is the memorable part. **Say what it does:** it puts the people who run the machines in charge of improving them, and that produces suggestions no manager can generate from a desk.
-> ⭐ **Kaizen is on the examiners' list of named content gaps** — historically candidates have simply not known it. **Two points are enough: employees suggest improvements, and waste falls so costs fall.**
+> A bare definition such as “Kaizen is continuous improvement” does not answer this item's requested reason; the MS note is item-specific, not a ban on opening definitions across Explain questions. Choose a relevant reason and develop it without a compulsory endpoint.
+>
+> **Pearson ER evidence (May–June 2022 P2R, p.23; the transcribed scripts/verdicts were visually checked against the local report):** two candidate responses earned 3 marks. The examiner accepts an employee-loyalty route developed through valued opinions and productivity, and another route through employees being involved in product/manufacturing improvement. The report also says many responses named waste reduction but did not develop why; this is cohort commentary, not a rule that every answer must mention employee involvement.
 
 ---
 
@@ -1840,8 +1792,10 @@ The Matrix shows which products are **cash cows** → those can fund the ones th
 
 **Asked:** *"Explain one reason why cash flow forecasts are important for a business."* — May/June 2019 P2R · *"Explain one reason why cash flow forecasting is important to a business."* — May 2023 P2 · *"Explain one limitation of a cash flow forecast when making business decisions."* — May/June 2021 P1
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> **It allows the business to predict its future inflows and outflows** (1) — money coming in and money going out, month by month. **It knows whether it can survive** (1) through a lean period or a large payment. **And whether it has sufficient funds to keep trading** (1), so it can arrange finance before the problem arrives rather than after.
+**Official MS route (May/June 2019 P2R, 2(e); AO1, 3 marks):** forecast future inflows and outflows (1) → assess whether the business can survive (1) → whether it has sufficient funds to keep trading (1).
+
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A cash-flow forecast helps a business predict future inflows and outflows. It can use this forecast to assess whether it will be able to survive. It can also see whether it is likely to have sufficient funds to keep trading.
 
 **The chain, broken out**
 1. **Inflows and outflows are predicted** — what the forecast does.

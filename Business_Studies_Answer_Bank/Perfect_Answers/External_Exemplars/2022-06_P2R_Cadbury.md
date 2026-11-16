@@ -9,7 +9,7 @@
 >
 > Every other file in `External_Exemplars/` summarises what the cohort did. **This one prints actual candidate answers, the exact mark each was awarded, and the examiner's reasoning.**
 >
-> **It is the user's first-preference source: real past-exam student answers.** Every response below is copied **verbatim** — including the candidates' own spelling and punctuation errors, because the exact wording is the point.
+> The script excerpts are transcriptions of the printed candidate images, not text-layer copies. For the three-mark items reviewed here, the transcriptions and printed marks/comments on ER pp.12, 19–23 were visually checked against the local primary PDF. This does not upgrade the verification status of unrelated excerpts elsewhere in this file; their individual limitations remain.
 >
 > **Naming note:** the file is named `-pef-` but the title page reads **"Examiners' Report"**, Publications Code `4BS1_02R_2206_ER`. **Not every report with a `pef` filename is only a Principal Examiner Feedback summary — always open it and check.**
 
@@ -130,29 +130,26 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 > **Question:** Explain **one** advantage… **Many candidates misread advantage for disadvantage.**
 
 ### ✅ 3 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.12; not present in the PDF text layer]**
 > *"If banks reduce their interest rates, business' Will not be giving as much money to the bank as they once did. This leads to the business saving money and instead of putting the money into the bank it can be used to help further improve their business therefore they may have more chance of Survival."*
 
 **Examiner comment:** *"The response includes the **one advantage** they they are not going to be paying the bank as much. **The development** is leading to them saving money, **which could further improve their business**."*
 
 ### ⭐ 2 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.12; not present in the PDF text layer]**
 > *"They can pay their debts easier, as interest rates being decreased means they will have to pay less to borrow, which improves the liquidity of the business."*
 
 **Examiner comment:** *"This particular response gained **2 marks**, the comment with reference to **paying less to borrow** this is then developed which **improves the cash flow** of the business. **The comment about paying their debts easier is not developed.**"*
 
 **⭐ Examiner tip:** *"**To avoid wasting time do not repeat the question in the first sentence.**"*
 
-> ### 🎯 The 3-mark answer vs the 2-mark answer
+> ### The two awarded examples and the examiner's comments
 >
-> Both candidates understood the advantage. **The difference is entirely in whether the final consequence lands.**
+> The 3-mark candidate says that the business pays the bank less, saves money and could use it to improve the business. The 2-mark candidate says that borrowing costs fall and cash flow improves; the examiner comments that the additional statement about paying debts more easily is not developed in that response. These are item-specific explanations of two scripts, not a universal three-rung template or a requirement to end every Explain response with a business outcome.
 >
-> **2-mark answer:** advantage (pay less to borrow) → development (improves cash flow). **Stops.**
-> **3-mark answer:** advantage (not paying the bank as much) → development (saving money) → **consequence for the business (it can improve, more chance of survival)**.
->
-> **The 3-mark Explain has three rungs: the point, the mechanism, the outcome for the business.** The 2-mark answer stops one rung short — and the examiner names the missing rung precisely.
+> The report also reminds candidates that this question asks for one advantage, not several. Its cohort observation that some candidates wrote about effects on customers must be kept distinct from the matched MS, which separately accepts a customer-spending route linked to business turnover; the report comment is not treated as cancelling that MS route.
 
-**Also:** *"Candidates are reminded that the question asked for **one advantage not several advantages**."*
+**Examiner tip (this report):** *"To avoid wasting time do not repeat the question in the first sentence."* This is advice, not a universal prohibition on definitions or openings.
 
 ---
 
@@ -249,27 +246,21 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 > *"for those candidates that did not get the full allocation of marks this might be because they **gave more than one method**."*
 
 ### ⭐ 2 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.19; not present in the PDF text layer]**
 > *"A business could use job rotation to motivate its employees. Job rotation will provide a change in the workplace of its employees, as a result it could motivate them."*
 
 **Examiner comment:** *"The method of job rotation is valid and worthy of a mark, with **a justifiable reason** of giving employees a change in the workplace. **However, the response was not further developed to gain the extra mark available.**"*
 
 ### ✅ 3 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.20; not present in the PDF text layer]**
 > *"A business could use non financial methods to motivate employees This means that employees will be more challenging. This leads no the employees feeling trusted and valuable no the business as a large amount of work needed for the business is from them As a result the employee will feel wanted and also the business would be increasing its productivity."*
 
 **Examiner comment:** *"This response gives a method of **Job Enrichment**, followed by **development** of employees being more challenged, together with employees feeling trusted and valued."*
 
-> ### 🎯 THE 3-MARK EXPLAIN, DECOMPOSED
-> | Rung | 2-mark answer | 3-mark answer |
-> |---|---|---|
-> | **Method named** | job rotation | job enrichment |
-> | **Why it works** | *"provide a change in the workplace"* | *"employees will be more challenged… feeling trusted and valuable"* |
-> | **Business outcome** | ❌ missing | ✅ *"the business would be increasing its productivity"* |
->
-> ⭐ **Note both 3-mark answers in this paper end on a business outcome: productivity, satisfied customers, employee loyalty.** **The final rung is always *what the business gets*.**
+> ### The two awarded responses, as examples
+> The 2-mark response names job rotation and explains the change in workplace; the examiner says it needed further development. The 3-mark response identifies job enrichment and develops challenge and employees feeling trusted and valued. Its script also mentions productivity, but the examiner's comment does not make a business-outcome sentence a universal requirement. These scripts illustrate this item and its examiner comments; they do not prescribe a fixed sentence count or reasoning order.
 
-**⭐ Note also:** the candidate's answer contains **grammatical errors** (*"This leads no the employees"*, *"valuable no the business"*) and still scored **3/3**. **Examiners mark business content, not spelling and grammar.** Do not lose time proofreading for style.
+**The 3-mark script contains spelling/grammar errors and nevertheless received 3/3.** This is evidence about that awarded response only, not a claim that spelling and grammar never matter under other assessment conditions.
 
 ---
 
@@ -278,14 +269,14 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 > **Report guidance:** *"Another 'Explain' question which requires **knowledge** and **does not need to be in context**."*
 
 ### ✅ 3 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.21; not present in the PDF text layer]**
 > *"To avoid mistakes and maintain quality, this means that if call employees and trained to a standard across the business this avoids mistakes, as a result maintaining quality, leading to more satisfied customers, therefore building a qualified workforce."*
 
 **Examiner comment:** *"This response gained the full marks available. The response **avoided repeating the question in the answer** which is helpful. The reasons for fully trained staff are to **avoid mistakes, maintaining quality which leads to more satisfied customers**."*
 
 ### ✅ 3 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
-> *"To decrease safety risks / hazards. This is because if employees are trained they 're less likely to make less mistakes and be more safe and have safe working conditions Since they know now to do their job well. This may lead to none of the employees swing the business for unsafe working conditions meaning they 'll reduce their legal costs."*
+> **[script transcription visually checked against the local primary ER PDF, printed p.22; not present in the PDF text layer]**
+> *"To decrease safety risks / hazards. This is because if employees are trained they 're less likely to make less mistakes and be more safe and have safe working conditions Since they know now to do their job well. This may lead to none of the employees suing the business for unsafe working conditions meaning they 'll reduce their legal costs."*
 
 **Examiner comment:** *"The response refers to **decreased safety risks and hazards** as the reason for being fully trained. This is then further developed by **mistakes are less likely and employees will be safe**."*
 
@@ -296,21 +287,20 @@ Every entry: question text · candidate response verbatim · exact mark · exami
 ## Q2(e) — EXPLAIN why manufacturers use Kaizen — AO1, 3 marks
 
 ### ✅ 3 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.23; not present in the PDF text layer]**
 > *"To increase employee loyalty, this is because Kaizen is a Japanese term used to mean "continuous development"; this leads to employees feeling more valued as their opinions and suggestions are used to create improvements in the firm, there for more productive employees."*
 
 **Examiner comment:** *"A well developed response referring to **employees becoming more loyal** which is a valid reason and this is then developed by **employees opinions being valued to increase productivity**."*
 
 ### ✅ 3 marks
-> **[read from the printed script image — these words are not in the PDF's text layer, so they are a transcription, not a copy]**
+> **[script transcription visually checked against the local primary ER PDF, printed p.23; not present in the PDF text layer]**
 > *"to improve their product. This means that employees are given the chance to decide on how to improve the product since they are the ones making them. As a result businesses can continuously improve if they use Kaizen in their factories."*
 
 **Examiner comment:** *"Another well developed response indicating that **employees are involved in the decision on how to improve the manufacture of the products**."*
 
 **From the report:** *"Many candidates understood why manufacturing businesses use Kaizen in their factories **but then did not include the reasons why**… Most responses included the comment about **reducing waste**, which is relevant but then did not develop the comment further, perhaps including **involving employees more to give their opinion as they know how the machinery works**."*
 
-> **Kaizen — the examinable version:** **continuous improvement, involving all employees**, made in small incremental steps.
-> **The frequently-missed mark is the EMPLOYEE angle:** Kaizen works *because* the people doing the job are consulted. *"employees are the ones making them"* → they know how to improve it.
+> **Separate source commentary and interpretation:** the report says many candidates named waste reduction without developing why, and suggests explaining employee involvement because workers know how the machinery operates. That is the examiner's cohort-level suggestion. The two 3-mark scripts above show awarded routes through valued employee opinions or employee involvement in product improvement; neither makes a single employee-focused wording compulsory for every acceptable answer.
 
 ---
 

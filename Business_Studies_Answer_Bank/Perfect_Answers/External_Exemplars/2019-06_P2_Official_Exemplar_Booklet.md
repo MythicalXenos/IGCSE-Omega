@@ -66,7 +66,7 @@ This is the **third independent statement** of the same rule, and the first one 
 | **Paper 1 exemplar booklet** (gross profit margin) | *"This particular response gave three ways… therefore limiting the marks awarded to 1. Had the candidate explained any one of these three ways, then they would have gained further marks."* |
 | **Nov 2021 P1 ER** (measure of success) | *"Candidates who list more than one way of measuring business success can only gain one mark."* |
 
-**The rule:** on an *Explain* question, a list is worth **one mark**. Three undeveloped points score the same as one undeveloped point. **One point, developed twice, scores three.**
+**Item-specific MS guidance:** for these two Explain items, three undeveloped listed points receive no more than one mark. For full marks, develop one relevant point with two relevant expansions; the expansions need not follow one fixed sentence pattern.
 
 ### Exemplar response A — **3 marks**
 
@@ -109,11 +109,7 @@ Response B is a **single sentence**, but it is not short of content. It contains
 
 And it scored **1**.
 
-**Why?** Because marks 2 and 3 require **explanation**, not the naming of further consequences. Response B lumps four ideas into one sentence joined by "meaning" and "potentially", so none of them is explained.
-
-**The lesson:** the difference between "developing" and "adding" is the word **because**. Response A says *"This is because…"* and earns the development marks. Response B says *"meaning…"* and *"potentially…"* and earns one.
-
-> **The one-sentence Explain fix:** take your point and append **"…because…"**. If you cannot finish that sentence, you have identified a point but not explained it — which is one mark.
+**A cautious item-specific reading:** the commentary credits response A's relevant development and notes that response B's additional consequences were not developed sufficiently. This is the examiner's explanation of these two transcribed scripts, not a universal rule about particular linking words, sentence count, or answer shape. Explain answers may develop the point in different ways; use the actual item's MS.
 
 ---
 
@@ -196,9 +192,7 @@ Response B is **well written**. It has a clear chain: *increase customers → fe
 
 ### ⭐ "NB No marks are awarded for a definition."
 
-A blunt, official rule. On an **Explain** question, defining the term earns **nothing**. This is a very common time-waster: candidates open with *"Job production is when a business makes one item at a time to a customer's specification…"* and get no credit for it.
-
-**Do not define. Start with the reason.**
+This is an **item-specific** note in the job-production MS: a definition by itself earns no mark on this question. It does not establish that opening definitions are universally forbidden on Explain items. The answer must address a reason for using job production; the MS's credited route identifies a unique piece of work and develops how it meets the customer's exact needs and uses employee time and skill.
 
 ### Exemplar response A — **2 marks**
 
@@ -658,7 +652,7 @@ The candidate **did** write a conclusion. It contains *"But the success of them 
 | **E9** | **Apply to the subject the question names.** *"Why might Yellow encourage…"* → the answer lands on Yellow, not the manufacturer. | Q2R Q1(g), examiner's opening remark |
 | **E10** | **If a question says "in Figure 2", general reasoning about the figure earns less than naming one number from it.** | Q3(d): 3/6 (named a fact) vs 2/6 (named none) |
 | **E11** | **Analysis must terminate in a business consequence.** *"may lose customers"* is not an outcome. | Q2(f) response B, 4/9 |
-| **E12** | **Explain = a three-link chain.** Identify (1) + development (1) + development (1). Two links = 2 marks, always. | Q2(d) responses A and B, both 2/3 |
+| **E12** | **Explain:** one relevant point plus two relevant expansions is the applicable general guidance; expansions can develop the point flexibly. The precise criteria and any item-specific note come from that item's MS. | Q1(f), Q2(d) MS; Q2(d) scripts A and B, both transcribed at 2/3 |
 
 ---
 
