@@ -148,7 +148,11 @@ fixed costs and revenue
 
 D is not the correct answer as 18 000 units is above the break-
 
-(1)   even point
+even point
+
+**Source anomaly — preserve official MS wording:** the MS says option C is not correct while describing 8,000 units; the QP labels 8,000 as B. This appears to be a distractor-letter typo, not an error in the keyed answer (C, 10,000 units).
+
+**Teaching clarification (not Pearson wording):** break-even is where revenue intersects total costs, at approximately 10,000 units on the supplied graph. The 8,000-unit point is where revenue intersects fixed costs.
 
 Q. No.   Which one of the following is a financial method of motivation?   Mark
 

@@ -55,6 +55,9 @@ AO2 = 1 mark
 
 D – Could charge lower prices
 
+**Apparent source anomaly — official MS key preserved:** the QP changes the rate from 1 Rupee = 0.032 AED to 1 Rupee = 0.042 AED. On the stated 6,000-rupee unit cost, the Dubai store’s dirham cost rises from AED192 to AED252. The printed MS key “D – Could charge lower prices” is not supported by that direction; “higher variable costs” (B) is a direct possible effect. No replacement key or candidate award is inferred.
+
+**Teaching clarification (not Pearson wording):** show the direction explicitly: more dirhams are needed per rupee, so a fixed rupee-denominated purchase costs more AED; any final effect on retail pricing/profit depends on the business’s response.
 
 ### `1(a)(v)` — 1 mark (AO1:1)
 
