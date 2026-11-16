@@ -244,7 +244,7 @@ You are advised to show your working.
 
 A02 - 2 marks
 
-*Award 2 marks for the correct response of 7 000*
+*Award 2 marks for the correct response of 7 000 (2)*
 
 OR
 
@@ -635,7 +635,7 @@ might be concerned with shareholder satisfaction.
 
 Shareholders may continue to invest in Apple (1) allowing Apple
 
-to design/release new iPhones
+to design/release new iPhones (1)
 
 *NB To award 2 marks there must be linked points and evidence of*
 
@@ -658,13 +658,13 @@ show your working.
 
 A02 - 2 marks
 
-*Award 2 marks for the correct response of 15%*
+*Award 2 marks for the correct response of 15% (2)*
 
 OR
 
 *Award 1 mark for correctly substituting numbers into formula*
 
-150/1000 × 100
+150/1000 × 100 (1)
 
 Q. No.   Analyse the advantages for Apple of being a multinational   Mark
 
@@ -841,7 +841,7 @@ You are advised to show your working.
 
 A02 - 2 marks
 
-*Award 2 marks for the correct answer of 2.53*
+*Award 2 marks for the correct answer of 2.53 (2)*
 
 OR
 
@@ -849,7 +849,7 @@ OR
 
 60 000 + 16 000 / 30 000 (1) or
 
-76 000 / 30 000
+76 000 / 30 000 (1)
 
 Q. No.   Analyse the disadvantages for Apple of using flow production   Mark
 
