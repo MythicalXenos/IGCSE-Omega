@@ -377,7 +377,11 @@ def main() -> int:
     print("LABELLING — every model answer carries its own label")
     print("=" * 74)
     cb = (HERE / "Perfect_Answers" / "10_Chain_Bank.md").read_text(encoding="utf-8")
-    ok_label = ("`[CONSTRUCTED GRADE 9 TARGET]`", "`[OFFICIAL MARK-SCHEME WORKED ANSWER]`")
+    ok_label = (
+        "`[CONSTRUCTED GRADE 9 TARGET]`",
+        "`[OFFICIAL MARK-SCHEME WORKED ANSWER]`",
+        "`[MS-ALIGNED MODEL ANSWER]`",
+    )
     model_lines = [l for l in cb.split("\n") if re.match(r"^> \*\*Model answer", l)]
     unlabelled = [l for l in model_lines if not any(t in l for t in ok_label)]
     print(f"  model-answer lines: {len(model_lines)}   carrying their own label: "

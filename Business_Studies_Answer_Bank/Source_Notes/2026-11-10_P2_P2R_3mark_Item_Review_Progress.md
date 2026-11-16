@@ -2,7 +2,7 @@
 
 **Review date:** 10 November 2026 (UTC)
 **Scope:** 17 usable P2/P2R papers; four three-mark Explain items per paper (1(f), 2(c), 2(d), 2(e)). May–June 2020 P2/P2R remains quarantined and excluded. P1/P1R is outside scope.
-**Status:** Actual-QP inventory reconciled: **68/68** prompts (17 × 4). Substantive QP/MS/model/guidance review: **16/68 complete; 52 pending**. Batch 1 (the four November P2 papers) is complete as recorded below. The fact that the wider bank already has topic entries for many prompts is coverage, not proof that the item-level substantive review is complete.
+**Status:** Actual-QP inventory reconciled: **68/68** prompts (17 × 4). Substantive QP/MS/model/guidance review: **24/68 complete; 44 pending**. Batch 1 (the four November P2 papers) and Batch 2 (June 2026 P2/P2R) are complete as recorded below. The fact that the wider bank already has topic entries for many prompts is coverage, not proof that the item-level substantive review is complete.
 
 ## Review standard
 
@@ -14,14 +14,14 @@ The actual QP PDFs in `Paperlords_Archive/IGCSE/4BS1_Business_Studies/` were sca
 
 | Paper | Item | QP PDF folio | Actual QP prompt | Substantive status |
 |---|---:|---:|---|---|
-| June 2026 P2R | 1(f) | 7 | (f) Explain one advantage for a shareholder of having limited liability. (3) | Pending |
-| June 2026 P2R | 2(c) | 9 | (c) Explain one advantage for a business of using temporary employees. (3) | Pending |
-| June 2026 P2R | 2(d) | 10 | (d) Explain one advantage of on-the-job training for a business. (3) | Pending |
-| June 2026 P2R | 2(e) | 10 | (e) Explain one disadvantage for an entrepreneur of using venture capital to start a business. (3) | Pending |
-| June 2026 P2 | 1(f) | 6 | (f) Explain one reason why packaging may be important for a business. (3) | Pending |
-| June 2026 P2 | 2(c) | 8 | (c) Explain one advantage for a business of having a strong brand. (3) | Pending |
-| June 2026 P2 | 2(d) | 9 | (d) Explain one advantage for a business of using quality control. (3) | Pending |
-| June 2026 P2 | 2(e) | 9 | (e) Explain one reason why a business needs to follow legal controls for equal opportunities. (3) | Pending |
+| June 2026 P2R | 1(f) | 7 | (f) Explain one advantage for a shareholder of having limited liability. (3) | Reviewed in Batch 2 |
+| June 2026 P2R | 2(c) | 9 | (c) Explain one advantage for a business of using temporary employees. (3) | Reviewed in Batch 2 |
+| June 2026 P2R | 2(d) | 10 | (d) Explain one advantage of on-the-job training for a business. (3) | Reviewed in Batch 2 |
+| June 2026 P2R | 2(e) | 10 | (e) Explain one disadvantage for an entrepreneur of using venture capital to start a business. (3) | Reviewed in Batch 2 |
+| June 2026 P2 | 1(f) | 6 | (f) Explain one reason why packaging may be important for a business. (3) | Reviewed in Batch 2 |
+| June 2026 P2 | 2(c) | 8 | (c) Explain one advantage for a business of having a strong brand. (3) | Reviewed in Batch 2 |
+| June 2026 P2 | 2(d) | 9 | (d) Explain one advantage for a business of using quality control. (3) | Reviewed in Batch 2 |
+| June 2026 P2 | 2(e) | 9 | (e) Explain one reason why a business needs to follow legal controls for equal opportunities. (3) | Reviewed in Batch 2 |
 | May-June 2019 P2R | 1(f) | 5 | (f) Explain one advantage for a business of having loyal customers. (3) | Pending |
 | May-June 2019 P2R | 2(c) | 7 | (c) Explain one benefit to a business of retaining its employees. (3) | Pending |
 | May-June 2019 P2R | 2(d) | 7 | (d) Explain one advantage for a business of using targeted advertising online. (3) | Pending |
@@ -83,6 +83,23 @@ The actual QP PDFs in `Paperlords_Archive/IGCSE/4BS1_Business_Studies/` were sca
 | November 2025 P2 | 2(d) | 10 | (d) Explain one limitation of a break-even chart. (3) | Reviewed in Batch 1 |
 | November 2025 P2 | 2(e) | 10 | (e) Explain one benefit to a business of being located within a trading bloc. (3) | Reviewed in Batch 1 |
 
+## Batch 2 — June 2026 P2/P2R papers (8 items complete)
+
+**Actual QP/MS review:** the June 2026 P2 and P2R QPs and their matching MSs were checked for all four listed Explain (3) items each. The prompts, beneficiaries and tasks in the inventory match the printed QPs. The local archive's June 2026 P2/P2R QP/MS cover and printed-code matching is recorded in the handoff. Each item is AO1, 3 marks. The linked answer and adjacent item guidance in `Perfect_Answers/10_Chain_Bank.md` were checked and corrected where needed; author-created models are labelled MS-aligned, not Pearson worked answers. No awarded candidate script is claimed for this batch.
+
+| Item | Official MS route(s) and task/beneficiary check | Bank answer/guidance reviewed | Commentary / source note |
+|---|---|---|---|
+| June 2026 P2R 1(f) | Advantage **for a shareholder**: less risk → only the investment can be lost → personal assets are not lost. This is not a business-finance benefit prompt. | Entry 9 now gives the matched route and a concise MS-aligned model. Its adjacent note distinguishes shareholder from business benefits and confines the no-definition statement to the cited items. | No June 2026 report commentary was assessed in this batch. This does not establish that no report or commentary exists. |
+| June 2026 P2R 2(c) | Advantage **for a business** using temporary employees: flexibility → reduce worker numbers when demand is low → lower costs; or specialist/innovative skills → address specific challenges → maintain productivity/efficiency. | Entry 10 now records both official routes; the model follows the flexibility route. Unsupported seasonal/redundancy assumptions were removed. | Same commentary-scope limit as above. |
+| June 2026 P2R 2(d) | Advantage **for a business**: relatively cheap → no travel costs/training by another employee → save/reduce costs; or efficient acquisition of practical skills → learning in the work environment → may improve workplace productivity. | Entry 11 now records both routes and uses a model on the low-cost route. The nearby training warning is explicitly item-specific, not a fixed Explain rule. | The MS’s introductory allocation sentence says “plus 2 further marks for explaining the limitations” although the question asks for an advantage and both bullets give advantages. Preserve this as an apparent internal wording anomaly; the printed allocation sentence is not treated as changing the question or the two listed routes. |
+| June 2026 P2R 2(e) | Disadvantage **for an entrepreneur**: may lose control → gives away a share → must consult others before decisions; or shares future profits → keeps a smaller proportion → less personal income. | Entry 93 now records both official disadvantage routes separately from the older, different-beneficiary advantage prompt. The June 2026 disadvantage model is labelled MS-aligned. | The adjacent advantage example is from May/June 2024 P1R, outside this review scope; this batch makes no item-level certification of that P1R answer. |
+| June 2026 P2 1(f) | Reason packaging may be important **for a business**: protects goods → particularly if fragile/easily broken → safe delivery; or attracts consumers → those concerned with aesthetics → may persuade purchase. These are alternative routes. | Entry 56 now lists both MS routes; its model develops protection only and no longer presents attraction as a required continuation. | No June 2026 report commentary was assessed. |
+| June 2026 P2 2(c) | Advantage **for a business** with a strong brand: product/service easily recognisable → customers may choose it over competitors → high sales revenue. | Entry 55 now reflects the actual prompt and the matched route; model labelled MS-aligned. | Same commentary-scope limit. |
+| June 2026 P2 2(d) | Advantage **for a business** using quality control: check at end of production line → remove defective products before shipment → satisfied customers. | Entry 8 now gives the official route and an MS-aligned model; optional consequences are not represented as extra required marks. The adjacent TQM caution no longer prescribes a definition-first format. | Same commentary-scope limit. |
+| June 2026 P2 2(e) | Reason a business needs to follow **legal controls for equal opportunities**: may be fined → if employees are not treated fairly/equally → poor business reputation. This is a reason, not a method of ensuring equality. | Entry 39 now distinguishes this prompt from the nearby “one way” item. The model adds a further possible reputation consequence, explicitly treated as constructed elaboration beyond the official route. | Same commentary-scope limit. |
+
+The retained November commentary files concern the specified 2021/2023/2024 sessions, not these June 2026 papers; their comments were not imported into this batch. This scope statement is not a claim that no June 2026 ER exists. No further visual ER verification was undertaken here.
+
 ## Batch 1 — November P2 papers (16 items complete)
 
 **Actual QP/MS review:** all four QPs and all four same-session MSs for November 2021, 2023, 2024 and 2025 P2 were checked for 1(f), 2(c), 2(d), 2(e). The QP prompts/pages are in the inventory. Every item is AO1 Explain (3); the relevant MS content and the current bank mapping/corrections are summarized here. For the entries reviewed in this batch, verbatim official MS routes, author-written MS-aligned models and constructed answers are distinguished by label/heading; none is presented as an awarded candidate script. This finding does not certify legacy labels elsewhere in `10_Chain_Bank.md`.
@@ -117,4 +134,4 @@ The Q1(g) “Level 2 – 5 marks” transcription in `Perfect_Answers/External_E
 
 ## Remaining work
 
-**Substantive pending: 52/68.** The remaining QP-confirmed items are the four 3-mark Explain prompts on each of these 13 papers: May–June 2019 P2/P2R; May–June 2021 P2; May–June 2022 P2/P2R; May 2023 P2/P2R; May–June 2024 P2/P2R; May–June 2025 P2/P2R; and June 2026 P2/P2R. Their exact QP prompt and folio are in the inventory above. For each, review matched MS route(s), beneficiary and task, linked answer and attached guidance. Keep May–June 2020 quarantined, the June 2022 P2R printed-code caveat open, and P1/P1R out of scope. When further examiner commentary is found, record it separately as commentary with transcription and primary-verification limits; do not call a missing local file proof of non-publication.
+**Substantive pending: 44/68.** The remaining QP-confirmed items are the four 3-mark Explain prompts on each of these 11 papers: May–June 2019 P2/P2R; May–June 2021 P2; May–June 2022 P2/P2R; May 2023 P2/P2R; May–June 2024 P2/P2R; and May–June 2025 P2/P2R. Their exact QP prompt and folio are in the inventory above. For each, review matched MS route(s), beneficiary and task, linked answer and attached guidance. Keep May–June 2020 quarantined, the June 2022 P2R printed-code caveat open, and P1/P1R out of scope. When further examiner commentary is found, record it separately as commentary with transcription and primary-verification limits; do not call a missing local file proof of non-publication. The June 2024 P2R Jimmy Choo Q1(g) report transcription still needs visual comparison with the printed primary page; no marking-band inference may be made from its single verdict.

@@ -308,10 +308,12 @@ REMAINING                :    0 topics  ·    0 blocks
 
 **Asked:** *"Explain one advantage for a business of using **quality control**."* — June 2026 P2
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Quality control means **inspecting the finished product and removing the ones that fail the standard**. This stops faulty goods reaching customers, so the business does not have to replace them or refund them. **This reduces the cost of returns and replacements, and it protects the business's reputation**, so customers keep buying and the brand can charge a higher price.
+> **Official MS worked route (June 2026 P2, 2(d); AO1, 3 marks):** the business checks products at the end of the production line (1) → defective products are removed before shipment (1) → customers should be satisfied (1).
 
-**Second acceptable chain:** quality control → **faulty items caught before despatch** → fewer customer complaints → **less damage to reputation and fewer refunds**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A business can use quality control to check products at the end of the production line. It can remove defective items before they are shipped to customers. This should help ensure that customers receive satisfactory products.
+
+**Another possible development:** catching defects before despatch may reduce complaints or replacement costs; use one relevant route, not a required extra sentence.
 
 > ### 🚨 THREE TRAPS, ALL DOCUMENTED
 > **1.** *"Quality control will increase the competition"* — a real candidate answer, **0 marks**. Quality control does not create competitors.
@@ -321,57 +323,49 @@ REMAINING                :    0 topics  ·    0 blocks
 > | **Quality control** | at the **end** — inspection and removal | an inspector |
 > | **Quality assurance** | **during** — built into every stage | everyone in production |
 > | **TQM** | **throughout the whole business**, including suppliers | the whole organisation |
-> **3.** ⚠️ **A wrong opening premise poisons the consequences.** A June 2025 answer wrote *"Total quality management gives a business a better name... This will increase profit"* and scored **0**, because *"there is **no understanding of TQM demonstrated** in the response therefore the reference to 'increased customer satisfaction' is **not awarded**."* **Get the definition right before developing it.**
+> **3.** ⚠️ **Use business terms accurately.** A June 2025 answer about TQM scored **0** because the examiner found no understanding of TQM; its reference to customer satisfaction was therefore not credited. This is an item-specific warning about the meaning used in that answer, not a requirement to begin with a definition.
 
 ---
 
 ## 9. Limited liability — advantage for a shareholder
 
-**Asked:** *"Explain one advantage for a **shareholder** of having **limited liability**."* — June 2026 P2R
+**Asked:** *"Explain one advantage for a shareholder of having limited liability."* — June 2026 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Limited liability means a shareholder can only lose the money they invested in the company's shares; they are not personally responsible for its debts. **If the company fails, a shareholder's personal possessions are safe** — their house, car and savings cannot be claimed by the company's creditors. **This makes investing far less risky**, so shareholders are willing to put money in, and the business can raise more capital than an unlimited owner could.
+**Official MS worked route (June 2026 P2R, 1(f); AO1, 3 marks):** less risk to the shareholder (1) → they can lose only the amount invested (1) → they will not lose personal assets (1).
 
-**Second acceptable chain:** limited liability → **risk limited to the investment** → more people willing to buy shares → **business raises more finance for growth**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A shareholder faces less risk because they can lose only the amount invested in the business. If the business fails, they will not lose personal assets such as their home or savings to repay its debts.
 
-**The same topic is asked about the OTHER party — and this bank maps that block here, so it is answered here too.**
+**Also asked about a different beneficiary:** *"Explain one advantage to a business of having limited liability."* — November 2024 P1, 1(f). Its MS includes separate business-oriented routes: separate legal entity can protect owners' personal assets if the business incurs debt; or selling shares may raise finance for expansion because shareholders' risk is limited.
 
-**Asked:** *"Explain one advantage **to a business** of having **limited liability**."* — **November 2024 P1, 1(f)**. The scheme awards **two chains, and both are written from the business's side:**
-
-* **As the business exists as a separate legal entity (1)** → if the business goes into debt (1) → **this means the business owners are protected from losing their personal assets (1)**
-* **The business may raise large amounts of finance through selling shares (1)** → as investors only risk losing the value of their shares if the business fails (1) → **therefore the added finance will help the business to expand (1)**
-
-> ⚠️ **The scheme adds, in its own words: "NB No marks are awarded for a definition."** Both versions of this question are 3-mark Explain, so all three marks come from the **chain** — saying what limited liability *means* earns nothing.
-
-> ⚠️ **Read who the question asks about — this topic is asked BOTH ways, and the two answers overlap without matching.** **June 2026 P2R asks about the shareholder** (model above); **Nov 2024 P1 1(f) asks about the business** (chains above). On the shareholder wording, *"the business can raise more finance"* is a **business** benefit and earns nothing; on the business wording, the scheme's own first chain is about the owners being protected, so **do not assume "the owners are protected" is off-topic — the scheme awards it.** Rule 102 — relevance by party — is the fault documented **five times** in the examiner reports.
+> ⚠️ Both cited schemes say no marks are awarded for a definition on their respective items. This is item-specific guidance; it does not make an opening definition universally forbidden. Keep shareholder benefits distinct from business benefits: raising finance is a business outcome, not the requested direct benefit to a shareholder. The Nov 2024 report's beneficiary/task is not the June 2026 P2R prompt.
 
 ---
 
 ## 10. Temporary employees — advantage for a business
 
-**Asked:** *"Explain one advantage for a business of using **temporary employees**."* — June 2026 P2R
+**Asked:** *"Explain one advantage for a business of using temporary employees."* — June 2026 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> Temporary employees are on short fixed-term contracts rather than permanent ones. **This lets the business take on staff only for a busy period, such as the weeks before Christmas**, so it is not paying wages in the quiet months when there is no work for them. **This makes the wage bill flexible and lowers costs**, and the business does not owe redundancy pay when the busy period ends.
+**Official MS worked routes (June 2026 P2R, 2(c); AO1, 3 marks):** flexibility (1) → when demand is low, the business can reduce the number of workers (1) → lower costs (1); or temporary employees may bring specialist/innovative skills (1) → help resolve specific problems/challenges (1) → maintain productivity and efficiency (1).
 
-**Second acceptable chain:** temporary staff → **fresh skills brought in for a specific project** → permanent staff learn from them → **capability improves without a long-term salary commitment**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Temporary employees give a business flexibility. When demand is low, the business can reduce its temporary workforce. This can lower labour costs while less staff are needed.
 
-> ⚠️ **The mark earner is the *flexibility of cost*, not "it is cheaper".** Anyone can be paid less; the point of a temporary contract is that you stop paying when you stop needing.
+> Use the question's requested **business advantage**. Do not assume a particular busy season, redundancy arrangement or wage saving unless supported by the paper/MS.
 
 ---
 
 ## 11. On-the-job training — advantage for a business
 
-**Asked:** *"Explain one advantage **of on-the-job training for a business**."* — June 2026 P2R
+**Asked:** *"Explain one advantage of on-the-job training for a business."* — June 2026 P2R
 
-> **Model answer — 3 marks** `[CONSTRUCTED GRADE 9 TARGET]`
-> On-the-job training means the employee learns while doing the actual job, usually supervised by an experienced colleague. **The business pays no external trainer or course fees**, and the employee is producing output while they learn. **This means the business gains a more capable worker at almost no direct cost**, and what they learn is exactly what this business's equipment and processes require.
+**Official MS worked routes (June 2026 P2R, 2(d); AO1, 3 marks):** relatively cheap training (1) → no travel costs/training is provided by another employee (1) → business can reduce training costs/save money (1); or employees gain practical skills/knowledge efficiently (1) → learn in the work environment (1) → may improve workplace productivity (1).
 
-**Second acceptable chain:** on-the-job training → **training matches this firm's own methods** → the employee becomes useful faster → **productivity rises sooner than after an off-the-job course**.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> On-the-job training may be relatively cheap for a business. It can be delivered by another employee, so the business may not need to pay for staff travel to an external course. This can reduce training costs.
 
-> ### ⚠️ ANSWER THE QUESTION ASKED, NOT THE NEAREST ONE
-> **The question says "for a business."** A June 2022 candidate answered about the **employee** (*"less stressful… flexibility"*) and was marked down for it. **Benefits to the trainee score nothing here.**
-> ⭐ **And the mirror-image trap**, from a June 2026 P1R answer on off-the-job training: candidates *"described in depth what off-the-job training **was**"* — a description of the method is knowledge the question did not ask for.
+> ### ⚠️ Keep the beneficiary exact
+> The prompt asks for an advantage **for a business**. A trainee-side point should be linked to a business benefit if used. The separate report note about candidates describing training rather than explaining it is item-specific; do not turn it into a fixed sentence or mechanism rule.
 
 ---
 
@@ -804,7 +798,16 @@ The answers above illustrate recurring reasoning moves: identify a relevant poin
 
 **Second chain:** advertise vacancies **where all sections of the community will see them** → a wider range of people applies → **the business can choose the best person rather than the nearest one**.
 
-> ⚠️ **"One way" means a method, not a benefit.** Describe **what the business does** (uses the same criteria · advertises widely · trains managers on bias · monitors promotion rates) and then **why it matters**. Answering with a benefit where a method was asked is a command-word failure.
+> ⚠️ **"One way" means a method, not a reason for legal compliance.** Describe what the business does and why it matters; do not substitute this answer for the distinct legal-controls prompt below.
+
+**Also asked:** *"Explain one reason why a business needs to follow legal controls for equal opportunities."* — June 2026 P2, 2(e). This is a **reason**, not a method of ensuring equal opportunities.
+
+**Official MS worked route (June 2026 P2, 2(e); AO1, 3 marks):** the business may be fined by government/courts (1) → if it does not treat employees fairly/equally (1) → resulting in poor business reputation (1).
+
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A business may be fined by the government or courts for not treating employees fairly or equally. This legal penalty could harm the business’s reputation. A poor reputation may make it harder to attract employees or customers.
+
+The fine and reputation route is the official example; the final effect is a constructed elaboration. A definition of equal opportunities is not required for this question.
 
 ---
 
@@ -1085,10 +1088,12 @@ Use the research to **set the price** → the business knows what customers are 
 
 ## 55. Branding — why it is **important** / one **advantage of a strong brand**
 
-**Asked:** *"Explain one advantage of having a strong brand."* — June 2026 P2 · *"Explain one reason why branding is important to businesses."* — May 2023 P2R
+**Asked:** *"Explain one advantage for a business of having a strong brand."* — June 2026 P2 · *"Explain one reason why branding is important to businesses."* — May 2023 P2R
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> With a strong brand the **product or service is easily recognisable** (1) — customers spot it instantly among competitors' goods. **This may lead customers to choose the business over its competitors** (1), even when the price is higher. **This leads to high levels of sales revenue** (1), and it means the business does not have to compete only on price.
+**Official MS worked route (June 2026 P2, 2(c); AO1, 3 marks):** the product/service is easily recognisable (1) → customers may choose the business over competitors (1) → high sales revenue (1).
+
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> A strong brand makes the product or service easily recognisable to customers. They may then choose it instead of a competitor’s product. This can lead to higher sales revenue for the business.
 
 **The chain, broken out**
 1. **Recognisable / differentiated** — the customer can tell it apart.
@@ -1108,21 +1113,14 @@ Use the research to **set the price** → the business knows what customers are 
 
 ## 56. Packaging — why it is **important**
 
-**Asked:** *"Explain one reason why packaging is important to a business."* — June 2026 P2
+**Asked:** *"Explain one reason why packaging may be important for a business."* — June 2026 P2
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]`
-> The packaging **protects the goods** (1) — that is its first job, and the scheme's own opening point. **This matters particularly if the goods are fragile or easily broken** (1) in transit or on the shelf. **This should ensure the goods are delivered safely to the customer** (1), so the business does not lose money replacing damaged stock or lose the customer altogether.
+**Official MS worked routes (June 2026 P2, 1(f); AO1, 3 marks):** packaging may protect goods (1) → fragile/easily broken goods (1) → safe delivery to the customer (1); or packaging may attract consumers (1) → consumers concerned with product aesthetics (1) → may persuade them to purchase (1).
 
-**The chain, broken out**
-1. **Protects the product** — the physical function.
-2. **Because the goods are fragile / must survive handling** — why protection matters here.
-3. **They arrive in good condition** — the consequence: no waste, no replacements, no lost sale.
+> **MS-aligned model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]`
+> Packaging can protect fragile or easily broken goods. This reduces the chance of damage during handling and transport, helping ensure the products are delivered safely to the customer.
 
-**A second acceptable route** *(scheme, same question)*
-**Packaging attracts consumers** (1) → **customers who care about how a product looks** (1) → **it may persuade the consumer to purchase it** (1).
-
-> ⭐ **Packaging has three separate jobs and you should pick the one that chains best:** **protect** the product · **attract** the customer · **inform** them (ingredients, instructions, warnings, and legally required information). **Attract** is the strongest route in a competitive market, because it is the only one that changes a buying decision.
-> ⚠️ **`NB No marks are awarded for a definition.`** Do not write *"packaging is the material wrapped around a product."*
+> ⚠️ The June 2026 P2 MS says no marks are awarded for a definition on this item. Answer the requested reason; a definition is not required. Both protection and attraction are official routes, not compulsory parts of one answer.
 
 ---
 
@@ -1938,12 +1936,14 @@ These are one way to develop the point, not a compulsory sequence; the separate 
 
 ## 93. **Venture capital** — one advantage or one disadvantage
 
-**Asked:** *"Explain one advantage of using a venture capitalist."* — May/June 2024 P1R · *"Explain one disadvantage for an entrepreneur of using venture capital to start their business."* — June 2026 P2R
+**Asked:** *"Explain one advantage of using a venture capitalist."* — May/June 2024 P1R · *"Explain one disadvantage for an entrepreneur of using venture capital to start a business."* — June 2026 P2R
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]` — **advantage**
-> **Venture capitalists can be specialists** (1) — they bring more than money. **They may bring skills and new ideas to the business** (1), from having backed similar businesses before. **Giving it a greater chance of success** (1), particularly where the owner is strong on the product and weak on the business side.
+**Official MS worked routes (June 2026 P2R, 2(e); AO1, 3 marks):** the entrepreneur may lose control (1) → gives a share of the business away (1) → must consult others before decisions (1); or must share future profits (1) → keeps a smaller proportion (1) → receives less personal income (1).
 
-> **Model answer — 3 marks** `[OFFICIAL MARK-SCHEME WORKED ANSWER]` — **disadvantage**
+> **Existing answer — separate advantage prompt, May/June 2024 P1R (outside this review; source alignment not rechecked)**
+> Venture capitalists can be specialists — they bring more than money. They may bring skills and new ideas to the business, from having backed similar businesses before. This may give it a greater chance of success, particularly where the owner is strong on the product and weak on the business side.
+
+> **Model answer — 3 marks** `[MS-ALIGNED MODEL ANSWER]` — **disadvantage**
 > **The entrepreneur may lose some control of the business** (1) — the venture capitalist becomes a part-owner. **Because they give a share of the business away** (1) in exchange for the investment. **So they will have to consult others before making decisions** (1), and they can no longer simply do as they wish.
 
 **The chain, broken out**
